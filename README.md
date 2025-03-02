@@ -109,7 +109,7 @@ This script adopts expert-generated prompts.
 
 ## Datasets <a name="datasets"></a>
 
-### ClinDiag-Benchmark (n=4,420) <a name="benchmark"></a>
+### ClinDiag-Benchmark (n=4,421) <a name="benchmark"></a>
 
 `./benchmark_dataset.zip`
 
