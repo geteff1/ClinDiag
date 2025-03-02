@@ -106,6 +106,6 @@ This script adopts expert-generated prompts.
 
 ## Datasets <a name="datasets"></a>
 
-**ClinDiag-Benchmark** (`./benchmark_dataset/`, n=4,420): a comprehensive clinical dataset comprising 4,420 real-world cases, encompassing both rare and common diseases across 32 specialties.
+**ClinDiag-Benchmark** (`./benchmark_dataset/`, n=4,420): a comprehensive clinical dataset comprising 4,421 real-world cases, encompassing both rare and common diseases across 32 specialties.
 
 **Standardized Patients** (`./human_examiner_scripts/`, n=35): a set of 35 patient scripts sourced from the hospital’s Objective Structured Clinical Examination (OSCE) test dataset for standardized patient training.
