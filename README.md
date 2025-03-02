@@ -16,7 +16,10 @@ This is the official repo for the paper [**ClinDiag: Grounding Large Language Mo
         * [Critic agent](#critic)
         * [Expert prompt](#expert)
 3. [Datasets](#datasets)
-    
+    * [ClinDiag-Benchmark](#benchmark)
+    * [Standardized Patients](#patients)
+    * [Fine-Tuning Data](#fine-tune)
+
 
 ## Installation <a name="installation"></a>
 
@@ -106,6 +109,48 @@ This script adopts expert-generated prompts.
 
 ## Datasets <a name="datasets"></a>
 
-**ClinDiag-Benchmark** (`./benchmark_dataset/`, n=4,420): a comprehensive clinical dataset comprising 4,421 real-world cases, encompassing both rare and common diseases across 32 specialties.
+### ClinDiag-Benchmark (n=4,420) <a name="benchmark"></a>
 
-**Standardized Patients** (`./human_examiner_scripts/`, n=35): a set of 35 patient scripts sourced from the hospital’s Objective Structured Clinical Examination (OSCE) test dataset for standardized patient training.
+`./benchmark_dataset.zip`
+
+(To uncompress, run `unzip benchmark_dataset.zip` in the root directory)
+
+A comprehensive clinical dataset comprising 4,421 real-world cases, encompassing both rare and common diseases across 32 specialties.
+
+### Standardized Patients (n=35) <a name="patients"></a>
+
+`./human_examiner_scripts/`
+
+A set of 35 patient scripts sourced from the hospital’s Objective Structured Clinical Examination (OSCE) test dataset for standardized patient training.
+
+### Fine-Tuning Data (n=7,616) <a name="fine-tune"></a>
+
+`./finetune_data.zip`
+
+(To uncompress, run `unzip finetune_data.zip` in the root directory)
+
+The multi-turn chat dataset used for fine-tuning a chat model. Each conversation example was constructed from a quality-checked real-world case and structured to adhere to standard clinical diagnostic practice. The data is available in both `jsonl` and `json` formats. 
+
+`finetune_data_messages.jsonl`:
+```json
+{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
+{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
+```
+
+`finetune_data_conversations.json`:
+```json
+{
+    "conversations": [
+        [
+            {"from": "system", "value": "..."},
+            {"from": "user", "value": "..."},
+            {"from": "assistant", "value": "..."},
+        ],
+        [
+            {"from": "system", "value": "..."},
+            {"from": "user", "value": "..."},
+            {"from": "assistant", "value": "..."},
+        ]
+    ]
+}
+```
