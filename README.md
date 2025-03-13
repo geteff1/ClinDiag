@@ -2,6 +2,7 @@
 
 This is the official repo for the paper [**ClinDiag: Grounding Large Language Model in Clinical Diagnostics**](https://github.com/geteff1/ClinDiag).
 
+- Demo website: https://clindiag.streamlit.app/
 
 ## Table of Contents
 
