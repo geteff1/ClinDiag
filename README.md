@@ -64,7 +64,7 @@ The tags will be used to filter selected model(s) for each stage, see `parse_arg
 This script implements a human-LLM collaboration framework where LLMs serve as an assistant to answer physician's questions.
 
 ```bash
-(clindiag) python code/test_human_llm_case.py --data_dir benchmark_dataset
+(clindiag) python code/test_human_llm.py --data_dir benchmark_dataset
 ```
 
 ### Human Alone <a name="human"></a>
