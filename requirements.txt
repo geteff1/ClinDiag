@@ -1,2 +1,5 @@
-dashscope
 autogen-agentchat~=0.2
+pyautogen==0.8.6
+openai==1.72.0
+dashscope
+tqdm
