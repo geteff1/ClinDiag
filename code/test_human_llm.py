@@ -25,7 +25,7 @@ class CustomModelClient:
     """
     def __init__(self, config, **kwargs):
         print(f"CustomModelClient config: {config}")
-        self.model = config.get("model", "qwen2.5-72b-instruct")
+        self.model = config.get("model", "")
         self.api_key = config.get("api_key", os.getenv("DASHSCOPE_API_KEY"))
 
         # params are set by the user and consumed by the user since they are providing a custom model
@@ -56,18 +56,20 @@ class CustomModelClient:
                 result_format='message',
                 temperature=0.3,
             )
-            if res.status_code == 200:
-                text = res.get("output", {}).get("choices", [{}])[0].get("message", {}).get("content", "")
-                choice = SimpleNamespace()
-                choice.message = SimpleNamespace()
-                choice.message.content = text
-                choice.message.function_call = None
-                response.choices.append(choice)
-            else:
-                print(f"HTTP status code：{res.status_code}")
-                print(f"Error code：{res.code}")
-                print(f"Error messgae：{res.message}")
-                print("Ref: https://help.aliyun.com/zh/model-studio/developer-reference/error-code")
+            if res.status_code != 200:
+                print(f"Request ID: {response.request_id}")
+                print(f"HTTP return code: {response.status_code}")
+                print(f"Error code: {response.code}")
+                print(f"Error message: {response.message}")
+                # Ref: https://help.aliyun.com/zh/model-studio/developer-reference/error-code
+                raise RuntimeError(f"DashScope request failed: {response.code} - {response.message}")
+            
+            text = res.get("output", {}).get("choices", [{}])[0].get("message", {}).get("content", "")
+            choice = SimpleNamespace()
+            choice.message = SimpleNamespace()
+            choice.message.content = text
+            choice.message.function_call = None
+            response.choices.append(choice)
         
         return response
 
@@ -168,37 +170,37 @@ def parse_args():
     parser.add_argument(
         "--model_name_history",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for medical history.",
     )
     parser.add_argument(
         "--model_name_pe",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for physical examination.",
     )
     parser.add_argument(
         "--model_name_test",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagostic tests.",
     )
     parser.add_argument(
         "--model_name_diagnosis",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagnosis.",
     )
     parser.add_argument(
         "--model_name_provider",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
-        help="The LLM model for critic.",
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        help="The LLM model for the Provider Agent.",
     )
     parser.add_argument(
         "--times",

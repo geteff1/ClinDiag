@@ -62,7 +62,7 @@ def extract_final_section(chat_history, case_output_dir, section):
     all_content = "\n".join([item.get("content", "") for item in chat_history])
     print(f"Extracting {section} content...")
     print(all_content)
-
+    
     match = regex.search(all_content)
     if match:
         string_value = match.group(1)
@@ -103,29 +103,29 @@ def parse_args():
     parser.add_argument(
         "--model_name_history",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for medical history.",
     )
     parser.add_argument(
         "--model_name_pe",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for physical examination.",
     )
     parser.add_argument(
         "--model_name_test",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagostic tests.",
     )
     parser.add_argument(
         "--model_name_diagnosis",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagnosis.",
     )
     parser.add_argument(
@@ -182,17 +182,14 @@ def history_gathering(args, subfolder, case_output_dir, model_config_history):
     for index in range(args.num_specialists):
         name = f"Doctor{index}"
         doc_system_message = f"""
-Medical Doctor {index}. You are one of a group of doctors specialized in acquiring and analyzing a patient's medical history. 
+Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's medical history. 
 Your sole responsibility is to gather comprehensive details about the patient's history to understand their health background better. 
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
-Engage in discussion with other doctors to perfrom collaborative medical reasoning and decide what questions to ask.
 
 Primary Objectives:
+
 - Determine necessary inquiries and formulate specific, relevant questions to acquire patient's medical history information.
 - Engage in iterative information gathering through dialogue with the Assistant.
-- Actively engage in discussion with other doctors, sharing your findings, thoughts, and deductions.
-- Provide constructive comments on others' opinions, supporting or challenging them with reasoned arguments.
-- Continuously refine your diagnostic approach based on the ongoing discussion..
 - Assess when sufficient information has been obtained to cease further inquiries.
 
 Constraints:
@@ -200,32 +197,92 @@ Constraints:
 - May inquire about past examinations, test results, diagnoses, and treatments.
 - Ensure each question is directly related to obtaining the patient's medical history.
 - Ask specific questions (e.g., "Do you have a history of hypertension?") rather than broad ones (e.g., "Do you have any other diseases?").
-- Do not copy and paste other doctor's reasoinng thought.
 
 Interaction Process:
-- Initiate discussion with other doctors reagarding inquiries with specific questions about the patient's medical history.
+
+- Initiate inquiry with specific questions about the patient's medical history.
 - Receive and analyze feedback from the Assistant.
-- Determine the next set of specific questions based on this analysis collboratively with other doctors.
+- Determine the next set of specific questions based on this analysis.
 - Continue the cycle until sufficient information is gathered.
 
 Guidelines:
+- Form your diagonsis hypothesis, you might form serveral hypothesis, ask questions around these hypothesis
 - Formulate clear, specific, and relevant questions.
 - Adapt questioning based on responses and feedback.
-- Be open to adjusting your view based on compelling arguments from other doctors.
+
+Clinical GUideline:
+1. Gather History Guidelines
+
+The purpose of this phase is to systematically collect comprehensive information from the patient to inform diagnosist.
+A. Chief Complaint (CC):
+Record the patient’s primary concern in their own words.
+Clarify vague statements with follow-up questions (e.g., "What do you mean by feeling unwell?").
+B. History of Present Illness (HPI):
+Use a structured approach like OLDCART or OPQRST to gather details about the main issue:
+Onset: When did it start? Was it sudden or gradual?
+Location: Where is the symptom located? Does it radiate?
+Duration: How long does it last? Has it been constant or intermittent?
+Character/Quality: How does the patient describe it (e.g., sharp, dull, throbbing)?
+Aggravating/Alleviating Factors: What makes it better or worse?
+Radiation: Does the symptom spread to other areas?
+Timing: Is there a pattern (e.g., morning vs. evening)?
+Identify associated symptoms and ask targeted questions based on potential differential diagnoses (e.g., for chest pain, ask about shortness of breath, palpitations, or diaphoresis).
+C. Past Medical History (PMH):
+Chronic Illnesses: Note the details of any prior diagnoses (e.g., hypertension, diabetes).
+Surgical History: Include procedures, dates, and outcomes.
+Hospitalizations: Document reasons, treatments, and follow-up care.
+Past Episodes: Explore whether similar symptoms occurred in the past.
+D. Diagnostic and Treatment History:
+Ask about previous tests, imaging, and lab work related to the current complaint.
+Include prior treatment attempts, response to treatments, and side effects.
+E. Medication History:
+Record current medications (prescription, OTC, supplements) with dosages and frequency.
+Include history of noncompliance or changes in medication.
+F. Allergies:
+Document any allergic reactions (e.g., to medications, foods, or environmental factors) and the type/severity of reaction.
+G. Family History:
+Note genetic or hereditary conditions, especially those relevant to the presenting complaint (e.g., heart disease, cancer).
+H. Social History:
+Explore factors affecting health, such as:
+Smoking, alcohol, or drug use.
+Occupational risks or exposures.
+Exercise, diet, and stress levels.
+Living situation, support systems, and barriers to care.
+I. Review of Systems (ROS):
+Conduct a comprehensive review of symptoms across all body systems, emphasizing areas related to the chief complaint.
+Capture positive findings (symptoms present) and negative findings (symptoms absent) to support or rule out potential diagnoses.
+
+2. Summarize History Guidelines
+In this phase, the aim is to accurately condense the collected information into a structured summary. Focus on clarity, completeness, and logical organization. Highlight findings that support or refute differential diagnoses.
+A. Present the information in a clear and logical sequence:
+B. Include Key Positive and Negative Findings:
+Highlight positive findings that support a diagnosis (e.g., "Patient reports sharp chest pain radiating to the left arm with exertion").
+Document negative findings that help rule out other conditions (e.g., "No fever, no shortness of breath, no hemoptysis").
+C. Avoid Omissions:
+Ensure that all systems or components are covered, even if findings are normal or not immediately relevant.
+Example: “No prior history of similar symptoms, no personal or family history of cardiovascular disease.”
+D. Use Specific, Measurable Details:
+Where applicable, include precise descriptions:
+"Pain severity rated as 8/10."
+"Blood pressure 140/90 mmHg at home measurements."
+E. Ensure Clarity:
+Avoid medical jargon when summarizing for patients or non-clinical audiences, but maintain precise terminology for clinical communication.
 
 For each inquiry, use the following format:
+
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
 "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
-When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will gather the final history from every doctor and present one complete final history as collective effort in this format:
+When all necessary information has been gathered, present the complete history in this format:
+
 {{
     "Final History": "[patient's medical history]"
 }}
 
 Important note: sometimes you will continuously not receive feedback for the information you ask for, you should end the conversation and continue to summarize. If you do not have any informative information for either category, you can conclude "no valid information has been gathered".
-After doctor0 provide final history, it is your duty to reply with "TERMINATE" to end the conversation.
+After you provide final history, it is your duty to reply with "TERMINATE" to end the conversation.
 """
         Doc = AssistantAgent(
             name=name,
@@ -239,7 +296,7 @@ After doctor0 provide final history, it is your duty to reply with "TERMINATE" t
         medical_history = f.read()
 
     provider_system_message = f"""
-You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agents based on their inquiries. 
+You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agent based on their inquiries. 
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
@@ -257,14 +314,13 @@ Response Guidelines:
 - Base responses strictly on provided patient information.
 - Do not invent, assume, or infer unavailable information.
 - Do not provide information on planned or intended medical actions.
-- You may receive questions from multiple doctors during one conversation round, reply them all.
 
 You must directly answer the specific questions raised by the doctor, rather than provide all information at once.
-Make sure you answer all questions sufficiently, do not leave any relevant information out.
 
 Here is the patient record:
 {medical_history}
 """
+
     provider = AssistantAgent(
         name="Assistant",
         llm_config=model_config_history,
@@ -286,7 +342,7 @@ Here is the patient record:
     )
 
     message = f"""
-Here is a patient case for analysis, ask about patient history and provide the final patient history.
+Here is a patient case, ask about patient history and provide the final patient history.
 
 {initial_info}
 """
@@ -337,59 +393,114 @@ def pe_gathering(args, subfolder, case_output_dir, model_config_pe, final_histor
     for index in range(args.num_specialists):
         name = f"Doctor{index}"
         doc_system_message = f"""
-Medical Doctor {index}. You are one of a group of doctors specialized in acquiring and analyzing a patient's physical examination. 
+Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's physical examination. 
 Your sole responsibility is to gather comprehensive details about the patient's physical examination that would be helpful in reaching the final diagnosis, based on the patient history provided to you.
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
-Engage in discussion with other doctors to perfrom collaborative medical reasoning and decide what questions to ask.
 
 Primary Objectives:
+
 - Determine necessary inquiries and formulate specific, relevant questions to acquire patient's physical examination information.
 - Engage in iterative information gathering through dialogue with the Assistant.
-- Actively engage in discussion with other doctors, sharing your findings, thoughts, and deductions.
-- Provide constructive comments on others' opinions, supporting or challenging them with reasoned arguments.
-- Continuously refine your diagnostic approach based on the ongoing discussion..
 - Assess when sufficient information has been obtained to cease further inquiries.
 
 Constraints:
 - Focus exclusively on physical examinations. Do not perform lab tests, radiographic tests, or other tests, do not make diagnoses, or suggest treatments.
 - Ensure each question is directly related to obtaining the patient's physical examination.
 - Ask specific questions (e.g., "Is there tenderness in the left lower quadrant of the abdomen?") rather than broad ones (e.g., "What is the result for abdominal physical examination?").
-- Limit each inquiry to a maximum of five specific questions.
 - Do not ask questions that are related to the patient's lab tests, radiographic tests and other diagnostic tests that are not categorized as physcial examination.
 - Do not provide treatment recommendations.
-- Do not copy and paste other doctor's reasoinng thought.
 
 Interaction Process:
-- Initiate discussion with other doctors reagarding inquiries with specific questions about the patient's physical examination.
+
+- Initiate inquiry with specific questions about the patient's physical examination.
 - Receive and analyze feedback from the Assistant.
-- Determine the next set of specific questions based on this analysis collboratively with other doctors.
+- Determine the next set of specific questions based on this analysis.
 - Continue the cycle until sufficient information is gathered.
+- After you get results from physical examination, you can go back and ask for new information about patient history that has not been mentioned in the final history provided to you, if it is helpful in reaching diagnosis.
 
 Guidelines:
+- Form your diagonsis hypothesis, you might form serveral hypothesis, ask questions around these hypothesis 
 - Formulate clear, specific, and relevant questions.
 - Adapt questioning based on responses and feedback.
-- Be open to adjusting your view based on compelling arguments from other doctors.
+
+Clinical Guideline
+1. Gathering Physical Examination Findings
+The purpose of this phase is to perform a targeted physical examination based on the patient’s presenting complaints and known medical history, followed by a comprehensive system-based examination to ensure no significant findings are missed.
+A. General Principles:
+Prioritize Based on Patient Information:
+Start with focused assessments related to the patient’s chief complaint, history of present illness (HPI), and known medical conditions.
+For example:
+A patient with chest pain should have a detailed cardiovascular and respiratory examination.
+A patient with abdominal pain requires a thorough abdominal assessment.
+Expand to a Full Systematic Examination:
+After addressing the targeted area, proceed to a head-to-toe examination to identify any additional findings or conditions not directly related to the presenting problem.
+Sequential and Methodical:
+Conduct the examination in a logical, system-based order to ensure consistency and completeness.
+
+B. Step-by-Step Approach:
+General Appearance and Vital Signs:
+Observation: Note the patient’s overall state, including level of consciousness, distress, or discomfort.
+Vital Signs: Include temperature, blood pressure, heart rate, respiratory rate, and oxygen saturation.
+Targeted Examination Based on Patient’s Condition:
+Comprehensive Systematic Examination:
+After the targeted assessment, expand to a complete physical examination in this sequence:
+a. Skin and Peripheral Findings:
+Inspect for color changes (e.g., cyanosis, pallor, jaundice), rashes, scars, or lesions.
+Palpate for temperature, moisture, and peripheral edema.
+b. Head and Neck:
+Inspect facial symmetry, eyes (sclera, pupils), ears, nose, and throat.
+Palpate lymph nodes, thyroid gland, and carotid pulses.
+c. Respiratory System:
+Inspect chest movements and deformities.
+Palpate for fremitus and tenderness.
+Percuss for dullness or hyperresonance.
+Auscultate for breath sounds, wheezes, or crackles.
+d. Cardiovascular System:
+Inspect for jugular venous distension.
+Palpate for thrills, heaves, and peripheral pulses.
+Auscultate heart sounds (S1, S2, murmurs, rubs).
+e. Abdomen:
+Inspect for distension or visible masses.
+Auscultate for bowel sounds and vascular bruits.
+Percuss for organ size and tympany.
+Palpate for tenderness, rigidity, or organomegaly.
+f. Musculoskeletal System:
+Inspect for deformities, swelling, or erythema.
+Test active and passive range of motion.
+Palpate for joint tenderness or crepitus.
+g. Neurological System:
+Assess mental status, cranial nerves, motor strength, reflexes, and sensory function.
+h. Genitourinary System (if applicable):
+Conduct specific examinations only when clinically indicated, respecting patient comfort.
+2. Summarizing Physical Examination Findings
+The purpose of this phase is to organize and document the findings in a logical and clinically relevant manner. Emphasize positive findings, key negative findings. Be comprehensive and avoid omission.
+A. Include Positive and Negative Findings:
+B. Maintain Logical 
+C. Avoid Omissions
+D. Be Quantitative and Specific:
+E. Highlight Red Flags and Diagnostic Clues:
 
 For each inquiry, use the following format:
+
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
 "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
-When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will gather the final physical examination from every doctor and present one complete final physical examination as collective effort in this format:
+When all necessary information has been gathered, present the complete physical examination in this format:
+
 {{
     "Final Physical Examination": "[patient's physical examination results]"
 }}
 
-If doctors get new information from patient's history that is not provided in the patient record, doctor0 please gather and output the new information when they have no further quesitons, use this format:
+If you get new information from patient's history that is not provided in the patient record, please output the new information, use this format:
 {{
     "Final Updates During Physical Examination": "[new information found regarding patient history, that is not included in the original patient record]"
 }}
-
 Important note: sometimes you will continuously not receive feedback for the information you ask for, you should end the conversation and continue to summarize. If you do not have any informative information for either category, you can conclude "no valid information has been gathered".
-If doctors have no further questions, they should provide final physical examination and doctors should reply with "TERMINATE" to end the conversation.
-Here is the patient's record, based on these information you should determine what physical examination should be performed in the following conversation:
+After you provide final physical examination, it is your duty to reply with "TERMINATE" to end the conversation.
 
+Here is the patient's record, based on these information you should determine what physical examination should be performed in the following conversation:
 {final_history}
 """
         Doc = AssistantAgent(
@@ -429,15 +540,14 @@ Response Guidelines:
 - Base responses strictly on provided patient information.
 - Do not invent, assume, or infer unavailable information.
 - Do not provide information on planned or intended medical actions.
-- You may receive questions from multiple doctors during one conversation round, reply them all.
 
 You must directly answer the specific questions raised by the doctor, rather than provide all information at once.
-Make sure you answer all questions sufficiently, do not leave any relevant information out.
 
 Here is the patient record:
 {physical_examination}
 {medical_history}
 """
+
     provider = AssistantAgent(
         name="Assistant",
         llm_config=model_config_pe,
@@ -497,6 +607,7 @@ def test_gathering(args, subfolder, case_output_dir, model_config_test, final_hi
     """
     Stage 3: Test Gathering
     """
+    # Paths
     conversation_path = osp.join(case_output_dir, "test_conversation.json")
     final_test_path = osp.join(case_output_dir, "final_test.json")
     final_updates_test_path = osp.join(case_output_dir, "final_updates_during_test.json")  
@@ -521,58 +632,127 @@ def test_gathering(args, subfolder, case_output_dir, model_config_test, final_hi
     for index in range(args.num_specialists):
         name = f"Doctor{index}"
         doc_system_message = f"""
-Medical Doctor {index}. You are one of a group of doctors specialized in acquiring and analyzing a patient's test results, including lab tests, radiographic tests, and other diagnostic tests. 
+Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's test results, including lab tests, radiographic tests, and other diagnostic tests. 
+
 Your sole responsibility is to gather comprehensive details about the patient's test results that would be helpful in reaching the final diagnosis, based on the patient's history and physical examination provided to you.
+
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
-Engage in discussion with other doctors to perfrom collaborative medical reasoning and decide what questions to ask.
 
 Primary Objectives:
+
 - Determine necessary inquiries and formulate specific, relevant questions to acquire patient's test result information.
 - Engage in iterative information gathering through dialogue with the Assistant.
-- Actively engage in discussion with other doctors, sharing your findings, thoughts, and deductions.
-- Provide constructive comments on others' opinions, supporting or challenging them with reasoned arguments.
 - Assess when sufficient information has been obtained to cease further inquiries.
 
 Constraints:
 - Focus exclusively on lab tests, radiographic tests, and other diagnostic tests. Do not perform tests, make diagnoses, or suggest treatments.
 - Ensure each question is directly related to obtaining the patient's test results.
 - Ask specific questions (e.g., "Do you have information on the patient's head CT scan?") rather than broad ones (e.g., "What are the radiographic test results of the patient?").
-- Limit each inquiry to a maximum of five specific questions.
 - Do not ask questions that are not related to the patient's lab tests, radiographic tests, and other diagnostic tests.
 - Do not provide treatment recommendations.
-- Do not copy and paste other doctor's reasoinng thought and do not ask the same questions as they do.
 
 Interaction Process:
-- Initiate discussion with other doctors reagarding inquiries with specific questions about the patient's tests results.
+
+- Initiate inquiry with specific questions about the patient's test results.
 - Receive and analyze feedback from the Assistant.
-- Determine the next set of specific questions based on this analysis collboratively with other doctors.
+- Determine the next set of specific questions based on this analysis.
 - Continue the cycle until sufficient information is gathered.
 - After you get results from tests, you can go back and ask for new information about patient history and physical examination that is not included in the patient record provided to you, if it is helpful in reaching diagnosis.
 
 Guidelines:
+- Form your diagonsis hypothesis, you might form serveral hypothesis, ask questions around these hypothesis
 - Formulate clear, specific, and relevant questions.
 - Adapt questioning based on responses and feedback.
 - Aim to obtain complete patient's test information.
-- Be open to adjusting your view based on compelling arguments from other doctors.
+
+Clinical Guideline:
+1. Gathering Test Results
+The objective of gathering test results is to ensure that all relevant diagnostic tests are identified, with a focus on obtaining specific findings that lead to a definitive diagnosis rather than vague or incomplete information. Follow these principles:
+A. General Approach:
+Understand the Clinical Context:
+Refer to the patient’s history and physical examination findings to determine which tests are most relevant.
+Focus on tests that directly address differential diagnoses or clarify ambiguous findings.
+Ask About Diagnostic-Specific Tests:
+When a test result is broad or non-specific, inquire about follow-up or confirmatory tests.
+Examples:
+"A chest CT shows a pulmonary nodule—has a biopsy or PET scan been done to assess malignancy?"
+"Urinalysis suggests a urinary tract infection—were additional tests (e.g., urine culture, imaging) performed to localize the infection and identify the causative pathogen?"
+Inquire About Timing and Trends:
+Ask if serial testing has been performed to monitor progression or resolution of a condition.
+Examples:
+"Were follow-up tumor markers obtained after the initial abnormal result?"
+"Were repeat imaging studies done to track the size or appearance of the lesion?"
+Consider Comprehensive Diagnostic Workups:
+Ask about related tests or examinations that provide a complete diagnostic picture.
+Examples:
+"For anemia identified on CBC, was iron panel, vitamin B12, folate levels, or a bone marrow biopsy performed?"
+"For suspected renal dysfunction on basic labs, were urine studies, renal ultrasound, or biopsy conducted?"
+Clarify Ambiguous or Uncertain Results:
+Ask for additional testing performed to resolve inconclusive or borderline findings.
+Example: "Was a borderline troponin elevation followed by serial testing or a stress test?"
+B. Focused Areas of Inquiry for Tests:
+Laboratory Tests:
+Routine Tests: Ask about detailed values (e.g., CBC, BMP) and trends over time.
+Confirmatory Tests: Inquire about additional tests that refine a diagnosis.
+Example: "For suspected infection, was a blood culture or pathogen-specific PCR performed?"
+Imaging Studies:
+Initial Findings: Clarify specific details (e.g., size, location, enhancement patterns).
+Follow-Up Imaging: Ask if further imaging (e.g., MRI, PET, contrast studies) was done for clarification.
+Example: "For liver lesions on ultrasound, was an MRI or biopsy done to confirm benign vs. malignant nature?"
+Functional or Specialized Tests:
+Examples: Stress tests, pulmonary function tests, nerve conduction studies.
+Ask about specific results and diagnostic thresholds: "Did the stress test indicate ischemia or arrhythmias?"
+Pathology and Biopsy Results:
+Ask for detailed findings, including histology, molecular markers, or genetic mutations.
+Example: "Was the lung biopsy indicative of malignancy, and if so, what type (e.g., adenocarcinoma, squamous cell)?"
+Microbiological Studies:
+Ensure causative organisms are identified along with sensitivities.
+Example: "Was the urinary pathogen isolated, and were antibiotic sensitivities determined?"
+Procedural Findings:
+For endoscopies, catheterizations, or other interventions, ask for specific observations or diagnoses made during the procedure.
+Example: "Were biopsies taken during the colonoscopy, and what were the histopathology results?"
+2. Summarizing Test Results
+The goal of summarizing test results is to present findings in a clear, comprehensive and clinically relevant manner, emphasizing logical reasoning.
+A. Highlight Positive and Negative Results:
+Positive Results: Clearly describe abnormalities and their implications.
+Example: "Lung CT shows a 2.5 cm spiculated nodule in the right upper lobe with FDG uptake on PET scan, consistent with malignancy."
+Negative Results: Highlight findings that rule out significant conditions.
+Example: "MRI showed no evidence of metastasis, ruling out systemic spread."
+B. Prioritize Diagnostic-Specific Findings:
+Focus on test results that directly contribute to the diagnosis or management.
+Example: "Urine culture identified E. coli sensitive to ciprofloxacin, confirming uncomplicated UTI."
+C. Maintain Logical Flow:
+Present results in a sequence that supports the diagnostic process.
+Example:
+Initial finding: "CBC revealed normocytic anemia."
+Follow-up: "Iron studies showed low ferritin, indicating iron deficiency."
+Additional testing: "Endoscopy revealed gastric ulcers as the source of chronic blood loss."
+D. Be Quantitative and Specific:
+Include precise values, sizes, and descriptive details.
+Example: "Pulmonary nodule measured 2.3 cm with irregular margins and central cavitation."
+E. Incorporate Trends:
+Highlight dynamic changes over time where applicable.
+Example: "Serial troponin levels showed a rise from 0.03 ng/mL to 1.2 ng/mL over six hours, consistent with myocardial infarction.
 
 For each inquiry, use the following format:
+
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
 "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
-When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will  organize the final test into lab tests, radiographic tests, and other tests, and present the complete test information in this format:
+When all necessary information has been gathered, organize the final test into lab tests, radiographic tests, and other tests, and present the complete test information in this format:
 {{
     "Final Test": "[patient's lab tests results, radiographic tests results, other diagnostic tests results]"
 }}
 
-If doctors get new information from patient's history and physical examination that is not provided in the patient record, doctor0 please gather and output the new information when they have no further quesitons, use this format:
+If you get new information from patient's history that is not provided in the final history, please output the new information, do not output origingal content from final history, use this format:
 {{
     "Final Updates During Test": "[new information found regarding patient history and physical exmination, that is not included in the original patient record provided to you]"
 }}
 
 Important note: sometimes you will continuously not receive feedback for the information you ask for, you should end the conversation and continue to summarize. If you do not have any informative information for either category, you can conclude "no valid information has been gathered".
-If doctors have no further questions, they should provide final test results and doctors should reply with "TERMINATE" to end the conversation.
+After you provide the final test, it is your duty to reply with "TERMINATE" to end the conversation.
 
 Here is the patient's record, based on these information you should determine what tests should be performed in the following conversation:
 {final_history}
@@ -634,9 +814,8 @@ Response Guidelines:
 - Base responses strictly on provided patient information.
 - Do not invent, assume, or infer unavailable information.
 - Do not provide information on planned or intended medical actions.
-- You may receive questions from multiple doctors during one conversation round, reply them all.
+
 You must directly answer the specific questions raised by the doctor, rather than provide all information at once.
-Make sure you answer all questions sufficiently, do not leave any relevant information out.
 
 Here is the patient record:
 {laboratory_test}
@@ -750,40 +929,35 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
     for index in range(args.num_specialists):
         name = f"Doctor{index}"
         doc_system_message = f"""
-Medical Doctor {index}. You are one of a group of doctors specialized in making final diagnoses based on the patient's history, physical examination, and test results.
+Medical Doctor {index}. You are a Doctor Agent specialized in making final diagnoses based on the patient's history, physical examination, and test results.
 
 Your sole responsibility is to analyze the comprehensive information gathered in the previous stages to arrive at the most accurate diagnosis.
+
 You should consider all provided information and reason thoroughly to make informed diagnostic decisions.
-Actively engage in discussion with other specialists, sharing your findings, thoughts, and deductions.
-Provide constructive comments on others' opinions, supporting or challenging them with reasoned arguments.
-Continuously refine your diagnostic approach based on the ongoing discussion.
 
 Primary Objectives:
+
 - Integrate the patient's history, physical examination, and test results.
-- Formulate the most likely diagnosis, differential diagnosis and diagnostic reasoning based on the integrated data.
-- Come up with your own reasoning path, your own theory and quesitons for diagnosing the patient.
-- Be open to adjusting your view based on compelling arguments from other specialists.
+- Formulate the most likely diagnosis based on the integrated data.
+- Provide differential diagnoses if applicable.
+- Provide your diagnostic reasoning
+- List key informaiton that help you to reach diagnosis. Give weights to the information you analyze, the weights should reflect how important it is for you to reach the final diagnosis and all weights sum up to 1, example: CT should dialated pancrease(weights 0.55)
+- Assign possibility for each diagnosis you finally provded, the possibility should add up to 100%, example: appendicitis 80%, pancreatis 20%.
 
-Constraints:
-- Do not provide treatment recommendations.
-- Do not copy and paste other doctor's reasoinng thought and do not ask the same questions as they do.
-- Avoid asking others to copy and paste results; instead, respond to their ideas directly.
+Output in the following format:
+{{
+    "key_information":"[key information with weights]"
+    "diagnosis_possibility":"[diagnosis with possibility]
+}}
 
-Interaction Process:
-- Formulate your own most likely diagnosis, possible diagnosis and diagnostic reasoning
-- Engage in discussion with other doctors, express how you agree or disagree with others
-- Reach consensus after rounds of discussion
-- If no consensus was reached, each doctor should vote for the final answer, and the final answer which has the most votes is the final answer.
-
-When consensus or voting is finalized, doctor0 will output the final answer using the following format:
+after analysis, output the final diagnosis, use the following format:
 
 {{
 "Final Diagnosis": "[Your Diagnosis]",
 "Differential Diagnosis": "[List of Differential Diagnoses]",
 "Diagnostic Reasoning": "[Your Diagnostic Reasoning]"
 }}
-
-Each doctor should reply "TERMINATE" after final answer is porvided:
+Reply "TERMINATE" After you made the diagnosis
 
 Here is the patient record:
 Final History: {final_history}
@@ -827,7 +1001,7 @@ You do nothing, remain silent, output nothing.
         llm_config=model_config_diagnosis,
         is_termination_msg=lambda x: x.get("content", "").find("TERMINATE") >= 0,
     )
-    
+
     message = f"""
 Provide the final diagnosis.
 """
@@ -926,7 +1100,7 @@ def main():
 
             base_output_dir = osp.join(
                 output_dir,
-                "test_stepwise_multiagent_converse",
+                "trial_expert_prompt",
                 args.model_name_diagnosis,  # Adjust as needed
                 identify,
                 str(args.times),

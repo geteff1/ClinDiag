@@ -103,43 +103,43 @@ def parse_args():
     parser.add_argument(
         "--model_name_history",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for medical history.",
     )
     parser.add_argument(
         "--model_name_pe",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for physical examination.",
     )
     parser.add_argument(
         "--model_name_test",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagostic tests.",
     )
     parser.add_argument(
         "--model_name_diagnosis",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model for diagnosis.",
     )
     parser.add_argument(
-        "--model_name_critic",
+        "--model_name_provider",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
-        help="The LLM model for critic.",
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        help="The LLM model for the Provider Agent.",
     )
     parser.add_argument(
         "--times",
         type=int,
         default=1,
-        choices=[1, 2, 3],
+        choices=[1, 2, 3, 4, 5],
         help="An identifier for multiple runs.",
     )
     parser.add_argument(
@@ -149,7 +149,7 @@ def parse_args():
         help="Directory to save output files.",
     )
     parser.add_argument(
-        "--num_specialists", type=int, default=3, help="Number of doctor agents."
+        "--num_specialists", type=int, default=1, help="Number of doctor agents."
     )
     parser.add_argument("--n_round", type=int, default=50, help="Number of chat rounds.")
     parser.add_argument(
@@ -163,13 +163,13 @@ def parse_args():
     return args
 
 @simple_retry(max_attempts=10, delay=1)
-def history_gathering(args, subfolder, case_output_dir, model_config_history, model_config_critic):
+def history_gathering(args, subfolder, case_output_dir, model_config_history, model_config_provider):
     """
     Stage 1: History Gathering
     """
     initial_info_path = osp.join(subfolder, 'initial_information.json')
     with open(initial_info_path, 'r', encoding='utf-8') as f:
-        initial_info = f.read()
+        case_presentation = f.read()
 
     conversation_path = osp.join(case_output_dir, "history_conversation.json")
     final_history_path = osp.join(case_output_dir, "final_history.json")
@@ -221,7 +221,7 @@ For each inquiry, use the following format:
 
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+"doctor_action": "Doctor's instructions to the assistant, phrased in third person"
 }}
 
 When all necessary information has been gathered, present the complete history in this format:
@@ -239,91 +239,6 @@ After you provide final history, it is your duty to reply with "TERMINATE" to en
             system_message=doc_system_message,
         )
         Docs.append(Doc)
-
-    critic_system_message = f"""
-As a Critic Agent, your primary responsibility is to critically evaluate the questions, reasoning, and summarizations provided by the Doctor Agent. Your feedback ensures that the Doctor Agent's inquiries are precise, medically sound, and comprehensive, leading to accurate information gathering and optimal diagnostic reasoning.
-Core Responsibilities:
-Assess Question Quality:
-Evaluate whether each question posed by the Doctor Agent is:
-Actionable: Can the question elicit clear, specific, and relevant information from the patient or other agents?
-Specific: Avoids vague or overly general inquiries that may lead to incomplete or irrelevant answers.
-Medically Relevant: Pertains directly to the patient's condition, symptoms, or diagnostic process.
-Clear and Unambiguous: Free from confusion or misinterpretation.
-
-Ensure Comprehensive Information Gathering:
-Identify gaps where the Doctor Agent failed to gather critical information.
-Ensure that important follow-up questions are asked to clarify incomplete or ambiguous responses.
-Provide feedback when a question does not explore diagnostic possibilities thoroughly or skips important steps in the reasoning process.
-
-Evaluate Medical Reasoning:
-Critique the logical consistency of the Doctor Agent's questions and reasoning.
-Identify and correct inaccuracies in medical reasoning or gaps in the application of medical knowledge.
-Highlight missed opportunities to explore red flags, confirm key findings, or rule out differential diagnoses.
-
-Promote Diagnostic-Specific Inquiry:
-Ensure the Doctor Agent avoids relying on vague or non-specific findings.
-Encourage follow-up questions that aim to refine diagnostic hypotheses or confirm suspicions.
-Example Feedback: If the Doctor Agent stops at "the chest X-ray showed an abnormal shadow," critique the lack of inquiry into further imaging, biopsy, or detailed radiologic interpretation.
-
-Assess Summarization:
-Review the Doctor Agent’s summaries of patient information, physical examination findings, or test results for:
-Accuracy: Ensure that the summary reflects the facts accurately without misrepresentation.
-Completeness: Ensure all critical and relevant information is included.
-Logical Structure: Ensure the summary is well-organized, progressing logically from findings to conclusions.
-Provide feedback if key findings are omitted, misinterpreted, or inconsistently presented.
-
-Key Areas of Evaluation:
-A. Thoroughness in Inquiry:
-Has the Doctor Agent explored all aspects of the patient’s Medical History?
-Are there missed opportunities to ask for information that could confirm or rule out a differential diagnosis?
-Example Feedback: If the Doctor Agent fails to ask about risk factors (e.g., smoking history in a patient with a lung nodule), point out this gap.
-
-B. Diagnostic-Specific Questions:
-Are the questions designed to move beyond vague findings to actionable, diagnostic-specific details?
-Example Feedback: If the Doctor Agent only asks about "abnormal imaging findings" without specifying further steps (e.g., biopsy for lung nodule), prompt for more precise inquiry.
-
-C. Logical Medical Reasoning:
-Do the questions and reasoning demonstrate a clear understanding of how to evaluate symptoms, findings, and test results in the context of potential diagnoses?
-Are there any inconsistencies or flawed assumptions in the diagnostic reasoning process?
-Example Feedback: If the Doctor Agent assumes "normal vital signs" rule out sepsis without further inquiry, critique the oversimplification.
-
-D. Summarization:
-Is the summary accurate and comprehensive?
-Does it include both positive and negative findings relevant to the diagnosis?
-Does the summary demonstrate logical reasoning and a clear diagnostic focus?
-Example Feedback: If a summary omits critical negative findings (e.g., "No weight loss, no fever" in suspected malignancy), highlight this oversight.
-
-Constructive Feedback Principles:
-Be Specific and Actionable:
-Provide clear and detailed feedback on how to improve the question or reasoning.
-Example: Instead of “Your question is too vague,” provide, “Instead of asking, ‘Was the imaging abnormal?’ ask, ‘Did the CT scan show characteristics suggestive of malignancy, such as spiculated margins or lymph node involvement?’”
-
-Guide Towards Corrective Action:
-Offer suggestions for improved inquiry or reasoning.
-Example: “You should follow up on the elevated WBC count by asking whether blood cultures were drawn or imaging was performed to locate the source of infection.”
-
-Promote Critical Thinking:
-Encourage the Doctor Agent to think critically and refine their questioning process.
-Example: “Consider asking how the biopsy results correlate with the imaging findings to confirm the suspected diagnosis.”
-
-Interaction process
-- Analyze each question from the Doctor Agent and provide feedback in the following format:
-
-{{
-    "critic_feedback": "Critique of the question including specific observations and suggestions for improvement",
-    "suggested_revised_question": "Rephrased question (if necessary) that is more focused, clear, or unbiased"
-}}
-
-End of Interaction:
-
-- If the Doctor's inquiries consistently meet all guidelines or the questioning process is complete, provide a final message indicating that the Doctor’s questions meet the criteria or are well-refined.
-- Conclude with "REVIEW COMPLETE" when you determine that no further critique is needed for any remaining questions.
-"""
-    critic = AssistantAgent(
-        name="Critic",
-        llm_config=model_config_critic,
-        system_message=critic_system_message,
-    )
 
     medical_history_path = osp.join(subfolder, 'medical_history.json')
     with open(medical_history_path, 'r', encoding='utf-8') as f:
@@ -356,63 +271,16 @@ Here is the patient record:
 """
 
     provider = AssistantAgent(
-        name="Provider",
-        llm_config=model_config_history,
+        name="Assistant",
+        llm_config=model_config_provider,
         system_message=provider_system_message,
     )
 
-    def custom_speaker_selection_func(last_speaker, groupchat, max_subround=1):
-        """
-        Custom speaker order:
-        user_proxy -> [ Doc <-> critic ] -> provider
-        """
-
-        messages = groupchat.messages
-
-        # Use groupchat._n_subround to keep track of subrounds
-        if not hasattr(groupchat, "_n_subround"):
-            groupchat._n_subround = 0
-
-        # If there are no messages, the conversation starts with user_proxy
-        if len(messages) == 0:
-            return user_proxy
-
-        # After user_proxy, Doc speaks first
-        if last_speaker is user_proxy:
-            return Doc  
-
-        # Handle subrounds between Doc and critic
-        elif last_speaker is Doc:
-            if groupchat._n_subround >= max_subround:
-                # Once the maximum subrounds are reached, switch to provider
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-            else:
-                return critic  # After Doc, critic provides feedback
-
-        elif last_speaker is critic:
-            # Check if the critic's message contains "REVIEW COMPLETE" to end subrounds early
-            if "REVIEW COMPLETE" in messages[-1]["content"]:
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-
-            # Increase subround counter; if not at max subrounds, return Doc
-            groupchat._n_subround += 1
-            if groupchat._n_subround >= max_subround:
-                return Doc  # provider
-            else:
-                return Doc  # After critic's feedback, Doc makes corrections
-
-        # After provider finishes speaking, restart the cycle with Doc
-        elif last_speaker is provider:
-            groupchat._n_subround = 0  # Reset counter
-            return Doc
-
     groupchat = GroupChat(
-        agents=[user_proxy] + Docs + [critic] + [provider],
+        agents=[user_proxy] + Docs + [provider],
         messages=[],
         max_round=args.n_round,
-        speaker_selection_method=custom_speaker_selection_func
+        speaker_selection_method="round_robin"
     )
     time.sleep(5)
 
@@ -425,7 +293,7 @@ Here is the patient record:
     message = f"""
 Here is a patient case for analysis, ask about patient history and provide the final patient history.
 
-{initial_info}
+{case_presentation}
 """
 
     output = user_proxy.initiate_chat(
@@ -448,7 +316,7 @@ Here is a patient case for analysis, ask about patient history and provide the f
         print(f"Final History saved to: {final_history_path}")
 
 @simple_retry(max_attempts=10, delay=1)
-def pe_gathering(args, subfolder, case_output_dir, model_config_pe, model_config_critic, final_history_path):
+def pe_gathering(args, subfolder, case_output_dir, model_config_pe, final_history_path, model_config_provider):
     """
     Stage 2: Physical Examination Gathering
     """
@@ -464,7 +332,7 @@ def pe_gathering(args, subfolder, case_output_dir, model_config_pe, model_config
         final_history = json.load(f).get("Final History", "")
 
     user_proxy = UserProxyAgent(
-        name="User_proxy",
+        name="Admin",
         system_message="A human admin doctor.",
         code_execution_config=False,
         human_input_mode="NEVER",
@@ -475,9 +343,7 @@ def pe_gathering(args, subfolder, case_output_dir, model_config_pe, model_config
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's physical examination. 
-
 Your sole responsibility is to gather comprehensive details about the patient's physical examination that would be helpful in reaching the final diagnosis, based on the patient history provided to you.
-
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
 
 Primary Objectives:
@@ -510,7 +376,7 @@ For each inquiry, use the following format:
 
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+"doctor_action": "Doctor's instructions to the assistant, phrased in third person "
 }}
 
 When all necessary information has been gathered, present the complete physical examination in this format:
@@ -535,92 +401,6 @@ Here is the patient's record, based on these information you should determine wh
             system_message=doc_system_message,
         )
         Docs.append(Doc)
-    
-    critic_system_message = f"""
-As a Critic Agent, your primary responsibility is to critically evaluate the questions, reasoning, and summarizations provided by the Doctor Agent. Your feedback ensures that the Doctor Agent's inquiries are precise, medically sound, and comprehensive, leading to accurate information gathering and optimal diagnostic reasoning.
-Core Responsibilities:
-Assess Question Quality:
-Evaluate whether each question posed by the Doctor Agent is:
-Actionable: Can the question elicit clear, specific, and relevant information from the patient or other agents?
-Specific: Avoids vague or overly general inquiries that may lead to incomplete or irrelevant answers.
-Medically Relevant: Pertains directly to the patient's condition, symptoms, or diagnostic process.
-Clear and Unambiguous: Free from confusion or misinterpretation.
-
-Ensure Comprehensive Information Gathering:
-Identify gaps where the Doctor Agent failed to gather critical information.
-Ensure that important follow-up questions are asked to clarify incomplete or ambiguous responses.
-Provide feedback when a question does not explore diagnostic possibilities thoroughly or skips important steps in the reasoning process.
-
-Evaluate Medical Reasoning:
-Critique the logical consistency of the Doctor Agent's questions and reasoning.
-Identify and correct inaccuracies in medical reasoning or gaps in the application of medical knowledge.
-Highlight missed opportunities to explore red flags, confirm key findings, or rule out differential diagnoses.
-
-Promote Diagnostic-Specific Inquiry:
-Ensure the Doctor Agent avoids relying on vague or non-specific findings.
-Encourage follow-up questions that aim to refine diagnostic hypotheses or confirm suspicions.
-Example Feedback: If the Doctor Agent stops at "the chest X-ray showed an abnormal shadow," critique the lack of inquiry into further imaging, biopsy, or detailed radiologic interpretation.
-
-Assess Summarization:
-Review the Doctor Agent’s summaries of patient information, physical examination findings, or test results for:
-Accuracy: Ensure that the summary reflects the facts accurately without misrepresentation.
-Completeness: Ensure all critical and relevant information is included.
-Logical Structure: Ensure the summary is well-organized, progressing logically from findings to conclusions.
-Provide feedback if key findings are omitted, misinterpreted, or inconsistently presented.
-
-Key Areas of Evaluation:
-A. Thoroughness in Inquiry:
-Has the Doctor Agent explored all aspects of the patient’s physical examination?
-Are there missed opportunities to ask for information that could confirm or rule out a differential diagnosis?
-Example Feedback: If the Doctor Agent fails to ask about risk factors (e.g., smoking history in a patient with a lung nodule), point out this gap.
-
-B. Diagnostic-Specific Questions:
-Are the questions designed to move beyond vague findings to actionable, diagnostic-specific details?
-Example Feedback: If the Doctor Agent only asks about "abnormal imaging findings" without specifying further steps (e.g., biopsy for lung nodule), prompt for more precise inquiry.
-
-C. Logical Medical Reasoning:
-Do the questions and reasoning demonstrate a clear understanding of how to evaluate symptoms, findings, and test results in the context of potential diagnoses?
-Are there any inconsistencies or flawed assumptions in the diagnostic reasoning process?
-Example Feedback: If the Doctor Agent assumes "normal vital signs" rule out sepsis without further inquiry, critique the oversimplification.
-
-D. Summarization:
-Is the summary accurate and comprehensive?
-Does it include both positive and negative findings relevant to the diagnosis?
-Does the summary demonstrate logical reasoning and a clear diagnostic focus?
-Example Feedback: If a summary omits critical negative findings (e.g., "No weight loss, no fever" in suspected malignancy), highlight this oversight.
-
-Constructive Feedback Principles:
-Be Specific and Actionable:
-Provide clear and detailed feedback on how to improve the question or reasoning.
-Example: Instead of “Your question is too vague,” provide, “Instead of asking, ‘Was the imaging abnormal?’ ask, ‘Did the CT scan show characteristics suggestive of malignancy, such as spiculated margins or lymph node involvement?’”
-
-Guide Towards Corrective Action:
-Offer suggestions for improved inquiry or reasoning.
-Example: “You should follow up on the elevated WBC count by asking whether blood cultures were drawn or imaging was performed to locate the source of infection.”
-
-Promote Critical Thinking:
-Encourage the Doctor Agent to think critically and refine their questioning process.
-Example: “Consider asking how the biopsy results correlate with the imaging findings to confirm the suspected diagnosis.”
-
-Interaction Process:
-
-- Analyze each question from the Doctor Agent and provide feedback in the following format:
-
-{{
-    "critic_feedback": "Critique of the question including specific observations and suggestions for improvement",
-    "suggested_revised_question": "Rephrased question (if necessary) that is more focused, clear, or unbiased"
-}}
-
-End of Interaction:
-
-- If the Doctor's inquiries consistently meet all guidelines or the questioning process is complete, provide a final message indicating that the Doctor’s questions meet the criteria or are well-refined.
-- Conclude with "REVIEW COMPLETE" when you determine that no further critique is needed for any remaining questions.
-"""
-    critic = AssistantAgent(
-        name="Critic",
-        llm_config=model_config_critic,
-        system_message=critic_system_message,
-    )
 
     physical_examination_path = osp.join(subfolder, 'physical_examination.json')
     if not osp.exists(physical_examination_path):
@@ -654,70 +434,23 @@ Response Guidelines:
 - Do not provide information on planned or intended medical actions.
 
 You must directly answer the specific questions raised by the doctor, rather than provide all information at once.
+Make sure you answer all questions sufficiently, do not leave any relevant information out.
 
 Here is the patient record:
 {physical_examination}
 {medical_history}
 """
-
     provider = AssistantAgent(
-        name="Provider",
-        llm_config=model_config_pe,
+        name="Assistant",
+        llm_config=model_config_provider,
         system_message=provider_system_message,
     )
 
-    def custom_speaker_selection_func(last_speaker, groupchat, max_subround=1):
-        """
-        Custom speaker order:
-        user_proxy -> [ Doc <-> critic ] -> provider
-        """
-
-        messages = groupchat.messages
-
-        # Use groupchat._n_subround to keep track of subrounds
-        if not hasattr(groupchat, "_n_subround"):
-            groupchat._n_subround = 0
-
-        # If there are no messages, the conversation starts with user_proxy
-        if len(messages) == 0:
-            return user_proxy
-
-        # After user_proxy, Doc speaks first
-        if last_speaker is user_proxy:
-            return Doc  
-
-        # Handle subrounds between Doc and critic
-        elif last_speaker is Doc:
-            if groupchat._n_subround >= max_subround:
-                # Once the maximum subrounds are reached, switch to provider
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-            else:
-                return critic  # After Doc, critic provides feedback
-
-        elif last_speaker is critic:
-            # Check if the critic's message contains "REVIEW COMPLETE" to end subrounds early
-            if "REVIEW COMPLETE" in messages[-1]["content"]:
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-
-            # Increase subround counter; if not at max subrounds, return Doc
-            groupchat._n_subround += 1
-            if groupchat._n_subround >= max_subround:
-                return Doc  # provider
-            else:
-                return Doc  # After critic's feedback, Doc makes corrections
-
-        # After provider finishes speaking, restart the cycle with Doc
-        elif last_speaker is provider:
-            groupchat._n_subround = 0  # Reset counter
-            return Doc
-
     groupchat = GroupChat(
-        agents=[user_proxy] + Docs + [critic] + [provider],
+        agents=[user_proxy] + Docs + [provider],
         messages=[],
         max_round=args.n_round,
-        speaker_selection_method=custom_speaker_selection_func
+        speaker_selection_method="round_robin"
     )
     time.sleep(5)
 
@@ -759,10 +492,10 @@ The doctor should ask for patient's physical examination results.
         with open(final_updates_pe_path, "w", encoding='utf-8') as file:
             json.dump({"Final Updates During Physical Examination": extracted_updates_pe}, file, indent=4, ensure_ascii=False)
         print(f"Final Updates During Physical Examination saved to: {final_updates_pe_path}")
-
+        
 
 @simple_retry(max_attempts=10, delay=1)
-def test_gathering(args, subfolder, case_output_dir, model_config_test, model_config_critic, final_history_path, final_pe_path):
+def test_gathering(args, subfolder, case_output_dir, model_config_test, final_history_path, final_pe_path, model_config_provider):
     """
     Stage 3: Test Gathering
     """
@@ -780,7 +513,7 @@ def test_gathering(args, subfolder, case_output_dir, model_config_test, model_co
         final_pe = json.load(f).get("Final Physical Examination", "")
 
     user_proxy = UserProxyAgent(
-        name="User_proxy",
+        name="Admin",
         system_message="A human admin doctor.",
         code_execution_config=False,
         human_input_mode="NEVER",
@@ -791,9 +524,7 @@ def test_gathering(args, subfolder, case_output_dir, model_config_test, model_co
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's test results, including lab tests, radiographic tests, and other diagnostic tests. 
-
 Your sole responsibility is to gather comprehensive details about the patient's test results that would be helpful in reaching the final diagnosis, based on the patient's history and physical examination provided to you.
-
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
 
 Primary Objectives:
@@ -827,7 +558,7 @@ For each inquiry, use the following format:
 
 {{
 "doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+"doctor_action": "Doctor's instructions to the assistant, phrased in third person"
 }}
 
 When all necessary information has been gathered, organize the final test into lab tests, radiographic tests, and other tests, and present the complete test information in this format:
@@ -853,92 +584,6 @@ Here is the patient's record, based on these information you should determine wh
             system_message=doc_system_message,
         )
         Docs.append(Doc)
-
-    critic_system_message = f"""
-As a Critic Agent, your primary responsibility is to critically evaluate the questions, reasoning, and summarizations provided by the Doctor Agent. Your feedback ensures that the Doctor Agent's inquiries are precise, medically sound, and comprehensive, leading to accurate information gathering and optimal diagnostic reasoning.
-Core Responsibilities:
-Assess Question Quality:
-Evaluate whether each question posed by the Doctor Agent is:
-Actionable: Can the question elicit clear, specific, and relevant information from the patient or other agents?
-Specific: Avoids vague or overly general inquiries that may lead to incomplete or irrelevant answers.
-Medically Relevant: Pertains directly to the patient's condition, symptoms, or diagnostic process.
-Clear and Unambiguous: Free from confusion or misinterpretation.
-
-Ensure Comprehensive Information Gathering:
-Identify gaps where the Doctor Agent failed to gather critical information.
-Ensure that important follow-up questions are asked to clarify incomplete or ambiguous responses.
-Provide feedback when a question does not explore diagnostic possibilities thoroughly or skips important steps in the reasoning process.
-
-Evaluate Medical Reasoning:
-Critique the logical consistency of the Doctor Agent's questions and reasoning.
-Identify and correct inaccuracies in medical reasoning or gaps in the application of medical knowledge.
-Highlight missed opportunities to explore red flags, confirm key findings, or rule out differential diagnoses.
-
-Promote Diagnostic-Specific Inquiry:
-Ensure the Doctor Agent avoids relying on vague or non-specific findings.
-Encourage follow-up questions that aim to refine diagnostic hypotheses or confirm suspicions.
-Example Feedback: If the Doctor Agent stops at "the chest X-ray showed an abnormal shadow," critique the lack of inquiry into further imaging, biopsy, or detailed radiologic interpretation.
-
-Assess Summarization:
-Review the Doctor Agent’s summaries of patient information, physical examination findings, or test results for:
-Accuracy: Ensure that the summary reflects the facts accurately without misrepresentation.
-Completeness: Ensure all critical and relevant information is included.
-Logical Structure: Ensure the summary is well-organized, progressing logically from findings to conclusions.
-Provide feedback if key findings are omitted, misinterpreted, or inconsistently presented.
-
-Key Areas of Evaluation:
-A. Thoroughness in Inquiry:
-Has the Doctor Agent explored all aspects of the patient’s tests?
-Are there missed opportunities to ask for information that could confirm or rule out a differential diagnosis?
-Example Feedback: If the Doctor Agent fails to ask about risk factors (e.g., smoking history in a patient with a lung nodule), point out this gap.
-
-B. Diagnostic-Specific Questions:
-Are the questions designed to move beyond vague findings to actionable, diagnostic-specific details?
-Example Feedback: If the Doctor Agent only asks about "abnormal imaging findings" without specifying further steps (e.g., biopsy for lung nodule), prompt for more precise inquiry.
-
-C. Logical Medical Reasoning:
-Do the questions and reasoning demonstrate a clear understanding of how to evaluate symptoms, findings, and test results in the context of potential diagnoses?
-Are there any inconsistencies or flawed assumptions in the diagnostic reasoning process?
-Example Feedback: If the Doctor Agent assumes "normal vital signs" rule out sepsis without further inquiry, critique the oversimplification.
-
-D. Summarization:
-Is the summary accurate and comprehensive?
-Does it include both positive and negative findings relevant to the diagnosis?
-Does the summary demonstrate logical reasoning and a clear diagnostic focus?
-Example Feedback: If a summary omits critical negative findings (e.g., "No weight loss, no fever" in suspected malignancy), highlight this oversight.
-
-Constructive Feedback Principles:
-Be Specific and Actionable:
-Provide clear and detailed feedback on how to improve the question or reasoning.
-Example: Instead of “Your question is too vague,” provide, “Instead of asking, ‘Was the imaging abnormal?’ ask, ‘Did the CT scan show characteristics suggestive of malignancy, such as spiculated margins or lymph node involvement?’”
-
-Guide Towards Corrective Action:
-Offer suggestions for improved inquiry or reasoning.
-Example: “You should follow up on the elevated WBC count by asking whether blood cultures were drawn or imaging was performed to locate the source of infection.”
-
-Promote Critical Thinking:
-Encourage the Doctor Agent to think critically and refine their questioning process.
-Example: “Consider asking how the biopsy results correlate with the imaging findings to confirm the suspected diagnosis.”
-
-Interaction Process:
-
-- Analyze each question from the Doctor Agent and provide feedback in the following format:
-
-{{
-    "critic_feedback": "Critique of the question including specific observations and suggestions for improvement",
-    "suggested_revised_question": "Rephrased question (if necessary) that is more focused, clear, or unbiased"
-}}
-
-End of Interaction:
-
-- If the Doctor's inquiries consistently meet all guidelines or the questioning process is complete, provide a final message indicating that the Doctor’s questions meet the criteria or are well-refined.
-- Conclude with "REVIEW COMPLETE" when you determine that no further critique is needed for any remaining questions.
-"""
-    critic = AssistantAgent(
-        name="Critic",
-        llm_config=model_config_critic,
-        system_message=critic_system_message,
-    )
 
     laboratory_test_path = osp.join(subfolder, 'laboratory_test.json')
     if not osp.exists(laboratory_test_path):
@@ -1001,63 +646,16 @@ Here is the patient record:
 """
 
     provider = AssistantAgent(
-        name="Provider",
-        llm_config=model_config_test,
+        name="Assistant",
+        llm_config=model_config_provider,
         system_message=provider_system_message,
     )
 
-    def custom_speaker_selection_func(last_speaker, groupchat, max_subround=1):
-        """
-        Custom speaker order:
-        user_proxy -> [ Doc <-> critic ] -> provider
-        """
-
-        messages = groupchat.messages
-
-        # Use groupchat._n_subround to keep track of subrounds
-        if not hasattr(groupchat, "_n_subround"):
-            groupchat._n_subround = 0
-
-        # If there are no messages, the conversation starts with user_proxy
-        if len(messages) == 0:
-            return user_proxy
-
-        # After user_proxy, Doc speaks first
-        if last_speaker is user_proxy:
-            return Doc  
-
-        # Handle subrounds between Doc and critic
-        elif last_speaker is Doc:
-            if groupchat._n_subround >= max_subround:
-                # Once the maximum subrounds are reached, switch to provider
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-            else:
-                return critic  # After Doc, critic provides feedback
-
-        elif last_speaker is critic:
-            # Check if the critic's message contains "REVIEW COMPLETE" to end subrounds early
-            if "REVIEW COMPLETE" in messages[-1]["content"]:
-                groupchat._n_subround = 0  # Reset counter
-                return provider
-
-            # Increase subround counter; if not at max subrounds, return Doc
-            groupchat._n_subround += 1
-            if groupchat._n_subround >= max_subround:
-                return Doc  # provider
-            else:
-                return Doc  # After critic's feedback, Doc makes corrections
-
-        # After provider finishes speaking, restart the cycle with Doc
-        elif last_speaker is provider:
-            groupchat._n_subround = 0  # Reset counter
-            return Doc
-
     groupchat = GroupChat(
-        agents=[user_proxy] + Docs + [critic] + [provider],
+        agents=[user_proxy] + Docs + [provider],
         messages=[],
         max_round=args.n_round,
-        speaker_selection_method=custom_speaker_selection_func
+        speaker_selection_method="round_robin"
     )
     time.sleep(5)
 
@@ -1066,7 +664,7 @@ Here is the patient record:
         llm_config=model_config_test,
         is_termination_msg=lambda x: x.get("content", "").find("TERMINATE") >= 0,
     )
-    
+
     message = f"""
 The doctor should ask for patient's test results.
 """
@@ -1100,7 +698,7 @@ The doctor should ask for patient's test results.
         print(f"Final Updates During Test saved to: {final_updates_test_path}")
 
 @simple_retry(max_attempts=10, delay=1)
-def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, final_history_path, final_pe_path, final_test_path):
+def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, final_history_path, final_pe_path, final_test_path, model_config_provider):
     """
     Stage 4: Diagnosis
     """
@@ -1141,7 +739,7 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
         print(f"'Final Updates During Test' file not found. Skip loading.")
 
     user_proxy = UserProxyAgent(
-        name="User_proxy",
+        name="Admin",
         system_message="A human admin doctor.",
         code_execution_config=False,
         human_input_mode="NEVER",
@@ -1152,9 +750,7 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are a Doctor Agent specialized in making final diagnoses based on the patient's history, physical examination, and test results.
-
 Your sole responsibility is to analyze the comprehensive information gathered in the previous stages to arrive at the most accurate diagnosis.
-
 You should consider all provided information and reason thoroughly to make informed diagnostic decisions.
 
 Primary Objectives:
@@ -1163,16 +759,8 @@ Primary Objectives:
 - Formulate the most likely diagnosis based on the integrated data.
 - Provide differential diagnoses if applicable.
 - Provide your diagnostic reasoning
-- List key informaiton that help you to reach diagnosis. Give weights to the information you analyze, the weights should reflect how important it is for you to reach the final diagnosis and all weights sum up to 1, example: CT should dialated pancrease(weights 0.55)
-- Assign possibility for each diagnosis you finally provded, the possibility should add up to 100%, example: appendicitis 80%, pancreatis 20%.
 
-Output in the following format:
-{{
-    "key_information":"[key information with weights]"
-    "diagnosis_possibility":"[diagnosis with possibility]
-}}
-
-after analysis, output the final diagnosis, use the following format:
+Output the final diagnosis, use the following format:
 
 {{
 "Final Diagnosis": "[Your Diagnosis]",
@@ -1200,8 +788,18 @@ Final Test: {final_test}
         )
         Docs.append(Doc)
 
+    provider_system_message = f"""
+You do nothing, remain silent, output nothing.
+"""
+
+    provider = AssistantAgent(
+        name="Assistant",
+        llm_config=model_config_provider,
+        system_message=provider_system_message,
+    )
+
     groupchat = GroupChat(
-        agents=[user_proxy] + Docs,
+        agents=[user_proxy] + Docs + [provider],
         messages=[],
         max_round=args.n_round,
         speaker_selection_method="round_robin"
@@ -1300,17 +898,17 @@ def main():
         "config_list": config_list_diagnosis,
         "timeout": 120,
     }
-
-    filter_criteria_critic = {
-        "tags": [args.model_name_critic],
+    
+    filter_criteria_provider = {
+        "tags": [args.model_name_provider],
     }
-    config_list_critic = config_list_from_json(
-        env_or_file=args.config, filter_dict=filter_criteria_critic
+    config_list_provider = config_list_from_json(
+        env_or_file=args.config, filter_dict=filter_criteria_provider
     )
-    model_config_critic = {
+    model_config_provider = {
         "cache_seed": None,
-        "temperature": 0.3,
-        "config_list": config_list_critic,
+        "temperature": 0,
+        "config_list": config_list_provider,
         "timeout": 120,
     }
 
@@ -1318,14 +916,14 @@ def main():
 
     output_dir = args.output_dir
 
-    for subfolder in tqdm(subfolders, desc="处理病例"):
+    for subfolder in tqdm(subfolders, desc="Processing Cases"):
         try:
             case_crl = os.path.basename(subfolder)
             identify = f"{args.num_specialists}doctor_{args.n_round}round"
 
             base_output_dir = osp.join(
                 output_dir,
-                "test_stepwise_nochain_critic",
+                "trial_doctor_provider",
                 args.model_name_diagnosis,  # Adjust as needed
                 identify,
                 str(args.times),
@@ -1340,24 +938,24 @@ def main():
                 subfolder, 
                 case_output_dir, 
                 model_config_history,
-                model_config_critic
+                model_config_provider
             )
             pe_gathering(
                 args, 
                 subfolder, 
                 case_output_dir, 
                 model_config_pe, 
-                model_config_critic,
-                osp.join(case_output_dir, "final_history.json")
+                osp.join(case_output_dir, "final_history.json"),
+                model_config_provider
             )
             test_gathering(
                 args, 
                 subfolder, 
                 case_output_dir, 
                 model_config_test, 
-                model_config_critic,
                 osp.join(case_output_dir, "final_history.json"), 
-                osp.join(case_output_dir, "final_physical_examination.json")
+                osp.join(case_output_dir, "final_physical_examination.json"),
+                model_config_provider
             )
             diagnosis_stage(
                 args, 
@@ -1366,7 +964,8 @@ def main():
                 model_config_diagnosis, 
                 osp.join(case_output_dir, "final_history.json"), 
                 osp.join(case_output_dir, "final_physical_examination.json"), 
-                osp.join(case_output_dir, "final_test.json")
+                osp.join(case_output_dir, "final_test.json"),
+                model_config_provider
             )
 
         except Exception as e:

@@ -44,8 +44,8 @@ def parse_args():
     parser.add_argument(
         "--model_name",
         type=str,
-        default="x_gpt4omini",
-        choices=["x_gpt3.5", "x_gpt4omini", "x_gpt4o", "claude-3-haiku-20240307", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
+        default="gpt-4o-mini",
+        choices=["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "claude-3-haiku", "qwen2.5-72b-instruct", "qwen2.5-32b-instruct", "qwen2.5-14b-instruct", "qwen2.5-7b-instruct"],
         help="The LLM model to use.",
     )
     parser.add_argument(
@@ -296,7 +296,6 @@ Here is the patient case:
     else:
         print("Didn't extract any Final History, Final Physical Examination, or Final Test.")
 
-    # **Keep**
     # Define all possible keywords: "Most Likely Diagnosis", "Possible Diagnosis", "Diagnostic Reasoning", etc.
     diagnosis_keywords = [
         r'Most Likely Diagnosis',
