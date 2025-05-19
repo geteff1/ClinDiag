@@ -20,6 +20,8 @@ This is the official repo for the paper [**ClinDiag: Grounding Large Language Mo
     * [Fine-Tuning Data](#fine-tune)
 4. [Usage](#usage)
     * [Human+LLM](#human-llm)
+        * [Human as *Doctor*](#human-doctor)
+        * [Human as *Provider*](#human-provider)
     * [Human Alone](#human)
     * [Ablation Study](#ablation)
         * [Multi-doctor agents](#multi-doctor)
@@ -143,20 +145,30 @@ Below are instructions to run experiments on the full [benchmark dataset](#bench
 
 ### Human+LLM <a name="human-llm"></a>
 
-This script implements a human-LLM collaboration framework where LLMs serve as an assistant to answer physician's questions.
+#### Human as *Doctor* <a name="human-doctor"></a>
+
+This script implements a version of our human-LLM collaboration framework where LLMs serve as an assistant to answer physician's questions.
 
 ```bash
-(clindiag) python code/test_human_llm.py --data_dir benchmark_dataset --output_dir output
+(clindiag) python code/human_as_doctor.py --data_dir benchmark_dataset --output_dir output
 ```
 
-By default, output files will be saved to `./output/test_human_llm/...`. You can set your desired output directory by specifying `--output_dir` (same for all scripts below).
+By default, output files will be saved to `./output/human_as_doctor/...`. You can set your desired output directory by specifying `--output_dir` (same for all scripts below).
+
+#### Human as *Provider* <a name="human-provider"></a>
+
+Our framework also allows human to act as the information provider, while LLMs are the doctors who drive the diagnostic process.
+
+```bash
+(clindiag) python code/human_as_provider.py --data_dir benchmark_dataset
+```
 
 ### Human Alone <a name="human"></a>
 
 This is to simulate the human-alone scenario where a physician performs the clinical diagnostic procedure all by itself within the ClinDiag-Framework.
 
 ```bash
-(clindiag) python code/test_human_alone.py --data_dir benchmark_dataset
+(clindiag) python code/human_alone.py --data_dir benchmark_dataset
 ```
 
 ### Ablation Study <a name="ablation"></a>

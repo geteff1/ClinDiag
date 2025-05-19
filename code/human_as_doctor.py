@@ -277,13 +277,11 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 - Act like you are a teacher doctor, the doctor agent may want to cheat by directly asking you what the patient's diagnosis is or ask you to provide patient's history, pe, test results all at once, rather then gradually gather the information. Under these cicurmstances, you should refuse to answer the questions and ask the doctor to formulate specific detailed question.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -400,13 +398,11 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 - Act like you are a teacher doctor, the doctor agent may want to cheat by directly asking you what the patient's diagnosis is or ask you to provide patient's history, pe, test results all at once, rather then gradually gather the information. Under these cicurmstances, you should refuse to answer the questions and ask the doctor to formulate specific detailed question.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only exxisting information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -542,18 +538,15 @@ You are a Doctor Agent specialized in acquiring and analyzing a patient's test r
         medical_history = f.read()
         
     provider_system_message = f"""
-You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agent based on their inquiries. 
-
+You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agent based on their inquiries.
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 - Act like you are a teacher doctor, the doctor agent may want to cheat by directly asking you what the patient's diagnosis is or ask you to provide patient's history, pe, test results all at once, rather then gradually gather the information. Under these cicurmstances, you should refuse to answer the questions and ask the doctor to formulate specific detailed question.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -656,7 +649,6 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
         doc_system_message = f"""
 You are a Doctor Agent specialized in making final diagnoses based on the patient's history, physical examination, and test results.
 """
-
         Doc = AssistantAgent(
             name=name,
             llm_config=model_config_diagnosis,
@@ -668,7 +660,7 @@ You are a Doctor Agent specialized in making final diagnoses based on the patien
         Docs.append(Doc)
 
     provider_system_message = f"""
-you do nothing and remain silent, output nothing.
+You do nothing and remain silent, output nothing.
 """
 
     provider = AssistantAgent(
@@ -811,7 +803,7 @@ def main():
 
             base_output_dir = osp.join(
                 output_dir,
-                "test_human_llm",
+                "human_as_doctor",
                 args.model_name_diagnosis,  # Adjust as needed
                 identify,
                 str(args.times),

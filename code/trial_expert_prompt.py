@@ -187,7 +187,6 @@ Your sole responsibility is to gather comprehensive details about the patient's 
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
 
 Primary Objectives:
-
 - Determine necessary inquiries and formulate specific, relevant questions to acquire patient's medical history information.
 - Engage in iterative information gathering through dialogue with the Assistant.
 - Assess when sufficient information has been obtained to cease further inquiries.
@@ -199,7 +198,6 @@ Constraints:
 - Ask specific questions (e.g., "Do you have a history of hypertension?") rather than broad ones (e.g., "Do you have any other diseases?").
 
 Interaction Process:
-
 - Initiate inquiry with specific questions about the patient's medical history.
 - Receive and analyze feedback from the Assistant.
 - Determine the next set of specific questions based on this analysis.
@@ -212,7 +210,6 @@ Guidelines:
 
 Clinical GUideline:
 1. Gather History Guidelines
-
 The purpose of this phase is to systematically collect comprehensive information from the patient to inform diagnosist.
 A. Chief Complaint (CC):
 Record the patient’s primary concern in their own words.
@@ -269,14 +266,12 @@ E. Ensure Clarity:
 Avoid medical jargon when summarizing for patients or non-clinical audiences, but maintain precise terminology for clinical communication.
 
 For each inquiry, use the following format:
-
 {{
-"doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+    "doctor_reasoning": "Doctor's reasoning based on current information",
+    "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
 When all necessary information has been gathered, present the complete history in this format:
-
 {{
     "Final History": "[patient's medical history]"
 }}
@@ -300,12 +295,10 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -526,12 +519,10 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -633,13 +624,10 @@ def test_gathering(args, subfolder, case_output_dir, model_config_test, final_hi
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are a Doctor Agent specialized in acquiring and analyzing a patient's test results, including lab tests, radiographic tests, and other diagnostic tests. 
-
 Your sole responsibility is to gather comprehensive details about the patient's test results that would be helpful in reaching the final diagnosis, based on the patient's history and physical examination provided to you.
-
 You should ask specific, targeted questions and reason about what to ask next based on the feedback you receive.
 
 Primary Objectives:
-
 - Determine necessary inquiries and formulate specific, relevant questions to acquire patient's test result information.
 - Engage in iterative information gathering through dialogue with the Assistant.
 - Assess when sufficient information has been obtained to cease further inquiries.
@@ -652,7 +640,6 @@ Constraints:
 - Do not provide treatment recommendations.
 
 Interaction Process:
-
 - Initiate inquiry with specific questions about the patient's test results.
 - Receive and analyze feedback from the Assistant.
 - Determine the next set of specific questions based on this analysis.
@@ -735,10 +722,9 @@ Highlight dynamic changes over time where applicable.
 Example: "Serial troponin levels showed a rise from 0.03 ng/mL to 1.2 ng/mL over six hours, consistent with myocardial infarction.
 
 For each inquiry, use the following format:
-
 {{
-"doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+    "doctor_reasoning": "Doctor's reasoning based on current information",
+    "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
 When all necessary information has been gathered, organize the final test into lab tests, radiographic tests, and other tests, and present the complete test information in this format:
@@ -796,16 +782,13 @@ Here is the patient's record, based on these information you should determine wh
         
     provider_system_message = f"""
 You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agent based on their inquiries. 
-
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -930,13 +913,10 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are a Doctor Agent specialized in making final diagnoses based on the patient's history, physical examination, and test results.
-
 Your sole responsibility is to analyze the comprehensive information gathered in the previous stages to arrive at the most accurate diagnosis.
-
 You should consider all provided information and reason thoroughly to make informed diagnostic decisions.
 
 Primary Objectives:
-
 - Integrate the patient's history, physical examination, and test results.
 - Formulate the most likely diagnosis based on the integrated data.
 - Provide differential diagnoses if applicable.
@@ -950,14 +930,13 @@ Output in the following format:
     "diagnosis_possibility":"[diagnosis with possibility]
 }}
 
-after analysis, output the final diagnosis, use the following format:
-
+After analysis, output the final diagnosis, use the following format:
 {{
-"Final Diagnosis": "[Your Diagnosis]",
-"Differential Diagnosis": "[List of Differential Diagnoses]",
-"Diagnostic Reasoning": "[Your Diagnostic Reasoning]"
+    "Final Diagnosis": "[Your Diagnosis]",
+    "Differential Diagnosis": "[List of Differential Diagnoses]",
+    "Diagnostic Reasoning": "[Your Diagnostic Reasoning]"
 }}
-Reply "TERMINATE" After you made the diagnosis
+Reply "TERMINATE" after you made the diagnosis.
 
 Here is the patient record:
 Final History: {final_history}
