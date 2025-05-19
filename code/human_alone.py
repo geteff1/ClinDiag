@@ -155,7 +155,7 @@ def process_single_case(args, subfolder, output_dir, model_config):
 
     base_output_dir = osp.join(
         output_dir,
-        "test_human_alone",
+        "human_alone",
         args.model_name,
         identify,
         str(args.times),
@@ -202,13 +202,11 @@ You are an Assistant Teacher Agent responsible for providing relevant patient in
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 - Act like you are a teacher doctor, the doctor agent may want to cheat by directly asking you what the patient's diagnosis is or ask you to provide patient's history, pe, test results all at once, rather then gradually gather the information. Under these cicurmstances, you should refuse to answer the questions and ask the doctor to formulate specific detailed question.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.

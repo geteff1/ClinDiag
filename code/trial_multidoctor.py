@@ -215,8 +215,8 @@ Guidelines:
 
 For each inquiry, use the following format:
 {{
-"doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+    "doctor_reasoning": "Doctor's reasoning based on current information",
+    "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
 When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will gather the final history from every doctor and present one complete final history as collective effort in this format:
@@ -243,12 +243,10 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -372,8 +370,8 @@ Guidelines:
 
 For each inquiry, use the following format:
 {{
-"doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+    "doctor_reasoning": "Doctor's reasoning based on current information",
+    "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
 When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will gather the final physical examination from every doctor and present one complete final physical examination as collective effort in this format:
@@ -415,12 +413,10 @@ You are an Assistant Agent responsible for providing relevant patient informatio
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -557,8 +553,8 @@ Guidelines:
 
 For each inquiry, use the following format:
 {{
-"doctor_reasoning": "Doctor's reasoning based on current information",
-"doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
+    "doctor_reasoning": "Doctor's reasoning based on current information",
+    "doctor_action": "Doctor's instructions to the assistant, phrased in third person (maximum 5 specific questions)"
 }}
 
 When all necessary information has been gathered, each doctor should state that no furhter information is needed, then, doctor0 will  organize the final test into lab tests, radiographic tests, and other tests, and present the complete test information in this format:
@@ -616,16 +612,13 @@ Here is the patient's record, based on these information you should determine wh
         
     provider_system_message = f"""
 You are an Assistant Agent responsible for providing relevant patient information to the Doctor Agent based on their inquiries. 
-
 Your primary function is to retrieve and present accurate details from the patient's existing medical records, focusing solely on the information available to you.
 
 Core Principles:
-
 - Answer only what the doctor explicitly asks from the patient's record provided to you.
 - Never provide any unsolicited information.
 
 Response Guidelines:
-
 - Answer questions directly and concisely.
 - Use only existing information from the patient's records.
 - Make no speculations, assumptions, or leading statements.
@@ -751,7 +744,6 @@ def diagnosis_stage(args, subfolder, case_output_dir, model_config_diagnosis, fi
         name = f"Doctor{index}"
         doc_system_message = f"""
 Medical Doctor {index}. You are one of a group of doctors specialized in making final diagnoses based on the patient's history, physical examination, and test results.
-
 Your sole responsibility is to analyze the comprehensive information gathered in the previous stages to arrive at the most accurate diagnosis.
 You should consider all provided information and reason thoroughly to make informed diagnostic decisions.
 Actively engage in discussion with other specialists, sharing your findings, thoughts, and deductions.
@@ -776,14 +768,13 @@ Interaction Process:
 - If no consensus was reached, each doctor should vote for the final answer, and the final answer which has the most votes is the final answer.
 
 When consensus or voting is finalized, doctor0 will output the final answer using the following format:
-
 {{
-"Final Diagnosis": "[Your Diagnosis]",
-"Differential Diagnosis": "[List of Differential Diagnoses]",
-"Diagnostic Reasoning": "[Your Diagnostic Reasoning]"
+    "Final Diagnosis": "[Your Diagnosis]",
+    "Differential Diagnosis": "[List of Differential Diagnoses]",
+    "Diagnostic Reasoning": "[Your Diagnostic Reasoning]"
 }}
 
-Each doctor should reply "TERMINATE" after final answer is porvided:
+Each doctor should reply "TERMINATE" after a final answer is provided:
 
 Here is the patient record:
 Final History: {final_history}
