@@ -57,12 +57,12 @@ class CustomModelClient:
                 temperature=0.3,
             )
             if res.status_code != 200:
-                print(f"Request ID: {response.request_id}")
-                print(f"HTTP return code: {response.status_code}")
-                print(f"Error code: {response.code}")
-                print(f"Error message: {response.message}")
+                print(f"Request ID: {res.request_id}")
+                print(f"HTTP return code: {res.status_code}")
+                print(f"Error code: {res.code}")
+                print(f"Error message: {res.message}")
                 # Ref: https://help.aliyun.com/zh/model-studio/developer-reference/error-code
-                raise RuntimeError(f"DashScope request failed: {response.code} - {response.message}")
+                raise RuntimeError(f"DashScope request failed: {res.code} - {res.message}")
             
             text = res.get("output", {}).get("choices", [{}])[0].get("message", {}).get("content", "")
             choice = SimpleNamespace()
