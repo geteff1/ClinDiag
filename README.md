@@ -30,8 +30,11 @@ This is the official repo for the paper [**ClinDiag: Grounding Large Language Mo
 
 
 ## Installation <a name="installation"></a>
-Installation does not require non-standard hardware.
-Installation time depends on internet connection bandwidth, typically less than 30 minutes.
+
+This installation requires *no* non-standard hardware.
+
+The installation time depends on internet connection bandwidth and typically takes less than 30 mins.
+
 ### Set up a virtual environment <a name="venv"></a>
 
 When using pip it is generally recommended to install packages in a virtual environment to avoid modifying system state. We use [`conda`](https://www.anaconda.com/download/) as an example here:
@@ -76,7 +79,8 @@ The tags will be used to filter selected model(s) for each stage, see `parse_arg
 - 🔗 **Demo website: https://clindiag.streamlit.app/**
 
 Trained on our [fine-tuning dataset](#fine-tune), *ClinDiag-GPT* showed superior performance in clinical diagnostic procedures. Although we can't provide direct API access to our fine-tuned model for security and cost considerations, feel free to chat with ClinDiag-GPT on our [demo website](https://clindiag.streamlit.app/).
-Installation is not required, the time to run a demo usually takes 10-20 minutes.
+
+Running the demo on our website doesn't require any additional installation or configuration. It normally takes 10-20 mins to go through a full demo case.
 
 ### 🏗 ClinDiag-Framework <a name="clindiag-framework"></a>
 
