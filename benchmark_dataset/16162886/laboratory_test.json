@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Two Weeks before Admission",
+            "findings": "14.0 g/dl",
+            "changes_over_time": "Decreased to 9.9 g/dl on admission, further decreased to 8.7 g/dl on 3rd hospital day."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Two Weeks before Admission",
+            "findings": "29.6%",
+            "changes_over_time": "Decreased to 26.4% on admission."
+        },
+        {
+            "procedure_name": "Red-cell count",
+            "date": "Two Weeks before Admission",
+            "findings": "3,690,000 per mm³",
+            "changes_over_time": "Decreased to 3,300,000 per mm³ on admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Two Weeks before Admission",
+            "findings": "19,000 per mm³",
+            "changes_over_time": "Decreased to 13,500 per mm³ on admission, further decreased to 12,900 per mm³ on 3rd hospital day."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Two Weeks before Admission",
+            "findings": "641,000 per mm³",
+            "changes_over_time": "Decreased to 535,000 per mm³ on admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Two Weeks before Admission",
+            "findings": "1.4 mg/dl",
+            "changes_over_time": "Increased to 5.7 mg/dl on admission, decreased to 5.1 mg/dl on 2nd hospital day, further decreased to 4.2 mg/dl on 3rd hospital day."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Two Weeks before Admission",
+            "findings": "529 mg/dl",
+            "changes_over_time": "Decreased to 503 mg/dl on admission, further decreased to 342 mg/dl on 3rd hospital day."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Two Weeks before Admission",
+            "findings": "124 mmol/liter",
+            "changes_over_time": "Increased to 127 mmol/liter on admission, further increased to 133 mmol/liter on 2nd hospital day."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "On Admission",
+            "findings": "5.0 mmol/liter",
+            "changes_over_time": "Decreased to 3.7 mmol/liter on 3rd hospital day."
+        },
+        {
+            "procedure_name": "Liver function test (Alanine aminotransferase)",
+            "date": "On Admission",
+            "findings": "29 U/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunoglobulin IgG",
+            "date": "On Admission",
+            "findings": "1780 mg/dl",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antineutrophil cytoplasmic antibodies",
+            "date": "On Admission",
+            "findings": "Positive at a titer of 1:256.",
+            "changes_over_time": "Negative at follow-up fourteen months after presentation."
+        }
+    ]
+}

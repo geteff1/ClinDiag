@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared unwell and cachectic with generalized muscle wasting.",
+                "cardiac": "No murmur or stigmata of endocarditis.",
+                "abdominal": "Unremarkable, with no organomegaly and normal bowel sounds.",
+                "joints": "No joint swelling or erythema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

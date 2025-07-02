@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "84 bpm",
+                "temperature": "99.4°F",
+                "weight": "63.2 kg",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "calf_pain": "4 (best) to 6 (worst) bilaterally",
+                "shoulder_pain": "6 minimum to 9 maximum",
+                "mobility": "severely limited",
+                "edema": "None observed",
+                "capillary_refill": "Good",
+                "reflexes": {
+                    "biceps": "2+",
+                    "brachioradialis": "2+",
+                    "triceps": "2+",
+                    "Achilles": "2+",
+                    "quadriceps": "3+ (slightly hyperreflexive)"
+                },
+                "range_of_motion": {
+                    "right_shoulder_flexion_passive": "52°",
+                    "right_shoulder_flexion_active": "31°",
+                    "right_hip_active": "47°",
+                    "right_hip_passive": "29°"
+                },
+                "gait": "Antalgic",
+                "gait_issues": "Increased pain with weight bearing",
+                "pain_over_involved_joints": "Diffuse but no specific point tenderness noted"
+            },
+            "changes_over_time": "Weight decreased from 68.2 kg (1 week prior) to 63.2 kg at this examination."
+        },
+        {
+            "date": "22nd day after initiating minocycline therapy",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "weight": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The patient presented with severe myalgia, arthralgia, and fatigue.",
+            "changes_over_time": "Symptoms progressively worsened with joint pain, swelling, and rash leading to the examination."
+        }
+    ]
+}

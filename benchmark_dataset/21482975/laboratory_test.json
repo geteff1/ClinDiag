@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL at initial presentation, decreased to 1.5 mg/dL at discharge",
+            "changes_over_time": "Decreased from 2.0 mg/dL to 1.5 mg/dL after treatment"
+        },
+        {
+            "procedure_name": "Echocardiogram (Ejection Fraction)",
+            "date": "Not specified",
+            "findings": "15% at initial presentation, unchanged at 25% during follow-up",
+            "changes_over_time": "Unchanged at 25% after 6 months"
+        },
+        {
+            "procedure_name": "Right-sided Heart Catheterization",
+            "date": "Not specified",
+            "findings": "Right atrial pressure of 6 mm Hg, pulmonary artery pressure of 38/18 mm Hg, and pulmonary capillary wedge pressure of 15 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiopulmonary Exercise Stress Testing",
+            "date": "Not specified",
+            "findings": "V˙ O2max of 10.4 mL /kg/min with a respiratory exchange ratio of 1.1",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

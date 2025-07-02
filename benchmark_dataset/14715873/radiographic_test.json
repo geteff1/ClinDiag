@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Left-sided abdominal mass (8.5 x 5.5 x 3.5 cm) with local lymph node metastasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Lytic lesions within the lumbar vertebra 2.",
+            "changes_over_time": "Progression of metastatic PGL was noted clinically and biochemically one year later."
+        },
+        {
+            "procedure_name": "123I-MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "Increased uptake in the proximal right femur and in the frontal skull.",
+            "changes_over_time": "Metastatic PGL progression was noted one year later."
+        },
+        {
+            "procedure_name": "123I-MIBG therapy",
+            "date": "Not specified",
+            "findings": "Therapeutic administration was unsuccessful.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preoperative abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Left-sided abdominal mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

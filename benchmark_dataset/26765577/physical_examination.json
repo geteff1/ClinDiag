@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/100 mmHg",
+                "heart_rate": "100 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Severe headache, hypertension, tachycardia, clinical suspicion of pheochromocytoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 37 years (six years later)",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Thyroid ultrasound showed a 5 mm thyroid nodule; basal calcitonin elevated at 7.9 pg/mL, stimulated to 492 pg/mL after pentagastrin.",
+            "changes_over_time": "Baseline calcitonin normal in all visits before, now mildly elevated suggesting the development of medullary thyroid carcinoma (MTC)."
+        }
+    ]
+}

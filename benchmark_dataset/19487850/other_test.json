@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Video-assisted thoracoscopic surgical biopsy",
+            "date": "Not specified",
+            "findings": "Circumscribed mass of lymphoid tissue with numerous reactive germinal centers; immunohistochemical analysis showed a mixture of B and T cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "F-18 FDG PET/CT scan",
+            "date": "Not specified",
+            "findings": "Multifocal abnormal FDG uptake in the right thorax with SUVmax ranging from 1.4 to 2.7; no FDG-avid hilar/mediastinal lymphadenopathy or extrathoracic lesions.",
+            "changes_over_time": "Gradual and spontaneous regression of lung lesions on follow-up CT images."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Follow-up at 3-, 6-, and 1-year intervals after VATS",
+            "findings": "Latest CT images showed disappearance or shrinkage of the lesions.",
+            "changes_over_time": "Normalization of the serum interleukin-2 receptor."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "blood_pressure": "140/81 mmHg",
+                "pulse": "111 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "counting fingers at 0.3 m (1 ft), no improvement with pinhole testing",
+                "intraocular_pressure": "11 mmHg",
+                "eyelids": "normal",
+                "subconjunctival_hemorrhage": "trace",
+                "anterior_chamber": "trace cells, no hypopyon",
+                "fundoscopic_exam": {
+                    "vitreous": "opacities obscuring the posterior pole",
+                    "retina": "yellow-white changes, subretinal fluid in macular area"
+                },
+                "lung_exam": "normal",
+                "heart_exam": "normal",
+                "abdominal_exam": "soft, mild tenderness in right upper quadrant",
+                "pelvic_exam": "normal"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "urinalysis": {
+                    "color": "cloudy",
+                    "turbidity": "cloudy",
+                    "pH": "6.0",
+                    "specific_gravity": "1.016",
+                    "white_cells": ">100 per high-power field",
+                    "red_cells": ">100 per high-power field",
+                    "albumin": "2+",
+                    "blood": "3+"
+                },
+                "creatinine": {
+                    "day_of_admission": "2.9 mg/dL",
+                    "on_admission": "3.71 mg/dL"
+                },
+                "urine_color_change": "from yellow to red"
+            },
+            "changes_over_time": "Renal function returned to normal after stopping sulfadiazine and hydration."
+        }
+    ]
+}

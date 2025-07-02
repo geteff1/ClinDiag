@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "heart_rate": {
+                    "supine": "55 bpm",
+                    "standing": "83 bpm"
+                },
+                "blood_pressure": {
+                    "supine": "122/60 mm Hg",
+                    "standing": "118/62 mm Hg"
+                },
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general_appearance": "Fatigued",
+                "conjunctivae": "Slightly pale",
+                "oropharynx": "No lesions noted",
+                "cardiac": {
+                    "rate": "Regular",
+                    "rhythm": "No murmurs or gallops",
+                    "jugular_venous_pressure": "5 cm of water"
+                },
+                "pulmonary": "Lungs clear on auscultation",
+                "abdominal": {
+                    "general": "Soft, nontender, nondistended",
+                    "hepatosplenomegaly": "Absent",
+                    "masses": "Absent",
+                    "bruits": "Absent"
+                },
+                "rectal": {
+                    "blood": "Small amount of dark-red blood",
+                    "examination": "Normal bowel sounds"
+                },
+                "extremities": {
+                    "temperature": "Warm",
+                    "pulses": "Intact distal pulses",
+                    "edema": "None"
+                },
+                "telangiectasias": "None"
+            },
+            "changes_over_time": "Not applicable, as no previous findings are recorded."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hemoglobin": "Decreased from 31% to 25% and then to 22% after further bleeding.",
+                "creatinine": {
+                    "initial": "1.37 mg/dL (increased from baseline)",
+                    "normalized": "Eventually normalized"
+                }
+            },
+            "relevant_findings": "Continuously monitored vital signs post-infusion and blood administration.",
+            "changes_over_time": "Hematocrit decreased progressively over time, indicating recurrent bleeding episodes."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Thyroid values were normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prolactin Test",
+            "date": "Not specified",
+            "findings": "Prolactin was 3.2 µg/liter (normal value 2.0–20.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SHBG Test",
+            "date": "Not specified",
+            "findings": "SHBG 3.2 mg/liter (1.6–7.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DHEA Test",
+            "date": "Not specified",
+            "findings": "Dehydroepiandrosterone 3.7 µmol/liter (1.0–12.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Androstenedione Test",
+            "date": "Not specified",
+            "findings": "Androstenedione 2.9 nmol/liter (1.0–8.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testosterone Test",
+            "date": "Not specified",
+            "findings": "Testosterone 3.9 nmol/liter (children 0.3–3.0; women 0.3–3.0; postmenopausal women 0.3–2.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estradiol Test",
+            "date": "Not specified",
+            "findings": "Estradiol 121 pmol/liter (children <100; early follicular phase 100–250; preovulation phase 700–2000; luteal phase 150–800; postmenopausal <100)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dihydrotestosterone Test",
+            "date": "Not specified",
+            "findings": "Dihydrotestosterone 0.17 nmol/liter (0.10–0.79)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LHRH Test",
+            "date": "Not specified",
+            "findings": "FSH increased from 108 to 145 IU/liter (prepubertal <14.0; fertile age 1.0–13.0; midcycle peak 4.0–30.0; menopausal 22.0–190.0) and LH from 38 to 120 IU/liter",
+            "changes_over_time": "FSH increased from 108 to 145 IU/liter and LH from 38 to 120 IU/liter"
+        },
+        {
+            "procedure_name": "Chromosomal Analysis",
+            "date": "Not specified",
+            "findings": "Chromosomal analysis revealed a 46,XY karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sonographic Examination",
+            "date": "Not specified",
+            "findings": "Sonographic examination showed a uterus of 12 ml, and no ovaries could be identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological Examination",
+            "date": "Not specified",
+            "findings": "Histological examination revealed normal fallopian tubes and streak gonads bilaterally. The left gonad contained a gonadoblastoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

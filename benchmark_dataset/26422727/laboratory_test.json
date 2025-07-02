@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": "78.6 mIU per liter (reference range, 0.5 to 5.7)",
+            "changes_over_time": "Initial thyrotropin level of 89 mIU per liter decreased to 15.9 mIU per liter after treatment."
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "Not specified",
+            "findings": "0.8 ng per deciliter (reference range, 0.9 to 1.7 ng per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "10 mg per deciliter (3.6 mmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.82 mg per deciliter (72 μmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "2.6 g per deciliter (reference range, 3.5 to 5.2)",
+            "changes_over_time": "Increased to 3.1 g per deciliter after treatment."
+        },
+        {
+            "procedure_name": "Total Protein",
+            "date": "Not specified",
+            "findings": "5.9 g per deciliter (reference range, 6.0 to 8.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ protein and no blood; urine protein-to-creatinine ratio of 7.",
+            "changes_over_time": "Decreased to 1.4 after treatment; proteinuria of 0.1 after 4 weeks of treatment."
+        },
+        {
+            "procedure_name": "Cholesterol",
+            "date": "Not specified",
+            "findings": "Total cholesterol level 321 mg per deciliter (8.30 mmol per liter); LDL 248 mg per deciliter (6.41 mmol per liter); HDL 37 mg per deciliter (0.96 mmol per liter); triglyceride level 179 mg per deciliter (2.02 mmol per liter)",
+            "changes_over_time": "Lipid levels returned to normal range by discharge."
+        },
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "Not specified",
+            "findings": "Total urine T4 level of 2.14 μg per deciliter; calculated 24-hour T4 excretion of 62 μg.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

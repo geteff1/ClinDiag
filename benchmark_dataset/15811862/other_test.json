@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "QT prolongation (QTm 600 ms, QTc 577 ms) and preexcitation with a delta wave.",
+            "changes_over_time": "Post-ablation ECG showed no delta wave; however, QT prolongation was still present (QTm 640 ms, QTc 604 ms)."
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Polymorphic ventricular tachycardia (torsade de pointes) with a duration of 50 s, self-terminating.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiofrequency ablation",
+            "date": "Not specified",
+            "findings": "Successful treatment of the left inferoposterior accessory pathway.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

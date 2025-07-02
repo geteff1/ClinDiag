@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "135/78 mmHg",
+                "heart_rate": "75 bpm",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": [
+                "Oral mucosal ulcerations",
+                "Diffuse purpuric and urticarial lesions on multiple locations in the body"
+            ],
+            "changes_over_time": "On a two-month follow-up, his rash was resolved."
+        }
+    ]
+}

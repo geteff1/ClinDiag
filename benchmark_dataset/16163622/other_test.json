@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "Not specified",
+            "findings": "CD4 cell count was reported as 45 cells/mL, up from a nadir of 7 cells/mL.",
+            "changes_over_time": "Subsequently increased to 121 cells/mL after improved adherence to antiretroviral therapy."
+        },
+        {
+            "procedure_name": "Excisional lymph node biopsy",
+            "date": "Not specified",
+            "findings": "Polymorphous lymphoid infiltrate with normal architecture; EBV-related lymphoid hyperplasia confirmed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum EBV load measurement",
+            "date": "Not specified",
+            "findings": "Initial serum EBV load was 1700 copies/mL.",
+            "changes_over_time": "Became undetectable two months after starting antiretroviral therapy."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Initial CT scan: Not specified; Follow-up CT scan: 8 months after initial scan",
+            "findings": "Initial CT showed bilateral axillary lymphadenopathy and other lymph node enlargements; follow-up CT showed significant shrinkage of the lymphadenopathy.",
+            "changes_over_time": "Significant shrinkage of lymphadenopathy observed on follow-up examination."
+        }
+    ]
+}

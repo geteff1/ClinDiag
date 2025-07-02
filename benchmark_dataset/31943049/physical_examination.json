@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "leukocytosis": "12,300 cells/μL",
+                "erythrocyte_sedimentation_rate": "49 mm/h",
+                "C-reactive_protein": "103 mg/L"
+            },
+            "relevant_findings": "Left lower extremity CT showed superficial soft tissue edema without osteomyelitis or abscess. Echocardiogram showed normal ventricular function without vegetations.",
+            "changes_over_time": "Rash and pain worsened with a short trial of steroids after initial improvement."
+        }
+    ]
+}

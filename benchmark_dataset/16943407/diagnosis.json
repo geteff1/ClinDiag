@@ -1,0 +1,18 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bartonella henselae infection with abscesses of the liver and spleen.",
+        "differential_diagnosis": [
+            "Pyogenic bacteria",
+            "Salmonella",
+            "Staphylococcus aureus",
+            "Bartonella henselae",
+            "Nocardia",
+            "Yersinia pseudotuberculosis",
+            "Listeria monocytogenes",
+            "Campylobacter jejuni",
+            "Legionella pneumophila",
+            "Entamoeba histolytica"
+        ],
+        "diagnostic_reasoning": "The clinical presentation included spiking fever, rigors, weight loss, and multiple hypodense lesions with peripheral enhancement on CT of the liver and spleen. The lack of abdominal pain and negative cultures pointed against infection from an intraabdominal source. The patient's exposure to cats raised concern for Bartonella infection. Serum testing showed significantly elevated IgG titers for B. henselae, confirming the diagnosis."
+    }
+}

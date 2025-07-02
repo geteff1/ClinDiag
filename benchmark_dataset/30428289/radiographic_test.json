@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "bone scan",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "mammography",
+            "date": "12 years after the initial diagnosis",
+            "findings": "A cluster of calcifications in the right breast, revealing ductal carcinoma in situ and lobular neoplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ventilation–perfusion scan",
+            "date": "9 years before the current evaluation",
+            "findings": "High probability of pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "8 months before the current evaluation",
+            "findings": "Enlargement of a left axillary lymph node and left subpectoral lymph node.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest CT",
+            "date": "2 months before the current evaluation",
+            "findings": "Multiple mixed lytic and blastic lesions in thoracic vertebrae, ribs, and sternum. Mild compression deformity in the thoracic spine with extradural enhancing focus at T10. Multiple enhancing lesions in the spleen measuring up to 12 mm. Focal hypodensity (12 mm) in the left lobe of the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "whole-body bone scan",
+            "date": "2 months before the current evaluation",
+            "findings": "Multiple sites of increased uptake throughout the axial and appendicular skeleton.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

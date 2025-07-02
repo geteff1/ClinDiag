@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "15th day of life",
+            "vital_signs": {
+                "blood_sugar_level": "1000 mg/dl (55.5 mmol/liter)",
+                "arterial_pH": "6.98"
+            },
+            "relevant_findings": {
+                "seizure": "yes",
+                "hyperglycemia": "yes",
+                "severe_metabolic_acidosis": "yes"
+            },
+            "changes_over_time": "Condition gradually stabilized in response to IV insulin therapy."
+        },
+        {
+            "date": "20th day of life",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "MRI_results": "Bilateral subacute brain infarction"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Onset at 2 years of age",
+            "vital_signs": {
+                "blood_urea_nitrogen": "19 mg/dl (6.78 mmol/liter)",
+                "creatinine": "2.5 mg/dl (221 µmol/liter)"
+            },
+            "relevant_findings": {
+                "tachypnea": "yes",
+                "renal_dysfunction": "yes"
+            },
+            "changes_over_time": "Renal function gradually deteriorated leading to end-stage renal failure."
+        },
+        {
+            "date": "5 years of age",
+            "vital_signs": {
+                "blood_glucose": "474 mg/dl (26.3 mmol/liter)"
+            },
+            "relevant_findings": {
+                "episodic_hyperglycemia": "yes",
+                "euglycemic": "dependent on future check-ups"
+            },
+            "changes_over_time": "Blood glucose returned to normal within several days."
+        }
+    ]
+}

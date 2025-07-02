@@ -1,0 +1,43 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical wedge biopsy",
+            "date": "Not specified",
+            "findings": "Histologic examination revealed diffuse pulmonary alveolar hemorrhage with focal infarction, evidence of multifocal thromboembolic disease, fibrinous pleuritis, and prominent neutrophilic infiltrate.",
+            "changes_over_time": "High titers of anticardiolipin IgG antibodies and β2-glycoprotein IgG antibodies remained high on repeat testing 24 weeks later."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "Various dates provided",
+            "findings": {
+                "Initial Evaluation": {
+                    "FEV1": "4.48 liters (96% of predicted)",
+                    "FVC": "5.15 liters (98% of predicted)"
+                },
+                "6 Weeks Before Presentation": {
+                    "FEV1": "4.31 liters (91% of predicted)",
+                    "FVC": "5.61 liters (85% of predicted)"
+                },
+                "On Presentation": {
+                    "FEV1": "3.96 liters (84% of predicted)",
+                    "FVC": "4.53 liters (81% of predicted)"
+                },
+                "First Follow-up Assessment": {
+                    "FEV1": "3.46 liters (73% of predicted)",
+                    "FVC": "3.99 liters (71% of predicted)"
+                },
+                "Second Follow-up Assessment": {
+                    "FEV1": "4.23 liters (91% of predicted)",
+                    "FVC": "4.94 liters (89% of predicted)"
+                }
+            },
+            "changes_over_time": "FEV1 decreased from 4.48 liters (96% of predicted) to 3.46 liters (73% of predicted) at the first follow-up, but increased to 4.23 liters (91% of predicted) at the second follow-up."
+        }
+    ]
+}

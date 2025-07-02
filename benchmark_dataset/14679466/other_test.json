@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Synovial fluid analysis",
+            "date": "Not specified",
+            "findings": "50 cells/mm3, of which 80% were polymorphonuclear cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Positive for Brucella species, identified as REV 1 (vaccine strain) Brucella mellitensis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arthrocentesis and synovial fluid culture",
+            "date": "1 year later",
+            "findings": "Presence of the same species of Brucella.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology data reporting",
+            "date": "Not specified",
+            "findings": "Discovered linezolid-resistant, vancomycin-resistant Enterococcus faecium isolated during annual antibiogram preparation.",
+            "changes_over_time": "New software implemented for timely retrieval of resistance data."
+        }
+    ]
+}

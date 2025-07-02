@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Necrosis along with endomysial and perivascular lymphocytic infiltrates; no fibrosis or fatty infiltration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG) and nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Initially normal; a new EMG revealed a myopathic pattern.",
+            "changes_over_time": "Pattern changed from normal to myopathic."
+        }
+    ]
+}

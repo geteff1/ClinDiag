@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Chemistry",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "133 mmol/L",
+                "chloride": "97 mmol/L",
+                "creatinine": "1.4 mg/dL (124 μmol/L)",
+                "total_bilirubin": "1.4 mg/dL (24 μmol/L)",
+                "white_cell_count": "22,500 per cubic mm, with 87% neutrophils and 5% lymphocytes",
+                "hematocrit": "44.8%",
+                "platelet_count": "200,000 per cubic mm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Day 1 of hospitalization",
+            "findings": {
+                "initial_culture": "Gram-negative rods in a single anaerobic bottle",
+                "subsequent_culture": "No growth by day 8"
+            },
+            "changes_over_time": "The organism from blood culture was identified as Pseudomonas luteola on day 6."
+        },
+        {
+            "procedure_name": "Serum Chemistry",
+            "date": "Not specified (but on or after transfer to another hospital)",
+            "findings": {
+                "creatinine": "0.7 mg/dL (62 μmol/L)",
+                "total_bilirubin": "0.7 mg/dL (12 μmol/L)",
+                "white_cell_count": "21,600 per cubic mm",
+                "hematocrit": "35.0%",
+                "platelet_count": "381,000 per cubic mm"
+            },
+            "changes_over_time": "Creatinine levels decreased from 1.4 mg/dL to 0.7 mg/dL; bilirubin levels decreased from 1.4 mg/dL to 0.7 mg/dL."
+        },
+        {
+            "procedure_name": "CT of the Chest",
+            "date": "Day 2 of hospitalization",
+            "findings": {
+                "description": "Bilateral ground-glass opacities, bilateral small effusions, right hilar and subcarinal lymphadenopathy."
+            },
+            "changes_over_time": "Repeat CT revealed worsening ground-glass opacities into areas of dense consolidation and worsening bilateral effusions by day 14."
+        }
+    ]
+}

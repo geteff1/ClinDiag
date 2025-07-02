@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 23 - April 25, 2020",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patients presented with dyspnea and hypoxia. CT scans revealed bilateral ground-glass opacities in two patients, and unilateral pulmonary consolidations in others.",
+            "changes_over_time": "Patient II-1 from family 1 experienced progressive respiratory insufficiency requiring intubation; he was later extubated and showed significant respiratory improvement. However, he later developed a left-sided pneumothorax requiring chest drain insertion."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "One patient did not survive due to refractory shock and a secondary bacterial infection.",
+            "changes_over_time": "Patient II-2 from family 1 was treated with inotropic agents but ultimately did not survive, highlighting the severity of his condition."
+        },
+        {
+            "date": "May 16, 2020",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Recovery of the patient I-1 was noted with the removal of chest drain after stable improvements in pneumothorax.",
+            "changes_over_time": "Patient II-1 showed improvement over time, gradually recovering and eventually being discharged home for rehabilitation."
+        }
+    ]
+}

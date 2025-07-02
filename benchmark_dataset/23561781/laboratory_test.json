@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Leucocytosis (WBC count 15.4 x 10^9/L, neutrophil 13.4 x 10^9/L), eosinophilia (0.94 x 10^9/L; normal range 0.00–0.40), thrombocytopenia (platelets 84 x 10^9/L), hypoalbuminaemia (22 g/L), raised inflammatory markers (C-reactive protein 100 mg/L, erythrocyte sedimentation rate 109 mm/hour)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV test",
+            "date": "Not specified",
+            "findings": "HIV antibody positive; CD4 count 100 cells/mm³ (11%), viral load 59,974 copies/mL. Hepatitis C antibody negative.",
+            "changes_over_time": "Virological suppression achieved (viral load <50 RNA copies/ml) on HAART with CD4 counts in excess of 600 cells/mm³."
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "Not specified",
+            "findings": "Polyclonal increase in IgG (51.7 g/L) and IgM (4.0 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholesterol and triglycerides",
+            "date": "Not specified",
+            "findings": "Cholesterol 4.2 mmol/L (normal range 4.0–6.5), triglyceride 2.28 mmol/L (normal range 0.00–1.70)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex Doppler ultrasound",
+            "date": "Not specified",
+            "findings": "Patency of the right posterior tibial and peroneal arteries from origin to proximal segment with no flow distally; normal aorta",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Abrupt arterial occlusion at the upper peroneal and distal posterior tibial arteries",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

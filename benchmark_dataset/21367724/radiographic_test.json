@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Presence of VSD with significant bidirectional shunt. New patch dehiscence next to the atrio-ventricular valves, causing intracardiac shunt with significant pulmonary hypertension.",
+            "changes_over_time": "Repeated echocardiography showed a small residual VSD (,2 mm) without noticeable shunt."
+        }
+    ]
+}

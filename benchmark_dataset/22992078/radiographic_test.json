@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head and neck",
+            "date": "Not specified",
+            "findings": "Post-treatment changes but no fluid collection within the surgical bed or the neck.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "An area of slightly decreased enhancement in the right cavernous sinus measuring 1.2 cm in diameter and centered on the right internal carotid artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Signal abnormality in the foramina and infratemporal fossa at the base of the skull, extensive enhancement and signal abnormality in the sphenoid sinus consistent with inflammation, and multiple densities in the cerebellum consistent with infarcts.",
+            "changes_over_time": "New focus of restricted diffusion in the right thalamus with enhancement and thickening of dura, cavernous sinuses, and skull-base foramina unchanged."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal signal and enhancement in the central skull base from the greater wing of the sphenoid to the left infratemporal fossa, pterygopalatine fossa, vidian canal, and foramen rotundum bilaterally; multiple foci of restricted diffusion in the brain parenchyma consistent with subacute infarcts.",
+            "changes_over_time": "Enhancement surrounding multiple foci of restricted diffusion consistent with the evolution of subacute infarcts."
+        },
+        {
+            "procedure_name": "MRI of the skull base",
+            "date": "Not specified",
+            "findings": "Marked dural thickening and enhancement, abnormal soft tissue involving the sella and bilateral cavernous sinuses with multiple regions of restricted diffusion indicating acute and subacute strokes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

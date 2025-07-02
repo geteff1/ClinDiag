@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Patchy ground-glass and centrilobular nodules with linear, branching (tree-in-bud) opacities predominantly affecting the upper lobe of the left lung. No lymphadenopathy.",
+            "changes_over_time": "The previously seen tree-in-bud opacities in the left upper lobe had largely resolved. New subcarinal, paratracheal, and hilar lymphadenopathy was noted on a repeat scan."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Supraclavicular and mediastinal adenopathy, with the strongest signal present in the subcarinal region.",
+            "changes_over_time": "Worsening lymphadenopathy was noted on a repeat CT scan."
+        },
+        {
+            "procedure_name": "Repeat CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Worsening lymphadenopathy; no consolidates, opacities, or suspicious pulmonary nodules.",
+            "changes_over_time": "New lymphadenopathy observed, which was not noted in previous imaging."
+        }
+    ]
+}

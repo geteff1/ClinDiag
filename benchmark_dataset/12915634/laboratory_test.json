@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "27 weeks gestation",
+            "findings": "336 mU/liter (high)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "fT4",
+            "date": "27 weeks gestation",
+            "findings": "< 12.5 pmol/liter (undetectable)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "At birth (cord blood)",
+            "findings": "284 mU/liter (high)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "fT4",
+            "date": "At birth (cord blood)",
+            "findings": "5.5 pmol/liter (low)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "Tg",
+            "date": "At birth (cord blood)",
+            "findings": "0.8 ng/ml (low)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Day 15",
+            "findings": "0.31 mU/liter (normalized)",
+            "changes_over_time": "Normalized from 284 mU/liter at birth"
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "29 weeks gestation (second pregnancy)",
+            "findings": "472 mU/liter (high)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "fT4",
+            "date": "29 weeks gestation (second pregnancy)",
+            "findings": "6.5 pmol/liter (low)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "At birth (cord blood, second pregnancy)",
+            "findings": "39 mU/liter (high)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "Tg",
+            "date": "At birth (cord blood, second pregnancy)",
+            "findings": "0.7 ng/ml (low)",
+            "changes_over_time": ""
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Day 15 (second pregnancy)",
+            "findings": "0.2 mU/liter (normalized)",
+            "changes_over_time": "Normalized from 39 mU/liter at birth"
+        }
+    ]
+}

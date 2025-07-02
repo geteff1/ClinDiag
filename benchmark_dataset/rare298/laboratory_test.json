@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Contrast-enhanced CT scan",
+            "date": "Not specified",
+            "findings": "Postoperative manifestations consistent with rectal cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological biopsy",
+            "date": "Not specified",
+            "findings": "Multiple metastatic tissues in the penis; tumor cells positive for CDX-2, Villin, CK20; Ki-67 index reached up to 50%; negative for TTF-1 and CK7.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "15 months ago",
+            "findings": "Multiple bone metastases, including right femur, right sacroiliac joint, ischia, and pubis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic tests",
+            "date": "15 months ago",
+            "findings": "Sensitivity to Bevacizumab.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest-enhanced CT",
+            "date": "Not specified",
+            "findings": "Lung metastasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

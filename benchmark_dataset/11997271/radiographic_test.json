@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Angiographic Follow-Up",
+            "date": "6-month follow-up",
+            "findings": "Minimal intimal hyperplasia; late loss of 0.47 mm, late loss index 0.17; restenosis in 2 lesions (13.3%).",
+            "changes_over_time": "At 12-month follow-up, angiographic restenosis occurred in 8 lesions (61.5%), with a late loss of 1.36 mm and late loss index of 0.62."
+        },
+        {
+            "procedure_name": "Angiographic Follow-Up",
+            "date": "12-month follow-up",
+            "findings": "Angiographic restenosis occurred in 8 lesions (61.5%), late loss of 1.36 mm, late loss index 0.62.",
+            "changes_over_time": "Significant progression of disease from 6 to 12 months."
+        }
+    ]
+}

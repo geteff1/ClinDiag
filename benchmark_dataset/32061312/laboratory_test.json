@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Mild thrombocytopenia (113 × 10⁹ per L, normal 150–400); Hemoglobin concentration 146 g/L (normal 130–180); White blood cell count 7·4 × 10⁹ per L (normal 4–11); Platelet count normalized on follow-up.",
+            "changes_over_time": "Platelet count normalized after initial admission."
+        },
+        {
+            "procedure_name": "Creatinine concentration",
+            "date": "Not specified",
+            "findings": "81 μmol/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "29 IU/L (normal <40)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate concentration",
+            "date": "Not specified",
+            "findings": "1·1 mmol/L (normal 0·5–2·0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR for coronavirus",
+            "date": "Not specified",
+            "findings": "Coronavirus detected in both mid-turbinate and throat swabs, confirmed as 2019-nCoV by sequencing.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

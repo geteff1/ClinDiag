@@ -1,0 +1,20 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Left Ventricular Ejection Fraction Test",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 32%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "forced expiratory volume in 1 second": "66% predicted",
+                "forced vital capacity": "81% predicted",
+                "ratio of forced expiratory volume in 1 second to vital capacity": "89%"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

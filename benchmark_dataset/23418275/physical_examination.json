@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "febrile",
+                "heart_rate": "tachycardic",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Left pleural effusion seen on chest radiography, septic pulmonary emboli, cavitary lung lesions; blood samples indicated anemia, thrombocytopenia, hyponatremia, and electrolyte disturbances.",
+            "changes_over_time": "After several weeks of antibiotic therapy, repeat TEE showed a resolution of vegetations on the tricuspid valve."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "febrile",
+                "heart_rate": "tachycardic",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Hyponatremia, thrombocytopenia, evidence of disseminated intravascular coagulation; elevated liver function tests. TEE showed multiple vegetations on the tricuspid leaflets.",
+            "changes_over_time": "Complicated by ileus, loculated pleural effusion, pericardial effusion, and anemia."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "tachycardic",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Pericarditis noted by ECG, cavitary lung lesions; blood cultures and sputum grew MRSA.",
+            "changes_over_time": "Repeat ECG showed resolution of the ST segment changes seen on initial presentation."
+        }
+    ]
+}

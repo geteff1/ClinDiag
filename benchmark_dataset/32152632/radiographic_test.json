@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry (DXA)",
+            "date": "Age 15 years 5 months",
+            "findings": "Z-score of -3.8 at lumbar spine.",
+            "changes_over_time": "Continued reduction in bone mineral density with lumbar z-scores of -3.8 at age 15 years 5 months and -4.3 at age 23 years 3 months."
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry (DXA)",
+            "date": "Age 23 years 3 months",
+            "findings": "Z-score of -4.3 at lumbar spine and -2.9 at femoral neck.",
+            "changes_over_time": "Continued reduction in bone mineral density."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Age 23 years 4 months",
+            "findings": "Persistence of enlarged ovaries with bilateral ovarian cysts.",
+            "changes_over_time": "Mean ovarian volume in six of seven ultrasounds over eight years ranged from 38.2 - 123.7 cm3, with normal being < 20 cm3."
+        }
+    ]
+}

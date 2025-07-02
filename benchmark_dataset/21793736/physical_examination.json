@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 17, 2011",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Admitted with bloody diarrhea and abdominal pain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "May 17, 2011",
+            "vital_signs": {
+                "serum_creatinine": "4.1 mg/dL",
+                "potassium": "6 mmol/L",
+                "thrombocytopenia": "22,000 platelets/mm³",
+                "hemoglobin": "11.6 g/dL",
+                "bilirubin": "2.8 mg/dL",
+                "lactate_dehydrogenase": "2297 U/L"
+            },
+            "relevant_findings": "Patient presented with acute renal failure and hemolytic anemia; hemoglobin fell to 8.4 g/dL within 48 hours.",
+            "changes_over_time": "Hemoglobin level and renal function improved after 9 days of peritoneal dialysis; however, neurological symptoms developed."
+        }
+    ]
+}

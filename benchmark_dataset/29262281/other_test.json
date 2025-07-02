@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm and submillimeter down-sloping ST-segment depressions in leads V3, V4, and V5.",
+            "changes_over_time": "The depressions had decreased in magnitude on electrocardiography performed 3 hours later and had fully resolved on electrocardiography performed 8 hours after presentation."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "Not specified",
+            "findings": "Overall normal left ventricular and right ventricular systolic function with a small, focal area of hypokinesis in the left ventricular inferolateral wall.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "Filling defect in the first obtuse marginal branch of the left circumflex coronary artery, presence of sudden, diffuse narrowing of the vessel lumen, and an irregular filling pattern.",
+            "changes_over_time": "Findings consistent with coronary-artery dissection."
+        },
+        {
+            "procedure_name": "Treadmill Stress Testing",
+            "date": "6 weeks after presentation",
+            "findings": "The patient was able to exercise for 9 minutes without diagnostic changes on electrocardiography and no chest pain.",
+            "changes_over_time": "The patient has had fleeting episodes of intermittent chest pain but no prolonged episodes since then."
+        }
+    ]
+}

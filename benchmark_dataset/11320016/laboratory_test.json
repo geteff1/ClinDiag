@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electroretinogram (ERG)",
+            "date": "Not specified",
+            "findings": {
+                "baseline": {
+                    "right_eye": {
+                        "Vmax": 306,
+                        "K": 23.01,
+                        "h": 1.06
+                    },
+                    "left_eye": {
+                        "Vmax": 329,
+                        "K": 23.05,
+                        "h": 1.01
+                    }
+                },
+                "1_hour": {
+                    "right_eye": {
+                        "Vmax": 302,
+                        "K": 23.01,
+                        "h": 0.89
+                    },
+                    "left_eye": {
+                        "Vmax": 324,
+                        "K": 22.97,
+                        "h": 0.91
+                    }
+                },
+                "2_hours": {
+                    "right_eye": {
+                        "Vmax": 499.1,
+                        "K": 23.15,
+                        "h": 1.04
+                    },
+                    "left_eye": {
+                        "Vmax": 449,
+                        "K": 23.19,
+                        "h": 1.03
+                    }
+                }
+            },
+            "changes_over_time": {
+                "Vmax": {
+                    "right_eye": "63.1% higher than baseline",
+                    "left_eye": "36.5% higher than baseline"
+                },
+                "K": "0.14 log unit smaller at 2 hours compared to baseline in both eyes",
+                "h": "No significant variations"
+            }
+        }
+    ]
+}

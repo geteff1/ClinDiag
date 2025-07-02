@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormone assays",
+            "date": "Not specified",
+            "findings": {
+                "estradiol": "11.8 pg/mL",
+                "LH": "4.5 IU/L",
+                "FSH": "6.6 IU/L",
+                "prolactin": "Normal",
+                "AMH": "1.18 ng/mL",
+                "inhibin B": "<10 pg/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH agonist test",
+            "date": "Not specified",
+            "findings": {
+                "LH": {
+                    "T0": "4.5 IU/L",
+                    "T60": "35.9 IU/L"
+                },
+                "FSH": {
+                    "T0": "6.6 IU/L",
+                    "T60": "19.6 IU/L"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Monitoring of LH levels",
+            "date": "Day 22 and Day 23 after GnRH pump therapy initiation",
+            "findings": {
+                "Day 22": {
+                    "Basal LH": "9 IU/L"
+                },
+                "Day 23": {
+                    "Mean LH": "29.00 ± 6.31 IU/L",
+                    "Range": "22.90 to 35.30 IU/L"
+                }
+            },
+            "changes_over_time": "LH levels increased markedly on Day 23"
+        },
+        {
+            "procedure_name": "Pelvic sonography",
+            "date": "Not specified",
+            "findings": {
+                "Uterus": "Small (45 x 313 x 320 mm)",
+                "Right ovary": "20 x 11 mm with follicles",
+                "Left ovary": "Atrophic without follicles"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

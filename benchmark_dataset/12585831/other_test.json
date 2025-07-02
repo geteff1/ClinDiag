@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ankle-Brachial Index (ABI)",
+            "date": "Not specified",
+            "findings": "The ABI examination yielded a score of 1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcutaneous Oxygen Measurement",
+            "date": "Not specified",
+            "findings": "The transcutaneous oxygen measurement was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Surgical Debridement",
+            "date": "Not specified",
+            "findings": "The patient underwent surgical debridement of the ulcer.",
+            "changes_over_time": "The ulcer size remained unchanged after debridement."
+        },
+        {
+            "procedure_name": "Skin Grafting",
+            "date": "Not specified",
+            "findings": "The patient underwent grafting of the ulcer with bioengineered skin.",
+            "changes_over_time": "The ulcer was healed at follow-up two months later."
+        }
+    ]
+}

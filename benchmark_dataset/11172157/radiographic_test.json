@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the cranium",
+            "date": "Not specified",
+            "findings": "Bilateral sphenoid and ethmoid polyps, obstruction of both sphenoid and posterior ethmoid sinuses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Normal signal in the clivus, opacification of the sphenoid sinus, posterior nasal cavity, and posterior ethmoid air cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Marked enlargement and lobulation of the urinary bladder, with bilateral hydronephrosis and hydroureter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the thorax",
+            "date": "Not specified",
+            "findings": "Several areas of bilateral pleural calcification and thickening consistent with the presence of asbestosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI examination",
+            "date": "Not specified",
+            "findings": "Several punctate foci of hyperintensity in the watershed area between the right anterior and middle cerebral arteries; expansion of the clivus with heterogeneous signal intensity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the orbits",
+            "date": "Not specified",
+            "findings": "Mild mucosal disease of the ethmoid air cells and a rind of soft tissue within the sphenoid sinus, without evidence of bony destruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI scan with gadolinium",
+            "date": "Not specified",
+            "findings": "Extensive marrow replacement within the clivus, with extension into the petrous apexes, cavernous sinuses, and greater wings of the sphenoid sinus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI scan of the brain after discharge",
+            "date": "Not specified",
+            "findings": "Chronic inflammatory changes in the sphenoid sinus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

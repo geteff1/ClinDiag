@@ -1,0 +1,124 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Random blood glucose",
+            "date": "Not specified",
+            "findings": "128 mg per deciliter (7.1 mmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "1.1 mg per deciliter (97 μmol per liter)",
+            "changes_over_time": "Increased to 2.9 mg per deciliter (260 μmol per liter) over time"
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "14 mg per deciliter (5.0 mmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "5400 per cubic millimeter (58% neutrophils, 26% lymphocytes, 14% monocytes, 1% eosinophils)",
+            "changes_over_time": "Increased to 18,000 per cubic millimeter (82% neutrophils, 10% lymphocytes, 5% monocytes, no eosinophils)"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "37.3%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Not specified",
+            "findings": "88.6 μm^3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "168,000 per cubic millimeter",
+            "changes_over_time": "Increased to 563,000 per cubic millimeter"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for ketones, glucose (+), protein (++), and moderate bacteria (0 to 3 leukocytes per high-power field)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Day after admission",
+            "findings": "150 U per liter (normal range 5 to 33)",
+            "changes_over_time": "Stable"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Day after admission",
+            "findings": "188 U per liter (normal range 30 to 65)",
+            "changes_over_time": "Stable"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Day after admission",
+            "findings": "130 U per liter (normal range 50 to 136)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total bilirubin",
+            "date": "Day after admission",
+            "findings": "1.0 mg per deciliter (normal range 0.1 to 1.2 mg per deciliter)",
+            "changes_over_time": "Increased to 6.0 mg per deciliter (100 μmol per liter)"
+        },
+        {
+            "procedure_name": "Conjugated bilirubin",
+            "date": "Day after admission",
+            "findings": "0.2 mg per deciliter (normal range less than 0.4 mg per deciliter)",
+            "changes_over_time": "Increased to 5.3 mg per deciliter (91 μmol per liter)"
+        },
+        {
+            "procedure_name": "International normalized ratio",
+            "date": "Fifth hospital day",
+            "findings": "1.4",
+            "changes_over_time": "Increased to 1.7"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "3.0 g per deciliter (normal range 3.5 to 5.0)",
+            "changes_over_time": "Decreased to 1.4 g per deciliter"
+        },
+        {
+            "procedure_name": "Blood gas studies",
+            "date": "Not specified",
+            "findings": "pH 7.43, pCO2 39 mm Hg, pO2 74 mm Hg, bicarbonate 26 mEq per liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Acute and chronic hepatitis with scattered epithelioid granulomas and mild fatty changes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Scattered epithelioid and giant-cell granulomas; no malignant cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic tests for C. burnetii",
+            "date": "Five days after the bone marrow biopsy",
+            "findings": "Strongly positive IgG phase 1, 1:16; IgG phase 2, 1:1024; IgM phase 1, 1:1024; IgM phase 2, 1:256",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

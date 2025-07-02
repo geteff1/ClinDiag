@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Delayed myelination with normal size and structure of ventricles and corpus callosum. Normal kidneys, thymus, liver, spleen, and pancreas were visualized.",
+            "changes_over_time": "At 3 months, brain atrophy was first noticed in head ultrasound and CT."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Illustrates the endotracheal tube and widespread opacities in both lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Head ultrasound",
+            "date": "Not specified",
+            "findings": "Normal at the first 3 months of life.",
+            "changes_over_time": "At 3 months, brain atrophy was first noticed."
+        }
+    ]
+}

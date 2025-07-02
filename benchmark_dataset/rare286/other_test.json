@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "30 weeks of gestation",
+            "findings": "Fetal pleural effusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Persistent pulmonary hypertension with no structural heart defects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pleural fluid analysis",
+            "date": "Not specified",
+            "findings": "Indicated favoring celiac disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Histopathological changes in both lungs with a honeycomb pattern and dilated lymphatic vessels in the subpleural and interlobular septa, peribronchial, and perivascular areas, with immunohistochemical markers for D2-40 in endothelial cells.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

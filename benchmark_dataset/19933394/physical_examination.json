@@ -1,0 +1,61 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/83 mmHg",
+                "blood_glucose": "1.6 mmol/liter",
+                "birth_weight": "3580 g",
+                "length": "48 cm",
+                "head_circumference": "37 cm",
+                "cortisol_level": "2690 nmol/liter",
+                "ACTH_level": "1400 ng/liter",
+                "11-deoxycortisol": "78 nmol/liter",
+                "androstenedione": "52 nmol/liter",
+                "17-hydroxyprogesterone": "9.6 nmol/liter",
+                "testosterone": "5.8 nmol/liter",
+                "aldosterone": "1542 pmol/liter",
+                "nonesterified_fatty_acids": "0.13 mmol/liter",
+                "insulin": "0.3 mU/liter"
+            },
+            "relevant_findings": {
+                "tanned_appearance": "Present",
+                "hypoglycemia": "Severe",
+                "hypertension": "Present",
+                "fatigue_with_feeding": "Easily fatigued",
+                "dysmorphic_features": "Absent"
+            },
+            "changes_over_time": {
+                "hypertension": "Worsened (to 160/83 mmHg over the first month)",
+                "cortisol_levels": "Persistently elevated",
+                "ACTH_levels": "Persistently elevated"
+            }
+        },
+        {
+            "date": "Approximately 5 weeks of age",
+            "vital_signs": {
+                "cortisol_level": "2840 nmol/liter",
+                "ACTH_level": "2300 ng/liter"
+            },
+            "relevant_findings": {
+                "hypoglycemia": "Present during feeding if feeds were delayed",
+                "cortisol_levels": "Elevated",
+                "ACTH_levels": "Elevated",
+                "GH_Stimulation_Test": "Confirmed GH deficiency (peak GH level, 1.1 µg/liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately 4 months of age",
+            "vital_signs": {
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "sepsis": "Klebsiella and coagulase negative Staphylococcus",
+                "ventilatory_support": "Required for 5 weeks",
+                "inotropic_support": "Required"
+            },
+            "changes_over_time": "Condition critically worsened due to sepsis"
+        }
+    ]
+}

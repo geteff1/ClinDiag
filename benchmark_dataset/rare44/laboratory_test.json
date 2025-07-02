@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biochemical investigations",
+            "date": "Not specified",
+            "findings": "The patient was euthyroid, had normal blood glucose levels with no features of insulin resistance, and a normal lipid profile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone mineral density (BMD) by DXA scan",
+            "date": "Not specified",
+            "findings": "Z scores of -2.5 at the neck femur and -2.6 at the lumbar spine; corresponding T-scores were -2.5 and -2.6 respectively.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Semen analysis",
+            "date": "Not specified",
+            "findings": "Azoospermia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical exome sequencing",
+            "date": "Not specified",
+            "findings": "Two variants detected in the CYP19A1 gene: c.570delT (likely pathogenic) and c.344G>A (variant of uncertain significance).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

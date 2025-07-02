@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Elevated white blood cell count of 18,700/µL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bicarbonate Level",
+            "date": "Not specified",
+            "findings": "Bicarbonate level of 16 mEq/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "Creatinine level of 2.0 mg/dL (baseline 0.5 mg/dL).",
+            "changes_over_time": "Increased from baseline."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "AST level of 76 U/L (baseline 16 U/L).",
+            "changes_over_time": "Increased from baseline."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "ALT level of 101 U/L (baseline 31 U/L).",
+            "changes_over_time": "Increased from baseline."
+        },
+        {
+            "procedure_name": "Lactate Level",
+            "date": "Not specified",
+            "findings": "Lactate level of 31.5 mg/dL (normal range 0-18 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol Level",
+            "date": "Not specified",
+            "findings": "Cortisol level of 35.8 µg/dL (normal range 2-20 µg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Blood cultures grown Klebsiella pneumoniae.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

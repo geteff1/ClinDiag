@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Erythrocytes_per_mm": {
+                    "Patient 1": 36200000,
+                    "Patient 2": 8770000
+                },
+                "Hematocrit_percent": {
+                    "Patient 1": 62.0,
+                    "Patient 2": 60.9
+                },
+                "Hemoglobin_g_per_DL": {
+                    "Patient 1": 20.0,
+                    "Patient 2": 19.5
+                },
+                "Leukocytes_per_mm": {
+                    "Patient 1": 36800,
+                    "Patient 2": 9230
+                },
+                "Platelets_per_mm": {
+                    "Patient 1": 380000,
+                    "Patient 2": 212000
+                },
+                "Erythropoietin_mU_per_mL": {
+                    "Patient 1": 39.2,
+                    "Patient 2": 51
+                }
+            },
+            "relevant_findings": {
+                "Patient 1": "Polycethemia confirmed by blood volume measurement, first surgery at age 45 for right pheochromocytoma, second surgery at 59 for left para-aortic and right parailiac functional paraganglioma, non-functional duodenal somatostatinoma detected.",
+                "Patient 2": "Congenital polycythemia treated by phlebotomy since infancy, non-functional para-aortic paraganglioma detected at age 9."
+            },
+            "changes_over_time": {
+                "Patient 1": "Not specified",
+                "Patient 2": "New highly vascularized tumors detected three years later, cranial vault lesion diagnosed as intraosseous hemangioma."
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "160/74 mm Hg",
+                "respiratory_rate": "12 breaths per minute",
+                "oxygen_saturation": "97% on ambient air"
+            },
+            "relevant_findings": {
+                "weakness": "Moderate weakness in hip flexion, knee flexion, and extension bilaterally; normal strength in feet, ankles, hands, and arms.",
+                "reflexes": "Knee and ankle reflexes normal; plantar reflexes flexor bilaterally.",
+                "sensation": "Normal light touch and vibratory sensation.",
+                "gait": "Normal casual gait; difficulty with tandem gait and standing on heels or toes.",
+                "cranial_nerve_function": "Normal."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "weakness": "Moderate weakness in arm abduction, elbow flexion, and extension were present in addition to proximal leg weakness.",
+                "reflexes": "Arm and leg reflexes normal.",
+                "cognitive": "Mini–Mental State Examination score was 25 out of 30."
+            },
+            "changes_over_time": "Progression of symptoms included increased weakness in arms, difficulty eating without assistance, and worsening memory problems."
+        },
+        {
+            "date": "6-month follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "leg_weakness_improvement": "Substantial improvement in leg weakness; no longer required a wheelchair.",
+                "memory": "Continued difficulty with short-term memory."
+            },
+            "changes_over_time": "Reduction in size of precarinal and right hilar lymph nodes observed; persistent changes on MRI consistent with limbic encephalitis."
+        }
+    ]
+}

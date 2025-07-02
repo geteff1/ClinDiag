@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "145/90 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "scleral_icterus": "present",
+                "abdominal_tenderness": "mild tenderness in the right upper and right lower quadrants, no rebound or guarding",
+                "chronic_liver_disease": "no stigmata of"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second hospital day",
+            "vital_signs": {
+                "white_cell_count": "14,200 per cubic millimeter",
+                "total_bilirubin": "19.5 mg per deciliter",
+                "direct_bilirubin": "11.2 mg per deciliter",
+                "alanine_aminotransferase": "519 U per liter",
+                "aspartate_aminotransferase": "188 U per liter",
+                "alkaline_phosphatase": "171 U per liter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Abdominal pain abated compared to initial examination; white-cell count decreased, but liver biochemical tests increased."
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": {
+                "total_bilirubin": "5.7 mg per deciliter",
+                "direct_bilirubin": "2.5 mg per deciliter",
+                "alanine_aminotransferase": "292 U per liter",
+                "aspartate_aminotransferase": "89 U per liter",
+                "alkaline_phosphatase": "174 U per liter"
+            },
+            "relevant_findings": "Abdominal pain resolved and patient remained afebrile.",
+            "changes_over_time": "Symptoms resolved compared to previous examinations."
+        }
+    ]
+}

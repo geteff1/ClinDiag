@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral, predominantly central lung opacities, compatible with early pulmonary edema or inhalation injury.",
+            "changes_over_time": "By day 3, the pulmonary opacities have worsened and are more diffuse, indicating the development of acute respiratory distress syndrome. By day 7, there is progressive clearing of pulmonary opacities."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Diffuse bilateral interstitial infiltrates, consistent with the development of acute respiratory distress syndrome.",
+            "changes_over_time": "During the second week after the fire, there was clearing of the infiltrates on the chest radiographs."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Improvement of pulmonary opacities without evidence of developing air-space disease.",
+            "changes_over_time": "Despite a sputum culture positive for Pseudomonas aeruginosa, the radiograph showed improvement by day 18."
+        },
+        {
+            "procedure_name": "Radiograph of the right elbow",
+            "date": "During the second month after the fire",
+            "findings": "Large area of heterotopic bone posterior to the distal humerus.",
+            "changes_over_time": "After surgery, the radiograph shows that the heterotopic bone has disappeared, indicating resection."
+        }
+    ]
+}

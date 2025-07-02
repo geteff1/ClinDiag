@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Severe, diffuse atrophy with frontal predominance and severe frontal lobe white matter attenuation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Bifrontal atrophy and leukoariosis of the subcortical white matter.",
+            "changes_over_time": "Behavioral and cognitive deficits progressed; severe frontal atrophy and diffuse white matter degenerative changes were evident at death."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Moderate subcortical white matter disease without ventriculomegaly or extensive atrophy.",
+            "changes_over_time": "Gait and cognition continued to decline."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Profound white matter hypodensities capping the frontal horns.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

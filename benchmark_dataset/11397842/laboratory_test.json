@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Testosterone",
+            "date": "Not specified",
+            "findings": "3.1 nmol/L (reference range 10–35)",
+            "changes_over_time": "Increased to 13 nmol/L after 2 months of hCG therapy, then further increased to 12.5 nmol/L six weeks after discontinuing hCG. At six months after discontinuation, testosterone level was 7 nmol/L."
+        },
+        {
+            "procedure_name": "Luteinizing hormone (LH)",
+            "date": "Not specified",
+            "findings": "3.5 IU/L (normal range 3.3 to 25)",
+            "changes_over_time": "Increased to 6.2 IU/L following a single pharmacologic dose of GnRH, then reached 14.5 IU/L post-administration. Increased mean level to 7.1 IU/L six weeks after discontinuing hCG."
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone (FSH)",
+            "date": "Not specified",
+            "findings": "2.4 IU/L (normal range 1.6 to 16.8)",
+            "changes_over_time": "Increased to 3.9 IU/L six weeks after discontinuing hCG."
+        },
+        {
+            "procedure_name": "Inhibin B",
+            "date": "Not specified",
+            "findings": "352 pg/mL (normal range 150 to 400)",
+            "changes_over_time": "Unchanged during hCG therapy, then stable at 305 pg/mL six weeks after discontinuing hCG."
+        },
+        {
+            "procedure_name": "Semen Analysis",
+            "date": "Not specified",
+            "findings": "Sperm count was 0 initially. After hCG therapy, the sperm count was 89 million/mL and then 91.4 million/mL six weeks after discontinuing hCG.",
+            "changes_over_time": "Sperm count increased from 0 to 89 million/mL after 4 months of hCG therapy, then to 91.4 million/mL six weeks after discontinuation."
+        }
+    ]
+}

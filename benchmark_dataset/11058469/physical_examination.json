@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "170 lb",
+                "height": "5 feet 7 inches"
+            },
+            "relevant_findings": "Patient engaging in bingeing, purging, and laxative abuse on a daily basis; presenting with depression, anxiety, and anger toward health care professionals.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "lowest_weight": "94 lb",
+                "height": "5 feet 7 inches"
+            },
+            "relevant_findings": "Documented history of significant weight fluctuations and emergency room visits related to laxative abuse.",
+            "changes_over_time": "Weight increased to normal range during late 20s but was accompanied by a pattern of binge eating and laxative use."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fluoxetine_dosage": "80-100 mg/day"
+            },
+            "relevant_findings": "Regular presence of severe obsessions and compulsions, multiple episodes of major depression, and history of laxative abuse.",
+            "changes_over_time": "Under medication management, symptoms remained at a low level with no major relapses or emergency room visits during the final phase."
+        }
+    ]
+}

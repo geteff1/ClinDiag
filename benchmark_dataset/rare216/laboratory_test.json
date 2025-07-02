@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Initial tests for EBV-DNA and anemia",
+            "date": "2014",
+            "findings": "EBV-DNA positive and mild anemia.",
+            "changes_over_time": "Progression to moderate anemia (Hb: 60-80g/L) and thrombocytopenia (Plt: 30-70 × 10^9/L), continuously positive EBV-DNA."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "October 2018",
+            "findings": "WBC: 3.4 × 10^9/L, NE: 0.68 × 10^9/L, Hb: 68g/L, Plt: 55 × 10^9/L, LDH: 305 U/L, albumin: 32.8 g/L, triglyceride: 1.93 mmol/L, ferritin: 1440 ng/mL, fibrinogen: 1.93 g/L, EBV-DNA level: 5.01 × 10^4 IU/mL, soluble CD25: > 44000 U/ml, NK cell activity: 7.45%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone marrow biopsies",
+            "date": "Not specified",
+            "findings": "Initially showed normal cell morphology; later revealed significantly active hyperplasia of nucleated cells, occasional hemophagocytic events, and immature abnormal hematopoietic elements. MUNC13-4 (UNC13D) expression was lower than in normal controls.",
+            "changes_over_time": "Initial tests showed normal morphology; subsequent tests indicated progression to significant abnormalities."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid examination",
+            "date": "Not specified",
+            "findings": "Routine, biochemical and morphological examination of cerebrospinal fluid was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Showed white matter damage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Revealed mild insufficiency of the mitral and tricuspid valves.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Showed slight enhancement of intrahepatic echoes, thickening of gallbladder wall, and splenomegaly.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

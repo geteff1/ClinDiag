@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "No abnormalities except for the presence of tiny pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeated chest radiograph",
+            "date": "Not specified",
+            "findings": "Increased interstitial markings with air-space opacities in the middle and lower regions of both lungs.",
+            "changes_over_time": "Progression from normal findings to increased interstitial markings and air-space opacities."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Patchy interstitial opacities and air-space opacities in the middle and lower regions of both lungs and small, bilateral pleural effusions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Not specified",
+            "findings": "Moderate pleural effusions, a small pericardial effusion, and patchy air-space opacities in the lower lobes, the lingula, and the right upper lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeated thoracic CT scan",
+            "date": "Not specified",
+            "findings": "Same bilateral pleural effusions, small pericardial effusion, and right-upper-lobe and lingular opacities; basilar atelectasis slightly improved.",
+            "changes_over_time": "Slight improvement in basilar atelectasis."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Periventricular areas of low attenuation, consistent with small-vessel disease, and generalized prominence of the ventricles, sulci, and subarachnoid spaces, suggestive of moderate atrophy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

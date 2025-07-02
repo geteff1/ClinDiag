@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "134/62 mmHg",
+                "pulse": "60 bpm",
+                "respiratory_rate": "23 breaths per minute",
+                "SpO2": "80%",
+                "body_temperature": "37.3 °C"
+            },
+            "relevant_findings": {
+                "cyanosis": "Cyanosis of lips and extremities",
+                "lung_exam": "Diminished breath sounds; no wheezes or crackles"
+            },
+            "changes_over_time": {
+                "SpO2_improvement": "SpO2 increased to 99% after methylene blue treatment",
+                "methemoglobin_level": "Decreased from 36.9% to 2.0% after treatment"
+            }
+        }
+    ]
+}

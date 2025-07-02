@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1996",
+            "vital_signs": {
+                "height": "177 cm",
+                "weight": "79.6 kg",
+                "age": "25 years"
+            },
+            "relevant_findings": {
+                "eunuchoid_skeleton": {
+                    "evidence": "The ratio of the upper to the lower segment of the skeleton was 0.84; average for men is 0.92.",
+                    "status": "evident at age 23"
+                },
+                "bilateral_cryptorchidism": {
+                    "status": "treated surgically at age 6 without success",
+                    "testes_volume": {
+                        "right": "10 ml",
+                        "left": "11 ml",
+                        "consistency": "very soft"
+                    }
+                },
+                "genu_valgum": "present",
+                "acanthosis_nigricans": "present at the end of high-dose testosterone treatment",
+                "gynecomastia": "absent"
+            },
+            "changes_over_time": "Eunuchoid body proportions became rapidly more evident after the age of 23."
+        },
+        {
+            "date": "After 6 months of estradiol administration",
+            "vital_signs": {
+                "height": "184.5 cm"
+            },
+            "relevant_findings": {
+                "acanthosis_nigricans": {
+                    "status": "improved",
+                    "evidence": "characterized by epidermal hyperplasia and irregular hyperkeratosis before treatment"
+                },
+                "liver_function": {
+                    "status": "improved; liver biopsy showed improvement of liver NASH"
+                }
+            },
+            "changes_over_time": "Height increased slightly after starting estradiol treatment."
+        }
+    ]
+}

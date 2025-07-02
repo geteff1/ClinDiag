@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C (97.5°F)",
+                "pulse": "80 bpm",
+                "blood_pressure": "130/62 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_appearance": "Fatigued but in no apparent distress",
+                "dry_mucous_membranes": true,
+                "neck": "Supple",
+                "oropharynx": "Mild erythema, no exudate or lesions",
+                "peripheral_adenopathy": false,
+                "jugular_venous_pressure": "< 8 cm of water",
+                "lungs": "Clear to auscultation",
+                "heart_sounds": "Regular, with normal carotid upstrokes",
+                "abdomen": "Soft and nontender",
+                "hepatosplenomegaly": false,
+                "joint_effusions": false,
+                "peripheral_edema": false,
+                "neurologic_examination": "Unremarkable, no asterixis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 weeks after discharge",
+            "vital_signs": {
+                "creatinine_level": "1.8 mg/dL",
+                "urine_volume": "> 2 liters"
+            },
+            "relevant_findings": {
+                "pruritus": "Gradually resolved"
+            },
+            "changes_over_time": "Renal function improved, persistent nephrotic-range proteinuria"
+        },
+        {
+            "date": "Approximately 1 year after hospitalization",
+            "vital_signs": {
+                "creatinine_level": "1.3 mg/dL",
+                "albumin_level": "3.8 g/dL",
+                "proteinuria": "1.7 g/day"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Continued improvement in renal function after treatment"
+        }
+    ]
+}

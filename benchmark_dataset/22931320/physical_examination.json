@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/111 mm Hg",
+                "pulse": "97 bpm",
+                "temperature": "37.5°C",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "mental_status": "Limited by drowsiness",
+                "reflexes": "3+ at biceps, triceps, brachioradialis, and knees; 4+ at Achilles' tendons with clonus; plantar reflexes mute.",
+                "muscle_tone": "Extreme rigidity of flexor and extensor muscles bilaterally; unable to flex right leg at knee or fully extend left leg.",
+                "mobility": "Unable to arise from supine or sitting position or walk without assistance.",
+                "anxiety": "Patient was anxious and in pain.",
+                "bruise": "A large bruise on right arm from a fall."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

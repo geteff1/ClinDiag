@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Tests and Urinalysis",
+            "date": "Not specified",
+            "findings": "Negative results for infections.",
+            "changes_over_time": "The hip pain had decreased to 6/10."
+        },
+        {
+            "procedure_name": "Conventional Radiographs of Hips and Pelvis",
+            "date": "Not specified",
+            "findings": "Osteopenia of the right proximal femur and acetabulum. No evidence of fracture or avascular necrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Bone marrow edema of the right femoral head, neck, and intertrochanteric region.",
+            "changes_over_time": "MRI followed-up indicating slight residual high-signal intensity in the right femoral head and acetabulum, marking a reduction of previous bone marrow edema."
+        },
+        {
+            "procedure_name": "Follow-Up Conventional Radiographs",
+            "date": "Approximately 13 weeks after the initial radiograph",
+            "findings": "Normal mineralization of the right femur and acetabulum.",
+            "changes_over_time": "Significantly increased degree of bone density in the proximal femur and acetabulum."
+        }
+    ]
+}

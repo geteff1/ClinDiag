@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Findings consistent with atelectasis in the base of the right lung, unchanged from 5 years earlier, and was otherwise normal.",
+            "changes_over_time": "Unchanged from 5 years earlier"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Hypodensity and mass effect in the right temporal lobe and insula, with preservation of the adjacent cortex and without intracranial herniation or hydrocephalus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "A solitary lesion (2.6 cm in diameter) in the right insula, with thin, smooth, peripheral enhancement and extensive surrounding edema and mild mass effect.",
+            "changes_over_time": "Repeat MRI showed a T2-weighted hyperintense lesion (3.4 cm in diameter) with thin, smooth peripheral enhancement and heterogeneous foci of restricted diffusion centrally."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Scattered nodules, 2 to 5 mm in diameter, in the middle lobe and a minor fissure of the right lung, bilateral hilar lymphadenopathy, and trace pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Marked hepatomegaly and mild splenomegaly. Mild portacaval, paraaortic, iliac, and mesenteric lymphadenopathy. A small amount of ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

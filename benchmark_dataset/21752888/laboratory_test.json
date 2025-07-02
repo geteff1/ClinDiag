@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cortisol",
+            "date": "4 weeks",
+            "findings": "Undetectable",
+            "changes_over_time": "Persisted undetectable levels during hypoglycemic episodes"
+        },
+        {
+            "procedure_name": "GH (Growth Hormone)",
+            "date": "4 weeks",
+            "findings": "Low (maximum 3.4 µg/liter; normal not specified)",
+            "changes_over_time": "Resumed normal peaks by 8 months after glucocorticoid replacement, discontinued at that time"
+        },
+        {
+            "procedure_name": "ACTH",
+            "date": "7 weeks",
+            "findings": "Increased (64 pmol/liter; normal, 0.3–15.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "12 days (Patient 2)",
+            "findings": "Undetectable",
+            "changes_over_time": "Continued to be low during episodes of hypoglycemia"
+        },
+        {
+            "procedure_name": "GH (Growth Hormone)",
+            "date": "12 days (Patient 2)",
+            "findings": "Low (maximum 6.4 µg/liter; normal not specified)",
+            "changes_over_time": "Restarted after low response in stimulation tests, peaks were normal at 3 years"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "13 days (Patient 2)",
+            "findings": "Undetectable",
+            "changes_over_time": "Persisted undetectable through recurrent hypoglycemia"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "At discharge from both patients",
+            "findings": "Patient 1: 28 µmol/liter; Patient 2: 38 µmol/liter; normal, 0–14 µmol/liter",
+            "changes_over_time": "Mild hyperbilirubinemia persisted at discharge for both patients"
+        },
+        {
+            "procedure_name": "Liver Transaminases",
+            "date": "At discharge from both patients",
+            "findings": "Patient 1: ALT 64 U/liter (normal up to 54 U/liter); AST normal; Patient 2: ALT 53 U/liter; AST 20 U/liter (normal for age)",
+            "changes_over_time": "Improvement noted after treatment; not completely normal at discharge"
+        }
+    ]
+}

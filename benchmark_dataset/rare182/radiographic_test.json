@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "68-Ga DOTATOC PET/CT scan",
+            "date": "Not specified",
+            "findings": "Stability of the lesions and previously undetected vertebral metastatic focus.",
+            "changes_over_time": "Initially stable but eventually developed progression of the disease with liver failure."
+        },
+        {
+            "procedure_name": "Computed tomography scan of the chest, abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Hypervascular intraluminal mass in the terminal ileum, hepatomegaly (207 mm) with more than 10 solid hypervascular lesions with necrotic/cystic areas, the largest measuring 108 mm, and bilateral ovarian metastatic nodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Thickening and retraction of the tricuspid valve leaflets, moderate to severe regurgitation, coherent with carcinoid heart disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Hepatomegaly with multiple space-occupying lesions consistent with diffuse liver metastasis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

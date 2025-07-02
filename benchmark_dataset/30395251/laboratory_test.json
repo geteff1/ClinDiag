@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hb",
+            "date": "October 2016",
+            "findings": "Hb increased to 18.7 g/dL (NR: 13.5 –18.0)",
+            "changes_over_time": "Increased from 15.8 g/dL before starting SGLT2i to 18.7 g/dL three months after."
+        },
+        {
+            "procedure_name": "Hct",
+            "date": "October 2016",
+            "findings": "Hct increased to 55.8% (NR: 40.0 –52.0)",
+            "changes_over_time": "Increased from 45.1% before starting SGLT2i to 55.8% three months after."
+        },
+        {
+            "procedure_name": "RBC count",
+            "date": "October 2016",
+            "findings": "RBC count increased to 6.9 millions/m3 (NR: 4.50 –5.8)",
+            "changes_over_time": "Increased from 5.1 millions/m3 before starting SGLT2i to 6.9 millions/m3 three months after."
+        },
+        {
+            "procedure_name": "Hb",
+            "date": "April 2017",
+            "findings": "Hb decreased to 17.8 g/dL but remained above normal range (NR: 13.5 –18.0)",
+            "changes_over_time": "Decreased from 18.7 g/dL in October 2016."
+        },
+        {
+            "procedure_name": "Hct",
+            "date": "April 2017",
+            "findings": "Hct decreased to 53.2% but remained above normal range (NR: 40.0 –52.0)",
+            "changes_over_time": "Decreased from 55.8% in October 2016."
+        },
+        {
+            "procedure_name": "Hb",
+            "date": "January 2017",
+            "findings": "Hb increased to 17.2 g/dL (NR: 13.5 –18.0)",
+            "changes_over_time": "Increased from 16.2 g/dL before starting SGLT2i."
+        },
+        {
+            "procedure_name": "Hct",
+            "date": "January 2017",
+            "findings": "Hct increased to 56.4% (NR: 40.0 –52.0)",
+            "changes_over_time": "Increased from 48.6% before starting SGLT2i."
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "January 2017",
+            "findings": "Total testosterone was in the low-normal range, 2.88 ng/mL (NR: 2.73 –8.16)",
+            "changes_over_time": "Increased from 2.27 ng/mL before starting SGLT2i."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Peripheral blood cell count",
+            "date": "Not specified",
+            "findings": "WBC count: 1.93 × 10^9/L, Hemoglobin (Hb) count: 38 g/L, Platelet (PLT) count: 84 × 10^9/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver enzyme test",
+            "date": "Not specified",
+            "findings": "Glutamic oxalacetic transaminase (AST): 77.95 U/L (normal range: 13-35 U/L), Glutamic-pyruvic transaminase (ALT): 84.1 U/L (normal range: 7-40 U/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbohydrate antigen (CA125) test",
+            "date": "Not specified",
+            "findings": "CA125 level: 78.5 U/mL (normal < 35 U/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "45, X/46, XX, confirming the diagnosis of Turner syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gene mutation testing",
+            "date": "Not specified",
+            "findings": "MPL and SH2B3 mutations detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Large cystic mass on the right ovary measuring 30 mm × 148 mm, indicative of a serous cystadenoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Splenomegaly (114 mm × 100 mm × 163 mm), cirrhosis, portal hypertension, and ovarian cystic mass measuring 236 mm × 143 mm × 255 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

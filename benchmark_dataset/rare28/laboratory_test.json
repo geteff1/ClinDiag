@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BNP",
+            "date": "Not specified",
+            "findings": "BNP 350 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hb 10.5, Hct 32.8%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Iron Test",
+            "date": "Not specified",
+            "findings": "Serum iron 29 mg/dL, total iron binding capacity 223 mcg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "PO2 42 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "June 2015",
+            "findings": "Pulmonary artery systolic pressure of 120 mm Hg, dilated right ventricle, paradoxical movement of the septum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Heart Catheterization",
+            "date": "Not specified",
+            "findings": "Pulmonary artery pressure 95 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "Partial anomalous venous drainage",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "TAPSE of 13 mm, interatrial communication of 17 mm diameter, right to left shunt",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Heart Catheterization",
+            "date": "Not specified",
+            "findings": "Pulmonary systolic arterial pressure 98 mm Hg",
+            "changes_over_time": "Confirmed previous diagnosis of severe pulmonary hypertension that is not responsive to vasodilator challenge"
+        }
+    ]
+}

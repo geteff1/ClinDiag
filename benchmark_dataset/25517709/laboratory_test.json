@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool occult blood test",
+            "date": "Not specified",
+            "findings": "Positive for occult blood.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 days before Admission",
+            "findings": "10,400 per mm3 (normal range: 4500–13,500)",
+            "changes_over_time": "Increased to 11,000 per mm3 on Admission."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "2 days before Admission",
+            "findings": "<8.0 mg/liter, confirming inflammation.",
+            "changes_over_time": "Increased to 61.5 mg/liter on Admission, then decreased to 34.5 mg/liter after treatment."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal function tests",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "On Admission",
+            "findings": "Mild restrictive lung defect with decreased carbon monoxide diffusing capacity.",
+            "changes_over_time": "Persisted restrictive defect and worsening carbon monoxide diffusing capacity noted on 2 weeks later."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testing for Clostridium difficile toxin",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool culture for enteric pathogens",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "February 2003",
+            "findings": "A right frontal, parasagittal, ovoid, peripherally enhancing mass lesion, measuring 5 cm at its maximum dimension, solid in the medial component with a thin rim of enhancement due to cystic change, considerable surrounding white matter edema, and approximately 1 cm of midline shift to the left.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified.",
+            "findings": "A heterogeneous intraaxial 5-cm mass within the right frontal lobe, displaying a low signal on T1-weighted MR images and a mixed signal on T2-weighted MR images, with increased vascularity indicated by prominent flow voids, and a thick irregular ring enhancing lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scans of the chest and abdomen",
+            "date": "Not specified.",
+            "findings": "A mediastinal soft-tissue mass measuring 2 cm in diameter just below the thoracic inlet and adjacent to the right trachea, a liver lesion measuring 3.5 x 5.8 cm in segments 4b and 5, and an extrahepatic lymph node mass measuring 5 cm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone scintigraphy",
+            "date": "Not specified.",
+            "findings": "Evidence of metastatic foci involving the posterior elements of T-7, the left 10th rib, the right seventh rib, and the neck of the left femur.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

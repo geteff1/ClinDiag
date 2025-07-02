@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fasting Blood Glucose",
+            "date": "Not specified",
+            "findings": "10.41 mmol/L (reference range: 3.90–6.10 mmol/L) - elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "3800 cells/mm3 (reference range: 4000 to 10000 cells/mm3) - slightly low, with 47.7% neutrophils and 30.2% lymphocytes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Within normal ranges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Within normal ranges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV Serology",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Microscopy of Exudate Smears",
+            "date": "Not specified",
+            "findings": "Displayed slender hyphae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological Examination",
+            "date": "Not specified",
+            "findings": "Showed pseudoepitheliomatous hyperplasia in the epidermis; neutrophil abscess in the superficial dermis; diffuse lymphocytes, histiocytes, plasma cells, and a few neutrophils in the dermis; and multinucleated giant cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fungal Culture",
+            "date": "Not specified",
+            "findings": "Growth of creamy, brownish-beige colonies typical of Sporothrix spp., confirmed to be S. globosa by sequencing",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antifungal Susceptibility Testing",
+            "date": "Not specified",
+            "findings": "Minimum inhibitory concentration (MIC) values provided for various antifungal agents",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

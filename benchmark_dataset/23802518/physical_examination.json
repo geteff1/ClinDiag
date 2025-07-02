@@ -1,0 +1,61 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "123/85 mm Hg",
+                "pulse": "115 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Normal",
+                "oxygen_saturation": "Normal"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Conjunctival icterus",
+                    "Jaundiced skin",
+                    "Diffuse tenderness in abdomen, greatest in right lower and left upper quadrants",
+                    "Diffusely tender testicles without masses",
+                    "Mild tenderness over right knee and anterior shin with healed surgical scars"
+                ]
+            },
+            "changes_over_time": "Jaundice gradually improved during the next 2 days."
+        },
+        {
+            "date": "20 days before admission",
+            "vital_signs": {
+                "weight": "92.7 kg",
+                "pulse": "101 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Mild acne",
+                    "Boggy and pale nasal turbinates with clear secretions",
+                    "Slight tonsillar enlargement",
+                    "Inspiratory crackles in right lung base",
+                    "Expiratory wheezes in both lung apexes"
+                ]
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Day of admission",
+            "vital_signs": {
+                "blood_pressure": "123/85 mm Hg",
+                "pulse": "115 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Loud second heart sounds without murmurs",
+                    "Normal results in platelet count, white-cell differential count, and red-cell indexes",
+                    "Negative results for malaria antigen, antibodies to HIV, and heterophile antibodies"
+                ]
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

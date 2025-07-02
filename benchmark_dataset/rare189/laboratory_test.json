@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "D-dimer level of 2.02 mg/L (reference range: 0.00–0.55 mg/L) on initial admission.",
+            "changes_over_time": "D-dimer level decreased to 1.06 mg/L on August 14, 2023, and further decreased to 0.19 mg/L on September 26, 2023."
+        },
+        {
+            "procedure_name": "R value",
+            "date": "August 14, 2023",
+            "findings": "R value was 4.6 min (reference range: 5–10 min).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasminogen activator inhibitor type 1 gene test",
+            "date": "Not specified",
+            "findings": "4G/4G homozygous mutation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Unable to be performed due to persistent thrombocytopenia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Postmortem",
+            "findings": "HRTV antigens detected in postmortem spleen and lymph nodes.",
+            "changes_over_time": "HRTV antigen was also present in large hematopoietic cells within the spleen and mediastinal and mesenteric lymph nodes at autopsy (hospital day 15), but not in bone marrow."
+        },
+        {
+            "procedure_name": "RT-PCR",
+            "date": "Hospital day 2 and 5",
+            "findings": "HRTV RNA detected in premortem blood and serum samples.",
+            "changes_over_time": "Isolate derived from the whole-blood sample on day 16 after inoculation confirmed as HRTV."
+        }
+    ]
+}

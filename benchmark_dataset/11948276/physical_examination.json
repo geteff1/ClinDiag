@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37°C",
+                "pulse": "72 bpm",
+                "blood_pressure": {
+                    "supine": "100/80 mm Hg",
+                    "seated": "110/70 mm Hg"
+                },
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general_appearance": "Patient appeared well.",
+                "skin": "Dark freckles, especially on the face; light, irregularly bordered birthmark on the left leg; no café-au-lait spots or purple striae.",
+                "lungs": "Clear.",
+                "heart": "Grade 1 systolic murmur.",
+                "breast": "Normal, without discharge.",
+                "abdomen": "Normal.",
+                "peripheral_edema": "No edema.",
+                "neurological": "Normal examination results."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

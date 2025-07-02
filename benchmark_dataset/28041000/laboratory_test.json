@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Deep Brain Stimulation (DBS) Electrode Placement",
+            "date": "Not specified",
+            "findings": "Left STN electrode: 10.95 mm lateral, 3.38 mm posterior, and 7.86 mm inferior; Right STN electrode: 10.92 mm lateral, 1.66 mm posterior, 6.88 mm inferior. Electrode placement was confirmed to be consistent with acceptable lead placement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Initial Programming of Pulse Generator",
+            "date": "Not specified",
+            "findings": "Initial programming settings detailed in online supplement.",
+            "changes_over_time": "Patient had an excellent response to DBS over the next 3 months with no changes made to stimulation settings."
+        },
+        {
+            "procedure_name": "Neuropsychological Testing",
+            "date": "Not specified",
+            "findings": "Initial testing showed nearly normal cognitive functioning; mild to moderate impairment on one measure of semantic verbal fluency.",
+            "changes_over_time": "Repeat neuropsychological testing 2 weeks later showed average overall cognitive performance with slight declines in perceptual reasoning, working memory, processing speed, executive function, phonemic fluency, and fine motor coordination. Improvement noted in verbal comprehension with stable performance in attention, naming, semantic fluency, and memory."
+        }
+    ]
+}

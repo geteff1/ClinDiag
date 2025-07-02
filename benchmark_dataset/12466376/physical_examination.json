@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/110 mmHg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Female external genitalia, no uterus, 46,XY karyotype, elevated blood pressure, and hormonal abnormalities.",
+                "date_performed": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 10 yr",
+            "vital_signs": {
+                "blood_pressure": "140/80 mmHg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Low basal levels of androgens, elevated progesterone, low-normal cortisol that did not rise after ACTH stimulation.",
+                "date_performed": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 28 yr",
+            "vital_signs": {
+                "blood_pressure": "170/90 mmHg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Complete female external genitalia, absent uterus, extremely low androgen levels, elevated progesterone, low-normal cortisol that did not rise after ACTH stimulation.",
+                "date_performed": "Not specified"
+            },
+            "changes_over_time": "Blood pressure increased from 140/80 mmHg at age 10 to 170/90 mmHg at age 28."
+        }
+    ]
+}

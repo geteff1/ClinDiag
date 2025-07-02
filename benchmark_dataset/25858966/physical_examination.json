@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "97/51 mmHg",
+                "serum_creatinine": "1.4 mg/dL",
+                "eGFR": "43 mL/min/1.73 m2"
+            },
+            "relevant_findings": [
+                "3/6 systolic murmur",
+                "splenomegaly",
+                "normal neurologic examination",
+                "no edema or rash",
+                "pancytopenia with hemoglobin 9.3 g/dL, white blood cells 1.1 x 10^9/L, platelet count 653 x 10^9/L",
+                "Na 125 mEq/L, albumin 2.6 g/dL, triglycerides 317 mg/dL, and lactate dehydrogenase 1128 U/L"
+            ],
+            "changes_over_time": "Serum creatinine level increased to 5.8 mg/dL at the start of treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant improvement in renal function with diuresis after high-dose intravenous methylprednisolone treatment.",
+            "changes_over_time": "Renal function steadily improved over 4 weeks leading to discontinuation of renal replacement therapy 3 weeks after the methylprednisolone therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Relapse of disease including acute kidney injury (AKI) 5 days after dialysis was discontinued.",
+            "changes_over_time": "Serum creatinine declined to a nadir of 0.9 mg/dL after salvage chemotherapy and intravenous methylprednisolone."
+        }
+    ]
+}

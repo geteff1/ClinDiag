@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Lumbar puncture was not performed because of marked cerebral edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Emergency fasciotomy",
+            "date": "Not specified",
+            "findings": "The hemorrhagic cellulitis was rapidly progressing.",
+            "changes_over_time": "Despite prompt initiation of appropriate antibiotic therapy and surgical fasciotomy, the condition progressed with increasing inotropic support required."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "The first CT scan revealed low-density areas involving the bilateral temporo-parietal lobes and extending ventrally to the left frontal area, indicating cerebritis.",
+            "changes_over_time": "One week later, a repeated CT scan revealed left fronto-temporal hemorrhage."
+        }
+    ]
+}

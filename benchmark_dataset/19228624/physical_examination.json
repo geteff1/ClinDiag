@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1 °C",
+                "blood_pressure": "114/78 mm Hg",
+                "pulse": "122 bpm",
+                "respiratory_rate": "22 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "mental_state": "agitated, confused, fearful",
+                "right_facial_droop": true,
+                "deep_tendon_reflexes": "3+ throughout",
+                "spasticity": "evident in the right leg",
+                "speech": "garbled",
+                "general_physical_examination": "normal except for observed issues"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6 °C",
+                "blood_pressure": "95/64 mm Hg",
+                "pulse": "100 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "mental_state": "initially somnolent but arousable, later agitated, belligerent, uncooperative",
+                "emotional_state": "affect ranged from angry to tearful",
+                "facial_asymmetry": true,
+                "dental_condition": "poor dentition",
+                "abdominal_examination": "soft with diffuse mild tenderness",
+                "motor_strength": "normal except for left leg due to hip pain",
+                "hyperreflexia": "present in arms and legs",
+                "plantar_reflexes": "extensor",
+                "gait": "markedly impaired"
+            },
+            "changes_over_time": "The patient’s initial somnolent state transitioned to agitation. She later became belligerent and uncooperative, indicating a worsening or fluctuation in her mental state."
+        },
+        {
+            "date": "Fourth hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "mental_state": "improved, pleasant, engaged",
+                "cognitive_abilities": "linear thought, recall of three of three objects at 5 minutes",
+                "facial_weakness": "weakness of the right lower facial muscles",
+                "extensor_tone": "increased in both legs",
+                "motor_strength": "normal, but difficult to assess in the left leg due to hip pain",
+                "hyperreflexia": "in arms and legs, sustained clonus in left ankle",
+                "plantar_reflexes": "extensor",
+                "gait": "abnormal due to hypertonia"
+            },
+            "changes_over_time": "The patient’s mental status improved, allowing for more engagement, and her motor findings reflected both hypertonia and weakness, indicating changes in neurological function."
+        }
+    ]
+}

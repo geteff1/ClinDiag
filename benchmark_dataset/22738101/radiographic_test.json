@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Focal, patchy opacification in the right lower lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-resolution CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Centrilobular emphysema at the apexes of the lungs; at the bases, small reticular opacities without gross consolidation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Heavily calcified aneurysm of the infrarenal abdominal aorta measuring approximately 8 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

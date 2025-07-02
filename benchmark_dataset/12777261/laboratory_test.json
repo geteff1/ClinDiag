@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver enzyme test",
+            "date": "August 2001",
+            "findings": "Abnormal elevation of liver enzyme levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "August 2001",
+            "findings": "Suspicion of metastatic disease, three visible tumors.",
+            "changes_over_time": "After resuming chemotherapy with imatinib mesylate, subsequent CT scan showed slight improvement in liver metastases."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "January 2002",
+            "findings": "Demonstrated a decrease in previous metastases and no new lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "March 2002",
+            "findings": "Demonstrated new metastases to the liver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "After resuming chemotherapy",
+            "findings": "Demonstrated new metastases to the liver.",
+            "changes_over_time": "At 1-month follow-up, no new tumors and the identified ones were reduced in size."
+        }
+    ]
+}

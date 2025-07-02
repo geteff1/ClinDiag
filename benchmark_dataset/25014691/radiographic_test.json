@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT angiography",
+            "date": "Not specified",
+            "findings": "Enlarged heart, small bilateral pleural effusions, patchy air-space disease with areas of patchy consolidation, thickenning of the interlobular septa bilaterally; no evidence of pulmonary embolism, aortic aneurysm, or pericardial effusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Endotracheal tube positioned 2 cm above the carina, enlarged heart, haziness over both costophrenic angles indicating small bilateral pleural effusions, patchy opacities in middle and lower lung zones consistent with pulmonary edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Dilated left ventricular cavity, severely impaired left ventricular systolic function with ejection fraction of 11%; hypokinetic left ventricular walls, incomplete closure of mitral valve leaflets, mild-to-moderate mitral regurgitation, dilated left atrium.",
+            "changes_over_time": "Ejection fraction improved to 46% at the 7-month follow-up visit; left ventricular size and left atrial size decreased and mitral regurgitation reduced."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count was 3800 per cubic millimeter (reference range, 4500 to 11,000); the rest of the complete blood count and differential count were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Blood levels of electrolytes, glucose, total protein, albumin, and globulin tests were all normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Scan",
+            "date": "Not specified",
+            "findings": "Showed no evidence of metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "One week later",
+            "findings": "Marked enlargement of the right breast and thickening of the overlying skin, small right axillary lymph nodes (<1 cm in diameter), and a nonspecific nodule (2 mm in diameter) in the lower lobe of the left lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Abdomen",
+            "date": "One week later",
+            "findings": "Revealed multiple solid hepatic lesions (≤1.6 cm in diameter), which were thought to be metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Abdomen After Treatment",
+            "date": "One year after the initiation of treatment",
+            "findings": "Showed resolution of all hepatic lesions, with the exception of a single lesion in the left lobe.",
+            "changes_over_time": "Resolved the enhancing liver lesions."
+        },
+        {
+            "procedure_name": "Breast MRI After Neoadjuvant Therapy",
+            "date": "One year after the initiation of treatment",
+            "findings": "Showed an irregular area of enhancement, up to 5.4 cm in greatest dimension, extending from the upper outer quadrant to the upper inner quadrant of the right breast.",
+            "changes_over_time": "Enhanced area reflects combination of residual tumor and inflammatory response to neoadjuvant therapy."
+        },
+        {
+            "procedure_name": "Mastectomy Pathology Examination",
+            "date": "14 months after diagnosis",
+            "findings": "Showed foci of residual invasive ductal carcinoma, grade 3 of 3, spanning an area of at least 2.5 cm, and extensive ductal carcinoma in situ, grade 3 of 3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

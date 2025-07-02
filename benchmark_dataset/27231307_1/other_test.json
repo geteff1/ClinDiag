@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide level was 0.35 nmol/L (reference range 0.27–1.28 nmol/L), indicating endogenous insulin production.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c test",
+            "date": "Not specified",
+            "findings": "HbA1c was 75 mmol/mol (9%, normal range 20–42 mmol/mol or 4-6%).",
+            "changes_over_time": "HbA1c remained at target for many years after treatment."
+        },
+        {
+            "procedure_name": "Genetic testing for HNF4A mutation",
+            "date": "Within 6 weeks of diabetes onset",
+            "findings": "A mutation in HNF4A was identified, confirming a diagnosis of HNF4A-MODY.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting glucose test",
+            "date": "Not specified",
+            "findings": "Fasting glucose level of 12 mmol/L diagnosed diabetes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GAD antibody test",
+            "date": "Not specified",
+            "findings": "Negative GAD antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for GCK mutation",
+            "date": "Not specified",
+            "findings": "A mutation in GCK was confirmed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

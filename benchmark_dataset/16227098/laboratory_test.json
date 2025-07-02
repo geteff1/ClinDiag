@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum lipids",
+            "date": "Not specified",
+            "findings": {
+                "triglycerides": "291 mg/dL (normal range, 40-165 mg/dL)",
+                "cholesterol": "270 mg/dL (normal range, 110-250 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma testosterone",
+            "date": "Not specified",
+            "findings": "1.55 ng/mL (normal range, 3.5-7.5 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone (FSH)",
+            "date": "Not specified",
+            "findings": "33.2 mIU/mL (normal range, 5-25 mIU/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testicular biopsy",
+            "date": "Not specified",
+            "findings": "Nodular hyperplasia of Leydig cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal study",
+            "date": "Not specified",
+            "findings": {
+                "mother": "Normal findings",
+                "sisters": "Normal findings",
+                "one brother": "Normal findings",
+                "remaining brothers": "Abnormal 46,XX karyotype"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

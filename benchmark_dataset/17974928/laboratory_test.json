@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gas Chromatography/Mass Spectrometry Sterol Analysis",
+            "date": "Not specified",
+            "findings": "Elevated 7-dehydrocholesterol level of 5.9 mg/dL (normal 0.005–0.015 mg/dL); low cholesterol level at 117 mg/dL (age-matched mean 172 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma Cholesterol Level Test",
+            "date": "1-year follow-up",
+            "findings": "Cholesterol level increased to 177 mg/dL.",
+            "changes_over_time": "At 2-year follow-up, cholesterol level at 140 mg/dL."
+        },
+        {
+            "procedure_name": "Plasma 7-dehydrocholesterol Level Test",
+            "date": "1-year follow-up",
+            "findings": "7-dehydrocholesterol remained relatively constant at 6.2 mg/dL.",
+            "changes_over_time": "At 2-year follow-up, 7-dehydrocholesterol level was 6.6 mg/dL."
+        }
+    ]
+}

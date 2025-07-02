@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal MRI",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-Resolution 3.0-T Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Mild diffuse cerebellar atrophy, slightly enlarged right temporal horn, suggestive of a relatively small right temporal lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Spectroscopy (MRS)",
+            "date": "Not specified",
+            "findings": "Slight decreases in N-acetylaspartate concentrations in the left mesial temporal region, suggestive of loss of neuronal elements",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron Emission Tomography (PET) scan",
+            "date": "Not specified",
+            "findings": "Decrease in right temporal lobe use of fluorodeoxyglucose, suggestive of decreased metabolic activity in that region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Left temporal and left central slow wave activity suggestive of localized cortical injury, rare left temporal interictal epileptiform discharges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inpatient EEG telemetry",
+            "date": "Not specified",
+            "findings": "Multiple seizures showing a bicentral high-amplitude spike and wave discharge, indicative of a mesial frontal origin",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

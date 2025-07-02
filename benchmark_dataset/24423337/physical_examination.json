@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "1.58 m",
+                "weight": "53 kg",
+                "visual_acuity_left": "0.16",
+                "visual_acuity_right": "1.0"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Multiple thoracic vertebral fractures.",
+                    "Severe osteoporosis (Z-scores: L2–L4, -5.6 SD; femur neck, -3.9 SD).",
+                    "End-plate compressions of thoracic vertebrae (T7, T9, T10, T12).",
+                    "Increased bone-specific alkaline phosphatase and low urinary calcium excretion."
+                ]
+            },
+            "changes_over_time": "After 2.5 years of treatment with risedronate, bone mineral density and back pain improved."
+        }
+    ]
+}

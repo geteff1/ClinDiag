@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4 °C",
+                "pulse_rate": "150/min",
+                "respiration_rate": "68/min",
+                "blood_pressure": "77/64 mmHg"
+            },
+            "relevant_findings": {
+                "general_status": "poor",
+                "anemic_appearance": "present",
+                "breath_sounds": "coarse in both lungs",
+                "heart_sounds": "low and dull",
+                "galloping_rhythm": "present",
+                "murmur": "pansystolic grade 3 in the precardiac area",
+                "liver": "lower border reaches right pelvic inlet"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

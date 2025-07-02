@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genetic testing for FMR1 gene premutation",
+            "date": "Not specified",
+            "findings": "Demethylated fragment of 3.1 Kb corresponding to 150–200 CGG repeats.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "White matter lesions and moderate/severe generalized brain atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fahn, Tolosa, Martin Tremor Rating Scale",
+            "date": "Prior to surgery and 30 months after DBS",
+            "findings": "Preoperative: 80/144; Post stimulation: 36/144; Improvement: 55%.",
+            "changes_over_time": "Significant improvement in tremor control over 30 months."
+        },
+        {
+            "procedure_name": "Scale for the Assessment and Rating of Ataxia",
+            "date": "Prior to surgery and 30 months after DBS",
+            "findings": "Preoperative: 16/40; Post stimulation: 8/40; Improvement: 50%.",
+            "changes_over_time": "Remarkable gain in ataxia over 30 months."
+        },
+        {
+            "procedure_name": "Posture and Gait subcomponent of the International Cooperative Ataxia Rating Scale",
+            "date": "Prior to surgery and 30 months after DBS",
+            "findings": "Preoperative: 13/34; Post stimulation: 8/34; Improvement: 38%.",
+            "changes_over_time": "Stable improvement of gait and posture over 30 months."
+        }
+    ]
+}

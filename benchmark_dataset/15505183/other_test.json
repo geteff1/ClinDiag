@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF Biochemical Analysis",
+            "date": "Not specified",
+            "findings": "Elevated CSF 3OMD level due to L-Dopa therapy; significant reductions of the CSF HVA level and the HVA/5HIAA ratio suggested a TH deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutation Analysis",
+            "date": "Not specified",
+            "findings": "A compound heterozygous point mutation was discovered in both brothers (1127C/H11022T in exon 10, 1493A/H11022G in exon 14).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropsychological Assessment",
+            "date": "At age 46 years (Patient 1); At age 26 years (Patient 2); At age 41 years (Patient 2)",
+            "findings": "Normal in Patient 1 at 46 years; mild cognitive impairment in Patient 2 at 26 years; unchanged neuropsychological assessment at age 41.",
+            "changes_over_time": "Patient 1 showed normal findings over time; Patient 2 experienced mild impairment."
+        },
+        {
+            "procedure_name": "Neurologic Examination",
+            "date": "At age 24 years (Patient 1); At age 46 years (Patient 1); At age 12 years (Patient 2); At age 41 years (Patient 2)",
+            "findings": "Severe generalized dystonia at age 24 in Patient 1; discrete generalized choreatic movements and slightly increased muscle tone at age 46; moderate gait problems at age 26 in Patient 2; inability to stand or walk, bradykinesia, generalized dystonia at age 42 in Patient 2.",
+            "changes_over_time": "Patient 1 showed improvement with L-dopa therapy; Patient 2 demonstrated a decline in mobility and condition over the years."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein Level",
+            "date": "Third hospital day",
+            "findings": "23.2 mg per liter (normal range, <8.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Fourth hospital day",
+            "findings": {
+                "Color": "Colorless",
+                "Turbidity": "Clear",
+                "Red cells (per mm3)": "0",
+                "White cells (per mm3)": "21",
+                "Differential count (%): Neutrophils": "1",
+                "Lymphocytes": "82",
+                "Monocytes": "16",
+                "Eosinophils": "1",
+                "Protein (mg/dl)": "162",
+                "Glucose (mg/dl)": "35"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiotensin-Converting Enzyme Test",
+            "date": "Not specified",
+            "findings": "36 U per liter (normal range, 7 to 46)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Test",
+            "date": "Not specified",
+            "findings": "Positive at 1:320",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Pregnancy Testing",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transbronchial Biopsy",
+            "date": "Twelfth hospital day",
+            "findings": "Mild nonspecific interstitial fibrosis without evidence of granulomas or cancer.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

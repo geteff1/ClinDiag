@@ -1,0 +1,87 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "137 mmol/L",
+                "potassium": "4.1 mmol/L",
+                "chloride": "97 mmol/L",
+                "bicarbonate": "31 mmol/L",
+                "blood_urea_nitrogen": "29 mg/dL",
+                "creatinine": "0.6 mg/dL",
+                "glucose": "217 mg/dL",
+                "alanine_aminotransferase": "443 U/L (normal range: 7-52)",
+                "aspartate_aminotransferase": "218 U/L (normal range: 9-30)",
+                "alkaline_phosphatase": "145 U/L (normal range: 38-118)",
+                "total_bilirubin": "0.5 mg/dL",
+                "total_protein": "7.4 mg/dL",
+                "albumin": "4.4 g/dL",
+                "globulin": "3.0 g/dL",
+                "amylase": "Normal",
+                "lipase": "Normal",
+                "white_cell_count": "6630 per mm³",
+                "hematocrit": "38.5%",
+                "mean_corpuscular_volume": "110 fL",
+                "red_cell_distribution_width": "14.6%",
+                "platelet_count": "383,000 per mm³",
+                "vitamin_B12": "Normal",
+                "folic_acid": "Normal",
+                "INR": "0.9"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Result consistent with glycogenic hepatopathy.",
+            "changes_over_time": "Symptoms and hepatic biochemical abnormalities resolved within 6 months of aggressive insulin therapy, with glycated hemoglobin levels decreasing from more than 12% to 8%."
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "195 mg/dL",
+                "triglycerides": "458 mg/dL",
+                "HDL": "60 mg/dL",
+                "LDL": "98 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serological Tests for Viral Hepatitis",
+            "date": "Not specified",
+            "findings": {
+                "Hepatitis_B_surface_antibody": "Positive",
+                "Hepatitis_B_surface_antigen": "Negative",
+                "Hepatitis_B_core_antibody": "Negative",
+                "Hepatitis_C_antibody": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin": "5.9 μIU/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "21 mm/hour",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron Studies",
+            "date": "Not specified",
+            "findings": {
+                "serum_iron": "104 mg/dL",
+                "total_iron_binding_capacity": "392 μg/dL",
+                "ferritin": "141 μg/L"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

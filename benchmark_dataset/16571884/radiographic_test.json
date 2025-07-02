@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Multiple calcified nodular opacities that were less than 5 mm in diameter scattered throughout the lungs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Nodular opacities consistent with granulomas; the lungs, heart, and mediastinum were otherwise normal. Mild thickening of the distal esophagus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic examination",
+            "date": "Not specified",
+            "findings": "Gastric mucosal erythema, a hiatal hernia, Barrett’s esophagus with a single esophageal nodule located 35 cm from the incisors.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic mucosal resection",
+            "date": "One month after biopsy",
+            "findings": "Intramucosal carcinoma arising in high-grade dysplasia confirmed; high-grade dysplasia extended to the lateral margin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy with laser illumination",
+            "date": "Two days after receiving porfimer sodium",
+            "findings": "Moderately severe esophagitis within the treated segment, although changes were not uniform.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Subsequent endoscopies",
+            "date": "Several follow-up visits after photodynamic therapy",
+            "findings": "Esophagus lined by squamous mucosa; several small patches of Barrett’s epithelium apparent.",
+            "changes_over_time": "Dysphagia and hiccups developed, followed by balloon dilation of a benign stenosis. At 46 months post-treatment, biopsies showed no recurrence of Barrett’s esophagus or dysplasia."
+        }
+    ]
+}

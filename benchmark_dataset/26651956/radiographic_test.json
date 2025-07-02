@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT angiography",
+            "date": "Not specified",
+            "findings": "Stanford type B aortic dissection with periaortic hematoma, hemorrhagic pleural effusion, and atelectatic lungs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "aortography",
+            "date": "Not specified",
+            "findings": "Sealing of the false lumen without malperfusion of the visceral vessels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "postprocedural CT angiography",
+            "date": "1 day later",
+            "findings": "Distal part of the endograft was located in the false lumen of the descending aorta.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aortic CT angiography",
+            "date": "1 week postprocedure",
+            "findings": "Good positioning of the stent graft, bare stents, and coils, with normal blood flow to the aorta, patent visceral artery, and vanished false lumen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aortic CT angiography",
+            "date": "18 months postprocedure",
+            "findings": "The false lumen completely disappeared without clinical or surgical complications.",
+            "changes_over_time": "Complete disappearance of the false lumen."
+        }
+    ]
+}

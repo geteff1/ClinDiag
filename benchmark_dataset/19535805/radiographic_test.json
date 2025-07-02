@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper gastrointestinal series",
+            "date": "Not specified",
+            "findings": "Severe erosive changes in the distal esophagus, an eccentric filling defect in the anterolateral portion of the esophagus, minimal gastroesophageal reflux.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Enlarged lymph node (1.0 cm in diameter) in the gastrohepatic ligament, mild thickening of the distal esophageal wall, cholelithiasis, bilateral renal cysts, diverticulosis. No pulmonary nodules or enlarged mediastinal lymph nodes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Area of increased uptake in the distal esophagus and in the gastrohepatic ligament.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Non-obstructing, hypoechoic mass in the distal esophagus, extending to the muscularis propria and focally into the periesophageal fat. Hypoechoic lymph node (2.1 cm in diameter) in the gastrohepatic area.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT and PET-CT study",
+            "date": "Not specified",
+            "findings": "Decrease in the size of the mass in the gastroesophageal junction and the gastrohepatic node, marked decrease in 18F-FDG uptake in both areas.",
+            "changes_over_time": "Decrease in size and uptake compared to previous studies."
+        }
+    ]
+}

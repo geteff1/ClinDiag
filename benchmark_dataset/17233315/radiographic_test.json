@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Extensive left-side frontotemporoparietal epidural hematoma and an overlying temporal bone fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scanning",
+            "date": "At age 5 months",
+            "findings": "Fractures at T-9, T-10, T-12, and L-1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "isotope bone scan",
+            "date": "At age 5 months",
+            "findings": "Posterior fractures of the seventh and ninth ribs on the right side.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

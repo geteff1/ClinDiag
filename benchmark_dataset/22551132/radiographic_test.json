@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Clear lungs without evidence of airway or parenchymal abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fiberoptic Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Trachea narrowed dramatically during exhalation; anterior bulging of the posterior membranous sheath extending throughout the length of the trachea.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dynamic CT Imaging",
+            "date": "Not specified",
+            "findings": "Dramatic expiratory airway narrowing.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

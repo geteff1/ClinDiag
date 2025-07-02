@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ventriculoperitoneal Shunt Placement",
+            "date": "Not specified",
+            "findings": "Opening pressure during the procedure was more than 40 cm H2O.",
+            "changes_over_time": "After resetting the valve to a low pressure, an opening pressure of 45 cm H2O was measured following revision of the shunt."
+        },
+        {
+            "procedure_name": "Rescue Operation for Optic Canal Decompression",
+            "date": "6 months after VP shunt placement",
+            "findings": "The procedure failed to save his vision.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postoperative CT scan",
+            "date": "After shunt revision",
+            "findings": "Demonstrated drained ventricles.",
+            "changes_over_time": "Compared with his last CT scan, there was a significant increase in the size of the frontal horns of the lateral ventricles."
+        }
+    ]
+}

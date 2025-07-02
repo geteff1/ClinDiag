@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH, T3 and T4 levels",
+            "date": "Not specified",
+            "findings": {
+                "total_T4": "1.29 nmol/liter (normal range, 57.9 –140.3 nmol/liter)",
+                "total_T3": "0.3 nmol/liter (normal range, 0.92 –2.79 nmol/liter)",
+                "free_T4": "1.29 pmol/liter (10.3 –19.3 pmol/liter)",
+                "free_T3": "0.15 pmol/liter (3.54 –6.45 pmol/liter)",
+                "TSH": "0.02 mU/liter (0.35 –5.5 mU/liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TRH stimulation test",
+            "date": "Not specified",
+            "findings": {
+                "patient_II_1_TSH": "0.02 mIU/liter with no increase after TRH stimulation",
+                "patient_II_1_PRL": "Normal response",
+                "patient_II_2_TSH": "0.01 mIU/liter with no increase after TRH stimulation",
+                "patient_II_2_PRL": "Normal response"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "Thyroid gland was normally positioned but hypoplastic (volume of 0.125 ml, below the 10th percentile)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

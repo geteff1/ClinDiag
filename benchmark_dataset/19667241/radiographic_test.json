@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiomegaly.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular dilation (diastolic diameter, 41.5 mm), decreased contractility, and mild to moderate mitral valve insufficiency.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

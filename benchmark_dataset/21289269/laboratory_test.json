@@ -1,0 +1,62 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Electrolytes and Calcium",
+            "date": "7 days of life",
+            "findings": {
+                "ionized calcium": "12.4 mg/dL (9.0–11.0)",
+                "serum total calcium": "11.9 mg/dL (2.98 mmol/L)",
+                "serum PTH": "663 pg/ml (10–71)",
+                "albumin": "2.9 g/dL (3.8–5.4)",
+                "alkaline phosphatase": "355 U/L (80–270)",
+                "phosphate": "4.8 mg/dL (4.5–6.7)",
+                "magnesium": "2.4 mg/dL (1.6–2.3)",
+                "25(OH)D3": "10 ng/mL (20–100)",
+                "1,25(OH)D3": "126 pg/ml (30–170)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Calcium after Pamidronate",
+            "date": "2 weeks of age",
+            "findings": {
+                "ionized calcium": "7.0 mg/dL (4.5–5.3)",
+                "serum PTH": "563 pg/ml"
+            },
+            "changes_over_time": "Hypocalcemia occurred after pamidronate treatment, leading to a rise in PTH to 1261 pg/ml within 36 hours."
+        },
+        {
+            "procedure_name": "Serum PTH and Calcium Levels after Cinacalcet",
+            "date": "3 weeks of age",
+            "findings": {
+                "serum PTH": "98 pg/ml",
+                "ionized calcium": "5.4 mg/dL (1.35 mmol/L) at 24 h"
+            },
+            "changes_over_time": "Serum PTH levels decreased post-cinacalcet dose. Normal levels of ionized calcium maintained for 96 hours."
+        },
+        {
+            "procedure_name": "Total Alkaline Phosphatase",
+            "date": "13 months of age",
+            "findings": {
+                "total alkaline phosphatase": "316 IU/L (80–270)"
+            },
+            "changes_over_time": "Slightly above normal."
+        },
+        {
+            "procedure_name": "Bone-Specific Alkaline Phosphatase",
+            "date": "17 months of age",
+            "findings": {
+                "bone-specific alkaline phosphatase": "111 g/L (25–124)"
+            },
+            "changes_over_time": "Normal result."
+        },
+        {
+            "procedure_name": "Skeletal Survey",
+            "date": "17 months of age",
+            "findings": {
+                "osteopenia": "Greatly decreased, no fractures or architectural abnormalities detected, but metaphyseal sclerosis noted."
+            },
+            "changes_over_time": "From previous findings indicating diffuse osteopenia."
+        }
+    ]
+}

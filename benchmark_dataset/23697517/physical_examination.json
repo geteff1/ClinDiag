@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "83/52 mm Hg",
+                "pulse": "102 bpm",
+                "weight": "35.4 kg",
+                "height": "149.9 cm",
+                "body_mass_index": "15.8"
+            },
+            "relevant_findings": {
+                "physical_appearance": "Slim and appeared exhausted.",
+                "skin": "Freckled with multiple dark nevi and slight hyperpigmentation in the axillae.",
+                "neurological_examination": {
+                    "cranial_nerve_test": "Normal",
+                    "fundoscopic_exam": "Normal",
+                    "strength": "Full",
+                    "reflexes": "Brisk",
+                    "plantar_responses": "Flexor",
+                    "clonus": "2 to 3 beats, unsustained on the right foot",
+                    "tandem_gait": "Initially rocked on feet, later skipped and jumped without difficulty.",
+                    "sensory_examination": "Normal",
+                    "Romberg_testing": "Normal"
+                },
+                "mental_state": {
+                    "behavior": "Withdrawn and disengaged",
+                    "affect": "Sad and apathetic",
+                    "speech": "Sparse, slow, and soft",
+                    "eye_contact": "Limited",
+                    "spontaneous_movements": "Limited"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "6 weeks after initial evaluation",
+            "vital_signs": {
+                "weight": "34.0 kg"
+            },
+            "relevant_findings": "Patient appeared listless and pallid.",
+            "changes_over_time": "Weight decreased to 32.9 kg at pediatrician's office visit 5 days later."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "87/45 mm Hg (supine), 124 bpm (standing)",
+                "temperature": "36.4°C",
+                "weight": "33.5 kg"
+            },
+            "relevant_findings": "Rest of examination was normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fetal Ultrasound Examination",
+            "date": "Not specified",
+            "findings": {
+                "amniotic_fluid_index": "73 mm (initial), 70 mm (after 7 days)",
+                "estimated_fetal_weight": "1559 g (1st percentile)",
+                "umbilical_artery_PI": "1.23 (96th percentile), 1.27 (98th percentile)",
+                "middle_cerebral_artery_PI": "1.62 (16th percentile), 1.21 (1st percentile)",
+                "cerebroplacental_ratio": "1.32 (3rd percentile), 0.95 (1st percentile)"
+            },
+            "changes_over_time": "Reduced amniotic fluid was confirmed; umbilical artery PI increased from 1.23 to 1.27, while middle cerebral artery PI decreased from 1.62 to 1.21 and cerebroplacental ratio decreased from 1.32 to 0.95."
+        },
+        {
+            "procedure_name": "Urine Screen Test",
+            "date": "Not specified",
+            "findings": "All tests resulted negative for amphetamines, benzodiazepines, cocaine, methadone, opiates, and cannabinoids.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Rapid Test for Premature Rupture of Membranes",
+            "date": "Not specified",
+            "findings": "Resulted negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hair Sample Analysis",
+            "date": "Not specified",
+            "findings": "Used to evaluate the use of alcohol, smoking, and cocaine during pregnancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Sample for Alcohol Testing",
+            "date": "Not specified",
+            "findings": "Resulting findings not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

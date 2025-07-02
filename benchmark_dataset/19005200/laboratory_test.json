@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Vitamin B12",
+            "date": "Not specified",
+            "findings": "222 pg per milliliter (164 pmol per liter); reference range >250 pg per milliliter (>185 pmol per liter), indicating low levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis - First Lumbar Puncture",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "red_cells_per_mm3": "None",
+                "white_cells_per_mm3": "6",
+                "neutrophils_percentage": "0",
+                "lymphocytes_percentage": "0",
+                "monocytes_percentage": "100",
+                "protein_mg_dl": "74",
+                "glucose_mg_dl": "71"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis - Second Lumbar Puncture",
+            "date": "Second Hospital Day",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "red_cells_per_mm3": "1",
+                "white_cells_per_mm3": "16",
+                "neutrophils_percentage": "0",
+                "lymphocytes_percentage": "100",
+                "monocytes_percentage": "0",
+                "protein_mg_dl": "50",
+                "glucose_mg_dl": "71"
+            },
+            "changes_over_time": "The white cell count increased from 6 to 16, with a corresponding decrease in monocytes from 100% to 0%."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "31.7 (normal range 41.0–53.0)",
+                "Hemoglobin (g/dl)": "10.6 (normal range 13.5–17.5)",
+                "White-cell count (per mm3)": "6600 (normal range 4500–11,000)",
+                "Neutrophils (%)": "85 (normal range 40–70)",
+                "Lymphocytes (%)": "9 (normal range 22–44)",
+                "Monocytes (%)": "3 (normal range 4–11)",
+                "Eosinophils (%)": "3 (normal range 0–8)",
+                "Platelet count (per mm3)": "274,000 (normal range 150,000–400,000)",
+                "Red-cell distribution width (%)": "15.2 (normal range 11.5–14.5)",
+                "Mean corpuscular volume (μm3)": "97 (normal range 80–100)",
+                "Erythrocyte count (per mm3)": "3,270,000 (normal range 4,500,000–5,900,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": {
+                "Activated partial thromboplastin time (sec)": "34.0 (normal range 21.0–33.0)",
+                "Prothrombin time (sec)": "34.4 (normal range 11.0–13.7)",
+                "Prothrombin-time international normalized ratio": "3.4"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": {
+                "Sodium (mmol/liter)": "142 (normal range 135–145)",
+                "Potassium (mmol/liter)": "3.0 (normal range 3.4–4.8)",
+                "Chloride (mmol/liter)": "105 (normal range 100–108)",
+                "Carbon dioxide (mmol/liter)": "23.7 (normal range 23.0–31.9)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Urea nitrogen (mg/dl)": "41 (normal range 8–25)",
+                "Creatinine (mg/dl)": "1.74 (normal range 0.60–1.50)",
+                "Estimated glomerular filtration rate (ml/min/1.73 m2)": "41 (normal range ≥60)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Alkaline phosphatase (U/liter)": "149 (normal range 45–115)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose Test",
+            "date": "Not specified",
+            "findings": {
+                "Glucose (mg/dl)": "137 (normal range 70–110)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ammonia Level",
+            "date": "Not specified",
+            "findings": {
+                "Ammonia (μmol/liter)": "55 (normal range 12–48)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Specific gravity": "1.020",
+                "pH": "5.5",
+                "Appearance": "Clear yellow fluid with trace blood",
+                "Sediment": "0 to 2 white cells and 0 to 2 red cells per high-power field, 20 to 100 hyaline casts, and 0 to 2 granular casts per low-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": {
+                "Rhythm": "Atrial fibrillation",
+                "Ventricular contractions": "Frequent premature ventricular contractions",
+                "ST-segment depression": "Depressed ST-segment >1 mm in leads II, III, aVF and downsloping ST-segment depression of 2 mm in lead V6"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

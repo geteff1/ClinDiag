@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Resting echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe dynamic left ventricular outflow tract (LVOT) obstruction (85 mmHg at rest and 140 mmHg on Valsalva) associated with increased septal thickness (18 mm) and significant mitral valve systolic anterior motion resulting in moderate-to-severe mitral regurgitation. Left and right ventricular volumes and ejection fraction (EF 55%) were normal.",
+            "changes_over_time": "Post-surgical resting echocardiography demonstrated a significant reduction in LVOT gradient (now 5 mmHg)."
+        },
+        {
+            "procedure_name": "Exercise stress echocardiography",
+            "date": "Not specified",
+            "findings": "Electrically and symptomatically negative for inducible ischaemia but showed evidence of severe dynamic intracavity obstruction post-exercise and moderate-severe dynamic mitral regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography coronary angiography (CTCA)",
+            "date": "Not specified",
+            "findings": "Large calibre first septal perforating artery extending to the endocardial border of the LVOT and probable communication with the LV cavity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Invasive angiography",
+            "date": "Not specified",
+            "findings": "Confirmed a fistula between an unroofed first septal perforator and the LV cavity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Adenosine myocardial perfusion scan",
+            "date": "Not specified",
+            "findings": "Demonstrated septal post-surgical wall motion changes and an ejection fraction (EF) of 59%, with no evidence of myocardial ischaemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Telemetry monitoring",
+            "date": "Not specified",
+            "findings": "Demonstrated incidental runs of asymptomatic non-sustained ventricular tachycardia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

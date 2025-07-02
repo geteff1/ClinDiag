@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis with a white blood cell count of 19,000/mm3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Human Immunodeficiency Virus Testing",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bacteriological Culture",
+            "date": "Not specified",
+            "findings": "Group A streptococci detected in necrotic fascia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diffusion-weighted Magnetic Resonance Imaging",
+            "date": "48 hours after onset of symptoms",
+            "findings": "Recent ischemic lesions in the territory of the two anterior cerebral arteries.",
+            "changes_over_time": "High signal intensity suggesting fat emboli in the brain arteries."
+        },
+        {
+            "procedure_name": "T1-weighted Magnetic Resonance Imaging",
+            "date": "48 hours after onset of symptoms",
+            "findings": "Fat emboli identified in brain arteries as high signal intensity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Second Magnetic Resonance Imaging",
+            "date": "Three weeks after the onset of symptoms",
+            "findings": "Cortical lamellar necrosis in the region of the left anterior cerebral artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

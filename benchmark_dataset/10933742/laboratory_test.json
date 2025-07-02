@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "appearance_of_fluid": "Clear, colorless",
+                "initial_pressure": "156 mm of water",
+                "glucose": "67 mg/dL (aged 17 years), 68 mg/dL (aged 23 years)",
+                "total_protein": "29 mg/dL (aged 17 years), 37 mg/dL (aged 23 years)",
+                "microscopical_examination": "No organisms (both ages)",
+                "cells": "2 lymphocytes (aged 17 years), 0 (aged 23 years)",
+                "cultures": "Negative (both ages)",
+                "cryptococcal_antigen": "Negative (both ages)",
+                "cysticercosis": "Negative (both ages)"
+            },
+            "changes_over_time": "Glucose slightly increased from 67 mg/dL to 68 mg/dL; total protein increased from 29 mg/dL to 37 mg/dL; cells decreased from 2 lymphocytes to 0."
+        },
+        {
+            "procedure_name": "Cranial CT study",
+            "date": "One year later (specific date not provided)",
+            "findings": "No change in the calcific lesion in the left temporal lobe.",
+            "changes_over_time": "No changes noted in the calcific lesion over time."
+        },
+        {
+            "procedure_name": "Hematologic and blood chemical tests",
+            "date": "At age of 17 years",
+            "findings": {
+                "hematocrit": "39.3%",
+                "mean_corpuscular_volume": "95 µm³",
+                "prothrombin_time": "Normal",
+                "partial_thromboplastin_time": "Normal",
+                "glucose": "124 mg/dL",
+                "urea_nitrogen": "Normal",
+                "creatinine": "Normal",
+                "sodium": "139 mmol/L",
+                "potassium": "3.2 mmol/L",
+                "chloride": "98 mmol/L",
+                "carbon_dioxide": "32.3 mmol/L",
+                "carbamazepine": "5.9 µg/ml"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

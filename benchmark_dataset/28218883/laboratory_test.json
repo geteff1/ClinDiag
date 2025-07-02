@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine biochemistry (full blood count and renal function)",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total cholesterol test",
+            "date": "Not specified",
+            "findings": "Total cholesterol level was 3.6 mmol/L (normal, <5.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholestanol level test",
+            "date": "Not specified",
+            "findings": "Cholestanol level was reduced from 122 mmol/L to 13 mmol/L (normal range, 3–16 mmol/L).",
+            "changes_over_time": "Cholestanol level decreased substantially after treatment."
+        }
+    ]
+}

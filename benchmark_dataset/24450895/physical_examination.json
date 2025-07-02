@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/82 mm Hg",
+                "pulse": "101 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Abdomen was soft with mild epigastric tenderness without rebound; stool specimen revealed occult blood.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/77 mm Hg",
+                "pulse": "89 bpm",
+                "temperature": "37.7°C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Mild abdominal tenderness; blood levels of haptoglobin, glucose, folic acid, vitamin B12, ferritin, phosphorus, and magnesium were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "179/92 mm Hg",
+                "pulse": "90 bpm",
+                "temperature": "38.1°C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Abdomen was soft with mild epigastric tenderness without rebound; stool was black and positive for occult blood (trace).",
+            "changes_over_time": "Blood pressure increased to 200 mm Hg and pulse to 94 bpm after treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Red-cell casts, hyaline casts, oxalate crystals, and no malignant cells observed in urine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Progressive anemia observed; hemoglobin decreased to 8.9 g/dL before transfusion.",
+            "changes_over_time": "Hematocrit fell to 24.5% then rose to 30.4% after transfusion."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Creamy appearance of urine due to red cells.",
+            "changes_over_time": "Hemoglobin maintained at 10 g/dL with intermittent erythropoietin."
+        }
+    ]
+}

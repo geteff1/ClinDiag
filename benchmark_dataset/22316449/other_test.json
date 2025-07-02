@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at a rate of 96 beats per minute, with nonspecific ST-segment and T-wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Technetium-99m Pertechnetate Scan",
+            "date": "Not specified",
+            "findings": "Enlarged thyroid with diffusely increased uptake of the pertechnetate, features consistent with Graves' disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Approximately 3 weeks after first admission",
+            "findings": "Free T4 level of 1.1 ng per deciliter, indicating a decrease in thyroid hormone levels.",
+            "changes_over_time": "Two months later, free T4 level was low and thyrotropin level was elevated."
+        }
+    ]
+}

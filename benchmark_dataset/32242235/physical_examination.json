@@ -1,0 +1,83 @@
+{
+    "physical_examinations": [
+        {
+            "date": "14 years",
+            "vital_signs": {
+                "height": "133 cm (-4.3 SD)",
+                "weight": "24.4 kg (-5.7 SD)",
+                "head_circumference": "50 cm (-3.2 SD)",
+                "BMI": "13.9 kg/m2 (-2.9 SD)",
+                "growth_velocity": "2.8 cm/year"
+            },
+            "relevant_findings": {
+                "hormonal_assays": {
+                    "FSH": "124 UI/l",
+                    "LH": "34 UI/l",
+                    "estradiol": "<5 pg/ml"
+                },
+                "ultrasonography": {
+                    "uterus": "small prepubertal",
+                    "ovaries": {
+                        "right": "14 mm",
+                        "left": "10 mm"
+                    }
+                },
+                "anti_TPO_antibodies": "37 UI/l"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "19 years",
+            "vital_signs": {
+                "height": "Not specified",
+                "weight": "Not specified",
+                "head_circumference": "Not specified",
+                "BMI": "Not specified",
+                "growth_velocity": "Not specified"
+            },
+            "relevant_findings": {
+                "hormonal_assays": {
+                    "FSH": "73 UI/l",
+                    "LH": "34 UI/l",
+                    "AMH": "0.03 µg/l"
+                },
+                "TSH": "normal",
+                "T4": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "22 years",
+            "vital_signs": {
+                "height": "Not specified",
+                "weight": "Not specified",
+                "head_circumference": "Not specified",
+                "BMI": "Not specified",
+                "growth_velocity": "Not specified"
+            },
+            "relevant_findings": {
+                "hormonal_assays": {
+                    "anti_TPO_antibodies": "145 UI/ml"
+                }
+            },
+            "changes_over_time": "Presence of high anti-TPO maintained"
+        },
+        {
+            "date": "39 years (mother)",
+            "vital_signs": {
+                "height": "153 cm (-2.2 SD)",
+                "weight": "60.3 kg",
+                "BMI": "25.7 kg/m2",
+                "head_circumference": "56 cm (0 SD)",
+                "FSH": "36.3 UI/l",
+                "LH": "23.3 UI/l",
+                "AMH": "<0.03 µg/l"
+            },
+            "relevant_findings": {
+                "thyroid": "benign lymphocytic thyroiditis post-total thyroidectomy",
+                "anti_TPO_antibodies": "145 UI/ml"
+            },
+            "changes_over_time": "Normal TSH and T4 levels maintained"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "blood_pressure": "90/55 mm Hg",
+                "pulse": "71 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "visual_acuity": {
+                    "right_eye": "20/20",
+                    "left_eye": "20/200 (with effort and eccentric fixation)"
+                },
+                "pupil_response": {
+                    "symmetry": "symmetric",
+                    "relative_afferent_pupillary_defect": "present in the left eye"
+                },
+                "eye_movements": "normal",
+                "optic_nerves": {
+                    "right": "normal",
+                    "left": "diffusely edematous with small splinter hemorrhages"
+                },
+                "skin_rash": "erythematous, dry, flaking, patchy rash on forehead, chest, and upper back",
+                "sensorial_examination": {
+                    "pinprick_sensation": "decreased in fingertips and toes",
+                    "gait": "narrow-based and unsteady"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "There was a lightly erythematous morbilliform eruption with adherent branny, dry scale over the scalp, arms, upper back, chest, and sides of the neck.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

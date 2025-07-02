@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "2009-01-21",
+            "findings": "Mild concentric left ventricular hypertrophy with normal cavity size and normal regional-global systolic function (ejection fraction, >60%); peak gradient across the aortic valve was 97 mm Hg; aortic valve area of 0.7 cm2; mild mitral regurgitation observed.",
+            "changes_over_time": "Peak gradient increased from 67 mm Hg (2008) to 97 mm Hg (2009), indicating progression of aortic stenosis."
+        },
+        {
+            "procedure_name": "Stress Nuclear Study",
+            "date": "2008-12",
+            "findings": "Stopped after 6.75 minutes due to fatigue and an asymptomatic reduction in blood pressure; ECG showed ST segment depression (2 to 2.5 mm upsloping-horizontal, downsloping in recovery); interpreted as probably normal myocardial perfusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "2008-12",
+            "findings": "Showed ST segment depression that changed from upsloping-horizontal to downsloping during recovery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "2009-04",
+            "findings": "Demonstrated 90% stenoses of the first and second obtuse marginal arteries.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

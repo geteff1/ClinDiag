@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest roentgenogram",
+            "date": "Not specified",
+            "findings": "borderline-sized heart with dimensions similar to those found in L-malposition of the great arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "Not specified",
+            "findings": "good biventricular contractility and normal-sized atria",
+            "changes_over_time": "progression of the tricuspid valve incompetence, a pulmonary stenosis–producing right ventricle pressure of 65 mm Hg, and 2 small hemodynamically insignificant ventricular septal defects"
+        },
+        {
+            "procedure_name": "computed cardiac tomography",
+            "date": "21 years later",
+            "findings": "adequately placed and fixed septation patch, equal growth of the 2 ventricles to normal sizes, absence of the previously described ventricular septal defects without any other morphologic or anatomic cardiac abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "normal origins of both right and left coronary arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "coronary computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "anomalous take-off of the RCA from the left coronary sinus with an interarterial course between the aorta and the pulmonary artery",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

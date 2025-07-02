@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Anti-D antibody titer",
+            "date": "Not specified",
+            "findings": "Initial titer 1:16 increased to 1:128 and then to 1:256",
+            "changes_over_time": "Increased from 1:16 to 1:128 in 1 month, then to 1:256"
+        },
+        {
+            "procedure_name": "Obstetrical ultrasonography",
+            "date": "Not specified",
+            "findings": "Estimated fetal weight 2471 g (53rd percentile), normal fetal activity, anatomy, and amniotic fluid volume",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Antiglobulin Test",
+            "date": "Not specified",
+            "findings": "Positive (4+ poly and 4+ IgG, no C3), eluate contained anti-D antibodies",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin levels",
+            "date": "Not specified",
+            "findings": "Indirect bilirubin 2.3 mg/dL (39 μmol/L), direct bilirubin 0.3 mg/dL (5 μmol/L), peak bilirubin level 12.6 mg/dL (215 μmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

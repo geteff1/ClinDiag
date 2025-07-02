@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "April 28, 2014",
+            "findings": "right lower lobe infiltrates",
+            "changes_over_time": "Worsening bilateral infiltrates noted on subsequent imaging."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "April 29, 2014",
+            "findings": "bilateral infiltrates predominantly in the lower lobes",
+            "changes_over_time": "Improvement in X-ray on May 5, 2014."
+        },
+        {
+            "procedure_name": "chest X-ray",
+            "date": "May 5, 2014",
+            "findings": "Improving CXR",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "pulse": "107 bpm",
+                "blood_pressure": "112/90 mmHg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "appearance": "disheveled, cachectic, intermittently agitated",
+                "eye_exam": "right eyelid scarred, pigmented areas noted on both irises",
+                "oral_exam": "mucous membranes dry, several teeth missing",
+                "lung_exam": "decreased breath sounds at both lung bases",
+                "fingers": "clubbing present",
+                "skin": "multiple tattoos",
+                "neurological_exam": "bilateral grasp responses, confused and not oriented to place or time, impaired attention and language"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

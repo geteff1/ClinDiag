@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Slightly elevated TSH levels at age 11 months and throughout childhood.",
+            "changes_over_time": "TSH levels continued to show abnormalities during childhood."
+        },
+        {
+            "procedure_name": "T4",
+            "date": "Not specified",
+            "findings": "High T4 levels at age 11 months and throughout childhood.",
+            "changes_over_time": "T4 levels remained high during childhood."
+        },
+        {
+            "procedure_name": "T3",
+            "date": "Not specified",
+            "findings": "Low T3 levels at age 11 months and throughout childhood.",
+            "changes_over_time": "T3 levels continued to remain low during childhood."
+        },
+        {
+            "procedure_name": "rT3",
+            "date": "Age 11 years",
+            "findings": "Elevated rT3 levels (measured during L-T3 treatment).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma GPx3 activity",
+            "date": "Not specified",
+            "findings": "Considerably reduced, measured at 11 U/g hemoglobin (normal range 27.5–73.5).",
+            "changes_over_time": "Normalized after selenium supplementation."
+        },
+        {
+            "procedure_name": "Serum selenium",
+            "date": "Not specified",
+            "findings": "Undetectable (below the detection limit of 10 µg/liter).",
+            "changes_over_time": "Increased to 58 µg/liter after 30 days of selenium supplementation."
+        },
+        {
+            "procedure_name": "Serum SEPP levels",
+            "date": "Not specified",
+            "findings": "Undetectable (below the detection limits of 0.016 mg/liter).",
+            "changes_over_time": "Remained undetectable despite selenium supplementation."
+        }
+    ]
+}

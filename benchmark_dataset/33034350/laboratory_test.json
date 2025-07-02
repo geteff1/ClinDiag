@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin A1c (HbA1c)",
+            "date": "Not specified",
+            "findings": "HbA1c was 6.7%, increased from 6.4% at the last visit.",
+            "changes_over_time": "Increased from 6.4% to 6.7% over 3 months."
+        },
+        {
+            "procedure_name": "Fasting glucose with C-peptide, 2-hour post-prandial urinary C-peptide to creatinine ratio (UCPCR), and antibody tests (GADA, IA-2A, ZnT8)",
+            "date": "Not specified",
+            "findings": "Three negative antibody tests (GADA, IA-2A, ZnT8).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c (HbA1c)",
+            "date": "Two years later",
+            "findings": "HbA1c rose to 8.7%.",
+            "changes_over_time": "Increased from <7.0% to 8.7% over two years."
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide of 1.2 ng/mL (reference 0.8 - 3.2 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c (HbA1c)",
+            "date": "6 months after starting GLP-1 RA treatment",
+            "findings": "HbA1c improved to 6.2%.",
+            "changes_over_time": "Improved from 8.7% to 6.2% after 6 months of GLP-1 RA treatment."
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": "Total cholesterol 137 mg/dL, HDL 25 mg/dL, LDL 76 mg/dL, triglycerides 182 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine albumin:creatinine ratio",
+            "date": "Not specified",
+            "findings": "Urine albumin:creatinine ratio was 17 mg/g.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at a rate of 132 beats per minute and low-voltage QRS complexes, with Q waves and ST-segment elevations (≤2 mm) in the anterior leads.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Large wall-motion abnormality in the apical two thirds of the left and right ventricles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Growth of gram-negative bacilli identified as Capnocytophaga canimorsus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "No evidence of hemorrhage, masses, or infarction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

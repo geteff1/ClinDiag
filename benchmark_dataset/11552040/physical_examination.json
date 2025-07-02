@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "blood_glucose": "23 mg/dL",
+                "respiratory_rate": "Shallow",
+                "pupils": "2 mm, nonreactive",
+                "additional": "Hypotension"
+            },
+            "relevant_findings": {
+                "consciousness": "Opened eyes to painful stimulation, no evidence of comprehension",
+                "motor_activity": "No other motor activity",
+                "deep_tendon_reflexes": "Absent",
+                "plantar_response": "Flexor",
+                "neurologic_examination": "No focal abnormality"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 5 post-admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "DWI": "Hyperintense signal of the basal ganglia, hippocampus, and cerebral cortex bilaterally",
+                "MRI": "Hypointense signal in the basal ganglia on apparent diffusion coefficient map"
+            },
+            "changes_over_time": "Progression of neurologic condition with no improvement noted over the next 5 days"
+        }
+    ]
+}

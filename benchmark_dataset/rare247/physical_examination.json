@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "anemia": "Moderate anemia",
+                "jaundice": "Mild jaundice",
+                "lymphadenopathy": "Nontender mild submandibular lymphadenopathy",
+                "abdominal_findings": "Non-tender and moderately distended abdomen with massive hepatosplenomegaly (spleen 8cm below the coastal margin and liver 12 cm below the coastal margin)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

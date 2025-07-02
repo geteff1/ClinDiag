@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Test",
+            "date": "Not specified",
+            "findings": {
+                "spine_T_score": -2.3,
+                "total_hip_T_score": -1.0,
+                "femoral_neck_T_score": -1.9
+            },
+            "changes_over_time": "Total hip T score declined from -0.7 in 2003 to -1.0 in 2005. Anterior-posterior spine T score decreased from -1.9 in 2003 to -2.3 in 2005."
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Test",
+            "date": "2003",
+            "findings": {
+                "spine_T_score": -1.9,
+                "total_hip_T_score": -0.7,
+                "femoral_neck_T_score": "Not specified"
+            },
+            "changes_over_time": "Follow-up not specified."
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Test",
+            "date": "2005",
+            "findings": {
+                "spine_T_score": -2.3,
+                "total_hip_T_score": -1.0,
+                "femoral_neck_T_score": -1.9
+            },
+            "changes_over_time": "Follow-up not specified."
+        }
+    ]
+}

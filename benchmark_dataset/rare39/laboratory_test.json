@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Carbohydrate antigen 125 test",
+            "date": "Not specified",
+            "findings": "Increased carbohydrate antigen 125 (35.2 U/ml; normal range, < 24 U/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood ammonia test",
+            "date": "Not specified",
+            "findings": "Increased blood ammonia (53.7 µmol/L; normal range, 9-33 µmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-amphiphysin antibody test",
+            "date": "Not specified",
+            "findings": "Positive in both cerebrospinal fluid (CSF) and serum",
+            "changes_over_time": "CSF analysis remained unchanged during the second admission"
+        }
+    ]
+}

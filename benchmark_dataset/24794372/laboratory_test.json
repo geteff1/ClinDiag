@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Free Thyroxine Level",
+            "date": "Not specified",
+            "findings": "1.25 ng/dL (reference range, 0.8-1.9 ng/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin Level",
+            "date": "Not specified",
+            "findings": "1.5 μU/mL (reference range, 0.7-5.7 μU/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor 1 (IGF-1) Level",
+            "date": "Not specified",
+            "findings": "183 ng/mL (reference range, 74-388 ng/mL; median for age, 169 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor Binding Protein 3 (IGFBP-3) Level",
+            "date": "Not specified",
+            "findings": "4.6 μg/mL (reference range, 1.8-7.1 μg/mL; median for age, 3.6 μg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal Studies",
+            "date": "Not specified",
+            "findings": "Karyotype of 46,XX. SHOX gene mutational analysis was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Age Assessment",
+            "date": "Not specified",
+            "findings": "Bone age was 6 years 10 months.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

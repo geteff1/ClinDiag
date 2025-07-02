@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Core Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed invasive ductal carcinoma, grade 3 of 3. ER, PR, and HER2 testing were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration",
+            "date": "Not specified",
+            "findings": "Specimen contained malignant cells consistent with metastatic carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MRI",
+            "date": "After four cycles of chemotherapy",
+            "findings": "Decreased size of the dominant mass to 3.0 cm, resolution of skin thickening, enhancement of satellite masses, and axillary lymphadenopathy.",
+            "changes_over_time": "Mass size decreased from 5.7 cm to 3.0 cm, showing clinical response to treatment."
+        },
+        {
+            "procedure_name": "Chest and Abdomen CT Scan",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease outside of the breast and axilla.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

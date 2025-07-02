@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Hypocellular condition without dysplastic changes, increased activated phagocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reverse transcription polymerase chain reaction (RT-PCR)",
+            "date": "Not specified",
+            "findings": "Detected viral RNA for both genes (4.6 × 10^2 copies/µg RNA for U60/66 and 5.2 × 10^3 copies/µg RNA for IE1).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunostaining",
+            "date": "Not specified",
+            "findings": "Detected IE antigens in a bone marrow sample.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Virus isolation",
+            "date": "Not specified",
+            "findings": "HHV-6A was isolated from the patient’s PBMCs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

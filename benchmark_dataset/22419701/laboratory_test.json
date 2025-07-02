@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "25-hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Decreased 25(OH)D at 20 months of age (injection treatment at 300,000 IU), normalized with therapy.",
+            "changes_over_time": "Persistently decreased 25(OH)D levels noted, with improvement correlating with increased doses of 1,25(OH)2D."
+        },
+        {
+            "procedure_name": "1,25-dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Normal levels of 1,25(OH)2D observed.",
+            "changes_over_time": "Initially started at 0.25 µg/d at 24 months; dosage increased based on clinical response up to 5.0 µg/d resulting in normalization of intact PTH and alkaline phosphatase."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated alkaline phosphatase observed at multiple time points (e.g., 466 U/l at 20 months).",
+            "changes_over_time": "Normalized after treatment with 1,25(OH)2D."
+        },
+        {
+            "procedure_name": "Intact PTH",
+            "date": "Not specified",
+            "findings": "Intact PTH initially elevated.",
+            "changes_over_time": "Normalized with appropriate treatment dosages over time."
+        },
+        {
+            "procedure_name": "Phosphate",
+            "date": "Not specified",
+            "findings": "Decreased phosphate levels noted.",
+            "changes_over_time": "Hypophosphatemia normalized when increasing 1,25(OH)2D dose."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "Normal total calcium levels observed.",
+            "changes_over_time": "Stable but required dosage adjustments based on treatment response."
+        },
+        {
+            "procedure_name": "Urine calcium",
+            "date": "Not specified",
+            "findings": "Urine calcium was 4.8 mg/dl.",
+            "changes_over_time": "Remaining within normal limits during evaluations."
+        },
+        {
+            "procedure_name": "Urine phosphate",
+            "date": "Not specified",
+            "findings": "Elevated urine phosphate at 40.1 mg/dl.",
+            "changes_over_time": "Normalization efforts noted with phosphate supplementation, no benefit stated."
+        },
+        {
+            "procedure_name": "Bone turnover markers (osteocalcin, collagen markers)",
+            "date": "At 38 months",
+            "findings": "Decreased osteocalcin of 11 ng/ml; increased bone-specific alkaline phosphatase of 1049 U/l.",
+            "changes_over_time": "Follow-up evaluations indicated persistent abnormalities suggesting ongoing metabolic bone disease."
+        }
+    ]
+}

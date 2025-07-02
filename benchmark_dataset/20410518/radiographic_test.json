@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral coarse reticular opacities, most pronounced at the lung bases.",
+            "changes_over_time": "Calcified pleural plaque on the right hemidiaphragm is unchanged."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Admission",
+            "findings": "Diffuse asymmetric air-space opacification, more involvement of the right lung, increased opacity in the left retrocardiac region, suggestive of an abnormality in the left lower lobe.",
+            "changes_over_time": "Decreased air-space opacities, calcified pleural plaques on the right hemidiaphragm, and coarse reticular opacities with increased cystic lucency at both bases noted the following day."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Admission",
+            "findings": "Calcification of the pericardium and pleura, mild-to-moderate atherosclerosis in the aorta, enlarged mediastinal lymph nodes (1.5 to 2.3 cm), cystic changes, septal thickening, bronchial-wall thickening, honeycomb changes, traction bronchiectasis, and diffuse asymmetric ground-glass opacification.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

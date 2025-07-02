@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "I-123 MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "Decreased sympathetic nerve function or innervation demonstrated by an H:M ratio of 2.1 before treatment, and 3.0 during treatment. The washout rate was 21% on delayed images before treatment and 15% during treatment.",
+            "changes_over_time": "Increase in H:M ratio and decrease in washout rate indicating improvement during treatment."
+        },
+        {
+            "procedure_name": "Tl-201 scintigraphy",
+            "date": "Not specified",
+            "findings": "Nonreversible myocardial perfusion defects in the anterior, inferoposterior, and apical walls.",
+            "changes_over_time": "No changes observed in resting SPECT images after treatment."
+        }
+    ]
+}

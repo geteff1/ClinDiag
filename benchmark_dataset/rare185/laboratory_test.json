@@ -1,0 +1,65 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": {
+                "FSH": "0.33 mIU/mL (low)",
+                "LH": "0.10 mIU/mL (low)",
+                "total testosterone": "<0.03 ng/mL (low)",
+                "serum ACTH": "within the reference range",
+                "serum PRL": "within the reference range",
+                "serum GH": "within the reference range"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "hCG stimulation test",
+            "date": "Not specified",
+            "findings": "Did not increase the serum testosterone concentration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Failed to detect either testis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "Showed no abnormalities in the brain, including the hypothalamus and pituitary gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal G-banding analysis",
+            "date": "Not specified",
+            "findings": "46, XY karyotype.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sequence analysis of the CHD7 gene",
+            "date": "Not specified",
+            "findings": "Revealed an 8-nucleotide deletion in exon 4 (c.2099_2106delAATAAGAA) of CHD7.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological examination of the excised testes",
+            "date": "Not specified",
+            "findings": "Showed atrophic seminiferous tubules with only Sertoli cells apparent. Germ cells were large and atypical with nuclear atypia and clear cytoplasm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical staining of germ cells",
+            "date": "Not specified",
+            "findings": "Weak positivity for CD117 and SALL4, indicating maturation arrest of spermatogenesis and germ cell neoplasia in situ (GCNIS) in bilateral testes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical staining for testosterone-synthesizing enzymes",
+            "date": "Not specified",
+            "findings": "Negative for P450scc, P45017α, 3β-HSD, and 17β-HSD; positive for Ad4BP/SF-1, suggesting impaired testosterone synthesis at the enzymatic level, not at the transcriptional level.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

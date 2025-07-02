@@ -1,0 +1,76 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2007",
+            "vital_signs": {
+                "blood_pressure": "158/80 mmHg",
+                "heart_rate": "123 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "temperature": "37.2 °C (Tmax 40.0 °C)",
+                "spo2": "100%"
+            },
+            "relevant_findings": {
+                "physical_exam": "Large, erythematous, woody mass extending from ear to upper chest with black discoloration.",
+                "laboratory": {
+                    "wbc_count": "331,200 cells/mm³",
+                    "serum_chemistry": "Diabetic ketoacidosis."
+                }
+            },
+            "changes_over_time": "The mass developed black discoloration during ED stay and patient progressed to fever."
+        },
+        {
+            "date": "March 2008",
+            "vital_signs": {
+                "blood_pressure": "155/89 mmHg",
+                "heart_rate": "111 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "38.3 °C",
+                "spo2": "95%"
+            },
+            "relevant_findings": {
+                "physical_exam": "Febrile with left upper quadrant tenderness without peritoneal signs.",
+                "laboratory": {
+                    "wbc_count": "19,200 cells/mm³",
+                    "serum_chemistry": "Diabetic ketoacidosis."
+                }
+            },
+            "changes_over_time": "On hospital day 4, he developed altered mental status and hypoxemia, requiring intubation."
+        },
+        {
+            "date": "April 2008",
+            "vital_signs": {
+                "blood_pressure": "96/63 mmHg",
+                "heart_rate": "120 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "temperature": "36.4 °C (Tmax 39.4 °C)",
+                "spo2": "95%"
+            },
+            "relevant_findings": {
+                "physical_exam": "Moderate right upper quadrant tenderness without peritoneal signs.",
+                "laboratory": {
+                    "wbc_count": "10,400 cells/mm³",
+                    "elevated_liver_enzymes": "Mild elevation."
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "May 2008",
+            "vital_signs": {
+                "blood_pressure": "150/90 mmHg",
+                "heart_rate": "120 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "39.1 °C",
+                "spo2": "94%"
+            },
+            "relevant_findings": {
+                "physical_exam": "Significant fever and right upper quadrant tenderness.",
+                "laboratory": {
+                    "total_bilirubin": "Mild elevation of liver enzyme",
+                    "wbc_count": "13,000 cells/mm³"
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

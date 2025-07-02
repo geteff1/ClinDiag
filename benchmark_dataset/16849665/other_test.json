@@ -1,0 +1,43 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "277 mg/dL (7.17 mmol/L)",
+                "HDL_cholesterol": "64 mg/dL (1.66 mmol/L)",
+                "LDL_cholesterol": "197 mg/dL (5.10 mmol/L)",
+                "triglycerides": "80 mg/dL (2.07 mmol/L)"
+            },
+            "changes_over_time": "LDL cholesterol level remained elevated at 197 mg/dL despite dietary counseling."
+        },
+        {
+            "procedure_name": "Blood Pressure Measurement",
+            "date": "Not specified",
+            "findings": {
+                "blood_pressure": "128/78 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "No protein"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

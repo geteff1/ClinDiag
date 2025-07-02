@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 1995",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CD4 count was 55 cells/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "October 1995",
+            "vital_signs": "HIV RNA level was 85,000 copies/mL",
+            "relevant_findings": "HAART initiated with zidovudine plus didanosine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "January 1997",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Initiated HAART with zidovudine, lamivudine, and indinavir.",
+            "changes_over_time": "Initially effective in reducing HIV RNA plasma levels by 3 log10."
+        },
+        {
+            "date": "February 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": "HIV load rebound observed.",
+            "changes_over_time": "No immunologic benefit; CD4 counts consistently below 100 cells/mL."
+        },
+        {
+            "date": "September 1996",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed HCMV retinitis with disseminated HCMV infection.",
+            "changes_over_time": "Relapses observed in February 1997 while on foscarnet maintenance."
+        },
+        {
+            "date": "June 1999",
+            "vital_signs": "HIV RNA load was 1,000,000 copies/mL; CD4 count was 8 cells/mL",
+            "relevant_findings": "First episode of ophthalmologically documented HCMV retinitis.",
+            "changes_over_time": "Second episode of HCMV retinitis developed after ganciclovir maintenance."
+        }
+    ]
+}

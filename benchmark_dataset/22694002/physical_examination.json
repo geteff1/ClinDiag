@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "161/101 mmHg",
+                "pulse": "71 bpm",
+                "temperature": "36.3°C",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "facial_asymmetry": "Right side of the face dry compared to left; right lower eyelid slightly elevated",
+                "pupils": "Right pupil 2.5 mm, left pupil 3 mm (constricting to 2 mm to light)",
+                "hoarseness": "Mildly hoarse voice",
+                "palate": "Elevated slightly more on left side than right",
+                "uvula": "Deviated slightly to the left",
+                "gag_reflex": "Slightly decreased on right side",
+                "tongue": "Deviated to the right of midline, weakness when pushing to the right, right side of tongue swollen with decreased furrows",
+                "neck": "Right side tender to palpation",
+                "neurological_examination": "Remainder normal",
+                "lab_tests": "Complete blood count and results of renal- and liver-function tests normal, as well as plasma levels of electrolytes, glucose, calcium, magnesium, and phosphorus",
+                "ekg": "Normal sinus rhythm at 66 bpm, incomplete right-bundle-branch block"
+            },
+            "changes_over_time": "The headache had resolved, but the neck pain and hoarseness were unchanged."
+        }
+    ]
+}

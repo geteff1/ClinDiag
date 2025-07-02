@@ -1,0 +1,62 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "28.2 (Normal range: 37–47)",
+                "Hemoglobin (g/dl)": "9.8 (Normal range: 12–16)",
+                "White‑cell count (per mm3)": "5900 (Normal range: 4500–11,000)",
+                "Neutrophils (%)": "62 (Normal range: 40–70)",
+                "Lymphocytes (%)": "30 (Normal range: 21–49)",
+                "Platelet count (per mm3)": "77,000 (Normal range: 150,000–400,000)",
+                "Red‑cell count (per mm3)": "2,690,000 (Normal range: 4,200,000–5,400,000)"
+            },
+            "changes_over_time": {
+                "Hematocrit (%)": "Dropped from 36–46 to 28.2",
+                "Hemoglobin (g/dl)": "Dropped from 12–16 to 9.8",
+                "Platelet count (per mm3)": "Dropped from 150,000-400,000 to 77,000",
+                "Red‑cell count (per mm3)": "Dropped from 4,000,000–5,200,000 to 2,690,000"
+            }
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": {
+                "D-dimer (ng/ml)": "4400 (Normal range: <590)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral-blood smear",
+            "date": "Not specified",
+            "findings": {
+                "Schistocytes": "0 to 2 per high-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Ketones": "1+",
+                "Blood": "2+",
+                "Protein": "1+",
+                "Urobilinogen": "1+",
+                "Specific Gravity": ">1.040 (Normal range: 1.001 to 1.035)",
+                "pH": "5 (Normal range: 5 to 9)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow Cytometry",
+            "date": "Not specified",
+            "findings": {
+                "CD59 expression": "Partial deficiency in 1% of erythrocytes, complete deficiency in 5%",
+                "CD24 expression in neutrophils": "57% showed loss",
+                "CD14 expression in monocytes": "60% showed loss"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

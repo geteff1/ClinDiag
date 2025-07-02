@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1991",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal findings in electroencephalogram, nerve conduction studies, muscle biopsy, thyroid function tests, creatine phosphokinase, immunoprotein electrophoresis. Prominent cortical atrophy on MRI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1995",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Increased tremor and rigidity; fine motor movements became more difficult. Neuropsychiatric testing revealed an IQ score of 77 (borderline intellectual functioning).",
+            "changes_over_time": "Tremor and rigidity increased compared to 1991."
+        },
+        {
+            "date": "1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Marked problems with expressive speech (stuttering and paraphasic errors). MRI findings indicated atrophy. Adjustments made to medications.",
+            "changes_over_time": "Speech problems and mental status continued to worsen compared to 1995."
+        },
+        {
+            "date": "October 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": "FDG-PET scan shows bilateral moderate to severe temporal and parietal cortical hypometabolism, rigidity worse on the right than the left, language disturbances.",
+            "changes_over_time": "Signs consistent with worsening condition, particularly rigidity."
+        },
+        {
+            "date": "July 1999",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Overall decline in physical and mental health leading to the patient's death."
+        }
+    ]
+}

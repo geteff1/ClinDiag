@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "43.2% (initial), 43.9%, 48.8%, 41.5%, 36.7%",
+            "changes_over_time": "Decreased from 43.9% to 36.7% over the course."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "15.1 g/dl (initial), 15.3 g/dl, 16.5 g/dl, 14.2 g/dl, 12.4 g/dl",
+            "changes_over_time": "Decreased from 15.3 g/dl to 12.4 g/dl."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "5800 (initial), 7000, 8600, 8700, 4600 per mm3",
+            "changes_over_time": "Increased from 5800 to 8700 per mm3, then decreased to 4600 per mm3."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "78,000 (initial), 78,000, 52,000, 55,000, 34,000 per mm3",
+            "changes_over_time": "Decreased from 78,000 to 34,000 per mm3."
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "36.0 sec (initial), 38.4 sec, 44.0 sec",
+            "changes_over_time": "Increased from 36.0 sec to 44.0 sec."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "22.4 sec (initial), 27.2 sec, 28.7 sec, 29.0 sec",
+            "changes_over_time": "Increased from 22.4 sec to 29.0 sec."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.71 mg/dl (initial), 1.95 mg/dl, 2.27 mg/dl, 2.71 mg/dl, 2.18 mg/dl",
+            "changes_over_time": "Increased from 1.71 mg/dl to 2.71 mg/dl, then decreased to 2.18 mg/dl."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "170 mg/dl (initial), 127 mg/dl, 136 mg/dl, 111 mg/dl, 113 mg/dl",
+            "changes_over_time": "Decreased from 170 mg/dl to 111 mg/dl."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "0.02 ng/ml (initial), 0.01 ng/ml",
+            "changes_over_time": "Decreased from 0.02 ng/ml."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "3.7 mmol/l (initial), 2.5 mmol/l",
+            "changes_over_time": "Decreased from 3.7 mmol/l."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "32 mg/dl (initial), 43 mg/dl, 54 mg/dl, 59 mg/dl, 62 mg/dl",
+            "changes_over_time": "Increased from 32 mg/dl to 62 mg/dl."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "79 U/l (initial), 243 U/l, 420 U/l",
+            "changes_over_time": "Increased from 79 U/l to 420 U/l."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "938 U/l (initial)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas",
+            "date": "Not specified",
+            "findings": "pH 7.42 (initial), pH 7.46, pH 7.41",
+            "changes_over_time": "Fluctuated around normal values."
+        }
+    ]
+}

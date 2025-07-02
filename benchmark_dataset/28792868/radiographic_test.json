@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal Radiography",
+            "date": "Not specified",
+            "findings": "Absence of bowel gas in the midabdomen and peripheral displacement of multiple bowel loops, suggestive of an abdominal mass; no free intra-peritoneal air or abnormal calcifications.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasonography",
+            "date": "Not specified",
+            "findings": "A large, thick-walled complex cystic mass in the midabdomen, predominantly to the left of the midline, displacing the left kidney laterally, with internal dependent debris and multiple mural satellite cysts; no internal vascularity on Doppler imaging.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the Abdomen",
+            "date": "Not specified",
+            "findings": "A complex cystic mass measuring 14.5 cm in greatest dimension, in the midabdomen, filling the left side and separate from the bowel; several loculations abutted the pancreatic body and tail, contents consistent with fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up CT after contrast injection",
+            "date": "Not specified",
+            "findings": "Contrast material filled the pancreatic duct; contrast material was seen in the distal duodenum and proximal jejunum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Ultrasonography",
+            "date": "2 weeks after operation",
+            "findings": "Persistence of fluid collection near the pancreas.",
+            "changes_over_time": "Patient was doing well, with no fever and a normal abdominal examination."
+        },
+        {
+            "procedure_name": "Follow-up Ultrasonography",
+            "date": "3 months after operation",
+            "findings": "No residual fluid collection.",
+            "changes_over_time": "Patient continued to do well, with no fever or abdominal pain."
+        }
+    ]
+}

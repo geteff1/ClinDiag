@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "First trimester screen",
+            "date": "Not specified",
+            "findings": "Positive for trisomy 21 with a risk of 1/6 and for trisomy 18 with a risk of 1/24; fetal NT measured 6.44 mm, PAPP-A was 0.53 MOM, HCG was 0.70 MOM.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "17 weeks",
+            "findings": "Normal chromosome analysis and normal microarray results, specifically negative for Noonan's syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anatomy ultrasound",
+            "date": "20 weeks",
+            "findings": "Early onset growth restriction with the fetus measuring 18 weeks; multiple anomalies including shortened long bones, clenched fists, bilateral clubfeet with high suspicion of polydactyly, cerebellar hypoplasia, abnormal calvarium, micrognathia, low-set ears, single umbilical artery, and possible ventral septal defect (VSD).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WES testing",
+            "date": "Not specified",
+            "findings": "Positive for heterozygous NIPBL pathogenic variant c.1713 1716delACAA; this variant was not found in parental DNA and therefore likely de novo; however, gonadal mosaicism cannot be excluded.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

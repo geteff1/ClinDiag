@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "89/43 mmHg",
+                "pulse_rate": "118 bpm",
+                "temperature": "Afebrile",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Crying, yawning, piloerection, pupils 4 mm, otherwise normal exam",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "113/66 mmHg",
+                "pulse_rate": "154 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Rhinorrhea, yawning, piloerection, exam otherwise notable",
+            "changes_over_time": "Symptoms resolved after administration of morphine"
+        }
+    ]
+}

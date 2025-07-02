@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes, Glucose, Magnesium, Calcium, Phosphorus, Protein, Albumin, Globulin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified (ninth day after admission)",
+            "findings": "CSF: 3090 red cells, 1 white cell, protein 145 mg/dL (high), glucose 62 mg/dL (normal range), lactate 1.9 mmol/L (normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve-Conduction Studies",
+            "date": "Not specified (seventh day after lumbar puncture)",
+            "findings": "Slow conduction velocities consistent with primary demyelinating sensorimotor polyneuropathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified (fifth day after admission)",
+            "findings": "Abnormal signal in both cerebellar hemispheres and other brain regions, mild volume loss in the thalami, no evidence of acute hemorrhage or infarction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spectroscopy",
+            "date": "Not specified",
+            "findings": "Marked depression of N-acetyl aspartate peak in specific brain areas, indicating severe neuronal loss",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

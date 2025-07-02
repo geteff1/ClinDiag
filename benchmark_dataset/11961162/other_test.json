@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CT scans showing a severe mass effect prompted the decision not to perform lumbar puncture in four patients. However, cerebral herniation occurred in 10 patients, and it could not be predicted by the presence of cerebral abnormalities on CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial CT",
+            "date": "Not specified",
+            "findings": "Cerebral complications of meningitis observed on the initial CT scan included brain edema in 17 patients, hydrocephalus in 8, and ischemic infarction in 4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemodialysis",
+            "date": "Not specified",
+            "findings": "After three hemodialysis sessions, the patient’s pH and bicarbonate level had improved (7.37 and 26 mmol per liter respectively), and her osmolal gap had decreased to 40 mOsm per liter.",
+            "changes_over_time": "Improved pH and bicarbonate levels after treatment."
+        },
+        {
+            "procedure_name": "Arteriography",
+            "date": "Not specified",
+            "findings": "Arteriography revealed complete occlusion of the popliteal artery.",
+            "changes_over_time": "Post-thrombolysis, arteriography showed complete patency of the artery."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "157/99 mm Hg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "97% on ambient air"
+            },
+            "relevant_findings": {
+                "ocular": {
+                    "sclera": "Erythematous, right pupil nonreactive to light",
+                    "visual_acuity": {
+                        "right_eye": "Light perception",
+                        "left_eye": "20/25"
+                    },
+                    "other": "Bilateral scleral thinning, bilateral scleritis, cell grades of 2+ in the anterior chamber and 3+ in the vitreous"
+                },
+                "neurological": {
+                    "clonus": "Two beats of clonus on dorsiflexion of ankles"
+                },
+                "oral": {
+                    "ulcers": "Multiple aphthous ulcers on buccal mucosa and inner lips, linear ulcers on tongue edges"
+                },
+                "skin": {
+                    "palms": "Erythematous rash with desquamation and healing fissures",
+                    "upper_arms": "Tender erythematous papules",
+                    "legs": "Erythematous maculopapular rash with scaled and scabbed lesions"
+                },
+                "lymphedema": "Bilateral inguinal lymphadenopathy",
+                "joints": "No erythema, tenderness, or warmth noted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

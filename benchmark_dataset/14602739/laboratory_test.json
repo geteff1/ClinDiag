@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium (s-Ca)",
+            "date": "April 2001",
+            "findings": "10.8 mg/dl (2.70 mmol/liter), mildly elevated.",
+            "changes_over_time": "Previously, a mild elevation of s-Ca was noted in 1997 (10.4 mg/dl) and in 1999 when hypercalcemia was first noticed."
+        },
+        {
+            "procedure_name": "Parathyroid Hormone (PTH)",
+            "date": "April 2001",
+            "findings": "25.3 pg/ml (2.7 pmol/liter), normal levels.",
+            "changes_over_time": "PTH was detectable at 33.9 pg/ml (3.6 pmol/liter) in 1999."
+        },
+        {
+            "procedure_name": "24-h Urinary Calcium",
+            "date": "Not specified",
+            "findings": "160 mg (4.0 mmol) with a calcium/creatinine clearance ratio of 0.007.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ionized Calcium",
+            "date": "April 2001",
+            "findings": "5.5 mg/dl (1.37 mmol/liter), mildly elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Breast Cancer Markers (Ca 15.3 and CEA)",
+            "date": "April 2001",
+            "findings": "Normal levels.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

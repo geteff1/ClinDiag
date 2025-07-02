@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Consistently undetectable or present at very low concentrations in serum, with only slight increases when serum FT4 concentrations fell below normal levels.",
+            "changes_over_time": "Serum TSH concentrations remained undetectable or very low for several years. After radical treatment, TSH levels increased, reaching the normal range."
+        },
+        {
+            "procedure_name": "FT4",
+            "date": "Not specified",
+            "findings": "Mostly in the normal range during follow-up, with specific levels noted over time.",
+            "changes_over_time": "Serum FT4 levels were normal throughout much of the observational period."
+        },
+        {
+            "procedure_name": "FT3",
+            "date": "Not specified",
+            "findings": "Mostly in the normal range during follow-up.",
+            "changes_over_time": "Serum FT3 levels remained within normal range for most of the follow-up period."
+        }
+    ]
+}

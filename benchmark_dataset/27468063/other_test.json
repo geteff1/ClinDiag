@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Numerous confluent noncaseating granulomas; some active, some older with hyalinization, suggestive of sarcoidosis.",
+            "changes_over_time": "Pathological examination of both the left atrial appendage and the myectomy specimen revealed granulomatous inflammation consistent with sarcoidosis."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Asymmetric left ventricular hypertrophy with upper septal predominance (thickness of the septum, 24 mm; thickness of the posterior wall, 16 mm), systolic anterior motion of the anterior mitral-valve leaflet, left ventricular hyperkinetic with an ejection fraction of 81%. Moderate mitral-valve stenosis with severe mitral regurgitation.",
+            "changes_over_time": "After 6 weeks of glucocorticoid therapy, the thickness of the left ventricular wall was reduced (septum: 17 mm; posterior wall: 13 mm), with an intraventricular gradient of 77 mm Hg at rest."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "Marked asymmetric left ventricular hypertrophy and systolic anterior motion of the mitral valve leaflet; severe mitral regurgitation and tricuspid regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG) PET",
+            "date": "Not specified",
+            "findings": "Intense heterogeneous uptake of FDG in a patchy noncoronary myocardial distribution, consistent with sarcoidosis; no significant hypermetabolic activity in the mediastinal and hilar lymph nodes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

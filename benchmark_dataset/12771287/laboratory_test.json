@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "11,000/mm³",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "148 white cells/mm³ (46% neutrophils, 40% lymphocytes, 14% monocytes), 6 red cells, protein and glucose levels normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic Tests for Powassan Virus",
+            "date": "19 days after onset",
+            "findings": "Positive for Powassan-specific IgM, neutralizing antibody titer of 1:640",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Tiny focus of signal hyperintensity in the white matter of each temporal lobe; later shows multiple areas of T2 hyperintensity in the cerebellum and throughout the hemispheres",
+            "changes_over_time": "Some enhanced with gadolinium"
+        }
+    ]
+}

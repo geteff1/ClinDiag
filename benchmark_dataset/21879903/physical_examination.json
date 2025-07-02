@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "159/91 mm Hg",
+                "pulse": "95 bpm",
+                "temperature": "36.6°C (97.9°F)"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Gravid uterus, epigastric tenderness without rebound or guarding.",
+                "costovertebral_angle_tenderness": "None."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "126/80 mm Hg",
+                "pulse": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Not tender.",
+                "pain_state": "Pain-free and drowsy after morphine administration."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "152/104 mm Hg",
+                "pulse": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "pain": "Pain subsided post-treatment.",
+                "observation": "Mild preeclampsia noted."
+            },
+            "changes_over_time": "Blood pressure increased."
+        }
+    ]
+}

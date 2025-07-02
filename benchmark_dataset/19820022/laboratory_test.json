@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Lipid Analysis",
+            "date": "February 2006",
+            "findings": {
+                "triglycerides": "2400 mg/dl (27.1 mmol/liter)",
+                "total_cholesterol": "374 mg/dl (9.67 mmol/liter)",
+                "hdl_cholesterol": "44 mg/dl (1.14 mmol/liter)"
+            },
+            "changes_over_time": "Plasma TG levels fluctuated between 696 and 2400 mg/dl (7.86 and 27.1 mmol/liter) due to poor compliance with treatment."
+        },
+        {
+            "procedure_name": "Postheparin LPL and HL Assay",
+            "date": "Not specified",
+            "findings": {
+                "LPL_activity": "53.7 mU/ml",
+                "LPL_mass": "322 ng/ml",
+                "HL_activity": "181 mU/ml"
+            },
+            "changes_over_time": {
+                "LPL_activity": "Reduced by 76% compared to normolipidemic controls.",
+                "LPL_mass": "Reduced by 50% compared to normolipidemic controls.",
+                "HL_activity": "Reduced by 27% compared to normolipidemic controls."
+            }
+        },
+        {
+            "procedure_name": "Follow-up Plasma Triglycerides Measurement",
+            "date": "Not specified",
+            "findings": {
+                "triglycerides": "195 mg/dl (2.2 mmol/liter)"
+            },
+            "changes_over_time": "Improved lipid profile after starting insulin therapy along with hypolipidemic treatment."
+        }
+    ]
+}

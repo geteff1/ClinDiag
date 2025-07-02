@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Negative, including fungal isolator blood cultures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fungal cultures",
+            "date": "Day 5",
+            "findings": "Grewing mold morphologically identified as Scopulariopsis species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Revealing a larger than 12-mm vegetation on the mitral valve with moderate mitral regurgitation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Susceptibility testing",
+            "date": "Not specified",
+            "findings": {
+                "amphotericin_B": "4 µg/mL",
+                "terbinafine": "1 µg/mL",
+                "voriconazole": "8 µg/mL",
+                "itraconazole": ">8 µg/mL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

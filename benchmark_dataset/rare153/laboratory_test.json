@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Carcinoembryonic antigen (CEA)",
+            "date": "Not specified",
+            "findings": "2.4 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha fetoprotein (AFP)",
+            "date": "Not specified",
+            "findings": "2.5 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prostate-specific antigen (PSA)",
+            "date": "Not specified",
+            "findings": "0.6 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS)",
+            "date": "Not specified",
+            "findings": "t(11;22) EWSR-WT1 translocation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology review",
+            "date": "Not specified",
+            "findings": "Basaloid squamous cell carcinoma (SCC) with neuroendocrine features, Ki67 of 70%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

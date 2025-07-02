@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "Pa CO2 of 43 mm Hg and Pa O2 of 82 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preoperative Platelet Count",
+            "date": "Not specified",
+            "findings": "258 /H1100310^9/L (150 –400 /H11003109/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "36 s (normal range 23 –35 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "14 s (normal range 10 –14 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preoperative Platelet Count (Second Patient)",
+            "date": "Not specified",
+            "findings": "225 /H1100310^9/L (150 –400 /H11003109/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time (Second Patient)",
+            "date": "Not specified",
+            "findings": "30 s (normal range 23 –35 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (Second Patient)",
+            "date": "Not specified",
+            "findings": "12 s (normal range 10 –14 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "QTc Interval Measurement",
+            "date": "Not specified",
+            "findings": "QTc was 470 ms before ziprasidone administration; QTc decreased to 436 ms 4 h after administration.",
+            "changes_over_time": "QTc increased to 476 ms 5 min after ziprasidone administration."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "134/74 mm Hg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%",
+                "weight": "71.7 kg",
+                "BMI": "32"
+            },
+            "relevant_findings": {
+                "abdominal": "Tenderness on palpation of the epigastric area without rebound or guarding. Normal bowel sounds. No palpable abdominal mass or hepatosplenomegaly.",
+                "facial": "Tenderness on palpation of the left temporomandibular joint, temporal region, and cheek. Left jaw clicked with opening.",
+                "heart": "Systolic crescendo–decrescendo murmur, grade 2/6, best heard at the right upper sternal border."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "65.8 kg",
+                "BMI": "29"
+            },
+            "relevant_findings": {
+                "abdominal": "Tenderness noted but without distention, mass, tenderness, rebound or guarding. Bowel sounds were normal.",
+                "facial": "Clinical examination unchanged.",
+                "lab_results": "The glycated hemoglobin level was 5.6%."
+            },
+            "changes_over_time": "The patient's weight decreased from 71.7 kg to 65.8 kg."
+        },
+        {
+            "date": "One month after the initial visit",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdominal": "Intermittent pain in right upper and lower quadrants reported."
+            },
+            "changes_over_time": "The physical examination was unchanged from the previous visit."
+        }
+    ]
+}

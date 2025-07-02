@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2003",
+            "vital_signs": {
+                "calcium": "2.69 mmol/L (normal range 2.25–2.6 mmol/L)",
+                "PTH": "29.8 pmol/L (normal range 0.9–9 pmol/L)",
+                "glutamyltransferase": "58 U/L (normal range < 40 U/L)"
+            },
+            "relevant_findings": {
+                "neurological_examination": {
+                    "visual_field_loss": "left homonymous lower-quadrant",
+                    "left_hemiparesis": "4/5 muscle power in upper and lower limb",
+                    "increased_tone": "left side",
+                    "left_hyperreflexia": "present",
+                    "positive_Babinski_sign": "left"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "March 2003",
+            "vital_signs": {
+                "calcium": "2.56 mmol/L (normal range 2.25–2.6 mmol/L)",
+                "PTH": "8.6 pmol/L (normal range 0.9–9 pmol/L)"
+            },
+            "relevant_findings": "Postoperative recovery included significant improvement in left-sided hemiparesis and visual field deficit.",
+            "changes_over_time": "Left-sided hemiparesis and visual field deficit had completely recovered three weeks after surgery."
+        },
+        {
+            "date": "May 2003",
+            "vital_signs": {
+                "PTH": "23.2 pmol/L (normal range 0.9–9 pmol/L)"
+            },
+            "relevant_findings": "Postoperative monitoring showed elevated PTH levels.",
+            "changes_over_time": "Progression of systemic metastatic disease and worsening hypercalcemia."
+        }
+    ]
+}

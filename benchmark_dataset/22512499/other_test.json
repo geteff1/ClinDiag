@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pulmonary-function testing",
+            "date": "Not specified",
+            "findings": "Severe restrictive ventilatory defect and decreased diffusing capacity.",
+            "changes_over_time": "Patient's respiratory status declined precipitously; died of treatment-refractory hypoxemia."
+        },
+        {
+            "procedure_name": "Bone marrow analysis",
+            "date": "Not specified",
+            "findings": "Bone marrow was moderately hypocellular (30% cellularity).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gene sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed a heterozygous mutation in TERT, c:2768C→T, causing a substitution of leucine for proline at amino acid 923.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Confirmed severe, diffuse pulmonary fibrosis with honeycomb changes at the lung bases.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

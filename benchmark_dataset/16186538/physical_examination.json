@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "height": "182 cm",
+                "weight": "65-72 kg"
+            },
+            "relevant_findings": "Physical and neurologic examinations were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "maximal_workload": "80 W",
+                "maximal_oxygen_uptake": "18 mL/kg/min",
+                "plasma_lactate_increase": "Up to 11.2 mmol/L"
+            },
+            "relevant_findings": "Reduced maximum workload and reduced oxygen uptake were noted during an exercise test. Baseline plasma lactate values were 1.0 to 2.2 mmol/L.",
+            "changes_over_time": "The exercise test findings indicate impaired energy metabolism."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Muscle biopsy showed widespread subsarcolemmal accumulation of mitochondria (SSAM), with more than 5% of muscle fibers affected.",
+            "changes_over_time": "Indicates a hallmark of mitochondrial disorder, but the specific progression over time is not detailed."
+        }
+    ]
+}

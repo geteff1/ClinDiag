@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum T3",
+            "date": "Not specified",
+            "findings": "54% (A1) and 60% (A2) above the upper limit of normal.",
+            "changes_over_time": "Normal in all four subjects when DITPA dose reached 1 mg/kg/day."
+        },
+        {
+            "procedure_name": "Serum T4",
+            "date": "Not specified",
+            "findings": "26% (A1) and 20% (A2) below the lower limit of normal.",
+            "changes_over_time": "Increased to the lower normal range when on DITPA."
+        },
+        {
+            "procedure_name": "Serum rT3",
+            "date": "Not specified",
+            "findings": "44% (A1) and 37% (A2) below the lower limit of normal.",
+            "changes_over_time": "Increased to the lower normal range with DITPA treatment."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Normal values of 4.0 (A1) and 3.7 mU/liter (A2).",
+            "changes_over_time": "Normalized in three of the four subjects after DITPA treatment."
+        },
+        {
+            "procedure_name": "Cholesterol",
+            "date": "Not specified",
+            "findings": "Increased in two subjects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SHBG",
+            "date": "Not specified",
+            "findings": "Declined in all subjects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "Declined in one of four subjects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CK",
+            "date": "Not specified",
+            "findings": "Transient increase observed.",
+            "changes_over_time": "Peaked at 1.5–5 months of treatment and then returned to baseline."
+        },
+        {
+            "procedure_name": "Weight SDS",
+            "date": "Not specified",
+            "findings": "Weight gain occurred in two subjects.",
+            "changes_over_time": "Weight gain correlated with the decline of T3 during DITPA treatment."
+        }
+    ]
+}

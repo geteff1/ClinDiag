@@ -1,0 +1,53 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Dynamic pituitary testing",
+            "date": "Not specified",
+            "findings": {
+                "FSH": "remained low (2.2 mIU/ml)",
+                "LH": "peaked at 10 mIU/ml",
+                "TSH": "normal response",
+                "prolactin": "normal response",
+                "GH": "normal response",
+                "plasma corticoid": "normal response"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH stimulation test",
+            "date": "At 7 months",
+            "findings": {
+                "maximal FSH": "4 mIU/ml",
+                "maximal LH": "6 mIU/ml",
+                "basal testosterone": "< 1.2 ng/dl",
+                "dehydroepiandrosterone sulfate": "58.6 µg/dl",
+                "androstenedione": "32 ng/dl"
+            },
+            "changes_over_time": "At 20 years, serum testosterone was 51 ng/dl, LH was 0.2 mIU/ml, FSH was < 0.7 mIU/ml"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Negative for tumor, normal olfactory bulbs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "University of Pennsylvania Smell Identification Test (UP-SIT)",
+            "date": "Not specified",
+            "findings": "Score of 33 out of 40 indicates normosmia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dynamic endocrine study",
+            "date": "Not specified",
+            "findings": "normal TSH, prolactin, GH, and plasma corticoid responses",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular analysis of FGFR1 gene",
+            "date": "Not specified",
+            "findings": "Heterozygous nonsense mutation (Arg622X) present in all affected individuals",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

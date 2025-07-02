@@ -1,0 +1,77 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5°C",
+                "pulse": "135 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "blood_pressure": "85/65 mm Hg",
+                "body_length": "77.4 cm",
+                "weight": "10 kg"
+            },
+            "relevant_findings": {
+                "alertness": "The boy was alert and fussy.",
+                "lips_and_mucous_membranes": "Dry",
+                "periorbital_edema": "None",
+                "lungs": "Normal",
+                "heart": "Normal",
+                "abdomen": "Soft, neither distended nor tender; normal bowel sounds.",
+                "liver_and_spleen": "Not felt",
+                "peripheral_edema": "Questionable nonpitting edema",
+                "urine": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 months of age (approximately 3 months before admission)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "pallor": "Present",
+                "abdominal_distention": "Present",
+                "bowel_sounds": "Occasional high-pitched bowel sounds",
+                "mass_palpitations": "No masses palpated"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Seven weeks before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "hematocrit": "24.0 percent",
+                "white_cell_count": "8200 per cubic millimeter",
+                "platelet_count": "671,000 per cubic millimeter",
+                "mean_corpuscular_volume": "61 µm³",
+                "esophagogastroduodenoscopic_exam": "Normal",
+                "biopsy_results": "Normal specimens",
+                "colonoscopic_exam": "Discontinuous areas of ulcerated and bleeding mucosa"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Six weeks before admission",
+            "vital_signs": "Weight was 9.9 kg and length was 76.2 cm.",
+            "relevant_findings": {
+                "abdomen": "Slight distention",
+                "findings_on_CT_scan": "Extensive inflammatory changes in the right lower abdominal quadrant"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One month before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "symptoms": "Bouts of abdominal distention, followed by diarrhea with foul-smelling green stools, vomiting, and abdominal pain."
+            },
+            "changes_over_time": "The boy experienced increasing symptoms with worry of gastrointestinal involvement."
+        },
+        {
+            "date": "One week before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT_scan_results": "Showed changes nearly identical to those seen on the previous scan, including intraperitoneal fluid"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

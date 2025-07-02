@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prolactin (PRL) Level",
+            "date": "Not specified",
+            "findings": "Markedly elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I Level",
+            "date": "Not specified",
+            "findings": "Markedly elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Growth Hormone (GH) Deficiency Testing",
+            "date": "2003",
+            "findings": "GH deficiency developed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Hormone Replacement Testing",
+            "date": "2003",
+            "findings": "Thyroid hormone replacement initiated and is currently maintained.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transsphenoidal Surgery",
+            "date": "2000",
+            "findings": "Complete excision of the tumor was not possible due to extensive invasion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fractionated Radiotherapy",
+            "date": "2001",
+            "findings": "Administered for tumor management.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microarray Analysis",
+            "date": "Not specified",
+            "findings": "59 genes up-regulated, 24 genes down-regulated in MEN1-associated adenoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative Real-time PCR",
+            "date": "Not specified",
+            "findings": "Validation of microarray results showed agreement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

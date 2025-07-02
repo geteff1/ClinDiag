@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "104/48 mm Hg",
+                "heart_rate": "Tachypneic",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Diffuse tenderness",
+                "ascites": "Absent",
+                "hepatomegaly": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "117 mm Hg",
+                "heart_rate": "Bradycardic",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "mental_status": "Became comatose"
+            },
+            "changes_over_time": "The patient showed an improvement in mental status after 2 weeks."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "The tip of the endotracheal tube is approximately 1.5 cm above the carina; there is diffuse consolidation in the right lung, most prominently in the right upper lobe. The left lung is clear.",
+            "changes_over_time": "A follow-up radiograph obtained 24 hours later showed rapid clearing of the consolidation in the right lung."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Dysfunction and enlargement of the right ventricle with moderate tricuspid insufficiency. The left ventricle appears to function normally.",
+            "changes_over_time": "A follow-up echocardiogram performed 10 days after the first admission showed improvement in right ventricular size and function."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "10th hospital day",
+            "findings": "Small left frontal and cerebellar hemorrhages.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound of the femoral and popliteal veins",
+            "date": "Not specified",
+            "findings": "No evidence of thrombosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "A clot that filled the inferior vena cava and extended to the left common iliac vein.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

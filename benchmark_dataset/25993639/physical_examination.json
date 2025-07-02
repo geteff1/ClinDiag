@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient exhibited dysmorphic facial features, including small, low-set ears, a large mouth with a thin upper lip, a small short nose, mild micrognathia, excessive postaxial finger rudiments, umbilical and inguinal hernias, and growth retardation.",
+            "changes_over_time": "The initial presentation showed developmental delays and persistent symptomatic hypercalcemia with inappropriate PTH levels. After treatment with cinacalcet, plasma calcium levels normalized, but upon discontinuation, calcium levels returned to high pretreatment levels."
+        },
+        {
+            "date": "Before treatment (1 y, 7 mo)",
+            "vital_signs": {
+                "P-Ca": "2.99 mmol/L",
+                "P-Ca ion": "1.39 mmol/L",
+                "P-PTH": "386 ng/L"
+            },
+            "relevant_findings": "Biochemical studies revealed constantly elevated plasma calcium concentrations and normal range PTH levels.",
+            "changes_over_time": "No changes reported; remained consistent until initiation of treatment."
+        },
+        {
+            "date": "During cinacalcet treatment (10 y, 3 mo)",
+            "vital_signs": {
+                "P-Ca": "2.66 mmol/L",
+                "P-Ca ion": "1.40 mmol/L",
+                "P-PTH": "43 ng/L"
+            },
+            "relevant_findings": "Plasma calcium normalized with mild symptoms of hypocalcemia; PTH levels decreased slightly.",
+            "changes_over_time": "Improvement in calcium levels after starting cinacalcet."
+        },
+        {
+            "date": "After treatment (13 y, 10 mo)",
+            "vital_signs": {
+                "P-Ca": "1.45 mmol/L",
+                "P-Ca ion": "0.99 mmol/L",
+                "P-PTH": "262 ng/L"
+            },
+            "relevant_findings": "Returned to elevated calcium levels after discontinuation of cinacalcet.",
+            "changes_over_time": "Worsening of hypercalcemia following treatment discontinuation."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Age 6",
+            "findings": "Mild variations in fiber size with ragged red fibers. Five percent of the muscle fibers had decreased cytochrome c oxidase staining.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical analysis of muscle specimen respiratory chain enzymes",
+            "date": "Not specified",
+            "findings": "Deficiencies of complexes III and IV, activities: complex III 104.9 nmol/min/mg (control: 197.2–366.6), complex IV 23.1 nmol/min/mg (control: 144.7–355.8).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary C-peptide immunoreactivity excretion (U-CPR)",
+            "date": "Before treatment and after 1 day and 6 months of pyruvate therapy",
+            "findings": "Before treatment: 4.3 /H9262g/d; after 1 day: improved to 17.2 /H9262g/d; after 6 months: improved to 30.2 /H9262g/d.",
+            "changes_over_time": "Improvement observed only during treatment, decreased to 4.0 /H9262g/d after cessation of oral administration."
+        },
+        {
+            "procedure_name": "Total daily insulin dose (TDD)",
+            "date": "Before treatment and after 2 months and 6 months of pyruvate therapy",
+            "findings": "Before treatment: 33 U/d; after 2 months: decreased to 29 U/d; after 6 months: decreased to 20 U/d.",
+            "changes_over_time": "After cessation of oral administration, levels increased."
+        },
+        {
+            "procedure_name": "Japanese Mitochondrial Disease Rating Scale (JMDRS)",
+            "date": "Before treatment and after 2 months and 6 months of therapy",
+            "findings": "Before treatment: 23; after 2 months: remained 23; after 6 months: increased to 25.",
+            "changes_over_time": "Worsened due to progression of muscle weakness."
+        },
+        {
+            "procedure_name": "Serum creatine kinase (CK)",
+            "date": "Not specified",
+            "findings": "Before treatment: 440 U/L; no change noted with therapy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

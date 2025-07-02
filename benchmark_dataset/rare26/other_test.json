@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Video Electroencephalogram (VEEG)",
+            "date": "1 month and 15 days after birth",
+            "findings": "Interictal multifocal epileptiform discharges, noticeable bilaterally in the occipital region.",
+            "changes_over_time": "At 8 months, VEEG revealed extensive, multifocal epileptic discharges between seizures. At 1 year and 2 months, VEEG showed slow background activity, with no occipital-dominated rhythm and interictal multifocal epileptiform discharges. At 1 year and 6 months, VEEG displayed no occipital dominant rhythm, bilateral occipital spikes, and slow waves, with no seizures detected."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "27th day after birth",
+            "findings": "Blurred T1 high signal in the hindlimb of the internal capsule, a lack of white matter, and a high T2 signal.",
+            "changes_over_time": "At 6 months, brain MRI showed deep sulci, delayed myelination, little white matter, and thin corpus callosum."
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "2 years and 10 months",
+            "findings": "Brain atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing, copy number variation, and mitochondrial gene testing",
+            "date": "5 months",
+            "findings": "No pathogenic variants found that were extremely consistent with the phenotype.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Trio sequencing using whole-exon next-generation sequencing (NGS)",
+            "date": "2 years and 5 months",
+            "findings": "Compound heterozygous variant of the ACTL6B gene: a heterozygous deletion of exons 1-4 inherited from the father, and a c.1017 + 3G > T mutation in the intron region inherited from the mother.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Biochemical Profile",
+            "date": "Not specified",
+            "findings": {
+                "erythrocyte_sedimentation_rate": "22 mm/hr (normal range: 0–17)",
+                "sodium": "133 mmol/liter (normal range: 135–145)",
+                "potassium": "3.6 mmol/liter (normal range: 3.4–4.8)",
+                "chloride": "98 mmol/liter (normal range: 100–108)",
+                "carbon_dioxide": "21.9 mmol/liter (normal range: 23.0–31.9)",
+                "glucose": "119 mg/dl (normal range: 70–110)",
+                "creatine_kinase": "1498 U/liter (normal range: 40–150)",
+                "aspartate_aminotransferase": "52 U/liter (normal range: 9–32)",
+                "alanine_aminotransferase": "50 U/liter (normal range: 7–30)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Showed 1+ ketones, positive for benzodiazepines and opiates, otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "white_cells": "13",
+                "red_cells": "749",
+                "glucose": "Normal",
+                "protein": "Slightly elevated",
+                "IgG": "Elevated with oligoclonal bands",
+                "malignant_cells": "None"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antibody Testing",
+            "date": "Not specified",
+            "findings": "No anti-GAD antibodies, presence of anti-amphiphysin antibodies confirmed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

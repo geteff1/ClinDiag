@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Opening pressure of 11 cm H2O; two white blood cells; CSF cultures negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Temporal Artery Biopsy",
+            "date": "Not specified",
+            "findings": "Temporal arteritis confirmed via biopsy, showing disruption of the internal elastic lamina with a central luminal thrombus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle Biopsy",
+            "date": "Not specified",
+            "findings": "Increased degeneration and lipid storage in type I fibers; fiber size variability increased.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Generalized 2- to 3-Hz rhythmic spike-and-wave discharges; resolved after treatment.",
+            "changes_over_time": "Resolution of generalized rhythmic activity, replaced by diffuse low-amplitude fast activity secondary to medication."
+        }
+    ]
+}

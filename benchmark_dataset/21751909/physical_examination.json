@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/90 mm Hg",
+                "weight": "82.7 kg",
+                "height": "175 cm"
+            },
+            "relevant_findings": {
+                "carcinoembryonic_antigen": "6.5 ng per milliliter (reference range, <3.4)",
+                "human_chorionic_gonadotropin": "1.2 IU per liter (reference range, <0.7)",
+                "complete_blood_count": "Normal",
+                "serum_electrolytes": "Normal",
+                "kidney_function": "Normal",
+                "liver_function": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

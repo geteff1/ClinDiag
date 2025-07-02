@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "pulse": "150 beats/min",
+                "blood_pressure": "68/48 mmHg",
+                "respiratory_rate": "65 breaths/min",
+                "arterial_oxygenation": "80%"
+            },
+            "relevant_findings": {
+                "sucking_reflex": "decreased or absent",
+                "swallowing_reflex": "decreased or absent",
+                "moro_reflex": "decreased or absent",
+                "grasp_reflex": "decreased or absent"
+            },
+            "changes_over_time": "The neonate required interventions at birth but showed improvement with higher spontaneous movements, started bottle feeding, and had a return to normal neurologic examination by the follow-up at one month."
+        }
+    ]
+}

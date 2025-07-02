@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neonatal Screening",
+            "date": "Not specified",
+            "findings": "Case 1: TSH of 186.2 mU/liter (upper reference value, 16.9 mU/liter), T4 of 6.5 µg/dl (lower reference value, 9.6 µg/dl). Case 2: TSH of 65.0 mU/liter (upper reference value, 14.3 mU/liter), T4 of 9.7 µg/dl (lower reference value, 21.2 µg/dl).",
+            "changes_over_time": "In Case 1, TSH levels remained high and T4 values declined over time. Treatment began at 2 months of age for Case 2 when TSH values remained high and T4 values declined."
+        },
+        {
+            "procedure_name": "Thyroid Scintigraphy",
+            "date": "Not specified",
+            "findings": "Normotopic, bilobulated gland with low uptake.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Psychomotor Evaluation",
+            "date": "Age 5 years for Case 1; Age 4 years for Case 2",
+            "findings": "Case 1 exhibited poor motor skills and slight decline in cognitive tests within normal range. Case 2 showed loss of balance, tremor, hyperreflexia, and marked decline in verbal and motor skills below the normal range.",
+            "changes_over_time": "In Case 1, a slight decline was observed over the years. Case 2 showed a marked decline in performance at age 4 compared to earlier assessments."
+        }
+    ]
+}

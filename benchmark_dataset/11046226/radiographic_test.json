@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Patent iliac vessels, several femoropopliteal stenoses, occlusion of the right superficial femoral artery, and severe distal atherosclerosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "A 2-cm-thick acute left subdural hematoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Important mesencephalic and thalamic lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transcranial Doppler Ultrasonography",
+            "date": "Not specified",
+            "findings": "Increased intracranial pressure with very low diastolic velocity in the middle cerebral artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiography (ECG)",
+            "date": "Not specified",
+            "findings": "Initially normal; later showed peaked T-waves and a wide QRS complex.",
+            "changes_over_time": "Gradually normalized after potassium correction."
+        }
+    ]
+}

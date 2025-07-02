@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Digital diagnostic mammography",
+            "date": "Not specified",
+            "findings": "Heterogeneously dense breasts with a solid mass measuring 4.8 cm by 4.2 cm by 4.2 cm in the right breast and at least two smaller solid masses; the masses had not been present on a routine study performed 15 months earlier.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Enhancing mass, 5.7 cm in greatest dimension, in the lower outer quadrant that was highly suggestive of carcinoma, with enhancement of the underlying pectoralis muscle and thickening of the skin. Two smaller enhancing masses (13 mm and 17 mm) in the upper outer quadrant and multiple enlarged enhancing lymph nodes (up to 19 mm) in the right axilla.",
+            "changes_over_time": "Five days later, MRI showed enlargement of the dominant mass to 7.1 cm in greatest dimension."
+        },
+        {
+            "procedure_name": "Follow-up MRI",
+            "date": "After four cycles of neoadjuvant chemotherapy",
+            "findings": "Decrease in enhancement and size of the dominant mass, which was now 3.0 cm in greatest dimension. Resolution of skin thickening, resolution of enhancement of the satellite masses, and resolution of axillary lymphadenopathy.",
+            "changes_over_time": "Mass decreased from 7.1 cm to 3.0 cm with resolution of other findings."
+        }
+    ]
+}

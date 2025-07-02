@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum calcium: 1.57 mmol/L (6.28 mg/dL); PTH: 2.2 pmol/L",
+            "relevant_findings": "Hypocalcemic infant had low serum adjusted-calcium; elevated serum phosphate and inappropriately normal serum PTH. No clinical or biochemical features of Di George or HDR syndromes.",
+            "changes_over_time": "Serum calcium increased into normal range after IV calcium infusions and remained normal at discharge."
+        },
+        {
+            "date": "At birth",
+            "vital_signs": "Serum adjusted-calcium: 2.11 mmol/L (8.44 mg/dL)",
+            "relevant_findings": "Well and normocalcemic at birth.",
+            "changes_over_time": "Developed hypocalcemic seizures at 7 days of age."
+        },
+        {
+            "date": "7 days old",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Presented with focal seizures affecting upper limbs.",
+            "changes_over_time": "Condition improved with treatment."
+        },
+        {
+            "date": "3 weeks old",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Discharged with normal serum calcium.",
+            "changes_over_time": "Recovery from hypocalcemic seizures."
+        }
+    ]
+}

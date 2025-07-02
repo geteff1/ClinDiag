@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "39.4%",
+                "white_cell_count": "5900 per cubic millimeter",
+                "neutrophils": "57%",
+                "lymphocytes": "35%",
+                "monocytes": "5%",
+                "eosinophils": "2%",
+                "basophils": "1%",
+                "platelet_count": "248,000 per cubic millimeter",
+                "erythrocyte_sedimentation_rate": "24 mm per hour",
+                "mean_corpuscular_volume": "82 m^3"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "131 mg per deciliter (7.3 mmol per liter)",
+                "sodium": "137 mmol per liter",
+                "potassium": "5.5 mmol per liter",
+                "chloride": "100 mmol per liter",
+                "carbon_dioxide": "25.3 mmol per liter",
+                "creatinine": "Normal",
+                "urea_nitrogen": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Imaging Studies",
+            "date": "Not specified",
+            "findings": {
+                "MRI": {
+                    "mass_properties": "an enhancing mass, 2 cm in diameter at the right orbital apex, extending into the right sphenoid and posterior ethmoid sinuses",
+                    "signal_characteristics": "most of the mass is isointense relative to brain tissue, components are hyperintense",
+                    "nerve_involvement": "engulfed right optic nerve, extended into right cavernous sinus"
+                },
+                "CT_scan": {
+                    "mass_dimensions": "1.8 by 2.0 cm",
+                    "destructive_lesion": "in the region of the right supralateral sphenoid bone, involving anterior clinoid process and optic canal",
+                    "soft_tissue_density": "opacified much of the sphenoid bone, extending to the sphenoid ostium"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

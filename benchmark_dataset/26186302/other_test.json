@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation in exon 3 of the FGF23 gene (c.536G /H11022A, p.Arg179Gln) confirming ADHR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Withdrawal of Rickets Medication",
+            "date": "At age 5.6 years",
+            "findings": "FGF23 values nearly doubled within a week after withdrawal, with declining serum phosphate levels.",
+            "changes_over_time": "Phosphate loss remained evident after 4 weeks with TRP values similar to those before withdrawal."
+        },
+        {
+            "procedure_name": "Bone Metabolic Response Monitoring",
+            "date": "Beginning at age 5.6 years when medication was withdrawn",
+            "findings": "FGF23 remained within reference range but elevated for the level of hypophosphatemia.",
+            "changes_over_time": "After medication withdrawal, serum phosphate levels continued to decline and were not normalized until iron supplementation began."
+        },
+        {
+            "procedure_name": "Iron Supplementation",
+            "date": "Started at age 8.1 years",
+            "findings": "Serum iron and ferritin levels improved, TRP and TmP/GFR eventually normalized.",
+            "changes_over_time": "Rickets medication could be halved twice and fully withdrawn by age 9.3 years; phosphate and iron metabolism remained normal following withdrawal."
+        }
+    ]
+}

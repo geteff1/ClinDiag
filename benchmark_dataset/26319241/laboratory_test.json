@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "94 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Uric acid",
+            "date": "Not specified",
+            "findings": "0.46 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum magnesium",
+            "date": "Not specified",
+            "findings": "0.79 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "Not specified",
+            "findings": "39 mmol/mol",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "eGFR",
+            "date": "Not specified",
+            "findings": "45 ml/min per 1.73 m^2",
+            "changes_over_time": "Decreased over time"
+        },
+        {
+            "procedure_name": "eGFR",
+            "date": "Not specified",
+            "findings": "38 ml/min per 1.73 m^2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Hypomagnesemia (0.43 mmol/L), hypokalemia (3.5 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "eGFR",
+            "date": "Not specified",
+            "findings": "44 ml/min per 1.73 m^2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum magnesium",
+            "date": "Not specified",
+            "findings": "Refractory hypomagnesemia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum uric acid",
+            "date": "Not specified",
+            "findings": "Increased levels leading to gout",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis for HNF1B mutation",
+            "date": "Not specified",
+            "findings": "c.883C>T p.Arg295Cys for Patient 1; c.826C>T for Patient 2; large 1.43-Mb deletion for Patient 3; heterozygous deletion for Patient 4; full deletion for Patient 5",
+            "changes_over_time": "Progression observed in Patient 2 with increase in HNF1B score from 7 to 13 over 13 years"
+        }
+    ]
+}

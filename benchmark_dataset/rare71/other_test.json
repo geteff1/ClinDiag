@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histopathological examination showed pseudoepitheliomatous hyperplasia in the epidermis; neutrophil abscess in the superficial dermis, diffuse lymphocytes, histiocytes, plasma cells, and a few neutrophils infiltrated in the dermis; and multinucleated giant cells. Periodic acid-Schiff stain revealed dark red spores in multinucleated giant cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fungal Culture",
+            "date": "Not specified",
+            "findings": "The growth of creamy, brownish-beige colonies typical of Sporothrix spp. was noted. Microculture showed thin septate hyphae with conidia in a dense arrangement at its extremities. The fungal culture was confirmed to be S. globosa by sequencing the ribosomal region ITS1-ITS2 of the rDNA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antifungal Susceptibility Testing",
+            "date": "Not specified",
+            "findings": "Minimum inhibitory concentration (MIC) values provided for various antifungal agents.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

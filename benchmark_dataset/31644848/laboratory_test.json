@@ -1,0 +1,137 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "11.5 g/dL (reference range 12.0 to 16.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "35.0% (reference range 36.0 to 46.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "10,080 per mm³ (reference range 4500–11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "203,000 per mm³ (reference range 150,000–400,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Red-cell count",
+            "date": "Not specified",
+            "findings": "4,520,000 per mm³ (reference range 4,000,000–5,200,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Not specified",
+            "findings": "78.3 fL (reference range 80.0–100.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean corpuscular hemoglobin",
+            "date": "Not specified",
+            "findings": "25.0 pg (reference range 26.0–34.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean corpuscular hemoglobin concentration",
+            "date": "Not specified",
+            "findings": "31.9 g/dL (reference range 31.0–37.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Red-cell distribution width",
+            "date": "Not specified",
+            "findings": "14.6% (reference range 11.5–14.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "13.4 sec (reference range 11.5–14.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "29.1 sec (reference range 22.0–35.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrinogen",
+            "date": "Not specified",
+            "findings": "411 mg/dL (reference range 150–400)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "80 mg/dL (reference range 65–99)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "7.3 mmol/L (reference range 0.5–2.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial pH",
+            "date": "Not specified",
+            "findings": "7.21 (reference range 7.35–7.45)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (reference range 8.9–10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ionized calcium",
+            "date": "Not specified",
+            "findings": "0.72 mmol/L (reference range 1.14–1.30)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial partial pressure of oxygen",
+            "date": "Not specified",
+            "findings": "254 mmHg (reference range 80–100)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-procedure laboratory values",
+            "date": "45 minutes after delivery of the infant",
+            "findings": {
+                "Hematocrit": "28.9%",
+                "Hemoglobin": "9.2 g/dL",
+                "White-cell count": "12,300 per mm³",
+                "Platelet count": "64,000 per mm³",
+                "Red-cell count": "3,710,000 per mm³",
+                "Mean corpuscular volume": "77.9 fL",
+                "Mean corpuscular hemoglobin": "24.8 pg",
+                "Mean corpuscular hemoglobin concentration": "31.8 g/dL",
+                "Red-cell distribution width": "15.1%",
+                "Prothrombin time": "18.0 sec",
+                "Partial-thromboplastin time": ">150.0 sec",
+                "Fibrinogen": "81 mg/dL",
+                "Glucose": "148 mg/dL",
+                "Calcium": "8.9 mg/dL",
+                "Ionized calcium": "Not specified",
+                "Lactate": "Not specified",
+                "Arterial pH": "Not specified",
+                "Arterial partial pressure of carbon dioxide": "39 mmHg"
+            },
+            "changes_over_time": "Significant decreases in hemoglobin and hematocrit levels, and marked thrombocytopenia noted."
+        }
+    ]
+}

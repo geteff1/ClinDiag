@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "158/70 mmHg",
+                "heart_rate": "178 bpm",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "chest_pain": "Severe substernal chest pain",
+                "ECG_changes": "Marked ST depression in the inferolateral leads",
+                "arrhythmias": "Ventricular and supraventricular tachyarrhythmias; frequent multifocal premature ventricular contractions; runs of ventricular tachycardia"
+            },
+            "changes_over_time": "Symptoms resolved within minutes after administration of sublingual nitroglycerin; ECG abnormalities completely disappeared in less than 1 hour."
+        }
+    ]
+}

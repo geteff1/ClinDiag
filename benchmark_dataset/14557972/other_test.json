@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "D test",
+            "date": "Not specified",
+            "findings": "Presence of in vitro inducible macrolide–lincosamide–streptogramin B resistance (iMLS) in pretreatment isolate.",
+            "changes_over_time": "In vitro iMLS confirmed in postclindamycin operative isolate."
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Moderate number of polymorphonuclear leukocytes and a few gram-positive cocci.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MRSA grew on a culture of the debrided material.",
+            "changes_over_time": "Isolates had a susceptibility profile similar to previous isolates, except postclindamycin which revealed resistance to clindamycin."
+        },
+        {
+            "procedure_name": "PFGE",
+            "date": "Not specified",
+            "findings": "Both preclindamycin and postclindamycin isolates were genetically identical.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

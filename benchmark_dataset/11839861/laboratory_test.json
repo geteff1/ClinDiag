@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "fMRI",
+            "date": "Not specified",
+            "findings": "Initial fMRI study showed activation over the right temporal lobe with no activation over the left temporal lobe. The second fMRI revealed bilateral activation for the primary and secondary auditory cortex with left-sided predominance.",
+            "changes_over_time": "Initial fMRI showed right hemispheric activation with no left temporal activation; the second fMRI, performed 2 weeks later, showed predominantly left temporal activation."
+        },
+        {
+            "procedure_name": "SPECT",
+            "date": "Not specified",
+            "findings": "Increased radiopharmaceutical uptake (HMPAO technetium-99m) in the entire left temporal lobe, operculum, and insula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Revealed left hippocampal sclerosis associated with anterior temporal cortical dysplasia involving the parahippocampal and inferior temporal gyrus up to 5 cm from the temporal tip.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Interictal sharp/slow wave discharges over the left anterior quadrant.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

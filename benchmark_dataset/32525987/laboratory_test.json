@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "2013",
+            "findings": "6.6% (49 mmol/mol), fluctuated between 5.7-6.4% (39-46 mmol/mol) until 2019 with a value of 6.4/6.6 (46/49 mmol/mol).",
+            "changes_over_time": "Increased to the diabetes range (>6.5% [48 mmol/mol]) over time."
+        },
+        {
+            "procedure_name": "Fasting Plasma Glucose (FPG)",
+            "date": "2016",
+            "findings": "102 mg/dl (5.7 mmol/L), indicative of mild impaired fasting glucose (IFG).",
+            "changes_over_time": "2018 OGTT showed normal fasting glucose levels."
+        },
+        {
+            "procedure_name": "OGTT",
+            "date": "2016",
+            "findings": "1-hour: normal; 2-hour: normal, no evidence of impaired glucose tolerance (IGT).",
+            "changes_over_time": "Second OGTT in 2018 showed improved glucose tolerance with a 2-hour value of 63 mg/dl (3.5 mmol/L)."
+        },
+        {
+            "procedure_name": "Fructosamine",
+            "date": "2016",
+            "findings": "Normal range 0-285 µmol/L (0-0.285 mmol/L).",
+            "changes_over_time": "Remained within the normal range over time."
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "2011-2020",
+            "findings": "Varied between 4.5% (26 mmol/mol) to 5.7% (39 mmol/mol), with most recent being 5.7% (39 mmol/mol) in 2020.",
+            "changes_over_time": "A notable increase from 4.5% in 2016 to 5.7% in 2020."
+        },
+        {
+            "procedure_name": "Fasting Plasma Glucose (FPG)",
+            "date": "2020",
+            "findings": "Fasting glucose of 125 mg/dl (6.9 mmol/L).",
+            "changes_over_time": "Indicated a rising trend of glucose levels over the years."
+        },
+        {
+            "procedure_name": "OGTT",
+            "date": "2020",
+            "findings": "1-hour: 241 mg/dl (13.4 mmol/L); 2-hour: 204 mg/dl (11.3 mmol/L).",
+            "changes_over_time": "Indicated impaired glucose metabolism leading to T2D diagnosis."
+        }
+    ]
+}

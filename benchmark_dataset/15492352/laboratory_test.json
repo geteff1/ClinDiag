@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Initially decreased liver function levels after alcohol cessation, but increased again after 4 weeks.",
+            "changes_over_time": "Increased liver function levels after controlled tea reexposure within 7 days. Another increase in liver function levels after moderate alcohol consumption. All laboratory values normalized after stopping senna and alcohol."
+        },
+        {
+            "procedure_name": "Rhein Levels Measurement",
+            "date": "Not specified",
+            "findings": "330 ng/mL after 11 months of tea consumption; 130 ng/mL 2 weeks after stopping the tea; 200 ng/mL at 2 weeks after reexposure; less than 100 ng/mL 3 weeks later.",
+            "changes_over_time": "Levels decreased after stopping the tea and increased after reexposure to senna."
+        },
+        {
+            "procedure_name": "Hepatitis Tests",
+            "date": "Not specified",
+            "findings": "Results for anti-hepatitis B surface antigen and anti-hepatitis A virus antibodies were positive; tests for anti-hepatitis C virus and anti-hepatitis E virus, HIV, parvovirus B19, and Coxsackie virus were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fecal Examination",
+            "date": "Not specified",
+            "findings": "Negative for amoebas, schistosoma, and fasciola on microscopy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Adrenocorticotropic Hormone Stimulation Test",
+            "date": "Not specified",
+            "findings": "Indicated recovery of endogenous adrenal function after tapering of fluticasone.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

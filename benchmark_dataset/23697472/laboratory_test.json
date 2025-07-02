@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "4 months before admission",
+            "findings": "10.4%",
+            "changes_over_time": "Rising from 7.4% or lower 1 year earlier to 10.4%."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "On admission",
+            "findings": "13.7%",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "3 months after admission",
+            "findings": "6.6%",
+            "changes_over_time": "Decreased from 13.7% on admission."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "5 months after admission",
+            "findings": "5.6%",
+            "changes_over_time": "Decreased from 6.6% 3 months after admission."
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "Not specified",
+            "findings": "303 μg per 24 hours (normal range: 17 to 47 μg per 24 hours)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Overnight dexamethasone suppression test",
+            "date": "Not specified",
+            "findings": "Elevated morning cortisol level of 32.8 μg per deciliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum corticotropin",
+            "date": "Not specified",
+            "findings": "188 pg per milliliter (normal range: 6 to 76 pg per milliliter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Morning cortisol level",
+            "date": "After resection of pulmonary nodule",
+            "findings": "5.2 μg per deciliter (normal range not specified).",
+            "changes_over_time": "Decreased from 32.8 μg per deciliter."
+        },
+        {
+            "procedure_name": "Serum corticotropin level",
+            "date": "After resection of pulmonary nodule",
+            "findings": "13 pg per milliliter (normal range: 6 to 76 pg per milliliter)",
+            "changes_over_time": "Decreased from 188 pg per milliliter."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "3 weeks before admission",
+            "findings": "314 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "On admission",
+            "findings": "435 mg/dL.",
+            "changes_over_time": "Increased from 282 mg/dL 3 weeks before admission."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "5 months after admission",
+            "findings": "310 mg/dL.",
+            "changes_over_time": "Decreased from 435 mg/dL on admission."
+        }
+    ]
+}

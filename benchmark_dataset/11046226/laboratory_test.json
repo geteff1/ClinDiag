@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gases",
+            "date": "Not specified",
+            "findings": "pH 7.39, PaO2 89 mmHg, PaCO2 37 mmHg, HCO3 22 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gases",
+            "date": "Not specified",
+            "findings": "pH 7.49, PaO2 174 mmHg, PaCO2 27 mmHg, Na 124 mEq/L, K 6.8 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gases",
+            "date": "Not specified",
+            "findings": "K 6.3 mEq/L 20 min later during surgery, QRS width normalized",
+            "changes_over_time": "K levels decreased from 6.8 mEq/L to 6.3 mEq/L after treatments"
+        },
+        {
+            "procedure_name": "Postoperative Electrocardiography",
+            "date": "Day after surgery",
+            "findings": "K 4.9 mEq/L, no changes compared to preoperative ECG",
+            "changes_over_time": "K levels returned to normal postoperatively"
+        }
+    ]
+}

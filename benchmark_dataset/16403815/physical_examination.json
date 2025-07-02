@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 2002",
+            "vital_signs": {
+                "height": "158 cm",
+                "weight": "51 kg",
+                "thyroid_stimulating_hormone": ">500 mU/liter"
+            },
+            "relevant_findings": {
+                "hypothyroid_status": "severely hypothyroid",
+                "dysphonia": "present",
+                "scars": "scars of previous thyroidectomy",
+                "tenderness": "tenderness without swelling over the upper right femur",
+                "ultrasound": "multiple thyroid nodules up to 3.7 cm in size",
+                "FNA_results": "follicular cells with atypia",
+                "WBS_results": "several foci in the neck, skull, abdomen, and right upper femur",
+                "MRI_findings": "high signal intensity subtrochantric lesion of 4 cm size"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "May 2005",
+            "vital_signs": {
+                "thyroglobulin": "undetectable (<0.1 ng/dl)"
+            },
+            "relevant_findings": {
+                "WBS_results": "marked improvement showing only faint activity in the thyroid bed without evidence of any other abnormal uptake in previously described skeletal sites"
+            },
+            "changes_over_time": "indicates improvement in the status of the patient's cancer"
+        }
+    ]
+}

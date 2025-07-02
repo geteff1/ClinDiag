@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Vital signs were normal, with ventilated respirations.",
+            "relevant_findings": "The patient’s eyes opened to sternal rub and tracked to the right and partially to the left; the oculocephalic reflex was present. There was no spontaneous movement of the limbs. Myoclonus occurred after noxious stimuli to the legs; reflexes were brisk, and the plantar responses were flexor.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "4 days before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Minimal spontaneous speech and interaction, impaired comprehension, generalized hypokinesis, a spastic gait with circumduction of the right leg, absence of normal right arm swing, mild pronator drift with outstretched arms, and bilateral grasp reflexes.",
+            "changes_over_time": "The patient's speech and cognitive functions deteriorated leading up to the admission."
+        },
+        {
+            "date": "2 days before admission",
+            "vital_signs": "Opening pressure was 23 cm of water.",
+            "relevant_findings": "Testing for infectious agents was negative; other results were shown in cerebrospinal fluid analysis.",
+            "changes_over_time": "Increased opening pressure noted."
+        }
+    ]
+}

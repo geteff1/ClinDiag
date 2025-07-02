@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "borderline cardiomegaly, nonspecific diffuse pulmonary abnormalities, architectural distortion of the lung parenchyma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan without contrast",
+            "date": "Not specified",
+            "findings": "borderline cardiomegaly, nonspecific diffuse pulmonary abnormalities, architectural distortion of the lung parenchyma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "magnetic resonance imaging (MRI) of the head",
+            "date": "27 days before admission",
+            "findings": "extensive periventricular gray-matter heterotopia, a large cisterna magna, and micrognathia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography of the chest",
+            "date": "3 days after cardiac catheterization",
+            "findings": "dilatation of the ascending aorta, large patent ductus arteriosus, enlarged pulmonary-artery trunk, enlarged left and right main pulmonary arteries, scattered bandlike and ground-glass opacities, and areas of hyperaeration in both lungs",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

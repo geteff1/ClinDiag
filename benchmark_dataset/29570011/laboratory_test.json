@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Digital Subtraction Angiography (DSA)",
+            "date": "Not specified",
+            "findings": "Contrast agent inside and around the device (Bicêtre Occlusion Scale Score 1+3); the basilar aneurysm showed no signs of recanalization.",
+            "changes_over_time": "At the first follow-up, 6 months after the intervention, DSA revealed contrast agent present, and no signs of recanalization in the basilar aneurysm."
+        },
+        {
+            "procedure_name": "Indocyanine Green (ICG) Angiography",
+            "date": "Not specified",
+            "findings": "Confirmed patency of both A2 segments and Heubner arteries as well as complete aneurysm occlusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "No recanalization of the ACoA aneurysm.",
+            "changes_over_time": "Follow-up imaging showed no recanalization."
+        }
+    ]
+}

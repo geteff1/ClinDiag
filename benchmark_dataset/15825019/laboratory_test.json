@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC: 10.3 x 10^3 cells/mL (87% neutrophils, 7% lymphocytes, 6% monocytes); Platelet count: 95 x 10^3 platelets/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "Not specified",
+            "findings": "Serum glucose: 106 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Serum creatinine: 1.5 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "Alanine aminotransferase: 36 U/L (reference, 0–36 U/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "Prothrombin time: 20.7 s (INR: 1.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial Thromboplastin Time (PTT)",
+            "date": "Not specified",
+            "findings": "Partial thromboplastin time: 54 s (normal control: 28.4 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin: 2.5 g/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

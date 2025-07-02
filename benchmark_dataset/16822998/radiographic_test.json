@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the brain",
+            "date": "Not specified",
+            "findings": "No obvious lesions in the brain.",
+            "changes_over_time": "First scan showed a small hypodensity in the right periventricular white matter; subsequent scans showed a progression of abnormalities with increasing nonspecific hypodensities in the subcortical white matter bilaterally."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Multiple hyperintense lesions on T2-weighted and fluid-attenuated inversion recovery images, involving the left cerebellar hemisphere, middle cerebellar peduncle, midline cerebellum, subcortical white matter bilaterally, and parietal white-matter regions.",
+            "changes_over_time": "A repeated MRI showed resolution of some lesions and a decrease in the size of others."
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI",
+            "date": "Not specified",
+            "findings": "Evidence of evolving new infarcts of the right frontal lobe with new juxtacortical and subcortical lesions.",
+            "changes_over_time": "Multiple progressive ischemic lesions in the brain were confirmed."
+        }
+    ]
+}

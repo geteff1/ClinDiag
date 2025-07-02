@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Identified a rare heterozygous sequence change in KCNJ11 (p.Val290Met). C-peptide levels were below the lower limit of detection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Identified a rare heterozygous sequence change in HNF1A (p.Thr10Met). HbA1c was elevated at 8.3%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous sequence change in GATA6 (p.Arg456Cys). Severe pancreatic atrophy was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous sequence change in LMNA (p.Asp300Asn). C-peptide level was within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide levels were below the lower limit of detection in KCNJ11 case.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide levels in HNF1A case were not available.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide level was low but detectable in GATA6 case.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "C-peptide level was within normal limits in LMNA case.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c test",
+            "date": "Not specified",
+            "findings": "HbA1c was elevated at 8.3% in HNF1A case.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "162/94 mm Hg",
+                "pulse": "60/min",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "weight": "267 lb (120 kg)",
+                "height": "70 in"
+            },
+            "relevant_findings": {
+                "diabetic_retinopathy": "Mild, nonproliferative diabetic retinopathy",
+                "hypertensive_retinopathy": "Not present",
+                "cardiac_findings": "No cardiac abnormalities or signs of congestive heart failure",
+                "lung_findings": "Lungs clear",
+                "abdominal_findings": "Abdominal obesity",
+                "ankles": "2-plus pitting edema",
+                "peripheral_pulses": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

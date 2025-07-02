@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cervical VEMP",
+            "date": "Not specified",
+            "findings": "Patient A-1: Reduced cervical VEMP threshold of 65 dB and elevated SP:AP ratio of 0.59. Patient A-2: Cervical VEMP thresholds were 65 dB bilaterally. Patient A-3: Right ear cervical VEMP threshold of 65 dB with SP:AP ratio of 0.68. Patient B-1: Cervical VEMP thresholds were present at 80 dB bilaterally, with amplitude in left ear 4 times larger than right ear. Patient B-2: Cervical VEMP threshold of 65 to 70 dB and SP:AP ratios ranging from 0.42 to 0.63 for the left ear. Patient C-1: Cervical VEMP threshold of 65 dB and elevated SP:AP ratio of 0.72. Patient C-2: SP:AP ratios and cervical VEMP thresholds were abnormal bilaterally.",
+            "changes_over_time": "Patient A-1 showed normalization of cervical VEMP and SP:AP ratio 3 months after surgery."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scan",
+            "date": "Not specified",
+            "findings": "Patient A-1: Dehiscence of bone over the superior semicircular canal at arcuate eminence bilaterally. Patient A-2: Dehiscence over the right superior semicircular canal and thin bone over the lateral upslope of the left semicircular canal. Patient A-3: Dehiscence of bone over the right superior semicircular canal. Patient B-1: Dehiscence of bone over the left superior semicircular canal. Patient B-2: Dehiscence at arcuate eminence bilaterally. Patient C-1: Dehiscence of bone over the left superior semicircular canal at arcuate eminence. Patient C-2: Small dehiscence over the right superior semicircular canal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocochleography (ECOG)",
+            "date": "Not specified",
+            "findings": "Patient A-1: SP:AP ratio of 0.18 (right) and 0.59 (left). Patient A-2: SP:AP ratios were 1.30 (right) and 0.80 (left). Patient A-3: SP:AP ratio of 0.68 (right) and 0.38 (left). Patient B-2: SP:AP ratios were 0.11 (right) and 0.42-0.63 (left). Patient C-1: Abnormal bilateral SP:AP ratios.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

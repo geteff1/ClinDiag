@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-Ray of the hand",
+            "date": "Not specified",
+            "findings": "Open epiphyses.",
+            "changes_over_time": "The initially unfused epiphyses began to close after 3 months and were almost completely closed after 6 months."
+        },
+        {
+            "procedure_name": "Quantitative Computed Tomography (QCT)",
+            "date": "Not specified",
+            "findings": "Bone density of the distal radius (left) was 52 mg/cm3 (normal range, 120–160).",
+            "changes_over_time": "Bone density increased from 52 mg/cm3 to 83 mg/cm3 after 6 months."
+        },
+        {
+            "procedure_name": "Dual-energy X-ray Absorptiometry (DEXA)",
+            "date": "Not specified",
+            "findings": "Bone mineral density of the lumbar spine was 0.971 g/cm2 (normal range, > 1.150).",
+            "changes_over_time": "Bone mineral density increased from 0.971 g/cm2 to 1.043 g/cm2 after 6 months."
+        }
+    ]
+}

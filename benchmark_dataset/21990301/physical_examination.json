@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 2010",
+            "vital_signs": {
+                "hematocrit": "26%",
+                "mean_corpuscular_volume": "78 fL"
+            },
+            "relevant_findings": "Heavy menses, intermittent epigastric discomfort.",
+            "changes_over_time": "Inability to tolerate iron due to constipation reported."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal colonoscopy results; biopsy showed villous shortening and increased intraepithelial lymphocytes consistent with celiac disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "tTG_IgA": "14 units (normal range: 0-19)",
+                "DGP": "104 units (normal range: 0-19)"
+            },
+            "relevant_findings": "Diagnosis of celiac disease made from duodenal biopsy results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient reports weight loss (15 pounds), improved iron levels, and reduction in joint pain since starting gluten-free diet.",
+            "changes_over_time": "Joint pain improved, overall health reported as better."
+        }
+    ]
+}

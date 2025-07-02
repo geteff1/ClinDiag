@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "5 months before admission",
+            "findings": "37.2% (reference range: 36.0–46.0)",
+            "changes_over_time": "Decreased to 34.9% on first admission and increased to 40.1% and 37.0% in follow-up visits."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "5 months before admission",
+            "findings": "12.0 g/dL (reference range: 12.0–16.0)",
+            "changes_over_time": "Decreased to 10.8 g/dL on first admission and increased to 12.7 g/dL in follow-up."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "5 months before admission",
+            "findings": "13,900 per mm3 (reference range: 4500–11,000)",
+            "changes_over_time": "Increased to 15,800 per mm3 on first admission, decreased to 9,600 per mm3 in follow-up."
+        },
+        {
+            "procedure_name": "Differential count (Neutrophils)",
+            "date": "5 months before admission",
+            "findings": "86.0% (reference range: 40–70)",
+            "changes_over_time": "Decreased to 45% on first admission and increased to 67% in follow-up."
+        },
+        {
+            "procedure_name": "Eosinophils",
+            "date": "3 months before admission",
+            "findings": "14.6% (reference range: 0–8)",
+            "changes_over_time": "Decreased to 2% on follow-up examination."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "1.3 mg/dL (reference range <1.0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "11 ng/ml (reference range: 25–80)",
+            "changes_over_time": "Increased to 21 ng/ml in follow-up."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "5 months before admission",
+            "findings": "480,000 per mm3 (reference range: 150,000–400,000)",
+            "changes_over_time": "Increased to 686,000 per mm3 on first admission and decreased to 283,000 in follow-up."
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": "6.07 μU/ml (reference range: 0.34–5.00)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgE",
+            "date": "Not specified",
+            "findings": "26,260 IU/liter (mean: 13.2; +1 SD: 41.0; +2 SD: 127.0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "34.0 μg/dl (6:40 p.m.)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "861 U/liter (reference range: 40–150)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "8 months before admission",
+            "findings": "well-demarcated, mixed-echoic lesion, 4.2 cm by 4.1 cm, in the right lobe of the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "8 months before admission",
+            "findings": "dominant encapsulated mass, 4.2 cm by 3.9 cm, in the right lobe of the liver with intense enhancement in the arterial phase.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "5 months before admission",
+            "findings": "perihepatic hematoma that extended 35 mm from the right hepatic border.",
+            "changes_over_time": "findings stabilized by the time of discharge"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "1 month after ablation",
+            "findings": "nodular enhancement surrounding the ablation zone consistent with residual disease; satellite lesions in segments five and six appeared stable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

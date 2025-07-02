@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "10 kg (10th percentile)",
+                "head circumference": "48 cm (50th percentile)"
+            },
+            "relevant_findings": {
+                "neurological examination": "Lethargic, hypotonic, intermittently irritable.",
+                "eye examination": "Blue sclera, multiple large flame-shaped, dot blot, and some preretinal hemorrhages heavily concentrated in the peripapillary area of the right eye, scattered punctate intraretinal hemorrhages observed in the macula of the left eye."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "eye examination": "Visually significant vitreous and intraretinal hemorrhages in the right eye and mild vitreous hemorrhage in the left eye."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "eye examination": "Small, bilateral, scattered intraretinal hemorrhages over the posterior pole."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

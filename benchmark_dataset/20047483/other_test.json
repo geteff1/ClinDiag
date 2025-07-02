@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoalveolar lavage (BAL)",
+            "date": "6 July 2009",
+            "findings": "Positive for influenza A virus by DFA, viral culture, and PCR, identified as 2009 A(H1N1) virus.",
+            "changes_over_time": "Initial BAL specimen on day 3 yielded a negative DFA and positive PCR. Subsequent endotracheal and BAL specimens continued to show positive results until day 25, with the final BAL specimen on day 24 yielding a negative result."
+        },
+        {
+            "procedure_name": "Nasopharyngeal swab",
+            "date": "3 July 2009",
+            "findings": "Negative for DFA, positive for PCR.",
+            "changes_over_time": "Follow-up nasopharyngeal specimen obtained on day 4 had negative culture and PCR results. All subsequent nasopharyngeal specimens collected during the hospitalization had negative results."
+        },
+        {
+            "procedure_name": "Endotracheal aspirate",
+            "date": "8 July 2009",
+            "findings": "Positive for PCR.",
+            "changes_over_time": "Endotracheal specimens continued to have positive results by PCR until day 25."
+        }
+    ]
+}

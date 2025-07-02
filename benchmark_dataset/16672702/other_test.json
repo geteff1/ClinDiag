@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Immune Function Analysis",
+            "date": "Not specified",
+            "findings": "The patient’s T-cell counts were very low, B-cell counts were normal, and there was eosinophilia (1000 cells per cubic millimeter). Serum immunoglobulin levels were elevated, IgM heterogeneity was restricted, and IgG autoantibodies against erythrocytes and neutrophils were detected.",
+            "changes_over_time": "The T-cell counts were low at the age of 10 months and gradually increased until the age of 2 years, but the levels remained below normal values."
+        },
+        {
+            "procedure_name": "Fluorescence In Situ Hybridization",
+            "date": "Not specified",
+            "findings": "Lymphocytes of maternal origin could not be detected in the blood.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Marrow Transplantation",
+            "date": "30 months old",
+            "findings": "The transplant resulted in sustained donor–recipient chimerism and correction of the immunodeficiency.",
+            "changes_over_time": "Three years later, the patient is well and living at home."
+        },
+        {
+            "procedure_name": "T-Cell Receptor–CD3 Complex Analysis",
+            "date": "Not specified",
+            "findings": "In the patient's T cells, both CD4+ and CD8+ cells with low levels of the T-cell receptor–CD3 complex were found, whereas almost all T cells with normal levels were CD4+. Phosphorylated ZAP-70 was not detected in T cells with normal levels of the receptor.",
+            "changes_over_time": "The CD4+ T cells with low levels of the T-cell receptor–CD3 complex increased over time, but consistent issues with activation persisted."
+        },
+        {
+            "procedure_name": "Genomic DNA Analysis",
+            "date": "Not specified",
+            "findings": "A homozygous C-to-T transition leading to a nonsense mutation at position 70 (Q70X) was detected, which impaired formation of the T-cell receptor–CD3 complex.",
+            "changes_over_time": "The analysis of CD3ζ gene indicated the presence of both inherited and somatic mutations that partially corrected the deficiency."
+        }
+    ]
+}

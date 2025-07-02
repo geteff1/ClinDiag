@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Initial presentation",
+            "findings": "2 ring-enhancing lesions, one in the left parietal region and one in the right occipital lobe.",
+            "changes_over_time": "Increased size of the parietal and occipital lesions, and several additional lesions seen on subsequent MRI performed ∼22 days after initial presentation."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Low-density left parietal lobe brain lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "After 2 weeks of treatment",
+            "findings": "Multiple new enhancing lesions in the right and cerebellar hemispheres.",
+            "changes_over_time": "Several MRIs showed no change in the number and size of lesions over the next ∼3 months."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Approximately day 180",
+            "findings": "Increasing CNS lesions (in number and size).",
+            "changes_over_time": "Gradual resolution of the surrounding edema but persistence of 2 ring-enhancing lesions, decreasing in size from 3.5 and 3.0 cm to 2.4 and 2.7 cm, respectively."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Years 4-5",
+            "findings": "No new lesions; slight decrease in size of existing lesions.",
+            "changes_over_time": "Continued decrease in the size and enhancement of the numerous lesions over time."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Initial presentation for the 5-year-old girl",
+            "findings": "Edema in the left temporal/parietal area of the brain.",
+            "changes_over_time": "Follow-up MRI performed 19 days later demonstrated 2 large ring-enhancing lesions surrounded by edema."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "70 days after initial presentation for the 5-year-old girl",
+            "findings": "Distinct encapsulated lesion in the left parietal lobe that enhances with surrounding edema.",
+            "changes_over_time": "MRI/CT showed persistent 2 lesions, with partial calcification; resolution of surrounding edema."
+        }
+    ]
+}

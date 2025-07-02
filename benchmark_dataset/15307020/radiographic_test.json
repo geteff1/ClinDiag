@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest with and without contrast",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT pulmonary angiogram",
+            "date": "Not specified",
+            "findings": "No evidence of pulmonary emboli",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced echocardiogram (bubble study)",
+            "date": "Not specified",
+            "findings": "Normal ejection fraction (60%), air bubbles observed in left heart chambers within 3-4 cycles after appearance in right heart chambers, no intracardiac shunt detected",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

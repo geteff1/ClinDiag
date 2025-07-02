@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "106/50 mmHg",
+                "height": "158 cm",
+                "weight": "50 kg",
+                "BMI": "20.0 kg/m2"
+            },
+            "relevant_findings": {
+                "clitoromegaly": {
+                    "length": "1.5 cm",
+                    "width": "1.0 cm"
+                },
+                "breast_development": "Tanner stage II"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

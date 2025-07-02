@@ -1,0 +1,71 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "13.7 g/dL (normal range: 12.0-16.0 g/dL)",
+                "hematocrit": "41.4% (normal range: 36.0-46.0%)",
+                "white_cell_count": "7200/mm³ (normal range: 4500-11,000/mm³)",
+                "platelet_count": "329,000/mm³ (normal range: 150,000-400,000/mm³)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Profile",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "142 mmol/L (normal range: 135-145 mmol/L)",
+                "potassium": "4.5 mmol/L (normal range: 3.4-5.0 mmol/L)",
+                "chloride": "100 mmol/L (normal range: 100-108 mmol/L)",
+                "carbon_dioxide": "29 mmol/L (normal range: 23-32 mmol/L)",
+                "urea_nitrogen": "8 mg/dL (normal range: 8-25 mg/dL)",
+                "creatinine": "0.70 mg/dL (normal range: 0.60-1.50 mg/dL)",
+                "glucose": "88 mg/dL (normal range: 70-110 mg/dL)",
+                "calcium": "9.2 mg/dL (normal range: 8.5-10.5 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "184 mg/dL (normal <200 mg/dL)",
+                "HDL_cholesterol": "78 mg/dL (normal range: 35-100 mg/dL)",
+                "LDL_cholesterol": "98 mg/dL (normal <130 mg/dL)",
+                "triglycerides": "41 mg/dL (normal range: 40-150 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "total_protein": "7.2 g/dL (normal range: 6.0-8.3 g/dL)",
+                "albumin": "4.8 g/dL (normal range: 3.3-5.0 g/dL)",
+                "alanine_aminotransferase": "18 U/L (normal range: 7-33 U/L)",
+                "aspartate_aminotransferase": "24 U/L (normal range: 9-32 U/L)",
+                "alkaline_phosphatase": "69 U/L (normal range: 45-115 U/L)",
+                "total_bilirubin": "0.2 mg/dL (normal range: 0.0-1.0 mg/dL)",
+                "direct_bilirubin": "0.1 mg/dL (normal range: 0.0-0.4 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": {
+                "25_Hydroxyvitamin_D": "26 ng/ml (normal range: 33-100 ng/ml)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin": "2.82 μIU/ml (normal range: 0.40-5.00 μIU/ml)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

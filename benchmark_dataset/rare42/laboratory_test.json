@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood examination",
+            "date": "Not specified",
+            "findings": "Elevation in leukocyte count, neutrophil count, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and serum amyloid protein (SAA) levels. Specific numerical values for these tests were not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous variation of NLRP3 gene (c.784-786delinsTGG) resulting in amino acid substitution of arginine for tryptophan at codon 262 (p.R262W). Predicted to be probably damaging with a PolyPhen-2 score of 1.000 and disease-causing with a MutationTaster score of 0.999.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

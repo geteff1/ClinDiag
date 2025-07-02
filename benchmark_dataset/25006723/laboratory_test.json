@@ -1,0 +1,99 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Tests",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "33.7",
+                "Hemoglobin (g/dl)": "11.2",
+                "White-cell count (per mm3)": "10,400",
+                "Neutrophils (%)": "74",
+                "Lymphocytes (%)": "16",
+                "Platelet count (per mm3)": "177,000",
+                "Creatinine (mg/dl)": "6.83",
+                "Glucose (mg/dl)": "105"
+            },
+            "changes_over_time": {
+                "Hematocrit (%)": [
+                    "33.7",
+                    "30.3",
+                    "26.8"
+                ],
+                "Hemoglobin (g/dl)": [
+                    "11.2",
+                    "10.3",
+                    "8.8"
+                ],
+                "White-cell count (per mm3)": [
+                    "10,400",
+                    "11,400",
+                    "7,400"
+                ],
+                "Neutrophils (%)": [
+                    "74",
+                    "88",
+                    "81"
+                ],
+                "Lymphocytes (%)": [
+                    "16",
+                    "5",
+                    "10"
+                ],
+                "Platelet count (per mm3)": [
+                    "177,000",
+                    "144,000",
+                    "113,000"
+                ],
+                "Creatinine (mg/dl)": [
+                    "6.83",
+                    "6.58",
+                    "6.17"
+                ],
+                "Glucose (mg/dl)": [
+                    "105",
+                    "154",
+                    "131"
+                ]
+            }
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Day 6",
+            "findings": {
+                "Color": "Colorless",
+                "Turbidity": "Clear",
+                "Xanthochromia": "None"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Head",
+            "date": "Multiple dates (Day 1, Day 3, Day 6, Day 10)",
+            "findings": [
+                {
+                    "day": "Day 1",
+                    "description": "Mild, scattered white-matter changes consistent with a chronic microangiopathic disease."
+                },
+                {
+                    "day": "Day 3",
+                    "description": "New, progressive, hyperintense punctate and linear cortical and subcortical foci bilaterally; foci suggestive of infarction."
+                },
+                {
+                    "day": "Day 6",
+                    "description": "New, diffuse hyperintense signal in cerebellar vermis bilaterally; unchanged or less conspicuous previously noted findings."
+                },
+                {
+                    "day": "Day 10",
+                    "description": "Numerous new punctate cerebellar infarcts; previously noted findings unchanged."
+                }
+            ],
+            "changes_over_time": "Progressive changes in findings observed at each specified date."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Day 2",
+            "findings": "Remained sterile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

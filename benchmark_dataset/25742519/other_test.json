@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "DNA Damage Repair Functional Analysis",
+            "date": "Not specified",
+            "findings": "Severe impairment in NHEJ-mediated repair of double-stranded DNA breaks observed in fibroblasts from Patient 1 (P1).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "Age 16 for both patients",
+            "findings": "Normal fasting glucose in both patients with significant insulin resistance; marked elevated fasting insulin levels.",
+            "changes_over_time": "Patient 1 (P1) diagnosed with diabetes at age 27; Patient 2 (P2) exhibited multiple elevated fasting blood sugars as an adult."
+        },
+        {
+            "procedure_name": "Sanger Sequencing",
+            "date": "Not specified",
+            "findings": "Homozygous variant c.246T/G in XRCC4 gene confirmed in both patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "mRNA Studies",
+            "date": "Not specified",
+            "findings": "Aberrant splicing leading to an in-frame deletion of 23 amino acids in XRCC4 due to the c.246T/G variant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of Primary Fibroblasts",
+            "date": "Not specified",
+            "findings": "Fibroblasts from Patient 1 demonstrated a DNA damage repair defect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological Analysis",
+            "date": "Age 30 for Patient 2",
+            "findings": "Jejunal wall tumor (5 cm in diameter) diagnosed as a gastrointestinal stromal tumor (GIST).",
+            "changes_over_time": "At age 31, Patient 2 developed diffuse intra-abdominal metastases."
+        }
+    ]
+}

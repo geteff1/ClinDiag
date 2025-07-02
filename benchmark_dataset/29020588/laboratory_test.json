@@ -1,0 +1,112 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin_level": "Normal",
+                "hematocrit": "Normal",
+                "red_cell_count": "Normal",
+                "red_cell_indexes": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "12 months of age",
+            "findings": {
+                "specific_gravity": "1.025",
+                "pH": "6.0",
+                "leukocyte_esterase": "2+",
+                "trace_blood": "Positive",
+                "microscopic_examination": {
+                    "squamous_epithelial_cells": "Present",
+                    "bacteria": "Present",
+                    "white_cells_per_hpf": "2 to 5",
+                    "red_cells_per_hpf": "0 to 2"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "Normal (e.g., 11,300)",
+                "differential_count": {
+                    "neutrophils": "Outside normal range (40.3)",
+                    "lymphocytes": "Normal (52.8)",
+                    "monocytes": "Normal (6.9)",
+                    "eosinophils": "Normal (1.1)",
+                    "basophils": "Normal (1.3)"
+                },
+                "platelet_count": "Normal (277,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "total_protein": "Normal",
+                "albumin": "Normal",
+                "globulin": "Normal",
+                "alkaline_phosphatase": "Normal",
+                "total_bilirubin": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin": {
+                    "12_months": "0.979 (Normal)",
+                    "13.5_months": "0.417 (Normal)",
+                    "15.5_months": "1.710 (Normal)",
+                    "16_months": "4.42 (Outside normal range)"
+                }
+            },
+            "changes_over_time": "Increase in thyrotropin levels over time, with the last value outside of the normal range."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "Normal (141)",
+                "potassium": "Normal (5.1)",
+                "chloride": "Normal (105)",
+                "carbon_dioxide": "Normal (25.3)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Antibodies Test",
+            "date": "Two weeks after thyroid evaluation",
+            "findings": {
+                "thyrotropin_receptor_antibodies": "Negative",
+                "thyroid_stimulating_immunoglobulins": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Celiac Disease Panels",
+            "date": "17 months of age",
+            "findings": {
+                "anti_tissue_transglutaminase_IgA": "Negative",
+                "anti_tissue_transglutaminase_IgG": "Negative",
+                "anti_gliadin_IgA": "Negative",
+                "anti_gliadin_IgG": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Head",
+            "date": "Not specified",
+            "findings": {
+                "mass_description": "Enhancing diencephalic mass (40 mm by 50 mm by 45 mm), involving sellar and suprasellar cisterns"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

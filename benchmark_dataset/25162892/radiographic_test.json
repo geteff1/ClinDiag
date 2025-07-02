@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray of the head",
+            "date": "18 days after birth",
+            "findings": "No abnormalities other than a small calvarium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "6.5 weeks after birth",
+            "findings": "Small brain, delayed myelination, partial agenesis of the posterior corpus callosum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified.",
+            "findings": "Hypodensities in frontal and parietal white matter, mild prominence of the ventricles, and extra-axial spaces containing cerebrospinal fluid. No acute hemorrhage, mass, or midline shift.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified.",
+            "findings": "Mild bronchial-wall thickening and low lung volumes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Follow-up at 18 months",
+            "findings": "Increased myelination, with deficiency of the corpus callosum still present. No evidence of cerebral venous sinus thrombosis.",
+            "changes_over_time": "Normal myelination observed compared to earlier scans."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "2 weeks after admission",
+            "findings": "Development of thrombus in the superior sagittal sinus and engorgement of the vein of Galen.",
+            "changes_over_time": "Thrombus evolved in the vein of Galen on the next scan taken 10 days later."
+        }
+    ]
+}

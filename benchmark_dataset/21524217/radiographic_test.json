@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Rectal mass (3.2 cm by 3.1 cm by 6.8 cm) with no lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan with PET",
+            "date": "4 days before evaluation",
+            "findings": "No metastases; soft-tissue thickening in the rectum with associated 18F-FDG uptake; a left inguinal node (1 cm in diameter) with mild 18F-FDG uptake; numerous small perirectal nodes (≤7 mm) with no uptake; a left periaortic lymph node (1 cm in diameter) of low density, without increased 18F-FDG uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Rectosigmoid tumor (5.9 cm long and up to 3.3 cm thick) with extension beyond the muscularis propria, multiple perirectal and perisigmoid lymph nodes (up to 0.8 cm by 0.6 cm), and a left external iliac lymph node (1.1 cm by 0.7 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT study with oral and intravenous contrast",
+            "date": "Not specified",
+            "findings": "Rectal mass causing abrupt narrowing of the rectal lumen (approximately 6 cm long and up to 3.3 cm thick); small perirectal, left external iliac-chain, and left paraaortic lymph nodes; a 1-cm lymph node in the left inguinal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI study",
+            "date": "Not specified",
+            "findings": "Perirectal lymph node and rectal mass with heterogeneous intermediate signal on T2-weighted axial image; loss of normal hypointense muscularis propria and extension of gray-appearing tumor beyond its expected margin, consistent with a T3 tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography-guided fine-needle aspiration",
+            "date": "Not specified",
+            "findings": "Reactive lymphoid tissue with no cancer.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

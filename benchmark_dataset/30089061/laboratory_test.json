@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "10 days before admission",
+            "findings": "4.9 mg per deciliter (433 μmol per liter); reference range 0.6 to 1.4 mg per deciliter (53 to 124 μmol per liter)",
+            "changes_over_time": "Increased from 0.8 mg per deciliter (71 μmol per liter) 2 months earlier"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Hospital day 4",
+            "findings": "3.2 mg per deciliter (283 μmol per liter)",
+            "changes_over_time": "Decreased from 4.6 mg per deciliter (405 μmol per liter)"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Hospital day 6",
+            "findings": "3.9 mg per deciliter (345 μmol per liter)",
+            "changes_over_time": "Increased from 3.2 mg per deciliter (283 μmol per liter)"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Hospital day 11",
+            "findings": "3.0 mg per deciliter (265 μmol per liter)",
+            "changes_over_time": "Decreased from 3.9 mg per deciliter (345 μmol per liter)"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Discharge",
+            "findings": "2.0 mg per deciliter (177 μmol per liter)",
+            "changes_over_time": "Decreased from 3.0 mg per deciliter (265 μmol per liter)"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "16 months after diagnosis",
+            "findings": "1.5 mg per deciliter (133 μmol per liter)",
+            "changes_over_time": "Decreased from 2.0 mg per deciliter (177 μmol per liter)"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "On presentation at the other hospital",
+            "findings": "White-cell count 16,500 per mm3; reference range 4500–11,000 per mm3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Hospital day 3",
+            "findings": "White-cell count 11,600 per mm3; reference range 4500–11,000 per mm3",
+            "changes_over_time": "Decreased from 16,500 per mm3"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "On presentation",
+            "findings": "Urine color: Cola; Hematuria present with red cells, red-cell casts, and white-cell casts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Follow-up evaluation",
+            "findings": "Urine color: Rose; Red cells >100 per high-power field",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Negative at 1:40 and 1:160",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement C3",
+            "date": "Not specified",
+            "findings": "C3 level 153 mg/dl; reference range 75–175 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement C4",
+            "date": "Not specified",
+            "findings": "C4 level 30 mg/dl; reference range 14–40 mg/dl",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

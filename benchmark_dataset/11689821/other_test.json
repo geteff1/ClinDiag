@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "New Q wave observed after an inferior myocardial infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase MB (CK-MB) test",
+            "date": "Not specified",
+            "findings": "Elevated CK-MB level to 110 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Postoperative day 7 and on day 42",
+            "findings": "Postoperative echocardiogram showed satisfactory LVEF of 56%; Day 42 echocardiogram found evidence of severe left ventricular dysfunction.",
+            "changes_over_time": "LVEF decreased from 56% to 35%."
+        },
+        {
+            "procedure_name": "Coronary Angiogram",
+            "date": "Not specified",
+            "findings": "Showed that both grafts were patent, but new tight stenoses were observed upstream and downstream from the LITA-LAD anastomosis, and new tight stenosis upstream from the RSV-RCA anastomosis.",
+            "changes_over_time": "New lesions developed at the sites of snare application."
+        }
+    ]
+}

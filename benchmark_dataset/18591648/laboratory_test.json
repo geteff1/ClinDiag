@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "Elevation of CRP levels associated with higher near-term all-cause and cardiovascular mortality.",
+            "changes_over_time": "CRP levels showed an increasing relative risk for death within 1 year (1.13) and between 1 to 2 years (1.15)."
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "Higher levels of D-dimer associated with increased mortality in patients with PAD.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "serum amyloid A",
+            "date": "Not specified",
+            "findings": "Higher serum amyloid A levels associated with increased all-cause mortality.",
+            "changes_over_time": "Relative risk for death between 1 and 2 years was 1.13."
+        },
+        {
+            "procedure_name": "JAK2 V617F mutation analysis",
+            "date": "Not specified",
+            "findings": "JAK2 V617F found in approximately 50% of DNA from atrial and ventricular cardiomyocytes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV testing (ELISA)",
+            "date": "Not specified",
+            "findings": "Conventional ELISA was reactive for HIV; Western blot too weak to be reported as positive.",
+            "changes_over_time": "Patient had repeatedly false-negative rapid HIV test results despite classical AIDS presentation."
+        }
+    ]
+}

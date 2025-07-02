@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": "Confirmed mild to severe left sensorineural hearing loss.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Demonstrated hemorrhage in the left labyrinth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Revealed bilateral renal cell carcinomas, renal cysts, and pancreatic cysts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the craniospinal axis",
+            "date": "Not specified",
+            "findings": "Revealed hemangioblastomas of the medullary obex and thoracic spinal cord.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Post-operative MRI",
+            "date": "Not specified",
+            "findings": "Revealed complete tumor removal and cyst resolution.",
+            "changes_over_time": "The patient's brainstem signs and symptoms resolved."
+        },
+        {
+            "procedure_name": "Serial abdominal CT",
+            "date": "Not specified",
+            "findings": "Revealed stable renal cysts, RCC, and pancreatic cysts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Craniospinal MRI",
+            "date": "Eighteen months after ELST resection (19 months after initial NIH evaluation)",
+            "findings": "Revealed development of a peritumoral cyst associated with the obex hemangioblastoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

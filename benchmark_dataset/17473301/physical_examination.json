@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/70 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "jugular_veins": "Not distended",
+                "carotid_bruits": "None",
+                "chest": "Clear",
+                "cardiovascular_examination": "Normal S1 and S2 without murmurs or gallops",
+                "extremities": "Without edema",
+                "pulses": "Intact",
+                "ECG": "Normal sinus rhythm with intervals and QRS axis; anterior Q waves with T-wave inversions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

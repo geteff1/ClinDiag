@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fluorescent PCR",
+            "date": "Not specified",
+            "findings": "Approximately 101 CGG repeats in the patient's FMR1 gene; mother's results showed premutation carrier status with 37/~140 CGG repeats.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Southern blot analysis",
+            "date": "Not specified",
+            "findings": "Mother carried the full mutation allele; presence of a deletion in the FMR1 gene confirmed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation-specific PCR",
+            "date": "Not specified",
+            "findings": "Determined the methylation status of the FMR1 gene in the patient.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triplet repeat primed PCR (TP-PCR)",
+            "date": "Not specified",
+            "findings": "Performed to determine CGG repeat instability.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation-specific triplet primed PCR (msTP-PCR)",
+            "date": "Not specified",
+            "findings": "Performed to determine methylation status of the FMR1 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR and DNA sequencing",
+            "date": "Not specified",
+            "findings": "Identified a 313 bp deletion upstream of the CGG repeat region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunochemical staining of cultured lymphocytes",
+            "date": "Not specified",
+            "findings": "94.5% of cells were negative for FMRP expression, suggesting silencing of the FMR1 gene.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

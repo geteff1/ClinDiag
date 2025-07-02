@@ -1,0 +1,105 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": {
+                    "result": 33.0,
+                    "normal_range": "41–53"
+                },
+                "Hemoglobin (g/dl)": {
+                    "result": 11.2,
+                    "normal_range": "13.5–17.5"
+                },
+                "White-cell count (per mm3)": {
+                    "result": 1150,
+                    "normal_range": "4000–11,000"
+                },
+                "Differential count (%)": {
+                    "Neutrophils": {
+                        "result": 31.2,
+                        "normal_range": "54–62"
+                    },
+                    "Lymphocytes": {
+                        "result": 60.9,
+                        "normal_range": "25–33"
+                    },
+                    "Monocytes": {
+                        "result": 7.0,
+                        "normal_range": "4.7–12"
+                    },
+                    "Eosinophils": {
+                        "result": 0.0,
+                        "normal_range": "0–3"
+                    },
+                    "Band forms": {
+                        "result": 0.3,
+                        "normal_range": "0–7"
+                    },
+                    "Basophils": {
+                        "result": 0.9,
+                        "normal_range": "0–3"
+                    }
+                },
+                "Platelet count (per mm3)": {
+                    "result": 37000,
+                    "normal_range": "150,000–450,000"
+                },
+                "Red-cell count (per mm3)": {
+                    "result": 3620000,
+                    "normal_range": "4,000,000–5,900,000"
+                },
+                "Mean corpuscular volume (fl)": {
+                    "result": 91.2,
+                    "normal_range": "80–100"
+                },
+                "Red-cell distribution width (%)": {
+                    "result": 15.9,
+                    "normal_range": "11.5–14.5"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Alkaline phosphatase (U/liter)": {
+                    "result": 77,
+                    "normal_range": "32–100"
+                },
+                "Bilirubin (mg/dl)": {
+                    "Total": {
+                        "result": 0.7,
+                        "normal_range": "0–1.2"
+                    },
+                    "Direct": {
+                        "result": 0.2,
+                        "normal_range": "0–0.2"
+                    }
+                },
+                "Alanine aminotransferase (U/liter)": {
+                    "result": 25,
+                    "normal_range": "10–50"
+                },
+                "Aspartate aminotransferase (U/liter)": {
+                    "result": 33,
+                    "normal_range": "15–41"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": {
+                "Results": "Dry tap",
+                "Biopsy": {
+                    "Remark": "Hypercellular marrow with atypical lymphoid cells suggestive of hairy-cell leukemia."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

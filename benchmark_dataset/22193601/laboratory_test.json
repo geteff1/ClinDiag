@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Eosinophil Count",
+            "date": "Not specified",
+            "findings": "Initial count of 0% of total WBC count. Increased to 6% (upper limit of normal) on day 6 of hospitalization and peaked at 1.2 × 10^9/liter (16% of total WBC count) at a dose of 150 mg/day approximately 1 week later.",
+            "changes_over_time": "Eosinophil counts increased gradually and reached a peak at week 4 with 1.2 × 10^9/liter. The count then decreased, remaining within normal limits at the time of discharge."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Total WBC count was 6.9 × 10^9/liter with 0% eosinophils at initial assessment in the emergency department.",
+            "changes_over_time": "Total WBC and absolute neutrophil counts remained normal following multiple blood draws during the hospitalization."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase Level",
+            "date": "Not specified",
+            "findings": "Elevated to 115 U/liter before returning to normal.",
+            "changes_over_time": "Initially elevated but normalized and remained within normal limits thereafter."
+        }
+    ]
+}

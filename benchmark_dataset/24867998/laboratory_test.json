@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Computed Tomographic Angiography",
+            "date": "Not specified",
+            "findings": "Aneurysm of the ascending aorta measuring up to 6 cm in diameter with a focal outpouching, high-attenuation pericardial effusion, and filling defects in the right and left main pulmonary arteries suggestive of extensive pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intraoperative Echocardiography",
+            "date": "Not specified",
+            "findings": "Redemonstrated a focal dissection of the mid ascending aorta with posterior wall hematoma; no flow in the right main pulmonary artery and minimal flow detected in the left main pulmonary artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative Computed Tomographic Angiography",
+            "date": "Not specified",
+            "findings": "Demonstrated unobstructed main, right, and left pulmonary arteries, with normal flow. Contrast opacified pulmonary arteries without filling defect.",
+            "changes_over_time": "Changes noted from preoperative occlusion to postoperative unobstructed flow."
+        }
+    ]
+}

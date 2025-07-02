@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ELISA/Western blotting for HTLV-1 antibodies",
+            "date": "Not specified",
+            "findings": "Positive for all patients (Patient 1, 2, 3, 4, and 5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Protein levels (mg/dL): Patient 1: 23, Patient 2: 16, Patient 3: 25, Patient 4: 34, Patient 5: 18; Mononuclear cell count: Patient 1: 6, Patient 2: 5, Patient 3: 4, Patient 4: 1, Patient 5: 5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic analysis",
+            "date": "Not specified",
+            "findings": {
+                "Vitamin B12 level (ng/mL)": {
+                    "Patient 1": 300,
+                    "Patient 2": 220,
+                    "Patient 3": 630,
+                    "Patient 4": 470,
+                    "Patient 5": 540
+                },
+                "Calcium level (mg/dL)": {
+                    "Patient 1": 9.4,
+                    "Patient 2": 9.3,
+                    "Patient 3": 9.1,
+                    "Patient 4": 10.3,
+                    "Patient 5": 10
+                },
+                "Phosphorus level (mg/dL)": {
+                    "Patient 1": 4,
+                    "Patient 2": 4.5,
+                    "Patient 3": 4.3,
+                    "Patient 4": 4.5,
+                    "Patient 5": 4.2
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

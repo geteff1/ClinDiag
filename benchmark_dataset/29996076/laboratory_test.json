@@ -1,0 +1,61 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Panel",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "44.4%",
+                "Hemoglobin": "15.2 g/dl",
+                "Mean corpuscular volume": "95.3 fl",
+                "White-cell count": "7840 per mm3",
+                "Platelet count": "192,000 per mm3",
+                "Sodium": "142 mmol/liter",
+                "Potassium": "4.3 mmol/liter",
+                "Chloride": "94 mmol/liter",
+                "Carbon dioxide": "33 mmol/liter",
+                "Urea nitrogen": "17 mg/dl",
+                "Creatinine": "0.73 mg/dl",
+                "Glucose": "116 mg/dl",
+                "N-terminal pro–B-type natriuretic peptide": "878 pg/ml",
+                "Troponin T": "<0.01 ng/ml",
+                "Thyrotropin": "1.60 μIU/ml",
+                "Albumin": "3.2 g/dl",
+                "Total Cholesterol": "139 mg/dl",
+                "LDL": "64 mg/dl",
+                "HDL": "57 mg/dl",
+                "Triglycerides": "91 mg/dl",
+                "ESR": "29 mm/hr",
+                "CRP": "11.1 mg/liter",
+                "Vitamin B12": "446 pg/ml",
+                "Antitreponemal antibody": "Nonreactive",
+                "Acetaminophen": "<5.0 μg/ml",
+                "Salicylates": "<3.0 mg/dl",
+                "Ethanol": "Negative",
+                "Tricyclic antidepressants": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive urine and serum toxicology screen",
+            "date": "Not specified",
+            "findings": "Negative for amphetamines, barbiturates, benzodiazepines, cannabinoids, cocaine, opiates, phenyclidine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Head",
+            "date": "One year before this presentation",
+            "findings": "Remote infarcts of the right frontal and left parietal lobes, diffuse white-matter disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": {
+                "Left ventricular dysfunction": "Ejection fraction 38%",
+                "Mitral regurgitation": "Mild",
+                "Atrial flutter": "Detected"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

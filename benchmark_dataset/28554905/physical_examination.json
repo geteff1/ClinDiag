@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": [
+                "Saccadic visual pursuit with intact voluntary saccades",
+                "Dysarthric speech",
+                "Strength preserved but tone diffusely diminished",
+                "Vibratory sensation at toes 2 seconds",
+                "Deep tendon reflexes absent in upper and lower extremities",
+                "Plantar responses were flexor bilaterally",
+                "Marked ataxia on finger-to-nose and heel-to-shin tests",
+                "Intention tremor and dysrhythmokinesia on hand tapping",
+                "Dysdiadochokinesia with rapid alternating movements",
+                "Stable stance with no truncal ataxia",
+                "Positive Romberg with subtle sway on eye closure",
+                "Wide-based gait, unable to tandem walk"
+            ],
+            "changes_over_time": "Dysarthria improved over time; imbalance remained unchanged."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": "708 mg/dL",
+                "HbA1c": "15.9%"
+            },
+            "relevant_findings": [
+                "Elevated protein 207 mg/dL in lumbar puncture",
+                "Elevated glucose 194 mg/dL in lumbar puncture with no pleocytosis",
+                "EMG revealed moderate, length-dependent motor and sensory, predominantly axonal, polyneuropathy"
+            ],
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRI showed symmetric signal abnormalities in the pons and cerebellum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Three months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": [
+                "Dysarthria resolved",
+                "Slight dysmetria on finger-to-nose testing",
+                "Normalized gait and able to tandem walk"
+            ],
+            "changes_over_time": "Improvement in speech and coordination noted."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis 27.7 × 10^9/L (normal 3.4–9.6 × 10^9/L) with neutrophilic predominance.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate_transaminase": "85 U/L (normal 8–43 U/L)",
+                "alanine_aminotransferase": "85 U/L (normal 7–45 U/L)",
+                "bilirubin": "9.3 mg/dL (normal <1.2 mg/dL)",
+                "alkaline_phosphatase": "2262 U/L (normal 35–104 U/L)",
+                "gamma_glutamyl_transferase": "494 U/L (normal 5–36 U/L)",
+                "C_reactive_protein": "52 mg/L (normal <8 mg/L)",
+                "TSH": "22.8 mL U/L (normal 0.3–4.2 mIU/L) with undetectable T3 and T4 levels."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autoantibody Screening",
+            "date": "Not specified",
+            "findings": "Negative for anti-nuclear antibody, SS-A and SS-B antibodies, and anti-smooth muscle antibody. IgG4 subclass levels were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "40% cellularity and reactive marrow changes without any blasts or infiltrate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Histiocytes infiltrating the biliary tree with chronic biliary tract injury. Tissue stained positive for CD1a and S100.",
+            "changes_over_time": "A 6-month prior biopsy was consistent with periportal fibrosis with lymphocytic and scattered neutrophilic infiltrates."
+        }
+    ]
+}

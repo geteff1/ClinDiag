@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "115 bpm",
+                "blood_pressure": "184/119 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "temperature": "afebrile"
+            },
+            "relevant_findings": {
+                "cardiovascular": "Within normal limits",
+                "pulmonary": "Within normal limits",
+                "abdominal": "Slight epigastric tenderness on palpation without rebound or guarding",
+                "neurological": "Decreased sensation of light touch from toes to below knees, absent vibration sensation at toes, decreased at ankles, diminished deep-tendon reflexes at knees and ankles, down-going toes in response to plantar stimulation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological": "Confusion, blurry vision, vertigo; impaired lateral gaze in both eyes, nystagmus on horizontal and upward gaze, positive Romberg test, wide-based unsteady gait"
+            },
+            "changes_over_time": "Sudden worsening of neurological symptoms including ataxia, oculomotor dysfunction, and altered mental status"
+        }
+    ]
+}

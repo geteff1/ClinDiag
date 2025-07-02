@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": [
+                {
+                    "patient": "Case 1",
+                    "findings": "Hypercalcemia, hypercalciuria, nephrocalcinosis, suppressed serum PTH, elevated serum 1,25-dihydroxyvitamin D3, reduced renal function with serum creatinine of 1.4 mg/dL."
+                },
+                {
+                    "patient": "Case 2",
+                    "findings": "Hypercalcemia with albumin-adjusted calcium of 12.8 mg/dL, hypercalciuria with urinary calcium/creatinine ratio of 0.59 mg/mg, and suppressed serum PTH at 4 pg/mL."
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Case 1",
+                    "changes": "Within 1 month of treatment, marked improvement with reduction in serum 1,25-dihydroxyvitamin D3 and calcium, increasing PTH into normal range, and serum creatinine improved to 1.1 mg/dL."
+                },
+                {
+                    "patient": "Case 2",
+                    "changes": "Serum albumin-adjusted calcium declined from 10.7 to 9.8 mg/dL; PTH concentration increased from 3 to 31 pg/mL. After 1 month of discontinuation of rifampin, serum and urinary calcium levels increased, 1,25-dihydroxyvitamin D3 rose from 58 to 90 pg/mL, and PTH was suppressed again."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C (97.7°F)",
+                "pulse": "56 bpm",
+                "blood_pressure": "118/84 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": [
+                "1+ edema in both legs",
+                "Soft and nontender abdomen, without rebound, guarding, or ascites",
+                "Strength was 4 out of 5 in the feet, ankles, arms, and hands"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Before initial emergency department visit",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal thyroid-function tests",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Protein-to-creatinine ratio decreased to 1.4; serum albumin level increased to 3.1 g per deciliter; edema in both legs resolved",
+            "changes_over_time": "Substantial reduction in proteinuria suggests resolution of minimal-change disease"
+        },
+        {
+            "date": "Two months after initial presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Urine protein-to-creatinine ratio was 5.6; thyrotropin level increased to 15.9 mIU per liter",
+            "changes_over_time": "Fatigue and leg edema reappeared"
+        },
+        {
+            "date": "Four weeks after prednisone initiation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Urine protein-to-creatinine ratio declined to 0.1; thyrotropin level decreased to 3.8 mIU per liter",
+            "changes_over_time": "Improvement in proteinuria and thyrotropin levels"
+        },
+        {
+            "date": "Six months after presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Serum albumin level at 4.2 g per deciliter; no detectable protein in urine; lipid levels normal",
+            "changes_over_time": "Returned to normal state of health with no recurrence of leg swelling"
+        }
+    ]
+}

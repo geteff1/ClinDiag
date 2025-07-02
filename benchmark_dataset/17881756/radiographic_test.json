@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "11 months before admission",
+            "findings": "Nodule, 4 mm in diameter, with the density of metal overlying the fifth posterior rib; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "4.5 months before admission",
+            "findings": "Multiple, small centrilobular nodules and small cysts, each less than 3 mm in diameter.",
+            "changes_over_time": "Follow-up CT scan showed persistent centrilobular ground-glass nodules and scattered, small parenchymal cysts."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "2 weeks before admission",
+            "findings": "New nodule, 4.5 mm in diameter, in the lower lobe of the left lung, with a rim of ground-glass opacification.",
+            "changes_over_time": "The clustered centrilobular cysts and ground-glass nodules were unchanged."
+        }
+    ]
+}

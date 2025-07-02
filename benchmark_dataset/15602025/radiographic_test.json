@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "An intracranial lesion thought to be a meningioma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "An extra-axial mass near the midline involving the parietal bones with an extracalvarial soft-tissue component.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A contrast-enhanced mass, 6.8 by 5.8 by 4.4 cm, invading the dura at the vertex, compressing the right motor strip, with multiple collateral vessels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiographic skeletal survey",
+            "date": "10 days after discharge",
+            "findings": "Lytic lesions in the distal right femoral metaphysis and proximal right tibial metaphysis, additional subtle lucencies in the left radius and left femur, and a sclerotic appearance in the L5 lumbar region.",
+            "changes_over_time": "New lytic bone lesion in the left distal clavicle and a lesion in the right greater trochanter five months after discharge."
+        },
+        {
+            "procedure_name": "Radiographic skeletal survey",
+            "date": "Five months after discharge",
+            "findings": "New lytic bone lesion in the left distal clavicle and a lesion in the right greater trochanter.",
+            "changes_over_time": "Six months later, another skeletal survey showed no changes."
+        },
+        {
+            "procedure_name": "Radiographic skeletal survey",
+            "date": "Not specified",
+            "findings": "Lytic expansile lesion of the lateral end of the clavicle extending to the articular surface, and lesions involving the proximal and distal ends of the right femur, distal left femur, and proximal right tibia.",
+            "changes_over_time": "No increase in size of lesions compared to previous studies."
+        },
+        {
+            "procedure_name": "Radiographic skeletal survey",
+            "date": "Three months later",
+            "findings": "Progression of lytic disease with worsening lesions.",
+            "changes_over_time": "Subsequent surveys showed relative stability of lesions."
+        }
+    ]
+}

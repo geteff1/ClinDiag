@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Detection of chronic B-cell leukemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CSF pressure, cell count, protein, and glucose levels were normal. Oligoclonal bands were absent in serum and CSF.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total body FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Hyperfixation of pulmonary bases and a few thoracic lymph nodes interpreted as basal pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Prominent chronic sensory-motor axonal polyneuropathy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

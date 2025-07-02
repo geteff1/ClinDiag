@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "3 weeks before presentation",
+            "findings": "20.0 seconds (reference range: 11.5–14.5 seconds)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin-time international normalized ratio",
+            "date": "3 weeks before presentation",
+            "findings": "1.7 (reference range: 0.9–1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "3 weeks before presentation",
+            "findings": "1299 U/liter (reference range: 10–55 U/liter)",
+            "changes_over_time": "Increased to 2698 U/liter on presentation"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "3 weeks before presentation",
+            "findings": "779 U/liter (reference range: 10–40 U/liter)",
+            "changes_over_time": "Increased to 2869 U/liter on presentation"
+        },
+        {
+            "procedure_name": "Bilirubin (Total)",
+            "date": "3 weeks before presentation",
+            "findings": "1.7 mg/dl (reference range: 0.0–1.0 mg/dl)",
+            "changes_over_time": "Increased to 21.6 mg/dl on presentation"
+        },
+        {
+            "procedure_name": "Bilirubin (Direct)",
+            "date": "3 weeks before presentation",
+            "findings": "Not specified (likely 0.0 mg/dl, but not stated)",
+            "changes_over_time": "Increased to 18.6 mg/dl on presentation"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "3 weeks before presentation",
+            "findings": "213 U/liter (reference range: 45–115 U/liter)",
+            "changes_over_time": "Decreased to 150 U/liter on presentation"
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "3 weeks before presentation",
+            "findings": "6.7 g/dl (reference range: 6.0–8.3 g/dl)",
+            "changes_over_time": "Decreased to 5.4 g/dl on presentation"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "3 weeks before presentation",
+            "findings": "4.0 g/dl (reference range: 3.3–5.0 g/dl)",
+            "changes_over_time": "Decreased to 3.4 g/dl on presentation"
+        },
+        {
+            "procedure_name": "Globulin",
+            "date": "3 weeks before presentation",
+            "findings": "2.7 g/dl (reference range: 1.9–4.1 g/dl)",
+            "changes_over_time": "Decreased to 2.0 g/dl on presentation"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "31.5 mg/liter (reference range: <8.0 mg/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis C virus antibody",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis C virus RNA",
+            "date": "3 weeks before presentation",
+            "findings": "68,172 IU/ml (reference value: <15 IU/ml)",
+            "changes_over_time": "Declined to <15 IU/ml on presentation"
+        },
+        {
+            "procedure_name": "Human immunodeficiency virus p24 antigen and type 1 and type 2 antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

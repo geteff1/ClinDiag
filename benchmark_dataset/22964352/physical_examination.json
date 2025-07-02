@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "122/64 mm Hg",
+                "height": "5'9''",
+                "weight": "208 lbs",
+                "body_mass_index": "30.7 kg/m²"
+            },
+            "relevant_findings": {
+                "pulmonary_system": "Normal results",
+                "cardiovascular_system": "Normal results",
+                "treadmill_stress_test": "1-mm horizontal ST-segment depression in V6 and borderline 1-mm ST-segment elevation in V4R",
+                "myocardial_perfusion_images": "Fixed inferior defect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "cardiac_catheterization": {
+                    "findings": "Normal coronary arteries, no discrete wall motion abnormalities, normal systolic function",
+                    "small_apical_aneurysm": "Visualized with a radiolucent filling defect"
+                }
+            },
+            "changes_over_time": {
+                "description": "Five months later, the patient presented with inferior ST-elevation myocardial infarction, the filling defect in the apical aneurysm was not seen."
+            }
+        },
+        {
+            "date": "5 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "cardiac_magnetic_resonance_imaging": {
+                    "findings": "Small apical aneurysm characteristic of a remnant from a sump, with 2 discrete areas of transmural late gadolinium enhancement corresponding to the infarct territories",
+                    "left_ventricular_systolic_function": "Mildly depressed with ejection fraction of 44%"
+                }
+            },
+            "changes_over_time": "Initial finding of the filling defect was not present at the time of the myocardial infarction."
+        }
+    ]
+}

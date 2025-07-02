@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic Studies",
+            "date": "12 days before admission",
+            "findings": "Hematocrit: 32.9%; MCV: 86; ESR: 39 mm/hr; WBC: 3,700/mm³; Neutrophils: 22%; Lymphocytes: 73%; Platelet count: 198,000/mm³; Prothrombin time: 11.2 sec.",
+            "changes_over_time": "WBC count reduced from 3,700/mm³ to 3,100/mm³ on admission."
+        },
+        {
+            "procedure_name": "Blood Chemical, Enzyme, and Hormone Values",
+            "date": "On admission",
+            "findings": "Uric acid: 23 mg/dL; Calcium: Normal; Phosphorus: Normal; LDH: 229 U/liter; Alkaline phosphatase: 115 U/liter; Thyrotropin: 6.83 µU/ml (normal range: 0.50–5.0); Total thyroxine: 12.8 µg/dL (normal range: 4.5–10.9)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

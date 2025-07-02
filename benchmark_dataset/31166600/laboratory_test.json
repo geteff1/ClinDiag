@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prolactin (PRL)",
+            "date": "Not specified",
+            "findings": "PRL concentration ranged from 1360 to 4102 ng/mL (59,130 to 178,347 pmol/L), normal for age 3.5 to 16 ng/mL (152 to 696 pmol/L)",
+            "changes_over_time": "PRL was 1585 ng/mL (68,913 pmol/L) at 15 months, decreased to 37 ng/mL (1609 pmol/L) post-surgery, then rose again to 151 ng/mL (6578 pmol/L) at 28 months."
+        },
+        {
+            "procedure_name": "Growth Hormone (GH)",
+            "date": "Not specified",
+            "findings": "GH concentration ranged from 27 to 142 ng/mL (27 to 142 mg/L), normal for age, #5 ng/mL (#5 mg/L)",
+            "changes_over_time": "GH was 436 ng/mL (436 mg/L) at 15 months, decreased to 2.3 ng/mL (2.3 mg/L) post-surgery, then rose again to 6.1 ng/mL (6.1 mg/L) at 28 months."
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor 1 (IGF-1)",
+            "date": "Not specified",
+            "findings": "IGF-1 concentration ranged from <25 to 159 ng/mL (<3 to 21 nmol/L), normal for age, 27 to 157 ng/mL (4 to 21 nmol/L)",
+            "changes_over_time": "IGF-1 was 243 ng/mL (32 nmol/L) at 15 months, decreased to 146 ng/mL (19 nmol/L) post-surgery, then rose to 189 ng/mL (25 nmol/L) at 28 months."
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "7 weeks of life",
+            "findings": "Random cortisol measurement was 25 mg/dL (690 nmol/L), within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "3 weeks of life",
+            "findings": "Heterogeneously enhancing mass arising from the sella with suprasellar extension measuring 8.1 x 37.5 x 10.7 mm.",
+            "changes_over_time": "At 3.5 months, the tumor size increased to 9.0 x 31.0 x 12.0 mm; at 10 months, it was 12.5 x 12.5 x 15.1 mm."
+        },
+        {
+            "procedure_name": "Tumor Histology",
+            "date": "Not specified",
+            "findings": "Ki-67 proliferation index was 8.5% in the infant and 5.6% in the mother, with neoplastic cells arranged in trabeculae and glandular structures.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

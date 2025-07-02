@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/73 mm Hg",
+                "pulse": "114 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "temperature": "37.8 °C",
+                "height": "175 cm",
+                "weight": "56 kg",
+                "oxygen_saturation": {
+                    "room_air": "91%",
+                    "with_oxygen": "98%"
+                }
+            },
+            "relevant_findings": {
+                "general_appearance": "Cachectic and older than stated age",
+                "neurologic": "Normal except for diffuse weakness, without focal abnormalities",
+                "pulmonary": "Scattered expiratory wheezes and coarse bronchial breath sounds",
+                "cardiac": "Tachycardia with normal heart sounds, no murmurs, rubs, or gallops",
+                "abdominal": "Soft, nontender, nondistended; possible hepatomegaly",
+                "rectal": "Guaiac-positive stool",
+                "skin": "1+ bilateral pedal edema, palpable purpura from mid-calf to toes on both legs and dorsal side of both hands"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2nd Hospital Day",
+            "vital_signs": {
+                "blood_pressure": "120-130 mm Hg / 60-70 mm Hg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "10-15 breaths per minute"
+            },
+            "relevant_findings": {
+                "neurologic": "Weak, intermittently lethargic and confused; total right foot drop with variable strength in the extremities"
+            },
+            "changes_over_time": "Patient's strength and neurological condition showed signs of improvement after initial treatment."
+        },
+        {
+            "date": "3rd Hospital Day",
+            "vital_signs": "Normal",
+            "relevant_findings": {
+                "neurologic": "Weak with intermittent lethargy; total right foot drop, 1/5 strength in right leg, and 4/5 strength in other limbs; absent knee and ankle reflexes"
+            },
+            "changes_over_time": "Weakness persisted but some improvement noted overall."
+        },
+        {
+            "date": "14 months after presentation",
+            "vital_signs": {
+                "creatinine_level": "1.1 mg/dL",
+                "appearance": "Slightly cushingoid with some residual peripheral neuropathy"
+            },
+            "relevant_findings": "Patient feels well with no further significant symptoms.",
+            "changes_over_time": "Patient's renal function and overall condition improved significantly since initial admission."
+        }
+    ]
+}

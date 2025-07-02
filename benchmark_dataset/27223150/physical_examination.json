@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "blood_pressure": "120/71 mm Hg",
+                "pulse": "66 bpm",
+                "respiratory_rate": "22 breaths per minute"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Soft and nontender",
+                "fetal_heart_rates": "140 and 150 bpm with accelerations and moderate variability; no decelerations noted",
+                "urinary_findings": "1+ leg edema noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "blood_pressure": "133/71 mm Hg",
+                "pulse": "75 bpm"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Nontender but warm to the touch",
+                "fetal_heart_rates": "170 and 180 bpm"
+            },
+            "changes_over_time": "Worsening fever with rigors developed"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C, later rose to 38.4°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Nontender",
+                "cervical_examination": "Closed and soft",
+                "uterine_contractions": "Intermittently contracting"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

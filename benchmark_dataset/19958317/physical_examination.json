@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0 °C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Initially hypo-tensive, acidotic, in significant respiratory distress. Methaemoglobin was <2%. Neutrophil count was elevated to 26.4. Platelet counts elevated to 615×10^9/l.",
+            "changes_over_time": "Patient required fluid resuscitation over the following 36 hours for resistant hypotension. No further acute changes reported."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Histological analysis revealed an increase in lamina propria eosinophil density with occasional eosinophil clustering and presence in the glandular epithelium.",
+            "changes_over_time": "By two months, skin prick testing to cow’s milk and other allergens were negative."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Increased eosinophil count of 620 cells/μl; normal range 40-440.",
+            "changes_over_time": "Spirometry showed deterioration compared to previous examination, but after treatment, it improved to FEV1 2.22L."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Echocardiographic examination revealed reduced ejection fraction of the left ventricle (LVEF – 46%) with diastolic dysfunction.",
+            "changes_over_time": "Remained unchanged despite treatment; presence of late gadolinium enhancement indicative of irreversible cardiac changes."
+        }
+    ]
+}

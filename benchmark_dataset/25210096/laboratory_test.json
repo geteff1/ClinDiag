@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal on initial presentation; ST-segment elevations in the inferior and apical leads noted 24 hours later.",
+            "changes_over_time": "ECG changes from normal to ST-segment elevations."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "Initial level of 19 ng/mL; increased to 26 ng/mL after catheterization.",
+            "changes_over_time": "Rising levels from 19 ng/mL to 26 ng/mL."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "WBC count of 12.2×10^9 cells/L, hematocrit of 34.7%, platelets 150×10^9 cells/L.",
+            "changes_over_time": "Platelet count dropped to 77×10^9/L at transfer."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase 194 U/L, alanine aminotransferase 66 U/L, alkaline phosphatase 92 U/L, total bilirubin 0.2 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": "Normal epicardial coronary arteries, TIMI grade 2 flow.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.92 mg/dL at transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "4.39 ng/mL at transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "291 mg/L (normal < 3 mg/L) at transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "115 mm/h (normal < 18 mm/h) at transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": ">150 seconds while on unfractionated heparin; 85 seconds at transfer.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

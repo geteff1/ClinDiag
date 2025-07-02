@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "38 mg/dL (2.1 mmol/L; reference range, 70-110 mg/dL)",
+            "changes_over_time": "Ninety minutes after the initial blood glucose level, the glucose level was 20 mg/dL (1.1 mmol/L). After administration of a 20% dextrose solution, the glucose level rose to 257 mg/dL (14.3 mmol/L)."
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "48 mg/L (reference range, <8.0 mg/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "38 mm/hour (reference range, 0-20 mm/hour)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Supervised Fast Blood Glucose Level",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "time": "6 hours",
+                    "value": "48 mg/dL (2.7 mmol/L)"
+                },
+                {
+                    "time": "8 hours",
+                    "value": "29 mg/dL (1.6 mmol/L)"
+                }
+            ],
+            "changes_over_time": "The patient reported weakness and fatigue at 8 hours."
+        },
+        {
+            "procedure_name": "Post-Administration Blood Glucose Level",
+            "date": "Not specified",
+            "findings": "200 mg/dL (11.1 mmol/L)",
+            "changes_over_time": "This occurred after the administration of orange juice and dextrose."
+        }
+    ]
+}

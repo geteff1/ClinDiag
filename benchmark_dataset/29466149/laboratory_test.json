@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin Level",
+            "date": "Not specified",
+            "findings": "Initial level was 8 g/dL (reference range, 12 to 16). 6 weeks earlier, level was 13 g/dL. One day before admission, level was 7 g/dL.",
+            "changes_over_time": "Decreased from 13 g/dL to 8 g/dL over 6 weeks and to 7 g/dL one day before admission."
+        },
+        {
+            "procedure_name": "Total Bilirubin Level",
+            "date": "Not specified",
+            "findings": "Total bilirubin level was 1.1 mg/dL (reference range, 0 to 1.0 mg/dL); it had increased from a baseline level of 0.3 to 0.7 mg/dL.",
+            "changes_over_time": "Increased from 0.3 mg/dL to 1.1 mg/dL."
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Not specified",
+            "findings": "Reticulocyte count was less than 0.5%, indicating a complete absence of bone marrow response.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antibody Screening Panel",
+            "date": "Not specified",
+            "findings": "Panreactive with increased reactivity compared to a prior test.",
+            "changes_over_time": "Increased reactivity observed on admission compared to two months before admission."
+        },
+        {
+            "procedure_name": "Direct Antiglobulin Test",
+            "date": "Not specified",
+            "findings": "Positive test, confirming the presence of an autoantibody.",
+            "changes_over_time": "Remained positive on admission, consistent with previous findings where there was no concurrent anemia."
+        },
+        {
+            "procedure_name": "PCR Assay for Parvovirus B19",
+            "date": "Not specified",
+            "findings": "Positive at the time of admission and remained positive throughout the course.",
+            "changes_over_time": "Positive at admission and remained so throughout the patient's course."
+        },
+        {
+            "procedure_name": "IgM and IgG Antibodies to Parvovirus B19",
+            "date": "Not specified",
+            "findings": "IgM level was 14.1 (reference range, <0.9); IgG level was 1.4 (reference range, <0.9).",
+            "changes_over_time": "IgM decreased rapidly during the first month, becoming slightly detectable by the third month; IgG increased and plateaued."
+        }
+    ]
+}

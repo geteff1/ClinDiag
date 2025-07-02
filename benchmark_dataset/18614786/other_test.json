@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Necrotizing granulomas centered on small airways with extensive necrosis and dystrophic calcifications. Staining revealed fragmented varicose hyphae suggestive of Aspergillus.",
+            "changes_over_time": "During the course of treatment, the patient's condition deteriorated, and no further specific findings from the biopsy were noted after the initial examination."
+        },
+        {
+            "procedure_name": "Tuberculin skin test",
+            "date": "Not specified",
+            "findings": "No induration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gastric aspirate",
+            "date": "Not specified",
+            "findings": "Acid-fast bacilli staining did not reveal acid-fast bacilli.",
+            "changes_over_time": "Additional gastric aspirates showed no acid-fast bacilli and cultures were pending."
+        },
+        {
+            "procedure_name": "Dihydrorhodamine fluorescence assay",
+            "date": "4th hospital day",
+            "findings": "Abnormal oxidative burst activity; the fluorescence response was lower than that of normal neutrophils.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

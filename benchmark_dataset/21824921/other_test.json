@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Unusually slow atrial flutter conducted 1:1 to the ventricles with hypotension during exertion. Prolonged QRS duration, sinus node dysfunction, high-degree atrioventricular block, and normal QT interval after catheter ablation.",
+            "changes_over_time": "P-wave duration, PR interval, and QRS duration were progressively prolonged with age (3 weeks to 12 weeks)."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal echocardiography during initial presentation, but later observations indicated end-diastolic and end-systolic left ventricular dilatation and reduced fractional shortening.",
+            "changes_over_time": "Statistically significant dilatation and reduction in left ventricular fractional shortening observed at 12 weeks compared to earlier assessments."
+        },
+        {
+            "procedure_name": "Histological examination",
+            "date": "Not specified",
+            "findings": "No significant fibrosis or myocyte disarray was noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Western Blotting",
+            "date": "Not specified",
+            "findings": "Reduction in sodium channel protein abundance associated with the DN allele.",
+            "changes_over_time": "Changes in sodium channel protein levels corresponded with the presence of DN alleles, but specifics on progression over time are not provided."
+        },
+        {
+            "procedure_name": "Sodium Current Recordings",
+            "date": "Not specified",
+            "findings": "Marked reduction in sodium current amplitude in DN mice compared to controls.",
+            "changes_over_time": "Consistent changes in gating observed, including increased late sodium current in DN/DN mice compared to DN/H and H/H littermates."
+        }
+    ]
+}

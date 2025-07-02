@@ -1,0 +1,48 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Slight",
+                "red_cell_count": "17",
+                "total_nucleated_cell_count": "73",
+                "differential_count_neutrophils": "1",
+                "differential_count_lymphocytes": "89",
+                "differential_count_monocytes": "10",
+                "protein": "117 g/dl",
+                "glucose": "52 mg/dl",
+                "gram_stain": "few mononuclear cells, no organisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "Generalized slowing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": {
+                "description": "Diffuse abnormal meningeal enhancement, prominent in the cerebellum with associated edema.",
+                "comparison": "Increase in effacement involving the fourth ventricle and an increase in size of the lateral and third ventricles suggestive ofearly obstructive hydrocephalus."
+            },
+            "changes_over_time": "Increased effacement and ventricular size compared to previous MRI study."
+        },
+        {
+            "procedure_name": "CSF tests for Powassan virus IgM antibodies",
+            "date": "Not specified",
+            "findings": "Positive for Powassan virus IgM antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plaque reduction neutralization test",
+            "date": "Not specified",
+            "findings": "Positive, with CSF titer of 1:4.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "8 Weeks before Presentation",
+            "findings": "42.5% (normal range 41.0–53.0)",
+            "changes_over_time": "Decreased to 29.6% on Presentation; increased to 34.3% two weeks later."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "8 Weeks before Presentation",
+            "findings": "15.3 g/dl (normal range 13.5–17.5)",
+            "changes_over_time": "Decreased to 10.1 g/dl on Presentation; increased to 11.9 g/dl two weeks later."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "8 Weeks before Presentation",
+            "findings": "4400 per mm3 (normal range 4500–11,000)",
+            "changes_over_time": "Increased to 11,300 on Presentation; decreased to 5000 six weeks later."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "8 Weeks before Presentation",
+            "findings": "187,000 per mm3 (normal range 150,000–400,000)",
+            "changes_over_time": "Decreased to 103,000 by 6 weeks after Presentation."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "8 Weeks before Presentation",
+            "findings": "7 mm/hr (normal range 0–11)",
+            "changes_over_time": "Increased to 84 mm/hr seven weeks before presentation."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "8 Weeks before Presentation",
+            "findings": "138 mmol/L (normal range 135–145)",
+            "changes_over_time": "Decreased to 133 mmol/L six weeks after presentation."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "8 Weeks before Presentation",
+            "findings": "5.3 mmol/L (normal range 3.4–4.8)",
+            "changes_over_time": "Decreased to 4.0 mmol/L six weeks later."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "8 Weeks before Presentation",
+            "findings": "1.22 mg/dl (normal range 0.60–1.50)",
+            "changes_over_time": "Decreased to 0.56 mg/dl on Admission; increased to 0.79 mg/dl one month later."
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "6 weeks after Presentation",
+            "findings": "707 ng/dl (normal range 270–1070)",
+            "changes_over_time": "Increased from 58.04 ng/dl before presentation."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "10 Days before Presentation",
+            "findings": "97 U/liter (normal range 10–40)",
+            "changes_over_time": "Decreased to 16 U/liter two weeks later; increased to 3996 U/liter on readmission."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "10 Days before Presentation",
+            "findings": "248 U/liter (normal range 10–55)",
+            "changes_over_time": "Decreased to 17 U/liter two weeks later; increased to 2576 U/liter on readmission."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "8.0 mg/liter (normal range <8.0)",
+            "changes_over_time": "Increased to 50.1 mg/liter seven weeks prior to presentation."
+        },
+        {
+            "procedure_name": "Total iron-binding capacity",
+            "date": "Not specified",
+            "findings": "Unable to perform test",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ultrasound",
+            "date": "32 weeks gestation",
+            "findings": "Cystic lesion on the umbilical cord at the fetal end, measuring 3.6 * 1.9 cm.",
+            "changes_over_time": "Increased to 4.3 * 5.7 cm at 34 weeks; further increased to 5.5 * 6.0 cm at 35 weeks."
+        },
+        {
+            "procedure_name": "Cardiac tocogram",
+            "date": "36 weeks gestation",
+            "findings": "Non-reassuring fetal monitoring.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "micturating cystourethrogram",
+            "date": "Not specified",
+            "findings": "Confirmed specifics of the condition.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

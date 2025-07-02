@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "99 cm",
+                "penile_size": "7 cm",
+                "testes_size": "2.8 cm",
+                "bone_age": "6 yr",
+                "T_levels": "54 –138 ng/dl",
+                "serum_sodium": "Not specified",
+                "serum_potassium": "Not specified",
+                "serum_cortisol": "Not specified",
+                "serum_aldosterone": "Not specified"
+            },
+            "relevant_findings": {
+                "pubic_hair": "Tanner stage II",
+                "abdominal_mass": "No mass palpable",
+                "hCG_levels": "Normal",
+                "TSH_levels": "Normal",
+                "T4_levels": "Normal",
+                "dehydroepiandrosterone_levels": "Normal",
+                "dehydroepiandrosterone_sulfate_levels": "Normal",
+                "17-hydroxyprogesterone_levels": "Normal",
+                "11-deoxycortisol_levels": "Normal"
+            },
+            "changes_over_time": "At age 3 years, he developed clinical and hormonal features of severe primary adrenal insufficiency. After steroid therapy, there was a clear decrease in testicular size and T levels returned to the prepubertal range."
+        },
+        {
+            "date": "At age 3 yr",
+            "vital_signs": {
+                "serum_sodium": "127 mEq/liter",
+                "serum_potassium": "5.9 mEq/liter",
+                "T_levels": "178 ng/dl",
+                "serum_cortisol": "Not specified",
+                "serum_aldosterone": "Not specified"
+            },
+            "relevant_findings": {
+                "ACTH_levels": "5016 pg/ml (extremely elevated)",
+                "PRA_levels": "7.3 ng/ml (elevated)",
+                "bone_age": "7 yr (chronological age, 5 yr)"
+            },
+            "changes_over_time": "T levels remained within the normal prepubertal range after treatment. High T levels returned during upper respiratory infection but normalized with increased steroid supplementation."
+        }
+    ]
+}

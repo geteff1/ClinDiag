@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Audiogram",
+            "date": "10 months of age",
+            "findings": "Complete sensorineural deafness with hearing threshold levels above 115 dB for frequencies of 500-4000 Hz.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "BSND gene analysis",
+            "date": "Not specified",
+            "findings": "Homozygous point mutation G47R in the BSND gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hypertonic saline infusion test",
+            "date": "Not specified",
+            "findings": "Impaired urinary concentrating ability with maximum urine osmolar concentration of 275 mmol/kg.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine clearance measurement",
+            "date": "Not specified",
+            "findings": "Creatinine clearance was 63.8 ml/min per 1.73 m², reduced to 45.8 after 1 week of indomethacin therapy.",
+            "changes_over_time": "Decreased from 63.8 ml/min to 45.8 ml/min after treatment."
+        },
+        {
+            "procedure_name": "Prostaglandin E2 excretion measurement",
+            "date": "Not specified",
+            "findings": "Urinary levels of prostaglandin E2 excretion were markedly elevated (1940-11100 ng/d) and reduced (245-2153 ng/d) under treatment with indomethacin.",
+            "changes_over_time": "Levels decreased under treatment from elevated to reduced range."
+        }
+    ]
+}

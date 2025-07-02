@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Mildly raised white blood cell count of 13.08 x 10^9 /L (normal range 3.9 - 11 x 10^9 /L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin Level",
+            "date": "Not specified",
+            "findings": "Troponin was raised at 637 ng/L (normal = 34 ng/L), repeated level showed 1938 ng/L, peaked at 5484 ng/L the next day.",
+            "changes_over_time": "Troponin levels increased from 637 ng/L to 1938 ng/L and peaked at 5484 ng/L the next day."
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "C-reactive proteins were high.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR for COVID",
+            "date": "Not specified",
+            "findings": "PCR for COVID was negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

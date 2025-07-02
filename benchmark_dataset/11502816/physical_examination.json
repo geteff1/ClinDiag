@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1997",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient was diagnosed with acromegaly and had a 10-mm pituitary adenoma.",
+            "changes_over_time": "Post-surgery, the patient had a decrease in GH levels (from 9.0 /H9262g/liter to 6.2 /H9262g/liter), indicating partial efficacy of the surgery."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "GH: 6.3 /H9262g/liter, IGF-1: 80 nmol/liter, Insulin: 7.2 /H9262U/ml (during octreotide LAR 20 mg therapy)",
+            "relevant_findings": "No modification in GH and IGF-I levels during octreotide treatment. Insulin levels did not change.",
+            "changes_over_time": "After 6 months on octreotide therapy, nor tumor shrinkage was observed, leading to therapy interruption."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "GH: 4.1 /H9262g/liter, IGF-1: 48 nmol/liter, Insulin: 9.4 /H9262U/ml (during cabergoline therapy)",
+            "relevant_findings": "Clear reduction of GH and IGF-I levels after 6 months of cabergoline treatment.",
+            "changes_over_time": "Indicates improvement in hormonal levels following the initiation of cabergoline treatment."
+        }
+    ]
+}

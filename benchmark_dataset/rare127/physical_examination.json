@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 14, 2021",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin": "Pale skin and visible mucous membranes. Several small, rounded aphthous ulcers on the lips and buccal mucosa, grayish-white settling with erythematous crown.",
+                "nodes": "Nodes up to 6 cm in diameter on both shins, hyperemic, painful, with necrosis and bleeding.",
+                "peripheral_edema": "Observed in the shin and on the dorsal surface of the right foot.",
+                "pathergy_syndrome": "Negative."
+            },
+            "changes_over_time": "From April 10, there was a significant deterioration in the patient's condition with an increased number of painful erythematous nodes bilaterally, ulceration and bleeding from nodes."
+        }
+    ]
+}

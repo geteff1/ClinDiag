@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "May, 2006",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Current colonoscopy showed an area of firm bulging with oedematous mucosa in the upper rectum."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "An area of firm bulging with oedematous mucosa in the upper rectum.",
+            "changes_over_time": "Biopsy showed small fragments of poorly differentiated invasive adenocarcinoma."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Small fragments of poorly differentiated invasive adenocarcinoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Confirmed the findings of MRI regarding the mass in the posterior wall of the rectosigmoid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Deleterious BRCA1 mutation, c.427 G>T, resulting in E143X.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

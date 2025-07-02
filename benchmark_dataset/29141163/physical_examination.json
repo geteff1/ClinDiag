@@ -1,0 +1,75 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "138/66 mm Hg",
+                "pulse": "64 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "oropharynx": "No erythema or exudate; edentulous with normal-appearing oral mucosa and tongue",
+                "strength": {
+                    "legs": "0–1 out of 5",
+                    "arms": "3 out of 5"
+                },
+                "sensation": "Decreased pinprick sensation in both legs from toes to hips",
+                "negative_inspiratory_force": "Normal",
+                "pressure_ulcer": "Stage 2 over the sacrum",
+                "remainder": "Normal examination findings"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "mental_status_examination": "Normal",
+                "motor_strength": {
+                    "legs": "No voluntary movement",
+                    "hands": "More severe weakness than in proximal arms"
+                },
+                "atrophy": "Calf and foot muscles",
+                "deep_tendon_reflexes": {
+                    "ankles": "2+",
+                    "patellas": "3+",
+                    "biceps": "3+"
+                },
+                "sensation": {
+                    "vibration": "Absent in legs; diminished in arms",
+                    "light_touch": "Diminished",
+                    "pinprick": "Impaired caudal to T4 level"
+                },
+                "plantar_reflex": "Absent bilaterally",
+                "antibody_test": "Positive for antinuclear antibodies at 1:40 titer with speckled pattern"
+            },
+            "changes_over_time": "Hypoesthesia and weakness in arms and legs did not improve; neurological examination unchanged from admission"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "somatosensory_electrodes": {
+                    "right_median": "Normal",
+                    "left_side": "Not studied",
+                    "right_tibial": "Absent P37 scalp waveform, suggesting disruption of central conduction"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

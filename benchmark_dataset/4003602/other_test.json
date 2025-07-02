@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Mattis Dementia Rating Scale",
+            "date": "Not specified",
+            "findings": "Ms. A scored 125 out of a possible 144, indicating mild dementia. Mr. B scored 135 out of a possible 144, also consistent with mild Alzheimer's disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "neuropsychological tests",
+            "date": "Not specified",
+            "findings": "Results were consistent with the diagnosis of Alzheimer's disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "tranylcypromine treatment",
+            "date": "Not specified",
+            "findings": "Dramatic improvement in Ms. A's mood and activity level was reported after starting treatment.",
+            "changes_over_time": "Two weeks later, her mood began to decline slightly, leading to an increase in dosage, with subsequent rapid improvement."
+        },
+        {
+            "procedure_name": "desipramine treatment",
+            "date": "Not specified",
+            "findings": "Mr. B did not show improvement despite being in the therapeutic range.",
+            "changes_over_time": "After switching to tranylcypromine, he reported being 'back to my former self' within 6 weeks, despite persistent cognitive deficits."
+        }
+    ]
+}

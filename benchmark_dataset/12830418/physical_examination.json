@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lymph_nodes": "Mildly enlarged axillary and inguinal lymph nodes",
+                "rash": "Hemorrhagic-vasculitic rash on both legs",
+                "blood_work": {
+                    "WBC_count": "18,700 cells/mm^3",
+                    "platelet_count": "545,000 platelets/mm^3",
+                    "erythrocyte_sedimentation_rate": "130 mm/first hour",
+                    "ALT": "169 IU/L",
+                    "AST": "69 IU/L"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One week after treatment",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hepatomegaly": "Homogeneous hepatomegaly without evidence of ascites or enlarged lymph nodes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks after second treatment",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hepatosplenomegaly": "Hepatosplenomegaly and massive pericardial effusion"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "18 months follow-up",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "No physical complaints and no abnormalities during physical examination at routine follow-ups.",
+            "changes_over_time": "Patient had six more episodes of asymptomatic Salmonella bacteremia, consistent findings across episodes."
+        }
+    ]
+}

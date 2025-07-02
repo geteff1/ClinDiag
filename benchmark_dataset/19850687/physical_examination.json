@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "86.5 cm",
+                "weight": "19.3 kg",
+                "body_mass_index": "25.5 kg/m2"
+            },
+            "relevant_findings": {
+                "ophthalmological": "cycloplegia, hypermetropia, hyperopic astigmatism",
+                "dental": "dental malocclusion and some caries",
+                "facial": "mild retrognathia, high-arched palate",
+                "cardiovascular": "systolic murmur",
+                "skeletal": "bilateral severe Madelung deformities, rhizomelic shortening of all limbs, mild levoscoliosis with apex at thoracic spine, bilaterally short fourth metacarpals",
+                "radiological": "marked shortening and thickening of femur, tibia, fibula, humerus, ulna, and radius bilaterally, with tibia/fibula being more significantly involved"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "96.5 cm",
+                "weight": "35.6 kg",
+                "body_mass_index": "38.2 kg/m2"
+            },
+            "relevant_findings": {
+                "height_z_score": "-10.3",
+                "weight_z_score": "-3"
+            },
+            "changes_over_time": "No clinical deterioration of the skeletal deformities during GH therapy."
+        }
+    ]
+}

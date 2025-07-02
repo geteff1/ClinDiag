@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Body Mass Index (BMI)",
+            "date": "Not specified",
+            "findings": "Preoperative BMI = 47; Postoperative BMI after 12 months = 32.8; After additional weight loss at 18 months = 30; Weight at 2 years = 186 lb (BMI=30.9); Weight at 4 years = 205 lb (BMI=34.1).",
+            "changes_over_time": "BMI decreased from 47 preoperatively to 30.8 at 12 months, further decreased to 30 at 18 months, then increased to 30.9 at 2 years, and finally to 34.1 at 4 years."
+        },
+        {
+            "procedure_name": "Fasting Glucose Level",
+            "date": "Not specified",
+            "findings": "Normalized within several months after surgery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cholesterol (Hyperlipidemia)",
+            "date": "Not specified",
+            "findings": "Normalized within several months after surgery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Pressure (Hypertension)",
+            "date": "Not specified",
+            "findings": "Normalized within several months after surgery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

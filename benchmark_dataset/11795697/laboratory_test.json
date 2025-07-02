@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Radiotherapy",
+            "date": "Not specified",
+            "findings": "Total dose of 4500 rads in 25 fractions administered to the left brachial plexus and C3–T3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemotherapy (Ifosfamide with Mesna and Interferon Alpha therapy)",
+            "date": "Not specified",
+            "findings": "Little response noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fractionated Stereotactic Radiosurgery",
+            "date": "Not specified",
+            "findings": "Completed an eight-session course of fractionated stereotactic radiosurgery of 4000 cGy.",
+            "changes_over_time": "Tumor continued to enlarge."
+        },
+        {
+            "procedure_name": "MRI and CT Scanning",
+            "date": "Not specified",
+            "findings": "Demonstrated a multilobular T-2 hyperintense heterogeneously enhancing mass filling the left hemithorax, encasing the left subclavian artery and brachial plexus, and involving the left supraclavicular fossa.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

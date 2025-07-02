@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Initial ECG showed a ventricular rate of 56 beats per minute, atrioventricular dissociation, a right bundle-branch block, and nonspecific ST-segment abnormalities.",
+            "changes_over_time": "Follow-up ECG showed a ventricular rate of 101 beats per minute and atrial fibrillation, with incomplete right bundle-branch block, and nonspecific ST-segment and T-wave abnormalities."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "During coronary care unit admission",
+            "findings": "Marked enlargement and hypokinesis of the right ventricle with moderate tricuspid insufficiency.",
+            "changes_over_time": "Follow-up echocardiogram performed 10 days later showed improvement in right ventricular size and function."
+        },
+        {
+            "procedure_name": "Hypercoagulability evaluation",
+            "date": "Third hospital day",
+            "findings": "Mildly elevated homocysteine level, elevated IgG anticardiolipin antibody titer, and decreased functional protein C and protein C antigen levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound examination",
+            "date": "Not specified",
+            "findings": "Showed no evidence of thrombus in the femoral and popliteal veins.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Positive for group D Salmonella species, ceftriaxone-susceptible.",
+            "changes_over_time": "Positive blood cultures for the same Salmonella serovar occurred multiple times over 18 months despite repeated antibiotic treatments."
+        },
+        {
+            "procedure_name": "Pericardiocentesis",
+            "date": "Not specified",
+            "findings": "Pericardial effusion analysis consistent with sterile reactive fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic Studies",
+            "date": "Not specified",
+            "findings": "Normal complete blood count, normal immunoglobulin levels, normal complement levels, and lymphocyte function. Diminished IL-12R b1 expression was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PFGE for Salmonella isolates",
+            "date": "Not specified",
+            "findings": "All isolates had identical DNA fingerprints indicating the same serovar.",
+            "changes_over_time": "Indicated that all 6 episodes of bacteremia originated from the same serovar."
+        }
+    ]
+}

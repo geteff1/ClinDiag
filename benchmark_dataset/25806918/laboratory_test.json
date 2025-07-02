@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid scan",
+            "date": "10.5 weeks before admission",
+            "findings": "Total thyroid uptake of technetium-99m was 8.6% (4.5% in the right lobe, and 4.1% in the left lobe); normal range is 0.5 to 1.7%. Enlargement of the thyroid gland with homogeneously increased tracer uptake.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "11 weeks before admission",
+            "findings": "45 U/liter; normal range 7–30 U/liter.",
+            "changes_over_time": "Decreased to 39 U/liter at 10.5 weeks before admission, further decreased to 32 U/liter at 7.5 weeks before admission, and then increased to 39 U/liter at 3 weeks before admission."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "11 weeks before admission",
+            "findings": "30 U/liter; normal range 9–32 U/liter.",
+            "changes_over_time": "Decreased to 26 U/liter at 10.5 weeks before admission, further decreased to 24 U/liter at 7.5 weeks before admission, and then increased to 32 U/liter at 3 weeks before admission."
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "11 weeks before admission",
+            "findings": "0.07 μU/ml; normal range 0.40–5.00 μU/ml.",
+            "changes_over_time": "Decreased to 0.01 μU/ml at 10.5 weeks before admission; <0.01 μU/ml at 7.5 weeks before admission, increased to 0.02 μU/ml at 3 weeks before admission and decreased to <0.01 μU/ml again at 11 days before admission."
+        },
+        {
+            "procedure_name": "Free thyroxine",
+            "date": "11 weeks before admission",
+            "findings": "4.9 ng/dl; normal range 0.9–1.8 ng/dl.",
+            "changes_over_time": "Increased to 6.2 ng/dl at 10.5 weeks before admission, then decreased to 5.0 ng/dl at 7.5 weeks before admission, and further decreased to 3.5 ng/dl at 3 weeks before admission and then decreased to 3.0 ng/dl at 11 days before admission."
+        },
+        {
+            "procedure_name": "Thyroid-stimulating immunoglobulin",
+            "date": "11 weeks before admission",
+            "findings": "5.4; normal range ≤1.3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count, blood levels of electrolytes and glucose, results of renal-function tests",
+            "date": "3 weeks before admission",
+            "findings": "All normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "After thyroidectomy",
+            "findings": "6.6 mg/dL; normal range 8.5–10.5 mg/dL.",
+            "changes_over_time": "Temporary hypocalcemia post-surgery; normalized after treatment."
+        }
+    ]
+}

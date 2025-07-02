@@ -1,0 +1,15 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Late-onset myotonic dystrophy type 1",
+        "differential_diagnosis": [
+            "Aspiration pneumonia",
+            "Esophageal motility disorder (e.g., achalasia)",
+            "Obstructive esophageal disease (e.g., cancer or stricture)",
+            "Chronic inflammatory demyelinating polyneuropathy",
+            "Amyotrophic lateral sclerosis",
+            "Myasthenia gravis",
+            "Multiple myopathies"
+        ],
+        "diagnostic_reasoning": "The patient presented with dysphagia, bulbar weakness, and dyspnea, leading to a suspicion of a neuromuscular condition. MRI was normal, making infectious or granulomatous processes in the brain less likely. Testing confirmed myotonic dystrophy type 1 through PCR analysis showing 130 CTG repeats, aligning with clinical symptoms including facial and bulbar weakness, aspiration noted during swallow studies, and a history of early cataracts."
+    }
+}

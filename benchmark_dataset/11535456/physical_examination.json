@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure": "15 mmHg",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "visual_acuity": "20/30 right eye, 20/50 left eye",
+                "color_vision": "9.5/10 plates correctly identified (right eye), 9/10 plates (left eye)",
+                "visual_fields": "Subtle bilateral superior paracentral scotomas",
+                "optic_disc_findings": {
+                    "cup_to_disc_ratios": {
+                        "right_eye": "0.8",
+                        "left_eye": "0.6"
+                    },
+                    "temporal_pallor": "Marked",
+                    "remaining_neuroretinal_rim_pallor": "Moderate",
+                    "gray_crescents": "Present",
+                    "peripapillary_atrophy": "Mild"
+                }
+            },
+            "changes_over_time": "Initially diagnosed with normal-tension glaucoma (NTG), subsequently diagnosed with dominant optic atrophy (DOA)."
+        }
+    ]
+}

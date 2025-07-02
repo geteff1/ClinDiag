@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "15.1 mg/dl",
+                "phosphate": "1.4 mg/dl",
+                "parathyroid_hormone": "1110.51 pg/ml",
+                "urinary_calcium_excretion": "940 mg/d"
+            },
+            "relevant_findings": {
+                "CT_scan_neck": "hypodense mass in the right neck",
+                "oral_pantography": "circumscribed radiolucency in the body of the mandible",
+                "CT_scan_jaw": "effacement of the left mandible",
+                "surgical_exploration": "parathyroid carcinoma of the right upper parathyroid gland"
+            },
+            "changes_over_time": "Postoperatively, serum calcium and parathyroid hormone levels reverted to the normal range 3 months after the operation."
+        }
+    ]
+}

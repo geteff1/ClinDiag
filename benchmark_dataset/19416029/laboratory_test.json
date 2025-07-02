@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell_count": "4920 cells/mL",
+                "hemoglobin_level": "11.5 g/dL",
+                "platelet_count": "129,000 cells/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": {
+                "bilirubin_level": "17.8 mg/dL (total), 11.2 mg/dL (direct)",
+                "alanine_aminotransferase": "363 mg/dL",
+                "aspartate_aminotransferase": "359 mg/dL"
+            },
+            "changes_over_time": "Progressive deterioration noted; alanine aminotransferase level rose to 5727 mg/dL and aspartate aminotransferase to 25,615 mg/dL."
+        },
+        {
+            "procedure_name": "Renal function test",
+            "date": "Not specified",
+            "findings": {
+                "serum_creatinine_level": "1.8 mg/dL"
+            },
+            "changes_over_time": "Renal function worsened; serum creatinine level rose to 3.9 mg/dL."
+        },
+        {
+            "procedure_name": "Creatine kinase test",
+            "date": "Not specified",
+            "findings": {
+                "creatine_kinase": "579 U/L (reference range, 38–160 U/L)",
+                "creatine_kinase_muscle_brain_fraction": "186.5 U/L (reference range, !16 U/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation profile",
+            "date": "Not specified",
+            "findings": {
+                "fibrinogen_level": "322.3 mg/dL (reference range, 163.5–362.7 mg/dL)",
+                "fibrinogen_degradation_production": "10 mg/mL (reference level, !4.1 mg/mL)",
+                "D-dimer": "2.4 mg/mL (reference level, !2.09 mg/mL)"
+            },
+            "changes_over_time": "Indicates possible presence of disseminated intravascular coagulation."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "After patient death",
+            "findings": {
+                "culture_result": "Yielded S. sonnei growth"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

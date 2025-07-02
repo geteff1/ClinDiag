@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "proband": {
+                    "breast_development": "Tanner stage 1 breast development with mild adipomastia and chest acne",
+                    "ovarian_status": "enlarged bilateral multicystic ovaries with a small uterus and thin endometrium",
+                    "hormone_levels": {
+                        "17-Estradiol": "9476 pmol/L (normal 120-300 pmol/L)",
+                        "LH": "24 IU/L (normal 2-8 IU/L)",
+                        "FSH": "13 IU/L (normal 2-10 IU/L)",
+                        "TSH": "2.18 mIU/L (normal 0.4-4.5)"
+                    },
+                    "bone_age": "13 years at 19 years of age"
+                },
+                "sister_IV-5": {
+                    "breast_development": "no breast development",
+                    "amenorrhea": "primary amenorrhea",
+                    "hormone_levels": {
+                        "17-Estradiol": "9233 pmol/L",
+                        "LH": "18 IU/L",
+                        "FSH": "15 IU/L",
+                        "bone_age": "13 years at 21 years of age"
+                    }
+                },
+                "brother_IV-6": {
+                    "gonadal_development": "Tanner stage 1 gonadal development at 18 years with cryptorchid right testis and left testis volume hypoplastic to less than 1 ml",
+                    "hormone_levels": {
+                        "17-Estradiol": "218 pmol/L",
+                        "LH": "13 IU/L",
+                        "FSH": "56 IU/L"
+                    },
+                    "bone_age": "11 years at 18 years of age"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

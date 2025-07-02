@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "116/67 mmHg",
+                "heart_rate": "70 bpm",
+                "weight": "71.6 kg",
+                "height": "174 cm",
+                "body_mass_index": "23.6 kg/m2"
+            },
+            "relevant_findings": {
+                "body_fat_distribution": "normal distribution",
+                "skin_findings": "no acanthosis nigricans",
+                "monofilament_exam": "sensitive to 10-gram monofilament bilaterally"
+            },
+            "changes_over_time": {
+                "HbA1c": {
+                    "initial": "6.4%",
+                    "subsequent": "6.7%",
+                    "timeframe": "3 months prior to the latest measurement"
+                }
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "HbA1c_initial": "6.7%",
+                "HbA1c_later": "8.7%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "HbA1c increased from 6.7% to 8.7% over a two-year period"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "HbA1c": "6.2%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "After 6 months of GLP-1 RA treatment, HbA1c improved to 6.2%"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "total_cholesterol": "137 mg/dL",
+                "HDL": "25 mg/dL",
+                "LDL": "76 mg/dL",
+                "triglycerides": "182 mg/dL"
+            },
+            "relevant_findings": {
+                "retina_exam": "no retinopathy",
+                "urine_albumin_creatinine_ratio": "17 mg/g"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

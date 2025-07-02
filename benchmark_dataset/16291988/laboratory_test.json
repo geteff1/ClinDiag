@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological Examination",
+            "date": "Not specified",
+            "findings": "Invasive ductal carcinoma grade 2 of 3, estrogen-receptor protein positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical Staining",
+            "date": "Not specified",
+            "findings": "Positive for estrogen-receptor protein and faintly positive for progesterone-receptor protein, no overexpression of HER2/neu.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mammogram",
+            "date": "Not specified",
+            "findings": "0.8 cm irregularly shaped mass with calcifications in the upper portion of the right breast, suspicious for cancer.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

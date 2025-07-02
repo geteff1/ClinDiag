@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy pathology indicated a metastatic squamous carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-FDG PET/CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated multiple 18F-FDG-avid lesions involving the nasal tip, bilateral lungs, right hilum and mediastinum, and rectum. The nasal-tip mass had an SUV max of 15.5.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided core needle biopsy",
+            "date": "Not specified",
+            "findings": "Revealed a pulmonary squamous cell carcinoma, consistent with the nasal-tip lesion pathologically.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "20 days before admission",
+            "findings": {
+                "Hematocrit (%)": "33.7",
+                "Hemoglobin (g/dL)": "11.0",
+                "White cells (per mm³)": "32,800",
+                "Neutrophils (%)": "42",
+                "Lymphocytes (%)": "56",
+                "Monocytes (%)": "1",
+                "Eosinophils (%)": "2",
+                "Basophils (%)": "0",
+                "Platelets (per mm³)": "396,000",
+                "Mean corpuscular volume (μm³)": "66"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "4th hospital day",
+            "findings": {
+                "Hematocrit (%)": "26.8",
+                "Hemoglobin (g/dL)": "8.9",
+                "White cells (per mm³)": "36,400",
+                "Neutrophils (%)": "39",
+                "Lymphocytes (%)": "47",
+                "Monocytes (%)": "8",
+                "Eosinophils (%)": "0",
+                "Basophils (%)": "1",
+                "Platelets (per mm³)": "319,000",
+                "Mean corpuscular volume (μm³)": "67"
+            },
+            "changes_over_time": "Decline in hematocrit and hemoglobin levels; white cell count increased."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "6th hospital day",
+            "findings": {
+                "Hematocrit (%)": "Not specified",
+                "Hemoglobin (g/dL)": "Not specified",
+                "White cells (per mm³)": "24,700",
+                "Neutrophils (%)": "45",
+                "Lymphocytes (%)": "31",
+                "Monocytes (%)": "Not specified",
+                "Eosinophils (%)": "0",
+                "Basophils (%)": "Not specified",
+                "Platelets (per mm³)": "Not specified",
+                "Mean corpuscular volume (μm³)": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "20 days before admission",
+            "findings": "75 mm/hr",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "4th hospital day",
+            "findings": "143.8 mg/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastric Aspirate for Acid-Fast Staining and Mycobacterial Culture",
+            "date": "2nd hospital day",
+            "findings": "Acid-fast bacilli not detected; cultures pending.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "2nd hospital day",
+            "findings": "Few mixed flora grown.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

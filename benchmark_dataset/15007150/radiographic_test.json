@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "No abnormalities noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI",
+            "date": "Day 21 after intrathecal chemotherapy",
+            "findings": "Diffuse high signal areas in the deep cerebral white matter, mainly in the centrum semiovale, suggesting cytotoxic edema.",
+            "changes_over_time": "Follow-up MRI 20 hours later showed diffuse white matter high signal intensity on T2-weighted image, isosignal intensity on T1-weighted image without enhancement."
+        }
+    ]
+}

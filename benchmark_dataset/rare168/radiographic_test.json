@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "normal lung fields and mild cardiomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "severe dilatation of the right ventricle at end diastole (56 mm) and of the right atrium at end systole (74 mm, area of 43 cm2), paradoxical ventricular septal motion, severe tricuspid regurgitation (vena contracta = 11 mm), normal left ventricular ejection fraction (65%), main pulmonary artery diameter of 32 mm",
+            "changes_over_time": "At the 3-month follow-up, showed normal functioning prosthesis, absence of peri-prosthetic regurgitation, and partial recovery of RV function with TAPSE of 12 mm and fractional area change of 35%"
+        },
+        {
+            "procedure_name": "transthoracic three-dimensional echocardiogram",
+            "date": "Not specified",
+            "findings": "total absence of the posterior tricuspid leaflet, large regurgitant orifice, slightly hypoplastic anterior leaflet, and normal septal leaflet",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transoesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "confirmed the absence of the posterior tricuspid leaflet",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "coronary angiogram",
+            "date": "Not specified",
+            "findings": "normal coronary arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "right heart catheterization",
+            "date": "Not specified",
+            "findings": "normal pulmonary arterial pressure of 26/6 mmHg and a Qp/Qs ratio of 1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram (post-operative evaluation)",
+            "date": "Not specified",
+            "findings": "normally functioning prosthesis with normal transvalvular gradients (maximum/medium = 7/4 mmHg) and mild (Grade I) TR, moderately impaired RV function (TAPSE = 7-8 mm)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "106/70 mm Hg",
+                "height": "116 cm",
+                "weight": "22.5 kg",
+                "BMI": "16.7 kg/m² (83rd percentile)"
+            },
+            "relevant_findings": "Faint pubic down on the mons pubis, Tanner II pubic hair development. No axillary hair. Normal neurological exam.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 10 9/12 yr",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "height": "150 cm",
+                "weight": "48 kg",
+                "BMI": "21.3 kg/m² (88th percentile)"
+            },
+            "relevant_findings": "Tanner IV breasts and pubic hair. Mild periareolar and periumbilical hair.",
+            "changes_over_time": "Pubic hair has progressed to Tanner stage III–IV by age 9 yr."
+        },
+        {
+            "date": "Age 16 6/12 yr",
+            "vital_signs": {
+                "blood_pressure": "118/76 mm Hg",
+                "height": "165.2 cm",
+                "weight": "77.5 kg",
+                "BMI": "28.4 kg/m² (93rd percentile)"
+            },
+            "relevant_findings": "Tanner IV breasts and pubic hair. Significant hirsutism with a Ferriman-Gallwey score of 16 and mild acne.",
+            "changes_over_time": "Weight percentile has stabilized; however, she continues to have irregular cycles and hyperinsulinemia."
+        }
+    ]
+}

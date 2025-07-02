@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2016",
+            "vital_signs": {
+                "Fasting Serum Glucose": "102 mg/dl (5.7 mmol/L)"
+            },
+            "relevant_findings": "None specified.",
+            "changes_over_time": "HbA1c levels increased to the diabetes range (>6.5% [47 mmol/mol]) by the next assessment."
+        },
+        {
+            "date": "2018",
+            "vital_signs": {
+                "Fasting Serum Glucose": "94 mg/dl (5.2 mmol/L)"
+            },
+            "relevant_findings": "Absence of impaired fasting glucose previously observed. Elevated insulin level noted at 1-hour post-load."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Mean Glucose": "97 mg/dl (5.36 mmol/L)"
+            },
+            "relevant_findings": "Daily ambulatory glucose profile showed 77% of interstitial glucose values within target range (80-140 mg/dl; 4.4-7.8 mmol/L).",
+            "changes_over_time": "Indicates improvement in glucose management despite weight fluctuations."
+        },
+        {
+            "date": "2020",
+            "vital_signs": {
+                "Fasting Serum Glucose": "125 mg/dl (6.9 mmol/L)"
+            },
+            "relevant_findings": "Presence of lipodystrophy with facial and lower extremity lipoatrophy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

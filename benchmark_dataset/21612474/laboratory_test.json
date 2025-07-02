@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prostate-specific antigen (PSA)",
+            "date": "Not specified",
+            "findings": "Undetectable (<0.5 ng per milliliter) 3 months after prostatectomy; elevated at 17.2 ng per milliliter 18 months after prostatectomy.",
+            "changes_over_time": "PSA level increased from undetectable (<0.5 ng/mL) to 17.2 ng/mL over 18 months."
+        },
+        {
+            "procedure_name": "Bone mineral density (DXA)",
+            "date": "Not specified",
+            "findings": {
+                "femoral_neck": {
+                    "BMD": "0.72 g/cm²",
+                    "T_score": "-1.6"
+                },
+                "total_hip": {
+                    "BMD": "0.94 g/cm²",
+                    "T_score": "-0.6"
+                }
+            },
+            "changes_over_time": "Femoral neck decreased to 0.65 g/cm² (T score, -2.1) and total hip to 0.84 g/cm² (T score, -1.2) over 3 years."
+        }
+    ]
+}

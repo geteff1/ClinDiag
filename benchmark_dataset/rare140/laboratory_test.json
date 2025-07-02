@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "131.2 µmol/L",
+                "direct_bilirubin": "22.2 µmol/L",
+                "glutamyl_transpeptidase": "598 U/L",
+                "alkaline_phosphatase": "324 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "1 month",
+            "findings": {
+                "alanine_transaminase": "61 U/L",
+                "aspartate_aminotransferase": "86 U/L",
+                "total_bile_acid": "109 µmol/L",
+                "phosphorus": "3.22 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglycerides test",
+            "date": "3 months",
+            "findings": {
+                "triglycerides": "2.21 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholesterol test",
+            "date": "6 months",
+            "findings": {
+                "cholesterol": "8.88 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bayley Scales of Infant Development II (BSID-II)",
+            "date": "3 months",
+            "findings": {
+                "Gross_Motor_Quotient": 87,
+                "Fine_Motor_Quotient": 82,
+                "Total_Motor_Quotient": 83,
+                "Psychomotor_Development_Index": 84
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

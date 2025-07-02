@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methanol level test",
+            "date": "Not specified",
+            "findings": "Methanol level of 5.15 mmol/L (normal range, <0.31 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium bicarbonate infusion",
+            "date": "Not specified",
+            "findings": "Resolved anion gap; normal pH and bicarbonate levels next morning.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum osmolality test",
+            "date": "Not specified",
+            "findings": "Serum osmolality of 335 mmol/kg (normal range, 270 to 300 mmol/kg) with an osmolar gap of 39 mmol/kg (normal range, <10 mmol/kg).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Occupational exposure assessment",
+            "date": "Not specified",
+            "findings": "Patient had occupational exposure to a mixture of propane and methanol.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up assessment",
+            "date": "6 months after discharge",
+            "findings": "Mildly blurred vision not interfering with daily activities and improving residual neuropathy with gabapentin and physical therapy.",
+            "changes_over_time": "Neuropathy is slowly improving."
+        }
+    ]
+}

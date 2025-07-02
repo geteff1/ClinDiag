@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Twin A had complex congenital heart disease. Twin B had dextrocardia and otherwise normal cardiac anatomy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Twin A had single-ventricle physiology and chronic hypoxemic myocardium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac monitoring",
+            "date": "Not specified",
+            "findings": "Hypoxemia in Twin A with oxygen saturation in the arm between 30% and 40%, and in the leg, it was 90%.",
+            "changes_over_time": "Saturation measurements fluctuated but indicated Twin B’s circulation was largely responsible for perfusion."
+        },
+        {
+            "procedure_name": "Surgical separation",
+            "date": "Not specified",
+            "findings": "Twin A relied on Twin B for circulatory support; intraoperative challenges included managing shunting through the superior mesenteric artery.",
+            "changes_over_time": "During the operation, twin-to-twin shunting was observed, affecting oxygen saturation."
+        }
+    ]
+}

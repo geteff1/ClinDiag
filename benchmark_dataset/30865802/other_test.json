@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": "Opening pressure of 22 cm of water; colorless CSF; glucose level of 60 mg/dL; total protein level of 160 mg/dL; nucleated cell count of 64 cells/mm3 (63% neutrophils, 16% lymphocytes, 21% monocytes).",
+            "changes_over_time": "Most recent CSF analysis showed a total protein level of 83 mg/dL (compared to 160 mg/dL at diagnosis) and a nucleated cell count of 3 cells/mm3 (compared to 64 cells/mm3 at diagnosis)."
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "CSF was clear with abnormal protein and white cell count indicative of meningitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Punch Biopsy",
+            "date": "Not specified",
+            "findings": "Histologic examination showed features consistent with syphilis (presence of spirochetes).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Kidney Biopsy",
+            "date": "Not specified",
+            "findings": "Examination revealed 21 glomeruli, with 19% globally sclerosed, 38% cellular crescents, presence of red-cell casts, and interstitial fibrosis.",
+            "changes_over_time": "The extent and severity of glomerular lesions were modest, with crescents and necrosis not as prominent, suggesting subacute or transient disease."
+        },
+        {
+            "procedure_name": "Urinary Sediment Examination",
+            "date": "Not specified",
+            "findings": "Initially revealed red cells, red-cell casts, and white-cell casts. Follow-up examination showed nondysmorphic red cells, and no cellular casts.",
+            "changes_over_time": "Progression from significant hematuria to nondysmorphic red cells indicated a change in source of bleeding within the urinary tract."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Two sets of blood cultures grew gram-negative rods.",
+            "changes_over_time": "Subsequent blood cultures were negative following antibiotic treatment."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Revealed mild bilateral perinephric stranding and diverticulosis with fat stranding, along with an abdominal aortic aneurysm (3.9 cm).",
+            "changes_over_time": "Increased perinephric fluid noted on repeat imaging without discrete abscess formation."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Showed normal ventricular function and no valvular calcifications.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

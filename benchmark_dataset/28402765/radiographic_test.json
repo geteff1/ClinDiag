@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "A right apical soft-tissue lesion (4.0 cm), enlarged bilateral axillary lymph nodes (up to 1.8 cm), and a large retroperitoneal soft-tissue mass extending into both kidneys with hydronephrosis of the right kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Three days after initial presentation",
+            "findings": "A massive conglomerate of enlarged lymph nodes from the level of the celiac axis to below the aortic bifurcation, marked attenuation of renal vessels, hydronephrosis of the right kidney, infiltration of soft tissue into the left kidney, and extension into the small-bowel mesentery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat CT scan of the abdomen and pelvis",
+            "date": "Two weeks after initial presentation",
+            "findings": "Unchanged results from previous studies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan at the end of the initial treatment course",
+            "date": "Not specified",
+            "findings": "Complete resolution of the retroperitoneal mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the thighs",
+            "date": "4.5 years after initial presentation",
+            "findings": "A subcutaneous nodule in the thigh.",
+            "changes_over_time": "Evidence of an increase in the size of a nodule in the apical lung three months after the initial treatment."
+        }
+    ]
+}

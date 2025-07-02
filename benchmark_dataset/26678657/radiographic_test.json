@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A large 9 x 11 x 4 cm ill-defined mass of the head and neck of the pancreas, invading the celiac axis and encasing the celiac artery, superior mesenteric and splenic arteries and veins, compressing the portal vein confluence. Several enlarged loco-regional lymph nodes.",
+            "changes_over_time": "The primary tumor size increased from 9 cm to 12 cm in its greatest dimension."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "The primary tumor size increased from 9 cm to 12 cm in its greatest dimension."
+        },
+        {
+            "procedure_name": "68-Gallium DOT-ATATE-PET/CT",
+            "date": "Not specified",
+            "findings": "A large central lesion in the abdomen with a maximum standardized uptake value of 58, corresponding to the pancreatic head mass.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

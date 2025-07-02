@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Semen examination",
+            "date": "Not specified",
+            "findings": "S. haematobium eggs were found in semen specimens from patients 1, 3, and 4.",
+            "changes_over_time": "A second examination of semen specimens revealed the presence of schistosomal eggs."
+        },
+        {
+            "procedure_name": "Prostate biopsy",
+            "date": "Not specified",
+            "findings": "S. haematobium eggs were found in a prostate biopsy specimen from patient 2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serological testing by FAST-ELISA",
+            "date": "Not specified",
+            "findings": "Positive results for Schistosoma species.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transrectal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal for all but 1 patient who had an enlarged prostate.",
+            "changes_over_time": "At follow-up, the size of the prostate had returned to normal for patient 2."
+        }
+    ]
+}

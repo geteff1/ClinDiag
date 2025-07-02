@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "10 months before admission",
+            "findings": "Enhancement of the genu and rostrum of the corpus callosum; T2-weighted signal abnormality in the white matter and cortex of the left frontal, temporal, and parietal lobes.",
+            "changes_over_time": "Resolution of these findings occurred 4 months later; however, imaging from the second admission showed edema on FLAIR images of the left anterior and medial temporal lobe and extensive enhancement in the left frontal lobe."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Showed no evidence of venous obstruction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "3 weeks before admission",
+            "findings": "New white-matter changes in the internal capsule on the right, multifocal left hemispheric white-matter changes, stable encephalomalacia of the left frontal and temporal lobes, and diffuse cerebral volume loss.",
+            "changes_over_time": "New areas of patchy enhancement and signal abnormalities were observed at the time of second admission."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Progression of previous signal abnormalities seen on T2-weighted and FLAIR images; new areas of patchy enhancement in the left temporal lobe and diffuse cord enhancement.",
+            "changes_over_time": "Continued progression of signal abnormalities noted."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Patchy consolidation of the posterior segment of the right upper lobe and consolidation of the right lower lobe.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

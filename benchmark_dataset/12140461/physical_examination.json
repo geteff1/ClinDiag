@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "3350 g",
+                "length": "53 cm",
+                "head_circumference": "36.5 cm"
+            },
+            "relevant_findings": {
+                "pigmented_nevi": "Multiple, small-to-large, dark brown to black nevi involving approximately 70% of body surface area, predominantly over the scalp, neck, back, and buttocks.",
+                "scalp_nodules": "Two firm, 1 cm blue-black nodules over the anterior fontanel.",
+                "facial_asymmetry": "Facial and scalp asymmetry with diffuse right-sided enlargement.",
+                "ophthalmologic_findings": "Multiple eyelid margin acrochordons, a medial perilimbal conjunctival nodule, and a lateral corneal-scleral dermoid."
+            },
+            "changes_over_time": "No evidence of metastatic malignant melanoma was present at the 17-month follow-up."
+        }
+    ]
+}

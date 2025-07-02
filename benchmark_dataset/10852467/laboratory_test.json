@@ -1,0 +1,19 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "1986",
+            "findings": {
+                "Patient B1": {
+                    "TSH": "5.8 mIU/L",
+                    "FTI": "21.8"
+                },
+                "Patient B2": {
+                    "FTI": "17.5",
+                    "TSH": "30 mIU/L"
+                }
+            },
+            "changes_over_time": "Patient B1's previous TSH was more than 64 mIU/L and serum T4 was 9.0 mg/dL, suggesting the likelihood of THR; thus, there was a normalizing trend in TSH and FTI over time."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal Ultrasonography (US)",
+            "date": "Not specified",
+            "findings": "Cystic mass with septation in the abdomen, accompanied by pelvocalyectasis of the left kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT urography",
+            "date": "Not specified",
+            "findings": "Multiple cystic masses in the upper to lower abdomen with pelvocalyectasis of the left kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan 3D Urography",
+            "date": "Not specified",
+            "findings": "Did not visualize the normal structure of the kidney and left ureter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (T2WI sequence)",
+            "date": "Not specified",
+            "findings": "Thick-walled cystic mass resembling a tortuous tubular structure connected with the pelvicalyceal system without any distal obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Voiding Cystoureterography (VCUG)",
+            "date": "Not specified",
+            "findings": "Found no reflux.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

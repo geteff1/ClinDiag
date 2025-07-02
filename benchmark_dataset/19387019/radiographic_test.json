@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Extensive air-space opacity throughout the right lung, with dense consolidation in the right upper lobe surrounding a central cavity, approximately 6 cm in diameter; patchy air-space opacity in the left lower lobe; a right pleural effusion layered posteriorly; no pneumothorax.",
+            "changes_over_time": "Repeat chest radiograph showed a large right-sided tension pneumothorax, displacement of mediastinal structures to the left, and complete collapse of the right lung; air-space opacity in the left lower lobe was unchanged. Follow-up radiograph showed partial reexpansion of the right upper lobe, a poorly defined opacity in the left lung, and no pleural effusion. Final radiograph showed almost complete resolution of the pneumothorax, increased diffuse air-space opacity in both lungs consistent with pulmonary edema, and bilateral pleural effusions."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "New right internal jugular catheter extending to superior vena cava, right tension pneumothorax with virtual collapse of the entire right lung and mediastinal structures shifted to the left.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Right chest tube in place, partial reexpansion of the right lung but persistent consolidation, atelectasis, and pneumothorax; mild interstitial pulmonary edema in the left lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Second chest tube in right hemithorax; almost complete resolution of the pneumothorax; increasing diffuse air-space opacity in both lungs, consistent with pulmonary edema and bilateral pleural effusions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

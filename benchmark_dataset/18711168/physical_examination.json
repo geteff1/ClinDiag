@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "leukocyte_count": "12.57 x 10^9 cells/L",
+                "erythrocyte_sedimentation_rate": "68 mm/h",
+                "C_reactive_protein_level": "73 mg/L"
+            },
+            "relevant_findings": "Recurrent fever, oral and genital ulcers, positive pathergy test, anemia, elevated erythrocyte sedimentation rate and C-reactive protein level.",
+            "changes_over_time": "After starting anakinra (100 mg/d), there was a dramatic remission in fever and marked improvement in oral and genital ulcers within 7 to 10 days, with culture of blood and sputum negative."
+        },
+        {
+            "date": "May 2006",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "leukocyte_count": "Not specified",
+                "erythrocyte_sedimentation_rate": "28% decrease",
+                "C_reactive_protein_level": "86% decrease"
+            },
+            "relevant_findings": "Significant reduction in fever and improvement in oral and genital ulcers with escalated anakinra dosage.",
+            "changes_over_time": "When anakinra was reduced to alternate days, oral ulcers and fever reappeared but resolved upon returning to daily dosing."
+        }
+    ]
+}

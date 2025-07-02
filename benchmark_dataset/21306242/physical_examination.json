@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "97/52 mm Hg",
+                "pulse": "113 bpm",
+                "respiratory_rate": "26 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Patient was alert.",
+                "abdomen": "Soft, neither distended nor tender, no organomegaly or mass.",
+                "musculoskeletal": "Tenderness in lumbosacral region over bones and paraspinal muscles, more on left side. Pain increased with sitting and leg flexion. Brisk and symmetric deep-tendon reflexes, normal plantar responses."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

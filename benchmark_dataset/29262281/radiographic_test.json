@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Posteroanterior and lateral chest radiography",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) angiography of the chest",
+            "date": "Not specified",
+            "findings": "No evidence of aortic dissection or proximal pulmonary embolism. The aorta appeared normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography of the head, neck, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Vessels in the head and neck were patent with no evidence of aneurysm, dissection, or luminal irregularity. Delayed-phase images showed multiple small, bilateral, wedge-shaped cortical defects consistent with remote renal infarctions.",
+            "changes_over_time": "Subtle luminal irregularities in renal arteries consistent with previous renal-artery dissections were noted, but no findings suggestive of fibromuscular dysplasia."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Filling defect in the first obtuse marginal branch of the left circumflex coronary artery with sudden, diffuse narrowing of the vessel lumen and an irregular filling pattern, consistent with coronary-artery dissection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

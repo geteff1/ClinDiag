@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "89 bpm",
+                "blood_pressure": "105/72 mm Hg",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "jugular_vein_pressure": "Elevated jugular venous pressure present",
+                "cardiac_auscultation": "Normal point of maximal impulse, regular rate and rhythm, normal S1 and S2, soft I/VI systolic murmur at left upper sternal border",
+                "neurological_examination": "Symmetrical weakness in a proximal distribution, more pronounced in lower extremities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "24 hours after admission",
+            "vital_signs": {
+                "pacemaker_threshold": "Increased threshold of 2.0 V compared to 0.75 V 4 months prior"
+            },
+            "relevant_findings": "Several episodes of failed right ventricular capture noted",
+            "changes_over_time": "Increased threshold indicated a change in pacemaker function"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant variability of myofiber size and disturbed intermyofibrillar network found in muscle biopsy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

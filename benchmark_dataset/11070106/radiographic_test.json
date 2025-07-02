@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Six months before admission",
+            "findings": "No abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI study of the brain",
+            "date": "Two months before admission",
+            "findings": "A mass in the pituitary gland that was 13 mm in vertical dimension, 16 mm in transverse dimension, and 12 mm in anteroposterior dimension. The mass was enhanced with contrast material and was slightly heterogeneous, displacing the optic chiasm superiorly and extending into the hypophyseal stalk.",
+            "changes_over_time": "The findings on radiologic examination of the chest were unchanged from those on examination 29 months earlier."
+        },
+        {
+            "procedure_name": "MRI study of the brain",
+            "date": "Not specified",
+            "findings": "A pituitary mass, 11 mm in vertical dimension, that extended into the suprasellar cistern just inferior to the optic chiasm with multiple small, discrete areas of increased T2-weighted signal in the subcortical periventricular white matter, especially on the left side.",
+            "changes_over_time": "The findings on radiologic examination of the chest were unchanged from those on examination 29 months earlier."
+        },
+        {
+            "procedure_name": "Chest radiologic examination",
+            "date": "Not specified",
+            "findings": "Bilateral reticular and cystic changes in the upper lobes of the lungs, particularly in the apex of the right lung; the mediastinum appeared normal.",
+            "changes_over_time": "Unchanged from the examination performed 29 months earlier."
+        }
+    ]
+}

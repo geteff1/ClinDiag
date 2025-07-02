@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin": "Nonpruritic, macular and urticarial lesions on the face, back, and lower extremities",
+                "eye": "Bilateral conjunctival hyperemia without drainage",
+                "joint": "Limited active and passive range of motion in the right ankle and knee secondary to pain symptoms"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

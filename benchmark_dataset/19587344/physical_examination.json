@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.8°C",
+                "blood_pressure": "118/74 mm Hg",
+                "pulse": "74 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general_appearance": "Pale and tired",
+                "abdominal_examination": "Soft and mildly tender to deep palpation in epigastric and suprapubic regions, normal bowel sounds, no distention, no abdominal bruits",
+                "distal_pulses": "Normal",
+                "rectal_examination": "Normal",
+                "stool": "No blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

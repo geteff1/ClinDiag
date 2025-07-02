@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "No air-space disease or cardiac enlargement; a small, ill-defined fullness was observed along the right mediastinum, possibly attributable to the prominence of the great vessels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Systolic ejection fraction was 52%; inferolateral and inferior hypokinesis; both ventricles appeared unusually thickened and edematous; a small pericardial effusion was seen.",
+            "changes_over_time": "A repeat echocardiogram showed deterioration, with severe, global systolic dysfunction of the left ventricle and an ejection fraction of 24%; later showed recovery of left ventricular systolic function, with no signs of myocardial edema or hypokinesis."
+        },
+        {
+            "procedure_name": "transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "A large pericardial effusion was identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

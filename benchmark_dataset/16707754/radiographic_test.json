@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "Ascites, hepatofugal flow in the right portal vein, hepatopedal flow in the left portal and splenic veins, recanalized umbilical vein, and left and right hepatic veins not visualized.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Eighth hospital day",
+            "findings": "Narrow intrahepatic inferior vena cava.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Coarse echogenic liver, ascites, enlarged spleen (14.5 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Venography",
+            "date": "Fourth hospital day",
+            "findings": "Narrowing of the intrahepatic portion of the inferior vena cava; hepatic veins not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

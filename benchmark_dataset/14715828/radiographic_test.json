@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray of the hand",
+            "date": "Not specified",
+            "findings": "Bone age of 15 years with unfused metacarpal and phalangeal epiphyses.",
+            "changes_over_time": "Bone age did not show any change until phase 5, where it was observed to increase to 16 years after 6 months of transdermal estradiol treatment."
+        },
+        {
+            "procedure_name": "Bone densitometry",
+            "date": "Not specified",
+            "findings": "BMD in phase 1 showed a pattern of osteoporosis.",
+            "changes_over_time": "BMD increased slightly at the lumbar spine after 14 months of testosterone treatment, and significantly after 6 months of estradiol treatment, reaching values that were maintained during the subsequent treatment."
+        },
+        {
+            "procedure_name": "Echo-Doppler study of the carotid arteries",
+            "date": "Not specified",
+            "findings": "Two lipid plaques in the left common and internal carotid of 4 mm and 3 mm thickness, respectively.",
+            "changes_over_time": "Plaque sizes reduced to 2.5 mm and 2 mm after 6 months of transdermal estradiol treatment, followed by complete disappearance of the plaques."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Pattern of nonalcoholic steatohepatitis (NASH).",
+            "changes_over_time": "Improvement of liver function and morphology was observed during estradiol treatment."
+        }
+    ]
+}

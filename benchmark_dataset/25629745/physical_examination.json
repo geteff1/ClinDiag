@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "108/67 mm Hg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "10 breaths per minute",
+                "oxygen_saturation": "97%",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "GCS score 4; pupils 3 mm, round, reactive to light; skin pink, warm, dry; normal capillary blood glucose (108 mg/dL); otherwise normal examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "108/67 mm Hg",
+                "pulse": "88 bpm",
+                "respiratory_rate": "15 breaths per minute",
+                "oxygen_saturation": "97%",
+                "temperature": "36.2°C"
+            },
+            "relevant_findings": "GCS score 8; pupils 3 mm, briskly reactive to light; lungs clear, diminished breath sounds at bases; normal heart sounds; soft abdomen.",
+            "changes_over_time": "Initial GCS improved from 4 to 8."
+        },
+        {
+            "date": "4 hours after presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Clinically significant QTc prolongation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7.5 hours after presentation",
+            "vital_signs": {
+                "blood_pressure": "109/64 mm Hg",
+                "pulse": "105 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Normal",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Increased abdominal fullness consistent with bladder distention; indwelling urinary catheter placed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10 hours after presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Small increase in serum anion gap; further drop in serum bicarbonate level.",
+            "changes_over_time": "Continued decrease in bicarbonate level from 8.3 to 5.7 mmol/L."
+        }
+    ]
+}

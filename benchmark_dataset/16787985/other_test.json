@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Skin biopsy revealed a homozygous frameshift mutation in the STAT5b gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western Blotting",
+            "date": "Not specified",
+            "findings": "Total STAT5b could not be detected in protein extracts from the patient’s fibroblasts, indicating the protein is biologically inactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GH Response Test",
+            "date": "Not specified",
+            "findings": "Maximal GH response to GHRH was considered normal at 25 /H9262g/liter.",
+            "changes_over_time": "At age 30, the maximal GH response after insulin was 37.0 mU/liter, which is also considered to be a normal response."
+        },
+        {
+            "procedure_name": "Plasma Prolactin Level Measurement",
+            "date": "Not specified",
+            "findings": "Elevated plasma prolactin level measured at 1.4 U/liter at age 16.",
+            "changes_over_time": "At age 30, serum prolactin was markedly elevated at 110 U/liter."
+        },
+        {
+            "procedure_name": "Treatment Trial with Recombinant Human GH",
+            "date": "Not specified",
+            "findings": "IGF-I levels increased slightly during treatment with recombinant human GH.",
+            "changes_over_time": "IGF-I levels increased only slightly to 5.8 nmol/liter after treatment."
+        }
+    ]
+}

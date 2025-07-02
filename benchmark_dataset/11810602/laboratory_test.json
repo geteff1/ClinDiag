@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Peripheral WBC count",
+            "date": "Not specified",
+            "findings": "16.0 cells/mL, with 75% segmented neutrophils, 13% bands, 8% lymphocytes, 4% monocytes, and 0% eosinophils.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "98 mm/h.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF WBC count",
+            "date": "Not specified",
+            "findings": "275 WBCs/mL, with 83% segmented neutrophils, 2% bands, 8% lymphocytes, 7% monocytes, and 377 RBCs/mL.",
+            "changes_over_time": "CSF pleocytosis resolved by the 14th hospital day."
+        },
+        {
+            "procedure_name": "CSF total protein level",
+            "date": "Not specified",
+            "findings": "160 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF glucose level",
+            "date": "Not specified",
+            "findings": "79 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Delta-wave activity consistent with diffuse, severe encephalopathy.",
+            "changes_over_time": "Intermittent sharp contoured forms bitemporally with right-sided predominance observed on a second recording."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Severe right-sided cerebral edema with midline shift.",
+            "changes_over_time": "A second CT scan showed severe, worsened right-sided cerebral edema."
+        }
+    ]
+}

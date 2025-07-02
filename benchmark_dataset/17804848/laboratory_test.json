@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Positive for group C streptococcus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count was 7400 per cubic millimeter, hematocrit was 28.1%, platelet count was 304,000.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "16 mg per deciliter (5.7 mmol per liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.5 mg per deciliter (133 μmol per liter).",
+            "changes_over_time": "Slight increase in baseline creatinine level post-surgery."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "91 mm per hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "0.35 μg per deciliter (normal value, <0.5).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain natriuretic peptide (BNP)",
+            "date": "Not specified",
+            "findings": "1020 pg per milliliter (normal value, <73).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Peripheral-blood smear",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Day 2",
+            "findings": "One of two sets positive for E. cloacae, two of two sets positive for E. faecalis.",
+            "changes_over_time": "Reappearance of E. faecalis in blood cultures is evidence of an incompletely treated endovascular infection."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Normal ventricular function, moderately calcific aortic valve, no major stenosis or regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Indium-labeled white-cell study",
+            "date": "Not specified",
+            "findings": "No findings to suggest focal active infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Day 8",
+            "findings": "Positive for Candida albicans.",
+            "changes_over_time": "Isolation of an additional gut commensal bacteria again points to gastrointestinal-vascular communication."
+        }
+    ]
+}

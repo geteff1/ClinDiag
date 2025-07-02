@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Initial blood glucose level of 4 mg/dL (0.2 mmol/L) at 1 hour after birth, normalized after intravenous fluids. On admission, blood glucose was 182 mg/dL (10.1 mmol/L; reference range 70-106 mg/dL). Following a fast, blood glucose was found to be 39 mg/dL (2.2 mmol/L), decreased to 13 mg/dL (0.7 mmol/L) after glucagon administration.",
+            "changes_over_time": "Decreased blood glucose levels during fasting episodes, with initial normalization after feeding. Significant hypoglycemia occurred after a 6-hour fast."
+        },
+        {
+            "procedure_name": "White Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC count of 20,300 per cubic millimeter (reference range 5,500 to 18,000).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anion Gap",
+            "date": "Not specified",
+            "findings": "Anion gap of 26 millimoles per liter (reference range 3 to 11) on presentation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Bicarbonate",
+            "date": "Not specified",
+            "findings": "Bicarbonate level was 9 mmol per liter (reference range 21 to 32).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "40 Minutes after Admission",
+            "findings": "Plasma sodium of 134 mmol/L; potassium elevated at 7.9 mmol/L; calcium at 11.6 mg/dL; creatinine remained at 0.26 mg/dL.",
+            "changes_over_time": "Previous potassium level was normal, indicating acute elevation possibly due to sample hemolysis."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Clear, colorless urine with specific gravity of 1.005 and pH of 6.0; ketones were absent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "The following morning after admission",
+            "findings": "Insulin level of 6.0 μIU/mL (reference range 2.6 to 25.0), noted to be hemolyzed.",
+            "changes_over_time": "A subsequent test showed a repeat insulin level of <0.2 μIU/mL during another episode of hypoglycemia."
+        },
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "Not specified",
+            "findings": "Lactic acid measured at 8.0 mmol per liter initially, later decreased to 6.1 mmol per liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "β-Hydroxybutyrate",
+            "date": "Not specified",
+            "findings": "Initial level of 1.1 mmol per liter (reference <0.4).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "Triglyceride level at 1723 mg/dL (reference range 40 to 150).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Pyruvate",
+            "date": "Not specified",
+            "findings": "Blood pyruvate level was elevated at 0.44 mmol/L (reference range 0.08 to 0.16).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Uric Acid",
+            "date": "Not specified",
+            "findings": "Elevated uric acid at 7.1 mg/dL (reference range 2.0 to 5.5).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

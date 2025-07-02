@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "blood_pressure": "112/75 mm Hg",
+                "pulse": "93 bpm",
+                "respiratory_rate": "Not specified",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Photophobia with discomfort on upward gaze",
+                    "Supple neck",
+                    "Innumerable brown-gray macules on trunk and face",
+                    "Slightly injected conjunctivae",
+                    "Diffusely red tonsils with sparse white exudate",
+                    "Tender, mobile, soft lymph node in left submandibular area approximately 4 cm in diameter",
+                    "Smaller palpable cervical, inguinal nodes bilaterally, and right axilla",
+                    "Tenderness to palpation along the lateral ribs below the nipple line, more on right side than left"
+                ],
+                "date_recorded": "3 days before admission"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C; rose to 38.3°C within 2 hours; 39.2°C later in the day",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "28 breaths per minute",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Bilateral posterior cervical lymphadenopathy",
+                    "Erythematous oropharynx with no exudate or tonsillar enlargement",
+                    "Discomfort on neck flexion with full range of motion",
+                    "Abdominal guarding",
+                    "Erythematous, blanching rash covering chest and upper back, no papules or nodules"
+                ],
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "The lesions on the chest and back had faded."
+        }
+    ]
+}

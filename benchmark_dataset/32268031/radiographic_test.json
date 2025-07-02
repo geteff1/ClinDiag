@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Areas of ill-defined hypoattenuation in the deep frontal white matter and striatal region on the left side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Expansile lesion in the deep gray nuclei and deep white matter on the left side with signal hyperintensity on T2-weighted imaging, increased perfusion on arterial spin labeling imaging, and a 4-mm focus of restricted diffusion in the left globus pallidus and posterior limb of the left internal capsule.",
+            "changes_over_time": "Associated mass effect with partial effacement of the left lateral ventricle and a rightward midline shift of 7 mm."
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Mildly enlarged kidneys with normal parenchymal echotexture, left kidney with multiple simple-appearing cysts; no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Splenomegaly but otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron-emission tomography",
+            "date": "Not specified",
+            "findings": "Nonspecific foci of moderate FDG uptake in a multinodular goiter, no other abnormal FDG uptake.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/60 mmHg",
+                "pulse": "80 bpm",
+                "height": "65.3 inches",
+                "weight": "295 pounds",
+                "body_mass_index": "48.8"
+            },
+            "relevant_findings": {
+                "appearance": "Cushingoid-appearing",
+                "acanthosis_nigricans": "present on neck and elbows",
+                "facial_rounding": "present",
+                "plethora": "present",
+                "supraclavicular_fullness": "increased",
+                "muscle_strength": "good",
+                "peripheral_edema": "trace of pretibial edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "132/84 mmHg",
+                "pulse": "80 bpm",
+                "weight": "312 pounds",
+                "body_mass_index": "44.8"
+            },
+            "relevant_findings": {
+                "appearance": "slightly Cushingoid-appearing",
+                "facial_rounding": "mild",
+                "plethora": "some",
+                "supraclavicular_fullness": "some increase",
+                "facial_hirsutism": "present",
+                "muscle_strength": "good",
+                "peripheral_edema": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

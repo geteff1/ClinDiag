@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Bilateral malformation of cortical development involving the parietal and occipital lobes, and the posterior parts of the temporal lobes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Video EEG telemetry",
+            "date": "Not specified",
+            "findings": "Increased frequency of habitual seizures; posterior rhythmic slowing evolved into regional spiking; new seizure type described as thrashing and kicking of limbs.",
+            "changes_over_time": "After VNS was switched off, the new seizure type ceased and the patient’s habitual seizures settled down to the preimplantation baseline."
+        }
+    ]
+}

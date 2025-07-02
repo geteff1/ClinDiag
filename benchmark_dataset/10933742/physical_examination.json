@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6 °C",
+                "pulse": "76 bpm",
+                "blood_pressure": "130/75 mm Hg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general_physical_examination": "No important abnormalities.",
+                "neurologic_examination": {
+                    "alertness": "Fully alert and oriented",
+                    "speech": "Fluent",
+                    "cranial_nerve_function": "Intact",
+                    "motor_strength": "5/5 throughout, normal bulk and tone",
+                    "sensation": "Normal",
+                    "tendon_reflexes": "Normal",
+                    "coordination": "Normal",
+                    "gait": "Normal",
+                    "urine": "Normal"
+                },
+                "imaging": {
+                    "MRI": "Focus of abnormal magnetic susceptibility in the medial portion of the left temporal lobe; mucosal thickening in the right sphenoid and ethmoid sinuses.",
+                    "CT": "Calcific lesion within the tip of the left temporal lobe."
+                }
+            },
+            "changes_over_time": "MRI and CT findings indicate a stable calcific lesion in the left temporal lobe; no changes noted in comparisons over time."
+        },
+        {
+            "date": "At age 17 years",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lumbar_puncture": {
+                    "appearance": "Clear, colorless",
+                    "initial_pressure": "156 mm of water",
+                    "glucose": "67 mg/dl",
+                    "total_protein": "29 mg/dl",
+                    "cells": "2 lymphocytes",
+                    "cultures": "Negative"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 23 years",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "seizure_activity": {
+                    "frequency": "6 times weekly; usually 2-3 times a week",
+                    "aura": "Warmth on the right side of the head",
+                    "postictal_state": "Confusion and combativeness for up to 30 minutes"
+                },
+                "neurologic_examination": "Similar findings as described in the previous exams with no new abnormalities noted."
+            },
+            "changes_over_time": "No significant changes in the laboratory findings; however, the seizure frequency and nature persisted."
+        }
+    ]
+}

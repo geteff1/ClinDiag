@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0°C",
+                "heart_rate": "145 bpm",
+                "respiratory_rate": "32 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Fussy but consolable, mildly ill, multiple discrete, mobile, mildly enlarged, superficial cervical lymph nodes bilaterally, remainder of examination was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "heart_rate": "193 bpm",
+                "respiratory_rate": "60 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Mild respiratory distress, dry lips, nasal flaring, suprasternal, intercostal, and subcostal retractions, remainder of the examination unchanged.",
+            "changes_over_time": "Signs of respiratory distress increased, with decreased oral intake and urine output."
+        }
+    ]
+}

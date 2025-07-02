@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Elevated at 246 U/L (previously 236 U/L)",
+            "changes_over_time": "Increased from 236 U/L to 246 U/L"
+        },
+        {
+            "procedure_name": "Alpha-Hydroxybutyrate Dehydrogenase (alpha-HBDH)",
+            "date": "Not specified",
+            "findings": "Elevated at 232 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Lactic Acid",
+            "date": "Not specified",
+            "findings": "Slightly increased at 8.7 mmol/L in resting state",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Myositis Autoantibody Analysis",
+            "date": "Not specified",
+            "findings": "No myositis autoantibody found",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "No remarkable characteristics of muscle lesions, edema in short-tau inversion recovery (STIR) sequences",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological changes in mitochondrial inherited disorders and neuronal damage",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mitochondrial DNA Analysis",
+            "date": "Not specified",
+            "findings": "Heteroplasmic m3271 T>C mutation in the mitochondrial tRNA-Leu gene (UUR), with the proportion of mutant mtDNA reaching 87.4%",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

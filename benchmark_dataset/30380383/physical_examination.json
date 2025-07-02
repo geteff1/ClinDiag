@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C (99.4°F)",
+                "pulse": "86 bpm",
+                "blood_pressure": "118/64 mm Hg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "lungs": "diminished breath sounds and faint crackles at the left lung base, dullness to percussion",
+                "cardiac": "regular rate and rhythm, normal first and second heart sounds, no murmurs, rubs, or gallops",
+                "abdomen": "soft and nondistended, tenderness to deep palpation in the left upper quadrant",
+                "skin": "dry and without rash",
+                "neurologic": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

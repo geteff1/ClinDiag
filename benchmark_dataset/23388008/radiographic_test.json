@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper endoscopy",
+            "date": "Not specified",
+            "findings": "No blood, medium-sized hiatal hernia, nonobstructing Schatzki's ring at the gastro-esophageal junction, mild gastritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT with intravenous contrast",
+            "date": "Not specified",
+            "findings": "Prior aortoiliac repair, no evidence of an aortoenteric fistula or graft infection, two focal areas of hyperdensity in the distal jejunum.",
+            "changes_over_time": "No evidence of active bleeding when the CT was performed."
+        },
+        {
+            "procedure_name": "Technetium-99m–labeled red-cell scan",
+            "date": "Not specified",
+            "findings": "Increased tracer activity in the ascending and sigmoid colon, possibly in the transverse colon, with no clear uptake in the small bowel.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Two metallic clips in a midline position.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

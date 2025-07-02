@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Multiple subependymal nodules and cortical tubers bilaterally, low signal on T2-weighted images, high signal on T1-weighted images, no notable enhancement after contrast.",
+            "changes_over_time": "Stable cerebral tubers."
+        },
+        {
+            "procedure_name": "Ultrasound of the kidneys",
+            "date": "Not specified",
+            "findings": "Enlarged kidneys (right 7.5 cm; left 9.3 cm) with multiple large bilateral cysts (up to 4 cm), no solid mass.",
+            "changes_over_time": "Enlarging multicystic kidneys at 6 months (right 14.8 cm; left 15.7 cm)."
+        },
+        {
+            "procedure_name": "Renal MRI",
+            "date": "5 years 7 months",
+            "findings": "Innumerable cysts throughout both kidneys, largest cyst approximately 10.5 cm, thin septation within a complex cyst (2.3 cm), no solid lesions.",
+            "changes_over_time": "Increase in the size of the complex cyst, a change in appearance, and development of an irregular enhancing solid component (3.3 cm) at 6 years 8 months."
+        },
+        {
+            "procedure_name": "Renal MRI",
+            "date": "4 months after 6 years 8 months",
+            "findings": "Enlarging solid component with no increase in size of the complex cyst; cystic areas were smaller, central component more solid and enhanced.",
+            "changes_over_time": "Continued slight enlargement of the complex cyst; progressive increase in solid enhancing component noted."
+        }
+    ]
+}

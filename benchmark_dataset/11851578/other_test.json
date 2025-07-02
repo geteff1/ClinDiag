@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "November 17, 2001",
+            "findings": "Growth of gram-positive bacilli in chains detected in all 4 blood culture bottles after 14 hours of incubation.",
+            "changes_over_time": "Blood cultures obtained 3 hours following the initiation of antibiotic therapy were sterile."
+        },
+        {
+            "procedure_name": "Left Thoracentesis",
+            "date": "November 19, 2001",
+            "findings": "Yielded 800 mL of serosanguinous fluid, with 4224 red blood cells, 1463 white blood cells.",
+            "changes_over_time": "Bacterial culture of the fluid did not grow; subsequent testing was positive for B anthracis-specific PCR."
+        },
+        {
+            "procedure_name": "Postmortem Blood and Tissue Cultures",
+            "date": "Not specified",
+            "findings": "Growth of B anthracis was detected only from the mediastinal lymph node; all other postmortem specimens were sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG Antibody Testing",
+            "date": "November 16, 17, 18, and 19, 2001",
+            "findings": "All serum samples were nonreactive for IgG antibody to protective antigen component of anthrax toxins.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "November 21, 2001",
+            "findings": "More than 1 L of serosanguinous fluid in the right pleural cavity; mediastinal lymph nodes were enlarged and hemorrhagic.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

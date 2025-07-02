@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis, neutrophilia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "30 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test (TST)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "Not specified",
+            "findings": "Numerous acid-fast bacilli (AFB) observed; M. tuberculosis cultured from multiple sources",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Enlarged mediastinum, cardiomegaly, diffuse miliary pattern in both lungs",
+            "changes_over_time": "Normal findings after 9 months post-treatment for patient 1"
+        },
+        {
+            "procedure_name": "Gastric Aspirate Culture",
+            "date": "Not specified",
+            "findings": "Positive for M. tuberculosis in patient 2",
+            "changes_over_time": "Condition improved after treatment"
+        },
+        {
+            "procedure_name": "Serological Testing for S. Enteritidis",
+            "date": "Not specified",
+            "findings": "Positive among the 3 sisters (antibody response titer, 1:320)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph for patient 2",
+            "date": "After 9 months of treatment",
+            "findings": "Complete clearance of lung infiltrates and resolution of mediastinal enlargement",
+            "changes_over_time": "Condition improved after treatment"
+        }
+    ]
+}

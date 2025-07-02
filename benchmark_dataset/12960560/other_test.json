@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin prick test",
+            "date": "Not specified",
+            "findings": "Produced a 9-mm wheal and a 30-mm flare at 15 min in response to latex.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intravenous tryptase and histamine assay",
+            "date": "Not specified",
+            "findings": "Tryptase concentration was 26.4 µg/l (normal value <12 µg/l), and histamine concentration was 68.2 nM (normal value <9 nM).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulin E testing",
+            "date": "Not specified",
+            "findings": "Latex-specific immunoglobulin E was 2.39 kU/l (normal value <0.35 kU/l).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basophil degranulation test",
+            "date": "Not specified",
+            "findings": "Degranulation was 16% for latex and 17% for avocado.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "During surgery",
+            "findings": "Severe right ventricular dysfunction with RV-fractional area change increased from 18% pre-CPB to 38% post-CPB.",
+            "changes_over_time": "Significant improvement post-CPB."
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Severe pulmonary hypertension diagnosed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary artery pressure and systemic pressure measurement after inhaled iloprost",
+            "date": "Not specified",
+            "findings": "Pulmonary artery pressure and PVR decreased significantly after administration.",
+            "changes_over_time": "PVR/SVR ratio was increased after CPB compared to preoperative values."
+        }
+    ]
+}

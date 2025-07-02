@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Umbilical Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.35",
+                "Partial pressure of oxygen": "47 mm Hg",
+                "Partial pressure of carbon dioxide": "22 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": {
+                "Blood glucose": "134 mg/dL (7.4 mmol/L) after infusion"
+            },
+            "changes_over_time": "Blood glucose decreased from 72 mg/dL to 34 mg/dL, then rose to 134 mg/dL."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "On Admission to NICU, 3.75 hours after birth",
+            "findings": {
+                "Hematocrit": "49.7% (ref 42.0–60.0)",
+                "Hemoglobin": "16.7 g/dL (ref 13.5–19.5)",
+                "White-cell count": "8100/mm3 (ref 9000–30,000)",
+                "Platelets": "239,000/mm3"
+            },
+            "changes_over_time": "Hematocrit decreased to 37.0% by 7th day of life; White-cell count increased to 15,300/mm3 by 7th day of life."
+        },
+        {
+            "procedure_name": "Blood Gas Analysis",
+            "date": "6th Day of Life",
+            "findings": {
+                "pH": "7.11",
+                "Partial pressure of carbon dioxide": "75 mm Hg",
+                "Partial pressure of oxygen": "19 mm Hg"
+            },
+            "changes_over_time": "pH decreased from 7.35 to 7.11; partial pressure of carbon dioxide increased from 47 mm Hg to 75 mm Hg."
+        }
+    ]
+}

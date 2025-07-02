@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "pulse": "135 bpm",
+                "temperature": "36.3°C",
+                "respiratory_rate": "36 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "neurologic_exam": "Appeared somnolent and mildly difficult to arouse, fussy but consolable; normal neurologic examination between episodes.",
+                "abdominal_exam": "No evidence of an acute abdomen."
+            },
+            "changes_over_time": "Lethargy increased, with episodes of unresponsiveness lasting longer, progressing from 2-3 seconds to 30-60 seconds."
+        }
+    ]
+}

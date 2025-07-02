@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR tests for nonvariola orthopoxvirus",
+            "date": "Hospital day 6",
+            "findings": "Nonvariola orthopoxvirus was detected in vesicular scrapings and viral culture supernatant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Staphylococcus aureus culture",
+            "date": "Not specified",
+            "findings": "Staphylococcus aureus was isolated from initial blood and skin cultures.",
+            "changes_over_time": "Subsequent cultures showed no bacterial growth."
+        },
+        {
+            "procedure_name": "Vaccinia virus DNA load measurement",
+            "date": "From hospital day 7 to day 18",
+            "findings": "Vaccinia virus DNA load showed a decreasing trend from day 7 onward and was undetectable at day 18.",
+            "changes_over_time": "The load decreased daily until it became undetectable by day 18."
+        },
+        {
+            "procedure_name": "Complete blood cell count with differential",
+            "date": "Not specified",
+            "findings": "Hematologic complications included neutropenia, anemia, and thrombocytopenia; all complications resolved.",
+            "changes_over_time": "All hematologic complications resolved while the child continued treatment."
+        },
+        {
+            "procedure_name": "Anti-orthopoxvirus IgM and IgG testing",
+            "date": "Hospital day 6",
+            "findings": "No detectable orthopoxvirus-specific IgG response but high IgM antibody level and elevated serum vaccinia virus-neutralization titer.",
+            "changes_over_time": "Maximum IgG levels were achieved between hospital days 12 and 18."
+        },
+        {
+            "procedure_name": "Plasma concentration monitoring of ST-246",
+            "date": "From hospital day 10",
+            "findings": "Plasma levels were adjusted based on pharmacokinetic data.",
+            "changes_over_time": "Doses were adjusted daily based on monitored plasma levels until treatment was discontinued."
+        }
+    ]
+}

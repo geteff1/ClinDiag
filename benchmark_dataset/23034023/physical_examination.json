@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 138/73 mm Hg, Pulse: 63 bpm, Temperature: 36.7°C, Oxygen saturation: 98%",
+            "relevant_findings": "Scleral icterus; soft, nontender abdomen with liver edge palpable less than one finger breadth below costal margin; no splenomegaly or ascites; patient not confused and had no asterixis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three and a half years previously",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Mildly elevated liver-enzyme levels; aspartate aminotransferase: 40 U/L (reference range, 2 to 35), alanine aminotransferase: 47 U/L (reference range, 0 to 45); alkaline phosphatase, bilirubin, and albumin were normal.",
+            "changes_over_time": "Elevated liver enzyme levels persisted; aspartate aminotransferase increased to 63 U/L and alanine aminotransferase to 93 U/L after increasing simvastatin dosage."
+        },
+        {
+            "date": "One year before current presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Liver enzyme levels were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Aspartate aminotransferase: 1545 U/L, Alanine aminotransferase: 2655 U/L, Alkaline phosphatase: 399 U/L, Total bilirubin: 5.3 mg/dL, Direct bilirubin: 4.0 mg/dL, Albumin: 3.8 g/dL",
+            "relevant_findings": "Severe liver injury consistent with hepatocellular injury; pattern of elevated aminotransferase levels.",
+            "changes_over_time": "Liver enzyme levels were elevated indicating acute liver injury; previously stable, the patient was asymptomatic."
+        },
+        {
+            "date": "At discharge",
+            "vital_signs": "Aspartate aminotransferase: 1588 U/L, Alanine aminotransferase: 2483 U/L, Alkaline phosphatase: 503 U/L, Total bilirubin: 7.8 mg/dL, INR: 1.1",
+            "relevant_findings": "The patient remained asymptomatic; liver enzyme levels were still significantly elevated at discharge.",
+            "changes_over_time": "Liver enzyme levels had slightly decreased from the initial presentation but remained markedly elevated."
+        }
+    ]
+}

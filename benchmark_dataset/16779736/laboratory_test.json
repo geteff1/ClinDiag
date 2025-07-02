@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "Not specified",
+            "findings": "9500 cells/mm3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "42 mL/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin level",
+            "date": "Not specified",
+            "findings": "13.4 g/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid factor test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-nuclear antibody test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "One month after starting MDT",
+            "findings": "12,900 cells/mm3 (76.9% granulocytes, 19.7% lymphocytes)",
+            "changes_over_time": "Increased from previous count of 7400 cells/mm3 during the same timeframe."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "198 mL/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin level",
+            "date": "Not specified",
+            "findings": "11.6 g/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Neuropathic changes in all extremities, with abnormal compound muscle action potentials and sensory nerve action potentials",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "6 months after starting MDT",
+            "findings": "Increased organization and decreased extent of inflammation, reduced bacterial load",
+            "changes_over_time": "Consistent with upgrading of the immune response."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "5 years after diagnosis",
+            "findings": "Advanced regression of the lesion with no residual bacilli",
+            "changes_over_time": "Cutaneous lesions had resolved."
+        }
+    ]
+}

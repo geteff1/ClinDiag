@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "blood_pressure": "110/68 mm Hg",
+                "pulse": "105 bpm",
+                "respiration_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "spleen": "Firm, nontender, extended below pelvic brim",
+                "icterus": "Mild scleral icterus",
+                "edema": "Edematous legs",
+                "lymphadenopathy": "No peripheral lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

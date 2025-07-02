@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "72 bpm",
+                "height": "180 cm",
+                "weight": "57 kg"
+            },
+            "relevant_findings": {
+                "cognitive_status": "severe mental retardation (IQ 35-49)",
+                "auditory_status": "moderate to severe hearing loss (72 dB air, 55 dB bone)",
+                "neurological_status": "dysphasia, difficulty in walking, and dystonic movements of the neck, chin, and wrists",
+                "thyroid_status": {
+                    "thyroid_ultrasonography": {
+                        "right_lobe": "0.95 x 0.64 x 3.6 cm",
+                        "left_lobe": "0.74 x 1.09 x 2.08 cm"
+                    },
+                    "TFT": {
+                        "free_T3": "4.66 pg/mL (normal 2.5–3.9)",
+                        "free_T4": "2.51 ng/dL (normal 0.61–1.12)",
+                        "TSH": "1.52 IU/mL (normal 0.35–5.5)"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "free_T3": "4.89 pg/mL (normal 2.57–4.43)",
+                "free_T4": "2.04 ng/dL (normal 0.9–1.8)",
+                "TSH": "2.38 IU/mL (normal 0.23–4.2)"
+            },
+            "relevant_findings": {
+                "thyroid_status": {
+                    "diagnosis": "Graves disease",
+                    "treatment": "10 mCi of 131I"
+                }
+            },
+            "changes_over_time": "TSH increased after treatment with L-T4."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "12.3 IU/mL (normal 0.35–5.5)",
+                "free_T4": "1.88 ng/dL (normal 0.74–1.79)"
+            },
+            "relevant_findings": {
+                "thyroid_status": {
+                    "thyroperoxidase_antibodies": "negative",
+                    "thyroglobulin_antibodies": "95 IU/mL (normal 0–40)"
+                }
+            },
+            "changes_over_time": "Free T4 declined to 1.64 ng/dL and TSH decreased to 3.44 IU/mL after treatment adjustment."
+        }
+    ]
+}

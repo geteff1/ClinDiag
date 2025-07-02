@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcium Level",
+            "date": "Not specified",
+            "findings": "Low calcium level at presentation: 7.9 mg/dl (Normal range: 8–10.5 mg/dl), improved to 9.7 mg/dl at 12 days old for sibling 2.",
+            "changes_over_time": "Sibling 2: Serum calcium increased from 7.2 mg/dl (4 days old) to 7.7 mg/dl (5 days old), then to 9.7 mg/dl (12 days old)."
+        },
+        {
+            "procedure_name": "PTH (Parathyroid Hormone) Level",
+            "date": "Not specified",
+            "findings": "PTH level was elevated: 580 pg/ml (Normal range: 10–65 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated alkaline phosphatase: 741 U/L (Normal range: 110–400 U/L).",
+            "changes_over_time": "In sibling 1, alkaline phosphatase increased from 741 to 3363 U/L during the first week of treatment."
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D (25OHD)",
+            "date": "Not specified",
+            "findings": "25OHD level: 32.3 ng/ml (Normal range: 20–100 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D (1,25OHD)",
+            "date": "Not specified",
+            "findings": "1,25OHD level: 46 pg/ml (Normal range: 15–75 pg/ml), which was inappropriately normal considering hypocalcemia.",
+            "changes_over_time": "Sister 2: 1,25OHD was normal at 25 pg/ml while serum calcium was low."
+        }
+    ]
+}

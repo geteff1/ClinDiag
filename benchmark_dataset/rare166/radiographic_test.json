@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transthoracic echocardiography (TTE)",
+            "date": "Not specified",
+            "findings": "Left ventricular end-diastolic diameter 49 mm, left atrial diameter 40 mm, right atrial diameter 44 mm, right ventricular diameter 37 mm, left ventricular ejection fraction (LVEF) 33%, no atrial mechanical contraction, absence of a' at the mitral valve annulus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Double lower-limb arterial computed tomography (CT) angiography",
+            "date": "Not specified",
+            "findings": "Diffuse embolus and stenosis of both the left iliac artery and right femoral artery, occlusion of the left popliteal artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coronary artery-enhanced CT",
+            "date": "Not specified",
+            "findings": "No stenosis in the coronary artery, thrombosis in the left atrial appendage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

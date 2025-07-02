@@ -1,0 +1,66 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "One month earlier",
+            "findings": "Calculi in the left kidney and fat stranding along the left iliopsoas muscle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematology Panel",
+            "date": "Not specified",
+            "findings": {
+                "normochromic normocytic anemia": true,
+                "serum iron level": "213 μg/dL",
+                "total iron-binding capacity": "222 μg/dL",
+                "transferrin saturation": "96%",
+                "ferritin": "711 ng/mL"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Routine Chemistry Tests and Urinalysis",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis C virus (enzyme immunoassay)",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy and Aspiration",
+            "date": "Fourth hospital day",
+            "findings": {
+                "hypercellular": true,
+                "erythroid hyperplasia": true,
+                "preserved erythropoiesis": true,
+                "dysplastic forms": true,
+                "normal iron stores": "3+ of 6+",
+                "no pathologic ringed sideroblasts": true
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin A": "70.6%",
+                "hemoglobin A2": "1.8%",
+                "hemoglobin F": "27.6%"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepcidin Assessment",
+            "date": "Not specified",
+            "findings": {
+                "iron level": "4495 μg/gram of liver, dry weight",
+                "iron overload": false
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

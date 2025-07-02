@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus bradycardia and nonspecific T-wave changes",
+            "changes_over_time": "Bradycardia and orthostatic hypotension slowly improved"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Normal pituitary gland; prominence of the ventricles and sulci, suggesting diffuse loss of cerebral volume",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone densitometry",
+            "date": "At age 16 years 8 months",
+            "findings": "Z-scores below -1 at the lumbar spine and hip, indicating low bone density",
+            "changes_over_time": "Declining bone-density measures over the preceding 2.5 years"
+        },
+        {
+            "procedure_name": "Radiograph of the abdomen",
+            "date": "Not specified",
+            "findings": "Abundant stool throughout the colon and small bowel, suggestive of fecal impaction",
+            "changes_over_time": "Normal radiograph obtained 3 days later after disimpaction"
+        },
+        {
+            "procedure_name": "Radiograph of the left hand",
+            "date": "Two weeks after admission",
+            "findings": "Bone age of 15 years 6 months, indicating delayed skeletal maturation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluoroscopic upper gastrointestinal examination",
+            "date": "Not specified",
+            "findings": "Normal findings",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

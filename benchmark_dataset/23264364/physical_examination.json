@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2008",
+            "vital_signs": "ALT 529 U/L, AST 306 U/L, total bilirubin normal",
+            "relevant_findings": "New elevations of liver transaminases",
+            "changes_over_time": "The patient became jaundiced three months later, with ALT 331 U/L and AST 540 U/L at 7 months after onset."
+        },
+        {
+            "date": "7 months after onset (not specified)",
+            "vital_signs": "ALT 331 U/L, AST 540 U/L, total bilirubin 4.3 mg/dL, HCV load 6,144,372 IU/mL",
+            "relevant_findings": "Stage 3 fibrosis observed in liver biopsy.",
+            "changes_over_time": "ALT and AST remained elevated until 17 months after onset, at which point he developed signs of decompensated cirrhosis."
+        },
+        {
+            "date": "17 months after onset",
+            "vital_signs": "Albumin 1.8 g/dL, total bilirubin 11.6 mg/dL, INR 3.5, platelet count 85,000 cells/μL, MELD score 30",
+            "relevant_findings": "Decompensated cirrhosis with manifestations including pedal edema and small esophageal varices.",
+            "changes_over_time": "MELD score rose to 34 over the next few months; developed ascites."
+        },
+        {
+            "date": "January 2006",
+            "vital_signs": "ALT 436 U/L, AST 220 U/L, total bilirubin normal, HCV load 26,600,000 IU/mL",
+            "relevant_findings": "Elevation of liver transaminases; seroconversion to HCV Ab positivity.",
+            "changes_over_time": "Liver transaminases peaked at biopsy 4 months later but subsequently remained in the 200-300 U/L range."
+        },
+        {
+            "date": "Percutaneous liver biopsy (not specified)",
+            "vital_signs": "ALT 622 U/L, AST 343 U/L (at peak), with stage 2 fibrosis and grade 2 inflammation",
+            "relevant_findings": "Liver biopsy showed inflammation and fibrosis.",
+            "changes_over_time": "Patient presented with ascites and esophageal varices 10 months later."
+        },
+        {
+            "date": "August 2004",
+            "vital_signs": "ALT 114 U/L, AST 78 U/L, total bilirubin normal, HCV load 10,700,000 IU/mL",
+            "relevant_findings": "New elevation of liver transaminases.",
+            "changes_over_time": "Refused HCV treatment; progressed to decompensated liver disease with massive ascites."
+        },
+        {
+            "date": "June 2002",
+            "vital_signs": "AST 332 IU/L, ALT 367 IU/L, total bilirubin normal",
+            "relevant_findings": "New elevation of liver transaminases.",
+            "changes_over_time": "Underwent percutaneous liver biopsy showing stage 3 fibrosis, one year later showed stage 4 fibrosis; died 7 months after return to medical care."
+        }
+    ]
+}

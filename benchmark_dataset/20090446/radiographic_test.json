@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Subtle linear T2 hyperintense lesion at the T1–T3 level of the spinal cord; newly developed lesion at C7–T1; lesion extended from C2 to T4 with spotty enhancement at T1 and T3.",
+            "changes_over_time": "Lesion extended from C2 to T4 on a follow-up scan performed 5 months later."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Multiple abdominal lymphadenopathies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "F-18 Fluorodeoxyglucose (FDG) PET/CT",
+            "date": "Not specified",
+            "findings": "Multiple intense F-18 FDG accumulations in supraclavicular, paratracheal, mediastinal, bilateral hilar, internal mammary, cardio-phrenic, porta hepatis, paraaortic, and aortocaval lymph nodes; no abnormal FDG accumulation on spinal cord and brain.",
+            "changes_over_time": "Follow-up showed no abnormal F-18 FDG accumulation, indicating no evidence of active sarcoidosis."
+        },
+        {
+            "procedure_name": "F-18 Fluorothymidine (FLT) PET/CT",
+            "date": "Not specified",
+            "findings": "Only faint to mild F-18 FLT accumulations observed; lower uptake compared to F-18 FDG.",
+            "changes_over_time": "Follow-up showed no abnormal F-18 FLT accumulation, indicating no evidence of active sarcoidosis."
+        },
+        {
+            "procedure_name": "High-Resolution Chest CT (HRCT)",
+            "date": "Not specified",
+            "findings": "Multiple small centrilobular pulmonary nodules along the peribronchovascular bundle; subpleural area around the fissure.",
+            "changes_over_time": "Follow-up showed no disease activity on chest CT."
+        }
+    ]
+}

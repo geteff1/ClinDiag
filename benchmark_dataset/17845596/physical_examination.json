@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Acute respiratory distress, cyanosis, respiratory arrest requiring non-invasive ventilation. Chest auscultation was normal one hour later; Peak expiratory flow rate was 500 l/min.",
+            "changes_over_time": "At three days post-admission, the patient's asthma was prescribed medications including formoterol and methylprednisolone. On day 5, FEV1 was 3.22 l (85% predicted) and FVC 4.8 l (105% predicted), showing improvement. However, three minutes after a puff of salbutamol, there was a 25% drop in FEV1."
+        },
+        {
+            "date": "Day 3",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Post-admission treatment included nebulized terbutaline–ipratropium q.i.d. and methylprednisolone 2 mg/kg/day.",
+            "changes_over_time": "Patient's condition improved with stabilized medications and respiratory function, specifically regarding FEV1 and FVC measurements."
+        }
+    ]
+}

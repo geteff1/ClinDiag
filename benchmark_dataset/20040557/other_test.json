@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Therapy Evaluation",
+            "date": "Not specified",
+            "findings": "Normal standing balance for his age; right leg length (32.25 inches) and left leg length (33.25 inches), corrected by a heel lift. On the Performance-Oriented Mobility Assessment (Tinetti Scale), scored 24 out of 25 for balance and 7/12 for gait, indicating moderate fall risk.",
+            "changes_over_time": "Incremental steps of decline noted in gait, never fully recovered after falls."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Chemistries",
+            "date": "Not specified",
+            "findings": "All values including uric acid, thyrotropin, and lipid panel were within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Screening Colonoscopy",
+            "date": "2 years ago",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Eye Examination",
+            "date": "6 months ago",
+            "findings": "No visual risk factors for falling identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

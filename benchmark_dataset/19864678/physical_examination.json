@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "pharyngeal_erythema": "Present",
+                "lymphadenopathy": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One week before admission",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "pulse": "102 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "tonsils": "Enlarged (3+), with exudate and petechiae",
+                "lymphadenopathy": "Shotty bilateral cervical lymphadenopathy",
+                "rapid_streptococcal_test": "Negative",
+                "mononucleosis_test": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On admission",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "blood_pressure": "143/85 mm Hg",
+                "pulse": "96 bpm",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "uvula_and_tonsils": "Coated with white plaque and exudate, erythematous",
+                "lips_and_ears": "Focal, crusted erosions",
+                "vesicles_and_bullae": "Tense vesicles and bullae on an erythematous base (3 to 15 mm in diameter), tender on palpation",
+                "lymph_nodes": "Slightly enlarged, tender, soft, freely mobile in the anterior cervical region"
+            },
+            "changes_over_time": "Rash evolved to large, painful, hemorrhagic vesicles and bullae that covered most of his body surface; tender lesions with central hemorrhagic crusting"
+        }
+    ]
+}

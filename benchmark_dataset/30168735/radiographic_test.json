@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "No pathological entities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "No pathological entities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "High ICP (38 mm Hg) during initial measurement; very high ICP (29 mm Hg) during subsequent measurement.",
+            "changes_over_time": "High ICP recorded during two separate lumbar punctures with no noted improvement over time."
+        }
+    ]
+}

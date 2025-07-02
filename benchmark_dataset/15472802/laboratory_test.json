@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sputum Microscopy",
+            "date": "December 2000",
+            "findings": "Positive for acid-fast bacilli.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "December 2000",
+            "findings": "Positive for M. bovis resistant to isoniazid, rifampin, pyrazinamide, ethambutol, streptomycin, para-aminosalicylic acid, clarithromycin, cycloserine, ethionamide, ofloxacin, capreomycin, and amikacin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Löwenstein Culture",
+            "date": "6 weeks after December 2000",
+            "findings": "Negative for mycobacteria.",
+            "changes_over_time": "Demonstrated a change from positive to negative."
+        },
+        {
+            "procedure_name": "Hematologic Analysis",
+            "date": "February 2002",
+            "findings": "Hematocrit: 31%, Mean corpuscular volume: 86 mm3, WBC count: 5300 cells/mm3 (68% neutrophils, 26% lymphocytes, and 6% monocytes), Platelet count: 291,000 cells/mm3.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

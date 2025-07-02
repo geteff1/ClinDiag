@@ -1,0 +1,61 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hamilton Depression Scale",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "cycle_day": -9,
+                    "rating": 30
+                },
+                {
+                    "cycle_day": -1,
+                    "rating": 10
+                },
+                {
+                    "cycle_day": 1,
+                    "rating": 25
+                },
+                {
+                    "cycle_day": 5,
+                    "rating": 26
+                },
+                {
+                    "cycle_day": 8,
+                    "rating": 32
+                }
+            ],
+            "changes_over_time": "Hamilton scores decreased from 30 to 10 after 1 week of phototherapy, then increased to 26 with melatonin, and further increased to 32 with placebo."
+        },
+        {
+            "procedure_name": "Melatonin assay",
+            "date": "Not specified",
+            "findings": "Melatonin levels were unusually low compared to published normal values.",
+            "changes_over_time": "There was no significant difference in melatonin profiles between the baseline follicular and premenstrual phases."
+        },
+        {
+            "procedure_name": "TSH assay",
+            "date": "Not specified",
+            "findings": "TSH levels showed significant variation based on condition but were not significantly different between follicular and premenstrual phases.",
+            "changes_over_time": "There were significant main effects observed in conditions but no significant Time of Day by Condition interaction."
+        },
+        {
+            "procedure_name": "Prolactin assay",
+            "date": "Not specified",
+            "findings": "Prolactin was 19.05 ± 2.05 ng/ml during the follicular phase and 9.22 ± 3.54 ng/ml during the premenstrual phase.",
+            "changes_over_time": "Prolactin levels were significantly higher during the follicular phase than premenstrual phase."
+        },
+        {
+            "procedure_name": "Estradiol assay",
+            "date": "Not specified",
+            "findings": "Estradiol levels were obtained but specific results not detailed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Progesterone assay",
+            "date": "Not specified",
+            "findings": "Indicated ovulation with values > 5 ng/ml in the luteal phase.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

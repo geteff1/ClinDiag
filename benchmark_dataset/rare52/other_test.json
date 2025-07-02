@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) examination",
+            "date": "Not specified",
+            "findings": "No pleocytosis and CSF culture was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Detected Streptococcus pneumoniae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LDH) test",
+            "date": "Around day 7",
+            "findings": "LDH levels peaked at 535 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count test",
+            "date": "Day 8",
+            "findings": "Platelet counts began to decrease.",
+            "changes_over_time": "On the 10th day, revealed thrombocytopenia (platelets 30,000/μL)."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "On the 10th day",
+            "findings": "Anemia (hemoglobin 8.4 g/dL) with schistocytes, decreased haptoglobin (4.0 mg/dL), hypocomplementemia (C3 19 mg/dL, C4 7 mg/dL, CH50 < 14.0/mL), abnormal coagulation tests (PT ratio 1.60, AT III 17%, fibrinogen < 35 mg/dL, FDP 44.1 μg/mL, elevated D-dimer 42.8 μg/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Showed bilateral symmetric areas of increased intensity in the basal ganglia on T2 and diffusion-weighted imaging.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance spectroscopy",
+            "date": "Not specified",
+            "findings": "Showed no lactate elevation in the basal ganglia; blood lactate level was normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

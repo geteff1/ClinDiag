@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "20 Days before Presentation",
+            "findings": "45.3% (normal range: 41.0–53.0)",
+            "changes_over_time": "Decreased to 31.3% on admission, then to 29.4% on 2nd day, and 28.7% on 3rd day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "20 Days before Presentation",
+            "findings": "14.8 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Decreased to 10.2 g/dl on admission, 9.5 g/dl on 2nd day and 9.3 g/dl on 3rd day."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "20 Days before Presentation",
+            "findings": "16,500 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Decreased to 13,800 on admission, 9600 on 2nd day, and 8900 on 3rd day."
+        },
+        {
+            "procedure_name": "Erythrocyte count",
+            "date": "20 Days before Presentation",
+            "findings": "5,630,000 per mm3 (normal range: 4,500,000–5,900,000)",
+            "changes_over_time": "Decreased to 3,800,000 on admission, then to 3,540,000 on 2nd day and 3,510,000 on 3rd day."
+        },
+        {
+            "procedure_name": "Reticulocytes",
+            "date": "On Admission",
+            "findings": "3.3% (normal range: 0.5–2.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Haptoglobin",
+            "date": "On Admission",
+            "findings": "<6 mg/dl (normal range: 16–199)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "On Admission",
+            "findings": "16 mm/hr (normal range: 0–11)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bilirubin (Total)",
+            "date": "On Admission",
+            "findings": "4.7 mg/dl (normal range: 0.0–1.0)",
+            "changes_over_time": "Decreased to 3.2 mg/dl on 2nd day, then to 0.5 mg/dl on 3rd day."
+        },
+        {
+            "procedure_name": "Bilirubin (Direct)",
+            "date": "On Admission",
+            "findings": "0.3 mg/dl (normal range: 0.0–0.4)",
+            "changes_over_time": "Remained at 0.3 mg/dl on 2nd day, decreased to 0.1 mg/dl on 3rd day."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "On Admission",
+            "findings": "354 U/liter (normal range: 110–210)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Iron",
+            "date": "20 Days before Presentation",
+            "findings": "206 µg/dl (normal range: 45–160)",
+            "changes_over_time": "Decreased to 52 µg/dl on admission."
+        },
+        {
+            "procedure_name": "G6PD Level",
+            "date": "Hospital Day 4",
+            "findings": "1.9 U/g hemoglobin (normal range: 8.8–13.4)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "On Admission",
+            "findings": "32.5 mg/liter (normal range: <8)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-density lipoprotein cholesterol",
+            "date": "20 Days before Presentation",
+            "findings": "29 mg/dl (normal range: 35–100)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

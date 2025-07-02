@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "rRT-PCR for MERS-CoV",
+            "date": "April 29, 2014",
+            "findings": "Positive in serum, negative in nasopharyngeal sample; serum antibody titer was 1:3200.",
+            "changes_over_time": "Subsequent samples showed positive rRT-PCR in sputum on April 30 (DOI 13) and oropharyngeal swab on May 1 (DOI 14); viral load in sputum on DOI 13 was 5.31 x 10^6 copies/ml, decreased to 1.26 x 10^5 copies/ml on DOI 16."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "April 28, 2014",
+            "findings": "WBC 7.01 x 10^9/L, Lymphocytes 0.81 x 10^9/L (low), Hemoglobin 13.2 g/dL, Platelets 224,000.",
+            "changes_over_time": "Total lymphocyte count remained low throughout hospitalization, with a nadir of 0.69 x 10^9/L and a discharge value of 1.44 x 10^9/L."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "April 28, 2014",
+            "findings": "ALT 80 U/L (high), AST 95 U/L (high), Alkaline Phosphatase 270 U/L (high).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "April 28, 2014",
+            "findings": "Sodium 132 mEq/L (low).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Inflammatory markers",
+            "date": "April 28, 2014",
+            "findings": "ESR 44 mm/h (high), C-reactive Protein 10 mg/dL (high), Procalcitonin 0.54 mg/dL (high).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

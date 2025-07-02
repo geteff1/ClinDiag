@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture (CSF analysis)",
+            "date": "Not specified",
+            "findings": "Lymphocytic pleocytosis with low glucose (41 mg/dL, normal >45), increased proteins (238 mg/dL, normal <45), and elevated adenosine deaminase (ADA) levels (13.9 U/L, normal <5).",
+            "changes_over_time": "Day 10: glucose 37 mg/dL, protein 508 mg/dL, ADA 37.7 U/L, leukocytes 804 (95% lymphocytes); Day 24: glucose 37 mg/dL, protein 147 mg/dL, ADA 15.5 U/L, leukocytes 35 (98% lymphocytes); Month 4: glucose 57 mg/dL, protein 71 mg/dL, leukocytes 9 (90% lymphocytes), ADA 5 U/L."
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal CBC and differential.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Normal C-reactive protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "Normal erythrocyte sedimentation rate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR for mumps",
+            "date": "Day 10 after admission",
+            "findings": "Positive for mumps virus (genotype G1).",
+            "changes_over_time": "Negative on Day 18 after admission."
+        },
+        {
+            "procedure_name": "IgG quantification against mumps virus",
+            "date": "Not specified",
+            "findings": "Serum titer of 55,000 (normal 0 –32) and a CSF titer of 22,000 (normal 0– 32).",
+            "changes_over_time": "IgG index increased to 2.79 at Month 4."
+        }
+    ]
+}

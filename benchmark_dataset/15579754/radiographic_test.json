@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Open epiphyses and a bone age of only 12 years.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dual-energy X-ray absorptiometry (DXA)",
+            "date": "Between age 17 yr and 20 yr and 5 months",
+            "findings": "Areal bone mineral density (BMD) improved: 23% at lumbar spine, 14% at femoral neck, and increases at one-third radius and ultradistal radius (15% and 18% respectively).",
+            "changes_over_time": "Increase in lumbar spine and femoral neck BMD from age 17 yr and 1 month to 20 yr and 5 months."
+        },
+        {
+            "procedure_name": "Peripheral quantitative computed tomography (pQCT)",
+            "date": "Not specified",
+            "findings": "No gain of either trabecular or cortical volumetric BMD at the ultradistal radius; however, significant increase in cross-sectional area (by 46%) and cortical thickness (by 12%) during treatment.",
+            "changes_over_time": "Increase in cross-sectional area but no significant changes in volumetric density over the treatment period."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "NT-proBNP": "9000 pg/mL",
+                "RV_systolic_pressure": "73 mm Hg"
+            },
+            "relevant_findings": {
+                "ECG": "New T-wave inversions suggestive of anteroseptal ischemia",
+                "Echocardiogram": {
+                    "LV_ejection_fraction": "56%",
+                    "MR": "Severe mitral regurgitation"
+                },
+                "Chest_X-ray": "Bilateral pleural effusions and pulmonary vascular redistribution"
+            },
+            "changes_over_time": "Follow-up echocardiogram after 1 month showed only mild MR, LV ejection fraction improved to 80%, and RV systolic pressure decreased to 39 mm Hg."
+        }
+    ]
+}

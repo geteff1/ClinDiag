@@ -1,0 +1,123 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "White-cell count": {
+                    "result": 11500,
+                    "reference_range": "4500–11000",
+                    "status": "Outside normal range"
+                },
+                "Differential count": {
+                    "Neutrophils": {
+                        "result": 86,
+                        "reference_range": "40–70",
+                        "status": "Outside normal range"
+                    },
+                    "Band forms": {
+                        "result": 5,
+                        "reference_range": "0–10",
+                        "status": "Within normal range"
+                    },
+                    "Lymphocytes": {
+                        "result": 8,
+                        "reference_range": "22–44",
+                        "status": "Outside normal range"
+                    },
+                    "Monocytes": {
+                        "result": 5,
+                        "reference_range": "4–11",
+                        "status": "Within normal range"
+                    },
+                    "Basophils": {
+                        "result": 1,
+                        "reference_range": "0–3",
+                        "status": "Within normal range"
+                    }
+                },
+                "Platelet count": {
+                    "result": 59000,
+                    "reference_range": "150,000–400,000",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Aspartate aminotransferase": {
+                    "result": 63,
+                    "reference_range": "10–40",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": {
+                "Creatinine": {
+                    "result": 2.26,
+                    "reference_range": "0.60–1.50",
+                    "status": "Outside normal range"
+                },
+                "Urea nitrogen": {
+                    "result": 34,
+                    "reference_range": "8–25",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": {
+                "description": "Creatinine level decreased from 2.9 mg/dL to 2.26 mg/dL over time."
+            }
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": {
+                "Opening pressure": {
+                    "result": 21.5,
+                    "reference_range": "Not specified",
+                    "status": "Not specified"
+                },
+                "Color": {
+                    "result": "Pink to faint yellow",
+                    "reference_range": "Colorless",
+                    "status": "Outside normal range"
+                },
+                "Turbidity": {
+                    "result": "Slight to clear",
+                    "reference_range": "Clear",
+                    "status": "Outside normal range"
+                },
+                "Xanthochromia": {
+                    "result": "Present",
+                    "reference_range": "None",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Arbovirus Testing",
+            "date": "8 days after onset of illness",
+            "findings": {
+                "West Nile virus IgM": {
+                    "result": "Positive",
+                    "reference_range": "Not specified",
+                    "status": "Indicates acute infection"
+                },
+                "West Nile virus IgG": {
+                    "result": "Negative",
+                    "reference_range": "Not specified",
+                    "status": "Indicates no prior infection"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 5′8″, Weight: 245 lb at maximum weight, Weight: 101 lb at admission in January 2000, Weight: 130 lb at discharge, Weight: 107.6 lb at April 2002 admission, Weight: 135 lb at discharge",
+            "relevant_findings": "Patient experienced fainting and bleeding due to a gastric ulcer at age 16. CT scan showed three visible tumors in August 2001. Transient edema in lower extremities in January 2002 due to severe weight loss and food restriction.",
+            "changes_over_time": "His weight decreased significantly from 245 lb to 101 lb over a year and a half, followed by fluctuations as he continued to struggle with food intake and weight management, indicating a cycle of severe restriction and temporary gains."
+        },
+        {
+            "date": "January 2000",
+            "vital_signs": "Weight: 100 lb",
+            "relevant_findings": "Abusing laxatives, running 3 to 4 miles, doing 2,000 sit-ups each day.",
+            "changes_over_time": "Initially lost 100 lb over 7-8 months but was hospitalized for severe weight loss and food restriction."
+        },
+        {
+            "date": "April 2002",
+            "vital_signs": "Height: 5′7.25″, Weight: 107.6 lb",
+            "relevant_findings": "Met diagnostic criteria for anorexia nervosa, binge/purge type. Severe restriction of food intake; only two meals a day.",
+            "changes_over_time": "Progressive decrease of 22.4 lb from his previous discharge weight, indicating worsening of the eating disorder."
+        }
+    ]
+}

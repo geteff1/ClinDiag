@@ -1,0 +1,84 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-h urinary catecholamines and metanephrine excretion",
+            "date": "Not specified",
+            "findings": {
+                "Patient 3": {
+                    "metanephrine": {
+                        "value": "3.45 nmol/d",
+                        "normal_range": "0.26–1.73"
+                    },
+                    "normetanephrine": {
+                        "value": "12 nmol/d",
+                        "normal_range": "0.48–2.42"
+                    },
+                    "post_surgery": "Both normalized after surgery."
+                },
+                "Patient 4": {
+                    "epinephrine": {
+                        "value": "226 nmol/d",
+                        "normal_range": "0–110"
+                    },
+                    "norepinephrine": {
+                        "value": "559 nmol/d",
+                        "normal_range": "0–440"
+                    },
+                    "normetanephrine": {
+                        "value": "340 nmol/d",
+                        "normal_range": "0–240"
+                    },
+                    "post_surgery": "Twenty-four-hour urinary catecholamines and metanephrines normalized after left adrenalectomy."
+                },
+                "Patient 7": {
+                    "norepinephrine": {
+                        "value": "2372 nmol/d",
+                        "normal_range": "0–440"
+                    },
+                    "normetanephrine": {
+                        "value": "10622 nmol/d",
+                        "normal_range": "0–240"
+                    },
+                    "plasma_normetanephrine": {
+                        "value": "29.6 nmol/liter",
+                        "normal_range": "0–10.9"
+                    },
+                    "post_surgery": "Urinary catecholamines and metabolite levels were normal postoperatively."
+                }
+            },
+            "changes_over_time": {
+                "Patient 3": "Metanephrine and normetanephrine levels normalized after surgery.",
+                "Patient 4": "Catecholamines and metanephrines normalized after left adrenalectomy.",
+                "Patient 7": "Urinary normetanephrine levels increased to 692 nmol/d reflecting residual tumoral lesions post surgery."
+            }
+        },
+        {
+            "procedure_name": "Serum testosterone levels",
+            "date": "Not specified",
+            "findings": {
+                "Patient 6": {
+                    "pre_op": {
+                        "value": "5-10 nmol/liter",
+                        "normal_range": "0-2.0"
+                    },
+                    "post_op": {
+                        "value": "1.1 nmol/liter",
+                        "normal_range": "0-2.0"
+                    }
+                }
+            },
+            "changes_over_time": "Serum testosterone levels normalized postoperatively."
+        },
+        {
+            "procedure_name": "Plasma metanephrine levels",
+            "date": "Not specified",
+            "findings": {
+                "Patient 4": {
+                    "value": "0.50 nmol/liter",
+                    "normal_range": "0-0.50"
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

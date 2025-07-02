@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Pressure Measurement",
+            "date": "Not specified",
+            "findings": "Blood pressure initially recorded as 150/80 mmHg before trauma, then as low as 55 mmHg post-surgery.",
+            "changes_over_time": "Blood pressure recorded at 105/65 mmHg before induction and decreased to 90 mmHg during anesthesia."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Regular sinus rhythm with occasional PVCs; monitored during anesthesia.",
+            "changes_over_time": "No significant tachycardia; however, frequent PVCs occurred after surgery, lasting several days."
+        },
+        {
+            "procedure_name": "Holter Monitoring",
+            "date": "Not specified",
+            "findings": "Frequent premature ventricular complexes (PVCs) detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium Serum Concentration",
+            "date": "3 days after admission",
+            "findings": "Normal range.",
+            "changes_over_time": "Mild hypomagnesemia observed and treated with intravenous magnesium sulfate."
+        },
+        {
+            "procedure_name": "Complete Blood Count and Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Liver enzymes elevated: AST to 221 IU/L, ALT to 220 IU/L, ALP to 214 IU/L, GGT to 268 IU/L.",
+            "changes_over_time": "Liver enzyme levels elevated over time, reaching peaks after administration of bupivacaine."
+        },
+        {
+            "procedure_name": "Temperature Monitoring",
+            "date": "Not specified",
+            "findings": "Intraoperative temperature decreased from 37.2°C to 36.2°C.",
+            "changes_over_time": "Postoperative temperature in one case showed a gradual increase, reaching baseline in 50 minutes."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "TSH value of less than 0.03 mU/liter (normal range, 0.35–5 mU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T3",
+            "date": "Not specified",
+            "findings": "Free T3 level of 8.1 ng/liter (normal range, 1.7–3.7 ng/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "Not specified",
+            "findings": "Free T4 level of 15.3 ng/liter (normal range, 7.0–14.8 ng/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroglobin",
+            "date": "Not specified",
+            "findings": "Thyroglobin level was 32 pmol/liter (normal, <185 pmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH (Patient 2)",
+            "date": "Not specified",
+            "findings": "Elevated TSH level of 74.5 mU/liter (normal range, 0.5–8.5 mU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "T4 (Patient 2)",
+            "date": "Not specified",
+            "findings": "T4 level of 3.8 pmol/liter (normal range, 18–27 pmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroglobin (Patient 3)",
+            "date": "Not specified",
+            "findings": "Thyroglobin level was 9 pmol/liter (normal, <185 pmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH (Patient 3)",
+            "date": "Not specified",
+            "findings": "Elevated TSH level above 75 mU/liter (normal range, 0.5–8.5 mU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "T4 (Patient 3)",
+            "date": "Not specified",
+            "findings": "T4 levels below 2.57 pmol/liter (normal range, 18–27 pmol/liter)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

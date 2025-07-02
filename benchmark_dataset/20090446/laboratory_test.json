@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serological studies for systemic autoimmunity",
+            "date": "Not specified",
+            "findings": "No abnormalities for rheumatoid factor, antinuclear, anti-dsDNA, anti-SSA/SSB, and antiphospholipid antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Within normal range; IgG index was 0.46 with absent oligoclonal bands.",
+            "changes_over_time": "A second CSF study revealed mild lymphocytosis (17/mm3)."
+        },
+        {
+            "procedure_name": "F-18 FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Multiple intense F-18 FDG accumulations in mediastinal and abdominal lymph nodes; maximum standardized uptake value of lymph nodes ranged from 4 g/mL to 13 g/mL.",
+            "changes_over_time": "Follow-up F-18 FDG PET/CT showed no abnormal accumulation, indicating no evidence of active sarcoidosis."
+        },
+        {
+            "procedure_name": "F-18 FLT PET/CT",
+            "date": "Not specified",
+            "findings": "Faint to mild F-18 FLT accumulations observed; uptake was much lower than that of F-18 FDG.",
+            "changes_over_time": "Follow-up F-18 FLT PET/CT showed no abnormal accumulation, aligning with the absence of disease activity."
+        },
+        {
+            "procedure_name": "High-resolution chest CT",
+            "date": "Not specified",
+            "findings": "Multiple small centrilobular pulmonary nodules along the peribronchovascular bundle and subpleural area.",
+            "changes_over_time": "No disease activity on follow-up chest CT."
+        },
+        {
+            "procedure_name": "Serum angiotensin-converting enzyme level",
+            "date": "Not specified",
+            "findings": "Elevated at 79 U/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

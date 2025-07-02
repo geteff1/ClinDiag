@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Motor nerve conduction study",
+            "date": "Not specified",
+            "findings": "Reduction of compound muscle action potential (CMAP) amplitude stimulating at the fibular neck; Distal CMAP amplitude of the right fibular nerve was relatively lower compared to the left side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sensory nerve action potential study",
+            "date": "Not specified",
+            "findings": "Decreased SNAP amplitude of the right superficial fibular nerve (2 mV, reference value 7 mV).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle EMG",
+            "date": "Not specified",
+            "findings": "Revealed spontaneous activity in the form of positive sharp waves and fibrillation potentials; Motor unit action potential (MUAP) morphology was not indicative of denervation; motor unit recruitment was reduced.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count, erythrocyte sedimentation rate, fasting blood glucose levels, hepatic and renal function tests",
+            "date": "Not specified",
+            "findings": "All results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testing for autoimmune markers",
+            "date": "Not specified",
+            "findings": "All tests, including antinuclear antibodies and rheumatoid factor, were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the right knee",
+            "date": "1 month after initial examination",
+            "findings": "A lobulated cystic mass of longitudinal diameter approximately 2.5 cm occupying the space between the proximal tibia and the fibular neck; low to intermediate signal intensity on T1-weighted images and high signal intensity on T2-weighted images.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

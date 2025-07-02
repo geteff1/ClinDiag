@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "1996",
+            "findings": "Cerebellar and lesser cortical atrophy, hypodensities in cerebral white matter.",
+            "changes_over_time": "Worsening symptoms of dysarthria and gait imbalance noted over time."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Cerebellar and lesser cortical atrophy, hypodensities in cerebral white matter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffuse parenchymal volume loss involving particularly the cerebellar hemispheres and vermis; multiple punctate and confluent areas of T2 hyperintensity in the periventricular and subcortical white matter bilaterally.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

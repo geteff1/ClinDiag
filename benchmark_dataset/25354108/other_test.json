@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Normal results on cerebrospinal fluid analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetoencephalography (MEG)",
+            "date": "Not specified",
+            "findings": "Seizure activity in the left frontal lobe, cortical dysfunction suggested by abnormal somatosensory-evoked magnetic fields.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Three months after MEG",
+            "findings": "Focus of continuous right facial twitching located in the left frontal area, six generalized tonic–clonic seizures recorded.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Not specified",
+            "findings": "Chronic inflammation with CD3+ T cells, microglial activation, and loss of individual neurons.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Resection of left frontal lobe",
+            "date": "Not specified",
+            "findings": "Histologic features similar to the biopsy with diffuse chronic inflammation and hypercellularity.",
+            "changes_over_time": "Improvement in symptoms, absence of epilepsia partialis continua, and recovery in motor functions."
+        },
+        {
+            "procedure_name": "Pathological examination of resection specimen",
+            "date": "Not specified",
+            "findings": "No features suggestive of cortical dysplasia, consistent with Rasmussen’s encephalitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

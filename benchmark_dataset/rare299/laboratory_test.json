@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram monitoring",
+            "date": "Not specified",
+            "findings": "Episodes of sinus bradycardia with peripheral apnea/hypopnea, suggesting vagal hypertonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polysomnography",
+            "date": "Not specified",
+            "findings": "Episodes of sinus bradycardia with peripheral apnea/hypopnea, suggesting vagal hypertonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal assessment",
+            "date": "Not specified",
+            "findings": "Isolated hypergonadotropic hypogonadism, no immunodeficiency noted, especially no lymphopenia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FISH study",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of the SRY region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Extremely pathological with slow, symmetrical, and alternating delta and theta activity; numerous episodes of multifocal, asynchronous, abundant, and diffuse spikes and spikes-waves, predominant in central and occipital regions; almost total absence of stimuli response reflecting severe epileptic encephalopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At birth and repeated at age 5 months",
+            "findings": "Normal.",
+            "changes_over_time": "Remained normal when repeated at age 5 months."
+        },
+        {
+            "procedure_name": "22 gene-panel for sexual differentiation disorders",
+            "date": "Not specified",
+            "findings": "Two likely pathogenic variants in TSPYL1 in compound heterozygous state: c.725_726del; p.(Val242Glufs*52) and c.236del; p.(Gly79Valfs*36).",
+            "changes_over_time": "Confirmed by Sanger sequencing."
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "Did not return any additional candidate variants that could explain the epileptic phenotype.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

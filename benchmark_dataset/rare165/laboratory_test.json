@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Diffuse hypokinesis of the left ventricle. The left ventricular ejection fraction was 20%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scintigraphy",
+            "date": "Not specified",
+            "findings": "Myocardial washout (WR) of 123I-β-iodophenyl-p-pentadecanoic acid (BMIPP) was -7.4%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood smear",
+            "date": "Not specified",
+            "findings": "Showed Jordans' anomaly in the polymorphonuclear leukocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Data not shown.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endomyocardial biopsy",
+            "date": "Not specified",
+            "findings": "Detailed analyses showed multiple vacuoles in cardiomyocytes positive for PLIN2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analyses",
+            "date": "Not specified",
+            "findings": "Patient was homozygous for a novel point mutation in exon 4 (c.446C > G, P149R) of PNPLA2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "In vitro experiments",
+            "date": "Not specified",
+            "findings": "HeLa cells expressing mutant ATGL showed more lipid droplets when treated with oleic acid compared to wild-type ATGL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

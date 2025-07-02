@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Essentially normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Mild bilateral peripheral pulmonary artery stenoses (narrowing of the proximal left pulmonary artery and the upper lobe branch of the right pulmonary artery), small patent ductus arteriosus, and normal biventricular function.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified (2 years previously)",
+            "findings": "Moderate increase in pulmonary artery pressures (mean PA pressure = 43 mm Hg) with a systolic pressure gradient of 22 mm Hg between the right pulmonary artery and the right upper lobe pulmonary artery.",
+            "changes_over_time": "Repeat catheterization confirmed mild pulmonary artery stenosis."
+        },
+        {
+            "procedure_name": "Selective right coronary angiogram",
+            "date": "Not specified",
+            "findings": "Normal right coronary artery with retrograde filling of the left coronary system via collaterals from the right coronary artery.",
+            "changes_over_time": "Indicator of congenital origin ostial stenosis, though no evidence of atherosclerosis and calcification."
+        },
+        {
+            "procedure_name": "Aortic angiogram",
+            "date": "Not specified",
+            "findings": "Complete absence of antegrade flow in the left coronary artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Descending aortogram",
+            "date": "Not specified",
+            "findings": "Normal renal arteries with no evidence of renal artery involvement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

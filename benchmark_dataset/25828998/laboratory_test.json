@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "At 40 days of life",
+            "findings": ">100 000 CFU/mL of ESBL-producing E. coli, resistant to multiple antibiotics",
+            "changes_over_time": "Returned with malodorous urine and blood 10 days later, grew >100 000 CFU/mL of E. coli again, with changing susceptibility pattern"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "3 weeks after initial",
+            "findings": ">100 000 CFU/mL of E. coli with a susceptibility pattern resembling that of the previous isolate",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "At 6 weeks after initial",
+            "findings": ">100 000 CFU/mL of E. coli with the same susceptibility pattern as the initial isolate",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Surveillance Urine Culture",
+            "date": "9 days after third antibiotic course",
+            "findings": ">100 000 CFU/mL of E. coli with the same susceptibility profile as previous urine isolates",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dimercaptosuccinic Acid Renal Scan",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunodeficiency Evaluation",
+            "date": "Not specified",
+            "findings": "Normal (quantitative immunoglobulin levels, complete blood count with peripheral smear, and HIV testing)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

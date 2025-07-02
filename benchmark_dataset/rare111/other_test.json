@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoalveolar lavage",
+            "date": "Not specified",
+            "findings": "Microbiological investigations revealed that blood and bronchoalveolar lavage cultures were positive for Pseudomonas aeruginosa (PA) with a good sensitivity profile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Documented a sinus rhythm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "First analysis: Not specified; Second analysis: Six hours after admission",
+            "findings": "First analysis documented hypoxia (pO2 52 mmHg, SpO2 90%); Second analysis showed respiratory and lactic acidosis (pH 7.1 mmHg, PaO2 45 mmHg, SpO2 73.3% in oxygen therapy FiO2 100%, lactates 9.7 mmol/L).",
+            "changes_over_time": "Decline in oxygen levels and acid-base status worsened over six hours."
+        }
+    ]
+}

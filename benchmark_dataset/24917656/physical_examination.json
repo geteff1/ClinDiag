@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "July 2013",
+            "vital_signs": {
+                "temperature": "37.8°C"
+            },
+            "relevant_findings": {
+                "hyponatremia": "129 mmol/L",
+                "elevated_AST": "184 U/L",
+                "elevated_ALT": "124 U/L",
+                "leukopenia": "1.1 × 10^3 cells/µL",
+                "thrombocytopenia": "59.0 × 10^3 platelets/µL",
+                "normal_hgb": "16.8 g/dL",
+                "normal_prothrombin_time": "13.7 seconds"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital day 2",
+            "vital_signs": {
+                "temperature": "39.8°C"
+            },
+            "relevant_findings": {
+                "worsening_thrombocytopenia": "24 × 10^3 platelets/µL on hospital day 8",
+                "increased_CK": "844 U/L",
+                "persistent_leukopenia": "Not specified"
+            },
+            "changes_over_time": "Thrombocytopenia worsened over time."
+        },
+        {
+            "date": "Hospital day 14",
+            "vital_signs": {
+                "hemoglobin": "8.7 g/dL"
+            },
+            "relevant_findings": {
+                "persistent_leukopenia": "Not specified",
+                "increased_AST": "626 U/L",
+                "increased_ALT": "166 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital day 15",
+            "vital_signs": {
+                "platelet_count": "116 × 10^3 platelets/µL",
+                "creatinine": "Not specified"
+            },
+            "relevant_findings": {
+                "urinalysis": "Proteinuria and microscopic hematuria",
+                "increased_creatinine": "4.1 mg/dL on hospital day 12",
+                "elevated_LDH": "1801 U/L on hospital day 5"
+            },
+            "changes_over_time": "Platelet count began to rise, indicating improvement."
+        }
+    ]
+}

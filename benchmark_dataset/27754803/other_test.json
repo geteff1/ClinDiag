@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hormonal evaluation",
+            "date": "Not specified",
+            "findings": "Extremely high plasma 17β-estradiol levels (9476 pmol/L), elevated gonadotrophin levels (LH: 24 IU/L, FSH: 13 IU/L) strongly suggestive of estrogen resistance.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Homozygous missense mutation (R394H) in the ESR1 gene found in all affected individuals.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ovarian ultrasonography",
+            "date": "Not specified",
+            "findings": "Enlarged multicystic ovaries noted in the two affected sisters.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone age evaluation",
+            "date": "Not specified",
+            "findings": "Delayed bone maturation noted for the proband (13 years at 19 years old), affected sister (13 years at 21 years old), and affected brother (11 years at 18 years old).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": "Both wild-type and mutant ERα expressed at similar protein levels in HEK293T cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcriptional activity assessment",
+            "date": "Not specified",
+            "findings": "Transactivation sensitivity of the R394H ERα mutant was greatly reduced compared to the wild-type ERα levels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

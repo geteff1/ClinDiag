@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Phosphorus",
+            "date": "Not specified",
+            "findings": "Low phosphorus level of 1.2 mg/dL (normal range, 2.5-4.5 mg/dL)",
+            "changes_over_time": "Previously documented normal serum phosphorus levels."
+        },
+        {
+            "procedure_name": "Calcium Level",
+            "date": "Not specified",
+            "findings": "Normal calcium level of 8.4 mg/dL (normal range, 8.4-10.5 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "Normal creatinine level of 1.1 mg/dL (normal range, Not specified)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated alkaline phosphatase level of 137 U/L (normal range, 30-120 U/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D Level",
+            "date": "Not specified",
+            "findings": "Inappropriately low level of less than 5 pg/mL (normal range, 9-52 pg/mL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tubular Reabsorption of Phosphate",
+            "date": "Not specified",
+            "findings": "Very low at 10% (normal range, 78%-98%)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intact Parathyroid Hormone (PTH) Level",
+            "date": "Not specified",
+            "findings": "Elevated PTH level at 124 pg/mL (normal range, 10-65 pg/mL) when evaluated in Baltimore after several years of treatment.",
+            "changes_over_time": "Reportedly normal before initiation of therapy."
+        },
+        {
+            "procedure_name": "Fibroblast Growth Factor 23 (FGF-23) Levels",
+            "date": "Not specified",
+            "findings": "Markedly elevated at 3768 relative units/mL (normal range, 0-150 relative units/mL)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic laboratory tests",
+            "date": "Not specified",
+            "findings": "Normal sodium, potassium, and renal function tests; persistent, mild transaminitis without hyperbilirubinemia or raised alkaline phosphatase.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate and C-reactive protein",
+            "date": "Not specified",
+            "findings": "Both within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Normal right coronary artery; retrograde filling of the left coronary system via collaterals. No evidence of atherosclerosis and calcification.",
+            "changes_over_time": "Confirmed mild peripheral pulmonary artery stenoses."
+        },
+        {
+            "procedure_name": "Aortic root angiogram",
+            "date": "Not specified",
+            "findings": "Complete absence of antegrade flow in the left coronary artery; small patent ductus arteriosus (PDA).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Descending aortogram",
+            "date": "Not specified",
+            "findings": "No evidence of renal artery involvement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

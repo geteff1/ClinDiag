@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Three weeks before admission",
+            "findings": "Hematocrit 44%, white-cell count 9000 per cubic millimeter (63% neutrophils, 17% lymphocytes, 8% monocytes, 11% eosinophils, 1% basophils), platelet count 391,000 per cubic millimeter, erythrocyte sedimentation rate 22 mm per hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "One week before admission",
+            "findings": "Hematocrit 44%, white-cell count 6300 per cubic millimeter (56% neutrophils, 20% lymphocytes, 11% monocytes, 12% eosinophils, 1% basophils), platelet count 349,000 per cubic millimeter, erythrocyte sedimentation rate 23 mm per hour.",
+            "changes_over_time": "White-cell count decreased from 9000 to 6300 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "One week before admission",
+            "findings": "Urine positive for protein; sediment contained 2 to 4 red cells per low-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of Chest",
+            "date": "Four days before admission",
+            "findings": "No change in bilateral opacities, no new lesions, no lymphadenopathy or pleural effusions.",
+            "changes_over_time": "No change noted from previous scans."
+        },
+        {
+            "procedure_name": "Indirect Immunofluorescence Test for c-ANCA",
+            "date": "After admission",
+            "findings": "Positive for c-ANCA, enzyme-linked immunosorbent assay positive for antibodies to proteinase 3 at a titer of 1718 U (normal value, less than 5 U).",
+            "changes_over_time": "Indicates a significant risk for pulmonary hemorrhage and rapidly progressive glomerulonephritis, titer of ANCA fell after treatment."
+        }
+    ]
+}

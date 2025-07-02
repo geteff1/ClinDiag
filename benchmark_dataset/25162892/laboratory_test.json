@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "17 Days before Admission",
+            "findings": "36.8% (normal range: 33.0–39.0)",
+            "changes_over_time": "Increased to 41.1% on admission, then decreased to 33.1% on 9th day, 34.0% on 16th day, and 32.2% on 20th day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "17 Days before Admission",
+            "findings": "12.6 g/dl (normal range: 10.5–13.5)",
+            "changes_over_time": "Increased to 15.0 g/dl on admission, then decreased to 11.4 g/dl on 9th day, 12.0 g/dl on 16th day, and 10.8 g/dl on 20th day."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "17 Days before Admission",
+            "findings": "11,400 per mm3 (normal range: 6000–17,500)",
+            "changes_over_time": "Decreased to 9300 per mm3 on admission, increased to 11,200 on 9th day, then increased to 14,300 on 16th day, and decreased to 9200 on 20th day."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "17 Days before Admission",
+            "findings": "0.22 mg/dl (normal range: 0.30–1.00)",
+            "changes_over_time": "Increased to 0.28 mg/dl on admission, decreased to <0.17 mg/dl on 9th day, and remained <0.17 mg/dl on 16th and 20th day."
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "17 Days before Admission",
+            "findings": "42.2 sec (normal range: 21.0–33.0)",
+            "changes_over_time": "Decreased to 33.3 sec on 9th day, 32.4 sec on 16th day."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "17 Days before Admission",
+            "findings": "14.3 sec (normal range: 11.0–13.7)",
+            "changes_over_time": "Increased to 15.7 sec on 9th day, then decreased to 13.7 sec on 16th day."
+        },
+        {
+            "procedure_name": "Homocysteine",
+            "date": "Not specified",
+            "findings": "159.5 μmol/liter (normal range: 0–12)",
+            "changes_over_time": "Decreased to mean level of 70 μ mol/liter following treatment."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "20th Day",
+            "findings": "Colorless, clear, total protein 13 mg/dl (normal range: 5–55), glucose 60 mg/dl (normal range: 50–75), lactate 2.1 mmol/liter (normal range: 0.5–2.2)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

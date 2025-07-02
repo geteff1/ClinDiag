@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Intravenous Antibiotics",
+            "date": "Not specified",
+            "findings": "Patients were started on intravenous vancomycin after cultures were obtained.",
+            "changes_over_time": "Patients improved clinically with reduced signs of infection, white blood cell counts trended to normal."
+        },
+        {
+            "procedure_name": "Surgical Drainage",
+            "date": "Not specified",
+            "findings": "Turbid periprosthetic fluid collection ranging from slightly turbid to cloudy.",
+            "changes_over_time": "Subsequent drainage and lavage led to resolution of symptoms."
+        },
+        {
+            "procedure_name": "Capsulotomy and Curettage",
+            "date": "Not specified",
+            "findings": "Markedly thickened capsule and significant periprosthetic fluid.",
+            "changes_over_time": "Patients reported subjective improvement and resolution of erythema."
+        },
+        {
+            "procedure_name": "Device Exchange",
+            "date": "Not specified",
+            "findings": "Replacement of infected prostheses with new implants.",
+            "changes_over_time": "All patients remained intact with no signs of re-infection at follow-up."
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Demonstrated presence and nature of periprosthetic fluid collections.",
+            "changes_over_time": "Assisted in identifying collections for drainage which improved clinical outcomes."
+        },
+        {
+            "procedure_name": "Biopsy of Thickened Capsule",
+            "date": "Not specified",
+            "findings": "Demonstrated inflammatory changes and culture positive for Staphylococcus epidermidis.",
+            "changes_over_time": "No growth of organisms in seroma fluid indicated effective management of infection."
+        }
+    ]
+}

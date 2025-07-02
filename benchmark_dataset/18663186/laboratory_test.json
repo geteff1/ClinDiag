@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum antiGAD-Abs",
+            "date": "Not specified",
+            "findings": "Abnormally elevated at 71.6 U/mL (normal range < 1.45 U/mL).",
+            "changes_over_time": "Serum antiGAD-Abs were markedly elevated on all occasions measured over the next year."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Acellular with protein of 48 mg/dL (normal range < 45 mg/dL). AntiGAD-Abs were absent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Videonystagmography",
+            "date": "Not specified",
+            "findings": "Initially revealed normal saccade latencies; lengthening with repetition to exceed 7 s. Saccades were hypometric and slowed after 180 s of horizontal testing and 370 s of vertical testing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Vacuolated lymphocytes containing glycogen (indicating Pompe disease).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Poor contractility and severe left ventricle hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Biventricular hypertrophy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

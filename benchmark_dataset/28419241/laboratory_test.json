@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid hormone profile",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "2.61 mIU/L (Normal: 0.27 to 4.2)",
+                "free thyroxine": "9.52 pmol/L (Normal: 10.9 to 25.7)"
+            },
+            "changes_over_time": "Retrospectively analyzed, the patient also displayed hyperthyrotropinemia at 6 years of age."
+        },
+        {
+            "procedure_name": "Hormonal determinations",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "Elevated TSH levels after L-T4 withdrawal",
+                "free thyroxine": "Decreased FT4 levels after L-T4 withdrawal"
+            },
+            "changes_over_time": "When the patient was 10 years of age, L-T4 treatment was withdrawn for 1 month, and his thyroid function was re-evaluated."
+        },
+        {
+            "procedure_name": "TRH test",
+            "date": "Not specified",
+            "findings": {
+                "TSH response": "Normal TSH and PRL responses to TRH",
+                "FT4 increase": "Below the normal range after TRH administration"
+            },
+            "changes_over_time": "The FT4 increase was calculated as an indirect measure of TSH bioactivity, as reported during follow-up."
+        },
+        {
+            "procedure_name": "Hormonal re-evaluation of siblings",
+            "date": "Not specified",
+            "findings": {
+                "hyperthyrotropinemia": "Only one out of four siblings showed hyperthyrotropinemia in the first evaluation, two out of four six months later."
+            },
+            "changes_over_time": "Indicating the intermittent nature of hyperthyrotropinemia in these individuals."
+        },
+        {
+            "procedure_name": "Thyroid function profile of mother during pregnancy",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "3.72 mIU/L in the first trimester (Normal: <2.5 mIU/L)",
+                "Free T4": "Normal ranges"
+            },
+            "changes_over_time": "TSH elevation recurred in the third trimester; returned to normal after delivery."
+        }
+    ]
+}

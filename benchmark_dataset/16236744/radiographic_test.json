@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Pap smear",
+            "date": "Not specified",
+            "findings": "Low-grade squamous intraepithelial lesion with cellular changes consistent with HPV infection.",
+            "changes_over_time": "Dysplasia with recurrent disease may occur despite surgical excision."
+        },
+        {
+            "procedure_name": "Colposcopy",
+            "date": "Not specified",
+            "findings": "Chronic cervicitis.",
+            "changes_over_time": "Repeated examinations showed similar findings."
+        },
+        {
+            "procedure_name": "Fetal ultrasonographic survey",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

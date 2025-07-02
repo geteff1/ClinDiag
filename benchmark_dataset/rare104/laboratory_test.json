@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cycloplegic refraction",
+            "date": "Not specified",
+            "findings": "+ 0.50 - 1.50 × 180 in the right eye and + 1.00 × 95 in the left eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-h ambulatory electrocardiogram",
+            "date": "Not specified",
+            "findings": "Intermittent first-degree atrioventricular block and partial second-degree type I atrioventricular block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Diffuse demyelinating lesions in the white matter of both cerebral hemispheres and the inner capsule, middle cerebral crura, pons and medulla oblongata.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Long-range polymerase chain reaction",
+            "date": "Not specified",
+            "findings": "Deletion of 7652 bp in the mitochondrial DNA, starting at nucleotide position 6341 and ending at 13993.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Illumina NovaSeq high-throughput sequencing",
+            "date": "Not specified",
+            "findings": "No abnormality was noted in the mother's genes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

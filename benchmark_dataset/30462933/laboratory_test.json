@@ -1,0 +1,122 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": {
+                    "value": 14.3,
+                    "reference_range": "14.0–18.0",
+                    "status": "within normal range"
+                },
+                "hematocrit": {
+                    "value": 44,
+                    "reference_range": "42–52",
+                    "status": "within normal range"
+                },
+                "white_cell_count": {
+                    "value": 6400,
+                    "reference_range": "4500–11,000",
+                    "status": "within normal range"
+                },
+                "platelet_count": {
+                    "value": 209000,
+                    "reference_range": "150,000–450,000",
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Renal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "sodium": {
+                    "value": 140,
+                    "reference_range": "133–145",
+                    "status": "within normal range"
+                },
+                "potassium": {
+                    "value": 3.7,
+                    "reference_range": "3.3–5.1",
+                    "status": "within normal range"
+                },
+                "creatinine": {
+                    "value": 0.82,
+                    "reference_range": "0.7–1.2",
+                    "status": "within normal range"
+                },
+                "urea_nitrogen": {
+                    "value": 10,
+                    "reference_range": "6–20",
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "alanine_aminotransferase": {
+                    "value": "normal",
+                    "reference_range": "Not specified",
+                    "status": "within normal range"
+                },
+                "aspartate_aminotransferase": {
+                    "value": "normal",
+                    "reference_range": "Not specified",
+                    "status": "within normal range"
+                },
+                "total_bilirubin": {
+                    "value": "normal",
+                    "reference_range": "Not specified",
+                    "status": "within normal range"
+                },
+                "alkaline_phosphatase": {
+                    "value": "normal",
+                    "reference_range": "Not specified",
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "specific_gravity": {
+                    "value": 1.025,
+                    "reference_range": "1.015–1.025",
+                    "status": "within normal range"
+                },
+                "pH": {
+                    "value": 5.5,
+                    "reference_range": "5.0–8.0",
+                    "status": "within normal range"
+                },
+                "red_cells": {
+                    "value": "Negative",
+                    "reference_range": "Negative",
+                    "status": "within normal range"
+                },
+                "white_cells": {
+                    "value": "Negative",
+                    "reference_range": "Negative",
+                    "status": "within normal range"
+                },
+                "nitrite": {
+                    "value": "Negative",
+                    "reference_range": "Negative",
+                    "status": "within normal range"
+                },
+                "protein": {
+                    "value": "Negative",
+                    "reference_range": "Negative",
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "Atelectasis but otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions and no evidence of lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Normal hepatic parenchyma, moderate amount of ascites, mild splenomegaly, and no evidence of lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron-Emission Tomography (PET)",
+            "date": "Not specified",
+            "findings": "Homogeneous FDG uptake in the spleen, no evidence of hypermetabolism in the abdominal or pelvic lymph nodes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Face",
+            "date": "Not specified",
+            "findings": "Ill-defined areas of increased attenuation along the preseptal soft tissues and inferior orbital areas bilaterally, with no signs of a focal drainable collection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the Face and Orbits",
+            "date": "Not specified",
+            "findings": "Signal hyperintensity within bilateral preseptal soft tissues, right lateral pterygoid and temporalis muscles, asymmetric mild enlargement and enhancement of the left superior oblique, medial, and lateral recti.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Head",
+            "date": "Not specified",
+            "findings": "Large intraparenchymal hemorrhage in the left cerebellar hemisphere with mass effect on the brain stem and fourth ventricle.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

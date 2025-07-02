@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "40.6°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Extensive reddish-purple angio-keratomas on the eyelids, oral mucosa, arms, fingertips, abdomen, flanks, and proximal thighs. Mild-to-moderate sensorineural hearing loss, with more marked loss on the right. Mild obstructive disease noted on pulmonary function tests.",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Neurological examination revealed lessening of cold sensation over the dorsal surface of the hands and forearms; no sensation of cold in lower extremities below hips. Protein excretion in urine was elevated at 5382 mg/24 h. Echocardiogram revealed mild left ventricular hypertrophy, mild aortic and tricuspid regurgitation.",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

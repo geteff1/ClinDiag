@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood uric acid level",
+            "date": "Not specified",
+            "findings": "11.4 mg/dL (678 µmol/L; reference range, 3.6 to 8.5 mg/dL [214 to 506 µmol/L]) - Outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometry",
+            "date": "Not specified",
+            "findings": "Decreased total count of CD3+ T cells (403/mm3; normal range, 690 to 2540), CD4+ T cells (155/mm3; normal range, 419 to 1590), and CD19+ B cells (42/mm3; normal range, 90 to 660); total count of CD8+ T cells was within normal range. Low serum immunoglobulin levels: IgG level of 558 mg/dL (normal range, 614 to 1295) and IgM level of 31 mg/dL (normal range, 53 to 334); IgA level was within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Five months after presentation",
+            "findings": "Slight hypocellularity in the bone marrow core and aspirate, with maturing myeloid precursors and megakaryocytes but no erythroid precursors.",
+            "changes_over_time": "Consistent with pure red-cell aplasia."
+        },
+        {
+            "procedure_name": "Biopsy specimens of colon and duodenum",
+            "date": "Not specified",
+            "findings": "Colonic mucosa with reactive epithelial injury, prominent crypt-cell apoptosis, mild lymphocytosis, and loss of goblet cells; duodenal biopsy showed chronic duodenitis with villous shortening, reactive epithelial injury, basal-cell apoptosis, and loss of goblet and Paneth cells.",
+            "changes_over_time": "Findings are consistent with autoimmune enteropathy."
+        }
+    ]
+}

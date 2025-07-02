@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Germline DNA analysis",
+            "date": "Not specified",
+            "findings": "A novel mutation (H132P) in exon 4 of the SDHB gene was identified, absent in 160 control chromosomes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Loss of heterozygosity analysis",
+            "date": "Not specified",
+            "findings": "There was a loss of one SDHB allele in the tumors of patients II.4 and II.8.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RT-PCR-based expression analysis",
+            "date": "Not specified",
+            "findings": "Confirmed exclusive expression of the mutated allele in both tumors of patients II.4 and II.8.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary excretion test",
+            "date": "Age 25 and age 42 for patient II.8",
+            "findings": "Elevated norepinephrine during hypertensive attacks at age 25; normalized post-surgery; elevated again at age 42 consistent with recurrent PGL.",
+            "changes_over_time": "Postoperatively normalized but later elevated again, indicating recurrence."
+        },
+        {
+            "procedure_name": "MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "Increased uptake in the proximal right femur and frontal skull.",
+            "changes_over_time": "Progressed clinically and biochemically one year later."
+        }
+    ]
+}

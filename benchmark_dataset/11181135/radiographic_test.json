@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Echodense aortic valve with a definite echodense lesion (size, 0.9 cm x 0.9 cm) at the junction of the right and left coronary cusps, jet of aortic regurgitation visible on Doppler sonography.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of the abnormality attached to the left coronary cusp of the valve, repeated echocardiography revealed a perforated left coronary cusp and an aortic root abscess.",
+            "changes_over_time": "Appearance changed from initial findings to perforation and an abscess."
+        }
+    ]
+}

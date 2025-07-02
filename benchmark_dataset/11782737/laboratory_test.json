@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Peripheral blood film examination",
+            "date": "January 11, 2001",
+            "findings": "0.8% parasitemia of P. falciparum",
+            "changes_over_time": "Increased to 14.0% parasitemia of P. falciparum on January 14, 2001."
+        },
+        {
+            "procedure_name": "Peripheral blood film examination",
+            "date": "January 14, 2001",
+            "findings": "14.0% parasitemia of P. falciparum",
+            "changes_over_time": "N/A"
+        },
+        {
+            "procedure_name": "Chloroquine level test",
+            "date": "Post-mortem (exact date not specified)",
+            "findings": "Chloroquine level of 1,782 ng/mL whole blood, consistent with recent ingestion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

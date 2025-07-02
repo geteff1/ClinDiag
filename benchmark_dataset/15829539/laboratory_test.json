@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "14 weeks gestation (Not specified)",
+            "findings": "Amniotic fluid karyotype was 46,XY, add(18)(p11.2), indicating the presence of additional material on the short arm of chromosome 18 at band 11.2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotype Analysis",
+            "date": "Not specified",
+            "findings": "Mother's karyotype was 46,XX,t(1;18)(q42.1;p11.2), indicating a balanced translocation. Fetus's karyotype was 46,XY,der(18)t(1;18)(q42.1;p11.2)mat, indicating an unbalanced translocation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test for Estradiol and FSH",
+            "date": "Day 3 of menstrual cycle (Not specified)",
+            "findings": "Serum estradiol level was elevated to 62 pg per milliliter; FSH was normal at 7.6 mIU per milliliter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Beta-hCG Measurement",
+            "date": "Two weeks after embryo transfer",
+            "findings": "Serum level of beta-hCG was 649 mIU per milliliter, indicating early implantation, with a subsequent level of 1818 mIU per milliliter.",
+            "changes_over_time": "Indicated an increase in hCG levels after implantation."
+        }
+    ]
+}

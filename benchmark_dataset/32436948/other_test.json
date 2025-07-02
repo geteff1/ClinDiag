@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid Ultrasound",
+            "date": "Not specified",
+            "findings": "Bilateral and diffuse hypoechoic areas detected.",
+            "changes_over_time": "Normal thyroid appearance on evaluation one month earlier."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "February 21st",
+            "findings": "Normal thyroid function; negative antibodies (TgAb, TPOAb), and ultrasound unremarkable.",
+            "changes_over_time": "Thyroid function became abnormal on March 19th."
+        },
+        {
+            "procedure_name": "Prednisone Treatment",
+            "date": "March 20th",
+            "findings": "Patient started at 25 mg/day; symptoms of neck pain and fever improved within two days.",
+            "changes_over_time": "Symptoms resolved within one week; tapering of prednisone occurred."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "April 1st",
+            "findings": "FT4 concentration had declined to the upper normal range, TSH had risen to almost normal level.",
+            "changes_over_time": "Thyroid function normalized by April 27th."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Negative for tuberculosis; no abnormalities noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "18.1 weeks’ gestation",
+            "findings": "Active fetus with normal fetal and placental anatomy; biometric assessment consistent with 19.0 weeks gestation.",
+            "changes_over_time": "Normal fetal growth and activity throughout the pregnancy."
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "On the day of admission",
+            "findings": "Fetal death confirmed.",
+            "changes_over_time": "Fetal movements ceased approximately 7 hours before delivery."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Congenital group B β-hemolytic streptococcal infection with sepsis and pneumonia.",
+            "changes_over_time": "Fetus appeared to have been dead for at least 24 hours prior to delivery."
+        }
+    ]
+}

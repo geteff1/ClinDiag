@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "127/57 mm Hg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_appearance": "well and in no distress",
+                "neurological": "alert and oriented",
+                "oropharyngeal": "clear and moist",
+                "lungs": "clear on auscultation",
+                "other": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "blood_pressure": "110/55 mm Hg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_appearance": "did not feel well with cough, nasal congestion, fatigue, headache, sore throat",
+                "lung_exam": "unchanged"
+            },
+            "changes_over_time": "No changes in lung exam findings"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "oxygen_saturation": "90%"
+            },
+            "relevant_findings": {
+                "lung_exam": "faint bilateral wheezing"
+            },
+            "changes_over_time": "Oxygen saturation decreased to 90% while breathing ambient air; previously it was stable at 98%."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "lung_exam": "chest was clear on auscultation",
+                "cough": "decreased frequency"
+            },
+            "changes_over_time": "Improvement in cough frequency and stabilization of oxygen saturation."
+        }
+    ]
+}

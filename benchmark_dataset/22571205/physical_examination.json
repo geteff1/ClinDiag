@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "blood_pressure": "38.6°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Diffuse, erythematous rash with vesicles, pustules, and excoriations involved the forehead, nose, lips, chin, periorbital areas, chest, back, arms, and legs, sparing the palms and soles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.6°C",
+                "blood_pressure": "range 110-130/50-69 mmHg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95-100%"
+            },
+            "relevant_findings": "The patient was extremely uncomfortable; mild expiratory wheezing with decreased basilar breath sounds. A diffuse rash involved nearly all areas of her body, with scaly, erythematous plaques and small erosions.",
+            "changes_over_time": "Lesions on the upper chest and face became coalescent, forming large erosions with scalloped borders."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.3°C",
+                "blood_pressure": "146/62 mmHg",
+                "pulse": "109 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Ophthalmologic examination revealed corneal epithelial staining without a dendritic pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "70 mmHg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Developed hypotension, decreased urine output.",
+            "changes_over_time": "Rapidly worsening course."
+        }
+    ]
+}

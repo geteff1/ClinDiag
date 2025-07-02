@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "159/90 mm Hg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general_condition": "Patient appeared comfortable.",
+                "dentition": "Poor, but no oropharyngeal lesions.",
+                "heart": "Early-peaking systolic murmur (grade 2/6) at left base.",
+                "lungs": "Bibasilar crackles.",
+                "abdomen": "Soft, nontender, nondistended, no costovertebral angle tenderness.",
+                "hernia": "Left inguinal hernia present.",
+                "urine": "Rose-colored, without clots.",
+                "other": "No septic lesions on nails, no rashes."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9°C",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "153/82 mm Hg",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_condition": "Moist mucous membranes.",
+                "urine": "Darkening of urine, colored like cola."
+            },
+            "changes_over_time": "Creatinine level rose from 0.8 mg/dl to 4.9 mg/dl over 2 months."
+        }
+    ]
+}

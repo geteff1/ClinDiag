@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C",
+                "blood_pressure": "121/65 mm Hg",
+                "heart_rate": "88 bpm",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "appearance": "Ill",
+                "lung_examination": "Lungs clear to auscultation; substantial coughing with inspiration",
+                "heart_sounds": "Normal, no murmur",
+                "abdominal_examination": "Nontender",
+                "oedema": "No edema in arms or legs",
+                "rash": "No rash",
+                "joint_examination": "No erythema, tenderness, or effusion"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "blood_pressure": "160/77 mm Hg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "appearance": "Lethargic",
+                "chest_wall": "Mild tenderness over the right anterior chest wall",
+                "neurological": "Asterixis noted"
+            },
+            "changes_over_time": "Increased lethargy and mild tenderness over the right anterior chest wall"
+        }
+    ]
+}

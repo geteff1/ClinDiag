@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "169/42 mm Hg",
+                "pulse_rate": "80 bpm",
+                "respiratory_rate": "32 breaths/min",
+                "temperature": "97.3°F (36.3°C)"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Pale",
+                    "Slightly diaphoretic",
+                    "Moderate respiratory distress",
+                    "Diffuse wheezing with slight bibasilar crackles",
+                    "Grade 3/6 systolic ejection murmur"
+                ]
+            },
+            "changes_over_time": "Improved clinically; wheezing resolved and good air entry noted bilaterally."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "195/99 mm Hg",
+                "pulse_rate": "81 bpm",
+                "respiratory_rate": "24 breaths/min",
+                "temperature": "98.1°F (36.7°C)"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Awake and alert",
+                    "Mild respiratory distress",
+                    "Minimal wheeze bilaterally",
+                    "1+ bilateral pedal edema"
+                ]
+            },
+            "changes_over_time": "Initially mild respiratory distress; the patient remained tachypneic and acidemic until the 10th hospital day."
+        }
+    ]
+}

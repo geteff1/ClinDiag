@@ -1,0 +1,107 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 2000",
+            "vital_signs": {
+                "total_cholesterol": "421 mg/dl",
+                "triglycerides": "1272 mg/dl",
+                "LDL": "201 mg/dl",
+                "HDL": "45 mg/dl",
+                "hemoglobin_A1c": "10.3%",
+                "thyroid_stimulating_hormone": "53.2 IU/ml",
+                "free_thyroxine": "0.5 ng/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/200-1",
+                "visual_acuity_left_eye": "20/400-1",
+                "funduscopic_examination": "severe bilateral clinically significant macular edema with marked hemorrhages, venous abnormalities, and intraretinal microvascular abnormalities; severe retinal hard exudate."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "November 3, 2000",
+            "vital_signs": {
+                "total_cholesterol": "170 mg/dl",
+                "triglycerides": "527 mg/dl",
+                "LDL": "80 mg/dl",
+                "HDL": "34 mg/dl",
+                "hemoglobin_A1c": "7.1%",
+                "thyroid_stimulating_hormone": "0.36 IU/ml",
+                "free_thyroxine": "1.1 ng/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/160",
+                "visual_acuity_left_eye": "20/125",
+                "funduscopic_examination": "considerable reduction in retinal hard exudates."
+            },
+            "changes_over_time": "Improvement in visual acuity and reduction in hard exudates."
+        },
+        {
+            "date": "February 26, 2001",
+            "vital_signs": {
+                "total_cholesterol": "154 mg/dl",
+                "triglycerides": "338 mg/dl",
+                "LDL": "79 mg/dl",
+                "HDL": "34 mg/dl",
+                "hemoglobin_A1c": "8.0%",
+                "thyroid_stimulating_hormone": "6.24 IU/ml",
+                "free_thyroxine": "1.1 ng/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/100",
+                "visual_acuity_left_eye": "20/320",
+                "funduscopic_examination": "decreased retinal hard exudate."
+            },
+            "changes_over_time": "Continued improvement in visual acuity and decrease in hard exudates."
+        },
+        {
+            "date": "July 6, 2001",
+            "vital_signs": {
+                "total_cholesterol": "142 mg/dl",
+                "triglycerides": "387 mg/dl",
+                "LDL": "63 mg/dl",
+                "HDL": "29 mg/dl",
+                "hemoglobin_A1c": "6.8%",
+                "thyroid_stimulating_hormone": "1.12 IU/ml",
+                "free_thyroxine": "1.2 ng/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/100",
+                "visual_acuity_left_eye": "20/320",
+                "funduscopic_examination": "further regression of retinal hard exudates."
+            },
+            "changes_over_time": "Further regression of hard exudates noted."
+        },
+        {
+            "date": "January 8, 2001",
+            "vital_signs": {
+                "total_cholesterol": "492 mg/dl",
+                "triglycerides": "908 mg/dl",
+                "LDL": "Not specified",
+                "HDL": "40 mg/dl",
+                "blood_glucose": "143 mg/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/25",
+                "visual_acuity_left_eye": "20/100",
+                "funduscopic_examination": "severe retinal hard exudate."
+            },
+            "changes_over_time": "Increased severity of retinal hard exudate."
+        },
+        {
+            "date": "February 21, 2001",
+            "vital_signs": {
+                "total_cholesterol": "165 mg/dl",
+                "triglycerides": "506 mg/dl",
+                "LDL": "41 mg/dl",
+                "HDL": "23 mg/dl"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "20/25",
+                "visual_acuity_left_eye": "20/100",
+                "funduscopic_examination": "decrease in retinal thickening and hard exudate."
+            },
+            "changes_over_time": "Improvement in visual acuity and decrease in hard exudate after treatment."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for protein, trace positive for ketones; sediment contained moderate numbers of bacteria and a few uric acid crystals, without red or white cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hematocrit 46.3%, white-cell count 24,900/mm³ (94% neutrophils, 3% lymphocytes, 2% monocytes, 1% eosinophils), platelet count 444,000/mm³.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Profile",
+            "date": "Not specified",
+            "findings": "Prothrombin time normal; partial-thromboplastin time slightly low at 22.0 seconds.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Glucose level 115 mg/dL (6.4 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Total cholesterol 64 mg/dL (1.7 mmol/L), high-density lipoprotein cholesterol 16 mg/dL (0.4 mmol/L), low-density lipoprotein cholesterol 27 mg/dL (0.7 mmol/L), triglycerides 107 mg/dL (1.2 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase 27 U/L, lactate dehydrogenase 1619 U/L; levels of conjugated and total bilirubin, alanine aminotransferase, amylase, creatine kinase, and alkaline phosphatase were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125",
+            "date": "Not specified",
+            "findings": "CA-125 level 81.3 U/mL (normal range, 0.0 to 35.0).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Sodium level 138 mmol/L, potassium level 4.4 mmol/L, chloride level 93 mmol/L, carbon dioxide level 26.7 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

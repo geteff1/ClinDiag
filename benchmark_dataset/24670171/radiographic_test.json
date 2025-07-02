@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Did not reveal any findings of acute disease; the spleen appeared small measuring 8 cm with at least two granulomas and mild enlargement of the caudate lobe of the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Showed elevation of the left hemidiaphragm with no evidence of pneumonia.",
+            "changes_over_time": "Consistent with pulmonary edema, bilateral hilar fullness, and a pleural effusion on the left side; findings progressed over time."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Revealed no evidence of hemorrhage, masses, or infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of the right hand and forearm",
+            "date": "Not specified",
+            "findings": "Showed soft-tissue swelling, reticulation consistent with edema, with no evidence of soft-tissue gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Day 1, after admission",
+            "findings": "Showed interstitial opacities and bilateral hilar fullness consistent with pulmonary edema, and new blunting of the left costophrenic angle indicating pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

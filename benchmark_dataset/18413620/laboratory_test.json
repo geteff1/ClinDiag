@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocyte count of 4.7 x 10^9 cells/L, hemoglobin level of 84 g/L, platelet count of 96 x 10^9 cells/L, absolute reticulocyte count of 322.5 x 10^9 cells/L.",
+            "changes_over_time": "Hemoglobin level decreased to 70 g/L two weeks later."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Initial level of 2950 U/L, later increased to 3450 U/L.",
+            "changes_over_time": "Decreased to 359 U/L after 6 months of therapy."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Marked increase in hemoglobin, but no erythrocytes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flow cytometric analysis",
+            "date": "Not specified",
+            "findings": "Most granulocytes were missing GPI-anchored proteins, consistent with diagnosis of PNH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

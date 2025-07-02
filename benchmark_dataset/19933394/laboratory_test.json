@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cortisol and ACTH Levels",
+            "date": "Not specified",
+            "findings": "Cortisol levels on the first day of life: 526 nmol/liter (RR: 50–550); subsequently elevated cortisol of 2690 nmol/liter (RR: 50–550), and ACTH level: 1400 ng/liter (RR: 10–50). After seven consecutive evenings of treatment with 12 mg, cortisol was 2060 nmol/liter and ACTH was 2600 ng/liter.",
+            "changes_over_time": "Initial elevated cortisol of 526 nmol/liter increased to 2690 nmol/liter. ACTH levels increased from 1400 ng/liter initially to 2600 ng/liter after dexamethasone treatment."
+        },
+        {
+            "procedure_name": "11-Deoxycortisol and Other Steroid Levels",
+            "date": "Approximately 5 weeks of life",
+            "findings": "11-Deoxycortisol: 78 nmol/liter (RR: 125); Androstenedione: 52 nmol/liter (RR: 14); 17-Hydroxyprogesterone: 9.6 nmol/liter (RR: 17); Testosterone: 5.8 nmol/liter (RR: 4–12); Aldosterone: 1542 pmol/liter (RR: 50–5800); Renin level completely suppressed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "GH Stimulation Testing",
+            "date": "Not specified",
+            "findings": "Peak GH level: 1.1 g/liter, consistent with GH deficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dexamethasone Suppression Test",
+            "date": "Not specified",
+            "findings": "Cortisol and ACTH levels did not suppress with doses of up to 12 mg dexamethasone.",
+            "changes_over_time": "There was no suppression of cortisol and ACTH levels despite prolonged dexamethasone treatment."
+        }
+    ]
+}

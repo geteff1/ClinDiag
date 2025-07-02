@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood Pressure: 130/90 mmHg",
+            "relevant_findings": "Cardio-thoracic and abdominal physical examinations were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood Pressure: 150/90 mmHg, Heart Rate: 110 bpm",
+            "relevant_findings": "Cardio-thoracic and abdominal examinations were negative.",
+            "changes_over_time": "Worsening blood pressure and heart rate noted compared to previous visit."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient appeared in good general condition with no dyspnea or thoracic pain.",
+            "changes_over_time": "Improvement in general condition noted compared to previous visits."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic Angiography",
+            "date": "Not specified",
+            "findings": "Aneurysm of the ascending aorta measuring up to 6 cm in diameter with a focal outpouching posteriorly; high-attenuation pericardial effusion; apparent filling defects in the right and left main pulmonary arteries; complete occlusion of blood flow into the right main pulmonary artery.",
+            "changes_over_time": "Intraoperative echocardiography demonstrated a focal dissection of the mid ascending aorta and no flow in the right main pulmonary artery; postoperative computed tomographic angiography demonstrated unobstructed main, right, and left pulmonary arteries with normal flow."
+        },
+        {
+            "procedure_name": "Intraoperative Echocardiography",
+            "date": "Not specified",
+            "findings": "Focal dissection of the mid ascending aorta with a posterior wall hematoma.",
+            "changes_over_time": "No flow seen in the right main pulmonary artery; minimal flow detected in the left main pulmonary artery; after graft replacement of the ascending aorta, unobstructed main, right, and left pulmonary arteries were demonstrated."
+        },
+        {
+            "procedure_name": "Postoperative Computed Tomographic Angiography",
+            "date": "Not specified",
+            "findings": "Contrast opacified main, right, and left pulmonary arteries without filling defect.",
+            "changes_over_time": "Contrast opacified arteries were seen after ascending aortic replacement, indicating improvement."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "19 June 2000",
+            "findings": "71 nucleated cells (of 79 total cells), with 80% neutrophils and 14% lymphocytes; protein level of 66 g/dL; glucose level of 96 g/dL; negative for bacteria, viruses, and fungi; positive for enteroviral RNA by PCR.",
+            "changes_over_time": "Second analysis on 28 June showed 18 nucleated cells (85% lymphocytes), protein level of 77 g/dL, glucose level of 86 g/dL; negative for enterovirus."
+        },
+        {
+            "procedure_name": "Viral blood culture",
+            "date": "14 June 2000",
+            "findings": "Initial positive for enterovirus.",
+            "changes_over_time": "Subsequent cultures on 19 June and 28 June were negative for enterovirus."
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Abnormal T2 signal from T11 to the conus, consistent with myelitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

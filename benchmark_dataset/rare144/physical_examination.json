@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 2018",
+            "vital_signs": {
+                "intraocular_pressure_left_eye": "18 mmHg",
+                "intraocular_pressure_left_eye_second_reading": "25 mmHg",
+                "intraocular_pressure_left_eye_third_reading": "55 mmHg"
+            },
+            "relevant_findings": {
+                "ocular_findings": [
+                    "nystagmus",
+                    "full ocular motility",
+                    "posterior chamber IOL",
+                    "band keratopathy",
+                    "normal pupillary reflex",
+                    "tessellated fundus with macular hypoplasia and retinal thinning",
+                    "optic nerve atrophy"
+                ],
+                "cycloplegic_refraction_right_eye": "-1.75*25",
+                "cycloplegic_refraction_left_eye": "+1.25*155",
+                "iris_condition": "neovascularisation"
+            },
+            "changes_over_time": [
+                {
+                    "initial_intraocular_pressure": "18 mmHg",
+                    "subsequent_changes": [
+                        {
+                            "increase": "25 mmHg",
+                            "date_of_change": "Not specified"
+                        },
+                        {
+                            "increase": "55 mmHg",
+                            "date_of_change": "Not specified"
+                        },
+                        {
+                            "anterior_chamber_wash": {
+                                "pressure_after_wash": "24-26 mmHg",
+                                "visual_acuity_changes": "No improvement in visual acuity"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

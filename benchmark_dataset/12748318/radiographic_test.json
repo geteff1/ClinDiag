@@ -1,0 +1,94 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Slight anterior pericardial thickening; no axillary, hilar, or mediastinal lymphadenopathy; no pulmonary parenchymal or pleural abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "One year after radiation therapy",
+            "findings": "Clear",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominopelvic CT scan",
+            "date": "Two years after treatment",
+            "findings": "Unchanged findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "Thirty-three months after treatment",
+            "findings": "Clear",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "Thirty-three months after treatment",
+            "findings": "No evidence of deep venous thrombosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ventilation–perfusion scan",
+            "date": "Thirty-three months after treatment",
+            "findings": "Low probability of pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Nine months later",
+            "findings": "New development of a vague mass-like lesion, 3.2 cm in diameter, in the left lower lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Three days after the chest radiograph",
+            "findings": "Multiple peripheral opacities with patchy ground-glass appearance; ring-like opacity in the left lower lobe.",
+            "changes_over_time": "Nonspecific pericardial thickening noted again."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Nine days after the previous CT scan",
+            "findings": "Multiple subpleural ground-glass and nodular opacities, essentially stable; large left lower lobe mass persisted but appeared less opaque.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Three weeks later",
+            "findings": "Many nodules throughout the lungs decreased in size; ground-glass nodule in left lower lobe enlarged to 4.2 by 2.6 cm; new nodules of 2 and 4 mm in right lower lobe.",
+            "changes_over_time": "Some nodules decreased in size while others enlarged."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Two months later",
+            "findings": "Multiple subpleural nodular opacities, a few resolved but majority increased in size; many new lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Four months later",
+            "findings": "Pulmonary nodules became less opaque and assumed a ground-glass appearance with some slight size increase.",
+            "changes_over_time": "Some nodules appeared to increase slightly in size."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Four months later",
+            "findings": "Numerous new irregular opacities throughout both lungs; larger opacity than previous examination in left lower lobe.",
+            "changes_over_time": "No lymphadenopathy or osseous lesions seen."
+        },
+        {
+            "procedure_name": "Follow-up Thoracic CT scan",
+            "date": "Two months later",
+            "findings": "Pulmonary nodules showed regression of some and enlargement of others; slight pericardial thickening.",
+            "changes_over_time": "No new nodules identified."
+        },
+        {
+            "procedure_name": "Fine-needle aspiration biopsy",
+            "date": "Not specified",
+            "findings": "No evidence of cancer; organizing fibrin, reactive bronchial epithelial cells, histiocytes, lymphocytes present; no malignant cells found.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Homogeneously enhancing infundibular process involving the optic chiasm, pituitary, and hypothalamus with T2/fluid-attenuated inversion recovery hyperintensity in the basal ganglia and surrounding subcortical white matter.",
+            "changes_over_time": "Return of nodular enhancement in the left optic nerve 7 weeks after initial follow-up."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Did not demonstrate hilar lymphadenopathy or other findings concerning for tuberculosis or sarcoidosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET/CT scan",
+            "date": "Not specified",
+            "findings": "Did not find hilar lymphadenopathy or areas of increased uptake outside the CNS.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

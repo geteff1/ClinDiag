@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Wechsler Adult Intelligence Scale (WAIS)",
+            "date": "Not specified",
+            "findings": {
+                "verbal_comprehension_IQ": 120,
+                "performance_IQ": 90,
+                "memory_scale_score": 101
+            },
+            "changes_over_time": {
+                "10_days_after_withdrawal": {
+                    "verbal_comprehension_score": 128,
+                    "performance_score": 121,
+                    "memory_scale_score": 143
+                }
+            }
+        },
+        {
+            "procedure_name": "Wechsler Adult Intelligence Scale (WAIS)",
+            "date": "Not specified",
+            "findings": {
+                "verbal_score": 98,
+                "performance_score": 96
+            },
+            "changes_over_time": {
+                "20_days_after_last_dose": {
+                    "verbal_score": 110
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "S-Ca: 2.17 mM, S-PO4: 0.99 mM, iPTH: 1220 pg/mL, S-AP: 1645 U/L, S-creatinine: 0.37 mg/dL, 25(OH)D: 5.6 ng/mL",
+            "relevant_findings": "Severe bilateral valgus deformity, muscle weakness; no bony pain; otherwise normal examination.",
+            "changes_over_time": "Rickets resolved with treatment, no further surgeries required."
+        },
+        {
+            "date": "3 Weeks After Treatment",
+            "vital_signs": "S-Ca: 3.1 mM, S-PO4: 1.19 mM, iPTH: 158 pg/mL, S-AP: 890 U/L, 25(OH)D: 24.7 ng/mL",
+            "relevant_findings": "Elevated serum calcium, normal serum phosphate, lowered but still high PTH and alkaline phosphatase, persistent hypocalciuria.",
+            "changes_over_time": "Elevated serum calcium and reduced PTH after vitamin D and calcium treatment."
+        },
+        {
+            "date": "6 Months After Cessation of Therapy",
+            "vital_signs": "S-Ca: 3.23 mM, S-PO4: 0.89 mM, iPTH: 101 pg/mL, S-AP: 113 U/L, 25(OH)D: 12.6 ng/mL",
+            "relevant_findings": "Even higher serum calcium level with persistently elevated PTH, normal vitamin D level.",
+            "changes_over_time": "Continued decline in PTH and elevation in calcium despite cessation of therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "S-Ca: 3.03 mM, S-PO4: 0.75 mM, iPTH: 109 pg/mL, S-AP: 81 U/L, 25(OH)D: n.d.",
+            "relevant_findings": "Normal renal function.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At Age 19 Years",
+            "vital_signs": "S-Ca: 2.96 mM, S-PO4: 0.71 mM, iPTH: 98 pg/mL, S-AP: 55 U/L",
+            "relevant_findings": "Height: 156 cm (SDS: -1.3).",
+            "changes_over_time": "Laboratory parameters remained relatively stable over the years."
+        }
+    ]
+}

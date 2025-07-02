@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/83 mmHg",
+                "pulse": "104 bpm"
+            },
+            "relevant_findings": "Visual acuity was 20/60 + 1 in the right eye and 20/20 in the left eye. Pupils were 4 mm in diameter, with relative afferent pupillary defect in the right eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure": {
+                    "right_eye": "16 mmHg",
+                    "left_eye": "17 mmHg"
+                }
+            },
+            "relevant_findings": "Swollen optic nerve of the right eye noted on funduscopic examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "visual_acuity": {
+                    "right_eye": "20/40",
+                    "left_eye": "20/15"
+                }
+            },
+            "relevant_findings": "Color vision impaired in the right eye. Amsler grid testing showed diffuse metamorphopsia on the right.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Emergency department examination showed nasal congestion and copious discharge.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-surgery",
+            "vital_signs": {
+                "visual_acuity": {
+                    "right_eye": "20/13",
+                    "left_eye": "20/10"
+                }
+            },
+            "relevant_findings": "Color vision normalized, and no relative afferent pupillary defect detected after surgery.",
+            "changes_over_time": "Rapid improvement in vision after surgery."
+        }
+    ]
+}

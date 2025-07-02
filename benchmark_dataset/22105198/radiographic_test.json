@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Enlarged pulmonary arteries without intraparenchymal disease or pulmonary edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-resolution computed tomography and computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "No acute pulmonary emboli, interlobular septal thickening, nodules, masses, or significant adenopathy. The pulmonary arteries were enlarged. There were small bilateral effusions and only minimal anterior lung fibrosis consistent with previous radiation therapy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Small left ventricle with hyperdynamic function (ejection fraction, 70%), severe right atrial enlargement, severely enlarged RV with normal wall thickness, severely reduced systolic function, flattening of the interventricular septum, severe tricuspid regurgitation, estimated pulmonary artery systolic pressure 75 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ventilation/perfusion (V/Q) lung scan",
+            "date": "Not specified",
+            "findings": "Interpreted as intermediate probability for chronic pulmonary thromboembolic disease based on a normal ventilation and an non-diagnostic, but atypical, perfusion pattern. No segmental or subsegmental mismatched perfusion defects.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "Mean right atrial pressure 9 mm Hg, RV systolic pressure 75 mm Hg, pulmonary artery pressure 75/37 mm Hg (mean, 49 mm Hg), pulmonary capillary wedge pressure mean of 35 mm Hg.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

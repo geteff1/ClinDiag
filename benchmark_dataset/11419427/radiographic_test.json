@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Gastroscopy",
+            "date": "Not specified",
+            "findings": "Mucosal hyperemia and friability; multiple biopsy samples were histologically normal.",
+            "changes_over_time": "A second gastroscopic examination showed hyperemia but no focal lesions."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scan",
+            "date": "Not specified",
+            "findings": "Consistent with tumor infiltration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gastroscopy",
+            "date": "Not specified",
+            "findings": "The stomach was grossly normal; microscopic foci of intramucosal diffuse carcinoma were identified in two adjacent blocks from the gastric cardia.",
+            "changes_over_time": "Seven years later, the subject is free of disease and repeated endoscopic examinations and biopsies have revealed no cancer."
+        }
+    ]
+}

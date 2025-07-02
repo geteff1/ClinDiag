@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.3°C",
+                "blood_pressure": "85/47 mm Hg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "32 breaths per minute",
+                "oxygen_saturation": "87%"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared generally unwell.",
+                "lung": "Crackles were present in the lower lung fields.",
+                "muscle_strength": {
+                    "proximal_and_distal_arms": "4 out of 5",
+                    "proximal_legs": "4 out of 5",
+                    "distal_legs": "5 out of 5"
+                },
+                "deep_tendon_reflexes": "Hypoactive in arms and knees, normal at ankles.",
+                "abdominal": "Soft, nondistended, and nontender on palpation; bowel sounds present."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

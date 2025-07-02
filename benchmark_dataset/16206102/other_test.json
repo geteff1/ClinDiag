@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Changes consistent with chronic HBV infection, moderate disease activity, moderate-to-severe fibrosis, moderate large-droplet fatty change, mild hepatocytic and Kupffer cell iron overload.",
+            "changes_over_time": "No changes in serological test results for HBV; transaminase levels remained elevated."
+        },
+        {
+            "procedure_name": "Serological Testing for HBV",
+            "date": "June 2000",
+            "findings": "HBsAg positive, HBsAb negative, HBeAg positive",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HBV DNA Testing",
+            "date": "2 January 2001",
+            "findings": "Suppression of HBV DNA to an undetectable level.",
+            "changes_over_time": "Elevated HBV DNA level at 1370 pg/mL in July 2001 after stopping lamivudine therapy."
+        }
+    ]
+}

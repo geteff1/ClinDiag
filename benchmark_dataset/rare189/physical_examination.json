@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 9, 2023",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Left abdominal pain accompanied by diarrhea; no hematochezia.",
+            "changes_over_time": "Abdominal pain alleviated by August 14, 2023; pain disappeared by August 22, 2023."
+        },
+        {
+            "date": "September 26, 2023",
+            "vital_signs": "D-dimer level: 0.19 mg/L.",
+            "relevant_findings": "CECT scans showed that the splenic vein became a fibrotic cord.",
+            "changes_over_time": "Slight decrease in thrombus extension noted on August 22, 2023, with a subsequent transition to a fibrotic cord by September 26, 2023."
+        }
+    ]
+}

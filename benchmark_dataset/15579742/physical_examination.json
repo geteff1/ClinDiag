@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2002",
+            "vital_signs": {
+                "blood_pressure": "106/70 mm Hg",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "height": "62 inches",
+                "weight": "132 pounds",
+                "palpable_neck_masses": "None",
+                "lymphadenopathy": "None",
+                "trachea_deviation": "To the right",
+                "thyroid_enlargement": "Not enlarged",
+                "cardiovascular_exam": "Unremarkable",
+                "pulmonary_exam": "Unremarkable",
+                "abdominal_exam": "Unremarkable",
+                "motor_strength": "Normal",
+                "reflexes": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "February 2003",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Physical examination was unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

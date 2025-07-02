@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper Endoscopy",
+            "date": "Not specified",
+            "findings": "Enlarged folds extending from the stomach to the beginning of the jejunum, with multiple nonbleeding erosions; evidence of chronic active gastritis.",
+            "changes_over_time": "Prominent folds throughout the stomach and duodenum noted in repeat upper endoscopy."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy specimens from the stomach and duodenum were negative for cancer, celiac disease, and eosinophilic gastroenteritis; indications of chronic active gastritis with nonspecific findings.",
+            "changes_over_time": "Subsequent biopsy from the duodenum revealed villous blunting, stromal edema, and scattered dilated crypts."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Prior colonoscopy revealed diverticulosis; repeat colonoscopy showed prominent mucus-secreting polypoid folds with intermittent erosions throughout the colon and terminal ileum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Video-Capsule Endoscopy",
+            "date": "Not specified",
+            "findings": "Nodular and polypoid-appearing small bowel with erythematous and edematous mucosa throughout.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

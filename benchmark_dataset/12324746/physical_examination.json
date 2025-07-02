@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6 °C",
+                "blood_pressure": "95/69 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general_condition": "Thin man with wheezing respiration and mild pharyngitis.",
+                "urine_collection": {
+                    "volume": "5860 mL",
+                    "glucose": "70.3 g",
+                    "creatinine_clearance": "67 mL/min"
+                },
+                "liver_function": {
+                    "total_bilirubin": "60 mg/dL",
+                    "alkaline_phosphatase": "342 IU/L",
+                    "AST": "54 IU/L",
+                    "GGT": "213 IU/L"
+                },
+                "blood_chemistry": {
+                    "blood_urea_nitrogen": "12.9 mg/dL",
+                    "blood_glucose": "301 mg/dL"
+                },
+                "hematologic": {
+                    "anemia": "Hypochromic microcytic",
+                    "hematocrit": "33.7%",
+                    "RBC_count": "3,420,000 cells/mm3",
+                    "WBC_count": "3400 cells/mm3"
+                },
+                "radiographic_findings": "Nodular infiltration in the right midzone; opacity in ventral segment of upper lobe."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

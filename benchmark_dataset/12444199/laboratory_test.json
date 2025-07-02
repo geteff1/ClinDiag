@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum alanine aminotransferase",
+            "date": "September 20, 1999",
+            "findings": "850 U/L (elevated)",
+            "changes_over_time": "Normalized several weeks later."
+        },
+        {
+            "procedure_name": "HCV RNA",
+            "date": "August 6, 1999",
+            "findings": "Reactive (690,000 copies/ml)",
+            "changes_over_time": "Nonreactive in February 2000."
+        },
+        {
+            "procedure_name": "IgG antibody to B. microti on IFA",
+            "date": "August 1999",
+            "findings": "Reactivity: 1:1024",
+            "changes_over_time": "Stronger IgG reactivity in August sample than July sample."
+        },
+        {
+            "procedure_name": "IgM antibody to B. microti on Western blotting",
+            "date": "July 1999",
+            "findings": "Positive",
+            "changes_over_time": "Stronger IgM reactivity in July sample than August sample."
+        }
+    ]
+}

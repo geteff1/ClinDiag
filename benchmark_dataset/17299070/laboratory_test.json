@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "18.9 mU/liter (reference range 0.85–6.5 mU/liter) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "fT4",
+            "date": "Not specified",
+            "findings": "0.7 pmol/liter (reference range 12.1–22.0 pmol/liter) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "Not specified",
+            "findings": "109.3 pg/ml (reference range up to 70 pg/ml) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "2.48 mmol/liter (2.1–2.65 mmol/liter) - within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphate",
+            "date": "Not specified",
+            "findings": "1.33 mmol/liter (1.36–1.96 mmol/liter) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I",
+            "date": "Not specified",
+            "findings": "91 /H9262g/liter (117–771 /H9262g/liter) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gs/H9251 protein activity",
+            "date": "Not specified",
+            "findings": "Measured in patient as 77.3% and 71.4% compared with healthy controls - both results diminished, confirming the diagnosis of PHP Ia.",
+            "changes_over_time": "The samples of her mother and younger brother showed reduced Gs/H9251 activity to 71.9% and 67.5% respectively."
+        },
+        {
+            "procedure_name": "Immunoblot analysis of Gs/H9251-L",
+            "date": "Not specified",
+            "findings": "Approximately 50% diminished protein concentration of Gs/H9251-L compared with controls; Gs/H9251-S level was unaltered.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

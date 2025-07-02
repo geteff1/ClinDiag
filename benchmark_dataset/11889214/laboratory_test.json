@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "The karyotype was normal in all of the five subjects examined.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH)",
+            "date": "Not specified",
+            "findings": "FISH analysis showed loss of SHOX from the Y chromosome of the proband and from the X chromosome of the father, demonstrating heterozygous SHOX deletion in the two males. The Xp/Yp telomeric region and MIC2 were present in two copies in the proband and the father, indicating a pseudoautosomal interstitial microdeletion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutational analysis of SHOX",
+            "date": "Not specified",
+            "findings": "Direct sequencing revealed a C502T transition at the nucleotide position 502 in the exon 4 of the proband hemizygous for SHOX. The C502T mutation was identified in heterozygous status in the sister, the mother, and the grandmother, and was absent from the father.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

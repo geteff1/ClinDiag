@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Serial interictal EEG showed independent bitemporal spikes, and bilateral posterior sharp and slow activity appearing immediately after eye closure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ictal EEG",
+            "date": "Not specified",
+            "findings": "SPS were associated with fast rhythms over both occipital areas; CPS were accompanied by rhythmic slow activity mainly over the posterior quadrants with variable but more consistent left-sided emphasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video EEG",
+            "date": "Not specified",
+            "findings": "Confirmed increased frequency of habitual seizures with posterior rhythmic slowing evolving into regional spiking; recorded a new seizure type with pseudorhythmic sharp delta activity over the posterior temporal and occipital areas.",
+            "changes_over_time": "Post-VNS, new seizure type ceased and habitual seizures settled down to the preimplantation baseline."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "118.5 cm",
+                "weight": "34.5 kg",
+                "head_circumference": "57.1 cm"
+            },
+            "relevant_findings": [
+                "Marked short stature",
+                "Long face",
+                "Hypertelorism",
+                "Slightly flattened midface",
+                "Extremely short and broad fingers",
+                "Relatively large first toes",
+                "Redundant skin of fingers",
+                "Marked shortening in the middle and distal segments of limbs"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "birth_weight": "3600 g",
+                "birth_length": "51 cm",
+                "occipital-frontal_circumference": "36 cm"
+            },
+            "relevant_findings": [
+                "Diagnosis of achondroplasia at 3 months of age",
+                "Skeletal survey revealed disproportionate mesomelic shortening of arms",
+                "Bowing of the radius",
+                "Shortening of the phalanges and metacarpal bones",
+                "Mild platyspondyly",
+                "Mild interpediculate narrowing of the vertebral column"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

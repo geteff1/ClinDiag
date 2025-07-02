@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "QT interval of 508 ms, corrected QT interval of 545 ms.",
+            "changes_over_time": "QT interval normalized to 288 ms, corrected QT interval to 385 ms after treatment."
+        },
+        {
+            "procedure_name": "Troponin I level",
+            "date": "Not specified",
+            "findings": "2.4 /H9262g/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total creatine kinase level",
+            "date": "Not specified",
+            "findings": "1246 U/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine kinase with muscle and brain subunit",
+            "date": "Not specified",
+            "findings": "18.2 /H9262g/L (index, 1.5%)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Apical akinesis with an ejection fraction of 30% to 35%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine level",
+            "date": "Not specified",
+            "findings": "Initial creatinine level of 251.63 /H9262mol/L (3.3 mg/dL), decreased to 76.25 /H9262mol/L (1.0 mg/dL).",
+            "changes_over_time": "Decreased from 251.63 to 76.25 /H9262mol/L."
+        }
+    ]
+}

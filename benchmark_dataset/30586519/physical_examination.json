@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "99% in ambient air",
+                "height": "165 cm",
+                "weight": "64 kg",
+                "body_mass_index": "23.5"
+            },
+            "relevant_findings": {
+                "lung_auscultation": "Crackles present at the right apex",
+                "sinus_percussion": "No tenderness",
+                "general": "The patient appeared well and comfortable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

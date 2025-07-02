@@ -1,0 +1,72 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 20, 1976",
+            "vital_signs": {
+                "blood_pressure": "140/100",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Blindness in the left eye with central retinal vein occlusion",
+                "Grade II/VI systolic murmur best heard in the apical and aortic areas",
+                "Healed midline abdominal scar",
+                "3 to 4 cm. pulsatile mass palpable on the anterior surface of the left antebrachium"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "April 5, 1976",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Hematocrit 26.4 volume percent",
+                "Hemoglobin 8.8 gm percent",
+                "White blood count 7,400/cu. mm.",
+                "Urinalysis revealed color, pH 7.0, specific gravity 1.012, 2+ protein, many white and occasional red blood cells, and few bacteria",
+                "Sodium 143 mEq/L",
+                "Potassium 5.2 mEq/L",
+                "Chloride 119 mEq/L",
+                "Carbon dioxide combining power 12 mEq/L",
+                "Fasting blood sugar 90 mg percent",
+                "BUN 47 mg percent",
+                "Creatinine 3.6 mg percent"
+            ],
+            "changes_over_time": "Creatinine levels improved after treatment."
+        },
+        {
+            "date": "May 4, 1976",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Creatinine 2.7 mg percent",
+                "BUN 52 mg percent"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Creatinine range from 1.9 to 2.5 mg percent",
+                "BUN from 27 to 39 mg percent",
+                "Hematocrit from 29.3 to 39.2 volume percent"
+            ],
+            "changes_over_time": "Patient has experienced no further rejection episodes and has manifested no signs nor symptoms compatible with infections."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Lateral radiograph of the right ankle",
+            "date": "Not specified",
+            "findings": "Well-defined elongated soft-tissue mass posterior to the distal tibia and calcaneus in the region of the Achilles tendon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sagittal T1-weighted MR images of the ankle",
+            "date": "Not specified",
+            "findings": "Fusiform enlargement of the Achilles tendon, isointense to muscle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Axial proton density MR images of the ankle",
+            "date": "Not specified",
+            "findings": "Convex anterior border of Achilles tendon with low-signal-intensity tendon bundles interspersed within.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Axial T2-weighted MR images of the brain",
+            "date": "Not specified",
+            "findings": "Cerebral and cerebellar atrophy; bilateral symmetric periventricular white matter T2 hyperintensity; abnormal T2 hyperintensity in the dentate nucleus and surrounding deep cerebellar white matter.",
+            "changes_over_time": "More advanced than expected for a 60-year-old patient."
+        },
+        {
+            "procedure_name": "Coronal T1-weighted MR images",
+            "date": "Not specified",
+            "findings": "Hypointensity in both dentate nuclei and surrounding deep cerebellar white matter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Axial T2-weighted FLAIR MR images",
+            "date": "Not specified",
+            "findings": "Hypointensity of the deep cerebellar white matter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Axial diffusion-weighted MR images",
+            "date": "Not specified",
+            "findings": "Increased diffusivity of the deep cerebellar white matter.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

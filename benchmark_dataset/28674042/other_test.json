@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified compound heterozygous CLDN10 sequence variants [c.446C.G (p.Pro149Arg) and c.465-1G.A (p.Glu157_Tyr192del)] in patient 1 and [c.446C.G (p.Pro149Arg) and c.217G.A (p.Asp73Asn)] in patient 2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thiazide responsiveness testing",
+            "date": "2012",
+            "findings": "Exaggerated response rather than the generally blunted response expected in Gitelman syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Furosemide response testing",
+            "date": "2012",
+            "findings": "Exaggerated response, which can be blunted in patients with Bartter syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DDAVP response testing",
+            "date": "Not specified",
+            "findings": "Reduced response to DDAVP, indicative of disturbed concentrating ability due to insufficient buildup of interstitial osmolality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

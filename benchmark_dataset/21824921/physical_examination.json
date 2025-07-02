@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Heart rate (bpm): 388, QRS duration (ms): 9.8 (normalized), QT interval (ms): 48.5, QTc interval (ms): 38.9",
+            "relevant_findings": "ECG demonstrated unusually slow atrial flutter; hypotension noted during exertion.",
+            "changes_over_time": "After catheter ablation, developed atrial standstill and prolonged QRS duration."
+        },
+        {
+            "date": "12 weeks",
+            "vital_signs": "Heart rate (bpm): 317, QRS duration (ms): 33.4, QT interval (ms): 77.9, QTc interval (ms): 55.9",
+            "relevant_findings": "Second degree or higher atrioventricular block, sinus node dysfunction, normal QT interval.",
+            "changes_over_time": "Prolongation of P-wave duration, PR interval, and QRS duration progressed with age; ventricular tachycardia observed in DN/DN mice."
+        }
+    ]
+}

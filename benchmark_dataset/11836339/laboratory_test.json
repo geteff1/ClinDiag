@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "blood pressure measurement",
+            "date": "Not specified",
+            "findings": "Patient 1: 170/105 mm Hg; Patient 2: 155/110 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "serum sodium",
+            "date": "Not specified",
+            "findings": "Patient 1: normal; Patient 2: normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "Patient 1: normal (7.9 mmol/liter); Patient 2: normal (11.1 mmol/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "creatinine",
+            "date": "Not specified",
+            "findings": "Patient 1: normal (69.0 µmol/liter); Patient 2: normal (86.6 µmol/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "potassium",
+            "date": "Not specified",
+            "findings": "Patient 1: low (2.87 mmol/liter); Patient 2: normal (3.66 mmol/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "blood pH",
+            "date": "Not specified",
+            "findings": "Patient 1: 7.452; Patient 2: 7.424.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "plasma renin activity (PRA)",
+            "date": "Not specified",
+            "findings": "Patient 1: normalized after dexamethasone treatment; Patient 2: normalized after dexamethasone treatment.",
+            "changes_over_time": "Increased to normal after therapy with dexamethasone."
+        },
+        {
+            "procedure_name": "serum DHEA",
+            "date": "Not specified",
+            "findings": "Patient 1: 2.15 nmol/liter; Patient 2: 2.98 nmol/liter. Both are low compared to normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "serum progesterone",
+            "date": "Not specified",
+            "findings": "Patient 1: high; Patient 2: normal.",
+            "changes_over_time": "Returned to low levels post-treatment."
+        },
+        {
+            "procedure_name": "serum cortisol",
+            "date": "Not specified",
+            "findings": "Patient 1: low levels, inappropriate response to ACTH; Patient 2: low levels, inappropriate response to ACTH.",
+            "changes_over_time": "Levels returned to elevated state with treatment."
+        },
+        {
+            "procedure_name": "urinary steroid levels",
+            "date": "Not specified",
+            "findings": "Elevated levels of corticosterone metabolites; low or undetectable levels of androstenedione and other steroids.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

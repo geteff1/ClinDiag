@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7ºC (98.2°F)",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "114/60 mm Hg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "neurological": "The patient appeared well and was no longer confused; she was alert, attentive, and oriented to person, place, and time.",
+                "cardiac": "Regular rate, without any murmurs or extra heart sounds; jugular venous pressure was 6 cm of water; no carotid bruits were detected.",
+                "pulmonary": "Lungs were clear on auscultation.",
+                "abdominal": "Normal.",
+                "neurological_exam": "Normal strength and sensation; symmetric reflexes; no evidence of clonus, fasciculations, or ataxia; intact short-term and long-term memory."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 months after discharge",
+            "vital_signs": {
+                "blood_glucose": "40 mg per deciliter (2.2 mmol per liter)"
+            },
+            "relevant_findings": {
+                "neurological": "Patient witnessed with a blank stare and not responding; after falling, she was minimally responsive."
+            },
+            "changes_over_time": "Symptoms were episodic, with confusion, dizziness, and transient diplopia reported prior to this event."
+        }
+    ]
+}

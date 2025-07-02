@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37°C",
+                "pulse": "109 bpm",
+                "blood_pressure": "129/78 mm Hg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Bilateral optic-disk swelling confirmed; remainder normal.",
+                "mucocutaneous_findings": "Small pink lump on right upper lip, ulcer on hard palate, multiple splinterlike ulcerations on fingers, nonblanching tender patches on toes, purple papules on feet."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "9 days before current presentation",
+            "vital_signs": {
+                "blood_pressure": "114/72 mm Hg"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Bilateral optic-disk swelling noted, remainder normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

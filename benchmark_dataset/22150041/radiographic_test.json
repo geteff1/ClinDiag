@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Mildly increased lung volumes, bilateral perihilar interstitial opacities, and peribronchial cuffing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "Not specified",
+            "findings": "Hyperinflated lungs with peribronchial thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Bilateral, symmetric paramedias -ntal ground-glass opacities, scattered regions of air trapping, areas of atelectasis in dependent portions of the lungs, and a few small parenchymal nodules.",
+            "changes_over_time": "Chest radiographs taken 2 weeks later showed hyperinflated lungs and increasing perihilar patchy opacities in the right lung."
+        }
+    ]
+}

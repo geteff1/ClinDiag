@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "1988",
+            "findings": "LM",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "1994",
+            "findings": "Keratinocytic atypia consistent with actinic keratosis; atypical melanocytic hyperplasia (insufficient for diagnosis of LM)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "1995",
+            "findings": "LM with possible early invasion",
+            "changes_over_time": "Progressed to LMM (Breslow thickness 0.2 mm, Clark level II)"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "2000",
+            "findings": "LM arising in a seborrheic keratosis",
+            "changes_over_time": "Confirmed diagnosis of LM upon re-excision"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "neurosurgical resection",
+            "date": "Not specified",
+            "findings": "The diagnosis of glioblastoma multiforme (World Health Organization grade IV) was confirmed on histologic examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "immunohistochemical analysis",
+            "date": "Not specified",
+            "findings": "Normal pattern of expression of MLH1, MSH2, and MSH6; complete absence of PMS2 in both tumor and normal tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Identified a missense mutation c.137G→T (p.Ser46Ile) in the PMS2 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "multiplex ligation-dependent probe amplification assay",
+            "date": "Not specified",
+            "findings": "Detected complete deletion of exon 10 in the PMS2 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealed more than 30 polyps, with 1 large polyp suggestive of cancer.",
+            "changes_over_time": "Histopathological analysis showed adenomatous polyps with low-grade dysplasia and one polyp with intramucosal adenocarcinoma."
+        },
+        {
+            "procedure_name": "subtotal colectomy",
+            "date": "Not specified",
+            "findings": "Histopathological analysis showed adenomatous polyps with low-grade dysplasia; one polyp had intramucosal adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

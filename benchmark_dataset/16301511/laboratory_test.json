@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Mixed axonal-demyelinating polyneuropathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Visual Evoked Potentials (VEPs)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Marked prolongation of P100 wave latency noted three years later."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Initial and three years later",
+            "findings": "Multiple T2-hyperintense lesions without gadolinium enhancement initially; three years later, showed increased T2-lesion load and one gadolinium-enhancing lesion in the pons.",
+            "changes_over_time": "Increased lesion load over three years."
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "Not specified",
+            "findings": "Increased protein content (82 mg/dL) with normal cell count; oligoclonal IgG bands restricted to CSF detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Onion bulbs and loss of myelinated fibers, without inflammatory infiltrates.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Slight elevation (2.2 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver enzymes",
+            "date": "Not specified",
+            "findings": "Slight elevation (exact values not provided).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Tachycardia observed (133 beats/min). Ejection fraction of 42% with segmental left ventricular dysfunction.",
+            "changes_over_time": "Normal heart rate after next dose of PD medications."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Peak troponin T was 0.06 ng/mL (within normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Western blot immunoassay (antibodies to 68-kD bovine inner ear protein)",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

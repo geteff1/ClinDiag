@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Whole Genome Sequencing",
+            "date": "Not specified",
+            "findings": "A novel translocation was detected affecting the lncRNA, RMST, on chromosome 12 in the absence of any other KS mutations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing",
+            "date": "Not specified",
+            "findings": "WES revealed a rare missense variant in the gene of leptin receptor, LEPR: p.V658I predicted to be benign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Copy Number Variations (CNVs)",
+            "date": "Not specified",
+            "findings": "No CNVs were detected in IGD cohort of 1,386 probands and no CNVs were detected in a large cohort of controls.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Induced Pluripotent Stem Cells (iPSC) Generation",
+            "date": "Not specified",
+            "findings": "Patient-specific iPSCs were confirmed to be pluripotent by expression of pluripotency markers.",
+            "changes_over_time": "RMST transcripts in KS1-iPSC during differentiation showed significant reductions in all isoforms of RMST (less than 10% of healthy cells)."
+        },
+        {
+            "procedure_name": "Neural Crest Cells (NCC) Differentiation",
+            "date": "Not specified",
+            "findings": "Efficiency of NCC induction was monitored based on SOX10 immunostaining.",
+            "changes_over_time": "During NCC development, RMST transcripts increased for control iPSCs while in KS1-iPSCs they remained significantly reduced."
+        }
+    ]
+}

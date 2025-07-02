@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "66 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "blood_pressure": "110/75 mm Hg",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "no rash or lymphadenopathy, no petechiae found",
+                "jugular_venous_pressure": "7 cm of blood",
+                "lung": "clear",
+                "heart": "normal sounds",
+                "abdomen": "unremarkable",
+                "peripheral_edema": "trace",
+                "pulses": "intact at hands and feet"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2nd hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "urinary_volume": "80 to 90 ml during each eight-hour shift",
+                "pruritus": "resolved",
+                "nausea": "resolved"
+            },
+            "changes_over_time": "Patient felt much improved"
+        },
+        {
+            "date": "3rd hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "no abnormalities except for trace peripheral edema"
+            },
+            "changes_over_time": "Continued to feel well"
+        }
+    ]
+}

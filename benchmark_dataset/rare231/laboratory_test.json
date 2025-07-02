@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormone Analysis",
+            "date": "Not specified",
+            "findings": {
+                "luteinizing hormone": "17.44 mIU/mL (normal range: 0.56–58.96)",
+                "prolactin": "14.91 ng/mL (normal range: 5.12–26.91)",
+                "progesterone": "0.49 ng/mL (normal range: 0.16–13.03)",
+                "estradiol": "11.37 pg/mL (normal range: 22.03–315.88)",
+                "follicle stimulating hormone": "53.31 mIU/mL (elevated, normal range: 1.78–11.60)",
+                "testosterone": "2.58 ng/mL (elevated, normal range: 0–1.23)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-Fetoprotein",
+            "date": "Not specified",
+            "findings": "0.83 ng/mL (normal range: 0.89–8.78)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor-1",
+            "date": "Not specified",
+            "findings": "377.10 ng/mL (normal range: 60–350)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytogenetics",
+            "date": "Not specified",
+            "findings": "46,XY karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenal Ultrasound",
+            "date": "Not specified",
+            "findings": "No cystic or solid mass in bilateral adrenal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominopelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "Revealed a hypoechoic mass (considered primordial uterus) in posterior bladder, and hypoechoic masses (considered bilateral testicles) in bilateral groin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Age X-Ray",
+            "date": "Not specified",
+            "findings": "Bone age was in the normal range (12 years old)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic MRI",
+            "date": "Not specified",
+            "findings": "Showed mixed signals in bilateral inguinal canal (considered vascular shadow); uterus and ovaries were not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

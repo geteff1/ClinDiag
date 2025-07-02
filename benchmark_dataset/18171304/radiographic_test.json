@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Infiltrate in the upper part of the left lung.",
+            "changes_over_time": "Four weeks after treatment, a new chest radiograph revealed a confluent infiltrate in the upper part of the left lung."
+        },
+        {
+            "procedure_name": "CT scan (pulmonary)",
+            "date": "Not specified",
+            "findings": "A single abscess with a diameter of 2 cm and several microabscesses in the same lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan (abdominal)",
+            "date": "Not specified",
+            "findings": "A cm–3 abscess in the lateral part of the right liver lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Scintigraphy",
+            "date": "Not specified",
+            "findings": "Massive bone involvement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "2004",
+            "findings": "Involvement of soft tissue and skeleton.",
+            "changes_over_time": "The lumbosacral abscess disappeared slowly."
+        },
+        {
+            "procedure_name": "Radiological examination",
+            "date": "Not specified",
+            "findings": "Osteolytic lesions in the skull.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Scintigraphy",
+            "date": "Not specified",
+            "findings": "Multiple pathological enhancements in cranium, upper and lower extremities, columna, costae, and pelvis.",
+            "changes_over_time": "After 4 years of treatment, scintigraphy revealed unchanged signal enhancement in the sixth costae and the right part of the pelvis."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "FSH and LH Analysis",
+            "date": "Not specified",
+            "findings": "FSH levels ranged from 6.7 to 19.1 mIU/mL; LH levels ranged from 5.8 to 15.1 mIU/mL. Both FSH and LH remained mildly elevated.",
+            "changes_over_time": "There has been no dramatic change in LH and FSH levels over the years."
+        },
+        {
+            "procedure_name": "Estradiol (E2) and Estrone (E1) Analysis",
+            "date": "Not specified",
+            "findings": "E2 levels ranged from 3,500 to 47 pg/mL; E1 levels ranged from 1,040 to 1,050 pg/mL.",
+            "changes_over_time": "E2 decreased from 1910 to 47 pg/mL after norethindrone treatment."
+        },
+        {
+            "procedure_name": "Bone Mineral Density (DXA)",
+            "date": "Not specified",
+            "findings": "Z-scores of -3.8 at age 15 years and -4.3 at age 23 years, indicating significant reduction in bone mineral density.",
+            "changes_over_time": "Bone density continued to decrease with z-scores becoming more negative over time."
+        },
+        {
+            "procedure_name": "Ovarian Volume Measurement",
+            "date": "Not specified",
+            "findings": "Mean ovarian volume ranged from 38.2 to 123.7 cm³; normal is <20 cm³.",
+            "changes_over_time": "Ovarian volume decreased from 123.7 to 10.5 cm³ after treatment with norethindrone."
+        }
+    ]
+}

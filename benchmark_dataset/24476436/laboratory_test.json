@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count was 5800 per cubic millimeter (reference range, 4500 to 11,000). 73% neutrophils (reference range, 40 to 70), 14% lymphocytes (reference range, 22 to 44), 6% monocytes (reference range, 4 to 11), and 7% eosinophils (reference range, 0 to 8).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "Blood level of C-reactive protein was 9.7 mg per liter (reference range, <8.0, negative for inflammation).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiotensin-Converting Enzyme (ACE) Test",
+            "date": "Not specified",
+            "findings": "Blood level of ACE was 55 U per liter (reference range, 8 to 53).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B Surface Antigen Test",
+            "date": "Not specified",
+            "findings": "Hepatitis B virus surface antigen negative; hepatitis B virus surface antibodies positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, with a borderline early-repolarization abnormality and T-wave inversions in leads V1 and V2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the Abdomen",
+            "date": "Not specified",
+            "findings": "Multiple rounded, hypoechoic areas in the spleen, not enlarged, with no evidence of cholelithiasis or cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scans of the Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Numerous ill-defined, hypoattenuating lesions in the spleen; a hypoattenuating lesion in the liver, slightly increased in size from a study 8 years earlier.",
+            "changes_over_time": "CT scan at follow-up 2 days after discharge showed mediastinal lymphadenopathy and bilateral hilar lymphadenopathy."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "One year after initial presentation",
+            "findings": "Resolution of opacities in the left upper lobe and persistent mild hilar lymphadenopathy.",
+            "changes_over_time": "One year after initial presentation showed resolution of opacities."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sequencing analysis",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation in the NKX2.5 gene (S265R) and a heterozygous mutation in the PAX8 promoter region (/H11002456C/H11022T).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunofluorescence microscopy",
+            "date": "Not specified",
+            "findings": "Correct nuclear localization of both wild-type and mutant NKX2.5 proteins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMSA (Electrophoretic Mobility Shift Assay)",
+            "date": "Not specified",
+            "findings": "Mutant NKX2.5 binds to the NKE_2, DIO2, TG, and TPO promoter elements equally as the wild-type protein, but with 30-40% reduced transactivation of thyroglobulin and thyroid peroxidase promoters.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transfection studies",
+            "date": "Not specified",
+            "findings": "Mutant PAX8 promoter showed a significantly reduced transcriptional activation of a luciferase reporter gene compared to the wild-type promoter.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

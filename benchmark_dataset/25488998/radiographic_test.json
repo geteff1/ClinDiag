@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Nerve conduction studies (NCS)",
+            "date": "Not specified",
+            "findings": "Reduced or absent sensory nerve action potential (SNAP) amplitudes of the upper and lower limb sensory nerves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG study",
+            "date": "Not specified",
+            "findings": "Diffuse neurogenic changes in the cranial, cervico-thoracic, and lumbosacral segments with fibrillation potentials.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Chronic neurogenic changes with mild myopathic changes (few necrotic fibers, rare regenerating fibers, increased internalized nuclei, fiber splitting) in quadriceps muscle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy of pectoralis major",
+            "date": "Not specified",
+            "findings": "Chronic neurogenic changes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

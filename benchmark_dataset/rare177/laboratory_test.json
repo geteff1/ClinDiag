@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "32 weeks gestation",
+            "findings": "Cystic lesion on the umbilical cord at the fetal end, measuring 3.6 * 1.9 cm.",
+            "changes_over_time": "Increased in size to 4.3 * 5.7 cm at 34 weeks; further increase in size to 5.5 * 6.0 cm at 35 weeks."
+        },
+        {
+            "procedure_name": "Cardiac tocogram",
+            "date": "36 weeks gestation",
+            "findings": "Non-reassuring cardiac tocogram.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Micturating cystourethrogram",
+            "date": "Post-delivery (exact date not specified)",
+            "findings": "Confirmed specifics of the condition, details not provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine microscopy",
+            "date": "Not specified",
+            "findings": "Negative for infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histologic examination from umbilical cord",
+            "date": "Not specified",
+            "findings": "Extensive edema and myxomatous degeneration forming pseudocysts containing mucoid fluid; normal-appearing vessels (2 arteries and 1 vein).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histologic examination of placenta and membranes",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

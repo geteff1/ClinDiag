@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "No consolidation or evidence of pulmonary edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Multiple enlarged mediastinal and hilar lymph nodes with dystrophic calcification, a nodule measuring 1 cm in diameter in the peripheral lung abutting the pleura, evidence of diverticulosis, unchanged compression fracture of the first lumbar vertebra, stable enlargement of the spleen measuring 24 cm in length, and multiple enlarged right inguinal lymph nodes with internal heterogeneity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG)–positron-emission tomography and CT (PET-CT)",
+            "date": "Not specified",
+            "findings": "Intense FDG uptake in the right inguinal lymph nodes, approximately three times the uptake in the liver, with central photopenia suggestive of necrosis in the dominant node. Moderate FDG uptake in right external iliac and pelvic sidewall lymph nodes. Mild FDG uptake in a subpleural nodule in the left upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis (4 months later)",
+            "date": "Not specified",
+            "findings": "Progressive generalized lymphadenopathy and hepatosplenomegaly, with the right pelvic sidewall lymph node having decreased in size.",
+            "changes_over_time": "Right pelvic sidewall lymph node decreased in size."
+        }
+    ]
+}

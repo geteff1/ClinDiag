@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the temporal bone",
+            "date": "Not specified",
+            "findings": "Hyperdense soft-tissue mass, 3.2 cm by 2.5 cm by 4 cm, against the lateral aspect of the left mastoid bone, with opacification of the left mastoid air cells and portions of the middle-ear cavity, and retraction of the tympanic membrane.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain and temporal bone",
+            "date": "1 week later",
+            "findings": "Enhancing soft-tissue mass, 4.5 cm by 2.8 cm by 4.5 cm, in the periauricular region of the left ear, with opacification of the left mastoid air cells and middle-ear cavity.",
+            "changes_over_time": "The mass increased in size from the CT scan, completely obliterating the lumen of the external auditory canal."
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "1 month later",
+            "findings": "Bulky mass that completely obliterates the lumen of the external auditory canal, mildly hypointense relative to the brain on T1-weighted images, heterogeneous on T2-weighted images, and showing moderate heterogeneous enhancement.",
+            "changes_over_time": "The mass increased in size compared to the previous MRI, obliterating the external auditory canal."
+        }
+    ]
+}

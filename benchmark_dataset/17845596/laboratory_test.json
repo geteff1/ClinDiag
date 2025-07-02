@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basophil histamine release test",
+            "date": "Not specified",
+            "findings": "Histamine release from basophils was 54% for the patient and 0% for the control",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin prick tests (SPTs)",
+            "date": "Not specified",
+            "findings": "Positive for house dust mite and birch; positive for salbutamol, terbutaline, and pirbuterol",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Forced expiratory volume in 1 second (FEV1)",
+            "date": "Day 5",
+            "findings": "FEV1 was 3.22 L (85% predicted); a drop to 2.41 L after salbutamol inhalation indicated a 25% drop",
+            "changes_over_time": "FEV1 decreased from 3.15 L to 1.94 L (38% drop) after terbutaline dry powder inhalation"
+        },
+        {
+            "procedure_name": "Histamine release (HR)",
+            "date": "Not specified",
+            "findings": "HR was 22%, 10%, and 7% for salbutamol, terbutaline, and formoterol respectively; negative with prednisolone and ipratropium",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

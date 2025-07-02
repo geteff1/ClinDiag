@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia with a normal axis and non-specific repolarization changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "Mildly dilated LV with moderately to severely decreased LV systolic function (ejection fraction (EF) 25%-35%) and a moderate-size defect communicating the aortic root and the right ventricle. Continuous flow on Doppler interrogation of the jet between the aortic root and the RV was observed.",
+            "changes_over_time": "Postoperative echocardiogram showed no evidence of residual shunting lesions with preserved LV and RV systolic function and no significant valvular disease."
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Moderate RV dilatation (EDV index of 145 ml/m2), severe RV dysfunction (EF 25%), mild LV dilatation (EDV index 117 ml/m2) with global hypokinesis, and moderate to severe LV dysfunction (EF 33%). Severe calculated aortic regurgitation (regurgitant fraction 70% by phase contrast) without significant visual aortic insufficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram (TEE)",
+            "date": "Not specified",
+            "findings": "Sinus of Valsalva aneurysm rupture (SOVAR) with a large shunt with continuous flow between the noncoronary sinus of Valsalva and the RV.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": "Normal coronary arteries, elevated RV (50/12 mmHg) and pulmonary artery (PA) pressures (55/22, mean 33 mmHg), normal cardiac output (5.2 L/min, 2.8 L/min/m2), normal pulmonary vascular resistance (PVR) of 1.7 Wood Units (WU), and large left-to-right shunt with a Qp/Qs ratio of 2.1:1. Notable wide pulse pressure (100/40 mmHg) with low diastolic blood pressure due to aortic diastolic run-off.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

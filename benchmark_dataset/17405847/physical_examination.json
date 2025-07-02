@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "GH": {
+                    "Patient 1": "39.1 ng/ml (baseline), >50 ng/ml (after stimulation)",
+                    "Patient 2": "58 ng/ml"
+                },
+                "GHBP": {
+                    "Patient 1": "383 pmol/liter (normal range 431-1892)",
+                    "Patient 2": "208 pmol/liter"
+                },
+                "IGF-I": {
+                    "Patient 1": "20 ng/ml (-/H110025.0 SDS)",
+                    "Patient 2": "20 ng/ml (-/H110022.6 SDS)"
+                },
+                "IGFBP-3": {
+                    "Patient 1": "1720 ng/ml (-/H110022.6 SDS)",
+                    "Patient 2": "1540 ng/ml (-/H110022.0 SDS)"
+                }
+            },
+            "relevant_findings": "Patient 1 had a height of 90.3 cm, body weight of 12.6 kg, and delayed bone age of 2.5 years. Mild midfacial hypoplasia, depressed nasal bridge, moderate frontal bossing, and small hands were observed. No high-pitched voice or hypoglycemic episodes were noted. Patient 2 had a height of 71.8 cm with delayed bone age of 1.2 years, but no conspicuous features of Laron syndrome.",
+            "changes_over_time": "Patient 1's IGF-I therapy increased height velocity from -3.0 SDS to -1.1 SDS in the first year, indicating improvement."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "GH": {
+                    "Patient 1": "Not specified",
+                    "Patient 2": "Not specified"
+                },
+                "GHBP": {
+                    "Patient 1": "Not specified",
+                    "Patient 2": "Not specified"
+                },
+                "IGF-I": {
+                    "Patient 1": "Not specified",
+                    "Patient 2": "Not specified"
+                },
+                "IGFBP-3": {
+                    "Patient 1": "Not specified",
+                    "Patient 2": "Not specified"
+                }
+            },
+            "relevant_findings": "Normal birth weight (3100 g) and length (47.5 cm) for Patient 1. No exact clinical findings regarding the second examination date.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

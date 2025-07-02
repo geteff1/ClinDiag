@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "10 days before admission",
+            "findings": "Pathological and cytologic examination of the biopsy specimen revealed a giant-cell tumor of bone.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Embolization",
+            "date": "6 days after the first stage of surgery",
+            "findings": "Embolization was performed to decrease vascularity in preparation for resection of the giant-cell tumor.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Surgery - Resection",
+            "date": "Second stage surgery performed 6 days after the first stage",
+            "findings": "En bloc excision of the tumor with sparing of the nerve roots; reconstruction of the vertebral body with expandable spinal-segment cage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiotherapy",
+            "date": "After recovery from abdominal surgery",
+            "findings": "The recurrent tumor of the lumbar spine was treated with a cumulative dose of 58 Gy at 2 Gy per fraction; the duodenal metastasis was treated with 56 Gy at 2 Gy per fraction.",
+            "changes_over_time": "Follow-up CT revealed a decrease in size of the L5–S1 mass of more than 50% and a reduction in the size of the duodenal metastasis of more than 80%."
+        },
+        {
+            "procedure_name": "Denosumab Therapy",
+            "date": "Five months after completion of radiotherapy",
+            "findings": "The requirement for narcotics for pain control decreased, and no new lesions subsequently developed.",
+            "changes_over_time": "The lung nodule has remained stable in size."
+        }
+    ]
+}

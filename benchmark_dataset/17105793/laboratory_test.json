@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prostate-Specific Antigen (PSA) Test",
+            "date": "Not specified",
+            "findings": "Initial PSA level was 240 ng/mL; decreased to 77 ng/mL after 6 weeks of treatment; further decreased to 4.6 ng/mL after radiation treatment (week 17); decreased to 0.4 ng/mL after completing antiandrogen treatment (week 35) and remained 0.4 ng/mL at week 56.",
+            "changes_over_time": "Initial level was 240 ng/mL; decreasing trend observed over time, showing a reduction at each checkpoint: 240 ng/mL to 77 ng/mL to 4.6 ng/mL to 0.4 ng/mL."
+        },
+        {
+            "procedure_name": "Total Serum Testosterone Test",
+            "date": "Not specified",
+            "findings": "Total serum testosterone level was 44 ng/dL (1.5 nmol/L), consistent with expected castrate levels.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

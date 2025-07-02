@@ -1,0 +1,129 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum electrolytes and kidney function test",
+            "date": "Not specified",
+            "findings": {
+                "sodium": {
+                    "value": 139,
+                    "unit": "mmol/L",
+                    "reference_range": "135 to 145",
+                    "status": "Within normal range"
+                },
+                "potassium": {
+                    "value": 3.3,
+                    "unit": "mmol/L",
+                    "reference_range": "3.4 to 4.8",
+                    "status": "Outside normal range"
+                },
+                "chloride": {
+                    "value": 94,
+                    "unit": "mmol/L",
+                    "reference_range": "100 to 108",
+                    "status": "Outside normal range"
+                },
+                "carbon_dioxide": {
+                    "value": 21.2,
+                    "unit": "mmol/L",
+                    "reference_range": "23.0 to 31.9",
+                    "status": "Outside normal range"
+                },
+                "urea_nitrogen": {
+                    "value": 32,
+                    "unit": "mg/dL",
+                    "reference_range": "8 to 25",
+                    "status": "Outside normal range"
+                },
+                "creatinine": {
+                    "value": 1.5,
+                    "unit": "mg/dL",
+                    "reference_range": "0.6 to 1.5",
+                    "status": "Outside normal range"
+                },
+                "glucose": {
+                    "value": 136,
+                    "unit": "mg/dL",
+                    "reference_range": "70 to 110",
+                    "status": "Outside normal range"
+                },
+                "amylase": {
+                    "value": 153,
+                    "unit": "U/L",
+                    "reference_range": "3 to 100",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "glucose": {
+                    "value": 65,
+                    "unit": "mg/dL",
+                    "reference_range": "50 to 75",
+                    "status": "Within normal range"
+                },
+                "protein": {
+                    "value": 58,
+                    "unit": "mg/dL",
+                    "reference_range": "5 to 55",
+                    "status": "Outside normal range"
+                },
+                "white_cells": "None"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Eighth hospital day",
+            "findings": {
+                "acute_infarct": "None",
+                "new_hemorrhage": "None",
+                "white_matter_changes": "Resolution of edema and improvement in white matter changes"
+            },
+            "changes_over_time": "Progression of white-matter abnormalities with edema during initial admission, followed by improvement during the second admission"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": {
+                "opacity": {
+                    "size": "Approximately 1.0 cm by 0.6 cm",
+                    "location": "Right apex",
+                    "status": "New finding"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Twelve days before admission",
+            "findings": {
+                "white_matter_changes": "More extensive changes compared to previous scanning"
+            },
+            "changes_over_time": "Change from mild scattered hyperintensities to more extensive white matter changes"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "On admission",
+            "findings": {
+                "white_matter_edema": "Developed in the temporal lobes",
+                "status": "Progression noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Last admission",
+            "findings": {
+                "microhemorrhages": {
+                    "count": "Increased number",
+                    "location": "Occipital, posterior temporal, and parietal lobes"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

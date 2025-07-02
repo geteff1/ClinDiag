@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "No abnormalities except for sinus tachycardia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Doppler Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild mitral regurgitation without evidence of mitral-valve prolapse. Mild-to-moderate aortic regurgitation with eccentric jet angled at anterior mitral leaflet. Aortic annulus and root were dilated.",
+            "changes_over_time": "Aortic diameter measurements were reported as 40 mm at sinuses of Valsalva, 42 mm at sinotubular junction, and 47 mm at ascending aorta (compared to normal values)."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "A focal linear flap distal to the aortic valve, consistent with presence of a type A dissection. The aorta was slightly dilated to 4.4 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of Chest",
+            "date": "Second hospital day",
+            "findings": "Normal aortic contour, streaky density in the mediastinum, area of slightly increased density consistent with extravascular hematoma, small pericardial effusion, ascending aorta dilated to 4.5 cm.",
+            "changes_over_time": "Initial imaging studies did not provide a specific diagnosis, thus additional diagnostic testing was indicated."
+        }
+    ]
+}

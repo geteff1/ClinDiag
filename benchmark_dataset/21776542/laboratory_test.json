@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "37 mg/dL (normal, 7 to 20 mg/dL)",
+            "changes_over_time": "Decreased from 33 mg/dL at ten weeks to 22 mg/dL at six months."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.26 mg/dL (normal, 0.5 to 1.5 mg/dL)",
+            "changes_over_time": "Decreased from 2.4 mg/dL preoperatively to 1.6 mg/dL at six months."
+        },
+        {
+            "procedure_name": "Serum Metal-Ion Levels",
+            "date": "Not specified",
+            "findings": {
+                "titanium": "456.87 ng/mL (normal, 4.1 ng/mL)",
+                "cobalt": "1.55 ng/mL (normal, 0.1 to 0.2 ng/mL)",
+                "chromium": "0.914 ng/mL (normal, 0.15 ng/mL)",
+                "nickel": "0.48 ng/mL (normal, 0.3 ng/mL)"
+            },
+            "changes_over_time": "Overall trend toward decreasing metal-ion levels; titanium, chromium, and nickel levels decreased substantially, while cobalt levels fluctuated."
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-Reactive Protein Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Synovial Fluid Analysis",
+            "date": "Not specified",
+            "findings": "1150 white blood cells/mL (38% segmented leukocytes, 11% lymphocytes, and 51% monocytes) and 30,000 red blood cells/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

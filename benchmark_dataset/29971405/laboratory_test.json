@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "2013",
+            "findings": "Increased creatinine level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "2013",
+            "findings": "Multiple benign renal cysts in the transplanted kidney; the largest cyst was 2 cm in diameter.",
+            "changes_over_time": "In 2015, developed additional cysts."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "2015",
+            "findings": "Additional cysts observed in the transplanted kidney.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Change-in-function mutation (c.1285dupC (p.His429Profs*27)) in the FLCN gene; negative results for mutations in PKD1, PKD2, and PKHD1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "At age 19 years",
+            "findings": "Normal results on routine EEG recording in wakefulness and stage 1 sleep.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At age 20 years",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "cVEEG",
+            "date": "At age 26 years",
+            "findings": "Multiple events occurring during stage 2 sleep similar to prior studies; a paucity of slow-wave sleep and complete absence of REM sleep.",
+            "changes_over_time": "On second day of admission, application of a nicotine patch led to almost complete resolution of clinical and electrical events and increased duration of slow-wave sleep and recorded REM sleep."
+        },
+        {
+            "procedure_name": "Sleep study",
+            "date": "At age 20 years",
+            "findings": "Absence of slow-wave sleep and reduced amounts of REM sleep, without any evidence of central or obstructive apnea.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

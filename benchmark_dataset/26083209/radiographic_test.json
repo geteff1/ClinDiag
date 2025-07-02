@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "10 days before current admission",
+            "findings": "ICD pulse generator on the left side of the chest, with ICD lead tips projecting over the right atrium and right ventricle, clear and inflated lungs, mild enlargement of the cardiac silhouette, no pleural effusion or pneumothorax",
+            "changes_over_time": "Mild enlargement of the cardiac silhouette was stable compared with earlier radiographs"
+        },
+        {
+            "procedure_name": "Posteroanterior and lateral chest radiographs",
+            "date": "Current admission",
+            "findings": "New left pleural effusion, no other clinically significant changes, cardiomediastinal silhouette within normal limits, ICD leads in a position similar to previous radiograph",
+            "changes_over_time": "New left pleural effusion observed compared to the previous radiograph"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "On current admission (after presentation)",
+            "findings": "High-density left pleural effusion, ICD lead perforating the pericardium and adjacent fat",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

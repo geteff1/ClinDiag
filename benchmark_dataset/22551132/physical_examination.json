@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "148/89 mm Hg",
+                "pulse": "103 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "weight": "128 kg (282 lb)",
+                "height": "168 cm (66 in)",
+                "wheezing": "Loud, diffuse expiratory wheezing audible with and without stethoscope",
+                "respiratory_phase": "Prolonged expiratory phase",
+                "general_condition": "No acute respiratory distress, breathing appeared uncomfortable"
+            },
+            "changes_over_time": "Initially improved with antiasthma therapy, progressively worsened requiring hospitalizations every 3 to 4 months after relocation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "lung_function": {
+                    "FVC": "3.62 liters (91% of predicted)",
+                    "FEV1": "2.67 liters (83% of predicted)",
+                    "FEV1:FVC_ratio": "0.73",
+                    "total_lung_capacity": "6.03 liters (102% of predicted)",
+                    "residual_volume": "2.41 liters (122% of predicted)"
+                },
+                "chest_imaging": "No airway or parenchymal abnormalities; clear lungs",
+                "vocal_cord_movement": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Diffuse monomorphous infiltrate of atypical lymphocytes with sparing of the uppermost dermis; majority of lymphoid cells positive for the B-cell marker CD20; presence of immunoglobulin heavy chain gene rearrangement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Hypercellular marrow with small lymphoid aggregates of large pleomorphic cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic Scan",
+            "date": "Not specified",
+            "findings": "Demonstrated a mass in the right axilla and adenopathy of the right axillary, right hilar, and right inguinal areas; spleen slightly enlarged.",
+            "changes_over_time": "Repeat CT scans showed resolution of the axillary mass and adenopathy."
+        },
+        {
+            "procedure_name": "Granulocyte Colony-Stimulating Factor (G-CSF) administration",
+            "date": "Not specified",
+            "findings": "The patient’s white blood cell count increased from 0.587 × 10^3/µL to 4 × 10^3/µL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

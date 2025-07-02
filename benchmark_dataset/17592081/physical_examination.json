@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "160 bpm"
+            },
+            "relevant_findings": {
+                "QTc": "712 ms",
+                "AV_block": "2:1 atrioventricular",
+                "T_wave_alternans": "Observed during 1:1 conduction"
+            },
+            "changes_over_time": "Patient remained asymptomatic during her first 5 years of life after epicardial pacemaker placement."
+        }
+    ]
+}

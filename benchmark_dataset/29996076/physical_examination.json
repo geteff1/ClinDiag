@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "175/90 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "mental_status": [
+                    {
+                        "description": "impaired short-term recall",
+                        "mood": "expansive",
+                        "emotional_lability": "intermittent tearfulness"
+                    }
+                ],
+                "physical_examination": [
+                    {
+                        "appearance": "agitated and belligerent",
+                        "speech": "pressured, rapid but interruptible",
+                        "complexion": "ruddy",
+                        "edema": "mild, symmetric pitting edema of the legs",
+                        "neurologic_examination": "normal except for mild dysmetria and low-amplitude action tremor"
+                    }
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "6 months before the current admission",
+            "findings": "Complete heart block with a slow junctional escape rhythm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified.",
+            "findings": "Dilated left ventricle with severe systolic dysfunction, mild-to-moderate mitral regurgitation, ejection fraction of approximately 20%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroconvulsive therapy (ECT)",
+            "date": "During hospitalization for major depressive disorder (specific dates not provided).",
+            "findings": "Modest improvement in depression symptoms observed after initial treatments.",
+            "changes_over_time": "After 18 treatments, significant improvement in sleep, appetite, energy, and concentration. Reported mild anterograde memory deficits resolved within weeks; permanent retrograde amnesia for events preceding treatment."
+        }
+    ]
+}

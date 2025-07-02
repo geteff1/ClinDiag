@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse_rate": "74 bpm",
+                "blood_pressure": "125/74 mmHg",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "cardiac_examination": "Normal character of first and second heart sound without additional sounds",
+                "fundoscopy": "Bleeding retinal artery macroaneurysms in the right retina and sub-retinal gliosis suggesting prior laser treatment"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

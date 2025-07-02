@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroid ultrasonography",
+            "date": "Not specified",
+            "findings": "Slightly hypoechogenic gland with an estimated volume of 18 ml and no nodules.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color flow Doppler sonography (CFDS)",
+            "date": "Not specified",
+            "findings": "Pattern 0 (absent hypervascularity) and peak systolic velocity was normal (3 cm/sec).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid radioactive iodine uptake (RAIU)",
+            "date": "Not specified",
+            "findings": "0.7% after 3 hours and 0.9% at 24 hours, indicating very low uptake.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

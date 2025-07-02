@@ -1,0 +1,75 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "3-hour glucagon test",
+            "date": "Not specified",
+            "findings": {
+                "GH": {
+                    "basal": "8.3 mU/liter",
+                    "stimulated": "30.4 mU/liter"
+                },
+                "cortisol": {
+                    "basal": "397 nmol/liter",
+                    "stimulated": "954 nmol/liter"
+                },
+                "blood_glucose": {
+                    "fasting": "1.1 mmol/liter",
+                    "during_glucagon": "between 1.0 and 1.3 mmol/liter"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour blood glucose profile",
+            "date": "Not specified",
+            "findings": {
+                "blood_glucose": "1.9 mmol/liter"
+            },
+            "changes_over_time": "Persisting hypoglycemia"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization study",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "case": 1,
+                    "IGF1R_copies": 1,
+                    "deletion": "15q26.2"
+                },
+                {
+                    "case": 2,
+                    "IGF1R_copies": 3,
+                    "recombinant_chromosome": "15 with partial duplication at 15q (q25-qter)"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mitochondrial activity assay",
+            "date": "Not specified",
+            "findings": {
+                "case_1_growth": "slower than controls",
+                "case_2_growth": "accelerated compared with controls"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot for IGF1R phosphorylation",
+            "date": "Not specified",
+            "findings": {
+                "case_1": "decreased compared with controls",
+                "case_2": "increased compared with controls"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum IGF-I and IGFBP-3 levels",
+            "date": "5.1 years old",
+            "findings": {
+                "IGF_I": "10.0 nmol/liter (normal range: 2.5 –20.0 nmol/liter)",
+                "IGFBP_3": "3.2 mg/liter (normal range: 1.0 –3.8 mg/liter)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

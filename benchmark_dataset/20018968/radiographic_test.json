@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Widened mediastinum, enlarged cardio-pericardial silhouette, large right-sided pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the chest",
+            "date": "Seventh day of hospitalization",
+            "findings": "3-cm hypoechoic well-marginated mass in the left superior mediastinum, presence of pleural effusions",
+            "changes_over_time": "Indicated possible complex fluid collection, blood, or solid mass"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Echogenic material along the epicardial surface of both ventricles, circumferential pericardial effusion, evidence of tamponade",
+            "changes_over_time": "Left ventricular ejection fraction estimated at 40% before procedure, rose to 65-70% after procedure"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "1 week after chemotherapy began",
+            "findings": "Anterior mediastinal mass that widens and infiltrates the mediastinum, surrounds great vessels, and extends to pericardium, bilateral pleural effusions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "After the seizure",
+            "findings": "Enhancing lesions in the white matter of the frontal lobes, restricted diffusion consistent with involvement by lymphoma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Sixth day of hospitalization",
+            "findings": "Deposition of echogenic material and circumferential involvement of the pericardium, aorta, and main pulmonary artery, thrombus in left atrial appendage",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

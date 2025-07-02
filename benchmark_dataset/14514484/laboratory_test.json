@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Moderately severe subcortical white matter disease.",
+            "changes_over_time": "Striking increase in both gray and white matter lesion volumes over 4 years; total brain volume remained relatively constant."
+        },
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE)",
+            "date": "Not specified",
+            "findings": "Scores: 28 out of 30 at initial evaluation; 16 at 15-month visit; 21 at 18-month visit; 25 at 24-month visit.",
+            "changes_over_time": "Progressive decline in cognitive function observed, with scores dropping from 28 to 16 and then partially improving to 21 and 25."
+        },
+        {
+            "procedure_name": "Blood Chemistries, CBC, and Thyroid Profile",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Vitamin B12 injections",
+            "date": "Not specified",
+            "findings": "Initiated a course of monthly vitamin B12 injections.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

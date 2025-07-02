@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Immunoglobulin E (IgE) Test",
+            "date": "Not specified",
+            "findings": "Elevated total IgE levels (899 U/ml, normal: <100 U/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radioallergosorbent Testing",
+            "date": "Not specified",
+            "findings": "Raised titers of specific IgE antibodies against latex (12.9 U/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tryptase Level Test",
+            "date": "Not specified",
+            "findings": "Tryptase concentration was 26.4 µg/L (normal value: <12 µg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histamine Level Test",
+            "date": "Not specified",
+            "findings": "Histamine concentration was 68.2 nM (normal value: <9 nM)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Latex-Specific Immunoglobulin E Test",
+            "date": "Not specified",
+            "findings": "Latex-specific IgE was 2.39 kU/L (normal value: <0.35 kU/L; class 2: moderate sensitivity)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Prick Test",
+            "date": "Nine weeks after surgery",
+            "findings": "Positive result: 9-mm wheal and 30-mm flare at 15 min with latex; control gave a wheal of 4 mm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

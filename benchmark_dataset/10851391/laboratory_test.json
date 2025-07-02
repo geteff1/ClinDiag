@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum potassium test",
+            "date": "Not specified",
+            "findings": "Serum potassium values were between 3.4 to 4.0 mEq/L during hospitalization, with instances of 2.3 and 3.0 mEq/L, and exceeding 4.0 mEq/L (4.4 or 4.0 mEq/L) after attacks.",
+            "changes_over_time": "Potassium levels demonstrated fluctuations; lower values during paralytic episodes and increased values without supplementation after episodes."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Decreased T wave amplitude and appearance of U wave on ECG when potassium levels were 2.3 and 3.0 mEq/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Needle electromyography",
+            "date": "Not specified",
+            "findings": "Frequent myotonic repetitive discharges noted, absent during paralytic episodes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Occasional tubular aggregates on Gomori-trichrome staining without other pathologic changes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

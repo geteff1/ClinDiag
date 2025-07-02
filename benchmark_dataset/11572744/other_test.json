@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cranial Ultrasound",
+            "date": "Not specified",
+            "findings": "Ultrasounds of her head never showed intraventricular hemorrhage or periventricular leukomalacia (PVL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Retinal Examination",
+            "date": "Not specified, but during follow-up",
+            "findings": "Stage 1 retinopathy of prematurity.",
+            "changes_over_time": "Retinopathy of prematurity has resolved."
+        },
+        {
+            "procedure_name": "Abdominal Operation (Stricture Resection)",
+            "date": "Day 53",
+            "findings": "Underwent stricture resection and a temporary ileostomy due to necrotizing enterocolitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intensive Care Assessment",
+            "date": "During first days after birth",
+            "findings": "Noelle was intubated and responsive to surfactant, weaning to room air within 1 day.",
+            "changes_over_time": "By day 5, she was extubated to continuous positive airway pressure."
+        }
+    ]
+}

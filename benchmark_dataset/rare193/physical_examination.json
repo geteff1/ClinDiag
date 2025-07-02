@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2019",
+            "vital_signs": {
+                "visual_acuity": {
+                    "right_eye": "20/80",
+                    "left_eye": "20/400"
+                },
+                "IOP": {
+                    "right_eye": "38 mm Hg",
+                    "left_eye": "32 mm Hg"
+                }
+            },
+            "relevant_findings": {
+                "ocular_findings": {
+                    "lids": "normal",
+                    "conjunctiva": "normal",
+                    "lens": "normal",
+                    "cornea": "posterior embryotoxon",
+                    "iris_features": "corectopia and pseudopolycoria",
+                    "advanced_glaucomatous_damage": "present"
+                },
+                "facial_exam": "mild craniofacial dysmorphism"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Porphyria Screen",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": {
+                    "1st episode": "27.1 mmol/L",
+                    "2nd episode": "9.2 mmol/L",
+                    "normal range": "5–20 mmol/L"
+                },
+                "PBG": {
+                    "1st episode": "12 µmol/L",
+                    "2nd episode": "3 µmol/L",
+                    "normal range": "0–10 µmol/L"
+                },
+                "PBG/creatinine ratio": {
+                    "1st episode": "0.4",
+                    "2nd episode": "0.3",
+                    "normal range": "0–1.5"
+                },
+                "total porphyrins": {
+                    "1st episode": "1183 nmol/L",
+                    "2nd episode": "318 nmol/L",
+                    "normal range": "0–300 nmol/L"
+                },
+                "porphyrins/creatinine ratio": {
+                    "1st episode": "43.7",
+                    "2nd episode": "34.6",
+                    "normal range": "0–35"
+                },
+                "uroporphyrin": {
+                    "1st episode": "47 nmol/L",
+                    "2nd episode": "13 nmol/L",
+                    "normal range": "0–40 nmol/L"
+                }
+            },
+            "changes_over_time": {
+                "creatinine": "Decreased from 27.1 to 9.2 mmol/L",
+                "PBG": "Decreased from 12 to 3 µmol/L",
+                "PBG/creatinine ratio": "Decreased from 0.4 to 0.3",
+                "total porphyrins": "Decreased from 1183 to 318 nmol/L",
+                "porphyrins/creatinine ratio": "Decreased from 43.7 to 34.6",
+                "uroporphyrin": "Decreased from 47 to 13 nmol/L"
+            }
+        },
+        {
+            "procedure_name": "Faecal Porphyrin Screen",
+            "date": "Not specified",
+            "findings": {
+                "coproporphyrin": {
+                    "1st episode": "1124 nmol/L",
+                    "2nd episode": "305 nmol/L",
+                    "normal range": "0–150 nmol/L"
+                }
+            },
+            "changes_over_time": {
+                "coproporphyrin": "Decreased from 1124 to 305 nmol/L"
+            }
+        },
+        {
+            "procedure_name": "Blood Porphyrin Screen",
+            "date": "Not specified",
+            "findings": {
+                "red blood cell porphyrin": {
+                    "result": "0.9",
+                    "normal range": "0–1.8"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

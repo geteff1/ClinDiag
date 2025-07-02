@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "August 2001",
+            "findings": "Three visible tumors. Suspicion of metastatic disease.",
+            "changes_over_time": "After administration of imatinib mesylate, the CT scan demonstrated a slight improvement in the liver metastases."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "January 2002",
+            "findings": "Decrease in previous metastases; no new lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "March 2002",
+            "findings": "New metastases to the liver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "No new tumors; existing tumors reduced in size.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "112/72 mmHg",
+                "pulse": "Normal",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "tender_subcutaneous_nodules": "Multiple palpable nodules over posterior scalp, occiput, upper back along ribs, sacrum, and buttocks. Nodules were mobile, well circumscribed, and painful on palpation.",
+                "weight": "63.2 kg",
+                "white_cell_count": "13,500 per cubic millimeter",
+                "erythrocyte_sedimentation_rate": "Normal"
+            },
+            "changes_over_time": "Nodularity decreased but pain persisted around biopsy sites. Subcutaneous nodules regressed during corticosteroid therapy but gradually reappeared over time."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Up to 38.9°C",
+                "blood_pressure": "Normal",
+                "pulse": "Normal",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "decreased_nodularity": "Persistent pain at biopsy sites."
+            },
+            "changes_over_time": "Nodularity decreased but painful nodules continued to be present."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "Normal",
+                "pulse": "Normal",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "subcutaneous_nodules": "Mobile, well-circumscribed subcutaneous nodules present on multiple sites including lower back, buttocks, and thighs. A nodule was noted at the site of a previous biopsy."
+            },
+            "changes_over_time": "Continuing pain in multiple areas with subtle and painful nodules on examination."
+        }
+    ]
+}

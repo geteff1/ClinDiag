@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Elevated level of 105 mm/h (normal <20 mm/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgG Level",
+            "date": "Not specified",
+            "findings": "Increased to 7,690 mg/dL (normal 694 to 1,618 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Immunofixation Electrophoresis",
+            "date": "Not specified",
+            "findings": "Demonstrated IgG monoclonal protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Protein Level",
+            "date": "Not specified",
+            "findings": "Elevated protein level of 97 mg/dL (normal 20 to 50 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Cell Count",
+            "date": "Not specified",
+            "findings": "Cell count of 2/mm³",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Oligoclonal Bands",
+            "date": "Not specified",
+            "findings": "Detected oligoclonal band identical to serum protein band",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Widespread giant and polyphasic motor unit potentials, fibrillation, and fasciculation potentials in all four limbs",
+            "changes_over_time": "Two months after cessation of pesticide use, acute denervation potentials disappeared"
+        },
+        {
+            "procedure_name": "Nerve Conduction Studies",
+            "date": "Not specified",
+            "findings": "Decreased compound muscle action potential amplitudes without conduction block; normal sensory responses",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Motor Evoked Potentials (MEPs)",
+            "date": "Not specified",
+            "findings": "Prolonged central conduction time on left side (26.4 milliseconds, normal <21.04 milliseconds); right side normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Organic Acids Analysis",
+            "date": "Not specified",
+            "findings": "Increased levels of 3-methylglutaconic acid (108.1, normal <14.2), 3-methylglutaric acid (12.8, normal <14.5), and 3-hydroxyisovaleric acid (15.2, normal <12.3)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

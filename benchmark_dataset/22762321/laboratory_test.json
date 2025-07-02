@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit 29.4%, Mean Corpuscular Volume 109 fl, White-cell count 9350 per cubic millimeter, Platelet count 432,000 per cubic millimeter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase level 210 U per liter, Alanine aminotransferase 44 U per liter, Alkaline phosphatase 191 U per liter, Total bilirubin 0.6 mg per deciliter, Albumin 3.3 g per deciliter, Prothrombin time 13.6 seconds, Partial-thromboplastin time 33.8 seconds.",
+            "changes_over_time": "Elevation in aspartate aminotransferase level without a concomitant increase in alanine aminotransferase level suggests that the former may be of muscular origin."
+        },
+        {
+            "procedure_name": "Electrolyte Panel (including copper, zinc, vitamin D, folate)",
+            "date": "Not specified",
+            "findings": "Thiamine levels 45 nmol per liter (normal range, 80 to 150), Serum folate 4.6 ng per milliliter (normal range, 5.3 to 9.9), Copper 46 μg per deciliter (normal range, 80 to 155), Zinc 57 μg per deciliter (normal range, 66 to 120), 25-hydroxyvitamin D 6 ng per milliliter (normal range, 25 to 80).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of Brain",
+            "date": "Not specified",
+            "findings": "Enhancement and enlargement of the mammillary bodies indicating necrosis, consistent with Wernicke’s encephalopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Results suggested a generalized, length-dependent polyneuropathy with prominent involvement of sensory axons.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

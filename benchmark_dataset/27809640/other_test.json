@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hearing test (BERA)",
+            "date": "Not specified",
+            "findings": "At 2 months of age, patient 2 had a click-threshold of 70 dB right and 60 dB left, which increased to 100 dB right and 70 dB left at 2 months.",
+            "changes_over_time": "Progression of hearing loss diagnosed, with thresholds at 15 months being 95 dB bilateral and at 20 months being unverifiable."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "15 months of age for patient 2",
+            "findings": "CT scans revealed a complex cystic malformation of the inner ear and vestibular structures, without separation of inner and middle ear.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Growth hormone stimulation test",
+            "date": "5 years for patient 1; 2 years for patient 2",
+            "findings": "Patient 1 showed insufficient growth hormone levels after stimulation (max GH 6.27 ng/ml). Patient 2's test showed maximum GH of 6.08 ng/ml (norm > 7.25 ng/ml), consistent with growth hormone deficiency.",
+            "changes_over_time": "Patient 1 initially showed sufficient catch-up growth but later developed low IGF-1 and IGFBP-3 levels; therapy was discontinued due to compliance issues."
+        }
+    ]
+}

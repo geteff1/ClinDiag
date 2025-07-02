@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "64 cm",
+                "weight": "5360 g",
+                "head_circumference": "43 cm"
+            },
+            "relevant_findings": {
+                "description": "nondysmorphic; anorexia leading to insufficient food intake; very poorly developed adipose tissue; normal male external genitalia; palpable testis volume 3 ml; clinodactyly of the fifth finger.",
+                "date": "11 months"
+            },
+            "changes_over_time": "Weight and height showed deterioration over time. At 2.8 years, height was 76 cm (which is a decline) and weight was 7 kg."
+        },
+        {
+            "date": "2.8 years",
+            "vital_signs": {
+                "height": "76 cm",
+                "weight": "7 kg",
+                "head_circumference": "44.5 cm"
+            },
+            "relevant_findings": {
+                "description": "Bone age was 18 months; GH stimulation tests showed basal serum GH concentrations of 0.7 ng/ml and a peak concentration of 26 ng/ml after stimulation.",
+                "date": "2.8 years"
+            },
+            "changes_over_time": "Growth velocity decreased during a reduction of GH therapy dosage (0.2 mg/kg). No significant growth was observed during 14 months of GH withdrawal."
+        },
+        {
+            "date": "8.5 years",
+            "vital_signs": {
+                "height": "Not specified",
+                "weight": "Not specified",
+                "head_circumference": "47.5 cm"
+            },
+            "relevant_findings": {
+                "description": "No signs of dysmorphia; persistent microcephaly.",
+                "date": "9 years"
+            },
+            "changes_over_time": "At 10.6 years, head circumference showed persistent microcephaly, but behavioral assessments revealed only mild developmental delay."
+        }
+    ]
+}

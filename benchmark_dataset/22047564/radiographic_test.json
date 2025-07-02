@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Patchy bibasilar lung opacities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Mild basilar lung atelectasis and nodules measuring 1.6 cm in diameter on both adrenal glands, with a density of 35 to 45 Hounsfield units.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dedicated adrenal CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse enlargement of both adrenal glands (maximum dimension, >3 cm) without discrete nodules; the adrenal parenchyma appeared diffusely heterogeneous with minimal contrast enhancement.",
+            "changes_over_time": "After 9 months of treatment with fluconazole, showed a reduction in the size of the adrenal lesions."
+        },
+        {
+            "procedure_name": "Whole-body positron-emission tomography (PET)",
+            "date": "Not specified",
+            "findings": "18F-FDG avidity exclusively in the adrenal glands.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

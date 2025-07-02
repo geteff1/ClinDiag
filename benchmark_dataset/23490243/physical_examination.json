@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "PaO2": "64.9 mm Hg",
+                "PaCO2": "42.7 mm Hg"
+            },
+            "relevant_findings": {
+                "lung_function": {
+                    "forced_expiratory_volume": "61.1% of predicted values",
+                    "maximum_voluntary_ventilation": "52.2% of predicted values"
+                },
+                "examination_pertaining_to_cancer": "15-mm endobronchial mass obstructing roughly 80% of the left main bronchial lumen"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "8 months post-operation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "postoperative_CT_scan": "Left anastomotic stoma unobstructed; no pulmonary atelectasis observed"
+            },
+            "changes_over_time": "No deterioration and absence of relapse at follow-up"
+        }
+    ]
+}

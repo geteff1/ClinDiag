@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin": "12.5 g/dl (normal: 11.0–16.0 g/dl)",
+                "Hematocrit": "37.5% (normal: 34.0–45.0%)",
+                "Platelet count": "160,000 per mm3 (normal: 150,000–400,000 per mm3)",
+                "White-cell count": "14,300 per mm3 (normal: 4500–11,000 per mm3)",
+                "Differential count": {
+                    "Neutrophils": "85.9%",
+                    "Lymphocytes": "7.2%",
+                    "Monocytes": "6.5%",
+                    "Eosinophils": "0.1%",
+                    "Basophils": "0.1%",
+                    "Immature granulocytes": "0.2%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Metabolites",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "136 mmol/litre (normal: 137–146 mmol/litre)",
+                "Potassium": "3.5 mmol/litre (normal: 3.5–5.3 mmol/litre)",
+                "Chloride": "99 mmol/litre (normal: 98–107 mmol/litre)",
+                "Carbon dioxide": "20 mmol/litre (normal: 23–32 mmol/litre)",
+                "Anion gap": "18 mmol/litre (normal: 5–15 mmol/litre)",
+                "Urea nitrogen": "7 mg/dl (normal: 5–25 mg/dl)",
+                "Creatinine": "0.6 mg/dl (normal: 0.5–1.1 mg/dl)",
+                "Fasting glucose": "111 mg/dl (normal: <100 mg/dl)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Aspartate aminotransferase": "17 U/litre (normal: 15–41 U/litre)",
+                "Alanine aminotransferase": "13 U/litre (normal: 14–54 U/litre)",
+                "Alkaline phosphatase": "116 U/litre (normal: 35–104 U/litre)",
+                "Total bilirubin": "0.4 mg/dl (normal: <1.2 mg/dl)",
+                "Total protein": "6.9 g/dl (normal: 6.4–8.3 g/dl)",
+                "Albumin": "3.5 g/dl (normal: 4.0–5.0 g/dl)",
+                "Lipase": "25 U/litre (normal: 13–60 U/litre)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

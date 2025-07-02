@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Hypocalcemia (calcium levels varied between 1.3 to 2.5 mmol/liter across patients).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "High serum alkaline phosphatase levels ranging from 395 to 2043 IU/liter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "High serum PTH concentrations ranging from 560 to over 1300 pg/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D (25OHD)",
+            "date": "Not specified",
+            "findings": "Normal or increased serum concentrations of 25OHD (ranging from 6 to 336 ng/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 1,25-dihydroxyvitamin D (1,25(OH)2D)",
+            "date": "Not specified",
+            "findings": "Low or undetectable serum concentrations of 1,25(OH)2D (ranging from 0 to 77 pg/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing for 1-Hydroxylase Gene",
+            "date": "Not specified",
+            "findings": "Direct sequencing identified mutations in 1-hydroxylase gene in patients.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

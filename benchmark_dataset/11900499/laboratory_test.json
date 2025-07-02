@@ -1,0 +1,19 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum tumor marker assay",
+            "date": "Not specified",
+            "findings": {
+                "alpha-fetoprotein": "265 g/mL",
+                "human chorionic gonadotropin": "120 IU/L"
+            },
+            "changes_over_time": "Normal levels after chemotherapy."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "4-cm retroperitoneal mass initially; normal results after chemotherapy.",
+            "changes_over_time": "Normal after chemotherapy."
+        }
+    ]
+}

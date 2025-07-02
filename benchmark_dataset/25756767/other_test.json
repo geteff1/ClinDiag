@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Increased theta activity and decreased alpha activity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Bilateral decrease in peroneal nerve compound motor action potential amplitude",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxicology studies",
+            "date": "Not specified",
+            "findings": "Mercury concentration of 876 mg/kg in the herbs, serum concentration of 23.2 ng/mL, urine concentration of 14.8 ng/mL",
+            "changes_over_time": "After treatment, serum mercury level dropped to 3.1 ng/mL and urinary level to 3.9 ng/mL"
+        },
+        {
+            "procedure_name": "24-hour urine analysis",
+            "date": "Not specified",
+            "findings": "Protein level at 6.0 g/L and high urinary N-acetyl b-D glucosamine (NAG) level at 27.5 U/24 hours",
+            "changes_over_time": "Residual proteinuria with a protein level of 2.5 g/L and a urinary NAG level of 14.5 U/24 hours after treatment"
+        },
+        {
+            "procedure_name": "Delirium Rating Scale assessment",
+            "date": "Not specified",
+            "findings": "Score of 23 indicating delirium",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

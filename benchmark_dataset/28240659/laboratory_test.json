@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "18F-FDG PET/CT scan",
+            "date": "Not specified",
+            "findings": "The scan demonstrated multiple 18F-FDG -avid lesions involving the nasal tip (SUV max of 15.5), bilateral lungs (SUV max of 11.5), right hilum and mediastinum (SUV max of 11.3), and rectum (SUV max of 18.2). The rectal lesion was confirmed to be an adenoma by biopsy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of lung lesion",
+            "date": "Not specified",
+            "findings": "The biopsy revealed a pulmonary squamous cell carcinoma, consistent with the nasal-tip lesion pathologically.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

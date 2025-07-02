@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "leukocyte_count": "9500 cells/mm³",
+                "erythrocyte_sedimentation_rate": "42 mL/dL",
+                "hemoglobin_level": "13.4 g/dL"
+            },
+            "relevant_findings": {
+                "left_lower_extremity": "large, flat plaque",
+                "other_extremities": "numerous smaller plaques",
+                "hands_and_feet": "diffuse swelling, induration, and erythema",
+                "nails": "marked onychomycosis on both feet",
+                "nerves": "slightly tender right peroneal nerve, no enlargement",
+                "sensory_testing": "focal loss of protective sensation on plantar surfaces of both feet; normal sensation in hands",
+                "bursa": "swelling, erythema, and warmth on the left olecranon bursa"
+            },
+            "changes_over_time": "One month after starting MDT, the patient developed a marked increase of erythema and induration of the skin lesions, consistent with a type 1 leprosy reaction."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2 °C",
+                "WBC_count": "7400 cells/mm³",
+                "hemoglobin_level": "11.6 g/dL",
+                "erythrocyte_sedimentation_rate": "198 mL/dL",
+                "rheumatoid_factor_titer": "1:8",
+                "antinuclear_antibody_titer": "1:80"
+            },
+            "relevant_findings": {
+                "nodules_and_plaques": "multiple raised, pink, warm nodules and plaques on all extremities, chest, back, and bilaterally on face",
+                "sensory_testing": "loss of protective sensation in both feet; normal sensation in both hands"
+            },
+            "changes_over_time": "One month after starting MDT, she developed clinical signs of a type 1 leprosy reaction, and after 6 months of MDT, a biopsy revealed increased organization and decreased inflammation."
+        }
+    ]
+}

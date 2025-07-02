@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "pulse": "60 bpm",
+                "respiratory_rate": "12 breaths per minute",
+                "body_mass_index": "28.1",
+                "jugular_venous_pressure": "6 cm of water"
+            },
+            "relevant_findings": "No cardiac murmur or rub; remainder of examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "blood_pressure": "130/70 mm Hg",
+                "pulse": "78 bpm and irregular",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Skin was cool with no inflammation or hematoma at the ICD placement site; first and second heart sounds normal, no murmur; breath sounds slightly diminished at the bases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Current admission (10 days after ICD placement)",
+            "vital_signs": {
+                "blood_pressure": "120/55 mm Hg",
+                "pulse": "65 bpm",
+                "jugular_venous_pressure": "9 cm of water"
+            },
+            "relevant_findings": "Normal heart sounds, no rubs or murmurs; breath sounds diminished at the left base.",
+            "changes_over_time": "Blood pressure decreased from 130/70 mm Hg to 120/55 mm Hg; jugular venous pressure increased from not recorded to 9 cm of water."
+        }
+    ]
+}

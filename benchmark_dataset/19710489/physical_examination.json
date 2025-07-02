@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "blood_pressure": "101/64 mm Hg",
+                "pulse": "123 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "rash": "diffuse maculopapular rash",
+                "lymph_nodes": "numerous nontender lymph nodes in cervical, postauricular, and axillary regions",
+                "spleen": "tip palpable 2 cm below left costal margin",
+                "abdominal_exam": "soft abdomen, remainder normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Four days before admission",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": "diffuse erythematous rash",
+                "lymph_nodes": "palpable lymph nodes in posterior auricular, anterior cervical, supraclavicular, axillary, and inguinal regions",
+                "spleen": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

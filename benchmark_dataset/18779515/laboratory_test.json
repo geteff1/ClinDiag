@@ -1,0 +1,38 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood studies",
+            "date": "Not specified",
+            "findings": {
+                "microcytic anemia": "131 g/L",
+                "transaminases": "mildly elevated",
+                "vitamin E": {
+                    "level": "7.0 mmol/L",
+                    "normal_range": "15–41 mmol/L",
+                    "ratio_to_cholesterol": "1.46 (normal < 2.22)"
+                },
+                "serum ceruloplasmin": {
+                    "level": "34 mg/L",
+                    "normal_range": "200 mg/L"
+                },
+                "serum copper": {
+                    "level": "1.1 mmol/L",
+                    "normal_range": "11.0–26.0 mmol/L"
+                },
+                "other levels": "normal for serum folate, B12, iron, ferritin, transferrin saturation, manganese, zinc, vitamin A, and vitamin D"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat serum vitamin E",
+            "date": "6 months after initiation of replacement therapy",
+            "findings": {
+                "vitamin E": {
+                    "level": "27.3 mmol/L",
+                    "status": "normal"
+                }
+            },
+            "changes_over_time": "Moderate improvement in cerebellar function and gait documented after 12 months of vitamin E and copper replacement therapy."
+        }
+    ]
+}

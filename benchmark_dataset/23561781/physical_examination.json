@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7ºC",
+                "blood_pressure": "121/73 mmHg",
+                "pulse_rate": "94/minute"
+            },
+            "relevant_findings": {
+                "findings": "Necrosis of the distal right second toe and right hallux with absent right posterior tibial and dorsalis pulses.",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4 weeks later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": "Second to fifth distal phalanges underwent autoamputation; right hallux required transphalangeal amputation.",
+                "date": "4 weeks later"
+            },
+            "changes_over_time": "Distal phalanges underwent autoamputation over the 4-week period, and the right hallux subsequently required further amputation."
+        },
+        {
+            "date": "18 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": "Achieved virological suppression on HAART with CD4 counts in excess of 600 cells/mm3.",
+                "date": "18 months later"
+            },
+            "changes_over_time": "Improvement in immune status with virological suppression achieved through HAART."
+        }
+    ]
+}

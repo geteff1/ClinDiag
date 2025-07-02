@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine kinase test",
+            "date": "Not specified",
+            "findings": "Creatine kinase values were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle electromyography",
+            "date": "Not specified",
+            "findings": "Detected a myopathic pattern, and spontaneous activity was absent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Revealed two heterozygous SNVs: c.862A>T, p.(Lys288Ter) and c.93del, p.(Lys32ArgfsTer78) in the STAC3 gene.",
+            "changes_over_time": "Validation and segregation analyses confirmed compound heterozygosity of these SNVs in the patient."
+        }
+    ]
+}

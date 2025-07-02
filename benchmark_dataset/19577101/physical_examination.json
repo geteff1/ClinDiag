@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2003",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient had abnormal shadows on a chest x-ray and was diagnosed with usual interstitial pneumonia.",
+            "changes_over_time": "The patient's general condition improved after lung transplantation in August 2003. By November 2008, her oxygen saturation was 98% to 99% at room air."
+        },
+        {
+            "date": "November 2008",
+            "vital_signs": "Oxygen saturation: 98% to 99% at room air.",
+            "relevant_findings": "Serologic follow-up demonstrated acquisition of HTLV-I infection post-transplantation.",
+            "changes_over_time": "Initially negative for HTLV-I, the patient developed a positive serologic status with antibody titers significantly increasing over time."
+        }
+    ]
+}

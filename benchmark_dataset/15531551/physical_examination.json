@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_sodium": "130 mmol/liter",
+                "serum_chloride": "81 mmol/liter",
+                "serum_potassium": "2.1 mmol/liter",
+                "urine_calcium_to_creatinine_ratio": "0.07"
+            },
+            "relevant_findings": "The 8-yr-old boy exhibited a significant electrolyte disturbance with hypokalemia and metabolic alkalosis, as well as failure to thrive and symptoms of Bartter syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_sodium": "123 mmol/liter",
+                "serum_chloride": "68 mmol/liter",
+                "serum_potassium": "1.8 mmol/liter",
+                "urine_calcium_to_creatinine_ratio": "0.02"
+            },
+            "relevant_findings": "The 13-yr-old boy showed marked failure to thrive and significant electrolyte disturbance with a diagnosis of Bartter syndrome; he was treated and showed catch-up growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "2010",
+            "findings": "Estimated pulmonary artery systolic pressure (PASP) was 80 mmHg.",
+            "changes_over_time": "In July 2016, PASP increased to 120 mmHg."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "July 2016",
+            "findings": "Estimated PASP was 120 mmHg. Femoral artery oxygen saturation was 93.4%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "March 2021",
+            "findings": "Revealed an enlarged hilar shadow and widened pulmonary arteries; no parenchymal lesions were discerned.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "March 2021",
+            "findings": "Pulmonary artery pressure (PAP) was 60/39 mmHg, lower than aortic pressure. Femoral artery oxygen saturation was 88.5%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma N-terminal pro-brain natriuretic peptide test",
+            "date": "August 2021",
+            "findings": "Plasma N-terminal pro-brain natriuretic peptide was 94.2 pg/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "June 2022",
+            "findings": "Estimated PASP was 47 mmHg.",
+            "changes_over_time": "Estimated PASP decreased from 55 mmHg in March 2021 to 47 mmHg in June 2022."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "February 2023",
+            "findings": "Estimated PASP was 45 mmHg.",
+            "changes_over_time": "Estimated PASP decreased from 47 mmHg in June 2022 to 45 mmHg in February 2023."
+        }
+    ]
+}

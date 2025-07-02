@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "White-cell count: 5100 per cubic millimeter (67% neutrophils, 17% lymphocytes, 7% monocytes, and 7% bands); Hemoglobin: 12.9 g per deciliter; Platelet count: 132,000 per cubic millimeter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic metabolic panel",
+            "date": "Not specified",
+            "findings": "Sodium level: 134 mmol per liter; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Alanine aminotransferase: 95 U per liter (normal value, <49); Aspartate aminotransferase: 102 U per liter (normal value, <40); Alkaline phosphatase: 66 U per liter (normal range, 27 to 129); Total bilirubin: 0.8 mg per liter (normal range, 0.3 to 1.2).",
+            "changes_over_time": "Elevated aminotransferase levels are a nonspecific finding that can result from a range of infectious and noninfectious processes."
+        },
+        {
+            "procedure_name": "Serologic tests for murine typhus",
+            "date": "Two days after beginning doxycycline therapy",
+            "findings": "R. typhi IgM titers: >1:64; IgG titers: 1:512.",
+            "changes_over_time": "The fever and headache resolved within 72 hours after starting doxycycline."
+        }
+    ]
+}

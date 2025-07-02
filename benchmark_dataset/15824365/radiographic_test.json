@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "January 2003",
+            "findings": "Increased signal intensity on T2 and fluid-attenuated inversion recovery (FLAIR) sequences in the cerebellar dentate nuclei, periaqueductal region, dorsal midbrain and pons, and inferior olives, symmetrically.",
+            "changes_over_time": "Resolution of previous signal abnormalities noted in June 2003."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "June 2003",
+            "findings": "Normal brain MRI with no abnormalities.",
+            "changes_over_time": "Compared to January 2003 MRI findings, showed resolution of previous signal abnormalities."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Capillary blood glucose",
+            "date": "Not specified",
+            "findings": "227 mg/dl, outside normal range (70–110 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fructosamine",
+            "date": "Not specified",
+            "findings": "403 μmol/liter, outside normal range (200–285 μmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "41.7%, within normal range (41.0–53.0%)",
+            "changes_over_time": "37.8% (2 months later)"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "13.8 g/dl, within normal range (13.5–17.5 g/dl)",
+            "changes_over_time": "12.3 g/dl (2 months later)"
+        },
+        {
+            "procedure_name": "Erythrocyte count",
+            "date": "Not specified",
+            "findings": "4.54 × 10–6/liter, within normal range (4.50–5.90 × 10–6/liter)",
+            "changes_over_time": "4.13 × 10–6/liter (2 months later)"
+        },
+        {
+            "procedure_name": "Red-cell distribution width",
+            "date": "Not specified",
+            "findings": "14.2%, within normal range (11.5–14.5%)",
+            "changes_over_time": "15.9% (2 months later)"
+        },
+        {
+            "procedure_name": "Reticulocytes",
+            "date": "Not specified",
+            "findings": "6.6%, elevated (normal range: 0.5–2.5%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemorhobin A1c",
+            "date": "Not specified",
+            "findings": "4.70%, within normal range (3.80–6.40%)",
+            "changes_over_time": "Still low despite poor glycemic control (1 year later)"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "2.4 mg/dl, elevated (normal range: 0.0–1.0 mg/dl)",
+            "changes_over_time": "2.6 mg/dl (2 months later)"
+        },
+        {
+            "procedure_name": "Direct Bilirubin",
+            "date": "Not specified",
+            "findings": "0.7 mg/dl, elevated (normal range: 0.0–0.4 mg/dl)",
+            "changes_over_time": "0.8 mg/dl (2 months later)"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "405 U/liter, elevated (normal range: 110–210 U/liter)",
+            "changes_over_time": "Improved but still slightly elevated (1 year later)"
+        }
+    ]
+}

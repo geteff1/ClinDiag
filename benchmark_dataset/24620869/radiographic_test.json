@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT of the brain",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain and cervical spine",
+            "date": "Not specified",
+            "findings": "Hyperintensity in the cortex along the left frontoparietal region with leptomeningeal enhancement most prominent in basal cistern, pons, and cerebellum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Diffuse leptomeningeal enhancement, most pronounced in left frontal region, focus of restricted diffusion in left precentral gyrus consistent with ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "A 3.6-cm mass in the left inferior frontal lobe with irregular margins and central necrosis, peripheral enhancement of the mass.",
+            "changes_over_time": "Persistent diffuse leptomeningeal enhancement."
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "7 days after craniotomy",
+            "findings": "Extensive leptomeningeal enhancement along the entire spinal cord and cauda equina.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

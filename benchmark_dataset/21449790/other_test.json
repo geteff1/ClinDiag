@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia (121 beats per minute)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Clear, colorless fluid with 3 white cells per cubic millimeter; protein 33 mg per deciliter; glucose concentration 37 mg per deciliter; cytologic examination showed no malignant cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Hospital day 3",
+            "findings": "Hypercellular marrow with maturing tri-lineage hematopoiesis and increased histiocytes; hemophagocytosis was present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Day of admission",
+            "findings": "Clear, colorless fluid; glucose concentration 37 mg/dL; protein 33 mg/dL; 76 red cells in tube 1, 313 red cells in tube 4; no malignant cells.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

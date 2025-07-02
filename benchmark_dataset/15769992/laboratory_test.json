@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ACTH Stimulation Test",
+            "date": "Not specified",
+            "findings": {
+                "serum cortisol (basal)": "12.0 μg/dL",
+                "serum cortisol (post-ACTH)": "13.0 μg/dL",
+                "ACTH (basal)": "170 pg/ml"
+            },
+            "changes_over_time": "At 2 yr of age after 1 day of hydrocortisone withdrawal, an iv ACTH test showed a high basal ACTH with a blunted cortisol response."
+        },
+        {
+            "procedure_name": "Serum Aldosterone",
+            "date": "Not specified",
+            "findings": {
+                "serum aldosterone (patient 1)": "b28.0 ng/dL",
+                "serum aldosterone (patient 4)": "30.0 ng/dL"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Calcium to Creatinine Ratio",
+            "date": "Not specified",
+            "findings": {
+                "patient 1": "0.03 (normal <0.2)",
+                "patient 4 (before treatment)": "0.1 (normal <0.2)",
+                "patient 4 (after treatment)": "0.94"
+            },
+            "changes_over_time": "In patient 4, the urinary calcium to creatinine ratio was normal before treatment but became elevated while receiving sodium chloride supplements."
+        },
+        {
+            "procedure_name": "Bone Age Assessment",
+            "date": "Not specified",
+            "findings": {
+                "patient 1 (age 5 yr)": "Delayed bone age with pseudoepiphysis in the second, fourth, and fifth metacarpals.",
+                "patient 2 (age 5 yr 11 months)": "Bone age was 2.5 years."
+            },
+            "changes_over_time": "At 3.5 yr of age, GH tests and serum IGF-I were normal."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Triglyceride Level",
+            "date": "Not specified",
+            "findings": {
+                "maximum": {
+                    "mmol/L": 81.4,
+                    "mg/dL": 7200
+                },
+                "minimum": {
+                    "mmol/L": 7.9,
+                    "mg/dL": 700
+                },
+                "TG–TC ratio": "14:1",
+                "apoB level": "<0.40 g/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LPL Activity",
+            "date": "Not specified",
+            "findings": {
+                "Method1": {
+                    "result": 2.5,
+                    "reference_percentage": 7.2
+                },
+                "Method2": {
+                    "result": 134.99,
+                    "reference_percentage": 35.7
+                },
+                "Method3": {
+                    "result": 0,
+                    "reference_percentage": 0
+                },
+                "LPL mass": {
+                    "result": 112,
+                    "reference_percentage": 39.9
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglyceride Polygenic Risk Score",
+            "date": "Not specified",
+            "findings": {
+                "male_twin_score": "17/28",
+                "female_twin_score": "15/28",
+                "older_brother_score": "10/28"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

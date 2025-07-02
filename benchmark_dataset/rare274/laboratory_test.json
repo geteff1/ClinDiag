@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "95.0 mm/h (normal <20.0 mm/h)",
+            "changes_over_time": "Decreased to normal levels during remission intervals."
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "131.92 mg/l (normal <8.00 mg/l)",
+            "changes_over_time": "Decreased to normal levels during remission intervals."
+        },
+        {
+            "procedure_name": "IL-6",
+            "date": "Not specified",
+            "findings": ">1000 pg/ml (normal <5.9 pg/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TNF-α",
+            "date": "Not specified",
+            "findings": "77.6 pg/ml (normal <8.1 pg/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "12.73 × 10^9/l (normal 3.50–9.50 × 10^9/l)",
+            "changes_over_time": "Decreased to normal levels during remission intervals."
+        },
+        {
+            "procedure_name": "Eosinophil count",
+            "date": "Not specified",
+            "findings": "0.82 × 10^9/l (normal 0.02–0.50 × 10^9/l)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "B lymphocyte count",
+            "date": "Not specified",
+            "findings": "112/μl (normal 180–324/μl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "NK cell count",
+            "date": "Not specified",
+            "findings": "168/μl (normal 175–567/μl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG",
+            "date": "Not specified",
+            "findings": "5.59 g/l (normal 7.00–17.00 g/l)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ANA and ANCA testing",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at a rate of 115 beats per minute, right-axis deviation, left atrial enlargement, Q waves in the inferior leads, low voltage, and nonspecific ST-segment changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Mild-to-moderate pericardial effusion, thickening of the left ventricular walls suggestive of concentric left ventricular hypertrophy, normal left ventricular function, dilated pulmonary artery, and mild tricuspid-valve regurgitation. Right ventricular pressure estimated to be 91 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "Severe pulmonary hypertension with elevated right atrial pressure, markedly reduced cardiac output, and mixed venous oxygen saturation indicating right ventricular failure.",
+            "changes_over_time": "No changes specified over time."
+        },
+        {
+            "procedure_name": "Lymph node biopsy",
+            "date": "Not specified",
+            "findings": "Reactive lymph node with intact nodal architecture, follicular hyperplasia, paracortical hyperplasia, and plasmacytosis. No evidence of cancer or granulomas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

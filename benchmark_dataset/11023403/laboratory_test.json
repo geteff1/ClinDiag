@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Amyloid P scan",
+            "date": "1996",
+            "findings": "No abnormalities found.",
+            "changes_over_time": "At the subsequent scan in May 1999, positive results with abnormal uptake in the liver, spleen, and kidneys."
+        },
+        {
+            "procedure_name": "Serum albumin",
+            "date": "Before treatment",
+            "findings": "240 mg/dl",
+            "changes_over_time": "Increased to 310 mg/dl at 7 months of treatment."
+        },
+        {
+            "procedure_name": "Serum IgG",
+            "date": "Before treatment",
+            "findings": "18.2 mg/dl",
+            "changes_over_time": "Increased to 62.2 mg/dl at 7 months of treatment."
+        },
+        {
+            "procedure_name": "Urinary protein",
+            "date": "Before treatment",
+            "findings": "7760 mg/24 hr",
+            "changes_over_time": "Reduced to 3630 mg/24 hr at 7 months of treatment."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Before treatment",
+            "findings": "105 µmol/liter",
+            "changes_over_time": "Reduced to 81 µmol/liter at 7 months of treatment."
+        },
+        {
+            "procedure_name": "Average blood pressure",
+            "date": "Before treatment",
+            "findings": "123/88 mm Hg",
+            "changes_over_time": "Reduced to 100/63 mm Hg at 7 months of treatment."
+        },
+        {
+            "procedure_name": "Glomerular filtration rate",
+            "date": "Before treatment",
+            "findings": "43 ml/min/1.73 m2",
+            "changes_over_time": "Increased to 57 ml/min/1.73 m2 at 7 months of treatment."
+        }
+    ]
+}

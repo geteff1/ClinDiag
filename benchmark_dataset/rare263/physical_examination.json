@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100/60 mmHg",
+                "heart_rate": "68 bpm",
+                "body_temperature": "36.5 °C",
+                "respiratory_rate": "Not specified",
+                "peripheral_oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "144/77 mmHg",
+                "heart_rate": "71 bpm",
+                "body_temperature": "36.5 °C",
+                "respiratory_rate": "20 rates/min",
+                "peripheral_oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Level of spinal anesthesia confirmed at the eighth thoracic level by temperature loss assessment.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

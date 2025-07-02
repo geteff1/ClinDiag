@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "initial": {
+                    "temperature": "36.7°C",
+                    "heart_rate": "79 bpm",
+                    "respiratory_rate": "18 breaths per minute",
+                    "blood_pressure": "126/88 mmHg",
+                    "oxygen_saturation": "98%"
+                },
+                "after_admission": {
+                    "temperature": "37.5°C",
+                    "heart_rate": "150 bpm",
+                    "blood_pressure": "166/91 mmHg",
+                    "oxygen_saturation": "95% on 2 liters of oxygen"
+                },
+                "later": {
+                    "temperature": "39.1°C",
+                    "heart_rate": "not specified",
+                    "blood_pressure": "not specified",
+                    "oxygen_saturation": "not specified"
+                }
+            },
+            "relevant_findings": "Crusted skin lesions on the dorsum of the hands and the forearms, increased heart rate, irregular heart rhythm, suppurative superficial thrombophlebitis, blistering skin lesions on dorsal bilateral upper extremities.",
+            "changes_over_time": "Initially unremarkable physical examination findings deteriorated with an increased heart rate and the development of atrial fibrillation and skin lesions."
+        }
+    ]
+}

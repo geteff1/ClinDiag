@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "Not specified",
+            "findings": "Combined restrictive and obstructive ventilatory defect with a severe reduction in diffusion capacity (27% predicted).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "Extensive, diffuse fine reticular infiltrates.",
+            "changes_over_time": "Hypoxia and interstitial infiltrates progressed over 3 months."
+        },
+        {
+            "procedure_name": "Bronchoscopy with Transbronchial Biopsies",
+            "date": "Not specified",
+            "findings": "Insufficient tissue for analysis; no lipid-laden macrophages noted in the lavage fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Wedge Biopsy",
+            "date": "Not specified",
+            "findings": "Pathologic diagnosis of exogenous lipoid pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Troponin",
+            "date": "Day 0",
+            "findings": "Initial serum troponin concentration was 17.7 µg/L; peak value at 24 hours was 27.3 µg/L.",
+            "changes_over_time": "Initial values increased over 24 hours."
+        },
+        {
+            "procedure_name": "Plasma B-type Natriuretic Peptide",
+            "date": "Not specified",
+            "findings": "Initial plasma B-type natriuretic peptide value on admission was 620.6 ng/L.",
+            "changes_over_time": "Returned to normal by day 2."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Global left ventricular ejection fraction less than 0.20.",
+            "changes_over_time": "Increased to 0.40 on day 2 and to 0.50 on day 3."
+        }
+    ]
+}

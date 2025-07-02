@@ -1,0 +1,22 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Celiac disease",
+        "differential_diagnosis": [
+            "Acute mesenteric ischemia",
+            "Complication of abdominal aortic aneurysm",
+            "Pancreatitis",
+            "Peptic ulcer disease",
+            "Splenic infarction or rupture",
+            "Renal infarction",
+            "Acute chest syndrome from pneumonia",
+            "Pulmonary embolism",
+            "Aortic dissection",
+            "Myocardial infarction",
+            "Infammatory bowel disease",
+            "Chronic enteric infection",
+            "Lymphoma",
+            "Colon cancer"
+        ],
+        "diagnostic_reasoning": "The diagnosis was supported by the patient's symptoms of chronic diarrhea, weight loss, and elevated lipase and aminotransferase levels. Imaging revealed mesenteric lymphadenopathy, raising concerns about cancer and leading to exploratory laparotomy. Lymph node biopsy showed reactive hyperplasia and further serologic testing revealed positive IgA tissue transglutaminase antibodies, consistent with celiac disease. The resolution of symptoms upon initiation of a gluten-free diet confirmed the diagnosis."
+    }
+}

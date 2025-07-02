@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Lack of sensory and autonomic nerve fibers. Loss of Meissner corpuscles, myelinated fibers, and epidermal nerve fibers in both proximal and distal sites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Severe axonal sensory neuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative sensory testing (QST)",
+            "date": "Not specified",
+            "findings": "Altered for all tested modalities, including inability to perceive noxious thermal stimuli.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dynamic sweat test",
+            "date": "Not specified",
+            "findings": "Markedly impaired sudomotor function; severe reduction of sweat production.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

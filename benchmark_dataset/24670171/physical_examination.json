@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "blood_pressure": "112/69 mm Hg",
+                "pulse": "125 bpm",
+                "respiratory_rate": "35 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "description": "Moderate distress, dry mucous membranes, scattered inspiratory wheezes, pallor, decreased skin turgor, puncture wounds on arms and hands."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.6°C",
+                "blood_pressure": "154/102 mm Hg",
+                "pulse": "110 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "description": "Ill, anxious, diaphoretic; soft non-distended abdomen with mild tenderness; diffuse purple blanching livedo on arms and legs; mottling on flanks and abdomen; slightly blue fingers and ears; numerous lacerations with necrotic edges; capillary refill in 5 seconds."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 2",
+            "vital_signs": {
+                "temperature": "39.6°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Dermatologic examination revealed diffuse, symmetric, coalescing retiform patches of purple ecchymoses and purpura spanning the abdomen, chest, arms, legs, and face; some discrete bite and scratch marks; persistent bluish hue in earlobes and fingers."
+            },
+            "changes_over_time": "The rash worsened, becoming coalescing and non-blanching."
+        },
+        {
+            "date": "Day 3",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Rigidity and cyanosis of the right arm developed."
+            },
+            "changes_over_time": "Progression of skin findings towards necrosis and gangrene."
+        }
+    ]
+}

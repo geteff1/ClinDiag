@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided percutaneous needle biopsy",
+            "date": "Not specified",
+            "findings": "Hematoxylin-eosin staining showed areas of geographic stellate necrobiosis with extensive fibrin deposition surrounded by a palisading histiocytic rim. The nodule also contained a scattered mix infiltrate of lymphocytes, plasma cells, multinucleated giant cells, and occasional eosinophils. Special stains for fungal and mycobacterial organisms were negative. The pleural fluid chemistry proved to be an exudate without evidence of malignant cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "pleural fluid sampling",
+            "date": "Not specified",
+            "findings": "Pleural fluid was noted to be positive for rheumatoid factor, with a pH of 7.16, a glucose level of 56 mg/dL, a fluid protein level of 4.7 g/dL, and a lactate dehydrogenase level of 826 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest tube decompression",
+            "date": "Not specified",
+            "findings": "Resulted in no change in the size of the pneumothorax and a persistent air leak.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "follow-up chest radiography",
+            "date": "1 month later",
+            "findings": "Showed persistent right-sided pneumothorax.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "repeat CT scan",
+            "date": "1 month later",
+            "findings": "Showed persistent right-sided pneumothorax with an interval increase in right pleural effusion and an increase in right pleural thickening.",
+            "changes_over_time": "These findings are suggestive of trapped lung."
+        },
+        {
+            "procedure_name": "decortication of the pleural rind",
+            "date": "Not specified",
+            "findings": "Led to resolution of the pneumothorax.",
+            "changes_over_time": "After the procedure, the patient’s immunomodulating drugs were gradually tapered down to a maintenance dose."
+        }
+    ]
+}

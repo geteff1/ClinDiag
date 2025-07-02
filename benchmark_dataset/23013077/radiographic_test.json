@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Minimal atelectasis or scarring at the left lung base, without evidence of focal pneumonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at a rate of 60 beats per minute, with premature atrial complexes and nonspecific ST-segment and T-wave changes.",
+            "changes_over_time": "Repeat ECG showed sinus rhythm at a rate of 54 beats per minute, with ST-segment elevation in leads II, III, aVF, V5, and V6 and ST-segment depression in leads I, aVR, aVL, V1, V2, and V3."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Right coronary artery with mild diffuse disease; 30% ostial stenosis in the posterior descending artery; 90% focal proximal stenosis in the posterolateral ventricular branch.",
+            "changes_over_time": "Successful placement of a bare-metal stent in the posterolateral ventricular branch, with excellent angiographic results and no residual stenosis."
+        }
+    ]
+}

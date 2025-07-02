@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "122 lb (54.9 kg)",
+                "height": "59 inches",
+                "body_mass_index": "25",
+                "blood_pressure": "110/80 mm Hg"
+            },
+            "relevant_findings": {
+                "skin": "very mild facial acne; no hirsutism",
+                "ovarian_status": "Physician was not able to palpate ovaries at the most recent pelvic examination",
+                "lab_results": {
+                    "free_testosterone": "normal",
+                    "DHEAS": "normal",
+                    "glucose": "within normal limits",
+                    "glycated_hemoglobin": "within normal limits",
+                    "cholesterol": {
+                        "total": "167 mg/dL (4.32 mmol/L)",
+                        "HDL": "72 mg/dL (1.86 mmol/L)"
+                    }
+                }
+            },
+            "changes_over_time": {
+                "weight_change": "12 lb (5.4 kg) more than 2 years ago"
+            }
+        }
+    ]
+}

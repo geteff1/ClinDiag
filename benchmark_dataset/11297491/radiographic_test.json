@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Reduced kidney size observed during prenatal ultrasonography at 38 weeks.",
+            "changes_over_time": "Renal ultrasonography at age 8 months confirmed small kidneys (right, 3.8 cm; left, 4.1 cm) with diffusely increased echogenicity of the renal cortex."
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "5 months of age",
+            "findings": "Bilateral absence of peripheral retinal vessels and scarcity of vessels nasal to the disc.",
+            "changes_over_time": "Segmental and simultaneous filling of retinal vessels observed."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "8 months of age",
+            "findings": "Normal-sized globes with attenuated optic nerves; near-absence of the optic chiasm; small optic tracts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "8 months of age",
+            "findings": "Absence of the central retinal vasculature bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "8 months of age",
+            "findings": "Small kidneys with diffusely increased echogenicity of the renal cortex and diminished cortico-medullary differentiation, consistent with renal dysplasia.",
+            "changes_over_time": "Spectral Doppler analysis showed high-resistance arterial flow in both main renal arteries."
+        }
+    ]
+}

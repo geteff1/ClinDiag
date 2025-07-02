@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "166/72 mmHg",
+                "pulse": "100 bpm",
+                "temperature": "37.3°C",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%",
+                "weight": "66.2 kg"
+            },
+            "relevant_findings": {
+                "muscle_strength": {
+                    "hips_and_knees": "3/5",
+                    "ankles_and_elbows": "4/5"
+                },
+                "hand_grip_strength": "4+ out of 5",
+                "ankle_knee_brachioradialis_reflexes": "Absent"
+            },
+            "changes_over_time": "Not applicable"
+        }
+    ]
+}

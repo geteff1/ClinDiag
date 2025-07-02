@@ -1,0 +1,113 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "On presentation",
+            "findings": {
+                "white-cell count": {
+                    "value": 13450,
+                    "normal_range": "4500–11000",
+                    "status": "Outside normal range"
+                },
+                "differential count": {
+                    "neutrophils": {
+                        "value": 79.9,
+                        "normal_range": "40–70",
+                        "status": "Outside normal range"
+                    },
+                    "lymphocytes": {
+                        "value": 13.8,
+                        "normal_range": "22–44",
+                        "status": "Outside normal range"
+                    },
+                    "monocytes": {
+                        "value": 5.5,
+                        "normal_range": "4–11",
+                        "status": "Within normal range"
+                    },
+                    "basophils": {
+                        "value": 0.2,
+                        "normal_range": "0–3",
+                        "status": "Within normal range"
+                    },
+                    "eosinophils": {
+                        "value": 0.2,
+                        "normal_range": "0–8",
+                        "status": "Within normal range"
+                    }
+                },
+                "erythrocyte sedimentation rate": {
+                    "value": 55,
+                    "normal_range": "0–20",
+                    "status": "Outside normal range"
+                },
+                "prothrombin time": {
+                    "value": 14.8,
+                    "normal_range": "11.5–14.5",
+                    "status": "Outside normal range"
+                },
+                "sodium": {
+                    "value": 123,
+                    "normal_range": "135–145",
+                    "status": "Outside normal range"
+                },
+                "creatinine": {
+                    "value": 62,
+                    "normal_range": "Not specified",
+                    "status": "Not specified"
+                },
+                "glucose": {
+                    "value": 133,
+                    "normal_range": "70–110",
+                    "status": "Outside normal range"
+                },
+                "C-reactive protein": {
+                    "value": 202.4,
+                    "normal_range": "<8.0",
+                    "status": "Outside normal range"
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "color": "clear, yellow",
+                "ketones": "2+",
+                "leukocyte esterase": "2+",
+                "specific gravity": 1.015,
+                "pH": 5.0,
+                "microscopic findings": {
+                    "red cells per high-power field": "0 to 2",
+                    "white cells per high-power field": "20 to 50",
+                    "bacteria": "1+"
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR assay",
+            "date": "Not specified",
+            "findings": {
+                "whole blood": "Positive",
+                "serum": "Negative"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serology for Rickettsiae of the spotted fever group",
+            "date": "Second hospital day (16th day of illness)",
+            "findings": {
+                "IgG titer": "1:1024"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

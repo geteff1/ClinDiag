@@ -1,0 +1,47 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Metal-ion level assessment",
+            "date": "Not specified",
+            "findings": {
+                "titanium": 456.87,
+                "cobalt": 1.55,
+                "chromium": 0.914,
+                "nickel": 0.48
+            },
+            "changes_over_time": {
+                "titanium": "Decreased over time",
+                "cobalt": "Fluctuated",
+                "chromium": "Decreased over time",
+                "nickel": "Decreased over time"
+            }
+        },
+        {
+            "procedure_name": "Synovial fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "white blood cell count": 1150,
+                "red blood cell count": 30000
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal function assessment",
+            "date": "Not specified",
+            "findings": {
+                "blood urea nitrogen": 37,
+                "creatinine": 2.26
+            },
+            "changes_over_time": {
+                "blood urea nitrogen": {
+                    "preoperative": 33,
+                    "six months": 22
+                },
+                "creatinine": {
+                    "preoperative": 2.4,
+                    "six months": 1.6
+                }
+            }
+        }
+    ]
+}

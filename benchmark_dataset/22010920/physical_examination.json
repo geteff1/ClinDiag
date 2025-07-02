@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Blood Pressure": "140/100 mm Hg",
+                "Temperature": "Not specified",
+                "Pulse": "Not specified",
+                "Respiratory Rate": "Not specified",
+                "Oxygen Saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "General": "Lethargy and epigastric pain",
+                "Examination Findings": "Posterior oropharynx erythematous, dry throat, and positive rapid streptococcus test."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "38.1°C",
+                "Blood Pressure": "139 to 162 mm Hg systolic and 77 to 90 mm Hg diastolic",
+                "Pulse": "96 bpm",
+                "Respiratory Rate": "Normal",
+                "Oxygen Saturation": "95%"
+            },
+            "relevant_findings": {
+                "Oral": "Erythematous posterior oropharynx, moist mucous membranes, white plaque on tongue",
+                "Abdomen": "Soft, decreased bowel sounds, tenderness to deep palpation in epigastrium, slight guarding, no distention or rebound",
+                "Skin": "Flushed on cheeks, extremities, and trunk"
+            },
+            "changes_over_time": "Tenderness in back developed, epigastric pain decreased slightly."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Blood Pressure": "160/93 mm Hg",
+                "Weight": "133.5 kg",
+                "Other Vital Signs": "Normal"
+            },
+            "relevant_findings": {
+                "Abdomen": "Decreased bowel sounds, pain in upper quadrants radiating to back, mild tenderness on deep palpation; no distention or rebound"
+            },
+            "changes_over_time": "Normal examination otherwise. No significant changes reported."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Blood Pressure": "142/98 mm Hg",
+                "Other Vital Signs": "Normal"
+            },
+            "relevant_findings": {
+                "Abdomen": "Striae, decreased bowel sounds, palpable liver edge, mild tenderness to deep palpation in epigastrium, remainder normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Weight": "150.8 kg",
+                "BMI": "43.3",
+                "Other Vital Signs": "Normal"
+            },
+            "relevant_findings": {
+                "Abdomen": "Upper abdominal tenderness, elevated serum amylase and lipase levels."
+            },
+            "changes_over_time": "Increased weight from previous examination."
+        }
+    ]
+}

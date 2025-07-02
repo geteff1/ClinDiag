@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Initial MRI findings were normal. Brain MRI on hospital day 12 revealed small areas of restricted diffusion, possibly indicating small ischemic strokes in the bilateral cerebral hemispheres. Brain MRI on hospital day 21 revealed diffuse, symmetric foci of abnormal diffusion signal throughout the subcortical white matter and middle cerebellar peduncle; patchy abnormal signal in the bilateral insular cortices, basal ganglia, and thalamus; no abnormal brain enhancement seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spine MRI",
+            "date": "Not specified",
+            "findings": "Spine MRI revealed multifocal, intramedullary T2 hyperintensities throughout the spinal cord without enhancement.",
+            "changes_over_time": "These changes were considered to be most consistent with a diffuse process, such as a toxic-metabolic derangement or an infectious encephalomyelitis."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "4 months after hospital admission",
+            "findings": "Improvement in the areas of white matter, restricted diffusion in the brain, and a normal spinal cord.",
+            "changes_over_time": "Indicates improvement over time in the patient's condition."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Angiogram",
+            "date": "Not specified",
+            "findings": "Findings of a brain magnetic resonance angiogram were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Findings were not consistent with pulmonary tuberculosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

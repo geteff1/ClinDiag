@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "small, bilateral pleural effusions, with no consolidation or pneumothorax",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "normal for the patient’s age",
+            "changes_over_time": "New, extensive hypoattenuation in the periventricular and subcortical white matter, sulcal effacement, and marked expansion of the corpus callosum occurred on contrast-enhanced CT performed 5 days later, indicating brain swelling and edema."
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "interval progression of diffuse cerebral swelling, with new, diffuse hemispheric sulcal effacement and development of descending transtentorial herniation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral ground-glass opacities predominantly in the upper lobes, opacities in small airways of the lower lobes consistent with mucous plugging, bronchial-wall thickening, bilateral pulmonary nodules, enlarged mediastinal lymph nodes, and trace bilateral pleural effusions.",
+            "changes_over_time": "Bilateral pulmonary nodules that had progressed since the previous CT study obtained 2 days earlier."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "A faint patchy opacity in the left upper lobe and trace bilateral pleural effusions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

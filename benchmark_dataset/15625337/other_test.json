@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinary Cytology",
+            "date": "Not specified",
+            "findings": "Normal, no malignant cells found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Ultrasounds",
+            "date": "Not specified",
+            "findings": "Normal-size kidneys, no hydronephrosis, no evidence of renal stones. Right kidney 9.3 cm, left kidney 9.4 cm.",
+            "changes_over_time": "No residual fluid seen within the urinary bladder after voiding."
+        },
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "Not specified",
+            "findings": "Normal glomeruli with focal mild mesangial hypercellularity; slight segmental linear staining for IgG and albumin; diffusely thin glomerular basement membranes.",
+            "changes_over_time": "No evidence of progressive renal disease two years after the biopsy."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "20 to 50 red cells per high-power field and 1+ proteinuria, with dysmorphic red cells and two cellular casts thought to be red-cell casts.",
+            "changes_over_time": "Intermittent hematuria and mild proteinuria persisted."
+        },
+        {
+            "procedure_name": "24-Hour Urine Collection",
+            "date": "Not specified",
+            "findings": "Contained 1152 mg of creatinine and 160 mg of protein.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

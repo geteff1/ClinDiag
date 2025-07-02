@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Documented hypoplastic, normally located thyroid glands.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Scintigraphy with Technetium",
+            "date": "Not specified",
+            "findings": "Did not reveal the presence of thyroid tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA Sequencing",
+            "date": "Not specified",
+            "findings": "Only one patient had a mutation in the PAX8 gene (Q40P); three patients had no sequence alterations in the analyzed genes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "At age 31 years for the mother",
+            "findings": "Mild hypothyroidism diagnosed with TSH of 14.8 mU/liter and a free T4 of 6.4 pmol/liter. Anti-TPO antibodies were positive at 201 U/ml.",
+            "changes_over_time": "Three years after initial diagnosis, her anti-TPO antibodies were still elevated at 150 U/ml."
+        },
+        {
+            "procedure_name": "Ultrasonography of the kidneys",
+            "date": "Not specified",
+            "findings": "No structural abnormalities in the renal system.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

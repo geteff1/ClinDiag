@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "serum_calcium": "6.5 mg/dl [1.62 mmol/liter; normal, 8.2–10.6 mg/dl (2.05–2.65 mmol/liter)]",
+                "serum_phosphate": "5.2 mg/dl [1.67 mmol/liter; normal, 2.5–5.0 mg/dl (0.8–1.6 mmol/liter)]"
+            },
+            "relevant_findings": {
+                "initial_findings": "Hypocalcemia with serum calcium of 6.5 mg/dl and hyperphosphatemia with serum phosphate of 5.2 mg/dl at first presentation",
+                "ongoing_findings": "After treatment, serum calcium remained normal at 8.4 mg/dl (2.1 mmol/liter) and 8.3 mg/dl (2.07 mmol/liter) for 6 months."
+            },
+            "changes_over_time": "The patient's serum calcium levels dropped to 7.8 mg/dl (1.95 mmol/liter), while serum phosphate was 4.4 mg/dl (1.42 mmol/liter), and PTH rose to 653 pg/ml after the temporary discontinuation of calcium and vitamin D."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_25_hydroxyvitamin_D": "31.3 ng/ml [78.1 nmol/liter; normal, 10–40 ng/ml (25–100 pmol/liter)]",
+                "serum_1,25_dihydroxyvitamin_D": "7.4 pg/ml [17.7 pmol/liter; normal, 12–40 pg/ml (25–100 nmol/liter)]",
+                "serum_alkaline_phosphatase": "45 IU/liter (normal range, 30–125 IU/liter)",
+                "serum_uric_acid": "2.6 mg/dl [0.15 mmol/liter; normal, 3.5–7.2 mg/dl (0.2–0.4 mmol/liter)]"
+            },
+            "relevant_findings": {
+                "initial_findings": "The patient had a mild degree of osteopenia (T-score, -0.9) on a bone density scan of the lumbar spine.",
+                "ongoing_findings": "The proband's sister's bone density scan showed mild osteopenia (T-score, -1.35) but no changes over time."
+            },
+            "changes_over_time": "Hypocalcemia in the proband was initially problematic, but after treatment, stable serum calcium levels were observed for six months until a drop was noted."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "275 U per liter (normal range, 7 to 35)",
+            "changes_over_time": "Decreased to 19 U per liter"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "275 U per liter (normal range, 8 to 30)",
+            "changes_over_time": "Decreased to 26 U per liter"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "428 U per liter (normal range, 118 to 242)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "Not specified",
+            "findings": "11,500 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Uric Acid",
+            "date": "Not specified",
+            "findings": "8.1 mg per deciliter (normal range, 2.5 to 6.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic Testing for Epstein–Barr Virus",
+            "date": "Not specified",
+            "findings": "Positive for IgM and IgG antibodies against viral capsid antigen; Negative for IgG antibodies against EBV nuclear antigen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR Assay for EBV DNA",
+            "date": "Not specified",
+            "findings": "Quantitative viral load of 8372 genomes per 100,000 white cells",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

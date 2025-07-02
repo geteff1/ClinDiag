@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Obvious patchy shadows in both lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "Not specified",
+            "findings": "Normal findings initially.",
+            "changes_over_time": "Emergency brain CT revealed hematoceles in both lateral ventricles and hemorrhage in the right paraoccipital lobe that had ruptured the lateral ventricle on day 14."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Bilateral patchy shadows and diffuse infiltration with extensive consolidation in the right lung.",
+            "changes_over_time": "Initial repeat chest CT indicated hydrothorax and relief of bilateral exudation, but later revealed new patchy shadows in the right upper lung."
+        }
+    ]
+}

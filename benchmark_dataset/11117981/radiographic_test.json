@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic (CT) scan of the paranasal sinuses",
+            "date": "Not specified",
+            "findings": "Air–fluid level in the right maxillary antrum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomographic (CT) scan of the thorax",
+            "date": "27th hospital day",
+            "findings": "Consolidation in the right middle lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "New density in the right upper lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "On admission to this hospital",
+            "findings": "Air-space opacities at the bases of both lungs.",
+            "changes_over_time": "Unchanged on the sixth hospital day."
+        },
+        {
+            "procedure_name": "Computed Tomographic (CT) scan of the thorax",
+            "date": "On admission to the hospital",
+            "findings": "Nodular air-space opacities up to 3 cm in diameter, with air bronchograms; small focus of air in an opacity in the right upper lobe suggesting early cavitation; diffuse ground-glass opacities.",
+            "changes_over_time": "On the sixth hospital day, more numerous lucent areas in the right upper lobe, consistent with the presence of cavitation."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "On the fourth day of hospitalization",
+            "findings": "Dense air-space opacities overlying the right hilar area and in the right lower lung, less dense nodular opacities in the left lung, and diffuse ground-glass opacities suggesting edema of the left lung.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

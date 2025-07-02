@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "slit-lamp examination",
+            "date": "Not specified",
+            "findings": "Bilateral symmetric corneal changes, white limbal girdles of Vogt, frank thinning, irregular and edematous epithelium, diffuse stromal haze more pronounced in the left eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "corneal topography",
+            "date": "Not specified",
+            "findings": "Confirmed advanced steepening of both corneas; keratometry readings were 52.75 D axis 088 and 36.87 D axis 178 in the right eye, and 57.37 D axis 008 and 54.75 D axis 098 in the left eye.",
+            "changes_over_time": "Bilateral steepening of the corneas observed."
+        },
+        {
+            "procedure_name": "pachymetry",
+            "date": "Not specified",
+            "findings": "Central corneal thickness of 335 µm in the right eye and 330 µm in the left eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "light microscopic examination of corneal button",
+            "date": "Not specified",
+            "findings": "Attenuated endothelium with prominent intracellular aggregates; thickened Descemet’s membrane with marked posterior nodularity; various-sized vacuoles present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transmission electron microscopic examination",
+            "date": "Not specified",
+            "findings": "Thin epithelium with marked vacuolization and intracellular edema; thickened basement membrane, polymorphic vacuoles in the stroma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

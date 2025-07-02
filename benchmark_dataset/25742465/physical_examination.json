@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "September 29, 2014",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "distress": "Mild to moderate distress from fever, nausea, malaise, myalgia, and chills",
+                "vaccination_site": "Mild tenderness",
+                "left_thumb_wound": "Visible but had neither erythema nor swelling"
+            },
+            "changes_over_time": "Fever declined to a maximum of 38.5°C on day 2; severe symptoms continued but had progressive resolution from days 3 to 5."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "56 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "chest_pain": "Mild pleuritic chest pain occurred on day 4; chest radiograph was normal"
+            },
+            "changes_over_time": "Sinus bradycardia (56 beats/min) noted, with this being described as preexisting."
+        },
+        {
+            "date": "October 6, 2014",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "asymptomatic": "By day 7, patient was completely asymptomatic."
+            },
+            "changes_over_time": "Recovery noted, with no further symptoms post-day 7."
+        }
+    ]
+}

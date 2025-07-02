@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid Scan",
+            "date": "Not specified",
+            "findings": "Enlarged thyroid gland with homogeneously increased tracer uptake; total thyroid uptake of technetium-99m was 8.6% (4.5% in the right lobe, and 4.1% in the left lobe) which is above the normal range of 0.5 to 1.7%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "3 weeks before this admission",
+            "findings": "Sinus tachycardia at a rate of 120 beats per minute; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Thyroidectomy",
+            "date": "Not specified",
+            "findings": "Diffusely enlarged thyroid tissue with features consistent with partially treated Graves’ disease.",
+            "changes_over_time": "Post-surgery, the patient experienced temporary hypocalcemia but improved within 2 months."
+        }
+    ]
+}

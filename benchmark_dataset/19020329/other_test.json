@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Opening pressure elevated at 310 mm H2O; lymphocytosis (12.2 white cells per mm3, 100% lymphocytes in Tube 1), elevated protein level at 71.4 mg/dl.",
+            "changes_over_time": "On the third hospital day, white cells decreased to 7 (55% lymphocytes, 45% monocytes) in Tube 1 and protein level decreased to 46 mg/dl."
+        },
+        {
+            "procedure_name": "Temporal artery biopsy",
+            "date": "Not specified",
+            "findings": "Mild intimal hyperplasia; no evidence of giant-cell arteritis.",
+            "changes_over_time": "No changes over time described."
+        },
+        {
+            "procedure_name": "Skin test for tuberculosis",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Four weeks before admission",
+            "findings": "Grew Klebsiella pneumoniae, Candida albicans, and normal flora.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

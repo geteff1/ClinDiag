@@ -1,0 +1,77 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematology",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "9.9 g/dL (low, normal range: 12.0–16.0 g/dL)",
+                "hematocrit": "30.3% (low, normal range: 36.0–46.0%)",
+                "white_cell_count": "5030 per mm3 (normal, normal range: 4500–11,000 per mm3)",
+                "differential_count": {
+                    "polymorphonuclear_cells": "58.8% (normal range: 40–70%)",
+                    "lymphocytes": "30.8% (normal range: 22–44%)",
+                    "monocytes": "5.9% (normal range: 4–11%)",
+                    "eosinophils": "3.2% (normal range: 0–8%)",
+                    "basophils": "1.1% (normal range: 0–3%)"
+                },
+                "platelet_count": "167 per mm3 (normal range: 150,000–400,000 per mm3)",
+                "international_normalized_ratio": "2.4 (high, normal range: 0.9–1.1)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-body bone scan",
+            "date": "Not specified",
+            "findings": "Multiple sites of increased uptake throughout the axial and appendicular skeleton, consistent with osseous metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": {
+                "left_axillary_lymph_node": "Enlarged (11 mm in short axis)",
+                "left_subpectoral_lymph_node": "Enlarged (9 mm in short axis)",
+                "pulmonary_emboli": "Resolved",
+                "multiple_lytic_and_blastic_lesions": "Present in thoracic vertebrae, ribs, and sternum",
+                "focal_hypodensity_liver": "12 mm in diameter"
+            },
+            "changes_over_time": "Multiple mixed lytic and blastic lesions not present on previous study."
+        },
+        {
+            "procedure_name": "D-dimer test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lupus anticoagulant test",
+            "date": "Not specified",
+            "findings": "Detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood genetic testing for ESR1 mutations",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "mutation": "ESR1 Y537C",
+                    "type": "c.1610A→G"
+                },
+                {
+                    "mutation": "ESR1 D538G",
+                    "type": "c.1613A→G"
+                }
+            ],
+            "changes_over_time": "During treatment, Y537C mutational levels decreased while D538G increased."
+        },
+        {
+            "procedure_name": "Tissue mutation analysis",
+            "date": "Not specified",
+            "findings": {
+                "mutation": "CDH1 pathogenic frameshift variant",
+                "type": "CDH1 c.1947dupT"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

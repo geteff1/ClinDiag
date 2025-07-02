@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fingerstick blood glucose",
+            "date": "Not specified",
+            "findings": "101 mg/dL (5.6 mmol/L) - normal blood glucose level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Basic metabolic panel",
+            "date": "Not specified",
+            "findings": "Sodium 140 mmol/L, Potassium 4.4 mmol/L, Chloride 103 mmol/L, Bicarbonate 27 mmol/L, Blood Urea Nitrogen (BUN) 44 mg/dL (16 mmol/L), Creatinine 3.1 mg/dL (274 μmol/L).",
+            "changes_over_time": "Baseline creatinine level was 1.1 mg/dL (97 μmol/L) 9 months earlier; recent changes indicate kidney injury."
+        },
+        {
+            "procedure_name": "Repeat laboratory testing",
+            "date": "Not specified",
+            "findings": "BUN 47 mg/dL (17 mmol/L), Creatinine 3.6 mg/dL (318 μmol/L), 77.3% Neutrophils, 12.8% Lymphocytes, 4.9% Eosinophils, 4.4% Monocytes, 0.6% Basophils. No casts or eosinophils in urine.",
+            "changes_over_time": "Increased BUN and creatinine levels from previous tests."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Specific gravity 1.008, pH 7.5; no glucose or protein present, with sediment showing 10 to 15 red cells and 5 to 9 white cells per high-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "Severe acute interstitial nephritis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up laboratory tests",
+            "date": "Not specified",
+            "findings": "At discharge: Creatinine 2.6 mg/dL (230 μmol/L), Blood Urea Nitrogen 59 mg/dL (21 mmol/L).",
+            "changes_over_time": "Creatinine level down from peak 3.9 mg/dL (345 μmol/L) after treatment."
+        },
+        {
+            "procedure_name": "Emergency room laboratory tests",
+            "date": "Not specified",
+            "findings": "BUN 72 mg/dL (26 mmol/L), Creatinine 1.6 mg/dL (141 μmol/L), Hematocrit fell to 26%.",
+            "changes_over_time": "Creatinine reduced after intravenous hydration, indicating improvement."
+        }
+    ]
+}

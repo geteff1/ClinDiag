@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "pulse": "165 bpm",
+                "blood_pressure": "152/70 mmHg",
+                "respiratory_rate": "22 breaths per minute"
+            },
+            "relevant_findings": {
+                "alertness": "alert and oriented",
+                "affect": "labile affect; alternating periods of laughing and crying",
+                "gaze": "intense",
+                "speech": "rapid, pressured, and at times slurred",
+                "skin": "erythematous face and chest; warm to touch",
+                "tremor": "fine tremor in hands",
+                "heart_sounds": "rapid and regular; systolic ejection murmur noted",
+                "abdominal_examination": "soft abdomen, normal bowel sounds, tenderness on palpation of left lower abdomen"
+            },
+            "changes_over_time": {
+                "pulse": {
+                    "initial": "165 bpm",
+                    "after_vomiting": "210 bpm"
+                },
+                "weight": {
+                    "previous": "59.3 kg",
+                    "current": "52.5 kg"
+                }
+            }
+        }
+    ]
+}

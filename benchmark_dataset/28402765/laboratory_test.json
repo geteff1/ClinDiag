@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "33.8% (reference range, 36.0 to 46.0)",
+                "hemoglobin": "11.3 g/dL (reference range, 12.0 to 16.0)",
+                "white_cell_count": "Normal",
+                "differential_count": "Normal",
+                "platelet_count": "Normal"
+            },
+            "changes_over_time": "Stable"
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "2079 ng/mL (reference range, <500)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Three days after initial presentation",
+            "findings": "2.6% (reference range, 0.5 to 2.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Uric Acid Level",
+            "date": "Three days after initial presentation",
+            "findings": "7.1 mg/dL (reference range, 2.3 to 6.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm with nonspecific ST-segment and T-wave abnormalities, more marked than 8 months earlier",
+            "changes_over_time": "Marked changes compared to previous ECG"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Reactive transitional cells and neutrophils, no malignant cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan (Chest, Abdomen, and Pelvis)",
+            "date": "Three days after initial presentation",
+            "findings": "Massive conglomerate of enlarged lymph nodes; hydronephrosis of right kidney and infiltration of soft tissue into left kidney",
+            "changes_over_time": "Unchanged results on repeat CT two weeks after initial presentation"
+        }
+    ]
+}

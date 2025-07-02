@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Lymphangiography",
+            "date": "Not specified",
+            "findings": "Normal lymphatic network surrounding the sacs and absence of communication between the sacs and the normal lymphatic network.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Useful in evaluating lymphangioma circumscriptum; may not be reliable for detecting smaller lymphatic cisterns.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex ultrasound",
+            "date": "Not specified",
+            "findings": "Direct visualization of veins and identification of flow through venous valves.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

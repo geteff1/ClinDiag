@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "8 days before admission",
+            "findings": {
+                "white_cell_count": "800 per microliter (reference range, 4200 to 9900)",
+                "hemoglobin": "9.2 g per deciliter (reference range, 13.0 to 17.4)",
+                "platelet_count": "58,000 per microliter (reference range, 140,000 to 440,000)",
+                "mean_corpuscular_volume": "89 fl (reference range, 82 to 100)"
+            },
+            "changes_over_time": "Continued pancytopenia throughout the hospitalization."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate_aminotransferase": "316 U/liter (reference range, 0–37)",
+                "alanine_aminotransferase": "141 U/liter (reference range, 0–40)"
+            },
+            "changes_over_time": "Elevated liver enzymes on admission."
+        },
+        {
+            "procedure_name": "Ferritin Level",
+            "date": "8 days after admission",
+            "findings": {
+                "ferritin": "15,846 ng per milliliter (reference range, 20 to 300)"
+            },
+            "changes_over_time": "Decreased from 29,600 ng per milliliter on admission to 15,846 ng per milliliter on day 8."
+        },
+        {
+            "procedure_name": "Ferritin Level",
+            "date": "Not specified",
+            "findings": {
+                "ferritin": "29,600 ng per milliliter (reference range, 20 to 300)"
+            },
+            "changes_over_time": "Increased from 12,620 ng per milliliter before hospitalization to 29,600 ng per milliliter on admission."
+        },
+        {
+            "procedure_name": "Soluble CD25 Level",
+            "date": "Not specified",
+            "findings": {
+                "soluble_cd25": "8635 pg per milliliter (reference range, 532 to 1891)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nucleic Acid Testing for EBV DNA",
+            "date": "Not specified",
+            "findings": {
+                "ebv_dna": "1340 IU per milliliter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides Level",
+            "date": "Not specified",
+            "findings": {
+                "triglycerides": "378 mg/dl (reference range, <150)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": {
+                "ldh": "1,106 U/liter (reference range, 94–250)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of Chest",
+            "date": "Not specified",
+            "findings": {
+                "findings": "Small bilateral pleural effusions."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of Face and Orbits",
+            "date": "Not specified",
+            "findings": {
+                "findings": "Bilateral preseptal soft tissue signal hyperintensity."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "reticular pattern indicative of pneumonia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest CT",
+            "date": "Not specified",
+            "findings": "infiltration of both lungs",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

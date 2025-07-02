@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pituitary hormones assessment",
+            "date": "Day 6 of age",
+            "findings": {
+                "TSH": "2.66 mU/L (0.9 – 4.3)",
+                "Free T4": "0.6 ng/dL (0.9 – 2.2)",
+                "GH": "0.38 ng/mL (8 – 27)",
+                "IGF-1": "31 ng/mL (27 – 157)",
+                "ACTH": "<56 pg/mL (60)",
+                "Cortisol": "0 mg/dL (7 – 18)",
+                "LH": "<0.1 U/L (0 – 4.7)",
+                "FSH": "<0.1 U/L (0 – 7.3)",
+                "Testosterone": "<0.1 ng/dL (50 – 300)",
+                "Prolactin": "43.5 mg/L (31 – 236)"
+            },
+            "changes_over_time": "Evidence of panhypopituitarism"
+        },
+        {
+            "procedure_name": "Sodium plasma",
+            "date": "Day 26 of age",
+            "findings": {
+                "Sodium plasma": "150 mEq/L (135 – 144)",
+                "Potassium plasma": "4.4 mEq/L (3.5 – 4.8)",
+                "Plasma osmolality": "310 mOSM/kg H2O (185 – 195)",
+                "Urine osmolality": "178 mOSM/kg H2O (>450)"
+            },
+            "changes_over_time": "Development of hypernatremia and diabetes insipidus confirmed by elevated plasma osmolality and low urinary osmolality"
+        }
+    ]
+}

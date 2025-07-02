@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Did not reveal parenchymal abnormality, lymphadenopathy, or abscess.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Did not reveal a vegetation or mass.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-body PET-CT scan",
+            "date": "Not specified",
+            "findings": "Negative for pathologic lymph nodes and 18F-fluorodeoxyglucose–avid lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat CT scan of the chest, abdomen, and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Revealed mild splenomegaly and no lymphadenopathy.",
+            "changes_over_time": "Development of splenomegaly since previous evaluation."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum ammonia levels",
+            "date": "August 5, 2019",
+            "findings": "Severe hyperammonemia.",
+            "changes_over_time": "Severe hyperammonemia detected again during relapse in February 2021."
+        },
+        {
+            "procedure_name": "Serum aspartate aminotransferase (AST)",
+            "date": "August 5, 2019",
+            "findings": "Increased serum levels.",
+            "changes_over_time": "Increased serum levels during relapse in February 2021."
+        },
+        {
+            "procedure_name": "Serum alanine aminotransferase (ALT)",
+            "date": "August 5, 2019",
+            "findings": "Increased serum levels.",
+            "changes_over_time": "Increased serum levels during relapse in February 2021."
+        },
+        {
+            "procedure_name": "Prothrombin activity",
+            "date": "August 5, 2019",
+            "findings": "Markedly reduced prothrombin activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "aPTT",
+            "date": "August 5, 2019",
+            "findings": "Prolonged aPTT.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum amino acid analysis",
+            "date": "August 5, 2019",
+            "findings": "Increased levels of glutamine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine analysis",
+            "date": "August 5, 2019",
+            "findings": "Strikingly increased orotic acid excretion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood cytology",
+            "date": "August 5, 2019",
+            "findings": "Increased proportions and counts of monocytes and atypical lymphocytes.",
+            "changes_over_time": "Increased proportions of lymphocytes and elevated counts of atypical lymphocytes during relapse."
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "August 5, 2019",
+            "findings": "Low levels of total proteins, mainly due to decreased levels of the gamma globulins fraction, with reduced IgG and slightly increased IgM.",
+            "changes_over_time": "Consistently showed reduced levels of the gamma globulins fraction during relapse, with reduced IgG and increased IgM again."
+        },
+        {
+            "procedure_name": "Flow cytometry analysis",
+            "date": "Not specified",
+            "findings": "Normal counts of NK and B cells; significantly higher counts of T cells, mainly due to increased CD4+ T cell subset.",
+            "changes_over_time": "Further T cell subset analysis revealed alterations in naїve, central memory, effector memory, and terminally differentiated effector memory cells."
+        },
+        {
+            "procedure_name": "Cytokine production analysis",
+            "date": "Not specified",
+            "findings": "Significantly reduced levels of IFNγ, IL-17A, and TNFα; higher levels of IL-10.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

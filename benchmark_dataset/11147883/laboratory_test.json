@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood gas analysis",
+            "date": "Not specified",
+            "findings": "Metabolic acidosis compensated by hypocapnia (pH 7.366, PCO2 29 mm Hg, PO2 114 mm Hg, base excess 27.6 mmol/L, and HCO3 16.2 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum lactate and pyruvate levels",
+            "date": "Not specified",
+            "findings": "High serum lactate (66.2 mg/dL, normal range 4–16 mg/dL) and pyruvate (3.72 mg/dL, normal range 0.3–0.9 mg/dL).",
+            "changes_over_time": "Decreased to ranges of lactate 15.9 to 35.3 mg/dL and pyruvate 0.78 to 1.32 mg/dL during the patient’s hospital stay."
+        },
+        {
+            "procedure_name": "Molecular genetic analysis",
+            "date": "Not specified",
+            "findings": "Mutation from A to G at the nucleotide pair 3243 of mitochondrial tRNA Leu(UUR) gene in the blood.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Xenon CT scanning",
+            "date": "Not specified",
+            "findings": "Increased regional CBF in the parietooccipital region corresponding to the lesion during the strokelike episodes; relative hypovascularization confirmed 2 months later.",
+            "changes_over_time": "Initial hyperperfusion during acute episodes followed by hypoperfusion and slightly decreased perfusion in the previously hyperperfused area after 2 months."
+        }
+    ]
+}

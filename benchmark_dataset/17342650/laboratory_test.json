@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "16 February 2006",
+            "findings": "Total WBC count of 63% neutrophils, 24% lymphocytes, and 11% monocytes; normal hematocrit and platelet count.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "16 February 2006",
+            "findings": "Elevated glucose level at 162 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "16 February 2006",
+            "findings": "Serum creatinine level of 1.2 mg/dL.",
+            "changes_over_time": "Increased in the context of multiorgan dysfunction."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "16 February 2006",
+            "findings": "Lactate dehydrogenase level of 200 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "16 February 2006",
+            "findings": "Aspartate aminotransferase level of 42 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "16 February 2006",
+            "findings": "Alanine aminotransferase level of 28 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "16 February 2006",
+            "findings": "Albumin level of 3.3 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lethal Factor (LF) Detection",
+            "date": "17 February 2006",
+            "findings": "LF detectable in plasma samples at 294.30 ng/mL.",
+            "changes_over_time": "Decreased to 16.0 ng/mL by 23 February and further decreased to 0.85 ng/mL 1 hour after completion of AIG on 23 February."
+        },
+        {
+            "procedure_name": "Anti-Protective Antigen (PA) IgG Detection",
+            "date": "22 February 2006",
+            "findings": "Anti-PA IgG was quantifiable at 9.0 mg/mL.",
+            "changes_over_time": "Increased to 17.9 mg/mL by 23 February and reached a maximum of 311.4 mg/mL on 28 February."
+        },
+        {
+            "procedure_name": "Pleural Fluid Analysis",
+            "date": "19 February 2006",
+            "findings": "WBC count of 110 cells/mL (25% neutrophils, 24% lymphocytes, and 51% monocytes); no organisms on Gram staining; bacterial culture sterile.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

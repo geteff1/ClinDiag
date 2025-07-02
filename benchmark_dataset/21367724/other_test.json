@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical Intervention",
+            "date": "Not specified",
+            "findings": "Partial dehiscence of the prosthetic patch confirmed by physical examination and echocardiography.",
+            "changes_over_time": "The patient experienced a new patch dehiscence and signs of severe heart failure two weeks after the initial surgery."
+        },
+        {
+            "procedure_name": "Histological Examination",
+            "date": "Not specified",
+            "findings": "Histological examination of removed tissues was compatible with subacute infective endocarditis.",
+            "changes_over_time": "No specific pathogens were demonstrated in the histological analysis at various points during follow-up."
+        },
+        {
+            "procedure_name": "Viral Culture",
+            "date": "Day 6 post third surgery",
+            "findings": "Enterovirus (Coxsackie B2) grew from a culture of cardiac tissue fragment.",
+            "changes_over_time": "Initially no enterovirus detected in other samples; however, it was later confirmed in cardiac tissues several days after surgical intervention."
+        },
+        {
+            "procedure_name": "Real-time RT-PCR Assay",
+            "date": "Day 6 post third surgery",
+            "findings": "Enteroviral RNA detected from removed material.",
+            "changes_over_time": "Persistent detection of enterovirus RNA was confirmed from the cardiac patches and also found in respiratory and stool samples later."
+        }
+    ]
+}

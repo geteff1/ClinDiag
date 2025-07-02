@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/96 mm Hg",
+                "blood_glucose": "180 mg/dL",
+                "systolic_blood_pressure": "80 mm Hg",
+                "diastolic_blood_pressure": "Not specified",
+                "blood_sugar_on_admission": "40 mg/dL",
+                "blood_pressure_on_admission": "154/92 mm Hg",
+                "creatinine": "1.2 mg/dL"
+            },
+            "relevant_findings": "No abnormalities on physical examination at the initial visit.",
+            "changes_over_time": "Systolic blood pressure remained in the 150- to 160-mm Hg range. Post-admission, the creatinine increased to 2.0 mg/dL."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "154/92 mm Hg",
+                "systolic_blood_pressure": "80 mm Hg",
+                "diasolic_blood_pressure": "Not specified",
+                "blood_sugar": "40 mg/dL",
+                "creatinine": "2.0 mg/dL"
+            },
+            "relevant_findings": "Post-operative complications included difficulty using his right hand and unclear speech, indicating a cerebrovascular accident.",
+            "changes_over_time": "Initial improvement of vital signs after glucose administration; however, developed additional complications post-surgery."
+        }
+    ]
+}

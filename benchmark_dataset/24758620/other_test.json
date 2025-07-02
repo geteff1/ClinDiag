@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed 74% lymphoid blasts at initial diagnosis and morphologically complete remission six weeks later, with continued complete remission noted three days before the patient's admission for transplantation.",
+            "changes_over_time": "Initial findings showed 74% lymphoid blasts. Six weeks later, the follow-up biopsy showed morphologically complete remission. A third biopsy before transplantation also indicated continued complete remission."
+        },
+        {
+            "procedure_name": "Triple-lumen tunneled catheter placement",
+            "date": "One day before admission",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspergillus galactomannan assay",
+            "date": "Not specified",
+            "findings": "Positive results suggesting possible invasive aspergillosis due to high risk factors such as profound neutropenia.",
+            "changes_over_time": "Two consecutive positive assays were noted."
+        },
+        {
+            "procedure_name": "1,3-β-d-glucan assay",
+            "date": "Not specified",
+            "findings": "Positive result (>80 pg/ml)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

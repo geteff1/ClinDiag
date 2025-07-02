@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": "Normal hearing initially; later confirmed mild to severe left sensorineural hearing loss.",
+            "changes_over_time": "Progressed from normal hearing to mild to severe left sensorineural hearing loss."
+        },
+        {
+            "procedure_name": "VHL Germline Mutation Testing",
+            "date": "Not specified",
+            "findings": "Confirmed the diagnosis of von Hippel-Lindau disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Surgical Resection of ELST",
+            "date": "Four weeks after evaluation",
+            "findings": "Resolved vertigo and tinnitus; hearing loss remained unchanged.",
+            "changes_over_time": "Hearing loss remained unchanged post-surgery."
+        },
+        {
+            "procedure_name": "Resection of Obex Hemangioblastoma",
+            "date": "Eighteen months after ELST resection",
+            "findings": "Post-operative MRI revealed complete tumor removal and cyst resolution.",
+            "changes_over_time": "Brainstem signs and symptoms resolved after surgery."
+        }
+    ]
+}

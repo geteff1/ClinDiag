@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pregnancy Test",
+            "date": "Not specified",
+            "findings": "Result was positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluoxetine Treatment",
+            "date": "Initiated after 3 months of psychotherapy",
+            "findings": "Improved depressive symptoms initially.",
+            "changes_over_time": "Later reinitiated due to worsening depressive symptoms."
+        },
+        {
+            "procedure_name": "Ultrasound Examination",
+            "date": "Not specified",
+            "findings": "Identified the baby's sex as male.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

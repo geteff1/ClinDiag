@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus bradycardia, with borderline first-degree atrioventricular block and nonspecific ST-segment and T-wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Clear cerebrospinal fluid; glucose level 65 mg/dL, protein level 58 mg/dL, no white cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "16 months before admission",
+            "findings": "Mild scattered periventricular white-matter hyperintensities and a few chronic microhemorrhages.",
+            "changes_over_time": "Progressive increase in hyperintensities in the white matter involving temporal and occipital lobes with development of sulcal effacement and edema during the initial admission."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "12 days before admission",
+            "findings": "More extensive white-matter changes.",
+            "changes_over_time": "Progression of the white-matter abnormalities, with development of edema on the MRI during the initial admission."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "On admission",
+            "findings": "Progression of white-matter abnormalities, with development of white-matter edema.",
+            "changes_over_time": "Edema progressively resolved in subsequent MRI studies acquired 7 days after initial admission."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Eighth hospital day",
+            "findings": "No evidence of acute infarct or new hemorrhage.",
+            "changes_over_time": "Improvement of the white-matter changes and resolution of the edema."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Last admission",
+            "findings": "Increased number of microhemorrhages, predominantly in the occipital, posterior temporal, and parietal lobes.",
+            "changes_over_time": "Partial resolution of the previously described extensive abnormalities during the second readmission."
+        }
+    ]
+}

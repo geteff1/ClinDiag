@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Initially normal EEG, later diffusely abnormal EEG.",
+            "changes_over_time": "Improved EEG by mid-January, reaching normal range by discharge."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Normal CT scan.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tricyclic antidepressant plasma level test",
+            "date": "Not specified",
+            "findings": "Elevated tricyclic antidepressant plasma level (imipramine plus desipramine = 540 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bilateral ECT",
+            "date": "Not specified",
+            "findings": "Dramatic response midway through a course of six treatments, with loss of psychotic symptomatology.",
+            "changes_over_time": "Subsequent re-agitation and required another short course of ECT."
+        },
+        {
+            "procedure_name": "Lithium level test",
+            "date": "Not specified",
+            "findings": "Oral administration of lithium was unreliable, and serum lithium levels could not be obtained initially.",
+            "changes_over_time": "Patient became symptom-free after consistent lithium therapy following ECT."
+        }
+    ]
+}

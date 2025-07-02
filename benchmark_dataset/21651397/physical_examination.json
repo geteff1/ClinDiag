@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "182/112 mm Hg",
+                "pulse": "81 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "temperature": "37.1°C"
+            },
+            "relevant_findings": {
+                "mass_description": "A mass, 12 cm in diameter, present in the right breast; it extended from the areola and involved much of the upper outer quadrant and was fixed to the chest wall.",
+                "lymph_nodes": "Mobile lymph nodes in the axilla.",
+                "skin_changes": "The overlying skin was erythematous and edematous with peau d’orange change.",
+                "discharge": "No discharge from the nipple or ulceration of the skin.",
+                "left_breast": "The left breast and the remainder of the examination were normal."
+            },
+            "changes_over_time": "The next day, MRI of the right breast showed enlargement of the dominant mass to 7.1 cm in the greatest dimension, indicating progression."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "182/112 mm Hg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "mass_description": "MRI of the breast after four cycles of neoadjuvant chemotherapy revealed a decrease in enhancement and size of the dominant mass to 3.0 cm in greatest dimension.",
+                "skin_changes": "Resolution of skin thickening was noted.",
+                "lymph_nodes": "Resolution of axillary lymphadenopathy was also observed."
+            },
+            "changes_over_time": "The imaging study revealed a decrease in the size and level of enhancement of the mass, indicating improvement."
+        }
+    ]
+}

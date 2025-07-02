@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White blood cell count normalized postoperatively.",
+            "changes_over_time": "The white blood cell count trended to normal over the next several days."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "ESR was the slowest to normalize, taking up to 3 weeks.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Fluid from both the operating room and the initial aspiration was negative for bacteria, fungi, and acid-fast bacilli.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scans",
+            "date": "Not specified",
+            "findings": "Demonstrated periprosthetic fluid collection and communication to a larger, enhancing collection in the axilla.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "1 week before this admission (Clinic)",
+            "findings": "10.9 g/dl (normal range: 12.0–16.0)",
+            "changes_over_time": "From 6.1 g/dl 27 months earlier to 10.9 g/dl."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "On this Admission",
+            "findings": "34.1% (normal range: 36.0–46.0)",
+            "changes_over_time": "Decline from 19.9% 27 months earlier to 34.1%."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "On this Admission",
+            "findings": "4000 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Decreased from 9900 per mm3 27 months earlier to 4000 per mm3."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "On this Admission",
+            "findings": "284.8 mg/liter (normal range: <8.0)",
+            "changes_over_time": "Increased from 2.2 mg/liter 18 months earlier to 284.8 mg/liter."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "On this Admission",
+            "findings": "1782 ng/ml (normal range: 10–200)",
+            "changes_over_time": "Increased from 1782 ng/ml 18 months earlier."
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "On this Admission",
+            "findings": "Positive at 1:2560, homogeneous pattern.",
+            "changes_over_time": "Became positive from negative at 17 months earlier."
+        },
+        {
+            "procedure_name": "Anti-double-stranded DNA antibodies",
+            "date": "On this Admission",
+            "findings": "Positive at 1:320.",
+            "changes_over_time": "Became positive from negative at 27 months earlier."
+        }
+    ]
+}

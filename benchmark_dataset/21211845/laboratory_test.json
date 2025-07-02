@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Full-field electroretinogram (ffERG)",
+            "date": "Not specified",
+            "findings": "At age 10, no recordable rod response after standard dark adaptation; a normal combined response and normal cone response. At age 18, barely recordable rod response after standard dark adaptation with normalization (increase by over 700%) of the response after prolonged dark adaptation.",
+            "changes_over_time": "Significant increase in response after prolonged dark adaptation from age 10 to age 18; normalization observed after prolonged dark adaptation at age 18."
+        },
+        {
+            "procedure_name": "Multifocal electroretinogram (mfERG)",
+            "date": "Not specified",
+            "findings": "At age 18, demonstrated reduced central and peripheral responses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "At age 18, a reduced thickness of the RPE-outer segment complex measured at 66µm (median of 76µm in 25 normals) and significant retinal structure changes correlated with the albipunctate dots.",
+            "changes_over_time": "At age 18, central retinal thickness reduction was documented."
+        },
+        {
+            "procedure_name": "Fundus autofluorescence (FAF)",
+            "date": "Not specified",
+            "findings": "Severely reduced FAF intensity index in the entire fundus at age 18, with a temporal macula/optic disk ratio of 1.4 (right eye) and 1.6 (left eye).",
+            "changes_over_time": "FAF did not change after prolonged dark adaptation at age 18."
+        }
+    ]
+}

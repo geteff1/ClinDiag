@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "106/64 mmHg",
+                "pulse": "146 bpm",
+                "temperature": "38.3 °C",
+                "respiratory_rate": "24 breaths/minute"
+            },
+            "relevant_findings": "Physical examination revealed a 3 /H110033-cm bite mark on her left calf. No lymphangitis, lymphadenitis, or peripheral pulse was present. She was alert and oriented but in acute distress.",
+            "changes_over_time": "The patient's clinical condition deteriorated, requiring emergency intubation and intensive medical support. During surgery, necrotizing fasciitis was confirmed, and the patient later developed multiple organ failure postoperatively."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cerebral computed tomography scan immediately after admission was normal. A cerebral magnetic resonance imaging scan performed 48 hours after symptom onset revealed recent ischemic lesions in the territory of the two anterior cerebral arteries.",
+            "changes_over_time": "Spontaneous movements of the left hand were the first signs of neurological improvement; however, the patient remained with mutism and paraplegia one month after discharge."
+        }
+    ]
+}

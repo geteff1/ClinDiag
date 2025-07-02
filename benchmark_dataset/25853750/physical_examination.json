@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "92 bpm",
+                "blood_pressure": "122/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Scattered petechiae on the chest, abdomen, and thighs; tender purpuric lesion on the right shoulder without crepitus; mild neck stiffness.",
+            "changes_over_time": "Within 90 minutes, the temperature rose to 39.0°C and the pulse increased to 122 bpm. Over the next 3 hours, additional petechiae developed on trunk, arms, and legs. By the first hospital day, fever and tachycardia resolved but mild nuchal rigidity persisted."
+        }
+    ]
+}

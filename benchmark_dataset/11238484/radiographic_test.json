@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse isodense sellar enlargement with upward displacement into the suprasellar space.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "1.9-cm sellar mass with suprasellar extension.",
+            "changes_over_time": "Postoperative MRI showed significant resolution of the lesion; however, 6 months later, there was recurrence of the lesion."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "1-cm inhomogeneous lesion suggestive of a cyst.",
+            "changes_over_time": "The size of the lesion did not regress on repeat MRI two years later."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "3 months after corticosteroids treatment",
+            "findings": "Complete resolution of the pituitary lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

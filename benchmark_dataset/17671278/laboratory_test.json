@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "urobilinogen=4.0, positive for cocaine, positive for opiates, negative for amphetamines, negative for ethanol",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen, creatinine",
+            "date": "Not specified",
+            "findings": "within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver panel",
+            "date": "Not specified",
+            "findings": "within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis panel",
+            "date": "Not specified",
+            "findings": "reactive for hepatitis C antibody",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV test",
+            "date": "Not specified",
+            "findings": "negative (2005) by patient report",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

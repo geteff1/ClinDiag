@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amniotic Fluid Index",
+            "date": "Not specified",
+            "findings": "At diagnosis, severe polyhydramnios with an amniotic fluid index of 51 cm (19 weeks gestation) and 98 cm (at 19 weeks gestation).",
+            "changes_over_time": "The findings progressed from early-onset and severe polyhydramnios to preterm delivery."
+        },
+        {
+            "procedure_name": "Electrolyte levels",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "128 (normal value 134-146) mmol/liter",
+                "chloride": "94 (normal value 97-110) mmol/liter",
+                "potassium": "2.9 (normal value 4-6.5) mmol/liter"
+            },
+            "changes_over_time": "Elevated renin (69, normal value 4-23 ng/ml/hr) and aldosterone (1735, normal value 25-213 ng/dl) levels noted."
+        },
+        {
+            "procedure_name": "Urinary Calcium:Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "5 (ratio, normal value <0.8)",
+            "changes_over_time": "Hypercalciuria normalized in parallel with resolution of renal salt and water losses."
+        },
+        {
+            "procedure_name": "Urinary Prostaglandin E2 (PGE2)",
+            "date": "Not specified",
+            "findings": "85 (normal value 4-27 ng/hr/1.73 m2)",
+            "changes_over_time": "Elevated PGE2 levels noted initially."
+        }
+    ]
+}

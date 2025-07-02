@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June, 2007",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Presented with rectal bleeding, decreased appetite, weight loss, and decreased calibre of stool. Colonoscopy showed an area of firm bulging with oedematous mucosa in the upper rectum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "May, 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Colonoscopy showed no abnormalities.",
+            "changes_over_time": "No abnormalities noted in May, 2006, compared to findings in June, 2007."
+        },
+        {
+            "date": "February, 2008",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Underwent low anterior resection and diverting ileostomy.",
+            "changes_over_time": "Patient received neoadjuvant chemoradiation treatment prior to surgery."
+        },
+        {
+            "date": "September, 2008",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Underwent subtotal abdominal hysterectomy with bilateral salpingo-oophorectomy. Pathology report mentioned a few microscopic foci of high-grade serous carcinoma.",
+            "changes_over_time": "Surgical intervention following previous findings of adenocarcinoma."
+        },
+        {
+            "date": "February, 2010",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was in complete remission.",
+            "changes_over_time": "Received three cycles of carboplatin and paclitaxel starting in December, 2008, indicating improvement."
+        }
+    ]
+}

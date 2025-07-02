@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Doppler echocardiography",
+            "date": "Not specified",
+            "findings": "Right atrial diameter of 6.2 cm, right ventricle end-diastolic diameter of 5.1 cm, right ventricle with eccentric hypertrophy and fractional area shortening of 33%.",
+            "changes_over_time": "Continued right-sided heart dilatation at 32 weeks (atrial diameter = 6.3 cm, end-diastolic diameter = 5.4 cm) and a decrease of right ventricular fractional area shortening to 25%."
+        },
+        {
+            "procedure_name": "Electrocardiography (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, prominent P waves in V1-V6, and partial right bundle branch block.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thromboelastography",
+            "date": "Postpartum day 2",
+            "findings": "Reaction time: 3.5-4.0 mm; clot formation time: 2.0-2.5 mm; maximal amplitude: 63-66 mm; clot formation rate: 74-76%; platelet aggregation: 65-86%.",
+            "changes_over_time": "Mild changes post-delivery: reaction time (4.0 mm), clot formation time (2.5 mm), maximal amplitude (66 mm), clot formation rate (76%), and platelet aggregation (unreported)."
+        },
+        {
+            "procedure_name": "Epidural anesthesia",
+            "date": "Not specified",
+            "findings": "Successfully placed lumbar epidural catheter with adequate analgesia.",
+            "changes_over_time": "Epidural catheter remained in situ until 28 hours after insertion."
+        },
+        {
+            "procedure_name": "Continuous oxygen and intermittent iloprost inhalations",
+            "date": "Postpartum",
+            "findings": "Cardiac output decreased to 5.4 l/min and then ranged between 4.1 and 6.4 l/min. Systemic vascular resistance (SVR) increased from 567 to 1,180 dyn.s-1.cm-5 and pulmonary vascular resistance (PVR) increased from 395 to 890 dyn.s-1.cm-5.",
+            "changes_over_time": "Initially, systolic PAP (82-95 mmHg) remained below systolic AP; however, later exceeded AP level without clinical consequences."
+        }
+    ]
+}

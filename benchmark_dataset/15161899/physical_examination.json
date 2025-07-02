@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1991",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Ejection fraction below 35%. Symptoms of heart failure included inability to sleep horizontally.",
+            "changes_over_time": "Initially improved after treatment, but worsened to ejection fraction of 19% and NYHA class III to IV symptoms one year later."
+        },
+        {
+            "date": "1999",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Resting tachycardia, Cheyne-Stokes respirations, limited energy, weight loss, and poor glycemic control.",
+            "changes_over_time": "Symptoms worsened leading to increased ACE-I dose and institutions for home monitoring."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No pedal edema.",
+            "changes_over_time": "Improvement noted post-hospice care."
+        }
+    ]
+}

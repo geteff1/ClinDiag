@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The absence of an aortic knuckle on the left side of the mediastinum; right border of the descending thoracic aorta noted on the right side of the spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Neck",
+            "date": "Not specified",
+            "findings": "Right vertebral artery was prominent with high-velocity, low-resistance flow; left vertebral artery showed flow reversal with a high-resistance waveform.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Thoracic Angiogram",
+            "date": "Not specified",
+            "findings": "Right-sided aorta giving three branches; left subclavian artery not visualized; communication with a small-caliber left vertebral artery; patchy area of consolidation in the medial basal segment of the right lower lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Time-of-Flight Magnetic Resonance Angiography (TOF-MRA)",
+            "date": "Not specified",
+            "findings": "Absence of flow-related enhancement in the left vertebral artery initially; flow enhancement noted in the left vertebral artery upon repeating TOF-MRA.",
+            "changes_over_time": "Initial absence of flow-related enhancement followed by noted flow enhancement."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Unremarkable results.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

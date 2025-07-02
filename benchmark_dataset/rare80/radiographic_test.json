@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound of the liver",
+            "date": "Not specified",
+            "findings": "Multiple lesions initially thought to be areas of focal fatty sparing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the liver",
+            "date": "Not specified",
+            "findings": "Enlarged liver with diffuse fat infiltration and multiple numerous focal lesions suggestive of multiple adenomas (adenomatosis).",
+            "changes_over_time": "Subsequent MRI scans show no significant interval changes in the number or size of the adenomas."
+        },
+        {
+            "procedure_name": "Ultrasound in 2021",
+            "date": "2021",
+            "findings": "Markedly echogenic and heterogeneous liver. The largest measured adenoma was 13 mm superficially in the left lobe (previously up to 11 mm), with others generally around 6 mm in diameter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "Every 6 months",
+            "findings": "Not specified.",
+            "changes_over_time": "All MRI scans show no significant interval changes in the number or size of the adenomas."
+        }
+    ]
+}

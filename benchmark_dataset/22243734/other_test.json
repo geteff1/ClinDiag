@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Papillary renal cell cancer or collecting duct carcinoma is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for CTSC mutation",
+            "date": "Not specified",
+            "findings": "Mutations in the CTSC gene indicate the diagnosis of Papillon-Lefèvre syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of hands and feet",
+            "date": "Not specified",
+            "findings": "Ruling out Haim-Munk syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Periodic imaging",
+            "date": "Not specified",
+            "findings": "Strongly recommended for at-risk individuals with FH mutations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

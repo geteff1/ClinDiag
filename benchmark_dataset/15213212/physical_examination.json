@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/90 mm Hg",
+                "heart_rate": "76/min",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "lungs": "Clear to auscultation",
+                "heart": "Regular rate and rhythm without murmurs, rubs, or gallops",
+                "abdomen": "Soft and nontender, without organomegaly",
+                "genitourinary": "Small, soft testicles; smooth firm prostate minimally enlarged without nodules",
+                "pulses": "Bilaterally intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Well controlled",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure improved with hydrochlorothiazide and atenolol"
+        }
+    ]
+}

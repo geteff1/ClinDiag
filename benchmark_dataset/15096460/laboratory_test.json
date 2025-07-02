@@ -1,0 +1,18 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "LDL": "128 mg/dL",
+                "HDL": "27 mg/dL",
+                "Triglycerides": "92 mg/dL"
+            },
+            "changes_over_time": {
+                "LDL": "Decreased to 78 mg/dL",
+                "HDL": "Increased to 43 mg/dL",
+                "Triglycerides": "Decreased to 60 mg/dL"
+            }
+        }
+    ]
+}

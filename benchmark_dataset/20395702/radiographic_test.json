@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "SPECT brain imaging",
+            "date": "Not specified",
+            "findings": "Decreased perfusion in the left frontal temporal lobe region.",
+            "changes_over_time": "Repeat SPECT brain images showed a normal pattern of activity."
+        },
+        {
+            "procedure_name": "Carotid Doppler study",
+            "date": "Not specified",
+            "findings": "27% decrease in flow rate due to stenosis in the region of the left carotid bifurcation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat SPECT brain imaging",
+            "date": "1 month after discharge",
+            "findings": "Significant improvement, with some normalization of relative perfusion to both hemispheres.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

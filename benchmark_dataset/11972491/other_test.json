@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin prick test",
+            "date": "Not specified",
+            "findings": "Negative for common allergens. Positive for latex extract.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SDS-PAGE",
+            "date": "Not specified",
+            "findings": "Showed several bands from 15 to 60 kDa; IgE-immunoblotting revealed a single band of around 30 kDa.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoblotting",
+            "date": "Not specified",
+            "findings": "Revealed a strong band of around 30 kDa in the chestnut chitinase recombinant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histamine provocation test",
+            "date": "Not specified",
+            "findings": "Showed unremarkable bronchial hyperreactivity (PC20=0.093 mg/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchial challenge tests with mitoxantrone",
+            "date": "Not specified",
+            "findings": "Induced a 15% fall in FEV1 at 1 hour, with a 20% decrease at 4 hours.",
+            "changes_over_time": "Repeat challenge one week later showed similar findings."
+        },
+        {
+            "procedure_name": "Bronchoalveolar lavage (BAL)",
+            "date": "Not specified",
+            "findings": "Significant increase in lymphocytes and neutrophil proportion, especially at 18 hours after the challenge.",
+            "changes_over_time": "Eosinophil influx increased to 4%, with a more than two-fold increase in the permeability index (from 8.0% before to 18.2%)."
+        }
+    ]
+}

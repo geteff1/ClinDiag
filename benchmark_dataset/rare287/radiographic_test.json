@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Lung ultrasound",
+            "date": "Not specified",
+            "findings": "Pulmonary edema and exudative inflammation in bilateral lung fields.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary computed tomography (CT)",
+            "date": "51 days after birth",
+            "findings": "Diffuse ground-glass appearance in both lungs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "91 days after birth",
+            "findings": "Bilateral ventricular widening and corpus callosum hypoplasia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

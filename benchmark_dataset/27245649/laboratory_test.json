@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe prosthetic valve stenosis with peak/mean gradient of 149/98 mm Hg, dimensionless velocity index 0.28, aortic valve area 0.8 cm², no aortic valve regurgitation, mild concentric left ventricular hypertrophy, hyperdynamic left ventricular systolic function, no evidence of pulmonary hypertension.",
+            "changes_over_time": "Increased gradients observed over time, previous echocardiogram showed mild prosthetic valve aortic stenosis with peak/mean gradient of 41/27 mm Hg."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "Confirmed severe bioprosthetic aortic stenosis without evidence of thrombus, pannus formation, or valvular vegetation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postprocedure Trans-thoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Functioning bioprosthetic aortic valve with peak/mean gradients of 43/27 mm Hg, no regurgitation, left ventricular ejection fraction >70%.",
+            "changes_over_time": "Comparison with pre-procedure results shows improvement after intervention."
+        },
+        {
+            "procedure_name": "Blood Work",
+            "date": "Not specified",
+            "findings": "Largely unremarkable with normal troponin values, no anemia, and normal thyroid function.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "12-lead ECG",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia with normal axis, normal intervals, borderline left ventricular hypertrophy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

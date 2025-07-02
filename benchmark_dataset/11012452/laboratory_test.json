@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mammography",
+            "date": "5 weeks after completion of lactation",
+            "findings": "New bilateral diffuse microcalciﬁcations, with predominance in the left lower inner quadrant; no associated masses or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breast Ultrasonography (US)",
+            "date": "Not specified",
+            "findings": "Numerous bilateral simple fluid-filled cavities, representing cysts and dilated ducts, without discrete solid masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast Material-Enhanced Magnetic Resonance Imaging (MR)",
+            "date": "Not specified",
+            "findings": "Bilateral patchy heterogeneous abnormal enhancement, more prominent in the lower inner and upper outer quadrants of the left breast.",
+            "changes_over_time": "Postprocessing of the time–signal-intensity curves showed slow initial enhancement and continued progressive enhancement over time."
+        },
+        {
+            "procedure_name": "Core Needle Biopsy",
+            "date": "10 days after mammography",
+            "findings": "Large, globular, smoothly contoured microcalciﬁcations within benign ducts without evidence of malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

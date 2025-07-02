@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "Not specified",
+            "findings": "Fetal chromosome karyotype of 46, XX; a 0.64MB microdeletion on chromosome 10 (chr10:g.47080000_47720000del), rated as Likely Benign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inherited metabolic disease determination",
+            "date": "Not specified",
+            "findings": "Significant increase in blood citrulline (109.4mM); mild elevations of tyrosine (223.4mM) and alanine (408.5mM).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine organic acids determination",
+            "date": "Not specified",
+            "findings": "Severely increased urinary lactic acid (7262nmol/mg creatinine), 2-hydroxybutyric acid (310.9nmol/mg creatinine), pyruvate (1416.8nmol/mg creatinine), 3-hydroxybutyric acid (1725.3nmol/mg creatinine), and 4-hydroxyphenyllactic acid (979.6nmol/mg creatinine), indicating a possibility of genetic metabolic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trio-whole exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Detected a compound heterozygous mutation in the PC gene; c.1154_1155del (p.Arg385GlnfsTer10) from the mother (Likely Pathogenic) and c.152G>A (p.Arg51His) from the father (Likely Pathogenic).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Revealed mild patent ductus arteriosus, patent foramen ovale, and mitral and tricuspid regurgitation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "11,800 per cubic millimeter",
+                "hemoglobin_level": "11.2 g per deciliter",
+                "mean_corpuscular_volume": "99.6 fl",
+                "platelet_count": "450,000 per cubic millimeter"
+            },
+            "changes_over_time": "White cell count increased to 32,000 per cubic millimeter, then to 34,700 per cubic millimeter in 5 hours. Platelet count decreased to 122,000 per cubic millimeter, then to 136,000 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "alanine_aminotransferase": "68 U per liter (normal range, 12 to 60)",
+                "aspartate_aminotransferase": "84 U per liter (normal range, 17 to 42)",
+                "alkaline_phosphatase": "313 U per liter (normal range, 31 to 95)",
+                "total_bilirubin": "8.2 mg per deciliter (normal range, 0.2 to 1.3)",
+                "direct_bilirubin": "4.6 mg per deciliter (normal level, <0.8)",
+                "INR": "1.1",
+                "albumin": "3.6 g per deciliter"
+            },
+            "changes_over_time": "The alkaline phosphatase level shows a history of elevation that may reflect biliary stricture but no specific recent changes mentioned."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "1+",
+                "blood": "4+",
+                "red_cells": "2 per high-power field",
+                "white_cells": "7 per high-power field"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Mild ataxia and weakness on the left side; flat affect; inability to complete most items on the Folstein Mini-Mental State Examination (MMSE), but he spelled 'world' backward without error and recalled two of three objects at 5 minutes.",
+            "changes_over_time": "Cognitive function was severely impaired with MMSE scores of less than 10 of 30 early in hospitalization. After dilation of stenosis, MMSE scores improved to 28 of 30 weeks after admission, but mild short-term memory deficits, trouble recalling the date, and occasional hallucinations persisted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "orthostatic_hypotension": "Noted",
+                "tachycardia": "Noted"
+            },
+            "relevant_findings": "Frequent staring episodes; agitation; episodes of presyncope.",
+            "changes_over_time": "Orthostatic hypotension and tachycardia were not corrected by intravenous fluid resuscitation initially but correlated with overall improvement of symptoms after nutritional intake improved."
+        }
+    ]
+}

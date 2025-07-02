@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "In Family A, serum FT4 was low (0.51 ng/dl) but serum TSH and FT3 were normal; serum Tg was elevated (1312 ng/ml). In Family B, serum TSH was elevated (7.08 /H9262 U/ml) with low FT4 (0.73 ng/dl) and normal FT3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Perchlorate Test",
+            "date": "Not specified",
+            "findings": "Showed an organification defect in Family A.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Cytology",
+            "date": "Not specified",
+            "findings": "Suggestive of follicular neoplasia in Family B.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Thyroidectomy",
+            "date": "Not specified",
+            "findings": "Post-operative discharge on 100 /H9262g L-thyroxine daily.",
+            "changes_over_time": "Increase in L-thyroxine requirements after surgery due to loss of the thyroid as a source of T3."
+        },
+        {
+            "procedure_name": "Iodide Uptake Measurement",
+            "date": "Not specified",
+            "findings": "Normal thyrocytes showed fast iodide uptake while T-PS2 cells demonstrated increased iodide retention.",
+            "changes_over_time": "T-PS2 cells reached iodide uptake plateau later than normal cells, indicating differences in efficiency."
+        },
+        {
+            "procedure_name": "Histological and Immunohistochemical Studies",
+            "date": "Not specified",
+            "findings": "Thyroid glands showed hypercellular appearance with tall columnar cells in follicles; both propositi lacked pendrin immunoreactivity at the luminal border.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

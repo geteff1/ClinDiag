@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT coronary angiography",
+            "date": "May, 2012",
+            "findings": "Normal coronary arteries, identified a pulmonary arteriovenous malformation (PAVM) within the lingula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Post-procedure cardiac magnetic resonance imaging",
+            "date": "Not specified.",
+            "findings": "Structurally normal heart and no evidence of an underlying infiltrative disorder.",
+            "changes_over_time": "Confirmed no residual right-to-left shunt post-embolisation."
+        },
+        {
+            "procedure_name": "Pulmonary angiography",
+            "date": "Not specified.",
+            "findings": "Confirmed the presence of a pulmonary arteriovenous fistula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified.",
+            "findings": "QP:QS shunt ratio of 9.5% before embolisation and no residual right-to-left shunt after the procedure.",
+            "changes_over_time": "Reduction in shunt ratio after coil embolisation."
+        }
+    ]
+}

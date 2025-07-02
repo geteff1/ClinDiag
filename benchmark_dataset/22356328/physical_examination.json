@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "142/89 mm Hg",
+                "other_vital_signs": "normal"
+            },
+            "relevant_findings": {
+                "examination_status": "Lethargic but oriented; able to follow simple commands.",
+                "scleral_icterus": "Present",
+                "facial_telangiectasias": "Bilateral",
+                "lung": "Crackles in the right lower lung",
+                "abdominal_findings": "Distended abdomen, liver edge palpable, slight tenderness in the right upper quadrant",
+                "skin": "Jaundiced, petechiae on legs",
+                "neurologic_examination": "Fluent speech without aphasia or dysarthria"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "examination_status": "Intermittently lethargic, slurred speech",
+                "neurological_changes": "Fluctuating mental status, anisocoria (right pupil larger than left)"
+            },
+            "changes_over_time": "Worsening mental status and fluctuating arousal"
+        }
+    ]
+}

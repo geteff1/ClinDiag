@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "73/25 mm Hg",
+                "temperature": "38.6°C",
+                "heart_rate": "145 bpm",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "skin": "Cyanotic and cool skin with a mottled and swollen right hand; a black eschar, 1 cm in diameter, on the dorsum of the right hand.",
+                "capillary_refill_time": "4 seconds",
+                "hand_movement": "Able to move fingers, but with limited range of motion; swelling extended up the proximal forearm.",
+                "urinary_output": "Little urinary output.",
+                "stool": "Heme-positive."
+            },
+            "changes_over_time": "Skin became less cyanotic and developed a flushed, deep-red color; blue discoloration persisted over the fingers of the right hand distally. Urinary output improved."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "92/50 mm Hg",
+                "temperature": "37.9°C",
+                "heart_rate": "129 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "skin": "Brown circular area of necrotic skin, 2 cm in diameter on the mid-dorsum of the right hand; soft tissue of the hand and wrist erythematous and swollen.",
+                "hand_movement": "Unable to move fingers more than 2 to 3 mm; severe pain with passive motion.",
+                "lung": "Crackles present in both lungs.",
+                "jugular_venous_distention": "10 cm."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

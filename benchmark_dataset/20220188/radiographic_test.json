@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Six weeks before admission",
+            "findings": "Pachymeningeal enhancement along the calvaria and the falx cerebri, enhancement of the dura and multiple cranial nerves, and arachnoid granulation that narrowed the right transverse sinus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Six weeks before admission",
+            "findings": "Ascites and iliac and retroperitoneal lymphadenopathy, with lymph nodes up to 1.7 cm in diameter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Scattered nodules (2 to 3 mm in diameter) in both lungs, diffuse lymphadenopathy (including a retroperitoneal paraaortic mass, 2.2 cm by 2.1 cm), ascites, a small pericardial effusion, and bilateral pleural effusions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiographic skeletal survey",
+            "date": "Not specified",
+            "findings": "Lucency in the right tibial diaphysis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the right lower leg",
+            "date": "Three weeks later",
+            "findings": "Heterogeneity of the marrow and an enhancing focal lesion within the medullary cavity of the mid-tibial diaphysis (3.7 cm in length) that was hypointense on T1-weighted images and hyperintense on T2-weighted images.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the neck, chest, and abdomen with PET",
+            "date": "Eleven weeks after discharge",
+            "findings": "Intense uptake of 18F-fluorodeoxyglucose (18F-FDG) in a lytic lesion (5.4 cm by 3.8 cm) in the sacrum that had sclerotic margins and central soft-tissue components. Lymphadenopathy and pulmonary nodules were unchanged from previous CT examinations and not associated with increased 18F-FDG uptake.",
+            "changes_over_time": "Unchanged from previous CT examinations."
+        }
+    ]
+}

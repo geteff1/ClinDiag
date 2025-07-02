@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "18F-FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Calcified plaque of the right carotid with focal uptake",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Frontal infarction in the anterior cerebral artery territory",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler examination",
+            "date": "Two weeks later",
+            "findings": "Complete occlusion of the right carotid by an atherosclerotic plaque",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET/CT",
+            "date": "After the vascular event",
+            "findings": "Right frontal lobe infarction and persistence of the right carotid focus",
+            "changes_over_time": "Patient conserved left hemiparesis"
+        }
+    ]
+}

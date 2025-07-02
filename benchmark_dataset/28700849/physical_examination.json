@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "155 cm",
+                "weight": "94.5 kg",
+                "BMI": "39.3"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Gravid uterus",
+                "speculum_exam": "Friable tumor (2 to 3 cm in diameter)",
+                "bimanual_exam": "Firm mass noted, unchanged since the initial visit"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Excessive bleeding reported after cervical biopsy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

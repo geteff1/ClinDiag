@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/95 mm Hg",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Physical examination was unremarkable except for a well healed abdominal surgical scar.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Complete blood count, liver function tests, and routine serum chemistries were normal except for an elevated fasting plasma glucose level (9.91 mmol/liter).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/72 mm Hg",
+                "pulse": "59 bpm",
+                "oxygen_saturation": "96%",
+                "weight": "86.8 kg",
+                "body_mass_index": "29.9"
+            },
+            "relevant_findings": {
+                "facial_swelling": "Present",
+                "periorbital_edema": "Present",
+                "normal_physical_examination": "Remainder of the examination normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 days after presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "persistent_hoarseness": "Reported",
+                "facial_and_abdominal_swelling": "Worsened",
+                "markedly_worsening_fatigue": "Reported",
+                "dyspnea": "Associated with exertion",
+                "cough": "Producing white mucus",
+                "laryngitis": "Reported"
+            },
+            "changes_over_time": "Worsened symptoms including fatigue and dyspnea on exertion"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Presence of a homozygous C to A transversion in the HSD3B2 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not applicable as no ECG data was mentioned.",
+            "changes_over_time": "Not applicable as no ECG data was mentioned."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not applicable as no CSF data was mentioned.",
+            "changes_over_time": "Not applicable as no CSF data was mentioned."
+        },
+        {
+            "procedure_name": "Hormone analysis",
+            "date": "Not specified",
+            "findings": "Plasma hormone concentrations showed significant variations; notably: cortisol was at 28 mg/dL, 17-hydroxyprogesterone was 10,000 ng/dL.",
+            "changes_over_time": "At 10.9 years, hormonal profile was essentially unchanged except for plasma progesterone level which rose to 7.4 pmol/L."
+        },
+        {
+            "procedure_name": "Genotyping analysis",
+            "date": "Not specified",
+            "findings": "Patients were homozygous at all loci genotyped.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testicular ultrasound",
+            "date": "Not specified",
+            "findings": "Compatible with the presence of adrenal rests in the testes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

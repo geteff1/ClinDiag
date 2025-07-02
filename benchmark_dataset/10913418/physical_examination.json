@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 1998",
+            "vital_signs": {
+                "plasma_HIV_viremia": "15,000 copies/mL",
+                "CD4_cell_count": "98 cells/mL"
+            },
+            "relevant_findings": {
+                "joint": "right knee",
+                "description": "erythematous fluctuating and painful monoarticular joint with marked functional impairment",
+                "imaging": {
+                    "conventional_radiographs": "rarefaction and erosion of tibial and femoral metaphyses of the right knee",
+                    "MRI": "signs of synovitis and joint effusion"
+                },
+                "arthrocentesis": {
+                    "WBC_count": "<10,000 cells/mL",
+                    "cultures": "negative for bacteria and fungi"
+                }
+            },
+            "changes_over_time": "After 2 weeks of therapy, symptoms at the right knee worsened and articular pain and local swelling at the left knee was observed."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "plasma_HIV_viremia": "6500 copies/mL",
+                "CD4_cell_count": "34 cells/mL"
+            },
+            "relevant_findings": "Colliquative abscess of the right knee identified on MRI.",
+            "changes_over_time": "Condition is slowly worsening after 18 months of treatment."
+        }
+    ]
+}

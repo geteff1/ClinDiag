@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "96/55 mmHg",
+                "heart_rate": "110 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "weakness": "Yes",
+                "exhaustion": "Yes",
+                "pericardial_effusion": "Yes",
+                "elevated_ventricular_pacing_threshold": "2.75 V at 1.0 ms",
+                "reduced_sensing_amplitude": "5.6 mV",
+                "normal_pacing_impedances": "403 Ohms"
+            },
+            "changes_over_time": {
+                "electrical_characteristics": "Evidence of worsening with elevated pacing threshold and reduced amplitude observed initially 2 months prior.",
+                "thoracic_pain": "Non-specific pain began 2 months post initial abnormal lead characteristics."
+            }
+        }
+    ]
+}

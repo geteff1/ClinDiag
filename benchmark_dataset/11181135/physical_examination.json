@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.7 C",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hepatosplenomegaly": "Moderate",
+                "heart_murmur": "Not audible",
+                "echocardiography_findings": "Echodense aortic valve with a definite echodense lesion (size: 0.9 cm x 0.9 cm), jet of aortic regurgitation",
+                "ulcerative_embolic_lesion": "Emergence on left great toe"
+            },
+            "changes_over_time": "Transesophageal echocardiography changed from alesion at the junction of the right and left coronary cusps to a perforated left coronary cusp with an aortic root abscess."
+        }
+    ]
+}

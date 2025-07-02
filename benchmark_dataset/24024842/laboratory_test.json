@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Carbon Dioxide",
+            "date": "Not specified",
+            "findings": "19.5 mmol/L (reference range: 23.0 to 31.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anion Gap",
+            "date": "Not specified",
+            "findings": "17 mmol/L (reference range: 3 to 15)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphorus",
+            "date": "Not specified",
+            "findings": "2.3 mg/dL (reference range: 2.6 to 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "145 mg/dL (reference range: 70 to 110 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ejection Fraction",
+            "date": "First hospital discharge",
+            "findings": "Nearly normal",
+            "changes_over_time": "Ejection fraction declined to 34% during readmission, improved to 43% after treatment."
+        },
+        {
+            "procedure_name": "Chemical Stress Test",
+            "date": "Not specified",
+            "findings": "Moderate-to-large incomplete anterior, anteroseptal, and anterolateral infarction associated with moderate ischemia and hypokinesis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin-T",
+            "date": "Not specified",
+            "findings": "Undetectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with normal intervals and no evidence of hypertrophy or ischemia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine toxicology screen",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 65%, normal left ventricular and right ventricular size and function, no significant valvular dysfunction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Not specified",
+            "findings": "No structural abnormalities or areas with late gadolinium enhancement; moderate narrowing of mid left anterior descending and mid right coronary arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "148 mg/dL",
+                "high_density_lipoprotein": "44 mg/dL",
+                "low_density_lipoprotein": "81 mg/dL",
+                "triglyceride": "116 mg/dL",
+                "high_sensitivity_C_reactive_protein": "1.5 mg/L",
+                "serum_lipoprotein_a": "158 mg/dL (normal ≤30 mg/dL)",
+                "thyroid_stimulating_hormone": "0.94 μIU/mL",
+                "hemoglobin_A1C": "5.4%",
+                "homocysteine_concentration": "9.1 μmol/L (normal, 0–14 μmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram (post-event)",
+            "date": "Not specified",
+            "findings": "Depressed ejection fraction at 35% to 40% with global hypokinesis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

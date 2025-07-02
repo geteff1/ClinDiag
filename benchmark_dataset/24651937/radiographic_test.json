@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Soft-tissue mass associated with the right carotid artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Large, intensely enhancing mass measuring 2.6 × 2.6 × 4.6 cm at the level of the right carotid bifurcation and a slightly smaller mass measuring 2.0 × 2.5 × 3.9 cm in the left side of the neck, consistent with bilateral carotid body tumors.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Nearly complete devascularization of the left carotid body tumor post-embolization.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Nearly complete devascularization with only a small residual inferior tumor not amenable to embolization in the right carotid body.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

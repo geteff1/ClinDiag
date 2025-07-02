@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "137/70 mm Hg",
+                "pulse": "112 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "temperature": "35.3°C"
+            },
+            "relevant_findings": {
+                "heart_murmur": "Grade 3/6 systolic murmur radiating to carotid arteries",
+                "edema": "1+ nonpitting edema of the legs"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/60 mm Hg",
+                "pulse": "93 bpm",
+                "respiratory_rate": "21 breaths per minute",
+                "oxygen_saturation": "91% on 2 liters of oxygen",
+                "temperature": "36.4°C"
+            },
+            "relevant_findings": {
+                "heart_murmur": "Grade 1/6 murmur throughout the precordium",
+                "appearance": "Patient appeared pale"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "bone_marrow_exam": "Dysplasia in erythroid precursors and megakaryocytes, 2% of the cells were blasts"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 months after initiation of lenalidomide therapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "bone_marrow_exam": "15% cellular with increased erythropoiesis and near-complete cytogenetic response"
+            },
+            "changes_over_time": "Morphologic normalization of the marrow with increased erythropoiesis"
+        },
+        {
+            "date": "5 years after initial evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "bone_marrow_exam": "Increased percentage of myeloblasts (11%), recurrence of morphologic dysplasia in myeloid cells"
+            },
+            "changes_over_time": "Progression of disease with more severe dysplasia and karyotypic evolution indicative of transformation to acute myeloid leukemia"
+        }
+    ]
+}

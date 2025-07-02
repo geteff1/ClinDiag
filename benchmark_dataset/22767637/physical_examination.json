@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Serum calcium level of 12.2 mg/dl (normal range 8.8–10.2 mg/dl) and intact PTH level of 206 pg/ml (normal range 10–65 pg/ml) at diagnosis.",
+            "changes_over_time": "At age 42, serum calcium was 10.8 mg/dl and intact PTH was 105.2 pg/ml. Following parathyroidectomy at this age, levels remained high suggesting further investigation for ectopic tissue."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Calcium: 10.8 mg/dl; Intact PTH: 120 pg/ml",
+            "relevant_findings": "Post-surgical levels of calcium and intact PTH remained elevated, indicating a sixth parathyroid gland.",
+            "changes_over_time": "Post-resection, serum calcium dropped to 8.9 mg/dl and intact PTH to 10 pg/ml, indicating successful removal of the ectopic gland."
+        },
+        {
+            "date": "1.5 years after resection",
+            "vital_signs": "Calcium: 9.9 mg/dl; Intact PTH: 56 pg/ml",
+            "relevant_findings": "Patient has been euparathyroid with normal serum levels post-resection.",
+            "changes_over_time": "Improvement noted with normal levels of calcium and intact PTH after the ectopic gland was resected."
+        }
+    ]
+}

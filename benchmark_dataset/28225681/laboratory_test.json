@@ -1,0 +1,133 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "24 Mo before This Evaluation",
+            "findings": {
+                "Hematocrit": "41.7%",
+                "Hemoglobin": "13.2 g/dl",
+                "White-cell count": "5300 per mm3",
+                "Eosinophils": "15.1%",
+                "Absolute eosinophil count": "800 per mm3",
+                "Platelet count": "252,000 per mm3",
+                "Erythrocyte sedimentation rate": "41 mm/hr",
+                "C-reactive protein": "1.4 mg/liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "20 Mo before This Evaluation",
+            "findings": {
+                "Hematocrit": "32.7%",
+                "Hemoglobin": "10.2 g/dl",
+                "White-cell count": "7800 per mm3",
+                "Eosinophils": "6.3%",
+                "Absolute eosinophil count": "500 per mm3",
+                "Platelet count": "445,000 per mm3",
+                "Erythrocyte sedimentation rate": "99 mm/hr",
+                "C-reactive protein": "7.9 mg/liter"
+            },
+            "changes_over_time": "Decreasing hemoglobin and hematocrit levels"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "13 Mo before This Evaluation",
+            "findings": {
+                "Hematocrit": "31.0%",
+                "Hemoglobin": "9.9 g/dl",
+                "White-cell count": "5800 per mm3",
+                "Eosinophils": "19.8%",
+                "Absolute eosinophil count": "1130 per mm3",
+                "Platelet count": "272,000 per mm3",
+                "Erythrocyte sedimentation rate": "111 mm/hr",
+                "C-reactive protein": "Not specified"
+            },
+            "changes_over_time": "Continued decrease in hemoglobin and hematocrit"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "7.5 Mo before This Evaluation",
+            "findings": {
+                "Hematocrit": "34.2%",
+                "Hemoglobin": "11.0 g/dl",
+                "White-cell count": "5500 per mm3",
+                "Eosinophils": "29.3%",
+                "Absolute eosinophil count": "1110 per mm3",
+                "Platelet count": "280,000 per mm3",
+                "Erythrocyte sedimentation rate": "107 mm/hr",
+                "C-reactive protein": "Not specified"
+            },
+            "changes_over_time": "Slight increase in hemoglobin and hematocrit"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "4 Mo before This Evaluation",
+            "findings": {
+                "Hematocrit": "34.1%",
+                "Hemoglobin": "10.9 g/dl",
+                "White-cell count": "3800 per mm3",
+                "Eosinophils": "25.4%",
+                "Absolute eosinophil count": "1120 per mm3",
+                "Platelet count": "201,000 per mm3",
+                "Erythrocyte sedimentation rate": "131 mm/hr",
+                "C-reactive protein": "Not specified"
+            },
+            "changes_over_time": "Decrease in white-cell count, ongoing anemia"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "On Evaluation, This Hospital",
+            "findings": {
+                "Hematocrit": "33.6%",
+                "Hemoglobin": "10.0 g/dl",
+                "White-cell count": "4410 per mm3",
+                "Eosinophils": "Not specified",
+                "Absolute eosinophil count": "Not specified",
+                "Platelet count": "199,000 per mm3",
+                "Erythrocyte sedimentation rate": "Not specified",
+                "C-reactive protein": "Not specified"
+            },
+            "changes_over_time": "Overall anemia persisted"
+        },
+        {
+            "procedure_name": "Immunoglobulin Test",
+            "date": "Not specified",
+            "findings": {
+                "IgA": "84 mg/dl (Normal range: 69-309)",
+                "IgM": "33 mg/dl (Normal range: 53-334)",
+                "IgG": "7961 mg/dl (Normal range: 614-1295)",
+                "IgG1": "4560.4 mg/dl (Normal range: 382.4-928.6)",
+                "IgG2": "2053.6 mg/dl (Normal range: 241.8-700.3)",
+                "IgG3": "185.8 mg/dl (Normal range: 21.8-176.1)",
+                "IgG4": "32.9 mg/dl (Normal range: 3.9-86.4)",
+                "IgE": "301 IU/ml (Normal range: 0-100)"
+            },
+            "changes_over_time": "Increase in IgG and IgG1 levels over time"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "Pattern": "Abnormal pattern with banding and diffuse increase in gamma globulin"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": {
+                "ESR": "41 mm/hr (Normal range: 0-20)"
+            },
+            "changes_over_time": "Increased ESR over time"
+        },
+        {
+            "procedure_name": "C-Reactive Protein Test",
+            "date": "Not specified",
+            "findings": {
+                "CRP": "7.9 mg/liter (Normal <8.0)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

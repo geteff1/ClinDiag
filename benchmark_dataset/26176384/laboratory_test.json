@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "Not specified",
+            "findings": "23,800 per cubic millimeter (reference range, 4,700 to 10,800)",
+            "changes_over_time": "Increased from 27,750 on admission to 23,800 before admission."
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "29.5 mg per deciliter (reference value, <0.8)",
+            "changes_over_time": "Increased to 344.0 mg/liter on admission."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "96 mm per hour (reference value, <15)",
+            "changes_over_time": "Increased to 77 mm/hr on admission."
+        },
+        {
+            "procedure_name": "Antistreptolysin O Titer",
+            "date": "Not specified",
+            "findings": "289 IU per milliliter (reference value, <530)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "9.0 g/dl (reference range, 13.5–17.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "29.2% (reference range, 41.0–53.0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "626,000 per cubic millimeter (reference range, 150,000–400,000)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "2458 μg/liter (reference range, 30–300)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Iron",
+            "date": "Not specified",
+            "findings": "9 μg/dl (reference range, 45–160)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Iron-Binding Capacity",
+            "date": "Not specified",
+            "findings": "147 μg/dl (reference range, 230–404)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal liver-function tests; mildly elevated alkaline phosphatase.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

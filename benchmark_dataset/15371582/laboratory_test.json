@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine analysis",
+            "date": "Not specified",
+            "findings": "Positive for protein (++), ketones (+++), bilirubin (+); sediment contained 50 to 100 white cells, 3 to 5 red cells, and moderate amounts of bacteria per high-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Admission and subsequent dates",
+            "findings": "Elevated at 0.21 ng per milliliter on admission, decreased to 0.17 ng per milliliter the next day, was 0.19 ng per milliliter on the fourth hospital day, then subsequently declined.",
+            "changes_over_time": "Decreased from 0.21 ng/ml to 0.17 ng/ml and then to 0.19 ng/ml over the days."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "Remained normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Second hospital day",
+            "findings": "Two cultures yielded gram-positive cocci in pairs and short chains, later identified as Streptococcus anginosus (S. milleri group).",
+            "changes_over_time": "Negative results on the fifth and sixth hospital days."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Valvular aortic stenosis with calcification, an echo-lucent area measuring 2.3 cm by 0.92 cm anterior to the right coronary cusp, moderate aortic regurgitation, and symmetrical left ventricular hypertrophy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100/62 mmHg",
+                "height": "157.0 cm",
+                "weight": "56.8 kg",
+                "body_mass_index": "23.0 kg/m2"
+            },
+            "relevant_findings": {
+                "GH": "Undetectable (< 0.05 ng/ml)",
+                "PRL": "1.0 ng/ml",
+                "TSH": "0.05 IU/ml",
+                "Free_T3": "1.24 pmol/liter",
+                "Free_T4": "8.78 pmol/liter",
+                "Cortisol": "Within normal range",
+                "ACTH": "Within normal range",
+                "Thyroid_ultrasound": "Atrophic thyroid gland",
+                "MRI": "Hypoplastic anterior pituitary gland"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

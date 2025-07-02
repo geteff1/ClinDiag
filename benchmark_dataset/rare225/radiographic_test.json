@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Initial chest X-ray showed normal findings.",
+            "changes_over_time": "Bilateral lung infection was significantly worse than the previous day's chest film."
+        },
+        {
+            "procedure_name": "Pulmonary computed tomography (CT)",
+            "date": "June 14th",
+            "findings": "Inflammation in the right lower lung.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

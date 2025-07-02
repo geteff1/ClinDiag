@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Reticular linear peripheral opacities predominantly involving the upper lung zones, mild volume loss, and biapical pleural thickening, without pleural effusions or pneumothorax.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Bilateral peripheral nodules associated with nodular pleural thickening extending into the fissures; linear bands in the parenchyma were seen adjacent to many peripheral nodules. No abnormalities in the lower lung zone.",
+            "changes_over_time": "Performed 2.5 months later, the CT was largely unchanged but noted an 8-mm nodule in the left apex."
+        }
+    ]
+}

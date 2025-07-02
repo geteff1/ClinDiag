@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "Two months before current evaluation",
+            "findings": "Grew Enterobacter cloacae, Serratia marcescens, and Mycobacterium abscessus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histologic Examination of Biopsy",
+            "date": "After patient received treatment for M. abscessus infection at the third hospital",
+            "findings": "Multifocal abscesses with associated granulomatous inflammation, purulent necrosis, multifocal cystic bronchiectasis, dense chronic and acute inflammation, reactive squamous metaplasia, and regions of dense fibrosis with lymphoid aggregates and granulomas.",
+            "changes_over_time": "Findings are consistent with cystic fibrosis."
+        },
+        {
+            "procedure_name": "Sweat Chloride Test",
+            "date": "Not specified.",
+            "findings": "Chloride level of 40 to 45 mmol per liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified.",
+            "findings": "Deletion of phenylalanine at amino acid position 508 (Phe508del) and substitution of aspartic acid for histidine at position 1152 (D1152H).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

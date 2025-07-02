@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "First-trimester prenatal examination",
+            "date": "Not specified",
+            "findings": {
+                "free_hCG": "0.87 MoM",
+                "PAPP_A": "0.701 MoM",
+                "AFP": "7.12 IU/l",
+                "risk": "low risk for trisomy, preeclampsia, and preterm delivery"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - fetal assessment",
+            "date": "Not specified",
+            "findings": {
+                "estimated_fetal_weight": "0 percentile",
+                "cerebral_placental_ratio": "1.77 (26th percentile)",
+                "mean_pulsatility_index": "0.65 (40th percentile)",
+                "Grade_1_FGR": "diagnosed"
+            },
+            "changes_over_time": "Continuous slow weight gain starting from the 20th week of gestation."
+        },
+        {
+            "procedure_name": "Cardiotocographic record",
+            "date": "Not specified",
+            "findings": {
+                "fetal_well-being": "normal fetal well-being before labor pre-induction"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Umbilical blood gas analysis",
+            "date": "At delivery",
+            "findings": {
+                "pH": "7.1"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

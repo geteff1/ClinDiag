@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum estradiol assay",
+            "date": "Not specified",
+            "findings": "Elevated serum estradiol levels at 30 pmol/L in patient 1 at age 12 years 5 months. For patient 2, serum estradiol levels were below the limits of detection at both 4 years and 9 years of age.",
+            "changes_over_time": "Patient 1 showed elevated estradiol at 12.5 years and patient 2 remained below detection limits at ages 4 and 9."
+        },
+        {
+            "procedure_name": "Testicular ultrasound",
+            "date": "4 years 6 months of age (for patient 2)",
+            "findings": "Enlarged testes, 3.5 mL on the right and 2.8 mL on the left. Microlithiasis identified.",
+            "changes_over_time": "Annual ultrasound findings did not change significantly over the 6-year follow-up period."
+        },
+        {
+            "procedure_name": "Testicular biopsy",
+            "date": "Not specified",
+            "findings": "Loss of heterozygosity of STK11 gene, absence of p21 expression, increased expression of aromatase, and decreased phosphorylation of AMPK in Sertoli cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genomic DNA analysis",
+            "date": "12.5 years of age (for patient 1) and at 4 years of age (for patient 2)",
+            "findings": "Heterozygous mutation in STK11 (910delC) identified for patient 1. Mutation identified for patient 2: c.180C > T, causing complete loss of the kinase and C-terminal domains.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

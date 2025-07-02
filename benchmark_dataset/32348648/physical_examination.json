@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Several small, nonblanching, petechial lesions on the hands and feet; four slightly raised, erythematous lesions on the hands and left lower leg; tenderness in the wrists, metacarpophalangeal joints, ankles, and metatarsophalangeal joints; pain with motion of the hips and knees; firm and tender calves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two days before presentation",
+            "vital_signs": {
+                "temperature": "37.9°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Dry mouth and weight loss of 9 kg over 2 months; redness and mild pain in both eyes; diffuse conjunctival injection affecting the episcleral vessels; violaceous hue in the underlying sclera; swollen and firm calves, tender on palpation; pain on flexion and extension of the right great toe; erythematous papules on the left and right olecranon.",
+            "changes_over_time": "Progressively worsening calf pain leading to difficulty walking."
+        },
+        {
+            "date": "During emergency department evaluation",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "blood_pressure": "146/88 mm Hg",
+                "pulse": "89 bpm",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Firm and tender calves; diffuse conjunctival injection; violaceous hue of the sclera; presence of erythematous, nonblanching lesions on the lower legs and hands.",
+            "changes_over_time": "Additional findings of mild redness and violaceous hue in both eyes without blurred vision."
+        }
+    ]
+}

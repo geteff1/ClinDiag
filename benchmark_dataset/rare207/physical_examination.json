@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.1 °C",
+                "heart_rate": "120/min",
+                "blood_pressure": "normal",
+                "oxygen_saturation": "normal"
+            },
+            "relevant_findings": [
+                "multiple areas of ecchymosis",
+                "conjunctival hemorrhage",
+                "epistaxis",
+                "mucosal bleeding",
+                "massive hematuria"
+            ],
+            "changes_over_time": "Clinical symptoms of bleeding slowly improved over the course of his stay with resolution on day 22."
+        }
+    ]
+}

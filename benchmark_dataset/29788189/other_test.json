@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "renal ultrasound",
+            "date": "8 months of age",
+            "findings": "nephrocalcinosis",
+            "changes_over_time": "progressive decline in renal function observed"
+        },
+        {
+            "procedure_name": "lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "orthopedic surgical procedures",
+            "date": "multiple dates during childhood and adolescence (ages 2.5 to 14 years)",
+            "findings": "alignment abnormalities of the legs were corrected",
+            "changes_over_time": "recurring procedures for alignment over time"
+        },
+        {
+            "procedure_name": "serum calcium measurement",
+            "date": "month after birth to adulthood",
+            "findings": "elevated serum calcium levels initially; improved by adulthood",
+            "changes_over_time": "hypercalcemia pronounced in childhood but levels normalized in adults"
+        }
+    ]
+}

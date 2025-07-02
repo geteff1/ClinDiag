@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "At 2 months",
+            "findings": "Typical T wave alternans, markedly prolonged QT-intervals (RR = 570 ms, QT = 501 ms, QTc = 664 ms), 2:1 AV block.",
+            "changes_over_time": "At age 5, ECG showed slightly prolonged QTc (RR = 559 ms, QT = 346 ms, QTc = 462 ms)."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "At 7 months",
+            "findings": "Hypsarrhythmia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic test",
+            "date": "Not specified",
+            "findings": "Identified a novel heterozygous missense variant p.R412M in CACNA1C, confirmed by Sanger method, pathogenic variant according to ACMG guidelines.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "Numerous nonenhancing, hypodense lesions in the bilateral basal ganglia and deep white matter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Extensive nonenhancing hyperintense lesions in the basal ganglia and deep white matter on T2-weighted images.",
+            "changes_over_time": "Findings showed progression of the previously seen left-sided lesions and a new lesion near the posterior limb of the left internal capsule."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Similar to those 3 years earlier, with a slight increase in the extent of hyperintense lesions on T2-weighted images.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Angiogram",
+            "date": "Not specified",
+            "findings": "No evidence of atherosclerotic disease.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

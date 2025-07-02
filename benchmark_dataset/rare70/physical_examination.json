@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "111/53 mm Hg",
+                "pulse": "86 bpm",
+                "temperature": "98.5°F",
+                "respiratory_rate": "19 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": [
+                "Flat erythematous rash on the palms of both hands",
+                "Bilateral lower extremity erythema and edema"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

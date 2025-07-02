@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "protein_level": "54 mg/dL (reference range, 5 to 55)",
+                "total_nucleated_cell_count": "16 per cubic millimeter, with 66% lymphocytes",
+                "opening_pressure": "Not measured"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Tests",
+            "date": "9 days before presentation",
+            "findings": {
+                "sodium": "142 mmol/L (normal range, 135–145)",
+                "potassium": "3.7 mmol/L (normal range, 3.4–5.0)",
+                "chloride": "101 mmol/L (normal range, 100–108)",
+                "carbon_dioxide": "23 mmol/L (normal range, 23–32)",
+                "urea_nitrogen": "13 mg/dL (normal range, 8–25)",
+                "creatinine": "0.73 mg/dL (normal range, 0.60–1.50)",
+                "glucose": "66 mg/dL (normal range, 70–110)",
+                "phosphorus": "3.2 mg/dL (normal range, 2.6–4.5)",
+                "calcium": "9.6 mg/dL (normal range, 8.5–10.5)",
+                "total_protein": "7.4 g/dL (normal range, 6.0–8.3)",
+                "albumin": "4.4 g/dL (normal range, 3.3–5.0)",
+                "globulin": "3.1 g/dL (normal range, 1.9–4.1)",
+                "aspartate_aminotransferase": "27 U/L (normal range, 9–32)",
+                "alanine_aminotransferase": "16 U/L (normal range, 7–33)",
+                "alkaline_phosphatase": "69 U/L (normal range, 30–100)",
+                "total_bilirubin": "0.3 mg/dL (normal range, 0–1.0)",
+                "thyrotropin": "1.18 μIU/ml (normal range, 0.40–5.00)",
+                "IgG": "873 mg/dL (normal range, 614–1295)",
+                "IgA": "191 mg/dL (normal range, 69–309)",
+                "IgM": "114 mg/dL (normal range, 53–334)",
+                "cholesterol": "215 mg/dL (normal range, 0–200)",
+                "LDL": "134 mg/dL (normal range, 40–130)",
+                "HDL": "60 mg/dL (normal range, 35–100)",
+                "triglycerides": "103 mg/dL (normal range, 0–150)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

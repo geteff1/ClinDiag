@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9°C",
+                "blood_pressure": "115/77 mm Hg",
+                "heart_rate": "114 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "appearance": "anxious, well-nourished",
+                "respiratory_effort": "mildly increased",
+                "cardiac_findings": [
+                    "tachycardia with regular rhythm",
+                    "loud first heart sound",
+                    "normal second heart sound",
+                    {
+                        "systolic_murmur": "grade 2/6 at the base",
+                        "diastolic_murmur": "grade 2/4 at the apex"
+                    }
+                ],
+                "jugular_venous_pressure": "12 cm of water",
+                "lung_exam": "faint bibasilar rales",
+                "edema": "trace bipedal pitting edema",
+                "hepatosplenomegaly": "absent",
+                "synovitis": "subtle in four metacarpophalangeal joints and left wrist",
+                "subungual_hemorrhages": "three bilaterally distributed"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 months after presentation",
+            "vital_signs": {
+                "mean_diastolic_mitral_gradient": "6.9 mm Hg"
+            },
+            "relevant_findings": {
+                "mass_characteristics": "reduction in size of the mass",
+                "serum_creatinine": "normalized",
+                "serum_albumin": "normalized",
+                "C3_level": "normalized",
+                "dsDNA_titer": "decreased to 1:40",
+                "urinary_protein_excretion": "less than 500 mg in 24 hours"
+            },
+            "changes_over_time": "Marked improvement in lower-extremity edema and exertional dyspnea"
+        },
+        {
+            "date": "2 years after the diagnosis",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Laboratory results and symptoms remained stable"
+        }
+    ]
+}

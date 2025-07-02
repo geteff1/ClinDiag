@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pulmonary function test",
+            "date": "Initial visit in 2015 and during second visit in December 2020",
+            "findings": "Indicated moderate obstructive pulmonary ventilation dysfunction.",
+            "changes_over_time": "No specific changes over time noted."
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Showed viscous jelly-like secretions in the tracheal lumen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS) of BALF",
+            "date": "Not specified",
+            "findings": "Indicated Pneumocystis jirovecii, CMV, and EBV coinfection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous missense mutation in exon 15 of STAT3, confirming AD-HIES diagnosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Initial visit in 2015 and during second visit in December 2020",
+            "findings": "Showed multiple cavitary lesions and bronchiectasis initially; later revealed bilateral multiple bronchiectases, pulmonary bulla, and atelectasis.",
+            "changes_over_time": "Described changes in findings from initial visit to second visit, indicating disease progression."
+        }
+    ]
+}

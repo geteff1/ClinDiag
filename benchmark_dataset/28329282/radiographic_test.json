@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomegaly with central vascular congestion and right-sided pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography of the head",
+            "date": "Not specified",
+            "findings": "No acute process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat blood smear",
+            "date": "Not specified",
+            "findings": "Confirmed babesiosis with 10.1% parasitemia.",
+            "changes_over_time": "Post-procedure blood smear showed a decrease in parasitemia to <1%."
+        }
+    ]
+}

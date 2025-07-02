@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Evidence of Stanford type B thoracic aortic dissection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aortography",
+            "date": "Not specified",
+            "findings": "Sealing of the false lumen confirmed; distal part of the endograft located in the false lumen of the descending aorta; true lumen compressed with blind tip at the middle of the stent graft.",
+            "changes_over_time": "Blood flow successfully drawn back into the true lumen without endoleak; major visceral arteries patent. Disappearance of the false lumen noted on follow-up."
+        },
+        {
+            "procedure_name": "CT angiography",
+            "date": "1 week postprocedure",
+            "findings": "Good positioning of the stent graft, patent visceral arteries, and vanished false lumen.",
+            "changes_over_time": "At 18 months postprocedure, the false lumen completely disappeared without clinical or surgical complications."
+        },
+        {
+            "procedure_name": "Coil embolization",
+            "date": "Not specified",
+            "findings": "Four pairs of coils placed into the false lumen near the distal tear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

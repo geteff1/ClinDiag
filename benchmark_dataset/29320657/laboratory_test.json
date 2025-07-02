@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Consistent with complete remission, with no evidence of recurrent leukemia.",
+            "changes_over_time": "Performed 100 days after the transplantation."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Elevated aminotransferase levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Direct Immunofluorescence Assay of Nasopharyngeal Swab",
+            "date": "First hospital day",
+            "findings": "Positive for adenovirus antigen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Direct Immunofluorescence Assay of Bronchoalveolar-Lavage Fluid",
+            "date": "Second hospital day",
+            "findings": "Positive for adenovirus antigen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR Testing for Adenovirus",
+            "date": "Approximately 24 hours after antigen tests",
+            "findings": "Viral load of 450,000 adenovirus DNA copies per milliliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine Level Test",
+            "date": "During initial treatment for adenovirus",
+            "findings": "Creatinine level rose to 4.12 mg/dL.",
+            "changes_over_time": "Increased from 1.28 mg/dL at the start of therapy."
+        },
+        {
+            "procedure_name": "Subsequent Creatinine Level Test",
+            "date": "After additional doses of cidofovir",
+            "findings": "Viral load decreased to 57,000 copies per milliliter.",
+            "changes_over_time": "Creatinine level remained elevated."
+        },
+        {
+            "procedure_name": "Final Creatinine Level Test",
+            "date": "Not specified",
+            "findings": "Less than 190 copies per milliliter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Within normal limits",
+            "relevant_findings": "General physical examination revealed a left inguinal hernia and a grade 2/6 systolic ejection murmur at the apex. Positive neurological findings included cogwheel rigidity, resting bilateral tremor (4 per second) in the upper extremities with greater involvement of the right side, bradykinesia, masked facies, a slow gait with small steps, and decreased arm swing. Positive Meyerson’s sign and micrographia were also observed.",
+            "changes_over_time": "There was an exacerbation of parkinsonian symptoms noted before hospitalization, which included deepening depression and increased parkinsonian symptoms."
+        },
+        {
+            "date": "During ECT",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cognitive, memory, and intellectual function appeared intact, but marked psychomotor retardation was observed. The patient's mood was depressed with appropriate affect.",
+            "changes_over_time": "Following each ECT treatment, neurological rating scales showed considerable decreases in extrapyramidal symptoms, with a 59% improvement for the Duvoisin scale and a 40% improvement for the Simpson scale noted by the end of the ECT treatments."
+        },
+        {
+            "date": "7 weeks after the last ECT",
+            "vital_signs": "Not specified",
+            "relevant_findings": "All tests returned to baseline levels, marking a return of parkinsonian signs and severe depression.",
+            "changes_over_time": "The patient had significantly worsened following ECT, returning to baseline depression and parkinsonism levels."
+        },
+        {
+            "date": "11 weeks after ECT",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Although the patient had been started on antiparkinsonian medication, results were approximately the same as those at baseline and the 7-week follow-up.",
+            "changes_over_time": "Continued to be markedly parkinsonian and severely depressed with no significant changes from prior evaluations."
+        }
+    ]
+}

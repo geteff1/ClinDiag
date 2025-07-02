@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "qRT-PCR from CSF",
+            "date": "Day 8",
+            "findings": "Positive result for BoDV-1 infection.",
+            "changes_over_time": "First CSF obtained on day 1 had positive results for BoDV-1 RNA (515-1,850 copies/mL) while CSF obtained on day 4 tested negative."
+        },
+        {
+            "procedure_name": "Serological testing (iIFA)",
+            "date": "Day 13",
+            "findings": "Seroconversion detected (titer 320).",
+            "changes_over_time": "BoDV-1-specific antibodies were not detected in serum or CSF samples obtained earlier."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Day 2",
+            "findings": "Mild diffuse slowing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Day 1",
+            "findings": "Normal cell count (2 leucocytes/μL), lactate 1.98 mmol/L, protein 925 mg/L.",
+            "changes_over_time": "CSF analysis on day 8 showed a leucocyte count of 41 μL."
+        },
+        {
+            "procedure_name": "Western blot using recombinant BoDV-1 proteins",
+            "date": "Not specified",
+            "findings": "At least two reactive bands.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ELISA tests using recombinant BoDV-1 proteins",
+            "date": "Not specified",
+            "findings": "Indicated reactivity against BoDV-1 X protein, with anti-BoDV-1-P-IgG just above cutoff in the last plasma sample, and anti-BoDV-1-N-IgG not detectable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

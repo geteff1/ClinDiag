@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "AMH (Anti-Müllerian Hormone)",
+            "date": "Not specified",
+            "findings": "Initial AMH level was 0.20 ng/ml. Gradually increased to 0.50 ng/ml, 0.77 ng/ml, and peaked at 1.26 ng/ml during subsequent treatments.",
+            "changes_over_time": "AMH levels increased from 0.20 ng/ml to 1.26 ng/ml over the course of treatment, with fluctuations observed: 0.77 ng/ml to 0.51 ng/ml after hCG administration, then increased again with hMG stimulation."
+        },
+        {
+            "procedure_name": "AFC (Antral Follicle Count)",
+            "date": "Not specified",
+            "findings": "Initial AFC was 0. After treatment, it increased gradually to 2, 4, and peaked at 6.",
+            "changes_over_time": "AFC increased from 0 to 6 during the treatment cycles."
+        },
+        {
+            "procedure_name": "FSH (Follicle-Stimulating Hormone)",
+            "date": "Not specified",
+            "findings": "Initially <1.0 mIU/ml; post-stimulation levels reached 3.4 mIU/ml during tests.",
+            "changes_over_time": "FSH levels increased as hMG dosage was increased throughout treatment cycles."
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "Initial estradiol was 28 pg/ml; varied levels observed, but specific future levels not detailed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prolactin",
+            "date": "Not specified",
+            "findings": "Initial prolactin was 4 ng/ml; further measurements not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH (Thyroid-Stimulating Hormone)",
+            "date": "Not specified",
+            "findings": "TSH level was 0.89 mIU/ml; additional data not provided.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

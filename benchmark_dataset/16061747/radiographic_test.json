@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fetal magnetocardiography",
+            "date": "31 and 34 weeks of gestation",
+            "findings": "Sinus bradycardia at heart rates of 103 and 104 bpm; prolonged QTc intervals of 0.58 s and 0.59 s.",
+            "changes_over_time": "QTc shortened to 0.48 s one week after the introduction of /H9252-blocker therapy."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Immediately after term delivery",
+            "findings": "Confirmed diagnosis of Romano-Ward syndrome with an initial QTc of 0.57 s.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

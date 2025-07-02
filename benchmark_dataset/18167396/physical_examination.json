@@ -1,0 +1,97 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "height": "5 ft 7 in",
+                "weight": "132 lb",
+                "BMI": "20.7",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": {
+                    "scar": "Well-healed scar in the right lower quadrant",
+                    "epigastric_tenderness": "Mild epigastric tenderness present with palpation",
+                    "rebound": "No evidence of rebound",
+                    "guarding": "No evidence of guarding",
+                    "bowel_sounds": "Normal bowel sounds",
+                    "abdomen": "Soft to palpation",
+                    "liver": "Not enlarged",
+                    "spleen": "Not palpable",
+                    "ascites": "No evidence of ascites",
+                    "mass": "No mass found",
+                    "rectal_examination": "Normal",
+                    "hemoccult_test": "Negative for blood"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "April 6, 2007",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "height": "Not specified",
+                "weight": "Not specified",
+                "BMI": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "laboratory_test": {
+                    "complete_blood_count": "Normal",
+                    "thyrotropin": "Normal",
+                    "aspartate_aminotransferase": "Normal",
+                    "alanine_aminotransferase": "Normal",
+                    "alkaline_phosphatase": "Normal",
+                    "bilirubin": "Normal",
+                    "lipase": "Normal",
+                    "H_pylori": "Positive"
+                }
+            },
+            "changes_over_time": "Heartburn symptoms resolved; however, epigastric pain worsened."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "height": "Not specified",
+                "weight": "Not specified",
+                "BMI": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "endoscopy": {
+                    " findings": "Mild erythema in the antrum and body of the stomach",
+                    "biopsies": "Mild inflammation with scattered neutrophils and plasma cells; no H pylori evidence"
+                }
+            },
+            "changes_over_time": "Nausea and constipation symptoms worsened."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "height": "Not specified",
+                "weight": "Not specified",
+                "BMI": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": {
+                    "epigastric_tenderness": "Remained unchanged",
+                    "nausea": "Improved",
+                    "constipation": "Improved"
+                }
+            },
+            "changes_over_time": "Reported fatigue possibly due to metoclopramide dose."
+        }
+    ]
+}

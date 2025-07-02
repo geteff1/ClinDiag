@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "281 mU/liter",
+                "Total T3": "1.9 nmol/liter",
+                "Total T4": "15.6 nmol/liter",
+                "Free T4": "1.8 pmol/liter"
+            },
+            "relevant_findings": "Physical examination revealed dry skin and hypotonia. No goiter was present.",
+            "changes_over_time": "After initiating thyroid hormone replacement therapy, TSH levels decreased to 1.87 mU/liter at age 13."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "131 mU/liter",
+                "Total T4": "Normal",
+                "Total T3": "2.3 nmol/liter",
+                "Free T4": "15.9 pmol/liter",
+                "Free T3": "7.4 pmol/liter"
+            },
+            "relevant_findings": "Physical examination at 2 weeks showed dry skin and an open posterior fontanel; no goiter was found.",
+            "changes_over_time": "Thyroid hormone replacement therapy was initiated, and ultrasound conducted at 9 years showed a normally positioned thyroid gland of normal size."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "91.7 mU/liter",
+                "Total T4": "104 nmol/liter",
+                "Total T3": "2.3 nmol/liter",
+                "Free T4": "11.7 pmol/liter"
+            },
+            "relevant_findings": "Evaluation at day 1 showed signs consistent with Pendred’s syndrome; no further details on physical examination provided.",
+            "changes_over_time": "Hearing loss was progressive, with thresholds at 55 dB on the right and 80 dB on the left at age 4."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "2.42 mU/liter",
+                "Total T4": "95.6 nmol/liter"
+            },
+            "relevant_findings": "No significant physical examination findings reported, as the patient was clinically unaffected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "Not specified",
+                "Total T4": "Not specified",
+                "Total T3": "Not specified",
+                "Free T4": "Not specified",
+                "Free T3": "Not specified"
+            },
+            "relevant_findings": "Thyroid function tests were normal at the time of evaluation.",
+            "changes_over_time": "Thyroid function remained within normal range while on replacement therapy."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Repeat echocardiogram showed mild ectasia of 2 coronary arteries."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "right lower quadrant lymphadenopathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "fluorescein angiography",
+            "date": "Not specified",
+            "findings": "disc leakage and peripheral vascular leakage in both eyes",
+            "changes_over_time": "Repeat FA at 9 months showed resolution of disc and vascular leakage."
+        }
+    ]
+}

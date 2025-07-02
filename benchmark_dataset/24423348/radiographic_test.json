@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "2010",
+            "findings": "Multiple tumors, with a large tumor in the third lumbar vertebra.",
+            "changes_over_time": "Progressive tumor disease; MRI visualized multiple metastases of the thoracic and sacral vertebrae compressing the spinal cord."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "2010",
+            "findings": "A large retrocardial thoracic mass, corresponding to the likely primary tumor and mediastinal lymph node metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "The tumor infiltrated the left ventricular myocardium and its pericardium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-DOPA-PET/CT",
+            "date": "Not specified",
+            "findings": "Detected additional somatostatin receptor-positive tumor tissue in the pelvis and lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-DOPA-PET/CT",
+            "date": "2009",
+            "findings": "Three tumor-suspect lesions on the right petrous bone and one focal lesion on the left skull base.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Tumor of the left carotid bifurcation, suspicious of a carotid body tumor.",
+            "changes_over_time": "No relapse of the PGL has been observed by imaging."
+        }
+    ]
+}

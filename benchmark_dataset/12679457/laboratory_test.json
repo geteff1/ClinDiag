@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Renin Activity",
+            "date": "Not specified",
+            "findings": "Elevated (20.5 ng/ml; normal reference range for age, 1.5 –10.2 ng/ml)",
+            "changes_over_time": "Normalized after treatment"
+        },
+        {
+            "procedure_name": "Plasma Aldosterone",
+            "date": "Not specified",
+            "findings": "Elevated (1.73 ng/ml; normal reference range for age, 0.06 –0.92 ng/ml)",
+            "changes_over_time": "Normalized after treatment"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Hyponatremia (127 mmol/liter), Hyperkalemia (5.8 mmol/liter)",
+            "changes_over_time": "Plasma electrolytes remained normal under oral NaCl therapy"
+        },
+        {
+            "procedure_name": "Multisteroid Analysis",
+            "date": "Not specified",
+            "findings": "All other steroids including progesterone, 17-hydroxprogesterone, 11-deoxycortisol, cortisol, and cortisone were normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation (c488C >G, S163X) in the MR gene",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ENaC Gene Sequencing",
+            "date": "Not specified",
+            "findings": "Identified several nucleotide substitutions in the ENaC gene in both index patient and father",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

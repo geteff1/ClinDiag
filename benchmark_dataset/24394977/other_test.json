@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Necrotizing vasculitis with hemorrhage and surrounding edema, suggestive of ecthyma gangrenosum. Blood cultures and skin biopsy showed Pseudomonas aeruginosa.",
+            "changes_over_time": "Skin lesions improved with antipseudomonal antibiotic therapy."
+        },
+        {
+            "procedure_name": "HIV Type 1 Viral Load Test",
+            "date": "Not specified",
+            "findings": "HIV type 1 viral load was higher than 7.0 log10 copies/mL.",
+            "changes_over_time": "Six weeks after beginning highly active antiretroviral therapy, the viral load was reduced to 2403 copies/mL (3.38 log10 copies/mL)."
+        },
+        {
+            "procedure_name": "CD4+ Cell Count Test",
+            "date": "Not specified",
+            "findings": "CD4+ cell count was 4770/μL.",
+            "changes_over_time": "After treatment, the CD4+ cell count was 1191/μL."
+        },
+        {
+            "procedure_name": "Neutrophil Count Test",
+            "date": "Not specified",
+            "findings": "Initial neutrophil count was 220/μL.",
+            "changes_over_time": "Neutrophil count increased to 2810/μL after treatment."
+        }
+    ]
+}

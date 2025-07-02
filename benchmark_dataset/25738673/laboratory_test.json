@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Electrolytes and Renal Function Test",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "129 mmol/L (low)",
+                "potassium": "4.9 mmol/L (normal)",
+                "chloride": "93 mmol/L (normal)",
+                "bicarbonate": "25 mmol/L (normal)",
+                "blood urea nitrogen": "121 mg/dL (high)",
+                "creatinine": "10.6 mg/dL (high)",
+                "glucose": "114 mg/dL (high)",
+                "calcium": "7.6 mg/dL (low)",
+                "total bilirubin": "0.2 mg/dL (normal)",
+                "total protein": "6.1 g/dL (normal)",
+                "albumin": "2.4 g/dL (low)"
+            },
+            "changes_over_time": {
+                "creatinine": {
+                    "1 month prior": "Normal",
+                    "post-treatment": "1.8 mg/dL",
+                    "1 year later": "1.3 mg/dL"
+                }
+            }
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "14,200/mm³ (high)",
+                "segmented_neutrophils": "47%",
+                "monocytes": "14%",
+                "lymphocytes": "37%",
+                "hematocrit": "38% (normal)",
+                "platelet_count": "144,000/mm³ (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "dipstick_results": {
+                    "blood": "1+",
+                    "protein": "3+"
+                },
+                "microscopy": {
+                    "nondysmorphic_red_cells": "0-3 per high-power field",
+                    "white_cells": "0-4 per high-power field",
+                    "casts": "Fatty casts present"
+                },
+                "urine_sodium": "53 mmol/L",
+                "urine_creatinine": "37 mg/dL",
+                "fractional_excretion_of_sodium": "12%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "152 mg/dL (normal)",
+                "triglycerides": "134 mg/dL (normal)",
+                "HDL": "28 mg/dL (low)",
+                "LDL": "97 mg/dL (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serological Studies",
+            "date": "Not specified",
+            "findings": {
+                "antinuclear_antibodies": "Positive at 1:160 titer",
+                "anti-dsDNA": "Negative",
+                "anti-Smith": "Negative",
+                "anti-RNP": "Negative",
+                "complement_levels": "Normal",
+                "HIV": "Negative",
+                "HBV": "Negative",
+                "HCV": "Negative",
+                "antistreptolysin_O": "Positive",
+                "throat_culture": "Positive for group A beta-hemolytic streptococcus"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

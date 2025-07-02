@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Abnormalities in the lower lobe of the left lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Three weeks before admission",
+            "findings": "Moderate pericardial effusion, prominent pulmonary arteries, and scarring in the lower lobe of the right lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild-to-moderate pericardial effusion, thickening of the left ventricular walls, enlarged right atrium and right ventricle, and mild tricuspid-valve regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Enlargement of the right, left, and main pulmonary arteries.",
+            "changes_over_time": "Confirmed enlargement of the main pulmonary artery and no evidence of pulmonary emboli on subsequent studies."
+        },
+        {
+            "procedure_name": "pulmonary CT angiogram",
+            "date": "Not specified",
+            "findings": "Enlarged main pulmonary artery, hypertrophy of right ventricular wall, and reflux of contrast into the inferior vena cava and hepatic veins.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

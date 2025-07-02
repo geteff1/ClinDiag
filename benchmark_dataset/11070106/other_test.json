@@ -1,0 +1,56 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "6 months before admission",
+            "findings": {
+                "appearance_of_fluid": "Clear, colorless",
+                "cells": "3 lymphocytes",
+                "glucose": "59 mg/dl",
+                "total_protein": "50 mg/dl",
+                "microscopical_examination": "No microorganisms",
+                "culture": "No microorganisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "6 months before admission",
+            "findings": {
+                "rhythm": "Sinus tachycardia at a rate of 118 beats per minute",
+                "low_voltage": "Tendency toward low voltage throughout",
+                "mean_QRS_axis": "-30 degrees",
+                "other_abnormalities": "Nonspecific ST-segment and T-wave abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "6 months before admission",
+            "findings": {
+                "focal_slowing": "Over the left posterior temporal region",
+                "generalized_slowing": "Slight-to-moderate slowing of the background rhythm",
+                "epileptiform_activity": "None detected"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "2 months before admission",
+            "findings": {
+                "pituitary_mass": {
+                    "dimensions": {
+                        "vertical": "13 mm",
+                        "transverse": "16 mm",
+                        "anteroposterior": "12 mm"
+                    },
+                    "characteristics": "Enhanced with contrast material and slightly heterogeneous",
+                    "displacement": "Displaced the optic chiasm superiorly"
+                },
+                "subcortical_white_matter": "Patchy hyperintensity of the T2-weighted signal suggests microangiopathic changes",
+                "chest_imaging": "Unchanged since examination 29 months earlier"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

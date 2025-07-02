@@ -1,0 +1,21 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pneumonic plague",
+        "differential_diagnosis": [
+            "Bacterial pneumonia",
+            "Hemoptysis from Streptococcus pneumoniae",
+            "Klebsiella infection",
+            "Legionella infection",
+            "Scedosporium infection",
+            "Leptospirosis",
+            "Tickborne relapsing fever",
+            "Hantavirus infection",
+            "Francisella tularensis",
+            "Brucellosis",
+            "Q fever",
+            "Cryptococcosis",
+            "Psittacosis"
+        ],
+        "diagnostic_reasoning": "The patient's presentation included acute cough with hemoptysis, high fever, and rapid clinical decline. Initial cultures and tests suggested a bacterial pneumonia, but the identification of Yersinia pestis in follow-up tests highlighted the likely diagnosis of pneumonic plague. The occupational exposure to rodents and the history of recent dog illness further supported this diagnosis."
+    }
+}

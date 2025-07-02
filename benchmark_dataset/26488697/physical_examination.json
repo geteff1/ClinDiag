@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "137/86 mm Hg",
+                "pulse": "93 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "temperature": "36.6°C",
+                "weight": "103.2 kg"
+            },
+            "relevant_findings": {
+                "hair_growth": "Growth of dark brown terminal hair on the upper lip, chin, submental region, and neck.",
+                "hair_loss": "Hair loss on the frontal region and vertex of the scalp.",
+                "pelvic_exam": "Normal female external genitalia, without clitoromegaly, cervical motion tenderness, uterine pain, or adnexal pain, fullness, or masses.",
+                "other": "The remainder of the examination was normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

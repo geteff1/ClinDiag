@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/65 mmHg",
+                "heart_rate": "78 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "The patient had a transient increase in blood pressure to 145/78 mmHg and a decreased heart rate to 48 bpm after receiving dexmedetomidine.",
+            "changes_over_time": "Heart rate decreased to as low as 30 bpm during sternotomy, leading to asystole."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "133/72 mmHg",
+                "heart_rate": "75 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "During the surgical procedure, the patient exhibited severe bradycardia progressing to asystole.",
+            "changes_over_time": "Asystole occurred leading to open cardiac massage and administration of IV epinephrine; the heart rate remained in the 50s after return of circulation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100-110/50-55 mmHg",
+                "heart_rate": "50-60 bpm",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Blood pressure fluctuated between 100-110/50-55 mmHg during the surgery.",
+            "changes_over_time": "Heart rate stabilized in the 50s after treatment for asystole."
+        }
+    ]
+}

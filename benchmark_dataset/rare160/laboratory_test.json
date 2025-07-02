@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum aspartate aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "AST level of 103 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LD)",
+            "date": "Not specified",
+            "findings": "LD level of 484 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Platelet count of 16×10^4/μL (normal range on admission)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Proteinuria grade 3",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

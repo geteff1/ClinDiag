@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Estradiol",
+            "date": "Baseline",
+            "findings": "<20 pg/ml; normal range, 20–50",
+            "changes_over_time": "Increased to 27 pg/ml at 3 months and 45 pg/ml at 6 months."
+        },
+        {
+            "procedure_name": "Estrone",
+            "date": "Baseline",
+            "findings": "17 ng/ml; normal range, 30–85",
+            "changes_over_time": "Increased to 31 ng/ml at 3 months and 34 ng/ml at 6 months."
+        },
+        {
+            "procedure_name": "Androstenedione",
+            "date": "Baseline",
+            "findings": "3.5 µg/l; normal range, 1.25 –3.1",
+            "changes_over_time": "Decreased to 1.7 µg/l at 3 months and 1.5 µg/l at 6 months."
+        },
+        {
+            "procedure_name": "Testosterone",
+            "date": "Baseline",
+            "findings": "899 ng/dl; normal range, 270 –870",
+            "changes_over_time": "Decreased to 519 ng/dl at 3 months and 107 ng/dl at 6 months."
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Baseline",
+            "findings": "7 ng/ml; normal range, 12 – 120",
+            "changes_over_time": "Increased to 6.4 ng/ml at 3 months and 14.8 ng/ml at 6 months."
+        },
+        {
+            "procedure_name": "Bone density (QCT) of the distal radius (left)",
+            "date": "Baseline",
+            "findings": "52 mg/cm³; normal range, 120 –160",
+            "changes_over_time": "Increased to 66 mg/cm³ at 3 months and 83 mg/cm³ at 6 months."
+        },
+        {
+            "procedure_name": "Bone mineral density of the lumbar spine (DEXA)",
+            "date": "Baseline",
+            "findings": "0.971 g/cm²; normal range, >1.150",
+            "changes_over_time": "Increased to 0.996 g/cm² at 3 months and 1.043 g/cm² at 6 months."
+        },
+        {
+            "procedure_name": "Osteocalcin",
+            "date": "Baseline",
+            "findings": "13 µg/l; normal range, 24 –70",
+            "changes_over_time": "Increased to 52 µg/l after 6 months."
+        },
+        {
+            "procedure_name": "Aminoterminal collagen type I telopeptide",
+            "date": "Baseline",
+            "findings": "62.9 nmol/mmol creatinine; normal range, 5–54",
+            "changes_over_time": "Increased to 82.9 nmol/mmol creatinine at 3 months and 92.4 nmol/mmol creatinine at 6 months."
+        },
+        {
+            "procedure_name": "Semen analysis",
+            "date": "Baseline",
+            "findings": "Sperm count: 17.4 million/ml; normal >20",
+            "changes_over_time": "Increased to 23.1 million/ml at 3 months and decreased to 1.1 million/ml at 6 months."
+        },
+        {
+            "procedure_name": "AUC glucose (mg/dl)",
+            "date": "Baseline",
+            "findings": "17316 mg/dl / 180 min",
+            "changes_over_time": "Decreased to 13770 mg/dl at 3 months and 12780 mg/dl at 6 months."
+        },
+        {
+            "procedure_name": "AUC insulin (U/ml)",
+            "date": "Baseline",
+            "findings": "277 U/ml / 180 min",
+            "changes_over_time": "Decreased to 209 U/ml at 3 months and 139 U/ml at 6 months."
+        },
+        {
+            "procedure_name": "AUC C-peptide (ng/ml)",
+            "date": "Baseline",
+            "findings": "52 ng/ml / 180 min",
+            "changes_over_time": "Decreased to 17 ng/ml at 3 months and 15 ng/ml at 6 months."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Baseline",
+            "findings": "268 mg/dl; normal range not specified",
+            "changes_over_time": "Decreased to 195 mg/dl at 3 months and remained at 261 mg/dl at 6 months."
+        },
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "Baseline",
+            "findings": "176 mg/dl; normal range not specified",
+            "changes_over_time": "Decreased to 167 mg/dl at 3 months and increased to 198 mg/dl at 6 months."
+        },
+        {
+            "procedure_name": "LDL/HDL ratio",
+            "date": "Baseline",
+            "findings": "5.37; normal range not specified",
+            "changes_over_time": "Decreased to 4.66 at 3 months and 3.56 at 6 months."
+        },
+        {
+            "procedure_name": "Lipoprotein a",
+            "date": "Baseline",
+            "findings": "19.9 mg/dl; normal range, <30",
+            "changes_over_time": "Increased to 39.3 mg/dl at 3 months and 60 mg/dl at 6 months."
+        }
+    ]
+}

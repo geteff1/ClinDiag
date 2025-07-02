@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 2001",
+            "vital_signs": {
+                "s-Ca": "10.8 mg/dl (2.70 mmol/liter)",
+                "ionized calcium": "5.5 mg/dl (1.37 mmol/liter)",
+                "PTH": "25.3 pg/ml (2.7 pmol/liter)",
+                "phosphorus": "3.5 mg/dl (1.13 mmol/liter)"
+            },
+            "relevant_findings": "Patient in good general condition; mild hypercalcemia confirmed.",
+            "changes_over_time": "Mild elevation of serum calcium was already present in 1997 and confirmed again in 1999."
+        },
+        {
+            "date": "1999",
+            "vital_signs": {
+                "s-Ca": "10.4 mg/dl (2.60 mmol/liter)",
+                "PTH": "33.9 pg/ml (3.6 pmol/liter)"
+            },
+            "relevant_findings": "Mild elevation of serum calcium noted during routine laboratory investigations.",
+            "changes_over_time": "Aberrant levels of calcium noted since 1997, with consistent findings over subsequent years."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal levels of serum breast cancer markers; significant findings include ongoing mild hypercalcemia without detectable PTHrp.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

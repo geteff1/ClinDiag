@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cryptococcal Titer",
+            "date": "Not specified",
+            "findings": "Positive (1:32)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV Testing",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anergic Skin Testing",
+            "date": "Not specified",
+            "findings": "Appropriate immunologic response",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

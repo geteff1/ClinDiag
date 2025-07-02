@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Spinal Tap",
+            "date": "Not specified",
+            "findings": "Protein level of 41 mg/dL; CSF culture and Gram stain results were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spinal Tap",
+            "date": "Hospital day 3",
+            "findings": "WBC count of 2 cells/mL; chloride level of 127 mg/dL; glucose level of 123 mg/dL; protein level of 39 mg/dL; CSF culture and Gram stain results were negative; oligoclonal band and myelin basic protein results were negative; tests for anti-GQ1b ganglioside antibodies and anti-acetylcholinergic receptor antibodies were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction and electrodiagnostic studies",
+            "date": "Not specified",
+            "findings": "Acute polyneuropathy with axonal loss.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

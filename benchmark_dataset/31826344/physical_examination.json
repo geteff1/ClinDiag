@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "pulse": "70 bpm",
+                "blood_pressure": "143/58 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "The oropharynx appeared normal, with no ulcers; the heart sounds were regular, and the lung sounds were clear. The remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately 6 weeks before this presentation",
+            "vital_signs": {
+                "pulse": "87 bpm",
+                "blood_pressure": "110/78 mm Hg",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "The physical examination was unchanged.",
+            "changes_over_time": "The pulse decreased from 88 bpm to 87 bpm, and blood pressure decreased from 110/80 mm Hg to 110/78 mm Hg."
+        },
+        {
+            "date": "Three weeks later",
+            "vital_signs": {
+                "pulse": "88 bpm",
+                "blood_pressure": "110/80 mm Hg",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "The patient was described as appearing well. Breath sounds were normal in both lungs, and no clubbing or cyanosis of the hands or feet was noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

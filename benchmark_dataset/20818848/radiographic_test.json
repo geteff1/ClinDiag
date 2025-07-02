@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Elevation of the left optic-nerve head, reflecting the edema observed on funduscopic examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Subtle enlargement and T2-weighted hyperintensity within the orbital segment of the left optic nerve. No associated retrobulbar inflammation or abnormal gadolinium enhancement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph of the chest",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

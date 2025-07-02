@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Pleiocytosis (30 cells/mm3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate level in plasma",
+            "date": "At 29 months",
+            "findings": "High level of lactate (55.73 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate level in CSF",
+            "date": "At 29 months",
+            "findings": "High level of lactate (22.83 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Bilateral signal abnormalities of putamina and dentate nuclei",
+            "changes_over_time": "MRI showed normal results after initial episode and mild hyperintensity of dentate nuclei during upper respiratory infection at 3 years and 5 months."
+        },
+        {
+            "procedure_name": "Muscular biopsy",
+            "date": "Not specified",
+            "findings": "Normal mitochondrial respiratory chain complexes and pyruvate dehydrogenase activities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis (TPK1 mutation)",
+            "date": "Not specified",
+            "findings": "Heterozygous c.656A.G (p.Asn219Ser) mutation in exon 8; deletion of exons 3 and 4",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

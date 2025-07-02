@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Pelvic examination reveals a thick white cervical discharge, no masses, and no tenderness on cervical motion. Microscopic examination of the discharge reveals white cells and hyphae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1 month after treatment initiation",
+            "vital_signs": "CD4 lymphocyte count: 0.279 x 10^9 cells/L; HIV viral load: 134,000 copies/mL",
+            "relevant_findings": "Patient started antiretroviral therapy (ART) with zidovudine plus lamivudine and efavirenz.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 months after ART initiation",
+            "vital_signs": "HIV-1 RNA level: nondetectable; CD4 lymphocyte count: 0.499 x 10^9 cells/L",
+            "relevant_findings": "No anemia or thrombocytopenia; liver and renal functions normal.",
+            "changes_over_time": "HIV viral load became nondetectable."
+        },
+        {
+            "date": "1 year after ART initiation",
+            "vital_signs": "HIV-1 RNA level: 76,000 copies/mL; CD4 lymphocyte count: 0.32 x 10^9 cells/L",
+            "relevant_findings": "Patient reported not adhering to the antiretroviral regimen, stating difficulty remembering to take the medications.",
+            "changes_over_time": "Increase in HIV-1 RNA level and decrease in CD4 lymphocyte count."
+        },
+        {
+            "date": "Next quarterly evaluation after non-adherence",
+            "vital_signs": "HIV-1 RNA level: still nondetectable; CD4 lymphocyte count: 0.501 x 10^9 cells/L",
+            "relevant_findings": "Gynecologic examination normal; abnormal Pap smear showing a low-grade squamous intraepithelial lesion.",
+            "changes_over_time": "Initial low-grade lesion observed; patient previously had HIV viral load at satisfactory levels."
+        }
+    ]
+}

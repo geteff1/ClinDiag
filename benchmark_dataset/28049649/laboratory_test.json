@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Initial serum creatinine of 2.4 mg/dL, increased to 2.8 mg/dL two months later.",
+            "changes_over_time": "Serum creatinine gradually increased from 2.4 mg/dL to 2.8 mg/dL over two months."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate to severe concentric increase in left ventricular wall thickness; left ventricular ejection fraction of 68%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, normal voltage QRS complexes, t-wave inversion in leads I and aVL, mild biphasic t waves in leads V5 and V6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "eGFR",
+            "date": "Not specified",
+            "findings": "eGFR of 27 ml/min.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Potassium level of 5.5 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Sodium level of 136 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin level of 10 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Troponin",
+            "date": "Five months postrenal biopsy",
+            "findings": "Troponin T level of 0.12 ng/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "NT-proBNP",
+            "date": "Five months postrenal biopsy",
+            "findings": "NT-proBNP level of 4890 pg/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour Urine Protein",
+            "date": "Five months postrenal biopsy",
+            "findings": "24-hour urine protein of 0.4 g.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "1+ protein, 1+ blood, 0 WBC/hpf, and 0 RBC/hpf.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool Occult Blood Test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Video electroencephalography",
+            "date": "Not specified",
+            "findings": "Wakeful background showed 9–10 Hz alpha rhythm in bilateral occipital regions. Interictal EEG showed generalized 2–2.5 Hz slow spike waves during wakefulness and generalized paroxysmal fast activities during sleep. Multifocal independent spikes, especially in bilateral occipital and posterior temporal regions, with left side predominant. Epileptic spasms, tonic seizures, and atypical absence recorded.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Suspiciously unclear gray-white matter boundary around the left calcarine sulcus.",
+            "changes_over_time": "Initially considered negative at another hospital; findings reported at current hospital."
+        },
+        {
+            "procedure_name": "Positron emission tomography (PET)",
+            "date": "Not specified",
+            "findings": "Low metabolism in the same area as the MRI finding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropsychological tests",
+            "date": "Not specified",
+            "findings": "Moderate cognitive impairment.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "No abnormalities were found.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2 3/12 yr of age",
+            "vital_signs": {
+                "weight": "15.8 kg",
+                "height": "95.4 cm",
+                "head_circumference": "52 cm"
+            },
+            "relevant_findings": "Generalized hyperpigmentation; morning plasma cortisol was less than 27 nmol/liter and did not rise in response to iv administration of 250 /H9262g synthetic ACTH-(1 –24). Baseline plasma ACTH was markedly elevated at 252 and 142 pmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "4 3/12 yr of age",
+            "vital_signs": {
+                "height": "115 cm",
+                "weight": "23.1 kg"
+            },
+            "relevant_findings": "Mild generalized hyperpigmentation; plasma ACTH was 330 pmol/liter (1500 ng/liter) 6 h after hydrocortisone dose, cortisol was less than 27 nmol/liter.",
+            "changes_over_time": "His growth and development continue to be normal with hydrocortisone replacement."
+        }
+    ]
+}

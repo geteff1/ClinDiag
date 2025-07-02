@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "26 months",
+            "vital_signs": {
+                "height": "79 cm",
+                "weight": "9500 g"
+            },
+            "relevant_findings": {
+                "calcium": "2.44 mmol/L",
+                "inorganic_phosphate": "0.63 mmol/L",
+                "alkaline_phosphatase": "731 U/L",
+                "intact_PTH": "37.3 pg/mL",
+                "25_hydroxy_Vitamin_D": "139.2 nmol/L",
+                "1,25_oh2D": "18.1 pg/mL",
+                "TRP": "75.6%",
+                "TmP_GFR": "0.48 mmol/l",
+                "serum_ferritin": "5 g/L",
+                "hemoglobin": "122 g/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5.6 years",
+            "vital_signs": {
+                "height": "99.5 cm",
+                "weight": "14.7 kg"
+            },
+            "relevant_findings": {
+                "alkaline_phosphatase": "356 U/L",
+                "TRP": "77.3%",
+                "TmP_GFR": "0.53 mmol/L"
+            },
+            "changes_over_time": "Improved from 731 U/L at 26 months to 356 U/L."
+        },
+        {
+            "date": "9.3 years",
+            "vital_signs": {
+                "height": "Not specified",
+                "weight": "Not specified"
+            },
+            "relevant_findings": {
+                "phosphate": "0.94 mmol/L",
+                "calcium": "2.34 mmol/L",
+                "ALP": "271 U/L",
+                "TRP": "91.9%",
+                "TmP_GFR": "0.86 mmol/L"
+            },
+            "changes_over_time": "Continued improvement in biochemical markers."
+        },
+        {
+            "date": "11.5 years",
+            "vital_signs": {
+                "height": "125.3 cm",
+                "weight": "26.2 kg"
+            },
+            "relevant_findings": {
+                "FGF23": "57 RU/mL",
+                "1,25_oh2D": "Decreased",
+                "ferritin": "Decreased"
+            },
+            "changes_over_time": "Height and weight remain reduced for age but biochemical parameters normalized after iron supplementation."
+        }
+    ]
+}

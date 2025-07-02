@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Nonenhanced attenuation of 30 Hounsfield units, well-circumscribed right adrenal mass, 5.2 cm in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Nonenhanced attenuation of 26 Hounsfield units, right adrenal lesion, 4.2 cm in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Nonenhanced attenuation of 40 Hounsfield units, left adrenal lesion, 1.5 cm in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Nonenhanced attenuation of 35 Hounsfield units, right adrenal lesion, 4.3 cm in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Low- to iso-intensity on T1-weighted imaging, high-signal intensity on T2-weighted imaging.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Average SUV of 2.4 for adrenal lesions.",
+            "changes_over_time": "SUV of 7.6 for malignant PC mixed with GN."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Nonenhanced attenuation of 25–40 Hounsfield units; calcifications present in 29% of cases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "10.4 cm right pararenal mass, in contact with the inferior vena cava.",
+            "changes_over_time": "Postoperative urinary normetanephrine increased reflecting residual tumoral lesions."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Normal cell counts, normal protein and glucose levels; no organisms evident on Gram’s or acid-fast bacilli staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Generalized theta-range background slowing; no epileptiform activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Showed generalized brain atrophy, characterized by more prominent changes in the left frontal lobe and asymmetric hyperintensity in occipitoparietal and posterior temporal subcortical white matter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase level was 130 U/L (slightly above normal range), AST level was 54 U/L (above normal range), and ALT level was 67 U/L (above normal range).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Testing for Very-Long-Chain Fatty Acids",
+            "date": "Not specified",
+            "findings": "C26:0 was 2.86 µmol/L (not normal). Ratio of C24:0 to C22:0 was 1.50 (not normal).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

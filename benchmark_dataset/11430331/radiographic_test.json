@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "gallstone, without evidence of thickening of the gallbladder wall, and a cyst in the left kidney",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasonographic examination of the kidneys",
+            "date": "Second hospital day",
+            "findings": "bilateral cysts and a hyperechoic stone on the left side, without evidence of hydronephrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic cardiac ultrasonographic study",
+            "date": "Second hospital day",
+            "findings": "thickening of both mitral leaflets, calcification of the posterior mitral annulus, left atrial dilatation, thickened aortic leaflets, symmetrical left ventricular hypertrophy, and segmental left ventricular dysfunction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomographic (CT) examination of the thorax",
+            "date": "Third hospital day",
+            "findings": "multiple, calcified left-sided hilar and subcarinal lymph nodes; the lungs appeared normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Third hospital day",
+            "findings": "a gallstone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "radionuclide bone scan",
+            "date": "Fifth hospital day",
+            "findings": "small foci of increased uptake in the cervical spine, right foot, and right knee; consistent with degenerative changes; no evidence of osteomyelitis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

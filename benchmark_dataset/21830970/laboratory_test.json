@@ -1,0 +1,96 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "Opening pressure (cm of water)": "24",
+                "Appearance": {
+                    "Tube 1": "Light pink, slightly turbid",
+                    "Tube 4": "Light yellow, clear"
+                },
+                "Xanthochromia": "Yes",
+                "Red cells (per mm3)": {
+                    "Tube 1": "2070",
+                    "Tube 4": "0"
+                },
+                "White cells (per mm3)": {
+                    "Tube 1": "1",
+                    "Tube 4": "3"
+                },
+                "Differential count, tube 4 (%)": {
+                    "Lymphocytes": "94",
+                    "Monocytes": "6"
+                },
+                "Protein (mg/dl)": "211",
+                "Glucose (mg/dl)": "63",
+                "Gram’s stain": "Moderate mononuclear cells, no organisms",
+                "Culture": "No growth",
+                "Enterovirus RNA, PCR": "Negative",
+                "Herpes simplex virus DNA, PCR": "Negative",
+                "Cytomegalovirus DNA, PCR": "Negative",
+                "Varicella–zoster virus, PCR": "Negative",
+                "Epstein–Barr virus DNA, PCR": "None detected",
+                "Cryptococcal antigen": "Negative",
+                "Oligoclonal bands": "Two seen in 63× concentrate",
+                "Ratio of CSF IgG:albumin to serum IgG:albumin": "0.67"
+            },
+            "changes_over_time": {
+                "On Admission": {
+                    "Opening pressure": "26",
+                    "Protein": "266",
+                    "Glucose": "65",
+                    "Xanthochromia": "None"
+                },
+                "Other Hospital": {
+                    "Opening pressure": "24",
+                    "Protein": "211",
+                    "Glucose": "63",
+                    "Xanthochromia": "Yes"
+                },
+                "This Hospital": {
+                    "Opening pressure": "Not specified",
+                    "Protein": "257",
+                    "Glucose": "89",
+                    "Xanthochromia": "Not specified"
+                }
+            }
+        },
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": {
+                "Right Ear": {
+                    "Normal": "Yes",
+                    "Word Recognition": "94%"
+                },
+                "Left Ear": {
+                    "Hearing Loss": "Moderate, predominantly sensorineural at low frequencies",
+                    "Word Recognition": "0%"
+                }
+            },
+            "changes_over_time": {
+                "First Audiogram": {
+                    "Left Ear": {
+                        "Hearing Loss": "Moderate, low frequencies",
+                        "Word Recognition": "0%"
+                    },
+                    "Right Ear": {
+                        "Normal": "Yes",
+                        "Word Recognition": "94%"
+                    }
+                },
+                "Second Audiogram": {
+                    "Left Ear": {
+                        "Hearing Loss": "Stable sensorineural",
+                        "Word Recognition": "42%"
+                    },
+                    "Right Ear": {
+                        "Normal": "Yes",
+                        "Word Recognition": "92%"
+                    }
+                }
+            }
+        }
+    ]
+}

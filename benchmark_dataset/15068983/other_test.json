@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "The findings on repeated lumbar puncture on day 7 were unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyographic studies",
+            "date": "Not specified",
+            "findings": "Electromyographic studies showed mild axonal polyneuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Day 10",
+            "findings": "Initial EEGs on days 8 and 10 were nonspecific. On day 14, the EEG showed polymorphic delta activity, consistent with status epilepticus.",
+            "changes_over_time": "Progressed into a prolonged and refractory status epilepticus."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid test",
+            "date": "Day 23",
+            "findings": "On day 23, a negative PCR result for West Nile virus in the cerebrospinal fluid was reported for the first time.",
+            "changes_over_time": "Prior to this, PCR test results were positive, with changes in cell count and protein levels across multiple days."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffuse pachymeningeal enhancement and brain sagging.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT myelography",
+            "date": "Not specified",
+            "findings": "Opening pressure of 8 cm H2O and an extensive thoracic CSF leak.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Parietal homogenously enhancing dural-based mass consistent with meningioma.",
+            "changes_over_time": "MRI 6 months later showed the appearance of diffuse pachymeningeal enhancement."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "6 months later",
+            "findings": "Diffuse pachymeningeal enhancement.",
+            "changes_over_time": "Gradual resolution of the pachymeningeal enhancement."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "12 months later",
+            "findings": "Not specified",
+            "changes_over_time": "Gradual resolution of the pachymeningeal enhancement."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffuse pachymeningeal enhancement and sagging of the brain.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Pancreatic Secretory Trypsin Inhibitor (PSTI)",
+            "date": "Not specified",
+            "findings": "High serum PSTI levels of 98 ng/mL (normal range, 4.6 to 12.2 ng/mL) before onset of symptoms; decreased to 39 ng/mL one month after liver transplantation.",
+            "changes_over_time": "PSTI levels decreased from 98 ng/mL before symptoms to 39 ng/mL one month after liver transplantation."
+        },
+        {
+            "procedure_name": "Amino Acid Analysis",
+            "date": "Not specified",
+            "findings": "Extremely high concentration of plasma citrulline at 415 nmol/mL (normal range, 23 to 51 nmol/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Ammonia Level",
+            "date": "Not specified",
+            "findings": "Moderately high serum ammonia levels at 221 mg/dL (normal range, 12 to 66 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Triglycerides",
+            "date": "Not specified",
+            "findings": "Serum triglycerides were 579 mg/dL (normal range, 130 to 220 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal except for moderate anemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes, Blood Urea Nitrogen, Creatinine, Blood Gases",
+            "date": "Not specified",
+            "findings": "All within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Head",
+            "date": "Not specified",
+            "findings": "Unremarkable initially; repeat CT scan after 4 days showed subtle decreased attenuation of the basal ganglia.",
+            "changes_over_time": "Changes noted on repeat CT scan after 4 days."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Bilateral diffuse slowing of the delta range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI - Diffusion Weighted Imaging (DWI)",
+            "date": "Day 5 after admission",
+            "findings": "Hyperintense signal of the basal ganglia, hippocampus, and cerebral cortex bilaterally.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

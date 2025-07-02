@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "High signal abnormalities in basal ganglia; abnormal signal intensity in the putamen bilaterally without mass effect or contrast enhancement.",
+            "changes_over_time": "Repeat MRI demonstrated abnormal signal intensity in the putamen bilaterally without mass effect or contrast enhancement. A subsequent MRI at age 26 showed new bilaterally symmetric signal intensity abnormalities in the medial inferior thalami, the decussation of the superior cerebellar peduncle, and within periaqueductal gray matter."
+        },
+        {
+            "procedure_name": "MRS",
+            "date": "Not specified",
+            "findings": "Elevation of the lactate peak and depression of the N-acetylaspartate peak in the basal ganglia and periaqueductal lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "7 days after the onset of deafness",
+            "findings": "Bilateral gadolinium enhancement of the intracanalicular portions of the seventh and eighth nerve complexes consistent with inflammatory neuritis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

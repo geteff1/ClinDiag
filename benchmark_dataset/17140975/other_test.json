@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Lobulated, smooth, exophytic mass located approximately 2 cm above the carina, producing 80% obstruction of the tracheal lumen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor resection and reconstruction",
+            "date": "Not specified",
+            "findings": "The tumor involved the full thickness of the tracheal wall, with areas of strong S100 positivity and negative staining for more specific melanocytic markers, indicating a low-grade malignant peripheral nerve sheath tumor.",
+            "changes_over_time": "Postoperative surveillance bronchoscopy at 8 weeks demonstrated a well-healed anastomosis."
+        },
+        {
+            "procedure_name": "Pathologic analysis of excised trachea",
+            "date": "Not specified",
+            "findings": "The neoplasm showed infiltrative patterns with vascular invasion and negative tracheal margins after resection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan (follow-up)",
+            "date": "Not specified",
+            "findings": "No recurrence or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

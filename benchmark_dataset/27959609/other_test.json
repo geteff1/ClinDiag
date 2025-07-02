@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Barium swallow examination",
+            "date": "Not specified.",
+            "findings": "Annular constriction (3 to 4 cm in length) with irregular mucosal contours involving the distal esophagus and gastroesophageal junction, suggestive of esophageal cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Upper endoscopy",
+            "date": "Not specified.",
+            "findings": "Ulcerated luminal stricture in the distal esophagus extending to the gastroesophageal junction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Esophageal endoscopic ultrasound",
+            "date": "Not specified.",
+            "findings": "Transmural hypoechoic mass and multiple enlarged, round periesophageal lymph nodes, highly suspicious for cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified.",
+            "findings": "Evidence of poorly differentiated adenocarcinoma that had metastasized to the lymph nodes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified.",
+            "findings": "Decreased thickening of the esophageal wall and diminishing mediastinal and retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Indicates a response to treatment."
+        },
+        {
+            "procedure_name": "Follow-up PET-CT",
+            "date": "Three months after treatment.",
+            "findings": "Evidence of disease progression, including multiple hepatic, pulmonary, and adrenal metastases with intense FDG uptake.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Molecular genetic testing",
+            "date": "Not specified.",
+            "findings": "Transition mutation in PIK3CA gene and amplification of MET.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up PET-CT after MET inhibitor therapy",
+            "date": "Not specified.",
+            "findings": "Marked resolution of the hepatic, adrenal, pulmonary, and nodal metastases.",
+            "changes_over_time": "Radiographic complete response since the eighth month of treatment."
+        }
+    ]
+}

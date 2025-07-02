@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "24 Kg",
+                "height": "136 cm",
+                "body_mass_index": "12.98 kg/m2",
+                "head_circumference": "49 cm"
+            },
+            "relevant_findings": {
+                "anthropomorphic_measurements": {
+                    "hypertelorism": true,
+                    "wide_flattened_nose_base": true,
+                    "bilateral_epicanthus": true,
+                    "strabismus_right_eye": "sursoadductorius",
+                    "bifid_nasal_tip": true,
+                    "flat_nasal_bridge": true,
+                    "dry_curly_hair": true,
+                    "low_set_ears": true,
+                    "brachycephaly": true,
+                    "short_webbed_neck": true,
+                    "low_hairline": true,
+                    "concave_nails": true,
+                    "longitudinal_splits_nails": true,
+                    "thyromegaly": {
+                        "palpation": "soft and non-tender"
+                    },
+                    "pubertal_examination": {
+                        "breast_stage": "Tanner stage 1",
+                        "pubic_hair_stage": "stage 2"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

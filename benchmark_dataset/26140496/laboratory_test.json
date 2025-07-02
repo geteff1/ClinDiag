@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Right fronto-temporo-insular lesion highly suggestive of a low-grade glioma (nonenhancing hypointense lesion on T1, hyperintense lesion on FLAIR MRI).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Functional Mapping with Direct Electrical Stimulation (DES)",
+            "date": "Not specified",
+            "findings": "Stimulation of the pars opercularis elicited an automatic switch from speaking to a singing mode of language production.",
+            "changes_over_time": "This behavior was consistently reproducible during stimulation and was observed during multiple tasks including naming and mentalizing."
+        },
+        {
+            "procedure_name": "Neuropathological Examination",
+            "date": "Not specified",
+            "findings": "Diagnosis of WHO Grade II astrocytoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative MRI",
+            "date": "Not specified",
+            "findings": "Revealed a subtotal resection.",
+            "changes_over_time": "No adjuvant treatment was given (no chemotherapy or radiotherapy)."
+        }
+    ]
+}

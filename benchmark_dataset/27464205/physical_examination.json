@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "154/99 mmHg",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "tenderness": "Tenderness over the greater trochanter of the left femur",
+                "pain": "Pain increased with rotation of the left hip"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "135/89 mmHg",
+                "pulse": "121 bpm",
+                "temperature": "37.7°C",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "level_of_alertness": "Somnolent; opened eyes in response to loud verbal stimuli",
+                "neurological_response": "Executed simple actions on instruction; grimaced to pain",
+                "pupils": "Pupils equal, round, reactive to light",
+                "nuchal_rigidity": "Mild nuchal rigidity",
+                "Kernig's_sign": "Present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "27 hours after surgery",
+            "vital_signs": {
+                "blood_pressure": "113/86 mmHg",
+                "pulse": "140 bpm",
+                "temperature": "36.7°C",
+                "respiratory_rate": "28 breaths per minute"
+            },
+            "relevant_findings": {
+                "alertness": "Opened eyes in response to voice and pain; did not follow commands",
+                "gaze": "Slightly deviated to the upper right",
+                "rigidity": "Mild rigidity of the arms",
+                "reflexes": "Right patellar deep tendon reflex was 3+"
+            },
+            "changes_over_time": "Persistent somnolence and tachycardia observed; neurological examination showed mild changes."
+        }
+    ]
+}

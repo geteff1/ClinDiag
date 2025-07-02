@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "111/77 mmHg",
+                "pulse": "98 bpm",
+                "respiration": "18 breaths/min",
+                "temperature": "97.9°F"
+            },
+            "relevant_findings": {
+                "condition": "Gitelman syndrome",
+                "symptoms": "cramps in legs",
+                "previous_cardiac_arrest": "Yes, due to hypokalemia and hypomagnesemia during thyroid surgery"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

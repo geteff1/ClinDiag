@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "The biopsy of the right side of the heart did not reveal a cause of the heart failure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "Not specified",
+            "findings": "Showed late-appearing bubbles on the left side of the heart, consistent with an intrapulmonary shunt.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "genetic testing",
+            "date": "Not specified",
+            "findings": "The patient was heterozygous for a mutation in ACVRL1, considered to be causative of hereditary hemorrhagic telangiectasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electrocardiogram",
+            "date": "Not specified",
+            "findings": "Revealed atrial fibrillation, frequent premature ventricular contractions, ST-segment depression of at least 1 mm in leads II, III, and aVF, and downsloping ST-segment depression of 2 mm in lead V6.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

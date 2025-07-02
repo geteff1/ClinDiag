@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "14 weeks GA",
+            "findings": "Increased nuchal translucency (3.1 mm) and increased nuchal fold thickness (5.3 mm).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "20 weeks GA",
+            "findings": "Bilateral short femur length (1.55 cm), tibia (1.28 cm), humerus (1.39 cm), radius (1.56 cm), and ulna (1.59 cm) all greater than 4 SD below the mean. Abdominal circumference was 12.2 cm, head circumference was 17.2 cm, FL/AC ratio was 0.127.",
+            "changes_over_time": "Showed progression from 14 weeks GA where long bones were not specified as short."
+        },
+        {
+            "procedure_name": "Fetal MRI",
+            "date": "20 weeks GA",
+            "findings": "Confirmed short limbed fetus with slightly bowed long bones in lower limbs and short long bones in upper limbs; both elbow joints were deformed with poor outline of distal humerus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postmortem Radiographic Evaluation",
+            "date": "20 weeks GA",
+            "findings": "Confirmed short long bones (< 4 SD) with symmetrical involvement of proximal, middle, and distal bones. Both distal humeri were deformed with a broad proximal end. Clavicles appeared thick with an abrupt angle. No fractures were noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing",
+            "date": "Not specified",
+            "findings": "Identified a homozygous 2 bp duplication in exon 2 of the IMPAD1 gene (c.473_474dup; p.(Thr159*)).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histological Examination",
+            "date": "Not specified",
+            "findings": "Hematoxylin–eosin staining showed focal cystic degenerative changes and separation of chondroblastic columns. Alcian blue staining revealed reduced sulfated glycosaminoglycans.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

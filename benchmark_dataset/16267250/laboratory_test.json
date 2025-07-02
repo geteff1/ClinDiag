@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrophysiological Study",
+            "date": "Not specified",
+            "findings": "Abnormal conduction restitution in the right ventricular outflow tract (RVOT). Activation slowing was noted in the RVOT with significant interstitial fibrosis.",
+            "changes_over_time": "Progressive ECG changes noted over time, with a noted QRS widening to 160 ms at the end of 2001."
+        },
+        {
+            "procedure_name": "Genetic Screening for SCN5A",
+            "date": "Not specified",
+            "findings": "The patient was heterozygous for a nucleotide substitution in codon 1935 (G1935S mutation). This mutation was absent in 150 control individuals.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Histopathology",
+            "date": "Not specified",
+            "findings": "Marked hypertrophy of the right ventricular wall and focal endocardial fibroelastosis with interstitial fibrosis and fatty infiltration observed.",
+            "changes_over_time": "Intramyocardial fibrosis and adipose content were larger in the RVOT compared to other areas, indicating progressive structural changes."
+        }
+    ]
+}

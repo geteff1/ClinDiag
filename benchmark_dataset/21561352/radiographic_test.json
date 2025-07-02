@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced computed tomography (CT) of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the spine with contrast medium",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Normal, with no evidence of a demyelinating condition or abnormal enhancement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the cervical spine",
+            "date": "Not specified",
+            "findings": "Patchy signal abnormality involving the cord parenchyma, primarily posterior in location, extending from approximately the C3 level down to the C6 and C7 levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MRI of the spine",
+            "date": "Not specified",
+            "findings": "Incidental right paratracheal mass identified",
+            "changes_over_time": "Initial MRI scan did not reveal any evidence of the paratracheal mass."
+        }
+    ]
+}

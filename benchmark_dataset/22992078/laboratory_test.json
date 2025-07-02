@@ -1,0 +1,121 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "red_cell_count": {
+                    "tube_1": 0,
+                    "tube_3_or_4": 0
+                },
+                "white_cell_count": {
+                    "tube_1": 3,
+                    "tube_3_or_4": 0
+                },
+                "differential_count": {
+                    "neutrophils": 0,
+                    "band_forms": 0,
+                    "lymphocytes": 0,
+                    "monocytes": 0
+                },
+                "protein": "48 mg/dl",
+                "glucose": "56 mg/dl"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": {
+                    "on_admission": "25.5%",
+                    "3rd_day": "25.3%",
+                    "4th_day": "25.5%"
+                },
+                "hemoglobin": {
+                    "on_admission": "8.9 g/dl",
+                    "3rd_day": "9.2 g/dl",
+                    "4th_day": "9.1 g/dl"
+                },
+                "white_cell_count": {
+                    "on_admission": "2000 with toxic granulations",
+                    "3rd_day": "5200",
+                    "4th_day": "11600"
+                },
+                "differential_count": {
+                    "neutrophils": {
+                        "on_admission": "43%",
+                        "3rd_day": "71%",
+                        "4th_day": "73%"
+                    },
+                    "lymphocytes": {
+                        "on_admission": "5%",
+                        "3rd_day": "2%",
+                        "4th_day": "2%"
+                    },
+                    "monocytes": {
+                        "on_admission": "19%",
+                        "3rd_day": "11%",
+                        "4th_day": "6%"
+                    },
+                    "eosinophils": {
+                        "on_admission": "3%",
+                        "3rd_day": "2%",
+                        "4th_day": "0%"
+                    },
+                    "basophils": {
+                        "on_admission": "0%",
+                        "3rd_day": "1%",
+                        "4th_day": "0%"
+                    }
+                }
+            },
+            "changes_over_time": "Hemoglobin increased from 8.9 to 9.2 g/dl and then decreased to 9.1 g/dl over three days; white cell count rose from 2000 to 11600 over the same period. Neutrophils increased significantly over time."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": {
+                    "on_admission": "121 mmol/L",
+                    "3rd_day": "123 mmol/L",
+                    "4th_day": "120 mmol/L"
+                },
+                "potassium": {
+                    "on_admission": "3.9 mmol/L",
+                    "3rd_day": "3.8 mmol/L",
+                    "4th_day": "3.7 mmol/L"
+                },
+                "chloride": {
+                    "on_admission": "83 mmol/L",
+                    "3rd_day": "90 mmol/L",
+                    "4th_day": "87 mmol/L"
+                }
+            },
+            "changes_over_time": "Sodium levels increased from 121 to 123 mmol/L, then decreased to 120 mmol/L; potassium levels decreased over time; chloride levels increased initially, then slightly decreased."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin": {
+                    "on_admission": "0.03 μU/ml",
+                    "3rd_day": "0.11 μU/ml"
+                },
+                "free_thyroxine": {
+                    "on_admission": "0.7 ng/dl",
+                    "3rd_day": "<0.4 ng/dl"
+                }
+            },
+            "changes_over_time": "Thyrotropin level increased slightly; free thyroxine decreased."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Cultures were sterile.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

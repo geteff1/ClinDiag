@@ -1,0 +1,35 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MTHFR gene mutation test",
+            "date": "Not specified",
+            "findings": "Two mutations (C677T and A1298C) in the gene for methylenetetrahydrofolate reductase (MTHFR) were detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation parameters test",
+            "date": "Not specified",
+            "findings": {
+                "bilirubin_level": "314 mmol/L",
+                "alanine_aminotransferase": "87.5 mkat/L",
+                "prothrombin_time": "21.3 s",
+                "international_normalized_ratio": "1.85",
+                "D_dimer": "1380.0 ng/mL",
+                "antithrombin_III_level": "31%"
+            },
+            "changes_over_time": "Biochemical and coagulation test results were normal 5 weeks later."
+        },
+        {
+            "procedure_name": "Seroconversion test for hepatitis B e antigen",
+            "date": "11th day of lamivudine therapy",
+            "findings": "Seroconversion to antibody against hepatitis B e antigen was recorded.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B surface antigen test",
+            "date": "2 months after treatment",
+            "findings": "Hepatitis B surface antigen was undetectable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

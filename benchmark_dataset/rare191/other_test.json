@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transiently Evoked Otoacoustic Emission (TEOAE)",
+            "date": "Within 72 hours after birth",
+            "findings": "Did not pass the hearing screening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Auditory Brainstem Response (ABR)",
+            "date": "By 23 months of age",
+            "findings": "Systematic auditory functional evaluation showed normal hearing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Auditory Steady State Response (ASSR)",
+            "date": "By 23 months of age",
+            "findings": "Systematic auditory functional evaluation showed normal hearing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Distortion Product Otoacoustic Emission (DPOAE)",
+            "date": "By 23 months of age",
+            "findings": "Systematic auditory functional evaluation showed normal hearing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Acoustic Immittance Testing",
+            "date": "By 23 months of age",
+            "findings": "Systematic auditory functional evaluation showed normal hearing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "At 12 days old",
+            "findings": "Identified a heterozygous de novo variant c.1498A>G (p.Ile500Val) in SMAD4, interpreted as pathogenic.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiography (ECG)",
+            "date": "Not specified",
+            "findings": "Cardiac structure and function evaluated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Color Doppler Echocardiography",
+            "date": "Not specified",
+            "findings": "Cardiac structure and function evaluated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

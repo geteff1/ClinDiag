@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "heart_rate": "133 bpm",
+                "blood_pressure": "95/46 mmHg",
+                "respiratory_rate": "26 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Listless, intermittently restless, whimpering",
+                "weight": "8.9 kg (25th to 50th percentile for age)",
+                "conjunctivae": "Pale and nonicteric",
+                "bruise": "Above the left eye",
+                "abdominal": {
+                    "bowel_sounds": "Diminished",
+                    "abdomen": {
+                        "soft": true,
+                        "tenderness": false,
+                        "distention": false
+                    },
+                    "liver": {
+                        "edge": "Extended 4 to 5 cm below the costal margin"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 3",
+            "vital_signs": {
+                "blood_pressure": "60 to 70 mmHg (systolic), 30 to 40 mmHg (diastolic)",
+                "oxygen_saturation": "88%"
+            },
+            "relevant_findings": {
+                "general": "Lethargic, sluggish pupillary reactions",
+                "liver": {
+                    "extended": "6 to 8 cm below the costal margin, firm to palpation"
+                }
+            },
+            "changes_over_time": "Hypotension and hypoxemia developed."
+        },
+        {
+            "date": "Day 15",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Resolution of abnormal lipid peaks on MRI.",
+            "changes_over_time": "Improvement in MRI findings; abnormal peaks no longer seen."
+        }
+    ]
+}

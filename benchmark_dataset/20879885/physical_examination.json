@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "height": "175.3 cm",
+                "weight": "63.5 kg"
+            },
+            "relevant_findings": {
+                "incision": {
+                    "length": "5 cm",
+                    "location": "posterior right upper arm",
+                    "description": "healing, without residual pigmentation"
+                },
+                "remainder_of_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

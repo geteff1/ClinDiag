@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Frontal Radiograph",
+            "date": "Not specified",
+            "findings": "A lytic lesion, measuring 4.8 cm by 3.9 cm, involving the left femoral neck and greater trochanter, with cortical thinning; a region of cortical discontinuity raised concerns about cortical breakthrough or a pathologic fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "No evidence of thoracic metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "No evidence of acute intracranial hemorrhage, territorial infarction, or intracranial mass lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Diffusion-weighted images showed innumerable, punctate foci of diminished diffusivity involving both hemispheres, the brain stem, and the cerebellum, characteristic of cerebral fat embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans of the chest",
+            "date": "3 months and 6 months after surgery",
+            "findings": "No evidence of metastatic chondrosarcoma.",
+            "changes_over_time": "Radiographs have shown that the left-femur implant is well positioned."
+        }
+    ]
+}

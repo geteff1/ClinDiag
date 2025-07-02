@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "41.8",
+                "White-cell count (per mm3)": "7,300",
+                "Platelet count (per mm3)": "104,000"
+            },
+            "changes_over_time": {
+                "Hematocrit (%)": "41.8 to 38.2",
+                "White-cell count (per mm3)": "7,300 to 8,700",
+                "Platelet count (per mm3)": "104,000 to 167,000"
+            }
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Not specified",
+            "findings": {
+                "Bilirubin (mg/dl)": "1.4 total, 0.6 conjugated",
+                "Aspartate aminotransferase (U/liter)": "98",
+                "Alanine aminotransferase (U/liter)": "87",
+                "Creatinine (mg/dl)": "Not specified"
+            },
+            "changes_over_time": {
+                "Bilirubin": "1.4 to 1.9 (total); 0.6 to 1.1 (conjugated)",
+                "Aspartate aminotransferase (U/liter)": "98 to 155 to 62",
+                "Alanine aminotransferase (U/liter)": "87 to 142 to 71"
+            }
+        },
+        {
+            "procedure_name": "Serologic test for Ehrlichia",
+            "date": "One day before admission",
+            "findings": {
+                "IgM antibody level": "2.2 U (normal level, < 1)",
+                "IgG antibody level": "5.2 U (normal level, < 1)"
+            },
+            "changes_over_time": {
+                "IgM antibody level": "2.2 U to > 11.4 U",
+                "IgG antibody level": "5.2 U to 15.5 U"
+            }
+        }
+    ]
+}

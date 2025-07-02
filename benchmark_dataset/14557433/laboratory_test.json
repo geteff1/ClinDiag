@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH, total T4, total T3",
+            "date": "Not specified",
+            "findings": "Repeatedly elevated TSH and sometimes borderline reduced total T4 values; total T3 was in the normal range.",
+            "changes_over_time": "10-times stimulation of TSH was documented at least at two time points."
+        },
+        {
+            "procedure_name": "Basal metabolic rate",
+            "date": "During treatment with ACTH4–10",
+            "findings": "No reduction of body weight or increase of basal metabolic rate observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hydrocortisone therapy",
+            "date": "Substituted with hydrocortisone",
+            "findings": "Low doses of 8–10 mg/m2 body surface area per day administered.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Levothyroxine treatment",
+            "date": "1-yr treatment",
+            "findings": "Resulted in normal T4 values and low normal or even suppressed TSH.",
+            "changes_over_time": "Course of obesity characterized by a rapid and extreme gain of weight during the first 4 years of life followed by a stable phase."
+        }
+    ]
+}

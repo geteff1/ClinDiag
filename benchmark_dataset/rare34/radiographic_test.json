@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound biomicroscopy (UBM)",
+            "date": "Not specified",
+            "findings": "Screening for anterior segment disorders",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundus photography",
+            "date": "Not specified",
+            "findings": "Screening for posterior segment disorders",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B-scan ultrasound",
+            "date": "Not specified",
+            "findings": "Screening for disorders",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Screening for anterior and posterior segment disorders",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": [
+                {
+                    "finding": "General physical examination revealed no abnormalities.",
+                    "neurologic": "Alert; reached for toys more often with right hand; able to follow simple commands; speech barely intelligible.",
+                    "ophthalmologic": "Moderate limitation of elevation of eyelids; probable concentric reduction of visual fields; reduced visual acuity; retinal pallor; bilateral cherry-red spots; optic nerves normal; slow saccades and difficulty initiating saccades.",
+                    "muscle_strength": "Normal.",
+                    "axial_tone": "Normal.",
+                    "appendicular_tone": "Slightly increased.",
+                    "sensation": "Normal pinprick sensation.",
+                    "deep_tendon_reflexes": "+++ with bilateral Babinski signs and clonus at ankles.",
+                    "tremors": "Evident when sitting upright, standing, or reaching for an object.",
+                    "gait": "Wide-based, moderately ataxic, spastic gait with inability to stand or sit without falling."
+                }
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

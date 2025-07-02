@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "chest_auscultation": "Normal on day 21; Bilateral crackles on day 36",
+                "inflammatory_markers": "Within normal ranges",
+                "CT_scan": "Normal findings on days 23, 29; showed bi-basal nodular and alveolar opacities on day 39",
+                "bronchoalveolar_lavage": {
+                    "cell_count": "150,000 cells/mL",
+                    "lymphocytes": "69%",
+                    "macrophages": "28%",
+                    "neutrophils": "2%"
+                },
+                "EBV_in_alveolar_fluid": "Identified by PCR with 13,338 copies/mL"
+            },
+            "changes_over_time": {
+                "fever": {
+                    "initial": "Associated with mononucleosis syndrome",
+                    "status": "Resolved by day 40"
+                },
+                "cough": {
+                    "initial": "Persistent after fever resolution",
+                    "status": "Continued to persist until 8 months after HSCT"
+                },
+                "lymphocyte_count": {
+                    "initial": "Hyperlymphocytosis on day 26",
+                    "status": "Decreased after second dose of rituximab"
+                }
+            }
+        }
+    ]
+}

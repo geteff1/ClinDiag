@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Bilateral renal cysts without evidence of hydronephrosis, diverticulosis without evidence of diverticulitis, cholelithiasis without evidence of cholecystitis, vascular calcifications of the abdominal aorta with an abdominal aortic aneurysm (3.9 cm in diameter).",
+            "changes_over_time": "Repeat CT revealed increased perinephric fluid without evidence of a discrete abscess, new evidence of presacral fat stranding, and trace bilateral pleural effusions."
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal-sized kidneys (13.3 cm on right, 11.8 cm on left) with bilateral cysts (≤5.5 cm in diameter) including one with a thin septation, no evidence of hydronephrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Another CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Mild bilateral perinephric stranding without evidence of hydronephrosis, multiple diverticula in the sigmoid colon with fat stranding and prominent lymph nodes, trace amount of free fluid in the peritoneum and no free air, vascular calcifications involving the abdominal aorta. Lung bases were clear.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "100-110 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "80% to 100%"
+            },
+            "relevant_findings": {
+                "methemoglobin_level": "11%",
+                "oral_mucosal_conditions": [
+                    "edema",
+                    "erosions",
+                    "vacuoles"
+                ]
+            },
+            "changes_over_time": "Methemoglobin concentration decreased to 7.5% during surgery; returned to normal (0.5%) by postoperative day 3."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "erythrocyte_catalase_activity": "28 U/g hemoglobin (normal range: 129,000-177,000 U/g hemoglobin)",
+                "stomatitis": {
+                    "progressive_gangrenous": "yes",
+                    "age_of_onset": "Not specified"
+                }
+            },
+            "changes_over_time": "No improvement or deterioration noted post diagnosis."
+        }
+    ]
+}

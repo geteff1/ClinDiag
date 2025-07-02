@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood Pressure: 114/86 mm Hg, Pulse: 88 bpm",
+            "relevant_findings": "The remainder of the physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "8 days before admission",
+            "vital_signs": "Blood Pressure: 133/94 mm Hg, Pulse: 120 bpm",
+            "relevant_findings": "Temperature, respirations, and oxygen saturation were normal; the remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On Admission",
+            "vital_signs": "Blood Pressure: 133/94 mm Hg, Pulse: 120 bpm; Temperature, respirations, and oxygen saturation were normal.",
+            "relevant_findings": "Diarrhea occurring hourly throughout the day, constant nausea, vomiting within 3 minutes after oral intake, and weakness with orthostatic lightheadedness.",
+            "changes_over_time": "Symptoms worsened from the previous examination with significant clinical deterioration."
+        }
+    ]
+}

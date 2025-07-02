@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "Case 1: 2.5 mg/dL (normal: 4.3-5.4); Case 2: 1.8 mg/dL (normal: 2.5-4.5); Case 3: 1.6 mg/dL (normal: 2.5-4.5); Case 4: 2.5 mg/dL (normal: 3.7-5.4); Case 5: 1.9 mg/dL (normal: 2.5-4.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Case 1: 9.8 mg/dL (normal: 9.6-10.6); Case 2: 8.9 mg/dL (normal: 8.5-10.5); Case 3: 9.6 mg/dL (normal: 8.5-10.5); Case 4: 10.0 mg/dL (normal: 9.6-10.6); Case 5: 8.9 mg/dL (normal: 8.5-10.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Case 1: 491 U/L (normal: 108-317); Case 2: 49 U/L (normal: 20-140); Case 3: 152 U/L (normal: 20-140); Case 4: 458 U/L (normal: 42-362); Case 5: 102 U/L (normal: 20-140)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "Case 1: 40.7 pg/ml; Case 2: 63.7 pg/ml; Case 3: 71.8 pg/ml; Case 4: 34.6 pg/ml; Case 5: 87.1 pg/ml (normal range: 10-65 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Case 1: 22.1 ng/ml (normal: 20-100); Case 2: 19 ng/ml (normal: 20-100); Case 3: 16.3 ng/ml (normal: 20-100); Case 4: 23.7 ng/ml (normal: 20-100); Case 5: 51.4 ng/ml (normal: 20-100)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Case 1: 90.4 pg/ml (high); Case 2: 3.1 pg/ml (low); Case 3: 36.2 pg/ml; Case 4: 23.4 pg/ml; Case 5: 28.9 pg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-terminal FGF23",
+            "date": "Not specified",
+            "findings": "Case 1: 166 RU/ml (normal: ≤ 230); Case 2: 67 RU/ml (normal: ≤ 180); Case 3: 379 RU/ml (normal: ≤ 180); Case 4: Not available; Case 5: Not available",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intact FGF23",
+            "date": "Not specified",
+            "findings": "Case 1: 81 pg/ml (normal: <91); Case 2: 42 pg/ml; Case 3: 145 pg/ml; Case 4: Not available; Case 5: Not available",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tubular Reabsorption of Phosphate (TRP)",
+            "date": "Not specified",
+            "findings": "Case 1: 85.1% (normal: >85%); Case 2: 53%; Case 3: 58.6%; Case 4: 78.5%; Case 5: 88.5%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tubular Maximum Reabsorption of Phosphate per GFR (TmP/GFR)",
+            "date": "Not specified",
+            "findings": "Case 1: 2.1 (normal: 2.9-6.5); Case 2: 1.2 (normal: 2.6-4.4); Case 3: 1.5 (normal: 2.6-4.4); Case 4: 2.1 (normal: 2.9-6.5); Case 5: 1.7 (normal: 2.6-4.4)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

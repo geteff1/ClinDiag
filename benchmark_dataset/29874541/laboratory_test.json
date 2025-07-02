@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": {
+                "germline_variant": {
+                    "mutation": "c.2932C→T",
+                    "protein_change": "p.R978*"
+                },
+                "somatic_variant": {
+                    "mutation": "c.4723_4724delAG",
+                    "protein_change": "p.S1575*"
+                },
+                "observations": "Identified germline and somatic pathogenic variants in the chromatin-remodeling gene SMARCA4."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": {
+                "tumor_size": "14 × 8 × 8 cm",
+                "macroscopic_features": "Pale, friable, nodular with small peripheral cysts.",
+                "histologic_features": [
+                    "Mostly solid sheets of small round blue cells organized into poorly circumscribed nodules.",
+                    "Nodules intermixed with myxoid and spindle-cell areas with small capillary networks.",
+                    "Presence of cysts lined by ciliated pseudostratified epithelium and squamous epithelium."
+                ],
+                "no_rhabdoid_cells_found": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum alpha-fetoprotein and beta human chorionic gonadotropin test",
+            "date": "Not specified",
+            "findings": {
+                "alpha_fetoprotein": "Within normal range",
+                "beta_hCG": "Within normal range"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

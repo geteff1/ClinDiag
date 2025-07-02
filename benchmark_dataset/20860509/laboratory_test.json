@@ -1,0 +1,147 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Admission",
+            "findings": {
+                "hematocrit": {
+                    "value": 35.4,
+                    "reference_range": "36.0–46.0 (women)"
+                },
+                "hemoglobin": {
+                    "value": 11.4,
+                    "reference_range": "12.0–16.0 (women)"
+                },
+                "white_cell_count": {
+                    "value": 6500,
+                    "reference_range": "4500–11,000"
+                },
+                "reticulocytes": {
+                    "value": 2.3,
+                    "reference_range": "0.5–2.5"
+                },
+                "mean_corpuscular_volume": {
+                    "value": 72,
+                    "reference_range": "80–100"
+                },
+                "red_cell_distribution_width": {
+                    "value": 18.2,
+                    "reference_range": "11.5–14.5"
+                }
+            },
+            "changes_over_time": {
+                "hematocrit": {
+                    "day": 7,
+                    "value": 25.8
+                },
+                "hemoglobin": {
+                    "day": 7,
+                    "value": 8.5
+                },
+                "white_cell_count": {
+                    "day": 7,
+                    "value": 9600
+                }
+            }
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Admission",
+            "findings": {
+                "alanine_aminotransferase": {
+                    "value": 38,
+                    "reference_range": "7–30"
+                },
+                "aspartate_aminotransferase": {
+                    "value": 43,
+                    "reference_range": "9–32"
+                },
+                "bilirubin_total": {
+                    "value": 1.1,
+                    "reference_range": "0.0–1.0"
+                },
+                "bilirubin_direct": {
+                    "value": 0.4,
+                    "reference_range": "0.0–0.4"
+                },
+                "alkaline_phosphatase": {
+                    "value": 120,
+                    "reference_range": "30–100"
+                },
+                "lactate_dehydrogenase": {
+                    "value": 612,
+                    "reference_range": "110–210"
+                }
+            },
+            "changes_over_time": {
+                "alanine_aminotransferase": {
+                    "day": 5,
+                    "value": 131
+                },
+                "aspartate_aminotransferase": {
+                    "day": 5,
+                    "value": 215
+                },
+                "bilirubin_total": {
+                    "day": 7,
+                    "value": 3.1
+                },
+                "bilirubin_direct": {
+                    "day": 7,
+                    "value": 2.0
+                }
+            }
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "specific_gravity": 1.025,
+                "pH": 6.0,
+                "bilirubin": "2+",
+                "protein": "1+",
+                "ketones": "trace",
+                "urobilinogen": "trace",
+                "culture": "sterile"
+            },
+            "changes_over_time": {
+                "leukocytes": {
+                    "day": 3,
+                    "finding": ">100 white cells per high-power field"
+                },
+                "culture": {
+                    "organisms": [
+                        "Proteus mirabilis",
+                        "Escherichia coli"
+                    ]
+                }
+            }
+        },
+        {
+            "procedure_name": "Testing for Antibodies",
+            "date": "5th Day",
+            "findings": {
+                "Borrelia_burgdorferi": "negative",
+                "cytomegalovirus": "negative",
+                "hepatitis_B": "negative",
+                "hepatitis_C": "negative"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anticardiolipin Antibody Testing",
+            "date": "Not specified",
+            "findings": {
+                "IgG": {
+                    "value": 19.4,
+                    "reference_range": "0–15"
+                },
+                "IgM": {
+                    "value": 23.7,
+                    "reference_range": "0–15"
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

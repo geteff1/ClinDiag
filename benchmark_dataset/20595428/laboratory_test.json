@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Clozapine Treatment",
+            "date": "Not specified",
+            "findings": "Clozapine was effective in treating the psychotic symptoms of schizophrenia, with Carlos eventually stabilized on a dose of 300 mg/day. The psychotic symptoms were observed to have remitted.",
+            "changes_over_time": "Carlos's psychotic symptoms improved noticeably after starting clozapine treatment, with the dosage increased to 300 mg/day over 10 weeks."
+        },
+        {
+            "procedure_name": "Fluvoxamine Trial",
+            "date": "6 months after discharge",
+            "findings": "Fluvoxamine was commenced at 250 mg/day for 3 months but was ineffective in treating Carlos's obsessive-compulsive symptoms.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Clomipramine Trial",
+            "date": "6 months after discharge",
+            "findings": "Clomipramine was administered at 225 mg/day for 3 months, but it did not effectively treat the obsessive-compulsive symptoms.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lamotrigine Augmentation",
+            "date": "12 months after discharge",
+            "findings": "Lamotrigine was titrated to 200 mg/day and resulted in about a 40% decrease in obsessive-compulsive symptoms while psychotic symptoms remained in remission.",
+            "changes_over_time": "Carlos's obsessive-compulsive symptoms decreased after 10 weeks of lamotrigine treatment."
+        }
+    ]
+}

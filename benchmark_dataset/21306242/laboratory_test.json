@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "31.1%",
+                "Hemoglobin": "11.5 g/dL",
+                "White-cell count": "8300 per mm3",
+                "Neutrophils": "67%",
+                "Lymphocytes": "26%",
+                "Monocytes": "5%",
+                "Eosinophils": "1%",
+                "Basophils": "1%",
+                "Platelet count": "264,000 per mm3",
+                "Mean corpuscular volume": "75 μm3",
+                "Erythrocyte sedimentation rate": "49 mm/hr"
+            },
+            "changes_over_time": {
+                "3rd_day": {
+                    "White-cell count": "4300 per mm3",
+                    "Hematocrit": "25%",
+                    "Note": "Small number of circulating lymphoblasts observed"
+                }
+            }
+        },
+        {
+            "procedure_name": "Serum Calcium Level",
+            "date": "Not specified",
+            "findings": {
+                "Calcium": "15.5 mg/dL",
+                "Ionized calcium": "1.63 mmol/L"
+            },
+            "changes_over_time": {
+                "1st_day": "15.5 mg/dL",
+                "3rd_day": "12.4 mg/dL",
+                "5th_day": "11.5 mg/dL",
+                "Note": "Calcium level normalized by the 3rd day of induction therapy"
+            }
+        },
+        {
+            "procedure_name": "Spot Urine Sample",
+            "date": "Not specified",
+            "findings": {
+                "Urine Calcium": "27.7 mg/dL",
+                "Creatinine": "0.15 mg/mL",
+                "Calcium:Creatinine ratio": "1.85"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT",
+            "date": "June 1996",
+            "findings": "Single left adrenal pheochromocytoma. Evidence of capsular rupture.",
+            "changes_over_time": "CT confirmed the presence of multiple nodules in the aortic bifurcation and the left iliac fossa 8 years after initial surgery."
+        },
+        {
+            "procedure_name": "123I-MIBG scintigraphy",
+            "date": "June 1996",
+            "findings": "Single left adrenal pheochromocytoma with evidence of capsular rupture.",
+            "changes_over_time": "MIBG imaging revealed multiple uptake sites in the central abdominal region and left iliac fossa 8 years after initial surgery."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "March 2000",
+            "findings": "Single adrenal pheochromocytoma of 70 mm with evidence of capsular rupture.",
+            "changes_over_time": "CT and 123I-MIBG detected multiple nodules in the retroperitoneum 6 years after primary resection."
+        },
+        {
+            "procedure_name": "123I-MIBG scintigraphy",
+            "date": "March 2000",
+            "findings": "Single adrenal pheochromocytoma of 70 mm with evidence of capsular rupture.",
+            "changes_over_time": "Detected multiple nodules in the retroperitoneum 6 years after primary resection."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "April 1999",
+            "findings": "Single left pheochromocytoma of 100 mm.",
+            "changes_over_time": "CT demonstrated multiple nodules in the adrenal bed and adjacent structures 4 years after surgery."
+        },
+        {
+            "procedure_name": "123I-MIBG scintigraphy",
+            "date": "April 1999",
+            "findings": "Single left pheochromocytoma.",
+            "changes_over_time": "Multiple nodules were noted in subsequent imaging 4 years later."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "2008",
+            "findings": "25 mm pheochromocytoma in the left adrenal gland.",
+            "changes_over_time": "CT revealed a 34 mm tumor mass within the left kidney pedicle and several adjacent nodules 2 years post-surgery."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "May 1989",
+            "findings": "Right pheochromocytoma.",
+            "changes_over_time": "Five months post-surgery, no evidence of tumor persistence; however, a 110 mm mass was found 16 years later."
+        },
+        {
+            "procedure_name": "123I-MIBG scintigraphy",
+            "date": "May 1989",
+            "findings": "Right pheochromocytoma.",
+            "changes_over_time": "Intense tracer uptake observed 16 years after initial surgery."
+        }
+    ]
+}

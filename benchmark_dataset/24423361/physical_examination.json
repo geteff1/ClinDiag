@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum calcium: 10.7 to 15.8 mg/dL, Creatinine: 1.7 to 4.3 mg/dL, Phosphorus: 2.7 to 4.0 mg/dL",
+            "relevant_findings": "Persistent hypercalcemia with serum calcium levels between 10.7 to 15.8 mg/dL. Serum creatinine increased from 1.7 mg/dL to 4.3 mg/dL. Serum phosphorus was within normal range at times.",
+            "changes_over_time": "Serum calcium levels rose from 10.7 mg/dL to 15.8 mg/dL with intervention and later decreased to 10.3 mg/dL on treatment with ketoconazole."
+        },
+        {
+            "date": "Age 72",
+            "vital_signs": "Serum calcium: 15.8 mg/dL, Creatinine: 4.3 mg/dL, Phosphorus: 3.6 mg/dL",
+            "relevant_findings": "Fatigue and confusion; elevated serum calcium.",
+            "changes_over_time": "The serum calcium level rose from 11.5 mg/dL despite prednisone treatment."
+        },
+        {
+            "date": "Age 73, hospitalized",
+            "vital_signs": "Serum calcium: 15 mg/dL, Creatinine: 2.62 mg/dL, 1,25-dihydroxyvitamin D: 75 pg/mL",
+            "relevant_findings": "Low-grade fever and poorly localized pains in back and shoulders, with an erythrocyte sedimentation rate of 110 mm/h.",
+            "changes_over_time": "Symptoms did not improve on initial treatment; serum calcium level fluctuated but generally improved with treatment."
+        },
+        {
+            "date": "Various ages",
+            "vital_signs": "Ionized calcium: 5.92 mEq/L (age 53), 24-hour urine calcium levels: 508 mg, 288 mg, 360 mg, normal <300 mg.",
+            "relevant_findings": "Normal parathyroid glands found during surgeries; low levels of 24,25-dihydroxyvitamin D.",
+            "changes_over_time": "Bone mineral density decreased slightly over 8 years but remained above average at age 73."
+        }
+    ]
+}

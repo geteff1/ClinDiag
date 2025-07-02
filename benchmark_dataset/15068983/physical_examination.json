@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "30 July 2002",
+            "vital_signs": {
+                "temperature": "39.3 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The rest of his vital signs were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 5",
+            "vital_signs": {
+                "temperature": "39 °C to 40 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Leg weakness and diplopia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 6",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Drowsy, could not ambulate, and developed a coarse tremor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 7",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed dysphagia and dysarthria; electromyographic studies showed mild axonal polyneuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 14",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed status epilepticus with flickering of eyelids and tachycardia.",
+            "changes_over_time": "Generalized flaccid weakness persisted."
+        }
+    ]
+}

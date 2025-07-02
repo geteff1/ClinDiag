@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemogram",
+            "date": "Not specified",
+            "findings": "Mild thrombocytopenia of 90,000 platelets/μL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid studies",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "A depressed serum thyroid-stimulating hormone at <0.01 mIU/L and an elevated free thyroxine level at 4.3 ng/mL were later observed."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe global left ventricular systolic dysfunction with a left ventricular ejection fraction of 10% and mild left ventricular dilatation with an end-diastolic internal diameter of 5.4 cm.",
+            "changes_over_time": "Recovery of systolic function, with left ventricular ejection fraction of 60% recorded on repeat echocardiogram 1 month after initial presentation."
+        }
+    ]
+}

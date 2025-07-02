@@ -1,0 +1,63 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "102 bpm",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": {
+                    "description": "Pitting edema in the left leg",
+                    "location": "From thigh to calf",
+                    "changes": "Not specified"
+                },
+                "erythema": {
+                    "description": "Localized erythema",
+                    "location": "Left leg",
+                    "changes": "Not specified"
+                },
+                "warmth": {
+                    "description": "Increased warmth in the left leg",
+                    "changes": "Not specified"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months after initial presentation",
+            "vital_signs": {
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": {
+                    "description": "Asymmetric pitting edema",
+                    "location": "Left leg, 4 cm larger circumference than right leg at mid-thigh",
+                    "changes": "Increased swelling present when she first awoke, worsened throughout the day"
+                }
+            },
+            "changes_over_time": "Progressive swelling in the left leg over previous weeks, limiting normal activities."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "ultrasonography": {
+                    "description": "Nonocclusive deep-vein thrombosis involving left femoral, popliteal, and calf veins",
+                    "changes": "Decreased respiratory variability in the Doppler waveforms of the left common and external iliac veins."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper gastrointestinal endoscopy",
+            "date": "Not specified",
+            "findings": "Distal esophagitis; nonbleeding linear ulceration in the gastric antrum; marked edema in the prepyloric antrum; nonbleeding, cratered ulcer in the pyloric channel; partial gastric-outlet obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video-assisted thoracoscopic surgery",
+            "date": "Not specified",
+            "findings": "Necrotizing granulomatous inflammation with eosinophilic debris; centriacinar emphysema; degenerating helminth consistent with a lung fluke.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "2 weeks before admission",
+            "findings": "New nodule in the left lower lobe with surrounding ground-glass opacification; clustered centrilobular cysts and ground-glass nodules unchanged.",
+            "changes_over_time": "New nodule identified compared to previous scans."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "2 weeks before admission",
+            "findings": "Unchanged compared with prior imaging studies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum antibody testing",
+            "date": "Not specified",
+            "findings": "Positive for antibodies against Schistosoma mansoni; negative for paragonimus antibody.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

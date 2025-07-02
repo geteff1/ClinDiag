@@ -1,0 +1,50 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "28 cm of water",
+                "CSF": {
+                    "color": "Clear",
+                    "turbidity": "Slight",
+                    "glucose": "107 mg/dl",
+                    "total_protein": "572 mg/dl",
+                    "red_cell_count": "68",
+                    "white_cell_count": "298"
+                },
+                "differential_count": {
+                    "segmented_neutrophils": "0",
+                    "lymphocytes": "64",
+                    "macrophages": "18"
+                },
+                "xanthochromia": "Present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Diffuse theta slowing in the background, with no epileptiform activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (repeat)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": {
+                "brain_weight": "1260 g",
+                "leptomeningeal_vessels": "Congestion with mild focal gray opacification",
+                "corpus_callosum": "Friable and necrotic",
+                "lesions": "Sharply demarcated gray lesions in periventricular and deep white matter consistent with demyelinating plaques",
+                "inflammation": "Extensive mononuclear inflammation with microglial nodules"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

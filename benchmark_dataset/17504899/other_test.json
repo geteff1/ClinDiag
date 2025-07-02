@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Array comparative genomic hybridization (CGH)",
+            "date": "Not specified",
+            "findings": "Identified a 637-kb duplication at Xp21.2 containing the DAX1 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH)",
+            "date": "Not specified",
+            "findings": "Established the genomic location of the extra copy of the duplication; only one signal was seen for the clone RP11–662D2 covering the DAX1 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Multiplex ligation-dependent probe amplification (MLPA)",
+            "date": "Not specified",
+            "findings": "Confirmed the duplication and narrowed down the breakpoint regions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR amplification and sequencing of the duplication junction",
+            "date": "Not specified",
+            "findings": "Confirmed the location of the breakpoints 637-kb apart, consistent with a tandem head-to-tail duplication.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

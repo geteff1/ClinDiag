@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5°C (99.5°F)",
+                "heart_rate": "124 bpm",
+                "blood_pressure": "150/86 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Fatigued but in no apparent distress.",
+                "cardiac": "Tachycardia but otherwise normal.",
+                "lungs": "Clear to auscultation.",
+                "abdomen": "Soft and without hepatosplenomegaly.",
+                "musculoskeletal": "No joint tenderness, swelling, or erythema; no peripheral edema.",
+                "skin": [
+                    "Scalp erythema.",
+                    "Periorbital erythema and edema.",
+                    "Mid-facial erythema involving the nasolabial folds.",
+                    "Erythema on the upper chest and back.",
+                    "Poikiloderma of the lateral thighs.",
+                    "Pink-red macular erythema of the dorsal hands and fingers.",
+                    "Few thin, flat-topped papules on the interphalangeal joints.",
+                    "Pink erythema with psoriasiform scale on the elbows.",
+                    "Periungual erythema.",
+                    "Dilated nail-fold capillary loops.",
+                    "Cuticular dystrophy."
+                ]
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

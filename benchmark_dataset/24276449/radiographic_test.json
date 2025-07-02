@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "abdominal computed tomography scan",
+            "date": "Not specified",
+            "findings": "Non-functional duodenal somatostatinoma detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echography",
+            "date": "At age 9 years",
+            "findings": "Nonfunctional para-aortic paraganglioma incidentally detected.",
+            "changes_over_time": "Three years later, new highly vascularized tumors were detected by imaging."
+        },
+        {
+            "procedure_name": "fluorodeoxyglucose positron emission tomography",
+            "date": "Three years after echography",
+            "findings": "Tumors were isometabolic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "140 mmol/L",
+                "potassium": "5.2 mmol/L",
+                "chloride": "105 mmol/L",
+                "bicarbonate": "22 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN) and creatinine",
+            "date": "Not specified",
+            "findings": {
+                "BUN": "57 mg/dL",
+                "creatinine": {
+                    "current": "3.92 mg/dL",
+                    "level_one_year_earlier": "1.12 mg/dL"
+                }
+            },
+            "changes_over_time": "Increasing creatinine levels from 1.12 mg/dL to 3.92 mg/dL."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "186 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "29 cm of water",
+                "glucose": "87 mg/dL",
+                "protein": "210.8 mg/dL",
+                "red_cells_first_tube": "70",
+                "white_cells_first_tube": "1",
+                "red_cells_fourth_tube": "32",
+                "white_cells_fourth_tube": "1"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prostate serum antigen",
+            "date": "Not specified",
+            "findings": {
+                "PSA": "4.28 ng/mL (normal range, 0.00 to 4.00 ng/mL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat creatinine",
+            "date": "8 weeks after initial presentation",
+            "findings": {
+                "creatinine": "Returned to baseline value"
+            },
+            "changes_over_time": "Creatinine level returned to baseline after treatment."
+        },
+        {
+            "procedure_name": "Blood pressure monitoring",
+            "date": "Various dates during hospital stay",
+            "findings": {
+                "initial": "203/102 mm Hg",
+                "post-treatment": "180/100 mm Hg",
+                "normalized": "Below 140/80 mm Hg after treatment"
+            },
+            "changes_over_time": "Blood pressure decreased significantly after treatment and normalization occurred."
+        }
+    ]
+}

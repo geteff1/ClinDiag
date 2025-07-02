@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "94/52 mmHg",
+                "pulse": "62 bpm",
+                "weight": "62.6 kg",
+                "height": "172.7 cm",
+                "body_mass_index": "21.0",
+                "blood_glucose": "86 mg/dL (4.8 mmol/L)"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Asymptomatic with normal examination",
+                "glucose_level": "30 mg/dL (1.7 mmol/L) during confusion"
+            },
+            "changes_over_time": "The patient's glucose levels improved after the administration of 50% dextrose."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose_evening": "45 mg/dL (2.5 mmol/L)"
+            },
+            "relevant_findings": "The patient had a nonverbal state with confusion and lethargy.",
+            "changes_over_time": "These symptoms improved after glucose administration."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose_next_day": "28 mg/dL (1.6 mmol/L)"
+            },
+            "relevant_findings": "Blood tests indicated normal electrolytes, total protein, albumin, and other parameters.",
+            "changes_over_time": "The glucose level remained low without symptoms."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose_post_surgery": "90-120 mg/dL (5.0-6.7 mmol/L)"
+            },
+            "relevant_findings": "Patient showed good mood and complete resolution of symptoms post-surgery.",
+            "changes_over_time": "Patient's symptoms underwent complete resolution following the surgical intervention."
+        }
+    ]
+}

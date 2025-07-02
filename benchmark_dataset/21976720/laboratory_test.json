@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Normal serum TSH level (1.6 mU/liter; reference 0.5–5.0) and normal free T4 level (0.9 ng/dl; reference 0.9–1.8), slightly high Tg level (31 ng/ml; reference /H1102130).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "15-mm hypoechogenic solid nodule in the mid right lobe.",
+            "changes_over_time": "At age 40 yr, showed three nodules in the left lobe along with scattered hypoechogenic foci in the thyroid parenchyma."
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Follicular cells with enlarged nuclei and condensed chromatin, suggesting malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mutation Analysis",
+            "date": "Not specified",
+            "findings": "Detected PAX8 mutation (c.238_252dup, p.K80_A84dup) in lymphocytes, but the level of the mutant allele was significantly lower than that of the wild-type allele, indicating a somatic mosaic state.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histological Examination",
+            "date": "Not specified",
+            "findings": "Thyroid tissue showed hypercellular lesions with absent or very small follicles resembling fetal thyroid in late developmental phase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "GeneScan Analysis",
+            "date": "Not specified",
+            "findings": "Fetal-like tissue carried the PAX8 mutation in a heterozygous state, whereas normal tissue and adenoma tissue did not.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Focal area of dense calcification, less than 1 cm in diameter, in the region of the left hippocampus, adjacent to the choroid fissure.",
+            "changes_over_time": "No change in the calcific lesion in the left temporal lobe after one year."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "High-density calcified focus in the medial portion of the left temporal lobe.",
+            "changes_over_time": "Remained unchanged from previous CT scan."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Focus of abnormal magnetic susceptibility in the medial portion of the left temporal lobe; mucosal thickening in the right sphenoid and ethmoid sinuses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Reduced accumulation in the left temporal lobe; no evidence of abnormal uptake elsewhere in the brain.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

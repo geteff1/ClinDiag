@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Total body CT scan was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Abnormality in the thalamus bilaterally, consistent with Wernicke syndrome.",
+            "changes_over_time": "Clinical resolution of the coma and radiological remission of bilateral thalamus abnormalities after treatment."
+        }
+    ]
+}

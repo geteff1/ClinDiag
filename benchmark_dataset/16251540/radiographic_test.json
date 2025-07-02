@@ -1,0 +1,64 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Several nodular densities suggestive of arteriovenous malformations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Air-Contrast Upper Gastrointestinal Series with Small-Bowel Follow-Through",
+            "date": "Not specified",
+            "findings": "Marked thickening of the gastric folds with multiple filling defects in the antrum, and irregularity in the duodenal bulb that might represent additional polyps.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiographic Study of the External Carotid Arteries",
+            "date": "Age 32",
+            "findings": "Multiple telangiectatic lesions involving all portions of the nasal mucosa, hard and soft palates, portions of the gingivae, and the tongue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasonography",
+            "date": "Age 33",
+            "findings": "Abnormal vascular channels in the liver consistent with vascular malformations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominopelvic CT",
+            "date": "One month after Age 33",
+            "findings": "Lobulated mass in the posterior left lower lung with two vessels feeding it, features consistent with an arteriovenous malformation; multiple tortuous vascular channels in the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scanning of the Chest",
+            "date": "Age 38",
+            "findings": "Multiple bilateral pulmonary arteriovenous malformations, 2 to 4 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scanning of the Abdomen",
+            "date": "Age 40",
+            "findings": "Innumerable arteriovenous malformations in the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scanning of the Head",
+            "date": "Five years before current admission (Age 38)",
+            "findings": "Porencephaly affecting most of the right temporal and occipital lobes; no evidence of a vascular malformation.",
+            "changes_over_time": "Repeated scanning three months before admission showed no change from earlier examinations."
+        },
+        {
+            "procedure_name": "Pulmonary Angiography with Embolization",
+            "date": "Eight months after current admission",
+            "findings": "Successful embolization of the largest arteriovenous malformations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whipple Procedure",
+            "date": "One year after current admission",
+            "findings": "Multiple duodenal polyps with dysplasia and intramucosal carcinoma, but no invasive carcinoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

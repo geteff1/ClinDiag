@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "pulse": "104 bpm",
+                "blood_pressure": "114/65 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general_condition": "Thin and chronically ill",
+                "lung": "Crackles in the posterior lower lung fields",
+                "abdominal": "Mildly tender abdomen",
+                "legs": "Edematous"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

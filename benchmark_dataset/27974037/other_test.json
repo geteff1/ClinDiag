@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "12 years before current presentation (not specified)",
+            "findings": "Evidence of infiltrating WHO grade II oligodendroglioma with low cellularity.",
+            "changes_over_time": "Histologic features similar to previous specimens, but small nodules of hypercellularity and some mitoses noted during second resection."
+        },
+        {
+            "procedure_name": "Pathological examination of resection specimen",
+            "date": "12 years before current presentation (not specified)",
+            "findings": "Presence of a WHO grade II oligodendroglioma infiltrating adjacent white matter.",
+            "changes_over_time": "Higher tumor cellularity and increased Ki-67 proliferation index at the time of second resection."
+        },
+        {
+            "procedure_name": "Cytogenetic analysis",
+            "date": "At the time of current presentation (not specified)",
+            "findings": "IDH1 R132H mutation and the presence of MGMT gene promoter methylation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Surgical resection",
+            "date": "At the time of current presentation (not specified)",
+            "findings": "Removal of abnormal tissue from the anterior left frontal lobe.",
+            "changes_over_time": "Postoperative MRI showed stable appearance and extent of signal abnormality in adjacent tissues."
+        },
+        {
+            "procedure_name": "Follow-up MRI",
+            "date": "18 months after second resection (not specified)",
+            "findings": "Decreased abnormal tissue in left insula and left temporal lobe compared to postoperative scan.",
+            "changes_over_time": "Indicates response to chemotherapy."
+        }
+    ]
+}

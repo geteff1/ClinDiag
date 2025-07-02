@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Virologic evaluation of HIV infection",
+            "date": "Not specified",
+            "findings": "Presence of drug-resistant HIV variants documented by sequencing of HIV reverse-transcriptase and protease genes.",
+            "changes_over_time": "Emergence of additional mutations associated with resistance to various antiretroviral drugs observed. Poor adherence led to virologic rebound."
+        },
+        {
+            "procedure_name": "Monitoring of HCMV infection",
+            "date": "Not specified",
+            "findings": "Emergence of drug-resistant HCMV strains in both patients, with various mutations associated with resistance.",
+            "changes_over_time": "Multiple relapses of HCMV retinitis were documented, with patients developing resistance over time to ganciclovir and foscarnet treatments."
+        },
+        {
+            "procedure_name": "Ophthalmoscopic evaluation",
+            "date": "Not specified",
+            "findings": "HCMV retinitis documented in both patients.",
+            "changes_over_time": "First episodes of retinitis were observed followed by relapses; one patient showed high levels of HCMV load in blood at a later stage."
+        }
+    ]
+}

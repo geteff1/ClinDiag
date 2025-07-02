@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph of the left knee",
+            "date": "Not specified",
+            "findings": "Described as tumors.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Enhancing lesion, 2 cm in diameter, on the sciatic nerve, extending from the ischial tuberosity to the deep peroneal nerve.",
+            "changes_over_time": "Repeated MRI study showed that the thickening of the sciatic nerve increased in diameter to 3.6 cm."
+        },
+        {
+            "procedure_name": "MRI scanning of the brain and cervical, thoracic, and lumbar spine",
+            "date": "Three months later",
+            "findings": "No abnormalities of the brain, bilateral enhancing lesions in all cervical neural foramina, with cord compression at C1–2, C2–3, and C4–5.",
+            "changes_over_time": "Increased pain and foot drop on the left developed."
+        },
+        {
+            "procedure_name": "MRI of the cervical spine",
+            "date": "About one year after starting treatment with gabapentin",
+            "findings": "Bilateral enhancing tumors at each level with cord compression at C1–2 level. C4–5 cord was displaced into the right canal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the thoracic and lumbar spine",
+            "date": "Not specified",
+            "findings": "Expanded nerve roots bilaterally at every level without cord compression; moderate stenosis of the canal at the L4–5 level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomographic (CT) scan of the abdominal area",
+            "date": "Not specified",
+            "findings": "Multiple tumors involving the pelvic and paraspinal nerves and multiple subcutaneous masses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "About one year after treatment",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diagnostic MRIs through spine, lumbosacral plexus, and brain",
+            "date": "Not specified",
+            "findings": "Large masses along multiple bilateral cervical nerve roots with severe compression of the cervical spinal cord at the C2 level.",
+            "changes_over_time": "Multiple neurogenic tumors consistent with neurofibromas or schwannomas."
+        }
+    ]
+}

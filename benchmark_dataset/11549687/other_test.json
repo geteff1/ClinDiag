@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "Thyroid hormone levels were abnormal at the age of 3 years.",
+            "changes_over_time": "Thyroid hormone levels were monitored annually, with increasing levels despite treatment."
+        },
+        {
+            "procedure_name": "Total thyroidectomy",
+            "date": "Not specified",
+            "findings": "Pathology report showed a thyroid gland with hyperplastic features.",
+            "changes_over_time": "The patient remained euthyroid following the surgery and initiated l-T4 replacement therapy."
+        },
+        {
+            "procedure_name": "Subtotal thyroidectomy",
+            "date": "Not specified",
+            "findings": "Pathology report showed sections of thyroid gland with large follicles.",
+            "changes_over_time": "The father remained euthyroid post-surgery."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Reported to be benign.",
+            "changes_over_time": "The grandmother remained clinically euthyroid."
+        },
+        {
+            "procedure_name": "Genomic DNA sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the heterozygous state for the G431S mutation in the patient and the father.",
+            "changes_over_time": "Sequencing of the grandmother revealed a very small A wave under the G wave, indicating possible mosaicism."
+        }
+    ]
+}

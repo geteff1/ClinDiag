@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_potassium": "8.9 mmol/L",
+                "blood_urea_nitrogen": "6.8 mmol/L (41 mg/dL)",
+                "creatinine": "210 mmol/L (2.4 mg/dL)"
+            },
+            "relevant_findings": "Patient presented with hyperkalemia and progressive weakness. Elevated serum potassium (8.9 mmol/L), BUN (6.8 mmol/L), and creatinine (210 mmol/L).",
+            "changes_over_time": "BUN and creatinine decreased post-treatment to 4.2 mmol/L (25 mg/dL) and 130 mmol/L (1.5 mg/dL), respectively, and potassium to 4.5 mmol/L."
+        },
+        {
+            "date": "August 1993",
+            "vital_signs": {
+                "creatinine": "170 mmol/L (1.9 mg/dL)"
+            },
+            "relevant_findings": "Renal ultrasound showed right kidney at 8.7 cm and left kidney at 10.5 cm in length.",
+            "changes_over_time": "At 58 years of age, BUN and creatinine levels had worsened to 12 mmol/L (70 mg/dL) and 850 mmol/L (9.6 mg/dL), respectively."
+        }
+    ]
+}

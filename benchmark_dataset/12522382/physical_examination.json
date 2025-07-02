@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "96/58 mm Hg",
+                "pulse_rate": "68 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "37°C"
+            },
+            "relevant_findings": {
+                "general": "Patient was in no acute distress.",
+                "skin": [
+                    {
+                        "description": "Fluctuant abscess with a 3-4 cm erythematous indurated nonhealing crusted center",
+                        "location": "right upper thigh"
+                    },
+                    {
+                        "description": "2.5-2.5 cm erythematous plaque",
+                        "location": "left arm distal to the elbow"
+                    },
+                    {
+                        "description": "1.5-1 cm non-scaly violaceous plaque",
+                        "location": "right abdomen"
+                    },
+                    {
+                        "description": "Hyperpigmented patch",
+                        "location": "left shoulder"
+                    }
+                ],
+                "lungs": "Vesicular breath sounds with occasional rhonchi throughout both lung fields.",
+                "other": "No cervical adenopathy, sinus tenderness, or abnormal eye and ear findings."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

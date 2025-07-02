@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "Initially 109 mmol/liter (9670 mg/dl) and decreased acutely by 60–85% per procedure.",
+            "changes_over_time": "Rebounded to baseline values within 7 days after exchange. Estimated volume of distribution for triglycerides was 2.2 liters, consistent with extracellular distribution."
+        },
+        {
+            "procedure_name": "Total Cholesterol",
+            "date": "Not specified",
+            "findings": "Total cholesterol initially 253 mmol/liter (978 mg/dl).",
+            "changes_over_time": "Decreased by 60-85% during acute plasma exchange; returned to preapheresis values within 7 days."
+        },
+        {
+            "procedure_name": "High Density Lipoprotein (HDL) Cholesterol",
+            "date": "Not specified",
+            "findings": "HDL cholesterol was reported as 0.54 mmol/liter (21 mg/dl).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "35.4 µmol/liter (0.4 mg/dl).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fasting Glucose",
+            "date": "Not specified",
+            "findings": "8.88 mmol/liter (160 mg/dl).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "Not specified",
+            "findings": "Initially 9%, lowered to 8.6% within the first 40 procedures and maintained between 8.3% - 8.8% for the remainder.",
+            "changes_over_time": "Decreased from 9.6% to 8.6% within the first 40 procedures."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Alanine aminotransferase (ALT) ranged from 62-98 U/liter (normal, 0-41 U/liter) and aspartate aminotransferase (AST) from 35-135 U/liter (normal, 0-35 U/liter).",
+            "changes_over_time": "Nadir prepheresis ALT and AST concentrations were 26 and 16 IU/liter, respectively."
+        },
+        {
+            "procedure_name": "Fasting Insulin",
+            "date": "Not specified",
+            "findings": "Elevated at 579 pmol/liter (80.7 U/ml; normal 4-20 U/ml).",
+            "changes_over_time": "Decreased from 81 U/ml (581 pmol/liter) to 47 U/ml (337 pmol/liter)."
+        },
+        {
+            "procedure_name": "C-Peptide",
+            "date": "Not specified",
+            "findings": "Increased at 4.9 µg/liter (normal range 0.5-2.0 µg/liter).",
+            "changes_over_time": "Fell from 4.9 µg/liter to 3.4 µg/liter."
+        },
+        {
+            "procedure_name": "24-hour Urinary Protein Excretion",
+            "date": "Not specified",
+            "findings": "Varied between 4-9 g daily.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

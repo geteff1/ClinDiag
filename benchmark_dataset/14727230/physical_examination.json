@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 1999",
+            "vital_signs": {
+                "temperature": "38.6°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_lesions": "Vegetating, verrucous lesions on upper limbs and back",
+                "lymphadenopathy": "Generalized lymphadenopathy",
+                "knee": "Painful, immobile and swollen left knee",
+                "visual": "Diminished visual acuity with exudative foci and flame-shaped hemorrhages in left eye"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 months after initiating Posaconazole therapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "lymphadenopathy": "Markedly improved disseminated suppurative lymphadenopathy",
+                "skin_lesions": "Marked improvement in verrucous skin lesions"
+            },
+            "changes_over_time": "Continued improvement noted over subsequent months"
+        },
+        {
+            "date": "6 months after initiating Posaconazole therapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "lymphadenopathy": "Only right axillary lymphadenopathy remained",
+                "biopsy_results": "Microscopic examination showed scarce mycotic elements"
+            },
+            "changes_over_time": "Skin biopsy specimens were negative for fungi"
+        },
+        {
+            "date": "7 months after initiating Posaconazole therapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "lymphadenopathy": "Right axillary lymphadenopathy remained",
+                "biopsy_results": "Negative for fungi in aspirated material"
+            },
+            "changes_over_time": "Resolution of lymph node lesions noted"
+        },
+        {
+            "date": "Approximately 4 months after Posaconazole therapy was discontinued",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "nodule": "Small, fluctuating left preauricular nodule"
+            },
+            "changes_over_time": "Posaconazole therapy restarted due to culture growth of E. spinifera"
+        }
+    ]
+}

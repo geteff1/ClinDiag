@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole Genome Sequencing",
+            "date": "Not specified",
+            "findings": "A novel translocation was detected affecting the lncRNA, RMST, on chromosome 12. A 2 bp deletion was found on Chr12 that disrupted intron 2 of the longest transcript of RMST.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing",
+            "date": "Not specified",
+            "findings": "WES revealed a rare missense variant in the LEPR gene, predicted to be benign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Copy Number Variations (CNVs)",
+            "date": "Not specified",
+            "findings": "No CNVs were detected in the IGD cohort of 1,386 probands or in a large cohort of controls.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Expression Analysis (qRT-PCR)",
+            "date": "Not specified",
+            "findings": "RMST expression in KS1-iPSCs was significantly decreased (~6%-18% vs. healthy iPSCs). During NCC differentiation on Day 11, RMST transcripts showed significant reductions (<10% of healthy NCC).",
+            "changes_over_time": "At Day 21, a 2.4-fold increase in SEMA3A and 2-fold increase in MKRN3 expression levels were evident compared to Day 11."
+        }
+    ]
+}

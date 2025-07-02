@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia at a rate of 102, PR interval of 220 msec, a single ventricular premature beat, and a possible anteroseptal infarct of uncertain age.",
+            "changes_over_time": "Subsequent electrocardiograms showed a PR interval of 300 msec and complete atrioventricular block, with a heart rate of 35 and wide ventricular complexes."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Clear, colorless cerebrospinal fluid containing 1 red cell and 3 white cells per cubic millimeter, with the total protein level of 23 mg per deciliter and glucose level of 129 mg per deciliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diagnostic vitreal tap",
+            "date": "Not specified",
+            "findings": "An injection of vancomycin and ceftazidime was performed into the left eye.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Thickening of the aortic-valve leaflets and mobile material attached to the leaflets, consistent with vegetation; suspected aortic-root abscess.",
+            "changes_over_time": "Later, a transesophageal echocardiogram confirmed thickening of the aortic-valve leaflets and the presence of abscess material."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Thickening of the aortic-valve leaflets and mobile vegetative material; destruction of the noncoronary cusp and a fistula connecting the noncoronary sinus to the right atrium.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "10.6–11.3 mg/dL (elevated; normal range 8.8–10.1 mg/dL)",
+            "changes_over_time": "Elevated at presentation (10.6–11.3 mg/dL) and stabilized at 9.9 mg/dL at age 9 years."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified",
+            "findings": "4.4 to 18.9 pmol/L (elevated; normal range 0.7–5.6 pmol/L)",
+            "changes_over_time": "Ranged from 115–219 pg/mL at age 6, 177 pg/mL at age 7, and 84–242 pg/mL at age 9 years."
+        },
+        {
+            "procedure_name": "Urinary Calcium to Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "0.89 to 1.03 (elevated; normal range <0.25 mg/mg)",
+            "changes_over_time": "Continuous hypercalciuria noted over the years."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "0.7 mg/dL (slightly elevated; normal range 0.1–0.4 mg/dL)",
+            "changes_over_time": "Increased slightly over the years (0.7 mg/dL at ages 6 and 7 years, 0.8 mg/dL at age 9 years)."
+        },
+        {
+            "procedure_name": "25(OH)D",
+            "date": "Not specified",
+            "findings": "21 ng/mL at age 6, dropped to 7 ng/mL at age 7, and then increased to 26.9 ng/mL at age 9.",
+            "changes_over_time": "Decreased at age 7 before increasing again at age 9."
+        },
+        {
+            "procedure_name": "1,25(OH)2D",
+            "date": "Not specified",
+            "findings": "162 pg/mL at age 6, decreased to 137 pg/mL at age 7, and further decreased to 74 pg/mL at age 9.",
+            "changes_over_time": "Decreased continuously over the years."
+        },
+        {
+            "procedure_name": "Plasma Renin Activity",
+            "date": "Not specified",
+            "findings": "Elevated at 1153 ng/dL (normal range 50–585 ng/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arginine Vasopressin",
+            "date": "Not specified",
+            "findings": "70 pg/mL (elevated; normal range 0–6.9 pg/mL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aldosterone",
+            "date": "Not specified",
+            "findings": "9.8 ng/dL (normal range not specified)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Prostaglandin E2",
+            "date": "Not specified",
+            "findings": "590–735 ng/24 h (elevated; normal range 400–620 ng/24 h)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

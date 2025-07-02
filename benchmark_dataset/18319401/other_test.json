@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "5 months ago",
+            "findings": "Multiple pancreatic stones were found.",
+            "changes_over_time": "He did well until 4 months later, when he had another flare of pain requiring hospitalization."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "4 months later",
+            "findings": "Stones were removed and the stent was taken out.",
+            "changes_over_time": "He has been stable since that time."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Most recent",
+            "findings": "Dilation and irregularity of the pancreatic duct; short segment of ductal stricture in the mid-body of the pancreas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

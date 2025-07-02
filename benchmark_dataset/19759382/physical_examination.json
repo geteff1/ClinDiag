@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "5 months before current admission",
+            "vital_signs": {
+                "temperature": "35.9°C",
+                "blood_pressure": "113/56 mm Hg",
+                "pulse": "61 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "91%"
+            },
+            "relevant_findings": {
+                "appearance": "thin with temporal wasting",
+                "mucous_membranes": "dry",
+                "tongue": "white coating",
+                "jugular_venous_pulsations": "1 cm of water",
+                "heart": "grade 2/6 systolic murmur throughout the precordium",
+                "lungs": "dry crackles at the bases",
+                "fingernails_and_toenails": "long and soiled",
+                "remainder_of_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "current admission",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "87/45 mm Hg",
+                "pulse": "69 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "appearance": "cachectic",
+                "mucous_membranes": "dry",
+                "oral_mucosa": "white plaques present",
+                "skin_turgor": "decreased",
+                "lungs": "crackles at both lung bases",
+                "remainder_of_examination": "unchanged"
+            },
+            "changes_over_time": "Progression from thin with temporal wasting to cachectic appearance with new findings of white oral plaques, decreased skin turgor, and worsening lung crackles."
+        }
+    ]
+}

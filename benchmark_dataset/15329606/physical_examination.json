@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mmHg to 110/60 mmHg",
+                "pulse_rate": "70-75 bpm",
+                "arterial_blood_gas": {
+                    "PaCO2": "43 mmHg",
+                    "PaO2": "82 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "physical_examination": "Patient exhibited inspiratory stridor and severe subglottic stenosis measured at 1.5 cm below vocal cords, with lumen diameter of 4 mm."
+            },
+            "changes_over_time": "Blood pressure declined from 150/80 mmHg to 110/60 mmHg during procedure."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "220/120 mmHg to 120/65 mmHg",
+                "pulse_rate": "120 bpm to 65 bpm",
+                "oxygen_saturation": "Above 90%",
+                "respiratory_rate": "30 breaths/min to 16 breaths/min"
+            },
+            "relevant_findings": {
+                "physical_examination": "Patient presented tachycardic and hypertensive with initial vital signs showing severe respiratory distress."
+            },
+            "changes_over_time": "Heart rate slowed from 120 bpm to 65 bpm while blood pressure declined from 220/120 mmHg to 120/65 mmHg after sedative administration."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation": "Above 92%"
+            },
+            "relevant_findings": {
+                "physical_examination": "Patient had an artificial upper trachea due to prior traumas, requiring treatment for chronic pain."
+            },
+            "changes_over_time": "Patient maintained above 92% oxygen saturation throughout the procedure."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "No significant findings reported."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

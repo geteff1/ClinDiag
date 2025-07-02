@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 2017",
+            "vital_signs": {
+                "blood_pressure": "115/70 mm Hg",
+                "heart_rate": "80 bpm",
+                "weight": "58 kg",
+                "body_mass_index": "22.1 kg/m²"
+            },
+            "relevant_findings": {
+                "clinical_findings": "Mild DZX-induced hypertrichosis at both extremities and on the upper lip."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "December 2017",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Identification of an 8.0-mm benign insulinoma relapse confirmed by intra-operative histopathological examination.",
+            "changes_over_time": "No further hypoglycemic episodes occurred post-surgery."
+        }
+    ]
+}

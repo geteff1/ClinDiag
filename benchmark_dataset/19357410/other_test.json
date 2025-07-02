@@ -1,0 +1,24 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "glucose": 73,
+                "protein": 132,
+                "white_cell_count": 23,
+                "lymphocytes": 72,
+                "gram_stain": "Rare polymorphonuclear leukocytes; no bacteria",
+                "culture": "No growth",
+                "nucleic_acid_testing": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

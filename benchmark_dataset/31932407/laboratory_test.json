@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "1st LP: colorless, 21 μL red blood cells, 289-313 μL nucleated cells, 45% neutrophils, 55% lymphocytes, 434 mg/dL protein, 34 mg/dL glucose; Cytology negative, no culture growth, no organisms on Gram stain, cryptococcal antigen not tested. 2nd LP: straw color, 1 μL red blood cells, 100-238 μL nucleated cells, 29% neutrophils, 68% lymphocytes, 2% monocytes/macrophages, 442 mg/dL protein, <20 mg/dL glucose; Cytology performed showed atypical cells, no culture growth, no organisms on Gram stain, cryptococcal antigen not tested. 3rd LP: straw color, 13 μL red blood cells, 248 μL nucleated cells, 39% neutrophils, 55% lymphocytes, 6% monocytes/macrophages, 429 mg/dL protein, 33 mg/dL glucose; Cryptococcal antigen positive (1:10 titer), cytology not tested, no culture growth, no organisms on Gram stain, negative fungal culture.",
+            "changes_over_time": "CSF showed progression from lymphocytic pleocytosis and increased protein in all LPs, with variable red blood cell counts. Positive cryptococcal antigen was found in the 3rd LP."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "White blood cell count was normal. LDL was 131 mg/dL and A1c was 6.2%. Cryptococcal antigen in serum was positive with titer 1:80.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "PET CT showed L3 pedicle lesion suspicious for malignancy; biopsy showed granuloma and fungal elements with positive Grocott methenamine silver (GMS) staining.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

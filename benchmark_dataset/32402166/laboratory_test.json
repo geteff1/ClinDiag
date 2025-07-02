@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "123 mmol per liter (reference range, 135 to 145)",
+            "changes_over_time": "Five weeks before admission: 123 mmol per liter; On admission: 123 mmol per liter; Four hours later: 127 mmol per liter; Ten hours later: 121 mmol per liter; Twelve hours later: 123 mmol per liter; Second and third hospital days: gradually increased to 132 mmol per liter; Fourth hospital day: increased to 137 mmol per liter; Two days after discharge: normal; Eight days after discharge: normal; The patient had 134 mmol per liter four weeks after discharge."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Three weeks before admission",
+            "findings": "35.6%",
+            "changes_over_time": "On admission: 35%"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Three weeks before admission",
+            "findings": "12.8 g/dl",
+            "changes_over_time": "On admission: 12.4 g/dl"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Three weeks before admission",
+            "findings": "9900 per μl",
+            "changes_over_time": "On admission: 9500 per μl"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Three weeks before admission",
+            "findings": "4.5 mmol per liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Three weeks before admission",
+            "findings": "85 mmol per liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Three weeks before admission",
+            "findings": "24 mmol per liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Three weeks before admission",
+            "findings": "9.5 mg/dl",
+            "changes_over_time": "On admission: 9.4 mg/dl."
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Three weeks before admission",
+            "findings": "1.8 mg/dl",
+            "changes_over_time": "On admission: 1.5 mg/dl."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Three weeks before admission",
+            "findings": "111 mg/dl",
+            "changes_over_time": "On admission: 103 mg/dl."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Three weeks before admission",
+            "findings": "1.05 mg/dl",
+            "changes_over_time": "On admission: 0.89 mg/dl."
+        },
+        {
+            "procedure_name": "Osmolality in serum",
+            "date": "Not specified",
+            "findings": "256 mOsm/kg of water",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Osmolality in randomly obtained urine",
+            "date": "Three weeks before admission",
+            "findings": "294 mOsm/kg of water",
+            "changes_over_time": "On admission: 720 mOsm/kg of water."
+        },
+        {
+            "procedure_name": "Sodium in randomly obtained urine",
+            "date": "Three weeks before admission",
+            "findings": "45 mmol/liter",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

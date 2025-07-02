@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "Not specified",
+            "findings": "nonspecific bowel-gas pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "heterogeneous lobular mass (6 cm in diameter) in the pelvis",
+            "changes_over_time": "Large heterogeneous rounded mass in the right lower quadrant on second admission measuring 8.4 cm by 10.8 cm by 7.1 cm."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "heterogeneous, lobulated mass (5.7 cm by 6.5 cm) in the pelvis; fat plane separating lesion from bladder",
+            "changes_over_time": "On second admission, mass measuring 8.2 cm by 10.7 cm by 8.7 cm with areas of central fluid causing partial obstruction of both ureters and severe compression of urinary bladder."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "large heterogeneous mass filling much of the pelvis and lower abdomen, with compression of the urinary bladder resulting in mild bilateral hydronephrosis",
+            "changes_over_time": "Mass grew to 10.7 cm in greatest dimension with severe compression of the urinary bladder."
+        }
+    ]
+}

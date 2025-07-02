@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "4800/L (76% neutrophils, 5% band forms, 13% lymphocytes, 3% monocytes, 3% eosinophils)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "33%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "100 mm/h",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bartonella IgG EIA",
+            "date": "Day 15",
+            "findings": "1120 EIA U (reference range, <12 EIA U); IgM antibody negative",
+            "changes_over_time": "Confirmed IgG seropositivity on follow-up"
+        },
+        {
+            "procedure_name": "Coxiella burnetii Antibody Testing",
+            "date": "Day 29",
+            "findings": "IgG antibody titers: Phase I 1:131,032, Phase II 1:16,384; IgM antibody titers: Phase I 1:256, Phase II 1:16",
+            "changes_over_time": "Titers of IgG changed from Phase II 1:65,536 to 1:16,384"
+        },
+        {
+            "procedure_name": "Serologic Testing for Rickettsia rickettsii",
+            "date": "Not specified",
+            "findings": "1:128 on Day 15; 1:64 on Day 29",
+            "changes_over_time": "Decreased from 1:128 to 1:64"
+        },
+        {
+            "procedure_name": "Serologic Testing for Ehrlichia chaffeensis",
+            "date": "Not specified",
+            "findings": "1:256 (no change over time)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serological Testing for Bartonella quintana",
+            "date": "Day 29",
+            "findings": "1:15,647",
+            "changes_over_time": "Increased from 1:512 on Day 15 to 1:15,647 on Day 29"
+        },
+        {
+            "procedure_name": "Serological Testing for Bartonella henselae",
+            "date": "Day 29",
+            "findings": "1:15,688",
+            "changes_over_time": "Increased from 1:8192 on Day 15 to 1:15,688 on Day 29"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Demyelinating sensorimotor neuropathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Onion bulbs and loss of myelinated fibers, without inflammatory infiltrates.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Increased protein content (82 mg/dL) with normal cell count; oligoclonal IgG bands restricted to CSF detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Visual evoked potentials (VEP)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Marked prolongation of P100 wave latency during later evaluation."
+        },
+        {
+            "procedure_name": "Brainstem auditory evoked potentials (BAEP)",
+            "date": "Not specified",
+            "findings": "Alterations bilaterally.",
+            "changes_over_time": "Unchanged."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Initial - Not specified; Follow-up - 3 years later",
+            "findings": "Multiple T2-hyperintense lesions in the pons, paraventricular region, and corpus callosum without gadolinium enhancement initially; increased T2-lesion load and one gadolinium-enhancing lesion in the pons at follow-up.",
+            "changes_over_time": "Increased T2-lesion load and appearance of gadolinium-enhancing lesion."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Moderate loss of myelinated fibers and multi-layered onion bulbs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Previous day to admission",
+            "findings": "Tachycardia to the 130s.",
+            "changes_over_time": "Resolved within 2 hours after administration of Parkinson's medications."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Not specified",
+            "findings": "Confirmed Herpes Simplex Encephalitis via HSV PCR.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ictal SPECT",
+            "date": "Not specified",
+            "findings": "Increased perfusion in the right temporo-parieto-occipital area during seizure.",
+            "changes_over_time": "Interictal SPECT showed localized hypoperfusion in the same area."
+        }
+    ]
+}

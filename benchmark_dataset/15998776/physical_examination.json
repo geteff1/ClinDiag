@@ -1,0 +1,69 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": "31 mg/dl (1.7 mmol/liter)",
+                "insulin_level": "172 mU/liter",
+                "weight": "4460 g",
+                "length": "54 cm"
+            },
+            "relevant_findings": {
+                "type": "Severe hypoglycemia",
+                "diagnosis": "Congenital hyperinsulinism",
+                "treatment": "Intravenous glucose and diazoxide"
+            },
+            "changes_over_time": "Despite treatment with diazoxide, the patient continued to have severe hypoglycemic episodes, leading to further medical interventions including octreotide and nifedipine."
+        },
+        {
+            "date": "4 months",
+            "vital_signs": {
+                "insulin_levels_after_catheterization": "(Unspecific Value)"
+            },
+            "relevant_findings": {
+                "type": "Biventricular hypertrophy",
+                "examination": "Cardiac ultrasound"
+            },
+            "changes_over_time": "Biventricular hypertrophy was noted at 4 months prior to the subtotal pancreatectomy at 5 months."
+        },
+        {
+            "date": "5 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "surgical_procedure": "Subtotal pancreactectomy (95%)",
+                "post_op_condition": "Developed diabetes"
+            },
+            "changes_over_time": "After the surgery, insulin treatment was initiated."
+        },
+        {
+            "date": "20 months",
+            "vital_signs": {
+                "daily_insulin_dose": "0.54 U/kg",
+                "HbA1c": "6.9%"
+            },
+            "relevant_findings": {
+                "medical_condition": "Diabetes management",
+                "glucose_levels": "Maximum levels of 181 mg/dl (10 mmol/liter)"
+            },
+            "changes_over_time": "The insulin dose was gradually tapered."
+        },
+        {
+            "date": "23 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "insulin_management": "Stopped"
+            },
+            "changes_over_time": "Insulin treatment was completely stopped with stable blood glucose levels."
+        },
+        {
+            "date": "36 months",
+            "vital_signs": {
+                "HbA1c": "5.4%"
+            },
+            "relevant_findings": {
+                "condition": "No hypoglycemic episodes"
+            },
+            "changes_over_time": "HbA1c values decreased to 5.4% without treatment."
+        }
+    ]
+}

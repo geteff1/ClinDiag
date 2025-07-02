@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy of pretracheal lymph node",
+            "date": "Not specified",
+            "findings": "Multiple lymph-node fragments had been almost completely replaced by metastatic tumor deposits consistent with poorly differentiated adenocarcinoma. Immunohistochemical staining for thyroid transcription factor 1 was positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing of tumor tissue",
+            "date": "Not specified",
+            "findings": "Revealed a deletion of 15 bp in exon 19 of the epidermal growth factor receptor gene (EGFR).",
+            "changes_over_time": "Subsequent genetic testing of pleural fluid revealed an additional point mutation (EGFR T790M) known to confer resistance to tyrosine kinase inhibitors."
+        },
+        {
+            "procedure_name": "Thoracentesis of pleural effusion",
+            "date": "Not specified",
+            "findings": "Pleural fluid contained cells consistent with known adenocarcinoma.",
+            "changes_over_time": "Only a small amount of fluid could be removed; the procedure caused worsening pain."
+        },
+        {
+            "procedure_name": "Intrathecal drug delivery trial",
+            "date": "Not specified",
+            "findings": "Provided effective analgesia initially.",
+            "changes_over_time": "Pain began to escalate after several weeks, requiring readmission."
+        },
+        {
+            "procedure_name": "Palliative sedation initiation",
+            "date": "Not specified",
+            "findings": "Patient did not report any pain for the first 24 hours.",
+            "changes_over_time": "After 24 hours, patient awoke in severe pain despite increases in sedation medication, leading to an adjustment in the regimen."
+        }
+    ]
+}

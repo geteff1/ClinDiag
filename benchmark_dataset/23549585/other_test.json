@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CD4 T-lymphocyte count",
+            "date": "Not specified",
+            "findings": "Current count is 440 cells/µL; nadir was 140 cells/µL in 1991.",
+            "changes_over_time": "The CD4 T-lymphocyte count has improved from the nadir of 140 cells/µL to 440 cells/µL."
+        },
+        {
+            "procedure_name": "Plasma HIV RNA level test",
+            "date": "Not specified",
+            "findings": "Plasma HIV RNA level has been undetectable since 1996.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Medication assessment",
+            "date": "Not specified",
+            "findings": "Mr H takes 9 medications including 4 antiretrovirals, 2 lipid-lowering agents, testosterone, an antidepressant, and an anxiolytic.",
+            "changes_over_time": "Rosuvastatin was discontinued and he was switched to a single-tablet regimen (emtricitabine/tenofovir/rilpivirine), but due to increased depressive symptoms, he was switched back to his previous regimen."
+        }
+    ]
+}

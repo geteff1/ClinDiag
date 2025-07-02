@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1/15/14",
+            "vital_signs": {
+                "blood_pressure": "160/95 mmHg",
+                "heart_rate": "78 bpm",
+                "weight": "230 pounds",
+                "height": "72 inches",
+                "BMI": "31.2 kg/m²"
+            },
+            "relevant_findings": "Truncal obesity; remainder of the physical examination is normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "3/15/14",
+            "vital_signs": {
+                "blood_pressure": "140/85 mmHg"
+            },
+            "relevant_findings": "Weight loss of 10 pounds; blood pressure significant reduction compared to last visit.",
+            "changes_over_time": "Blood pressure improved from 160/95 mmHg to 140/85 mmHg."
+        },
+        {
+            "date": "9/15/14",
+            "vital_signs": {
+                "blood_pressure": "130 mmHg"
+            },
+            "relevant_findings": "Weight loss of total 20 pounds; systolic blood pressure consistent with low sodium diet and ongoing weight loss.",
+            "changes_over_time": "Blood pressure improved from 140/85 mmHg to 130 mmHg."
+        }
+    ]
+}

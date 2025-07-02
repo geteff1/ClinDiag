@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "Not specified",
+            "findings": "The sputum culture contained 150 colonies of normal flora, 50 colonies of Candida albicans, and 1 colony of gram-negative rods, which proved to be Francisella tularensis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracentesis",
+            "date": "Not specified",
+            "findings": "Pleural fluid was yellow, moderately turbid, with a white-cell count of 666, a differential count of neutrophils 31%, lymphocytes 56%, and monocytes 58%. The fluid pH was 8, glucose level was 116 mg/dl, and protein level was 3.6 g/dl.",
+            "changes_over_time": "The chest tube was removed on the fifth hospital day, 24 hours after drainage had stopped."
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "The fiberoptic bronchoscopic examination revealed no purulent material or obstructing lesions. Microscopical examination of bronchoalveolar-lavage fluid showed no neutrophils and no fungi, acid-fast bacilli, or other microorganisms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Not specified",
+            "findings": "The tuberculin skin test was negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

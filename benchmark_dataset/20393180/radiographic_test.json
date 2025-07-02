@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "A large area of signal abnormality and subtle enhancement predominantly involving the white matter of the right frontal lobe and insula, with less extensive involvement of the left frontal lobe.",
+            "changes_over_time": "No changes from the examination 10 days earlier."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "1 year earlier",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Reported abnormalities were not present."
+        }
+    ]
+}

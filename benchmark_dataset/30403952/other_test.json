@@ -1,0 +1,23 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "115 mg/dL (reference range, 50 to 75 mg/dL)",
+                "total_protein": "128 mg/dL (reference range, 5 to 55 mg/dL)",
+                "nucleated_cell_count": "46 per mm³ (reference range, 0 to 5 per mm³)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF antibody testing",
+            "date": "Not specified",
+            "findings": {
+                "IgM_immunoblot": "No bands",
+                "IgG_immunoblot": "5 specific bands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

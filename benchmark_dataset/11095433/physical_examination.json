@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "105 mmHg (systolic)",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "blood_pressure": "150/90 mmHg with headaches and blurred vision (high blood pressure in childhood)",
+                "weight": "51 kg, body mass index 24 (when 42 years old)",
+                "severe hypertension": "180 mmHg chronically (after dropping treatment in adulthood)",
+                "sudden loss of vision": "diagnosis of central retinal vein occlusion at 42 years of age",
+                "echocardiogram findings": "pronounced concentric ventricular hypertrophy"
+            },
+            "changes_over_time": "Blood pressure varied significantly with periods of control and loss of control; initial high blood pressure increased markedly leading to severe hypertrophic cardiomyopathy."
+        },
+        {
+            "date": "At 44 years of age (post-surgery)",
+            "vital_signs": {
+                "blood_pressure": "120/80 mmHg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "renin": "Normalized",
+                "potassium_levels": "Near normal",
+                "weight": "Stabilized at 58 kg (post-surgery)"
+            },
+            "changes_over_time": "Blood pressure progressively returned to normal after adrenalectomy and stayed stable at 120/80 mmHg even after stopping antihypertensive medications."
+        }
+    ]
+}

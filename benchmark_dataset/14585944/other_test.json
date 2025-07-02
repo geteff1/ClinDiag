@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "More than 50 small adenomas identified in the right side of the colon; two large adenomas measuring more than 1 cm at the hepatic flexure and in the rectosigmoid colon.",
+            "changes_over_time": "Normal colonoscopic examination four years earlier revealed no polyps."
+        },
+        {
+            "procedure_name": "Whipple procedure",
+            "date": "Not specified",
+            "findings": "Tubulovillous adenoma in the ampulla of Vater measuring 0.8 cm.",
+            "changes_over_time": "Progressed to require a right colectomy showing a tubulovillous adenoma in the ascending colon measuring 5.0 cm and multiple small tubular adenomas."
+        },
+        {
+            "procedure_name": "Right hemicolectomy",
+            "date": "Not specified",
+            "findings": "50 to 100 small flat polyps carpeting the cecum and the right side of the colon, including both serrated adenomas and tubular adenomas.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic examination of stomach and duodenum",
+            "date": "Not specified",
+            "findings": "Fundic-gland polyps in the stomach and a tubular adenoma in the duodenum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Identified germ-line truncating mutation in the APC gene in the patient's father; no mutation found in the patient indicating she does not have attenuated familial adenomatous polyposis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

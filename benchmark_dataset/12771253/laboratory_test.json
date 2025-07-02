@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF protein measurement",
+            "date": "Not specified",
+            "findings": "Elevated CSF protein content of 0.85 g/L, CSF glucose and cell counts were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Showed asymmetric polymorphic delta waves involving the right hemisphere.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "Not specified",
+            "findings": "Diffuse and smooth postcontrast enhancement of the leptomeninges; absent evidence of blood product within the leptomeninges or parenchyma.",
+            "changes_over_time": "MRI was unchanged from 1 year previous."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Demonstrated perivascular amyloid deposition.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Had normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "No cardiac dysfunction was found, although endomyocardial biopsy showed amyloid deposits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthyretin gene sequencing and SSCP analyses",
+            "date": "Not specified",
+            "findings": "SSCP analysis of exon 3 showed an abnormal migration pattern; direct sequencing revealed heterozygosity for the ATTR Tyr69His mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI (Patient III-1)",
+            "date": "1996",
+            "findings": "MRI was performed without contrast and results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI (Patient II-6)",
+            "date": "Not specified",
+            "findings": "Postcontrast T1-weighted imaging demonstrated smooth leptomeningeal enhancement.",
+            "changes_over_time": "Subtler than in the index patient."
+        },
+        {
+            "procedure_name": "Cranial MRI (Patient III-12)",
+            "date": "Not specified",
+            "findings": "Showed smooth and diffuse enhancement of the leptomeninges; no intraparenchymal lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

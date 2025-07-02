@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic Angiography (CTA) of the chest",
+            "date": "Not specified",
+            "findings": "Several small segmental and subsegmental pulmonary emboli on the right side, which were slightly decreased in size from the previous study.",
+            "changes_over_time": "Slightly decreased in size from the previous study."
+        },
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "Moderate scoliosis, normal heart size, clear lung fields, and an indwelling port catheter with the tip positioned in the right atrium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal biventricular function, a large pedunculated mass on the atrial side of the tricuspid valve, and moderate tricuspid regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiographic Study with Agitated Saline",
+            "date": "Not specified",
+            "findings": "Early microbubble appearance on the left side of the heart, consistent with interatrial shunting.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

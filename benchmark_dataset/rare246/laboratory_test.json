@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal; eosinophils were 4.2%.",
+            "changes_over_time": "Blood eosinophils increased to 16.6% and were consistently elevated, up to 42.4% on day 26."
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Procalcitonin",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Herpes Fluid Culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Day 6",
+            "findings": "Eosinophilic spongiform edema of the lesioned skin, eosinophilic microabscesses, liquefaction of the basal layer, and eosinophilic infiltration in the superficial dermis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Routine Brain MRI",
+            "date": "Day 21",
+            "findings": "Diffuse multiple cystic and lamellar abnormal signal areas in the left frontal and parietal lobes; low signal in T1-weighted imaging, high signal in T2-weighted imaging; speckled diffusion restriction within the lesion; no abnormalities in sacrococcygeal MRI scan.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urgent Cranial CT Scan",
+            "date": "Not specified",
+            "findings": "Diffuse hypodensity in the left cerebral hemisphere and bilateral cerebellum; large patchy hypodense area in the left frontoparietal lobe with a CT value of 10–15 HU; multiple speckled hyperintensities within it; widened left ventricle; additional patchy hyperintensities in the left cerebellar hemisphere.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chromosomal Copy Number Variation (CNV-Seq plus)",
+            "date": "Not specified",
+            "findings": "Approximately 18.29 Mb mosaicism repeats in Yp11.31q11.222 region (16%); approximately 7.83 Mb mosaicism deletions in Yq11.222q11.23 region (17%); approximately 317.54 kb repeats in Yp11.2p11.2 region (copy number: 2) and 3p26.3p26.3 region with approximately 440.50 kb duplication (copy number 3).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytological Karyotype Detection",
+            "date": "Not specified",
+            "findings": "Normal parental karyotype; brother was 46,X,del (Y)(q11.23) [7]/46,XY [93] with a mosaicism rate of 7%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "No pathogenic minor variants in the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Multiplex Ligation-Dependent Probe Amplification (MLPA)",
+            "date": "Not specified",
+            "findings": "No large deletion repeat variants in large segments of the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Multiplex PCR Amplification Testing",
+            "date": "Not specified",
+            "findings": "Did not find deletion variants in exons 4–10 of the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

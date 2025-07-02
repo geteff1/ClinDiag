@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5 °C",
+                "pulse_rate": "112 beats/min",
+                "respiratory_rate": "18 beats/min",
+                "blood_pressure": "121/85 mmHg"
+            },
+            "relevant_findings": {
+                "ear_canal": "Clear and unobstructed",
+                "sinuses": "No tenderness observed",
+                "lungs": "No abnormalities upon auscultation",
+                "lower_limbs": "No edema observed",
+                "otal examination": "Deviated nasal septum, purulent discharge in the right middle nasal passage, bilateral tympanic membrane invagination, bilateral tympanic effusion"
+            },
+            "changes_over_time": {
+                "initial_stage": "During the first stage, purulent discharge and tympanic effusion were noted.",
+                "after_relapse": "Clear ear canal with no pus or fluid discharge."
+            }
+        }
+    ]
+}

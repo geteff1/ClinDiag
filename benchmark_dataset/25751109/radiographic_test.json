@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "Moderate steatosis, without gallbladder and bile duct abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Consistent with ultrasound results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "6 weeks after discontinuation of IVGC and 1 week after stopping rosuvastatin and lysine acetylsalicylate",
+            "findings": "Moderate lymphocytic portal and lobular inflammation, with scattered plasma cells and eosinophils, focal interface and bridging necrosis, and diffuse centrilobular necrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

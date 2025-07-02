@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "12.730 kg (95th percentile)",
+                "height": "66 cm (94th percentile)",
+                "head_circumference": "43.5 cm (75-90th percentile)",
+                "body_mass_index": "29.2 (97th percentile)"
+            },
+            "relevant_findings": {
+                "obesity": "Present with short neck and round face",
+                "neurological_examination": "Unremarkable",
+                "serum_ionized_calcium": "4.88 mg/dl (normal)",
+                "serum_phosphorus": "7.3 mg/dl (normal)",
+                "elevated_intact_PTH": "48 pg/ml (mildly elevated)",
+                "free_T4": "0.97 ng/dl (normal)",
+                "TSH": "11.9 U/ml (elevated)"
+            },
+            "changes_over_time": "At 8 months, skin biopsy revealed calcifications, serum levels normal; at 3 years, ionized calcium low (4.16 mg/dl) with high PTH levels (264 pg/ml). Latest examination at 13 years showed normal serum levels of calcium (9.6 mg/dl), phosphorus (4.8 mg/dl), TSH (4.18 U/ml), but elevated intact PTH (198 pg/ml)."
+        },
+        {
+            "date": "At age 8 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "skin_biopsy": "Revealed calcifications containing newly formed bone",
+                "serum_levels": "Normal calcium, phosphorus, and PTH levels"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 3 years",
+            "vital_signs": {
+                "ionized_calcium": "4.16 mg/dl (low)",
+                "PTH": "264 pg/ml (high)"
+            },
+            "relevant_findings": {
+                "treatment_started": "1,25-dihydroxyvitamin D3 (0.25 g/d)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 13 years 2 months",
+            "vital_signs": {
+                "weight": "42.2 kg (25-50th percentile)",
+                "height": "142 cm (10-25th percentile)",
+                "body_mass_index": "20.93 (50-75th percentile)"
+            },
+            "relevant_findings": {
+                "normal_puberty": "Normal timing and onset, Tanner V",
+                "menarche": "At 12 years 7 months",
+                "new_skeletal_calcifications": "Found in legs and right fifth toe"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

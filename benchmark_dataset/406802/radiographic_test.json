@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "spine films",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Right bundle branch block at discharge",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory stress and 24-hour ECG monitoring",
+            "date": "Not specified",
+            "findings": "No abnormality",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "hemogram, erythrocyte sedimentation rate, Venereal Disease Research Laboratories test, serum B12, 9-hour post-prandial glucose, acid phosphatase, urinalysis, intravenous pyelogram, and cystoscopy",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

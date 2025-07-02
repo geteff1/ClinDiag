@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": {
+                "skin": {
+                    "cafe_au_lait_macules": [
+                        {
+                            "size": ">1.5 cm",
+                            "location": "left lower abdomen"
+                        },
+                        {
+                            "size": ">1.5 cm",
+                            "location": "inner aspect of left buttock"
+                        }
+                    ],
+                    "cutaneous_lesion": {
+                        "type": "raised purple lesion",
+                        "size": "1 cm",
+                        "location": "left side of the chest"
+                    },
+                    "subcutaneous_tumors": "Multiple visible throughout the body",
+                    "left_leg_thickness": "Slightly thicker than right leg",
+                    "color_changes": {
+                        "initial": "reddened and cold",
+                        "final": "deep red up to the middle of the tibia"
+                    }
+                },
+                "neurologic": {
+                    "gait": "slow and shuffling, bent at the waist",
+                    "strength": {
+                        "arms": "4/5 with bilateral pronator drift",
+                        "right_leg": "4/5",
+                        "left_leg": "3/5 with decreased muscle mass and foot drop"
+                    },
+                    "motor": {
+                        "fine_motor_coordination": "Intact",
+                        "reflexes": {
+                            "brachioradialis": "2+ symmetric, spread into biceps on right",
+                            "knee_and_ankle": "3+",
+                            "Hoffmann": "positive on left, negative on right",
+                            "Babinski": {
+                                "right": "unreactive",
+                                "left": "upward"
+                            }
+                        },
+                        "tone": "Bilateral increased tone with contractures at heel cords",
+                        "right_foot_position": "turned in"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "surgical": "Laminectomy of C3–6, bilateral tumor resection, cervical spine fusion",
+                "pathology": "All tumors were neurofibromas"
+            },
+            "changes_over_time": "Three months post-operation, patient's pain diminished and gait improved; a new right foot drop developed."
+        }
+    ]
+}

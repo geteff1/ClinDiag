@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Total cholesterol: 277 mg/dL (7.17 mmol/L); HDL cholesterol: 64 mg/dL (1.66 mmol/L); LDL cholesterol: 197 mg/dL (5.10 mmol/L); triglycerides: 80 mg/dL (2.07 mmol/L).",
+            "changes_over_time": "Results consistent with previous measurements."
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver-Associated Enzyme Levels",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Did not contain any protein.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

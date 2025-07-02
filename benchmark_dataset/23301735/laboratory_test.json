@@ -1,0 +1,92 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "On admission: 12,000 (normal range: 4500–11,000), 2nd hospital day: 13,200, 17,200.",
+            "changes_over_time": "Rising white-cell count from 12,000 at admission to 17,200 on the 2nd hospital day."
+        },
+        {
+            "procedure_name": "Differential count",
+            "date": "Not specified",
+            "findings": {
+                "Neutrophils": "75.3% at admission (normal range: 40–70), 76% on 2nd day, 85% on 3rd day.",
+                "Lymphocytes": "17.4% at admission (normal range: 22–44), 17% on 2nd day, 10% on 3rd day.",
+                "Monocytes": "6.5% at admission (normal range: 4–11), 5% on 2nd day, 5% on 3rd day.",
+                "Eosinophils": "0.6% at admission (normal range: 0–8), 1% on 2nd day, 0% on 3rd day.",
+                "Basophils": "0.2% at admission (normal range: 0–3), 1% on 2nd day, 0% on 3rd day."
+            },
+            "changes_over_time": "Neutrophils increased, while lymphocytes decreased over time."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "141 mmol/liter at admission (normal range: 135–145), 138 on 2nd day, 143 on 3rd day.",
+            "changes_over_time": "Sodium levels increased from 141 to 143 mmol/liter."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "3.4 mmol/liter at admission (normal range: 3.4–4.8), 3.2 on 2nd day, 3.5 on 3rd day.",
+            "changes_over_time": "Potassium levels decreased from 3.4 to 3.2 mmol/liter and then increased to 3.5."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "28 mmol/liter at admission (normal range: 23.0–31.9), 25.6 on 2nd day, 18.9 on 3rd day.",
+            "changes_over_time": "Carbon dioxide levels decreased from 28 to 18.9 mmol/liter."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "121 mg/dl at admission (normal range: 70–110), 101 on 2nd day, 145 on 3rd day.",
+            "changes_over_time": "Glucose levels decreased from 121 mg/dl to 101 mg/dl and then increased to 145 mg/dl."
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "Not specified",
+            "findings": "4.3 mmol/liter (normal range: 0.5–2.2), elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "Opening pressure": "33 cm of water.",
+                "White-cell count": "39 per mm3 (normal range: 0–5), 27 per mm3 from Tube 4 (normal range: 0–5).",
+                "Protein": "50 mg/dl (normal range: 5–55).",
+                "Glucose": "84 mg/dl (normal range: 50–75)."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood gases",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.20 (normal range: 7.32–7.45), indicating acidosis.",
+                "Partial pressure of carbon dioxide": "48 mm Hg (normal range: 35–50).",
+                "Partial pressure of oxygen": "102 mm Hg (normal range: 40–90).",
+                "Base excess": "-9.8."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR for Varicella-Zoster Virus",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR for Epstein-Barr Virus",
+            "date": "Not specified",
+            "findings": "None detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy of nuchal skin",
+            "date": "Not specified",
+            "findings": "Rabies virus antigen detected; rabies virus nucleic acids detected by PCR.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.0°F",
+                "blood_pressure": "136/88 mmHg",
+                "heart_rate": "56 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "6 cm H2O",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiac_examination": {
+                    "S1_S2": "Normal",
+                    "murmurs": "None",
+                    "gallops": "None",
+                    "heaves": "None",
+                    "apical_impulse": "Nondisplaced"
+                },
+                "extremities": "Warm and without edema",
+                "troponin_T": "Undetectable",
+                "ECG": "Normal sinus rhythm with normal intervals and no evidence of hypertrophy or ischemia",
+                "urine_toxicology_screen": "Negative",
+                "echocardiogram": {
+                    "left_ventricular_ejection_fraction": "65%",
+                    "size_function": "Normal"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Telemetry showed nonsustained, regular, wide complex monomorphic tachycardia.",
+            "changes_over_time": "Episodes of chest pain occurred again the following morning with ventricular tachycardia."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ventricular_tachycardia": "Self-terminating",
+                "ST_elevation": "Noted on ECG."
+            },
+            "changes_over_time": "Multiple episodes of nonsustained polymorphic ventricular tachycardia noted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_main_coronary_artery": "99% tubular stenosis in the mid left anterior descending artery",
+                "nitroglycerin_response": "Improved to 40% stenosis"
+            },
+            "changes_over_time": "Change in stenosis percentage after nitroglycerin."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "depressed_ejection_fraction": "35% to 40% with global hypokinesis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

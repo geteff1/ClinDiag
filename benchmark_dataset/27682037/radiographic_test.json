@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Changes attributed to a lobectomy of the right lower lobe and a segmentectomy of the posterior right upper lobe for lung cancer were noted, with no new findings or findings suspicious for recurrent lung cancer. A rim-enhancing mass was noted at the 11 o’clock position in the right breast, which was new since the previous chest CT scan obtained 16 months earlier.",
+            "changes_over_time": "New rim-enhancing mass in right breast since previous CT scan 16 months earlier."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "No evidence of an intracranial mass, hemorrhage, or acute infarction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mammography",
+            "date": "Not specified",
+            "findings": "An irregularly shaped mass in the right breast with spiculated margins and associated architectural distortion, correlating with the mass on the chest CT scan, and was new since the patient’s most recent mammogram 2 years earlier.",
+            "changes_over_time": "New finding since the patient’s most recent mammogram 2 years earlier."
+        },
+        {
+            "procedure_name": "Ultrasonography of the right breast",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a 14-mm solid mass highly suggestive of primary breast cancer.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

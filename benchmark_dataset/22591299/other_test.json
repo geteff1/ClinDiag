@@ -1,0 +1,45 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "red_cell_count_tube_1": 0,
+                "white_cell_count_tube_1": 8,
+                "white_cell_count_tube_4": 13,
+                "protein": 71,
+                "glucose": "<20",
+                "eosinophils": 2,
+                "neutrophils": 0,
+                "lymphocytes": 53,
+                "monocytes": 30,
+                "reactive_lymphocytes": 2,
+                "other_hematic_cells": 13
+            },
+            "changes_over_time": {
+                "after_27_months": {
+                    "red_cell_count_tube_1": 0,
+                    "white_cell_count_tube_1": 30,
+                    "white_cell_count_tube_4": 21,
+                    "protein": 85,
+                    "glucose": "<20",
+                    "eosinophils": 18,
+                    "neutrophils": 20,
+                    "lymphocytes": 28,
+                    "monocytes": 34,
+                    "reactive_lymphocytes": 0,
+                    "other_hematic_cells": 0
+                }
+            }
+        },
+        {
+            "procedure_name": "Suboccipital craniectomy",
+            "date": "Not specified",
+            "findings": "Numerous baglike cystic structures seen and removed which were consistent with cysticercosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

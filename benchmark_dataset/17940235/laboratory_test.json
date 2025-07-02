@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sweat Test",
+            "date": "Not specified",
+            "findings": "Sweat chloride level greater than 60 mEq/L indicating cystic fibrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "Multiple dates in August 2003, from 2000 to 2007",
+            "findings": "FEV1 percent predicted was decreased prior to aggressive treatment; specific values not provided.",
+            "changes_over_time": "After aggressive treatment started in September 2003, significant improvement in FEV1 was noted over time."
+        }
+    ]
+}

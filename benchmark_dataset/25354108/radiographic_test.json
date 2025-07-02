@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "T2-weighted hyperintense lesion in the left motor strip involving the adjacent white matter; focal cortical dysplasia; no clear evidence of atrophy.",
+            "changes_over_time": "Progressive atrophy in the left cerebral hemisphere; enlargement of the left inferior, middle, and superior frontal sulci and left parieto-occipital sulci with underlying cortex thinning."
+        },
+        {
+            "procedure_name": "Magnetoencephalography (MEG)",
+            "date": "Not specified",
+            "findings": "Seizure activity in the left frontal lobe, predominantly in the posterior left frontal cortex and area associated with motor control.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Three months before the evaluation",
+            "findings": "Focus of continuous right facial twitching in the left frontal area; generalized tonic–clonic seizures recorded.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI (FLAIR)",
+            "date": "7 years of age",
+            "findings": "Lesion with high signal intensity in the precentral and postcentral gyri, involving the cortex and subcortical white matter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI (T2-weighted images)",
+            "date": "Between 6 years and 8 years of age",
+            "findings": "Progressive atrophy in the left cerebral hemisphere with features suggestive of focal cortical dysplasia.",
+            "changes_over_time": "Progressive cortical atrophy and loss of white-matter volume."
+        }
+    ]
+}

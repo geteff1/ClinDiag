@@ -1,0 +1,64 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "stool microscopy",
+            "date": "Not specified",
+            "findings": "No bacterial pathogens and no parasites.",
+            "changes_over_time": "Case 5 returned 3 days later for CBC and fixed stool collection 40 days after onset of symptoms, where the absolute eosinophil count was 4.7 × 10⁹/L and revealed E. nana and large numbers of D. fragilis."
+        },
+        {
+            "procedure_name": "bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Excluded malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "stool microscopy",
+            "date": "Not specified",
+            "findings": "High numbers of D. fragilis, along with B. hominis and E. nana.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Two years prior",
+            "findings": "Eosinophil count was 0.09 × 10⁹/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Eosinophil count was 5.2 × 10⁹/L.",
+            "changes_over_time": "Two years prior, it was normal."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Absolute eosinophil count was 0.9 × 10⁹/L, stool microscopy revealed only D. fragilis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "stool microscopy",
+            "date": "Not specified",
+            "findings": "6 stool specimens did not reveal any parasites.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "40 days after onset of symptoms",
+            "findings": "Absolute eosinophil count was 4.7 × 10⁹/L.",
+            "changes_over_time": "Three years prior, a routine CBC revealed an eosinophil count of 0.1 × 10⁹/L."
+        },
+        {
+            "procedure_name": "PCR",
+            "date": "Not specified",
+            "findings": "Confirmed positive for D. fragilis on pretreatment specimens.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "stool microscopy",
+            "date": "12 months after completion of treatment",
+            "findings": "All cases remained symptom free and the absolute eosinophil count had returned to normal in all cases.",
+            "changes_over_time": "All eosinophil counts had normalized to 0.2 × 10⁹/L."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Recurrent atrial fibrillation with associated anxiety",
+        "differential_diagnosis": [
+            "Hyperthyroidism",
+            "Recurrent Atrial Fibrillation",
+            "Dilated Cardiomyopathy",
+            "Torsades de Pointes",
+            "Pulmonary Embolus",
+            "Temporal Lobe Epilepsy",
+            "Pacemaker Dysfunction",
+            "Substance Intoxication",
+            "Substance Withdrawal",
+            "Panic Disorder"
+        ],
+        "diagnostic_reasoning": "The patient's symptoms of anxiety and palpitations were linked to recurrent episodes of atrial fibrillation. The discontinuation of metoprolol likely triggered these episodes, leading to increased symptom burden, which included feelings of anxiety. Based on the history, physical examination, and cardiac evaluations, atrial fibrillation was determined as the root cause of the patient's anxiety symptoms."
+    }
+}

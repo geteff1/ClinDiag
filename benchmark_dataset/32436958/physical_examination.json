@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 153.3 cm, Weight: 81 kg, BMI: 34.1",
+            "relevant_findings": "Brachydactyly (short first and fourth metatarsals and short fourth and fifth metacarpals), multiple subcutaneous ossifications, Horner syndrome, history of asthma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 5.5 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant for subcutaneous ossifications but no brachydactyly; some speech delay",
+            "changes_over_time": "Weight increased to Z=2.8 SDS, height at 50-60% tile"
+        },
+        {
+            "date": "At age 2.5 years",
+            "vital_signs": "Calcium: 8.8 mg/dL, PTH: 218 pg/mL, Phosphorus: 7.6 mg/dL",
+            "relevant_findings": "Normal serum levels of calcium, phosphorus, and intact PTH until age 2.5 years",
+            "changes_over_time": "PTH levels increased to 218 pg/mL with a corresponding decrease in calcium levels"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "84/49 mm Hg",
+                "pulse": "100 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98%",
+                "additional_vital_signs": [
+                    {
+                        "date": "Not specified",
+                        "blood_pressure": "77/46 mm Hg",
+                        "pulse": "118 bpm"
+                    }
+                ]
+            },
+            "relevant_findings": {
+                "appearance": "pale, profusely diaphoretic, in extreme discomfort",
+                "abdominal_examination": "rigid, diffusely tender with guarding in all quadrants, greatest tenderness in the periumbilical area",
+                "distal_pulses": "diminished",
+                "incontinence": "of stool, not bloody"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately 3 months before admission",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "abdominal_distension": "slightly distended"
+            },
+            "relevant_findings": "CT scan revealed splenomegaly with prominent mesenteric vasculature, stranding of mesenteric fat, small ascites, and gallstones without evidence of cholecystitis or pancreatitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

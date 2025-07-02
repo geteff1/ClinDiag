@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "8:42 a.m.",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "56 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "skin": "Pale and diaphoretic",
+                "neurological": "Alert and oriented",
+                "chest": "Gasping at sternum and moaning"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "8:50 a.m.",
+            "vital_signs": {
+                "blood_pressure": "110/90 mm Hg",
+                "heart_rate": "51 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "chest_pain": "Rated at 7 on a scale of 0 to 10",
+                "cardiac_monitor": "Sinus rhythm at 60 bpm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "Initially alert and oriented; subsequently unresponsive",
+                "ECG": "Indicated shock-refractory ventricular fibrillation"
+            },
+            "changes_over_time": "Initially oriented; later unresponsive"
+        }
+    ]
+}

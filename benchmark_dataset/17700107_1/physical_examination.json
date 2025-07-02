@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.5ºC",
+                "white_blood_cell_count": "Not specified",
+                "erythrocyte_sedimentation_rate": "Not specified"
+            },
+            "relevant_findings": "Cellulitis and fluctuance in the anterior right breast; systematic signs of infection, including fever and chills.",
+            "changes_over_time": "The patient's condition improved significantly after intravenous antibiotics and procedural intervention."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "white_blood_cell_count": "60,000/mm^3",
+                "erythrocyte_sedimentation_rate": "Not specified"
+            },
+            "relevant_findings": "Cellulitis and axillary fluctuance indicative of a severe infection.",
+            "changes_over_time": "The patient showed improvement with the initiation of intravenous antibiotics and subsequent surgical intervention."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "white_blood_cell_count": "Not specified",
+                "erythrocyte_sedimentation_rate": "Not specified"
+            },
+            "relevant_findings": "Erythema of the right breast that recurred multiple times, progressing to swelling and cellulitis.",
+            "changes_over_time": "The initial localized erythema progressed to a state requiring hospitalization and invasive treatment."
+        }
+    ]
+}

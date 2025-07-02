@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Complete right bundle branch block (CRBBB) and normal QT interval (QTc, 435 ms); severe bradycardia (junctional rhythm HR, 30 bpm) with prolonged QT interval (QTc, 480 ms) and repetitive torsade de pointes (TdP); exaggerated QT prolongation by pacing (QTc, 731 ms); normal sinus rhythm with CRBBB and normal QT interval (QTc, 417 ms) after 6 days drug-free; QT prolonged during exercise testing (QTc increased from 408 to 457 ms)",
+            "changes_over_time": "QT interval was substantially shortened the next day after drug withdrawal (QTc, 594 ms) and normalized at the sixth day (QTc, 417 ms)"
+        },
+        {
+            "procedure_name": "Mutational analysis of LQTS-related genes",
+            "date": "Not specified",
+            "findings": "Novel missense mutation (L1825P) identified within the C-terminus region of the cardiac Na/H11001 channel (SCN5A)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Normal left ventricular function and normal coronary arteries.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

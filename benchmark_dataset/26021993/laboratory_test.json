@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EBOV RT-PCR",
+            "date": "Not specified",
+            "findings": "Ct value 21.36, positive.",
+            "changes_over_time": "Initially positive on illness day 9, negative on illness day 21 and day 23."
+        },
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "Illness day 9",
+            "findings": "<2 mmol/L (hypokalemia).",
+            "changes_over_time": "Required 40-80 mEq of potassium chloride. By illness day 15, serum potassium fluctuated between <2.0 - 4.1 mmol/L."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Illness day 9",
+            "findings": "1.3 mg/dL.",
+            "changes_over_time": "Decreased to 1.9 mg/dL by illness day 13."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "Illness day 9",
+            "findings": ">2000 IU/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EBOV RT-PCR",
+            "date": "Not specified",
+            "findings": "Ct value 26, positive.",
+            "changes_over_time": "Initially positive on illness day 4, positive on day 6 (Ct value 34) but normalized by illness day 13 and 15."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Illness day 4",
+            "findings": "12.0 mg/dL.",
+            "changes_over_time": "Decreased to 1.9 mg/dL by illness day 13."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "101 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Lactate Dehydrogenase",
+            "date": "Illness day 7",
+            "findings": "798 IU/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Albumin",
+            "date": "Illness day 7",
+            "findings": "2.4 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm without peaked T waves.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Dipstick",
+            "date": "Not specified",
+            "findings": "Positive for blood.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

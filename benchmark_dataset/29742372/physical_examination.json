@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "pulse": "88 bpm",
+                "blood_pressure": "163/89 mmHg",
+                "respiratory_rate": "18 breaths/minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "confusion": "intermittently confused with nonsensical statements",
+                "eye": "mild photophobia, flat patches of subconjunctival hemorrhage in the left eye",
+                "rash": "diffuse erythematous rash, macular and nonblanching on lower legs and palms/soles, maculopapular and blanching on thighs, abdomen, chest, and arms",
+                "lung": "clear on auscultation but coughing with deep breathing",
+                "edema": "trace edema of the feet without erythema or pain"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

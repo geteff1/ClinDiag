@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) of the head without contrast material",
+            "date": "Approximately 3 months before admission",
+            "findings": "Increased density and possible thickening of the dural and subdural spaces along the frontal lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the brain with gadolinium",
+            "date": "One day before admission",
+            "findings": "Diffuse thicken ing and gadolinium enhancement of the dural surfaces, including the falx and tentorium.",
+            "changes_over_time": "The degree of thickening was slightly less than that seen 2.5 months previously."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the brain and pituitary with and without gadolinium",
+            "date": "Seventh hospital day",
+            "findings": "Diffuse dural thickening and smooth enhancement extending to the sella, with nodular thickening and enhancement of the pituitary stalk and posterior pituitary.",
+            "changes_over_time": "Marked improvement in the pachymeningeal enhancement and thickening after 3 months of corticosteroid therapy."
+        },
+        {
+            "procedure_name": "Thoracic and abdominal CT with contrast medium",
+            "date": "One day before admission",
+            "findings": "Large, calcified lymph nodes in the mediastinum and right hilum, parenchymal calcification in the right lung, and punctate calcifications in the spleen and liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

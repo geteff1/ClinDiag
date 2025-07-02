@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "4 weeks before admission",
+            "findings": "Minimal, confluent periventricular signal hyperintensity and scattered focal subcortical signal hyperintensity in both cerebral hemispheres, with mild ventricular prominence.",
+            "changes_over_time": "Retrospectively, MRI of the head performed at the time of the first admission showed subtle signal hyperintensity in the striatum and thalami on T2-weighted FLAIR images as well as on diffusion-weighted images. During the second admission, imaging showed mild signal hyperintensity in the bilateral basal ganglia and thalami, especially in the caudate nuclei."
+        },
+        {
+            "procedure_name": "Combined positron-emission tomography and computed tomography (PET-CT)",
+            "date": "Not specified.",
+            "findings": "No abnormal FDG uptake.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

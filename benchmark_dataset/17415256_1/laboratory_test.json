@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit of 22.7 percent on postoperative day 0, increased to 30.6 percent after treatment with 4 units of packed red blood cells.",
+            "changes_over_time": "Hematocrit increased from 22.7 percent to 30.6 percent."
+        },
+        {
+            "procedure_name": "Systolic Blood Pressure",
+            "date": "Not specified",
+            "findings": "Systolic blood pressures between 80 and 95 mmHg initially, elevated to 120 to 130 mmHg after treatment with blood cells.",
+            "changes_over_time": "Systolic blood pressure increased from 80-95 mmHg to 120-130 mmHg."
+        },
+        {
+            "procedure_name": "Urine Output",
+            "date": "Not specified",
+            "findings": "Initially low urine output, improved after treatment with packed red blood cells.",
+            "changes_over_time": "Urine output increased after blood transfusion."
+        }
+    ]
+}

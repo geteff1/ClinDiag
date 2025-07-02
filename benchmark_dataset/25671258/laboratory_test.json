@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "Enlarged right common iliac, external iliac, and inguinal lymph nodes. The largest node showed increased 18F-FDG avidity.",
+            "changes_over_time": "On follow-up imaging studies, 3 weeks before this evaluation, the inguinal lymph nodes had decreased in size; the largest node was now 2.0 cm by 0.6 cm and no longer showed increased FDG avidity."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy specimens reportedly revealed evidence of recurrent ALCL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

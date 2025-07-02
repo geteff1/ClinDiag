@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "ST-segment elevation in the anteroseptal leads and negative T waves in the anterolateral leads.",
+            "changes_over_time": "Electrocardiogram was normal after 3 months."
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone (TSH) Test",
+            "date": "Not specified",
+            "findings": "TSH concentration was 146 mU/L (normal < 5 mU/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine Phosphokinase Test",
+            "date": "Not specified",
+            "findings": "Total serum creatine phosphokinase was elevated at 744 U/L.",
+            "changes_over_time": "Creatine phosphokinase had returned to normal after 3 months."
+        },
+        {
+            "procedure_name": "Creatinine Clearance Test",
+            "date": "Not specified",
+            "findings": "Initial creatinine clearance was 66 mL/min.",
+            "changes_over_time": "Increased to 102 mL/min after 3 months."
+        }
+    ]
+}

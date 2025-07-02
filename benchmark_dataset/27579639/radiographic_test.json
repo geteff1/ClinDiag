@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Wedge-shaped opacity in the right lower lobe with air bronchograms.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the head",
+            "date": "Not specified",
+            "findings": "No mass, hemorrhage, or infarct.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI of the head",
+            "date": "Not specified",
+            "findings": "No evidence of an acute infarct.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Consolidation within the right lower lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron-emission tomography (PET)",
+            "date": "Not specified",
+            "findings": "Intensely 18F-fluorodeoxyglucose (FDG)–avid right lower-lobe mass, moderately FDG-avid mediastinal lymphadenopathy, and an FDG-avid left adrenal gland.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced MRI",
+            "date": "Not specified",
+            "findings": "Multiple foci of leptomeningeal enhancement around both frontal lobes, in the posterior fossa, and along the brain stem.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

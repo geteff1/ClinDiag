@@ -1,0 +1,83 @@
+{
+    "physical_examinations": [
+        {
+            "date": "75 days after delivery",
+            "vital_signs": {
+                "weight": "2250 g",
+                "length": "46 cm",
+                "growth_measurement": {
+                    "length": "51 cm"
+                }
+            },
+            "relevant_findings": {
+                "physical_examination": [
+                    "umbilical hernia",
+                    "severe hypotonia",
+                    "large posterior fontanel",
+                    "hoarse cry",
+                    "dry skin",
+                    "epicanthus"
+                ],
+                "hormonal_tests": {
+                    "TSH": {
+                        "basal": "3.4 mU/L",
+                        "peak": "4.8 mU/L",
+                        "response_impaired": true
+                    },
+                    "serum_TSH": "normal",
+                    "autoantibodies": "absent"
+                },
+                "imaging_results": {
+                    "pituitary_gland": "hyperplastic",
+                    "thyroid_gland": "hypoplastic"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "21 months",
+            "vital_signs": {
+                "height": "78 cm"
+            },
+            "relevant_findings": {
+                "sella_computed_tomography": "completely normalized pituitary size",
+                "hormonal_tests": {
+                    "GH_response": {
+                        "basal": "2.0 mg/L",
+                        "peak": "10.0 mg/L"
+                    },
+                    "PRL": {
+                        "basal": "294 mU/L"
+                    }
+                }
+            },
+            "changes_over_time": "Normal thyroid hormone levels were noted at this stage; no previous measurement for comparison."
+        },
+        {
+            "date": "7 years",
+            "vital_signs": {
+                "growth": {
+                    "height_percentile": "third percentile",
+                    "bone_age": "delayed by about 1 year"
+                },
+                "intelligence_quotient": "65"
+            },
+            "relevant_findings": {
+                "neuromotor_improvement": "noted",
+                "hearing_function": "normalized"
+            },
+            "changes_over_time": "Neuromotor delay improved, but neurological conditions remained impaired."
+        },
+        {
+            "date": "8 years (6 weeks after L-T4 withdrawal)",
+            "vital_signs": {
+                "TSH_levels": "highly variable"
+            },
+            "relevant_findings": {
+                "TSH_response_to_TRH": "impaired",
+                "serum_a-GSU": "extremely elevated"
+            },
+            "changes_over_time": "TSH levels fluctuated significantly post-treatment withdrawal."
+        }
+    ]
+}

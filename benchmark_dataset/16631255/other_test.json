@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Irradiation",
+            "date": "August 1984",
+            "findings": "Irradiation of the right eye with 8 mega electron volts administered with a total dose of 45 Gy in 15 fractions of 3 Gy over 5 weeks.",
+            "changes_over_time": "Developed proliferative radiation retinopathy with cotton-wool spots, cystoid macular edema, and intraretinal and vitreous hemorrhages."
+        },
+        {
+            "procedure_name": "Trans–pars plana vitrectomy",
+            "date": "May 1986",
+            "findings": "Removal of vitreous hemorrhages with endolaser photocoagulation and freeze-thaw cryocoagulation applied to tumors.",
+            "changes_over_time": "Resulted in visual acuity improvement to 1.0."
+        },
+        {
+            "procedure_name": "Neodymium:yttrium–aluminum–garnet laser capsulotomy",
+            "date": "September 1989",
+            "findings": "Marked fibrotic after-cataract with Elschnig’s pearls.",
+            "changes_over_time": "Performed to address growing retinoblastomas."
+        },
+        {
+            "procedure_name": "AC tap",
+            "date": "August 1992",
+            "findings": "Specimen showed retinoblastoma cells; IOP measured at 28 mmHg.",
+            "changes_over_time": "Pseudohypopyon was seen to rise to 2.2 mm; VA decreased to 0.63."
+        },
+        {
+            "procedure_name": "Second Irradiation",
+            "date": "March 1993",
+            "findings": "Irradiation for the second time with a total dose of 45 Gy.",
+            "changes_over_time": "Increased pseudohypopyon height and worsening of visual acuity due to recurrent vitreous hemorrhages."
+        },
+        {
+            "procedure_name": "Enucleation",
+            "date": "February 1995",
+            "findings": "Histopathology showed microcellular retinoblastoma cells in the anterior chamber angle and trabecular meshwork.",
+            "changes_over_time": "Performed due to tumor recurrences and increasing IOP."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "10 Apr 2002",
+            "vital_signs": "AST level: 26 U/L",
+            "relevant_findings": "Baseline laboratory work revealed normal complete blood cell count and differential, normal urate level.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 July 2002",
+            "vital_signs": "AST level: 162 U/L",
+            "relevant_findings": "Rifampin-pyrazinamide therapy was stopped; patient was asymptomatic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "19 Aug 2002",
+            "vital_signs": "AST level: 1757 U/L, Total bilirubin level: 63 mmol/L, Prothrombin time: 1.3",
+            "relevant_findings": "Patient began complaining of fatigue, nausea, and myalgias.",
+            "changes_over_time": "Worsening of symptoms and liver enzyme levels."
+        },
+        {
+            "date": "23 Aug 2002",
+            "vital_signs": "AST level: 2243 U/L, Total bilirubin level: 159 mmol/L, Prothrombin time: 1.6",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Continued worsening of liver enzyme levels."
+        },
+        {
+            "date": "4 Sep 2002",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Liver transplantation performed.",
+            "changes_over_time": "Patient's condition progressed to liver failure prior to transplantation."
+        }
+    ]
+}

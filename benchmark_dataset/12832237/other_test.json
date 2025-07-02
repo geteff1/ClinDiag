@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Emergency Psychiatric Evaluation",
+            "date": "Not specified",
+            "findings": "Mr. B exhibited severe mood lability, minimal sleep (4-5 hours per night), irritability, and reported ideations of conspiracy against him.",
+            "changes_over_time": "Mr. B improved minimally during hospitalization but remained non-compliant with medications upon discharge."
+        },
+        {
+            "procedure_name": "Probable Cause Hearing",
+            "date": "Not specified",
+            "findings": "At the hearing, Mr. B showed minimal improvement and expressed willingness for outpatient treatment.",
+            "changes_over_time": "Despite concerns from the hospital staff about Mr. B's stability, the court ruled for his discharge."
+        },
+        {
+            "procedure_name": "Involuntary Hold (Section 5250)",
+            "date": "Not specified",
+            "findings": "Mr. B was deemed to be a 'danger to others' and 'gravely disabled' based on his mental illness.",
+            "changes_over_time": "After 14 days under this hold, he stabilized and no longer met criteria for involuntary hospitalization."
+        }
+    ]
+}

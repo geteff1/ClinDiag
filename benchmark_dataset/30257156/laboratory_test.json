@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "10 Mo before Presentation",
+            "findings": "42.1% (normal range: 36–46)",
+            "changes_over_time": "Decreased to 39.5% on Presentation"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "10 Mo before Presentation",
+            "findings": "14.1 g/dL (normal range: 12–16)",
+            "changes_over_time": "Decreased to 13.1 g/dL on Presentation"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "10 Mo before Presentation",
+            "findings": "9430 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased to 13,500 per mm3 on Presentation"
+        },
+        {
+            "procedure_name": "Eosinophils",
+            "date": "On Presentation",
+            "findings": "19.5% (normal range: 0–8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "10 Mo before Presentation",
+            "findings": "177 U/liter (normal range: 30–100)",
+            "changes_over_time": "Decreased to 119 U/liter on Presentation"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "10 Mo before Presentation",
+            "findings": "62 U/liter (normal range: 7–33)",
+            "changes_over_time": "Decreased to 17 U/liter on Presentation"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "10 Mo before Presentation",
+            "findings": "40 U/liter (normal range: 9–32)",
+            "changes_over_time": "Decreased to 19 U/liter on Presentation"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "10 Mo before Presentation",
+            "findings": "4.4 g/dL (normal range: 3.3–5.0)",
+            "changes_over_time": "Slightly decreased to 4.3 g/dL on Presentation"
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "On Presentation",
+            "findings": "5.6% (normal range: 4.3 to 6.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carcinoembryonic antigen",
+            "date": "After Colonoscopy",
+            "findings": "2.2 ng/mL (normal range: <3.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interferon-γ release assay for Mycobacterium tuberculosis",
+            "date": "Two days after initial visit",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "128/74 mm Hg",
+                "pulse": "66 bpm",
+                "weight": "66.7 kg",
+                "height": "165.1 cm"
+            },
+            "relevant_findings": {
+                "thyroid_nodule": {
+                    "size": "42 mm by 32 mm by 26 mm",
+                    "characteristics": "heterogeneous, hypoechoic with lobulated margins and scattered central calcification",
+                    "location": "midpole of the right lobe"
+                },
+                "firm_mass": {
+                    "size": "40 mm",
+                    "location": "right lobe of the thyroid"
+                },
+                "systolic_murmur": "Grade 2/6 heard at the apex",
+                "lymph_nodes": "No palpable lymphadenopathy initially, single palpable lymph node noted later"
+            },
+            "changes_over_time": {
+                "lymphadenopathy": "Cervical lymphadenopathy noted later with abnormal architecture and microcalcifications",
+                "thyroid_nodules": "Ultrasonography revealed two thyroid nodules with calcifications"
+            }
+        }
+    ]
+}

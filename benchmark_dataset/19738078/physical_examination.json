@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "146/74 mm Hg",
+                "pulse": "68/min",
+                "weight": "237 lb (106.6 kg)",
+                "height": "5 ft, 4 in (162.5 cm)"
+            },
+            "relevant_findings": {
+                "distal_strength": "Normal in the legs and feet",
+                "reflexes": "2+ at the knees and trace at both ankles",
+                "Babinski_signs": "Absent",
+                "sensation": "Graded reduction in pinprick and cold sensation in both feet, normalizing at mid-shins bilaterally",
+                "vibration": "Reduced to 2 to 3 seconds in the great toes but normal proximally",
+                "joint_position_sense": "Intact in both feet",
+                "gait": "Narrow-based, Romberg sign absent"
+            },
+            "changes_over_time": "Neuropathic symptoms have worsened over the years, with bilateral pain, numbness, and cramping in feet."
+        }
+    ]
+}

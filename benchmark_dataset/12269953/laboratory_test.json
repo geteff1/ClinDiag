@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Skin prick test (SPT)",
+            "date": "Not specified",
+            "findings": "Positive to egg white, egg yolk, ovomucoid, wheat flour, barley flour, Dermatophagoides pteronyssinus, D. farinae, G. fusca, L. destructor, T. putrescentiae, cockroach; negative to pollen, molds, cat and dog dander, canary and pigeon feathers, ovalbumin, and rye flour.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total serum IgE",
+            "date": "Not specified",
+            "findings": "1142 kU/l. IgE antibodies were detected to egg white (2.07 kU/l), egg yolk (0.86), ovomucoid (2.26), wheat flour (3.21), barley flour (1.95), alpha-amylase (0.39), lysozyme (2.05), D. pteronyssinus (5.60), D. farinae (5.48), L. destructor (3.70), and T. putrescentiae (5.58); negative to ovalbumin and to canary and pigeon feathers.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "Not specified",
+            "findings": "FVC of 105%, FEV1 of 94%, FEV1/FVC of 93%, FEF25-75 of 64%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchial challenge test to lysozyme",
+            "date": "Not specified",
+            "findings": "Elicited an early asthmatic response (22% fall in FEV1 in 10 min).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchial challenge test to alpha-amylase",
+            "date": "Not specified",
+            "findings": "Elicited an early asthmatic response (24% fall in FEV1 in 20 min).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Prominent areas of low attenuation in both hemispheres, without contusions or hemorrhage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Diffuse leptomeningeal enhancement, extensive asymmetric hyperintensity on T2-weighted and fluid-attenuated inversion recovery (FLAIR) images of the subcortical and deep white matter of the cerebral hemispheres, basal ganglia, and dorsal pons.",
+            "changes_over_time": "MRI performed 4 months later revealed extensive diffuse signal abnormality within the white matter, with some areas of improvement but new abnormalities in other areas."
+        },
+        {
+            "procedure_name": "Follow-up MRI of the head",
+            "date": "Not specified",
+            "findings": "Resolution of pachymeningeal enhancement but persistence of extensive confluent signal abnormalities in the white matter of both hemispheres.",
+            "changes_over_time": "MRI performed 2 years after initial examination revealed progression of white-matter signal abnormalities, with more extensive involvement of the cerebrum and especially the contents of the posterior fossa."
+        },
+        {
+            "procedure_name": "MRI of the head after treatment",
+            "date": "Not specified",
+            "findings": "Multifocal regions of hyperintense T2-weighted and FLAIR signal abnormalities, far less extensive than initial imaging studies.",
+            "changes_over_time": "Most of the white-matter abnormalities had resolved after treatment with glucocorticoids."
+        }
+    ]
+}

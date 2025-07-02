@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Continuous Glucose Monitoring (CGM)",
+            "date": "April 2016",
+            "findings": "Severe hypoglycemia occurred (sensor glucose ≤50 mg/dL) during therapy with pasireotide.",
+            "changes_over_time": "Severe hypoglycemia occurred only during Period C of pasireotide therapy after previously being controlled with DZX."
+        },
+        {
+            "procedure_name": "Instrumental Workup (includes MRI, CT, and Scintigraphy)",
+            "date": "December 2017",
+            "findings": "An 8.0-mm benign insulinoma relapse was identified, characterized as Ki-67 = 1%, WHO grading = G1.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "6- and 9-month follow-up after surgery",
+            "findings": "Altered glucose regulation within the prediabetes range (hemoglobin A1c = 41 mmol/mol).",
+            "changes_over_time": "A progressive increase in prediabetes range was detected at the follow-up visits."
+        }
+    ]
+}

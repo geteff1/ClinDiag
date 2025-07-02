@@ -1,0 +1,208 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 Wk before Admission",
+            "findings": "8100 (normal range: 4500–11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Differential count - Neutrophils",
+            "date": "2 Wk before Admission",
+            "findings": "87% (normal range: 40–70)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Differential count - Lymphocytes",
+            "date": "2 Wk before Admission",
+            "findings": "6% (normal range: 22–44)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "2 Wk before Admission",
+            "findings": "12 mm/hr (normal range: 0–11)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "2 Wk before Admission",
+            "findings": "28.9 sec (normal range: 21.0–33.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "2 Wk before Admission",
+            "findings": "16.0 sec (normal range: 11.0–13.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "2 Wk before Admission",
+            "findings": "136 mmol/liter (normal range: 135–145)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "2 Wk before Admission",
+            "findings": "4.6 mmol/liter (normal range: 3.4–4.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "2 Wk before Admission",
+            "findings": "105 mmol/liter (normal range: 100–108)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "2 Wk before Admission",
+            "findings": "24 mmol/liter (normal range: 23.0–31.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "2 Wk before Admission",
+            "findings": "21 mg/dl (normal range: 8–25)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "2 Wk before Admission",
+            "findings": "1.3 mg/dl (normal range: 0.60–1.50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "2 Wk before Admission",
+            "findings": "99 mg/dl (normal range: 70–110)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "2 Wk before Admission",
+            "findings": "1.4 mg/dl (normal range: 0.0–1.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Bilirubin",
+            "date": "2 Wk before Admission",
+            "findings": "0.5 mg/dl (normal range: 0.0–0.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "2 Wk before Admission",
+            "findings": "1.2 mmol/liter (normal range: 0.7–1.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "2 Wk before Admission",
+            "findings": "115 U/liter (normal range: 45–115)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "γ-Glutamyltransferase",
+            "date": "2 Wk before Admission",
+            "findings": "129 U/liter (normal range: 8–61)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "2 Wk before Admission",
+            "findings": "236 U/liter (normal range: 110–210)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B-type natriuretic peptide",
+            "date": "2 Wk before Admission",
+            "findings": "1859 pg/ml (normal range: 5–99)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide",
+            "date": "2 Wk before Admission",
+            "findings": "4802 pg/ml (normal range: 0–900)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "d-Dimer",
+            "date": "2 Wk before Admission",
+            "findings": "1020 ng/ml (normal range: <500)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiotensin-converting enzyme",
+            "date": "2 Wk before Admission",
+            "findings": "<5 U/liter (normal range: 8–53)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulins - IgA",
+            "date": "2 Wk before Admission",
+            "findings": "278 mg/dl (normal range: 69–309)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulins - IgG",
+            "date": "2 Wk before Admission",
+            "findings": "1336 mg/dl (normal range: 614–1295)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulins - IgM",
+            "date": "2 Wk before Admission",
+            "findings": "241 mg/dl (normal range: 53–334)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free kappa light chain",
+            "date": "2 Wk before Admission",
+            "findings": "28.2 mg/liter (normal range: 3.3–19.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free lambda light chain",
+            "date": "2 Wk before Admission",
+            "findings": "38.7 mg/liter (normal range: 5.7–26.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ratio of free kappa to free lambda",
+            "date": "2 Wk before Admission",
+            "findings": "0.7 (normal range: 0.3–1.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B-type natriuretic peptide",
+            "date": "On Admission",
+            "findings": "1859 pg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide",
+            "date": "On Admission",
+            "findings": "4802 pg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Echocardiogram",
+            "date": "After 6 weeks of glucocorticoid therapy",
+            "findings": "Left ventricular wall thickness: 17 mm (septum), 13 mm (posterior wall); left ventricular outflow gradient: 77 mm Hg at rest",
+            "changes_over_time": "Decreased thickness from prior measures; gradient remains significant"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Follow-up after mitral-valve surgery",
+            "findings": "Left ventricular wall thickness reduced to 15 mm (septum), 12 mm (posterior wall); mild mitral regurgitation; intracavitary gradient: 16 mm Hg",
+            "changes_over_time": "Thinning of left ventricular wall; gradient improved but still present"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Follow-up assessment of pulmonary pressures",
+            "findings": "Pulmonary arterial pressure: 84 mm Hg; elevated pulmonary-capillary wedge pressure of 22 mm Hg",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

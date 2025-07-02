@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe global left ventricular systolic dysfunction with a left ventricular ejection fraction of 10% and mild left ventricular dilatation; mild mitral, tricuspid, and aortic valvular insufficiency; mild left atrial dilatation (diameter 4.2 cm).",
+            "changes_over_time": "Recovery of systolic function, with a left ventricular ejection fraction of 60% one month after restoration of sinus rhythm."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Corroborated findings of severe left ventricular systolic dysfunction and excluded intracardiac thrombus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrophysiological study",
+            "date": "Not specified",
+            "findings": "Revealed typical atrial flutter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "The absence of delayed enhancement may suggest potential reversibility of left ventricular dysfunction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

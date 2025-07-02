@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Prostate-Specific Antigen (PSA)",
+            "date": "Not specified",
+            "findings": "9.4 ng/mL (high; reference range: 0.0 to 4.0)",
+            "changes_over_time": "Rising levels; 10.7 ng/mL at subsequent examination."
+        },
+        {
+            "procedure_name": "Cytologic Examination of Urine",
+            "date": "Not specified",
+            "findings": "Malignant cells consistent with transitional-cell carcinoma.",
+            "changes_over_time": "Three and a half years prior, found malignant cells; later examinations showed no abnormalities, followed by positive results again."
+        },
+        {
+            "procedure_name": "CT of the Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Circumferential thickening and small irregular filling defects in midportion of the left ureter.",
+            "changes_over_time": "Slight enlargement of the mass noted three months before examination."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen and Creatinine Levels",
+            "date": "Not specified",
+            "findings": "Rising creatinine levels ranging from 1.8 to 2.3 mg/dL (reference range: 0.6 to 1.5).",
+            "changes_over_time": "Creatinine levels began to rise after ileal-interposition surgery."
+        }
+    ]
+}

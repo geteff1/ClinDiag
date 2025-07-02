@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "No evidence of seizure activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Results pending.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of ileocolonic intussusception.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Therapeutic enema",
+            "date": "Not specified",
+            "findings": "Successful reduction of the intussusception.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Pansinusitis with purulent sinusitis",
+            "changes_over_time": "Progressive pansinusitis with bone erosions and multiple bilateral pulmonary infiltrates with pleural effusion developed."
+        },
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "New infiltrates",
+            "changes_over_time": "Infiltrates progressed over time."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Marked improvement in all locations.",
+            "changes_over_time": "Full and sustained resolution of fungal infection was noted upon repeated CT scans."
+        }
+    ]
+}

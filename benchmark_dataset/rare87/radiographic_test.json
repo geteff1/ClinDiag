@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Suspiciously unclear gray-white matter boundary around the left calcarine sulcus.",
+            "changes_over_time": "Initial MRI scans were considered negative at another hospital."
+        },
+        {
+            "procedure_name": "Positron Emission Tomography (PET)",
+            "date": "Not specified",
+            "findings": "Low metabolism in the same area as the MRI finding.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

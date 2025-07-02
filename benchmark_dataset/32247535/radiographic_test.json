@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "OCT B-scan",
+            "date": "10 months after presentation",
+            "findings": "shallow irregular retinal pigment epithelium elevation (SIRE) without evidence of exudation",
+            "changes_over_time": "The area of MNV increased over time, showing measurements of 11.36 mm² at 10 years, 12.02 mm² at 8 years, and 13.70 mm² at 1 year before death"
+        },
+        {
+            "procedure_name": "Fundus auto fluorescence",
+            "date": "Not specified",
+            "findings": "reticular pattern of hypoauto fluorescence, focal hyperauto fluorescence corresponding to drusen, and tiny hypoauto fluorescent dots in the central macula",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color fundus photography",
+            "date": "Not specified",
+            "findings": "inactive subretinal fibrosis in the right eye and angiographic evidence of nonexudative type 1 MNV in the left eye",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescein angiography (FA)",
+            "date": "11 years before death",
+            "findings": "hyperfluorescent spots in the central macula corresponding to MNV and drusen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Near-infrared reflectance (NIR)",
+            "date": "9 years before death",
+            "findings": "visualization of drusen and subretinal drusenoid deposits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultra-wide field imaging",
+            "date": "9.3 years after presentation",
+            "findings": "presence of drusen mostly in peripheral macula and absence of central macular atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

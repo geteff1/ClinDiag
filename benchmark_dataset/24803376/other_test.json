@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Hypocellular condition without dysplastic changes; increased activated phagocytes. Suggested hemophagocytic syndrome (HPS).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reverse Transcription Polymerase Chain Reaction (RT-PCR)",
+            "date": "Not specified",
+            "findings": "Detected viral RNA for both genes (4.6 × 10^2 copies/µg RNA for U60/66 and 5.2 × 10^3 copies/µg RNA for IE1).",
+            "changes_over_time": "Negative status achieved with the patient’s immunological recovery."
+        },
+        {
+            "procedure_name": "Immunostaining",
+            "date": "Not specified",
+            "findings": "Detected IE antigens in a bone marrow sample.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Viral Isolation",
+            "date": "Not specified",
+            "findings": "HHV-6A isolated from the patient’s PBMCs.",
+            "changes_over_time": "Resumption of antiviral treatment improved the patient's HPS; HHV-6A DNA and RNA titers increased during complications but later reduced."
+        }
+    ]
+}

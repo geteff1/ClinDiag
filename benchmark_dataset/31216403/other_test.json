@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Erythematous, granular, hemorrhagic, ulcerated mucosa in the proximal ascending colon and cecum, findings consistent with severe active colitis.",
+            "changes_over_time": "Progressive worsening of clinical symptoms and progressive mucosal inflammation were noted."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy specimens of the ileum and ascending colon showed normal mucosa; a biopsy specimen of the cecum showed evidence of active chronic colitis consistent with Crohn’s disease.",
+            "changes_over_time": "The findings changed to show severe active colitis with marked ulceration in subsequent examinations."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Seven months before current presentation",
+            "findings": "Normal terminal ileum; inflammation primarily in the cecum.",
+            "changes_over_time": "The inflammation was later observed to have deep ulcerations in the right side of the colon upon follow-up."
+        },
+        {
+            "procedure_name": "Fecal Calprotectin Test",
+            "date": "Not specified",
+            "findings": "Fecal calprotectin level was elevated (243 μg per gram initially, later 2144 μg per gram).",
+            "changes_over_time": "Elevated from 243 μg per gram to more than 3000 μg per gram."
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Normal results, but gastric biopsy specimens showed evidence of Helicobacter pylori gastritis.",
+            "changes_over_time": "The gastritis showed near resolution after treatment for H. pylori."
+        },
+        {
+            "procedure_name": "Interferon-γ Release Assay",
+            "date": "Not specified",
+            "findings": "Negative for Mycobacterium tuberculosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan (Abdomen and Pelvis)",
+            "date": "Not specified",
+            "findings": "Thickening and enhancement of the ascending colon, cecum, and terminal ileum, consistent with inflammation.",
+            "changes_over_time": "Findings were noted to have progressive worsening in follow-up imaging leading to surgery."
+        },
+        {
+            "procedure_name": "Bronchoscopy with Bronchoalveolar Lavage",
+            "date": "Not specified",
+            "findings": "Examination of smears for acid-fast bacilli was negative; cultures of a paratracheal lymph node grew Mycobacterium tuberculosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

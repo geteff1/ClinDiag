@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Prolonged QTc interval of 600 ms and polymorphic ventricular tachyarrhythmias were documented.",
+            "changes_over_time": "Initially, the ECG showed sinus rhythm without QTc prolongation; subsequently, a prolonged QTc interval was found that persisted."
+        },
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "A missense mutation (Ala1330Pro) in the SCN5A gene was identified, which was absent in both parents, suggesting a de novo origin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mutation Screening",
+            "date": "Not specified",
+            "findings": "An abnormal migration pattern in exon 23 of the SCN5A gene was identified.",
+            "changes_over_time": "Subsequent analyses confirmed the absence of this mutation in the parents."
+        }
+    ]
+}

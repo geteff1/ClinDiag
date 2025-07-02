@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Urea",
+            "date": "Not specified",
+            "findings": "13.1 mmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "172 µmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Dipstick",
+            "date": "Not specified",
+            "findings": "Negative for blood and protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Unremarkable with no red blood cells or white blood cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound Scan of the Kidneys",
+            "date": "Not specified",
+            "findings": "Left kidney 9.8 cm, right kidney 10.1 cm with increased echogenicity indicative of medical renal disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Ultrasound Scan",
+            "date": "Not specified",
+            "findings": "Diffuse hepatic change consistent with alcoholic hepatic fibrosis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

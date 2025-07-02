@@ -1,0 +1,22 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Left trigeminal neuralgia",
+        "differential_diagnosis": [
+            "Inflammatory processes",
+            "Infectious processes",
+            "Neoplastic processes",
+            "Broken teeth",
+            "Dental caries",
+            "Root abscesses",
+            "Postherpetic facial pain",
+            "Facial trauma",
+            "Fractures of facial bones",
+            "Sinus surgery",
+            "Glossopharyngeal neuralgia",
+            "Vascular causes (e.g., temporal arteritis, migraine)",
+            "Autoimmune disorders",
+            "Atypical facial pain"
+        ],
+        "diagnostic_reasoning": "The patient's symptoms are highly suggestive of typical trigeminal neuralgia: unilateral, paroxysmal, electrical pain confined to the trigeminal distribution with a sensory trigger near the nasolabial fold. MRI findings showed contact between the superior cerebellar artery and the trigeminal nerve, ruling out multiple sclerosis and cerebellopontine-angle tumors."
+    }
+}

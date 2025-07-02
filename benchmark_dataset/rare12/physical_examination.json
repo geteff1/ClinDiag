@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "90/45 mmHg",
+                "heart_rate": "120 bpm",
+                "respiratory_rate": "30 breaths per min",
+                "temperature": "99.0 °F"
+            },
+            "relevant_findings": {
+                "sclerae": "slightly blue",
+                "pupils": "normal",
+                "skull": "soft to palpation",
+                "deformed_limbs": "apparent",
+                "retinal_hemorrhages": "none",
+                "tenderness": "to palpation of the right posterolateral chest wall and right distal humerus without visible bruising",
+                "pigeon_breast_deformity": "not noted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Newborn Hearing Screening Test",
+            "date": "Not specified",
+            "findings": "Failed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABR Testing",
+            "date": "Not specified",
+            "findings": "Profound hearing loss",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Assessments Using Visual Reinforcement Audiometry",
+            "date": "Not specified",
+            "findings": "No discomfort, implant functioned correctly according to neutral response telemetry",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Head Scan",
+            "date": "Age 3",
+            "findings": "Significant progression with loss of cerebral, cerebellar, and brain stem volume (ex vacuo dilatation of ventricles, thin corpus callosum, and abnormal white matter signal)",
+            "changes_over_time": "Showed significant progression"
+        }
+    ]
+}

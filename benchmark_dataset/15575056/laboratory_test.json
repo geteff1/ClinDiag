@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "September 1963",
+            "findings": "Hypercellular with 95 percent myeloperoxidase-positive blast cells, confirming diagnosis of AML without maturation (FAB subtype M1).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "February 2003",
+            "findings": "Hypercellular with 30 percent myeloperoxidase-positive blast cells containing Auer rods, indicating AML subtype M2 with eosinophilia (M2Eo). Cytogenetic evaluation revealed no abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "Week after February 2003",
+            "findings": "Normocellular with 35 percent myeloperoxidase-positive blast cells containing Auer rods, indicating AML subtype M2Eo. Cytogenetic evaluation revealed no abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA mutation analysis (CEBPA)",
+            "date": "At diagnosis (February 2003)",
+            "findings": "Mutation involving deletion of a cytosine residue at nucleotide 212 of CEBPA (212delC) in both Patients III-1 and III-5.",
+            "changes_over_time": "Identical mutation was absent in germ-line DNA and blood samples taken during remission for both patients."
+        },
+        {
+            "procedure_name": "DNA mutation analysis (CEBPA)",
+            "date": "During remission",
+            "findings": "212delC mutation detected in peripheral-blood samples from Patients III-1 and III-5, but the duplication was undetectable in Patient III-1's sample.",
+            "changes_over_time": "Absent from germ-line DNA and not found in any samples from Patients II-3 and III-5."
+        }
+    ]
+}

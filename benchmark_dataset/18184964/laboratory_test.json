@@ -1,0 +1,220 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "27.1% (normal range: 41.0–53.0%)",
+            "changes_over_time": "Decreased from 38.6% three months before admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "8.9 g/dl (normal range: 13.5–17.5 g/dl)",
+            "changes_over_time": "Decreased from 13.3 g/dl three months before admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "9,700 per mm3 (normal range: 4500–11,000 per mm3)",
+            "changes_over_time": "Increased from 3,500 per mm3 three months before admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "145,000 per mm3 (normal range: 150,000–350,000 per mm3)",
+            "changes_over_time": "Increased from 57,000 per mm3 three months before admission."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Not specified",
+            "findings": "104 μm3 (normal range: 80–100 μm3)",
+            "changes_over_time": "Increased from 101 μm3 three months before admission."
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time, activated",
+            "date": "Not specified",
+            "findings": "43.0 sec (normal range: 22.1–34.0 sec)",
+            "changes_over_time": "Decreased from 45.0 sec three months before admission."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "21.5 sec (normal range: 11.1–13.6 sec)",
+            "changes_over_time": "Increased from 17.0 sec three months before admission."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "141 mmol/liter (normal range: 135–145 mmol/liter)",
+            "changes_over_time": "Increased from 137 mmol/liter three months before admission."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "2.9 mmol/liter (normal range: 3.4–4.8 mmol/liter)",
+            "changes_over_time": "Decreased from 4.1 mmol/liter three months before admission."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "113 mmol/liter (normal range: 100–108 mmol/liter)",
+            "changes_over_time": "Increased from 107 mmol/liter three months before admission."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "21.0 mmol/liter (normal range: 23.0–31.9 mmol/liter)",
+            "changes_over_time": "Decreased from 26.1 mmol/liter three months before admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "130 mg/dl (normal range: 70–110 mg/dl)",
+            "changes_over_time": "Increased from 103 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "9 mg/dl (normal range: 8–25 mg/dl)",
+            "changes_over_time": "Increased from 6 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.1 mg/dl (normal range: 0.6–1.5 mg/dl)",
+            "changes_over_time": "Increased from 0.8 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Bilirubin total",
+            "date": "Not specified",
+            "findings": "1.6 mg/dl (normal range: 0.0–1.0 mg/dl)",
+            "changes_over_time": "Decreased from 2.1 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Bilirubin conjugated",
+            "date": "Not specified",
+            "findings": "0.8 mg/dl (normal range: 0.0–0.4 mg/dl)",
+            "changes_over_time": "Decreased from 1.2 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "Not specified",
+            "findings": "5.5 g/dl (normal range: 6.0–8.3 g/dl)",
+            "changes_over_time": "Decreased from 7.9 g/dl three months before admission."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "2.1 g/dl (normal range: 3.3–5.0 g/dl)",
+            "changes_over_time": "Decreased from 3.0 g/dl three months before admission."
+        },
+        {
+            "procedure_name": "Globulin",
+            "date": "Not specified",
+            "findings": "3.4 g/dl (normal range: 2.6–4.1 g/dl)",
+            "changes_over_time": "Decreased from 4.9 g/dl three months before admission."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "6.7 mg/dl (normal range: 8.5–10.5 mg/dl)",
+            "changes_over_time": "Decreased from 7.9 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Phosphorus, inorganic",
+            "date": "Not specified",
+            "findings": "2.9 mg/dl (normal range: 2.6–4.5 mg/dl)",
+            "changes_over_time": "Increased from 2.8 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "0.65 mmol/liter (normal range: 0.7–1.0 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "6.8 mmol/liter (normal range: 0.5–2.2 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "45 U/liter (normal range: 10–40 U/liter)",
+            "changes_over_time": "Decreased from 91 U/liter three months before admission."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "16 U/liter (normal range: 10–55 U/liter)",
+            "changes_over_time": "Decreased from 32 U/liter three months before admission."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "91 U/liter (normal range: 45–115 U/liter)",
+            "changes_over_time": "Decreased from 125 U/liter three months before admission."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "5.6 U/dl (normal range: 1.3–6.0 U/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "38 U/liter (normal range: 3–100 U/liter)",
+            "changes_over_time": "Decreased from 42 U/liter three months before admission."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "118 U/liter (normal range: 60–400 U/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "0.04 ng/ml (normal range: 0–0.4 ng/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis C virus antibody",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis B virus Surface antigen",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis B virus Surface antibody",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunoglobulin IgA",
+            "date": "Not specified",
+            "findings": "1060 mg/dl (normal range: 69–309 mg/dl)",
+            "changes_over_time": "Increased from 1060 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Immunoglobulin IgG",
+            "date": "Not specified",
+            "findings": "2180 mg/dl (normal range: 614–1295 mg/dl)",
+            "changes_over_time": "Increased from 2180 mg/dl three months before admission."
+        },
+        {
+            "procedure_name": "Immunoglobulin IgM",
+            "date": "Not specified",
+            "findings": "214 mg/dl (normal range: 53–334 mg/dl)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

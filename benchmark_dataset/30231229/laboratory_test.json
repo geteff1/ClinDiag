@@ -1,0 +1,134 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasonography of the pelvis",
+            "date": "Not specified",
+            "findings": "Absence of the uterus and cervix; right ovary not visualized; clusters of simple cysts in adnexal region on both sides.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rubella virus IgG antibodies",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Varicella-zoster virus IgG antibodies",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "Negative for Hepatitis B virus surface antigen, HIV types 1 and 2, Hepatitis C virus, HTLV types 1 and 2, Syphilis, and Cytomegalovirus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antimüllerian hormone level",
+            "date": "Not specified",
+            "findings": "Markedly elevated (579 ng/ml; reference range, 0.9 to 9.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "46,XY karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone mineral density test",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "site": "spine",
+                    "T score": "-1.10",
+                    "interpretation": "Borderline low bone mass"
+                },
+                {
+                    "site": "vertebral bodies",
+                    "T score": "-0.20",
+                    "interpretation": "Normal bone mass"
+                },
+                {
+                    "site": "femoral neck",
+                    "T score": "-0.90",
+                    "interpretation": "Normal bone mass"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry",
+            "date": "Not specified",
+            "findings": "Borderline low bone mass in spine, normal in vertebral bodies and femoral neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testosterone level",
+            "date": "Not specified",
+            "findings": "Markedly elevated (877 ng/dl; reference range for women, <50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate level",
+            "date": "Not specified",
+            "findings": "Markedly elevated (692 μg/dl; reference range, 31 to 228)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inhibin B level",
+            "date": "Not specified",
+            "findings": "Markedly elevated (496 pg/ml; reference range, <139 in premenopausal women during the follicular phase)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone level",
+            "date": "Not specified",
+            "findings": "Very low (1.9 IU/liter, 2.1 IU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luteinizing hormone level",
+            "date": "Not specified",
+            "findings": "Moderately high (25.5 IU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estradiol level",
+            "date": "Not specified",
+            "findings": "49 pg/ml and 43 pg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Progesterone level",
+            "date": "Not specified",
+            "findings": "2.15 ng/ml and 1.98 ng/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prolactin level",
+            "date": "Not specified",
+            "findings": "6.4 ng/ml (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin level",
+            "date": "Not specified",
+            "findings": "1.42 μIU/ml (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free thyroxine level",
+            "date": "Not specified",
+            "findings": "1.3 ng/dl (normal)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

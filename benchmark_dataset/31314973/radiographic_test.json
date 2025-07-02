@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT angiography",
+            "date": "Not specified",
+            "findings": "Changes consistent with ischemic stroke in the territory of the right middle cerebral artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of acute ischemic stroke in the territory of the right middle cerebral artery, occlusion of the right middle cerebral artery, acute infarction of the right supramarginal gyrus, angular gyrus, insula, corona radiata, and putamen, with small hemorrhages in the corona radiata and putamen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI",
+            "date": "Not specified",
+            "findings": "Revealed restricted diffusion in the territory of the right middle cerebral artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography",
+            "date": "17 months before current admission",
+            "findings": "Nonvisualization of the right internal carotid artery and some of the right M2 branches.",
+            "changes_over_time": "Changes consistent with chronic infarcts in the territory of the right middle cerebral artery but no acute infarction."
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "At the time of the current admission",
+            "findings": "Evidence of previous infarcts in the territory of the right middle cerebral artery and right external capsule.",
+            "changes_over_time": "No new infarction or hemorrhage."
+        }
+    ]
+}

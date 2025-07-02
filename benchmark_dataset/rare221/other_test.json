@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "EEG demonstrated a slow and irregular rhythm of background and epileptic discharges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "CT showed mild brain atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "MRI revealed that the T2 signal of the bilateral posterior horn of the lateral ventricle was slightly extended.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Two novel variants, c.544_545del and c.230-3C>G, in TPP1 were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Splicing Reporter Minigene assay",
+            "date": "Not specified",
+            "findings": "RT-PCR products showed that the length of the PCR product was shortened in the MT construct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the variants found in WES in the family.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

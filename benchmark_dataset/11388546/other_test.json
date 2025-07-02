@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Left main bronchus was obstructed due to bronchospasm with wheezing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Severe tracheal stenosis was observed. A thick, white mucous plug was identified.",
+            "changes_over_time": "Significant improvement observed after the application of jet ventilation, leading to oxygen saturation levels above 95%."
+        },
+        {
+            "procedure_name": "High-frequency Jet Ventilation",
+            "date": "Not specified",
+            "findings": "Improved oxygenation achieved with SpO2 levels higher than 95% during the procedure.",
+            "changes_over_time": "Before using jet ventilation, SpO2 decreased to unacceptable levels."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Marked bronchospasm occurred, indicating airway obstruction.",
+            "changes_over_time": "The patient required interventions to improve ventilation after initial desaturation."
+        }
+    ]
+}

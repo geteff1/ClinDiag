@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal cardiac silhouette and small bilateral pleural effusions, with no opacities or pulmonary edema.",
+            "changes_over_time": "Pleural effusions had resolved, and no opacities or pulmonary edema had developed."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Asymmetric left ventricular septal hypertrophy (maximal wall thickness, 21 mm) and mild left ventricular enlargement with hyperdynamic systolic function (ejection fraction, 71%). Small areas of late gadolinium enhancement in the midwall, compatible with fibrosis due to hypertrophic cardiomyopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomographic (CT) angiography",
+            "date": "Not specified",
+            "findings": "Segmental and subsegmental pulmonary emboli in the right lower lobe, with no evidence of strain on the right side of the heart or pulmonary infarction. Diffuse thickening of both adrenal glands.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron-emission tomography (PET)–CT",
+            "date": "Not specified",
+            "findings": "Partially calcified, enhancing nodule (1.8 cm in diameter) in the anterior right mediastinum with 18F-fluorodeoxyglucose avidity.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase Level",
+            "date": "Not specified",
+            "findings": "Creatine kinase level was elevated at 516 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine Transaminase (ALT)",
+            "date": "At age 56.0 years",
+            "findings": "ALT levels were within normal limits.",
+            "changes_over_time": "ALT levels have always been within normal limits."
+        },
+        {
+            "procedure_name": "Electromyography and Nerve Conduction Velocity Test (EMG/NCS)",
+            "date": "At age 54.4 years",
+            "findings": "Showed length-dependent sensorimotor axonal neuropathy in the right lower extremity.",
+            "changes_over_time": "At age 54.7 years, repeat EMG confirmed length-dependent, axonal, sensorimotor peripheral neuropathy."
+        },
+        {
+            "procedure_name": "Leukodystrophy Gene Panel",
+            "date": "Not specified",
+            "findings": "Initial testing returned without notable findings.",
+            "changes_over_time": "Research reanalysis at age 54.6 years identified a variant with conflicting interpretations of pathogenicity and an identified deep intronic variant."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Revealed evidence of leukodystrophy with findings of white matter abnormalities, cerebral and cerebellar volume loss, spinal cord atrophy, and vascular anomalies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "At age 52.7 years",
+            "findings": "Did not reveal a cause for fecal incontinence or sphincter dysfunction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anorectal Manometry",
+            "date": "At age 52.6 years",
+            "findings": "Revealed sphincter dysfunction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

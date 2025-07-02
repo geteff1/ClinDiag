@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Mildly hypocellular bone marrow with maturing trilineage hematopoiesis. Immunoperoxidase stains showed no abnormal cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided biopsy",
+            "date": "One week after initial evaluation",
+            "findings": "Slightly hypocellular marrow and a mildly increased number of CD117+ mast cells, including spindle-shaped cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "Not specified",
+            "findings": "Maturing trilineage hematopoiesis and scattered mast cells with occasional atypical spindle-shaped cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG) positron-emission tomography and CT (PET–CT)",
+            "date": "Nine days before current evaluation",
+            "findings": "FDG-avid lesions throughout the axial and appendicular skeleton.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "37.8% (reference range, 41.0 to 53.0)",
+                "erythrocyte sedimentation rate": "74 mm per hour (reference range, 0 to 15)",
+                "tryptase": "20 ng per milliliter (reference range, 2 to 10)",
+                "white-cell count": "Normal",
+                "electrolytes": "Normal",
+                "β2-microglobulin": "Normal",
+                "liver-function tests": "Normal",
+                "serum protein electrophoresis": "Normal",
+                "24-hour urinary histamine": "Normal",
+                "HIV testing": "Negative",
+                "FISH analysis for BCR-ABL": "Negative",
+                "JAK2 V617F mutation": "Not detected",
+                "KIT D816V mutation": "Not detected"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MRI of the lumbar spine",
+            "date": "2 months after initial diagnosis",
+            "findings": "Increase in size and number of lesions throughout the lumbar spine, including a new pathologic compression fracture of L1.",
+            "changes_over_time": "Progression of disease evident with new fractures and increased lesions."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gastroscopy",
+            "date": "Not specified",
+            "findings": "Mucosal hyperemia and friability observed. Multiple biopsy samples were histologically normal.",
+            "changes_over_time": "Second gastroscopic examination six weeks later again showed hyperemia but no focal lesions."
+        },
+        {
+            "procedure_name": "Gastrectomy",
+            "date": "Not specified",
+            "findings": "The stomach was grossly normal. Microscopic foci of intramucosal diffuse carcinoma identified in two adjacent blocks from the gastric cardia.",
+            "changes_over_time": "Seven years later, Subject IV-3 is free of disease, with repeated endoscopic examinations and biopsies of the esophagojejunostomy site revealing no cancer."
+        },
+        {
+            "procedure_name": "Open biopsy",
+            "date": "Not specified",
+            "findings": "Revealed diffuse gastric cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Microscopic examination revealed early diffuse gastric cancer characterized by infiltrates of signet-ring cells.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

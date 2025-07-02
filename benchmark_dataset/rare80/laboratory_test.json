@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "HbA1c of 8.1%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple lesions initially thought to be areas of focal fatty sparing",
+            "changes_over_time": "Follow-up ultrasound in 2021 showed a markedly echogenic and heterogeneous liver. The largest measured adenoma was 13 mm superficially in the left lobe (previously up to 11 mm), with others generally around 6 mm in diameter."
+        },
+        {
+            "procedure_name": "MRI of the liver",
+            "date": "Not specified",
+            "findings": "An enlarged liver with diffuse fat infiltration and multiple numerous focal lesions suggestive of multiple adenomas (adenomatosis)",
+            "changes_over_time": "All MRI scans show no significant interval changes in the number or size of the adenomas."
+        },
+        {
+            "procedure_name": "Genetic testing (methylation studies)",
+            "date": "2019",
+            "findings": "Absence of the paternal allele at 15q11-q13 due to abnormal methylation, suggesting a defect in imprinting.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

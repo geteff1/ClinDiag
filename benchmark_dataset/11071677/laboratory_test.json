@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "34.6% three months before admission, 30.0% on admission",
+            "changes_over_time": "Decreased from 34.6% to 30.0% over three months."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Not specified",
+            "findings": "37 µm³ three months before admission, 36 µm³ on admission",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "3,900 per mm³ three months before admission, 5,300 per mm³ on admission",
+            "changes_over_time": "Increased from 3,900 to 5,300 per mm³ over three months."
+        },
+        {
+            "procedure_name": "Differential count",
+            "date": "Not specified",
+            "findings": "Neutrophils: 47%, Lymphocytes: 39%, Band forms: 0%, Atypical lymphocytes: 0%, Monocytes: 2%, Eosinophils: 3%, Basophils: 1% (three months before admission); not specified at admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "163,000 per mm³ three months before admission, 149,000 per mm³ on admission",
+            "changes_over_time": "Decreased from 163,000 to 149,000 per mm³ over three months."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "223 U/liter three months before admission, 91 U/liter on admission",
+            "changes_over_time": "Decreased from 223 to 91 U/liter over three months."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "31 U/liter at three months before admission, 30 U/liter on admission",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "blood_pressure": "128/68 mm Hg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "15 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "examination": {
+                    "neck": "No lymphadenopathy, normal thyroid",
+                    "cardiovascular": {
+                        "S1": "Normal",
+                        "S2": "Prominent",
+                        "S3": "Absent",
+                        "S4": "Absent",
+                        "systolic_murmur": "Grade 1/6 at the left lower sternal border",
+                        "jugular_venous_pressure": "6 cm above the sternal angle"
+                    },
+                    "lungs": "Clear on auscultation",
+                    "abdomen": {
+                        "distention": "Minimally distended",
+                        "spleen": "Tip palpated below costal margin"
+                    },
+                    "edema": "Pitting edema up to the level of the ankles",
+                    "skin": "No lesions, rash, abnormal pigmentation, or abnormality of the nails",
+                    "musculoskeletal": "Normal tone and bulk",
+                    "neurology": {
+                        "alertness": "Alert, oriented, fluent",
+                        "cranial_nerves": "Intact II through XII",
+                        "muscle_strength": {
+                            "shoulder_abduction": "5/5",
+                            "elbow_flexion_extension": "5/5",
+                            "wrist_flexion_extension": "5/5",
+                            "finger_abduction": "5/5",
+                            "hip_knee_flexion_extension": "4/5",
+                            "ankle_plantar_dorsiflexion": "3/5"
+                        },
+                        "sensation": {
+                            "vibratory": "Decreased, more marked distally",
+                            "proprioception": "Intact",
+                            "pinprick": "Intact",
+                            "temperature": "Intact"
+                        },
+                        "reflexes": {
+                            "biceps": "Diminished",
+                            "triceps": "Diminished",
+                            "brachioradialis": "Absent",
+                            "patellar": "Absent",
+                            "Achilles": "Absent"
+                        },
+                        "coordination": {
+                            "finger_to_nose": "Normal",
+                            "heel_to_shin": "Normal"
+                        },
+                        "gait": "Unsteady and wide-based",
+                        "Romberg_sign": "Present"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

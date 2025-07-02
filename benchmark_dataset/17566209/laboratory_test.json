@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI of the Spine",
+            "date": "Not specified",
+            "findings": "Complex multiple spinal malformations including hemispondylous malformations at multiple contiguous thoracic levels, diastematomyelia at T1–5, and thoracic lipomeningocele at T6–7. Large posterior median bone spur splitting the spinal canal into two halves containing hemicords with their own dural sacs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "Not specified",
+            "findings": "Moderate supratentorial ventricular dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological Examination",
+            "date": "Not specified",
+            "findings": "Confirmed diagnoses of lipomeningocele and dermoid cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Monitoring",
+            "date": "Postoperative days 1-4",
+            "findings": "Intracranial pressure continuously monitored and remained constantly higher than normal. Daily amount of drained CSF was more than 250 ml.",
+            "changes_over_time": "Increased intracranial pressure indicated complications post-surgery."
+        }
+    ]
+}

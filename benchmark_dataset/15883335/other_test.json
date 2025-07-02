@@ -1,0 +1,58 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 40 years",
+            "findings": "Elevated right hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 41 years",
+            "findings": "Elevated left hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 22 years",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 42 years",
+            "findings": "Elevated left hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Myopathic pattern without spontaneous discharges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA analysis",
+            "date": "Not specified",
+            "findings": "Heterozygous for a stop codon mutation in exon 9 (c.757C/H11022T; R253X)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-inactivation studies",
+            "date": "Not specified",
+            "findings": "Random X-inactivation pattern in blood DNA for Patients 1 and 3; skewed X-inactivation patterns observed in non-manifesting carriers",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA transcript analysis",
+            "date": "Not specified",
+            "findings": "c.1354–1G/H11022A caused a deletion of the first 10 bases of exon 13 (c.1354_1363del10bp); predicted frameshift at amino acid F452.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Marked variation in fiber size affecting type I and II myofibers equally; approximately 60-70% of fibers had internalized nuclei with moderate fatty replacement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "April 2000",
+            "findings": "Positive for Ampicillin-sensitive Escherichia coli, leukocytosis (leukocyte count 9 cells/L), neutrophil count 9, platelet count 9.",
+            "changes_over_time": "E. coli was isolated from blood cultures despite 18 days of appropriate antibiotic therapy."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Day 8 of admitting",
+            "findings": "Methicillin-resistant Staphylococcus aureus (MRSA) was isolated from blood culture and a central line tip.",
+            "changes_over_time": "MRSA was isolated again from additional blood cultures over the next 3 weeks, despite ongoing antibiotic therapy."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "5 weeks after hospitalization",
+            "findings": "Pseudomonas aeruginosa was isolated from blood culture.",
+            "changes_over_time": "Pseudomonas aeruginosa grew on 8 separate blood cultures during the next 11 days following the initial infection."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Day 68 after hospitalization",
+            "findings": "Blood cultures positive for Pseudomonas aeruginosa.",
+            "changes_over_time": "Recurrent bacteremia with Pseudomonas aeruginosa after a new TIPS stent placement."
+        }
+    ]
+}

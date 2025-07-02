@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Bilateral hydroureteronephrosis and thickened urinary bladder wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Age 13",
+            "findings": "Bilateral hydronephrosis, bladder trabeculations, an irregular bladder contour, and a thickened bladder wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluoroscopic voiding cystourethrogram (VCUG)",
+            "date": "Not specified",
+            "findings": "Progression of vesicoureteral reflux to grade 4 and a trabeculated urinary bladder contour.",
+            "changes_over_time": "Progression of vesicoureteral reflux from grade 3 on the left side (age 7) to grade 4."
+        }
+    ]
+}

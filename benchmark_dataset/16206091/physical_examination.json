@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "September 2004",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "cachexia": "Not specified",
+                "CD4_cell_count": "318 cells/mL (CD4 cell percentage, 10%)",
+                "HIV_RNA_level": "<75 copies/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One week later",
+            "vital_signs": {
+                "temperature": "39.89°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "CD4_cell_count": "26 cells/mL (CD4 cell percentage, 9%)",
+                "HIV_RNA_level": "1500,000 copies/mL",
+                "dermatomal_zoster": "Present",
+                "respiratory_distress": "Present"
+            },
+            "changes_over_time": "Worsening fatigue and myalgia, developed new fever and dermatomal zoster."
+        },
+        {
+            "date": "2 weeks after resuming antiretroviral therapy",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "CD4_cell_count": "294 cells/mL",
+                "HIV_RNA_level": "<75 copies/mL"
+            },
+            "changes_over_time": "Improvement in HIV RNA level and CD4 cell count after resuming therapy."
+        }
+    ]
+}

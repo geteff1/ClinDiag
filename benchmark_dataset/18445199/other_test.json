@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin Prick Test",
+            "date": "Not specified",
+            "findings": "Highly positive to wheat flour and alpha-amylase.",
+            "changes_over_time": "Repeated after 6 months revealing the absence of wheal."
+        },
+        {
+            "procedure_name": "Asthma Control Test (ACT)",
+            "date": "Not specified",
+            "findings": "Initial ACT score of 11.",
+            "changes_over_time": "Increased to 25 at the fourth month and persisted without any change."
+        },
+        {
+            "procedure_name": "Juniper Asthma Quality of Life Questionnaire",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Remarkable improvement in all individual domains after 6 months of treatment."
+        },
+        {
+            "procedure_name": "Forced Expiratory Volume in 1 second (FEV1)",
+            "date": "Not specified",
+            "findings": "Initial value was 59% of predicted normal.",
+            "changes_over_time": "Progressively increased to reference normal values (up to 98%) after 4 months."
+        }
+    ]
+}

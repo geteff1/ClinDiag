@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "blood_pressure": {
+                    "left_arm": "143/92 mm Hg",
+                    "right_arm": "137/81 mm Hg"
+                },
+                "pulse": "83 to 92 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": {
+                    "ambient_air": "95%",
+                    "oxygen": "100%"
+                }
+            },
+            "relevant_findings": {
+                "jugular_veins": "distended at 6 to 7 cm",
+                "carotid_pulses": "2+ bilaterally, without bruits",
+                "ECG": {
+                    "sinus_rhythm": "89 bpm",
+                    "ST_segment_elevation": "1 mm in leads V2 and V3",
+                    "left_atrial_enlargement": "possible",
+                    "incomplete_right_bundle_branch_block": "present"
+                },
+                "d_dimer_level": "1166 ng/mL",
+                "amylase_level": "134 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "148/74 mm Hg",
+                "pulse": "90-100 bpm"
+            },
+            "relevant_findings": {
+                "ECG": {
+                    "normal_sinus_rhythm": true,
+                    "ST_segment_elevation": "up to 4 mm in leads V3 through V6",
+                    "hyperacute_T_waves": "present in leads V4, V5, and V6",
+                    "ST_segment_depressions": "1 to 1.5 mm in inferior leads"
+                }
+            },
+            "changes_over_time": "Investigations showed episodes of substernal chest pain lasting approximately 5 minutes with complete resolution of ST-segment changes between episodes."
+        },
+        {
+            "date": "Approximately 9 p.m.",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "angiography": {
+                    "left_anterior_descending_coronary_artery": {
+                        "narrowing": "35 mm",
+                        "stenosis": "90%",
+                        "contour": "smooth consistent with intramural hematoma",
+                        "distal_haziness": "consistent with dissection site",
+                        "blood_flow": "grade 2 (TIMI criteria)"
+                    }
+                }
+            },
+            "changes_over_time": "After 48 hours, a second coronary angiogram showed improved blood flow (TIMI grade 3), a shorter segment of stenosis (approximately 25 mm), and resolution of the distal dissection flap."
+        }
+    ]
+}

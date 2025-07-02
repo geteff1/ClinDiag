@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Yale–Brown Obsessive–Compulsive Scale",
+            "date": "Not specified",
+            "findings": {
+                "1 Mo Preop": {
+                    "score": 32,
+                    "obsessions": 15,
+                    "compulsions": 17
+                },
+                "6 Mos Postop": {
+                    "score": 1,
+                    "obsessions": 0,
+                    "compulsions": 1
+                }
+            },
+            "changes_over_time": "OCD symptoms significantly improved from a score of 32 to 1 one month preoperatively to six months postoperatively."
+        },
+        {
+            "procedure_name": "Unified Parkinson’s Disease Rating Scale (UPDRS) III",
+            "date": "Not specified",
+            "findings": {
+                "1 Mo Preop": {
+                    "score": 29
+                },
+                "6 Mos Postop": {
+                    "score": 7
+                }
+            },
+            "changes_over_time": "Motor symptoms of PD improved from a UPDRS III score of 29 to 7 at six months postoperatively."
+        },
+        {
+            "procedure_name": "Unified Parkinson’s Disease Rating Scale (UPDRS) IV",
+            "date": "Not specified",
+            "findings": {
+                "1 Mo Preop": {
+                    "score": 2
+                },
+                "6 Mos Postop": {
+                    "score": 0
+                }
+            },
+            "changes_over_time": "Dyskinesias assessed by UPDRS IV improved from a score of 2 to 0 at six months postoperatively."
+        },
+        {
+            "procedure_name": "Cognitive assessments",
+            "date": "Not specified",
+            "findings": {
+                "Mattis score": {
+                    "1 Mo Preop": 143,
+                    "6 Mos Postop": 141
+                },
+                "Frontal score": {
+                    "1 Mo Preop": 47,
+                    "6 Mos Postop": 48
+                },
+                "Trail Making Test A": {
+                    "1 Mo Preop": "43 secs",
+                    "6 Mos Postop": "32 secs"
+                },
+                "Trail Making Test B": {
+                    "1 Mo Preop": "60 secs",
+                    "6 Mos Postop": "85 secs"
+                }
+            },
+            "changes_over_time": "Cognitive function scores showed little significant change; however, the time on Trail Making Test A decreased while time on Test B increased."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plain-film radiograph of the abdomen",
+            "date": "Not specified",
+            "findings": "Diffuse, mild small-bowel dilatation without a transition point, large bowel not dilated, suggestive of an ileus; extraluminal lucency in the right upper quadrant suggestive of free air.",
+            "changes_over_time": "A second abdominal radiograph obtained 2 days later shows similar findings."
+        },
+        {
+            "procedure_name": "Computed tomographic (CT) scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Prominent small bowel filled with gas and fluid, without a focal obstructing lesion, large bowel not dilated, no free air.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

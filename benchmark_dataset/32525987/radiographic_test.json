@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "2016",
+            "findings": "Slight elevation in fasting serum glucose level of 102 mg/dl (5.7mmol/L), with normal 1- and 2-hour serum glucose values.",
+            "changes_over_time": "A second OGTT performed in 2018 was normal, with an absence of previously observed IFG."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "2018",
+            "findings": "Normal results; fasting glucose of 94 mg/dl (5.2mmol/L), 1-hour glucose of 125 mg/dl (6.9mmol/L), and 2-hour glucose of 63 mg/dl (3.5mmol/L).",
+            "changes_over_time": "Improved glucose tolerance observed from 2016 to 2018 despite elevated HbA1c."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "2020",
+            "findings": "1-hour serum glucose of 241 mg/dl (13.4 mmol/L) and 2-hour glucose of 204 mg/dl (11.3 mmol/L), diagnostic of Type 2 diabetes.",
+            "changes_over_time": "Significant increase in insulin and glucose response indicating altered β-cell function and increased insulin resistance."
+        }
+    ]
+}

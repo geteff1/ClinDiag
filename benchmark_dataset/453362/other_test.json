@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Level Test",
+            "date": "Not specified",
+            "findings": "Initial blood level of phenytoin was 25 µg/ml (normal= 10-20) and of primidone was 36 µg/ml (normal= 15-30).",
+            "changes_over_time": "Repeat blood levels on discharge showed 9 µg/ml of phenytoin and 16 µg/ml of primidone."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Moderate slow wave activity without evidence of an epileptic focus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat Blood Level Test",
+            "date": "Not specified",
+            "findings": "Phenytoin level was 43 µg/ml and primidone level was 6 µg/ml.",
+            "changes_over_time": "Later phenytoin level dropped to 11 µg/ml after dosage adjustment."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "6",
+                "neutrophils_percentage": "36",
+                "lymphocytes_percentage": "51",
+                "red_cell_count": "1",
+                "protein": "46",
+                "glucose": "41"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "0",
+                "protein": "42",
+                "glucose": "62"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR assays",
+            "date": "Not specified",
+            "findings": {
+                "enterovirus": "Negative",
+                "cytomegalovirus": "<100 copies",
+                "herpes_simplex_virus": "Negative",
+                "varicella_zoster_virus": "Negative",
+                "west_nile_virus_RNA": "Negative",
+                "epstein_barr_virus": "<1000 copies",
+                "jc_virus": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Days 1–30",
+            "findings": {
+                "white_cell_count": "17.8",
+                "neutrophils": "17.1",
+                "lymphocytes": "0"
+            },
+            "changes_over_time": "Increasing white cell count from 17.8 on days 1-30 to 25.5 on days 61-91"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Days 31–60",
+            "findings": {
+                "white_cell_count": "22.3",
+                "neutrophils": "18.7",
+                "lymphocytes": "0.4"
+            },
+            "changes_over_time": "Increasing white cell count from 22.3 on days 31-60 to 25.5 on days 61-91"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Days 61–91",
+            "findings": {
+                "white_cell_count": "25.5",
+                "neutrophils": "23.7",
+                "lymphocytes": "0.6"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Days 1–30",
+            "findings": {
+                "aspartate_aminotransferase": "102",
+                "total_bilirubin": "1.4"
+            },
+            "changes_over_time": "Worsening liver function; AST increased from 102 to 300 in days 61–91"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Days 61–91",
+            "findings": {
+                "aspartate_aminotransferase": "300",
+                "total_bilirubin": "19.6"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgG level measurement",
+            "date": "Not specified",
+            "findings": {
+                "IgG": "928"
+            },
+            "changes_over_time": "Decreased from 928 mg/dL (first observation) to 409 mg/dL by days 31-60"
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": "0.61"
+            },
+            "changes_over_time": "Slight increase from 0.61 mg/dL (days 1-30) to 0.78 mg/dL (days 61-91)"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": {
+                "platelet_count": "117"
+            },
+            "changes_over_time": "Decreased from 117 (days 1-30) to 42 (days 61-91)"
+        }
+    ]
+}

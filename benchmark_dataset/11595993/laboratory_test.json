@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Anemia": "Present in 18 (100%) of patients.",
+                "Neutropenia": "Present in 17 (94%) of patients.",
+                "Thrombocytopenia": "Present in 18 (100%) of patients."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": {
+                "Hypertriglyceridemia": "Present in 13 (76%) of 17 patients.",
+                "Hypoalbuminemia": "Present in 14 (82%) of 17 patients.",
+                "Hyperbilirubinemia": "Present in 12 (67%) of 18 patients.",
+                "Elevated ALT": "Present in 11 (61%) of 18 patients.",
+                "Hypofibrinogenemia": "Present in 15 (83%) of 18 patients.",
+                "Prolonged PTT": "Present in 11 (61%) of 18 patients."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "Not specified",
+            "findings": {
+                "CSF pleocytosis": "Observed in 4 (31%) of 13 patients.",
+                "CSF elevated protein": "Observed in 5 (38%) of 13 patients."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": {
+                "Infections Identified": {
+                    "Cytomegalovirus (CMV)": "Detected in urine and lungs of one patient.",
+                    "Epstein-Barr Virus (EBV)": "Detected in two cases, one by elevated IgM and IgG; the other by PCR.",
+                    "Enterovirus": "Cultured from a nasopharyngeal swab in one child.",
+                    "Mycoplasma pneumoniae": "Titer of 1:128 in another child."
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fungal Cultures",
+            "date": "Not specified",
+            "findings": {
+                "Invasive Fungal Infection": {
+                    "Candida species": "Detected as a significant cause of morbidity."
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

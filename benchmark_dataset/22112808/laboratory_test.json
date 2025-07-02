@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcium absorption study",
+            "date": "17 months",
+            "findings": "95% calcium absorption from low-calcium feed; 85% from normal-calcium feed (normal for age: 45.6–62.5%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum calcium test",
+            "date": "10 months",
+            "findings": "15.3 mg/dL (hypercalcemia confirmed)",
+            "changes_over_time": "Decreasing calcium levels over subsequent tests: 16.3 mg/dL at admission to 10.2 mg/dL at 39 months."
+        },
+        {
+            "procedure_name": "24,25-dihydroxyvitamin D measurement",
+            "date": "17 months and 39 months",
+            "findings": "Undetectable levels in proband; mean in controls was 1.60 ng/mL.",
+            "changes_over_time": "Undetectable at both time points."
+        },
+        {
+            "procedure_name": "Serum 25-Hydroxyvitamin D test",
+            "date": "31 months",
+            "findings": "36.8 ng/mL (within normal range: 30–80 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 1,25-dihydroxyvitamin D test",
+            "date": "31 and 39 months",
+            "findings": "Lower levels at 31 (52 pg/mL) and 39 months (20 pg/mL); normal range is 15–75 pg/mL.",
+            "changes_over_time": "Decrease noted over months."
+        },
+        {
+            "procedure_name": "Urine calcium measurement",
+            "date": "Various dates",
+            "findings": "Initial excretion at 16.1 mg/dL decreasing to 6.3 mg/dL at 39 months.",
+            "changes_over_time": "Decreasing urinary calcium over time."
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN) test",
+            "date": "Various dates",
+            "findings": "Range from 18 mg/dL to 21 mg/dL (normal range: 4–19 mg/dL).",
+            "changes_over_time": "Initial increase followed by a decrease at 31 months."
+        }
+    ]
+}

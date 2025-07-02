@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Culture shows fewer than 1000 colony-forming units.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Specific gravity 1.018, pH 6.0; urine dipstick negative for leukocytes, nitrites, protein, blood, glucose, ketones, and urobilinogen. Sediment shows no bacteria, 0 to 1 white cells, no red cells, and no casts per high-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "0.3 mg/dL (27 μmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "11 mg/dL (3.9 mmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radionuclide voiding cystourethrogram",
+            "date": "Not specified",
+            "findings": "Reveals bilateral grade III vesicoureteral reflux.",
+            "changes_over_time": "Follow-up radionuclide voiding cystourethrogram when the patient was 2.5 years of age still showed bilateral grade III vesicoureteral reflux."
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Kidney size is normal.",
+            "changes_over_time": "Normal findings at presentation and follow-up."
+        },
+        {
+            "procedure_name": "Radionuclide renal scan",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

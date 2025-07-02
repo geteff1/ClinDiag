@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "In vitro contracture test (IVCT)",
+            "date": "Not specified",
+            "findings": "Confirmed MH-susceptible diagnosis in the in vitro halothane/caffeine muscle test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase levels",
+            "date": "Not specified",
+            "findings": "Elevated resting creatine kinase levels of 700 U/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase levels",
+            "date": "Not specified",
+            "findings": "Maximal serum creatine kinase elevation of 1655 U/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathologic examination of a muscle biopsy",
+            "date": "3 months after IVCT confirmation",
+            "findings": "Presence of central core disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic screening for MH-related mutations in the RYR1 gene",
+            "date": "Not specified",
+            "findings": "Identified Arg2435His mutation (G7304 3A) in all MH-susceptible family members.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Haplotyping with chromosome 19 microsatellite markers",
+            "date": "Not specified",
+            "findings": "Results proved that a true relationship between the investigated generations was almost certain.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

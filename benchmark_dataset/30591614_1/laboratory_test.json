@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests and alpha-1 antitrypsin phenotype and level",
+            "date": "Not specified",
+            "findings": "Patient 1: Normal alpha-1 antitrypsin phenotype (MM) and level (1.93 g/L), Patient 2: Normal alpha-1 antitrypsin phenotype (MM) and level (1.22 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lung function test",
+            "date": "2003",
+            "findings": "Patient 1: FEV1/FVC = 53%; FEV1 = 2.77 L (73% predicted); FVC = 5.19 L (109% predicted); residual volume = 3.02 L (135% predicted); DLCO = 3.96 mmol/min/kPa (37% predicted). Patient 2: Initially similar to brother, later FEV1 = 0.91 L (25% predicted); DLCO = 3.41 mmol/min/kPa (32% predicted) after 6 years.",
+            "changes_over_time": "Patient 1 showed a steady decline in lung function over 13 years. Patient 2 experienced deterioration leading to exercise limitation at 20 yards."
+        },
+        {
+            "procedure_name": "Urinary cadmium level",
+            "date": "Not specified",
+            "findings": "Both patients had normal urinary cadmium levels (<0.3 mcg/g creatinine).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

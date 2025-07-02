@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffuse enlargement of the spinal cord, extending from the level of C2 to T10; consistent with a diffuse inflammatory process such as myelitis.",
+            "changes_over_time": "Repeated MRI on day 2 of admission revealed decreased edema."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "No evidence of acute hemorrhage.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

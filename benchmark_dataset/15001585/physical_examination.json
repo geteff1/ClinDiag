@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "physical_examination": {
+                    "gender_appearance": "feminized with no facial hair and scant axillary and pubic hair",
+                    "genital_examination": {
+                        "microphallus": "stretched penile length, 2 cm",
+                        "testicular_size": {
+                            "right": "1 ml (prepubertal)",
+                            "left": "4 ml (prepubertal)"
+                        },
+                        "scars": "bilateral scars from mammoplasty"
+                    }
+                },
+                "indications_of_hypogonadism": [
+                    {
+                        "description": "Undervirilization",
+                        "confirmation": "severe"
+                    },
+                    {
+                        "description": "gynecomastia",
+                        "confirmation": "prominent bilateral"
+                    }
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-MI (exact date not specified)",
+            "vital_signs": {
+                "testosterone": "28 ng/dl",
+                "dihydrotestosterone": "3.4 ng/dl",
+                "estradiol": "less than 50 pg/ml",
+                "LH": "less than 1.6 IU/liter",
+                "FSH": "3.1 IU/liter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Hormonal assessment 6 months post-MI showed elevated gonadotropin levels and testosterone in the mid-normal range."
+        },
+        {
+            "date": "6 months post-MI",
+            "vital_signs": {
+                "gonadotropin_levels": "elevated",
+                "testosterone": "in the mid-normal range"
+            },
+            "relevant_findings": {
+                "thyroid_function": "normalized"
+            },
+            "changes_over_time": "Continued low dose of corticosteroid therapy likely contributed to previously observed hypogonadotropic state."
+        }
+    ]
+}

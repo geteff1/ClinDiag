@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "A mass extending 3 cm from the anus to 10 cm, causing a partial obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Initial pathology read as squamous cell carcinoma (SCC); further review indicated basaloid SCC with neuroendocrine features and a Ki67 of 70%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous nephrostomy tube placement",
+            "date": "Not specified",
+            "findings": "Performed to improve hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NGS (Next Generation Sequencing)",
+            "date": "Not specified",
+            "findings": "NGS results showed a t(11;22) EWSR-WT1 translocation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PD-L1 testing",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

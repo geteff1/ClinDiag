@@ -1,0 +1,65 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "White-cell count": "8,100 per mm³",
+                "Neutrophils": "71%",
+                "Lymphocytes": "20%",
+                "Monocytes": "7%",
+                "Eosinophils": "1%",
+                "Basophils": "1%",
+                "Hematocrit": "32.8%",
+                "Hemoglobin": "11.1 g/dL",
+                "Platelet count": "553,000 per mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Thyrotropin": "0.65 µU/mL",
+                "Thyroxine": "1.14 mg/dL (14.67 nmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pericardial Fluid Cytology",
+            "date": "Not specified",
+            "findings": {
+                "Cytologic examination": "Blood and no malignant cells",
+                "Gram's stain": "Red cells but no neutrophils or organisms",
+                "Culture results": "No growth of bacteria"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum Cultures",
+            "date": "Not specified",
+            "findings": {
+                "Smears and cultures": "Negative for acid-fast bacilli and mycobacteria"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT Scan",
+            "date": "Two months after discharge",
+            "findings": {
+                "Mediastinal lymphadenopathy": "Decreased size of anterior lymph nodes",
+                "Nodular opacities": "Two small nodular opacities in the right upper lung zone",
+                "New right pleural effusion": "Present"
+            },
+            "changes_over_time": "Nodular opacities slightly decreased in size compared to previous CT"
+        },
+        {
+            "procedure_name": "Serum Angiotensin-Converting Enzyme Level",
+            "date": "Not specified",
+            "findings": {
+                "Level": "38 U/L (normal range, 7.0 to 46.0)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

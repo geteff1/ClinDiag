@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe prosthetic valve stenosis with peak/mean gradient of 149/98 mm Hg, dimensionless velocity index 0.28, aortic valve area was calculated at 0.8 cm², no aortic valve regurgitation, mild concentric left ventricular hypertrophy with hyperdynamic left ventricular systolic function, and no evidence of pulmonary hypertension.",
+            "changes_over_time": "Rapidly progressive stenosis of a bioprosthesis that was functioning well only 1 year prior."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No evidence of pulmonary edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Confirmed severe bioprosthetic aortic stenosis; no evidence of thrombus, pannus formation, or valvular vegetation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Post-procedure trans-thoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Functioning bioprosthetic aortic valve with peak/mean gradients of 43/27 mm Hg and no regurgitation, left ventricular ejection fraction >70%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Limited aortic root angiography",
+            "date": "Not specified",
+            "findings": "Normal aortic root with mild dilatation; adequate room for transcatheter valve placement; left main coronary artery widely patent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nonselective coronary angiography",
+            "date": "Not specified",
+            "findings": "Left main, left anterior descending, and left circumflex arteries were widely patent.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

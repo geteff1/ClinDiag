@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiogram",
+            "date": "Not specified",
+            "findings": "widened mediastinum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "dilatation of the proximal aorta with a luminal flap; cardiac structure and function were otherwise normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomographic angiogram",
+            "date": "Not specified",
+            "findings": "extensive aortic root dissection, extending from the sinotubular junction to the brachiocephalic trunk, sparing the coronary sinuses and arch branches",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "postoperative magnetic resonance angiography",
+            "date": "Not specified",
+            "findings": "rest of the aorta to be of normal size; diffuse arterial elongations and tortuosities most apparent in the carotid, vertebral, and basilar territories",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

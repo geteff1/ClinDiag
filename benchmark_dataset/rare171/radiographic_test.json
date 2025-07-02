@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusion.",
+            "changes_over_time": "Increasing tendency of pleural effusion despite treatment."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusion, diffuse pleural thickening, and mediastinal lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

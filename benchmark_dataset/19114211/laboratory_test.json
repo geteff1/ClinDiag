@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "Increased to 39 mg/dL from baseline value of 22 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Increased to 1.8 mg/dL from baseline value of 0.9 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "Not specified",
+            "findings": "Peak level measured at 6.1 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mildly dilated left atrium, normal regional left ventricular wall motion, left ventricular ejection fraction of more than 55%, and trivial mitral regurgitation. Unchanged compared with preoperative study.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "'Cove'-type ST elevations and a right bundle branch block noted in precordial leads V1 and V2, characteristic of Brugada pattern.",
+            "changes_over_time": "Normalized 48 hours after the Brugada pattern was noted."
+        }
+    ]
+}

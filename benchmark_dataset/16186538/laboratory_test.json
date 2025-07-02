@@ -1,0 +1,71 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Exercise Test",
+            "date": "Not specified",
+            "findings": {
+                "maximal_workload": {
+                    "value": "80 W",
+                    "normal_range": "234 W (normal value in age-matched men)"
+                },
+                "maximal_oxygen_uptake": {
+                    "value": "18 mL kg/min",
+                    "normal_range": "35 to 45 mL kg/min"
+                },
+                "baseline_plasma_lactate": {
+                    "value": "1.0 to 2.2 mmol/L"
+                },
+                "maximal_exercise_plasma_lactate": [
+                    {
+                        "value": "8.1 mmol/L"
+                    },
+                    {
+                        "value": "11.2 mmol/L"
+                    }
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "histology": "Widespread subsarcolemmal accumulation of mitochondria (SSAM) in more than 5% of muscle fibers, bordering ragged red and blue fibers."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Methylmalonic Acid Measurement",
+            "date": "Not specified",
+            "findings": {
+                "value": "45–147 µmol/L",
+                "normal_range": "0.08–0.28 µmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Methylmalonic Acid Measurement",
+            "date": "Not specified",
+            "findings": {
+                "value": "797 mmol/mol creatinine",
+                "normal_range": "0.0–3.6 mmol/mol creatinine"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Holomutase Activity in Fibroblasts",
+            "date": "Not specified",
+            "findings": {
+                "holomutase_B12_supplemented": {
+                    "value": "55 pmol/min/mg protein",
+                    "normal_range": "271–993 pmol/min/mg protein"
+                },
+                "holomutase_Ado-Cbl_supplemented": {
+                    "value": "88 pmol/min/mg protein",
+                    "normal_range": "585–2,090 pmol/min/mg protein"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

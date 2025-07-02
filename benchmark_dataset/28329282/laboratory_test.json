@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell_count": "6400/µL",
+                "hemoglobin": "10 g/dL",
+                "platelet_count": "143,000/µL",
+                "mean_corpuscular_volume": "103.6 fL"
+            },
+            "changes_over_time": "On the second day, white blood cell count increased to 11,700/µL, hemoglobin dropped to 7.2 g/dL, and platelet count dropped to 48,000/µL."
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "serum_urea_nitrogen": "45 mg/dL",
+                "creatinine": "1.7 mg/dL"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Injury Tests",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "4.3 mg/dL",
+                "alkaline_phosphatase": "79 U/L",
+                "aspartate_aminotransferase": "128 U/L",
+                "alanine_aminotransferase": "36 U/L"
+            },
+            "changes_over_time": "On the second day, total bilirubin increased to 10.4 mg/dL, alkaline phosphatase decreased to 27 U/L, aspartate aminotransferase increased to 1100 U/L, and alanine aminotransferase increased to 270 U/L."
+        },
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "Not specified",
+            "findings": {
+                "lactic_acid": "1.7 mmol/L"
+            },
+            "changes_over_time": "Increased to 5.1 mmol/L on the second day."
+        },
+        {
+            "procedure_name": "Peripheral Blood Smear",
+            "date": "Not specified",
+            "findings": {
+                "parasitemia": "15% based on a 2000-cell count"
+            },
+            "changes_over_time": "Post exchange transfusion, parasitemia decreased to <1%."
+        },
+        {
+            "procedure_name": "Real-time PCR Testing",
+            "date": "Not specified",
+            "findings": {
+                "babesia": "Positive for Babesia divergens–like DNA",
+                "babesia_microti": "Negative"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

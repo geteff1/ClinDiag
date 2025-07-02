@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "101˚F",
+                "neurological_status": "somnolent but arousable"
+            },
+            "relevant_findings": {
+                "left_facial_droop": true,
+                "nystagmus": true,
+                "ataxic_gait": true,
+                "cerebral_edema": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "101˚F",
+                "neurological_status": "Not specified"
+            },
+            "relevant_findings": {
+                "ataxia": true,
+                "left_facial_droop": true,
+                "dizziness": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_side_hearing_loss": true,
+                "left_arm_numbness": true,
+                "tremor_of_left_arm": true,
+                "inability_to_look_left": true
+            },
+            "changes_over_time": "Improvement observed after treatment with intravenous steroid agents."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dysarthria": true,
+                "left_sided_ataxia": true,
+                "diplopia": true,
+                "left_sided_hearing_loss": true,
+                "dysphagia": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "seizure_like_symptoms": true,
+                "left_arm_jerking": true,
+                "loss_of_consciousness": true,
+                "head_turning_to_left": true,
+                "right_hemiparesis": true
+            },
+            "changes_over_time": "Patient remained lethargic and paretic despite continued therapy."
+        }
+    ]
+}

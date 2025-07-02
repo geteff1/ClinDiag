@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Day 1",
+            "findings": "Quantitative analysis showed a lung weight of 2,101.00 g with an excess tissue mass of 1,311.26 g and only 5% normally aerated lung parenchyma.",
+            "changes_over_time": "CT scan taken on day 46 was nearly identical to the scan taken on day 1, showing no significant changes. A whole-lung CT scan on day 55 showed marked improvement in lung aeration."
+        },
+        {
+            "procedure_name": "High-resolution lung CT scan",
+            "date": "Not specified",
+            "findings": "Persistence of diffuse ground-glass opacification, more marked in the lower lobes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4+ T-cell Count",
+            "date": "Not specified",
+            "findings": "Increased from 264 per cubic millimeter to 614 per cubic millimeter (reference range, 348 to 1456)",
+            "changes_over_time": "Increase over the last 19 months"
+        },
+        {
+            "procedure_name": "Cholesterol Level",
+            "date": "1 year before presentation",
+            "findings": "217 mg per deciliter (5.61 mmol per liter; desired reference range, <200 mg per deciliter [5.17 mmol per liter])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglyceride Level",
+            "date": "1 year before presentation",
+            "findings": "278 mg per deciliter (3.14 mmol per liter; reference range, 40 to 150 mg per deciliter [0.45 to 1.69 mmol per liter])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HDL Cholesterol Level",
+            "date": "1 year before presentation",
+            "findings": "29 mg per deciliter (0.75 mmol per liter; reference range, 32 to 100 mg per deciliter [0.83 to 2.59 mmol per liter])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LDL Cholesterol Level",
+            "date": "1 year before presentation",
+            "findings": "132 mg per deciliter (3.41 mmol per liter; desired reference range, <130 mg per deciliter [3.36 mmol per liter])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "12,100 per cubic millimeter (reference range, 4500 to 11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium Level",
+            "date": "Not specified",
+            "findings": "3.2 mmol per liter (reference range, 3.4 to 4.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbon Dioxide Level",
+            "date": "Not specified",
+            "findings": "21.1 mmol per liter (reference range, 23.0 to 31.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphorus Level",
+            "date": "Not specified",
+            "findings": "2.0 mg per deciliter (0.6 mmol per liter; reference range, 2.6 to 4.5 mg per deciliter [0.8 to 1.5 mmol per liter])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin I Level",
+            "date": "Initial presentation",
+            "findings": "Below the cutoff values for myocardial injury (negative)",
+            "changes_over_time": "On the second hospital day, the level was positive"
+        },
+        {
+            "procedure_name": "Creatine Kinase Level",
+            "date": "Second hospital day",
+            "findings": "140 IU per liter (reference range, 40 to 150; CK-MB fraction was positive)",
+            "changes_over_time": "Initial levels of cardiac markers were below the cutoff values"
+        }
+    ]
+}

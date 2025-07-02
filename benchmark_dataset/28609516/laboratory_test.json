@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "General Laboratory Tests",
+            "date": "Not specified",
+            "findings": "Normal blood cell counts; normal renal and hepatic panels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Microscopic hematuria (6-10 red blood cells) and 1+ proteinuria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spot Urine Protein-to-Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "1.17 mg/mg creatinine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum IgA Level",
+            "date": "Not specified",
+            "findings": "Elevated at 465 mg/dL (reference range, 60-413 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

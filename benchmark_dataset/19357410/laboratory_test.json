@@ -1,0 +1,74 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "3 days before admission",
+            "findings": {
+                "Hematocrit": "42.7%",
+                "White-cell count": "4,900 per mm3",
+                "Neutrophils": "65%",
+                "Band forms": "10%",
+                "Lymphocytes": "15%",
+                "Monocytes": "8%",
+                "Basophils": "1%",
+                "Platelet count": "185,000 per mm3"
+            },
+            "changes_over_time": "Increased white cell count to 7,600 per mm3 on admission, with neutrophils rising to 86%."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": {
+                "D-Dimer": "700"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "3 days before admission",
+            "findings": {
+                "Glucose": "163 mg/dL"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine analysis",
+            "date": "3 days before admission",
+            "findings": {
+                "Positive for blood": "4+",
+                "Otherwise negative": true
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "On admission",
+            "findings": {
+                "Glucose": "73 mg/dL",
+                "Protein": "132 mg/dL",
+                "White-cell count": "23 per mm3",
+                "Neutrophils": "5%",
+                "Lymphocytes": "72%"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV-1 Test",
+            "date": "On hospital day 3",
+            "findings": {
+                "HIV RNA": "45.7 million copies/mL",
+                "HIV-1 ELISA": "Weakly positive",
+                "HIV-1 Western blot": "Negative"
+            },
+            "changes_over_time": "The diagnosis of acute HIV-1 infection was established 2 days after discharge."
+        },
+        {
+            "procedure_name": "CD4+ T-cell count",
+            "date": "Not specified after treatment initiation",
+            "findings": {
+                "CD4+ T-cell count": "819 cells/mm3"
+            },
+            "changes_over_time": "Initial count was 432 cells/mm3 during acute infection."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Comprehensive laboratory testing",
+            "date": "Not specified",
+            "findings": "Mostly normal, with the exception of mild anemia and a higher D-dimer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Obvious enlargement of the left heart and right atrium, massive tricuspid regurgitation (14.9 cm2), and elevated pulmonary artery systolic pressure (42 mmHg).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "No pulmonary arterial hypertension with a mean pulmonary artery pressure of 20 mmHg, a pulmonary capillary wedge pressure of 9 mmHg, and a pulmonary vascular resistance of 2.16 Wood.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest computed tomography (CT)",
+            "date": "Approximately 10 months prior to the current admission",
+            "findings": "Compared to the prior CT scan, the abnormal dilated vascular mass in the lower lobe of the right lung showed postoperative change.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Enhanced magnetic resonance imaging (MRI) of the abdomen",
+            "date": "Not specified",
+            "findings": "Revealed multiple hepatic arteriovenous malformations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Full exon high-throughput gene sequencing",
+            "date": "Not specified",
+            "findings": "Detected heterozygous variants of the ACVRL1 gene c.1358del (p.N453T) in exon9, which has pathogenic significance according to biological analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "During subsequent hospitalization",
+            "findings": "Found no clear hemorrhage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

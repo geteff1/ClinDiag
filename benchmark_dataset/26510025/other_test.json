@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thoracentesis",
+            "date": "Not specified",
+            "findings": "Culture of the fluid grew Staphylococcus lugdunensis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "5 days after first admission",
+            "findings": "Erythema in the right bronchus intermedius and bronchus of the right middle lobe, with no endobronchial lesions or secretions. Microbiologic testing and cytologic examination of bronchoalveolar-lavage (BAL) fluid were nondiagnostic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "total protein": "4.0 g/dl",
+                "glucose": "187 mg/dl",
+                "lactate dehydrogenase": "26.5 U/liter",
+                "red-cell count": "5000 per mm3",
+                "total nucleated-cell count": "2170 per mm3, with 77% neutrophils."
+            },
+            "changes_over_time": "Total protein increased to 4.9 g/dl at the second admission."
+        },
+        {
+            "procedure_name": "Fine-needle aspiration biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination showed mixed inflammation with lymphocytes, plasma cells, and neutrophils; microbiologic staining and cultures were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the hip",
+            "date": "Not specified",
+            "findings": "Right superior labral tear with surrounding inflammatory change (2.0 cm by 1.7 cm) along the proximal right iliopsoas muscle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracoscopy and lobectomies",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed evidence of extensive lipoid pneumonia and fibrinous pleuritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytologic examination of pleural fluid",
+            "date": "Not specified",
+            "findings": "Mesothelial cells, histiocytes, lymphocytes, and neutrophils; no malignant cells.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

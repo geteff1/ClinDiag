@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the neck",
+            "date": "Not specified",
+            "findings": "Evidence of degenerative disk disease of the cervical spine and a pulmonary nodule (8 mm in diameter) in the left upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Three months after the initial visit",
+            "findings": "The nodule in the left upper lobe had not changed in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET–CT",
+            "date": "Five months after the initial visit",
+            "findings": "Pulmonary nodule increased in size to 1 cm, tethered to the overlying pleura in the left upper lobe, increased FDG uptake; a contiguous nodule (7 mm) with increased FDG uptake; new nodules in the right middle lobe; intense diffuse FDG uptake in the stomach; wall thickening of terminal ileum and cecum with adjacent inflammatory fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Approximately 9 months after the initial visit",
+            "findings": "Pulmonary lesions were not noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Eleven months after the initial visit",
+            "findings": "Hematoma in the right anterior pararenal space from a subcapsular hematoma in the right kidney; extravasation of blood into the retroperitoneal space; soft-tissue mass at the ileocecal junction had increased in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Thirteen months before this admission",
+            "findings": "Increase in circumferential wall thickening of the terminal ileum and cecum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "11 weeks before this admission",
+            "findings": "Increased diffuse wall thickening of the terminal ileum and cecum, with persistent mesenteric fat stranding and lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "3.5 weeks before this admission",
+            "findings": "Persistent circumferential wall thickening of the terminal ileum and cecum with extensive adjacent fat stranding.",
+            "changes_over_time": "Increased slightly since previous imaging studies."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "On admission",
+            "findings": "Mild interstitial pulmonary edema, small bilateral pleural effusions, confluent opacity in the left lower lobe.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

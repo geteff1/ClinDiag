@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Results of an EEG at that time were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Karyotyping",
+            "date": "Not specified",
+            "findings": "Karyotyping of Mr. A, his brother, and his mother produced a sex-specific normal result for each.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorescent in situ hybridization study",
+            "date": "Not specified",
+            "findings": "A fluorescent in situ hybridization study found no abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Neuropsychological tests",
+            "date": "Not specified",
+            "findings": "Neuropsychological tests showed overall intellectual functioning in the 'extremely low' range.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

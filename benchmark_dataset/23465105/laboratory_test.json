@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 8200 per cubic millimeter (85% neutrophils, 10% lymphocytes, 5% monocytes); Hemoglobin level: 9.7 g/dL; Hematocrit: 29.3%; Mean corpuscular volume: 81 μm3; Platelet count: 333,000 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "30 mm/hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL (normal value, <10.0).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal except for serum albumin level of 2.2 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "22 mg/dL (7.9 mmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (159 μmol/L).",
+            "changes_over_time": "Normalized after treatment."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ protein and 2 to 5 red cells per high-power field; urine sediment showed red-cell casts; 24-hour urine collection revealed 7.6 g of protein.",
+            "changes_over_time": "Urinary protein excretion less than 500 mg in 24 hours post-treatment."
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Test",
+            "date": "Not specified",
+            "findings": "Titer greater than 1:640 with a diffuse pattern.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-dsDNA Antibodies",
+            "date": "Not specified",
+            "findings": "Titer of 1:640.",
+            "changes_over_time": "Decreased to 1:40 after treatment."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Initial and 11 months after presentation",
+            "findings": "Initial: complex mass encasing the mitral valve; mean diastolic mitral gradient of 16 mm Hg. Follow-up: reduction in mass size; mean diastolic gradient decreased to 6.9 mm Hg.",
+            "changes_over_time": "Marked reduction in mass size over 11 months."
+        }
+    ]
+}

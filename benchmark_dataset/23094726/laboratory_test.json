@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose Level",
+            "date": "Not specified",
+            "findings": "30 mg per deciliter (1.7 mmol per liter; reference range, 74 to 106 mg per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Glucose (70 mg per deciliter); otherwise normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose Level",
+            "date": "Day 3 of hospitalization",
+            "findings": "28 mg per deciliter (1.6 mmol per liter)",
+            "changes_over_time": "Decreased from previous 30 mg per deciliter"
+        },
+        {
+            "procedure_name": "Insulin Level",
+            "date": "Day 3 of hospitalization",
+            "findings": "17.3 μU per milliliter (120.1 pmol per liter; reference range, 0 to 29.1 μU per milliliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose Level",
+            "date": "Day of admission",
+            "findings": "86 mg per deciliter (4.8 mmol per liter)",
+            "changes_over_time": "Decreased to 45 mg per deciliter (2.5 mmol per liter) by evening"
+        },
+        {
+            "procedure_name": "Blood Glucose Level",
+            "date": "Not specified",
+            "findings": "Greater than 20.0 ng per milliliter for folate (reference range, 3.1 to 17.5 ng per milliliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol Level",
+            "date": "Not specified",
+            "findings": "27.3 μg per deciliter (753.2 nmol per liter) and 30.4 μg per deciliter (838.7 nmol per liter) 79 and 153 minutes after cosyntropin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Insulin Level",
+            "date": "16 hours into the 72-hour fast",
+            "findings": "11.0 μU per milliliter (76.4 pmol per liter; reference range, 2.6 to 25.0 μU per milliliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Peptide Level",
+            "date": "16 hours into the 72-hour fast",
+            "findings": "2.9 ng per milliliter (1.0 nmol per liter; reference range, 0.9 to 4.3 ng per milliliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "β-Hydroxybutyrate Level",
+            "date": "16 hours into the 72-hour fast",
+            "findings": "0.2 mmol per liter (reference, <0.4)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

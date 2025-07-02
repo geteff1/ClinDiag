@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "June 2000",
+            "vital_signs": {
+                "AST level": "183 U/L",
+                "ALT level": "64 U/L"
+            },
+            "relevant_findings": "Transaminitis with fever and vague abdominal pain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "October 2000",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Afebrile with a soft, non-tender abdomen, no splenomegaly, no ascites, and liver edge palpable 2–3 cm below the costal margin.",
+            "changes_over_time": "Liver function test values remained elevated, and HBV DNA level was 12000 pg/mL."
+        },
+        {
+            "date": "November 2000",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Slightly enlarged right lobe of the liver on ultrasound.",
+            "changes_over_time": "No changes in serological test results for HBV; transaminase levels remained elevated."
+        },
+        {
+            "date": "January 2, 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "HBV DNA suppressed to undetectable level while receiving lamivudine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "July 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "HBV DNA level elevated at 1370 pg/mL after stopping lamivudine therapy.",
+            "changes_over_time": "Transaminase levels remained elevated since July 2001."
+        },
+        {
+            "date": "February 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No changes in serological test results for HBV.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

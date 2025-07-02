@@ -1,0 +1,19 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Subacute methotrexate (MTX) neurotoxicity",
+        "differential_diagnosis": [
+            "Ischemic stroke",
+            "Intracranial hemorrhage",
+            "Mass lesion",
+            "Herpes simplex virus encephalitis",
+            "Acute demyelinating encephalomyelitis (ADEM)",
+            "Postictal paralysis",
+            "Posterior reversible encephalopathy syndrome (PRES)",
+            "Complicated migraine or migraine variant (e.g., hemiplegic migraine)",
+            "Inherited channelopathy (e.g., periodic paralysis)",
+            "Mitochondrial disorders (e.g., mitochondrial encephalopathy with lactic acidosis and stroke-like attacks)",
+            "Conversion reaction"
+        ],
+        "diagnostic_reasoning": "The patient's clinical presentation and recent IT-MTX administration raised concern for MTX neurotoxicity. MRI findings were not consistent with stroke and showed hyperintense signals that do not respect typical vascular territories. As the patient's symptoms began 10 days post-MTX and fluctuated, they aligned with known presentations of subacute MTX neurotoxicity, distinct from typical stroke."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2002",
+            "vital_signs": {
+                "temperature": "37.4 °C",
+                "pulse_rate": "88 bpm",
+                "respiratory_frequency": "24 breaths/min",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "hard_mass": "10 cm in diameter, painless, on left lower ribs",
+                "lung_nodule": "3 cm in diameter in left superior lobe",
+                "other_findings": "Lung, heart, abdomen, arm, and leg examinations normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

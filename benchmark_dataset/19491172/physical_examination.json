@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "124/68 mm Hg",
+                "pulse": "64/min",
+                "respiratory_rate": "Not specified",
+                "temperature": "Afebrile"
+            },
+            "relevant_findings": [
+                "Vesicles on an erythematous base in the right external auditory canal, right mandible, and under the right lip.",
+                "Decreased sensation to light touch with paresthesia and dysesthesia over right V2 and V3.",
+                "Single vesicular lesion inside the right side of her mouth."
+            ],
+            "changes_over_time": "The vesicular lesions erupted and became scabby. By the second visit, the swelling had decreased and a dull feeling was reported in the back of the head and face."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Continued reporting of right facial pain, especially with chewing. Physical examination showed no new abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

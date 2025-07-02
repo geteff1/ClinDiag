@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid Scintiscan",
+            "date": "Not specified",
+            "findings": "Normally shaped hypoplastic gland located in the appropriate anatomical position in the neck.",
+            "changes_over_time": "Did not respond after administration of bovine TSH in terms of 131I uptake, serum thyroid hormones, and thyroglobulin secretion."
+        },
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Homozygous inactivating mutation of the TSH receptor consisting of the substitution of an isoleucine for a threonine at position 477 (T477I).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG (Insulin Hypoglycemia Test)",
+            "date": "Not specified",
+            "findings": "Basal GH concentration increased to 21 ng/mL 60 min after insulin injection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH Testing",
+            "date": "6 months after treatment",
+            "findings": "Serum TSH was within the normal range (2.3 mU/mL) and showed a normal response to TRH challenge (13 mU/mL at 30 min).",
+            "changes_over_time": "At 12 months, serum TSH was undetectable both basally and after TRH administration."
+        },
+        {
+            "procedure_name": "Thyroid Hormone Profile",
+            "date": "A few months before first admission",
+            "findings": "Low total T4 (2.1 mg/dL) and T3 (51 ng/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

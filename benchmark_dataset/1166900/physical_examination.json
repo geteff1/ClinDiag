@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 1972",
+            "vital_signs": {
+                "temperature": "101.2°F (rectally)",
+                "pulse": "140 bpm",
+                "respiration": "25 per minute",
+                "blood_pressure": "110/70 mmHg"
+            },
+            "relevant_findings": {
+                "congestion": "Congested face and conjunctiva",
+                "pupils": "Dilated",
+                "tremor": "Coarse tremor of both hands",
+                "restlessness": "Very restless and sweating profusely"
+            },
+            "changes_over_time": "Initially confused and agitated, hallucinations ceased after medication; improvement noted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F (orally)",
+                "temperature_noon": "100.0°F",
+                "temperature_after": "Normal"
+            },
+            "relevant_findings": {
+                "tenderness": "Slight tenderness at the right costal margin over the liver",
+                "deep_tendon_reflexes": "Hyperactive"
+            },
+            "changes_over_time": "Symptoms including sweating, tremor, and confusion had disappeared."
+        }
+    ]
+}

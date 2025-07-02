@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Spine MRI",
+            "date": "Not specified",
+            "findings": "Abnormal low T1-weighted and T2-weighted signal and high STIR signal of the T7 vertebral body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Loss of the normal trabecular pattern of the T7 vertebra but no cortical destruction.",
+            "changes_over_time": "Showed an expansile lesion with possible sclerotic margins."
+        },
+        {
+            "procedure_name": "Whole-body fluorodeoxyglucose (FDG)-PET scan",
+            "date": "Not specified",
+            "findings": "High metabolic activity in the T7 vertebra; other vertebrae were normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

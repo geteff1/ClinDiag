@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 25%, left ventricular end-diastolic diameter of 6.3 cm, mild mitral regurgitation, mild tricuspid regurgitation.",
+            "changes_over_time": "Ejection fraction unchanged at 25% on echocardiogram 6 months later; however, decreased to 15% at presentation."
+        },
+        {
+            "procedure_name": "right-sided heart catheterization",
+            "date": "Not specified",
+            "findings": "Right atrial pressure of 6 mm Hg, pulmonary artery pressure 38/18 mm Hg, pulmonary capillary wedge pressure of 15 mm Hg, cardiac index of 1.9 L/min/m².",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "cardiopulmonary exercise stress testing",
+            "date": "Not specified",
+            "findings": "Maximal oxygen consumption (V̇O2max) of 10.4 mL/kg/min with a respiratory exchange ratio of 1.1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

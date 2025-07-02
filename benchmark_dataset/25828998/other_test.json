@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": ">100,000 CFU/mL of extended-spectrum β-lactamase (ESBL) –producing E. coli",
+            "changes_over_time": "The susceptibility pattern showed that the trimethoprim-sulfamethoxazole (TMP-SMX) result became susceptible (MIC ≤0.5/9.5 mg/L), whereas cefepime MIC increased to 16 mg/L (resistant)."
+        },
+        {
+            "procedure_name": "Voiding cystourethrography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dimercaptosuccinic acid renal scan",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunodeficiency evaluation",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fecal sample collection",
+            "date": "Sampled at 10 and 19 weeks after the initial sampling",
+            "findings": "Identified 8 different E. coli pulsotypes (strains); ST131 strain 903 was the most shared and persistent.",
+            "changes_over_time": "Strain 903 was consistently detected across all three sampling points."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient alert and oriented only to self; severe naming difficulties; finger agnosia; dyscalculia; right-left disorientation; poor performance on go no-go tasks; motor apraxia; perseveration; anxious and fearful with no delusions or hallucinations; neurologic examination normal except for noted deficits.",
+            "changes_over_time": "Initial SPECT imaging showed left cerebral hemisphere relative hypoperfusion; a follow-up SPECT imaging after treatment showed significant improvement with normalization of relative perfusion."
+        },
+        {
+            "date": "Day 3 of hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "SPECT imaging on day 3 showed relative hypoperfusion throughout the left cerebral hemisphere.",
+            "changes_over_time": "Initial hypoperfusion correlated with clinical findings suggesting HE; follow-up imaging a month later showed normalization."
+        },
+        {
+            "date": "Day 6 of hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Carotid Doppler examination revealed a 27% decrease in flow rate due to stenosis in the region of the left carotid bifurcation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood ammonia 295 g/dL on initial testing; decreased to 135 g/dL after treatment with lactulose.",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Decline in serum ammonia levels after treatment correlated with normalization of mental status and speech abnormalities."
+        }
+    ]
+}

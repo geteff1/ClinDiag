@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "118/65 mm Hg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_appearance": "comfortable",
+                "sclerae": "anicteric",
+                "mucous_membranes": "moist",
+                "oropharynx": "clear",
+                "neck": "supple with full range of motion, no lymphadenopathy",
+                "lungs": "clear on auscultation",
+                "heart": "regular rate and rhythm, normal heart sounds",
+                "abdomen": "soft, without hepatomegaly or splenomegaly",
+                "extremities": "warm and well perfused, no edema",
+                "skin": "no rashes or skin lesions",
+                "neurologic": "cranial nerves, motor strength, sensation, and gait normal",
+                "meningismus_signs": {
+                    "Kernig_sign": "not present",
+                    "Brudzinski_sign": "not present"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two days after presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "rash": "faint pink, morbilli-form rash on the trunk, sparing arms and legs"
+            },
+            "changes_over_time": "The rash appeared two days after initial examination and corresponded with fever and headache, indicating a potential progression of the illness."
+        }
+    ]
+}

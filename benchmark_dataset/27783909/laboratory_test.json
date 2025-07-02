@@ -1,0 +1,120 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": {
+                    "value": 27400,
+                    "normal_range": "4500–11000",
+                    "status": "above normal"
+                },
+                "polymorphonuclear_cells": {
+                    "value": 93.1,
+                    "normal_range": "40–70",
+                    "status": "above normal"
+                },
+                "lymphocytes": {
+                    "value": 2.4,
+                    "normal_range": "22–44",
+                    "status": "below normal"
+                },
+                "hemoglobin": {
+                    "value": 13.7,
+                    "normal_range": "12.0–16.0",
+                    "status": "within normal"
+                },
+                "hematocrit": {
+                    "value": 39.1,
+                    "normal_range": "36.0–46.0",
+                    "status": "within normal"
+                },
+                "platelet_count": {
+                    "value": 335000,
+                    "normal_range": "150000–400000",
+                    "status": "within normal"
+                }
+            },
+            "changes_over_time": {
+                "day_2": {
+                    "white_cell_count": {
+                        "value": 18800,
+                        "status": "decreased from 27400"
+                    }
+                }
+            }
+        },
+        {
+            "procedure_name": "Electrolytes and Renal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "sodium": {
+                    "value": 132,
+                    "normal_range": "135–145",
+                    "status": "below normal"
+                },
+                "potassium": {
+                    "value": 3.5,
+                    "normal_range": "3.4–5.0",
+                    "status": "within normal"
+                },
+                "creatinine": {
+                    "value": 0.56,
+                    "normal_range": "0.60–1.50",
+                    "status": "below normal"
+                }
+            },
+            "changes_over_time": {
+                "day_2": {
+                    "sodium": {
+                        "value": 134,
+                        "status": "increased from 132"
+                    },
+                    "creatinine": {
+                        "value": 0.35,
+                        "status": "decreased from 0.56"
+                    }
+                }
+            }
+        },
+        {
+            "procedure_name": "CA-125",
+            "date": "Not specified",
+            "findings": {
+                "value": 196.1,
+                "normal_range": "0.0–35.0",
+                "status": "above normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Analysis",
+            "date": "Not specified",
+            "findings": {
+                "specific_gravity": {
+                    "value": 1.02,
+                    "status": "within normal"
+                },
+                "leukocyte_esterase": {
+                    "value": "1+",
+                    "status": "positive"
+                },
+                "urobilinogen": {
+                    "value": "2+",
+                    "status": "positive"
+                },
+                "ketones": {
+                    "value": "2+",
+                    "status": "positive"
+                },
+                "sediment": {
+                    "white_cells": {
+                        "value": "20-50",
+                        "status": "elevated"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hemoglobin A1c of 8.8%, total cholesterol 246 mg/dL, LDL cholesterol 163 mg/dL, HDL cholesterol 38 mg/dL, triglycerides 209 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exercise myocardial perfusion imaging stress test",
+            "date": "Not specified",
+            "findings": "Peak heart rate of 150 beats/min, blood pressure response from 148/92 mm Hg to 168/100 mm Hg, ST depressions with T-wave inversions in leads V2 through V4, left ventricular ejection fraction of 61%, moderate-sized reversible perfusion defect involving the anterior wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "80% stenosis in the left anterior descending artery, 80% complex lesion in the left circumflex artery, 60% stenosis in proximal right coronary artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet function testing (VerifyNow P2Y12 assay)",
+            "date": "Not specified",
+            "findings": "Elevated residual platelet reactivity with a PRU of 280 U.",
+            "changes_over_time": "Follow-up testing in 2 weeks confirmed PRU of 147 U."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Troponin T peaked at 5 ng/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase-MB",
+            "date": "Not specified",
+            "findings": "Creatine kinase-MB at 125 ng/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Anterior hypokinesis, estimated ejection fraction of 45%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "brain MRI",
+            "date": "day 21",
+            "findings": "Diffuse multiple cystic and lamellar abnormal signal areas in the left frontal and parietal lobes, low signal in T1-weighted imaging, high signal in T2-weighted imaging, speckled diffusion restriction within the lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cranial CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse hypodensity in the left cerebral hemisphere and bilateral cerebellum, large patchy hypodense area in the left frontoparietal lobe (CT value of 10–15 HU), multiple speckled hyperintensities, widened left ventricle, and additional patchy hyperintensities in the left cerebellar hemisphere.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

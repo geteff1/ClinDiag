@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "14,500 per cubic millimeter (reference range, 4500 to 11,000)",
+                "platelet_count": "Normal",
+                "hematocrit": "32.4% (reference range, 36.0 to 46.0)",
+                "hemoglobin": "10.6 g per deciliter (reference range, 12.0 to 16.0)",
+                "mean_corpuscular_volume": "65 fl (reference range, 80 to 100)",
+                "mean_corpuscular_hemoglobin": "21.3 pg per red cell (reference range, 26.0 to 34.0)",
+                "red_cell_distribution_width": "19.1% (reference range, 11.5 to 14.5)",
+                "c_reactive_protein": "13.2 mg per liter (reference range for evaluation of inflammation, <8)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the Brain",
+            "date": "Not specified",
+            "findings": {
+                "initial_size": "8 mm by 9 mm",
+                "enlarged_size": "1.9 cm by 2.2 cm by 2.8 cm",
+                "description": "Ring-enhancing mass, associated with surrounding T2-weighted signal hyperintensity."
+            },
+            "changes_over_time": "Marked enlargement from the initial study 30 hours earlier"
+        },
+        {
+            "procedure_name": "Proton Magnetic Resonance Spectroscopy",
+            "date": "Not specified",
+            "findings": {
+                "N-acetyl_aspartate_peak": "Decreased",
+                "lactate_doublet": "No definite evidence",
+                "choline_to_creatinine_ratio": "Not markedly elevated"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": {
+                "microbial_isolates": [
+                    "Streptococcus anginosus group",
+                    "Fusobacterium nucleatum"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Dexamethasone Suppression Test (DST)",
+            "date": "Not specified",
+            "findings": "Insufficient suppression of serum cortisol concentration in reaction to 1 mg dexamethasone.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Cell DEX-Binding Assay",
+            "date": "Not specified",
+            "findings": "Alterations in receptor number or ligand affinity and/or the ability of DEX to inhibit mitogen-induced cell proliferation in all patients investigated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR/SSCP Analysis of GR Gene",
+            "date": "Not specified",
+            "findings": "No GR gene alterations were found in the patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endocrine Testing",
+            "date": "Not specified",
+            "findings": "Elevated serum cortisol levels with normal circadian rhythm; insufficient suppression in response to DEX.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mitogen-induced Proliferation Assay",
+            "date": "Not specified",
+            "findings": "Inability of DEX to inhibit mitogen-induced cell proliferation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper gastrointestinal endoscopy",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal initially; repeated endoscopy showed villous atrophy and other findings consistent with collagenous enteritis.",
+            "changes_over_time": "Progressive findings led to the diagnosis of collagenous enteritis."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Diffusion-weighted imaging abnormality in the thalamus bilaterally consistent with Wernicke syndrome.",
+            "changes_over_time": "Clinical resolution of the coma and radiological remission of thalamus abnormalities after treatment."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Villous atrophy of the duodenum, villous atrophy and focal subepithelial fibrosis of the ileum, glandular atrophy, interstitial edema, and interstitial fibrosis of the colon, consistent with collagenous enteritis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

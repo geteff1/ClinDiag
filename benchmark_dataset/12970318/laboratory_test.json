@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Suppressed serum TSH, less than 0.03 µU/ml (normal 0.50–5.70).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T3",
+            "date": "Not specified",
+            "findings": "Elevated serum-free T3 level of 520 pg/dl (normal 220–400).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "Not specified",
+            "findings": "Normal serum-free T4 concentration, 1.12 ng/dl (normal 0.89–1.80).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "Elevated prothrombin time of 15.6 sec (normal range: 11.8–14.7 sec).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "Elevated APTT of 54.5 sec (normal range: 23.4–34.5 sec).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroglobulin (Tg)",
+            "date": "Six weeks post-completion thyroidectomy",
+            "findings": "Serum Tg at that time was 3.7 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH (Case 2)",
+            "date": "Not specified",
+            "findings": "Serum TSH level of 45.9 µU/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroglobulin (Tg) (Case 2)",
+            "date": "Not specified",
+            "findings": "Serum Tg at that time was 6.8 ng/ml (normal 3–40 in subjects with an intact, normally functioning thyroid gland).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

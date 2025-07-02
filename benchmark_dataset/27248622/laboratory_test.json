@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "Deep-vein thrombosis of the left common femoral vein extending into the tibial trunk.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT angiography of the chest",
+            "date": "Not specified",
+            "findings": "Multiple pulmonary emboli in the pulmonary arteries in the left lower lobe and right lower lobe with a small wedge-shaped infarction at the left lung base.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC (complete blood count)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "12,000 per cubic millimeter",
+                "hemoglobin": "12.4 g per deciliter",
+                "platelet_count": "269,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation profile",
+            "date": "Not specified",
+            "findings": {
+                "prothrombin_time": "11.4 seconds",
+                "INR": "1.05",
+                "partial_thromboplastin_time": "27.0 seconds"
+            },
+            "changes_over_time": "Partial-thromboplastin times had been consistently in the therapeutic range during heparin therapy."
+        },
+        {
+            "procedure_name": "Thrombophilia testing",
+            "date": "Not specified",
+            "findings": {
+                "MTHFR": "Heterozygosity for the thermolabile C677T polymorphism, normal homocysteine level.",
+                "protein_C": "Normal",
+                "protein_S": "Normal",
+                "antithrombin_levels": "Normal",
+                "factor_V_Leiden": "Negative",
+                "prothrombin_gene_mutation_G20210A": "Negative",
+                "lupus_anticoagulant_test": "Prolonged dilute Russell’s viper–venom time with positive hexagonal-phase phospholipid neutralization test",
+                "anti-cardiolipin_antibodies": "Negative",
+                "anti-β2-glycoprotein_antibodies": "Negative"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "Five days after thrombolysis",
+            "findings": "Occlusive thrombus from the left common femoral vein to the tibial trunk and popliteal vein, with extension of the clot proximally.",
+            "changes_over_time": "Compared with the ultrasonogram obtained on admission, showed progression."
+        },
+        {
+            "procedure_name": "Repeat ultrasound",
+            "date": "Not specified",
+            "findings": "Nonocclusive deep-vein thrombosis involving the left femoral, popliteal, and calf veins.",
+            "changes_over_time": "Decreased respiratory variability in the Doppler waveforms of the left common and external iliac veins."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Post-thrombolysis platelet count dropped to 153,000 per cubic millimeter.",
+            "changes_over_time": "Returned to the normal range after changing anticoagulation from heparin to argatroban."
+        },
+        {
+            "procedure_name": "Heparin-PF4 enzyme immunoassay",
+            "date": "Not specified",
+            "findings": "Positive, with an optical density of 1.025 (normal, <0.40).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serotonin-release assay",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scans (abdominal and pelvic)",
+            "date": "Not specified",
+            "findings": "Deep-vein thrombosis in the left common, external, and internal iliac veins extending into the common femoral vein.",
+            "changes_over_time": "Compatible with recurrent deep-vein thrombosis."
+        },
+        {
+            "procedure_name": "Follow-up platelet count",
+            "date": "Not specified",
+            "findings": "Remained in the range of 210,000 to 250,000 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "plasma_sodium": "124 mmol/liter (normal range 136–146)",
+                "plasma_potassium": "5.5 mmol/liter (normal range 3.8–5.6)",
+                "plasma_C_reactive_protein_initial": "922 mmol/liter (increasing to 3210 mmol/liter, normal range 0–94)",
+                "plasma_urea_nitrogen": "17.5 mmol/liter (normal range 1.8–5.4)"
+            },
+            "relevant_findings": "Sibling 1 presented with premature pubarche, slight growth acceleration from a sd score of 0 to 1.6 over 5 years, advanced bone age (10.7 yr), pubic hair Tanner stage 3-4 without signs of virilization, and normal female infantile internal genitalia. Sibling 2 revealed no clinical signs of androgen excess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 20 months of age",
+            "vital_signs": {
+                "plasma_sodium": "124 mmol/liter (normal range 136–146)",
+                "plasma_potassium": "6.8 mmol/liter (normal range 3.2–4.7)",
+                "plasma_C_reactive_protein_initial": "1202 mg/liter (increasing to 2448 mg/liter, normal range 0–110)",
+                "plasma_urea_nitrogen": "8.6 mmol/liter (normal range 2.5–7.5)",
+                "basal_plasma_cortisol": "60 nmol/liter"
+            },
+            "relevant_findings": "Sibling 2 had a previous episode resembling sepsis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 10.1 yr of age",
+            "vital_signs": {
+                "serum_estradiol": "48 pmol/liter (normal range 20–35)",
+                "serum_LH": "0.55 IU/liter (normal range 0.5–2)",
+                "serum_FSH": "3.58 IU/liter (normal range 1–6)"
+            },
+            "relevant_findings": "Sibling 1 had breast development (Tanner stage 2) at last examination.",
+            "changes_over_time": "With replacement therapy, bone age control was established; bone age was 10.5 years when sibling 1 was 10.1 years."
+        },
+        {
+            "date": "At 6.2 yr and 6.8 yr",
+            "vital_signs": {
+                "serum_estradiol": "25 pmol/liter (normal range 18–25)",
+                "serum_LH": "less than 0.05 IU/liter (normal range 0.05)",
+                "serum_FSH": "1.3 IU/liter (normal range 0.1–2.5 IU/liter)"
+            },
+            "relevant_findings": "Sibling 2 had completely prepubertal hormone values.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "100/78 mm Hg",
+                "pulse": "38 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "skin": "dry",
+                "abdomen": "tense and distended, no guarding or rebound tenderness"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "112/59 mm Hg",
+                "pulse": "57 bpm",
+                "temperature": "36.1°C"
+            },
+            "relevant_findings": {
+                "behavior": "cooperative, listless, and pale; appeared younger than age",
+                "body_habitus": "muscular and thin, with temporal wasting",
+                "mouth": "dry lips, moist tongue; no dental caries or oral lesions",
+                "abdomen": "distended, tense, and diffusely tender, without rebound or guarding",
+                "extremities": "cool hands and feet",
+                "testes": "both descended, Tanner stage 4; sparse facial hair and no piloerection"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second day after admission",
+            "vital_signs": {
+                "weight": "36.4 kg"
+            },
+            "relevant_findings": {
+                "electrocardiogram": "showed sinus bradycardia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Third day after admission",
+            "vital_signs": {
+                "pulse": "29 to 35 bpm",
+                "temperature": "35.0°C",
+                "blood_pressure": {
+                    "systolic": "104 to 132 mm Hg",
+                    "diastolic": "67 to 80 mm Hg"
+                }
+            },
+            "relevant_findings": {
+                "echocardiogram": "estimated ejection fraction of 64%, evidence of mild mitral and aortic regurgitation",
+                "abdominal_radiographs": "resolution of gastric and small-bowel dilatation"
+            },
+            "changes_over_time": "Bradycardia and orthostatic hypotension slowly improved"
+        },
+        {
+            "date": "Fifteenth day after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "thought_processes": "linear, with poor judgment and insight"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": "Extensive pruritic rash with erythematous papules on the abdomen, trunk, thighs, buttocks, calves, legs, and arms"
+            },
+            "changes_over_time": {
+                "rash": "Gradually remitted under corticosteroid treatment"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "180–200 bpm (fetal heart rate, noted to be slightly tachycardic)",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "infection": "No active infection found in virology and parasitology tests; infectious cause excluded"
+            },
+            "changes_over_time": {
+                "fetal_tachycardia": "Remitted in less than 6 hours"
+            }
+        }
+    ]
+}

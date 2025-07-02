@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "B-scan ultrasonography",
+            "date": "Not specified",
+            "findings": "Right eye B-scan revealed absence of a posterior chamber and membranous lens, shallow anterior chamber, and posterior staphyloma. Left eye scan showed central flat anterior chamber and presence of a posterior chamber.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (USG)",
+            "date": "Not specified",
+            "findings": "Mild hydronephrosis in the right kidney and irregular urinary bladder walls.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

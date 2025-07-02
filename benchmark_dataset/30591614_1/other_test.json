@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lung function testing",
+            "date": "Not specified",
+            "findings": "Patient 1: FEV1/FVC = 53%; FEV1 = 2.77 L, 73% predicted; FVC = 5.19 L, 109% predicted; significant air trapping (residual volume = 3.02 L, 135% predicted); severely reduced gas transfer (DLCO = 3.96 mmol/min/kPa, 37% predicted). Patient 2: FEV1 = 0.91 L (25% predicted); DLCO = 3.41 mmol/min/kPa (32% predicted).",
+            "changes_over_time": "Patient 1: Steady decline in lung function over 13 years; lung transplantation precluded due to significant coronary artery stenosis. Patient 2: Steady deterioration over 6 years leading to exercise limitation."
+        },
+        {
+            "procedure_name": "Alpha-1 antitrypsin phenotype and level testing",
+            "date": "Not specified",
+            "findings": "Normal phenotype (MM) and level (1.93 g/L for Patient 1; 1.22 g/L for Patient 2).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lung transplantation",
+            "date": "August 2016",
+            "findings": "Patient 2 underwent bilateral sequential lung transplant with good physiological recovery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary cadmium levels testing",
+            "date": "Not specified",
+            "findings": "Both patients had normal urinary cadmium levels (<0.3 mcg/g creatinine).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

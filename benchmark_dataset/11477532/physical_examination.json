@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "19 June 2000",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "fever": true,
+                "meningismus": true,
+                "upper_extremity_strength": "normal",
+                "left_leg_paralysis": "flaccid with minimal plantar flexion",
+                "right_leg_strength": "2/5 to 3/5",
+                "ankle_reflex_left": "absent",
+                "ankle_reflex_right": "preserved",
+                "plantar_reflexes": "flexor bilaterally",
+                "sensation": "intact throughout affected limb",
+                "bowel_bladder_symptoms": "none"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "28 June 2000",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "CSF_cells": "18 nucleated cells with 85% lymphocytes",
+                "CSF_protein": "77 g/dL",
+                "CSF_glucose": "86 g/dL",
+                "PCR_results": {
+                    "enterovirus": "negative"
+                }
+            },
+            "changes_over_time": "Right leg strength improved to 2/5 to 3/5, urinary retention resolved."
+        }
+    ]
+}

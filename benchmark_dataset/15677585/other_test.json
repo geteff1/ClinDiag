@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of any abnormalities; technician noted stomach was full.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Free-floating mass that filled the entire stomach and was surrounded by a thin rim of contrast material.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastrotomy",
+            "date": "Not specified",
+            "findings": "Mass found to be a trichobezoar, or hairball, 45 cm long and 8 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scanning electron microscopy",
+            "date": "Not specified",
+            "findings": "Distinguished between hair samples from Emily and her mother based on width and surface scaling patterns.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up tests (abdominal ultrasound or X-rays)",
+            "date": "Biannually after surgery",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

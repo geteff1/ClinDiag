@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Hemoglobin 3.1 g/dL; Hematocrit 10.7%",
+            "relevant_findings": "Poorly nourished child; markedly increased work of breathing; bilateral pulmonary crackles; anasarca; GCMN covering perineum and buttocks with hypertrophic and edematous labia; erosions and shallow ulcerations oozing blood on labia, perianal region, and inner buttocks; bright red blood mixed with liquid stool in diaper.",
+            "changes_over_time": "Labia enlarged and became hypertrophic over time"
+        },
+        {
+            "date": "7 months prior to hospitalization",
+            "vital_signs": "Hemoglobin 5.7 g/dL; Hematocrit 18.9%",
+            "relevant_findings": "Guaiac-positive stools; active bleeding from perianal ulcerations.",
+            "changes_over_time": "The patient continued to experience uncontrolled bleeding and progressive worsening of pruritus."
+        },
+        {
+            "date": "Between hospitalizations",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Uncontrolled bleeding from excoriations in perineal and perianal region; worsening pruritus impairing ability to walk.",
+            "changes_over_time": "Pruritus progressively worsened; labia enlarged and hypertrophic."
+        },
+        {
+            "date": "6-week follow-up after second hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant improvement in pruritus; healing wounds.",
+            "changes_over_time": "Patient's condition improved from significant pruritus and bleeding to healing wounds and reduced pruritus."
+        }
+    ]
+}

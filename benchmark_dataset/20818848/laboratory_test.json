@@ -1,0 +1,80 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Elevated at 140 mm/hr.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Admission",
+            "findings": {
+                "Hematocrit": "19.7%",
+                "Hemoglobin": "7.0 g/dL",
+                "White-cell count": "2000 per mm3",
+                "Platelet count": "80,000 per mm3"
+            },
+            "changes_over_time": "Hematocrit decreased to 15.9%, Hemoglobin decreased to 5.5 g/dL, White-cell count decreased to 1700 per mm3, Platelet count increased to 83,000 per mm3 on 2nd day."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Admission",
+            "findings": "21.2 mg/L",
+            "changes_over_time": "Increased to 23.8 mg/L on 2nd day."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Admission",
+            "findings": "15.6 sec (1.4 INR)",
+            "changes_over_time": "No changes specified."
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "Admission",
+            "findings": "34.5 sec",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Admission",
+            "findings": "772 ng/ml",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "3rd Day",
+            "findings": {
+                "Opening Pressure": "21 cm of water",
+                "White cells": "16 per mm3",
+                "Protein": "50 mg/dL",
+                "Glucose": "90 mg/dL"
+            },
+            "changes_over_time": "Follow-up showed no white cells and a negative cerebrospinal fluid VDRL test after treatment."
+        },
+        {
+            "procedure_name": "Serum Cortisol Level",
+            "date": "4th Day",
+            "findings": "2.7 μg/dL (low)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Rapid Plasma Reagin Test",
+            "date": "Not specified",
+            "findings": "Positive at a titer of 1:2048.",
+            "changes_over_time": "Dropped to 1:64 at follow-up 4 months later."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid VDRL Test",
+            "date": "Not specified",
+            "findings": "Positive at a titer of 1:2.",
+            "changes_over_time": "Negative at follow-up."
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Positive at 1:1280 dilution, speckled pattern.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

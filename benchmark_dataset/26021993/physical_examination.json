@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C (99.9°F)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hypokalemia": "<2 mmol/L",
+                "serum_creatinine": "1.3 mg/dL",
+                "aspartate_aminotransferase": ">2000 IU/mL"
+            },
+            "changes_over_time": "By illness day 13, the patient's intermittent vomiting decreased, diarrhea waned, and energy level increased."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C (97.0°F)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hyperkalemia": "5.9 mmol/L",
+                "blood_urea_nitrogen": "101 mg/dL",
+                "serum_creatinine": "12.0 mg/dL",
+                "aspartate_aminotransferase": "354 IU/mL",
+                "alanine_aminotransferase": "148 IU/mL",
+                "urine_output": "550 mL",
+                "urine_dipstick": "positive for blood",
+                "serum_albumin": "2.4 g/dL",
+                "oxygen_saturation": "92%"
+            },
+            "changes_over_time": "By illness day 12, symptoms improved, fever resolved, and serum creatinine decreased to 1.9 mg/dL and potassium to 4.6 mmol/L."
+        }
+    ]
+}

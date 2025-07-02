@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "57.2 kg (126 lb)",
+                "blood_pressure": "138/88 mm Hg",
+                "pulse": "72 bpm"
+            },
+            "relevant_findings": {
+                "general": "Normal physical examination except for scars from thyroid surgery.",
+                "urinalysis": {
+                    "red_cells": "20 to 50 red cells per high-power field",
+                    "proteinuria": "1+ proteinuria",
+                    "sediment": "Dysmorphic red cells and two cellular casts thought to be red-cell casts."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 weeks and 8 weeks later",
+            "vital_signs": {
+                "blood_pressure": [
+                    "100/60 mm Hg",
+                    "110/60 mm Hg"
+                ]
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Blood pressure decreased from 138/88 mm Hg to 100/60 mm Hg and 110/60 mm Hg."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "renal_biopsy": {
+                    "findings": "Glomeruli normal; focal, mild mesangial hypercellularity; thin glomerular basement membrane with segmental, scalloped zones; reduced Ig3 and Ig5 staining.",
+                    "conclusion": "Consistent with thin basement membrane nephropathy or a carrier state of X-linked Alport’s syndrome."
+                }
+            },
+            "changes_over_time": "Remained well with no evidence of progressive renal disease."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Diabetes mellitus diagnosed in 1960.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure",
+            "date": "Not specified",
+            "findings": "Hypertension diagnosed in 1960.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid profile",
+            "date": "Not specified",
+            "findings": "Type V hyperlipoproteinemia diagnosed in 1960.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychotherapy and medication",
+            "date": "1978 and 1982",
+            "findings": "Treated with psychotherapy and tricyclic antidepressants for nightmares, insomnia, and depressed affect; mild improvement noted.",
+            "changes_over_time": "Largely unsuccessful treatments despite some mild improvements."
+        },
+        {
+            "procedure_name": "Psychotherapy and low-dose trazodone",
+            "date": "July 1983",
+            "findings": "Nightmares ceased immediately after starting trazodone; sleep improved and mood improved slowly over months.",
+            "changes_over_time": "Medication was discontinued after one year."
+        },
+        {
+            "procedure_name": "Various medical evaluations",
+            "date": "1976 onward",
+            "findings": "Health deteriorated over time with several conditions including myocardial infarction and leg ulcers.",
+            "changes_over_time": "Health continued to deteriorate with increasing severity of multiple medical problems post-retirement."
+        }
+    ]
+}

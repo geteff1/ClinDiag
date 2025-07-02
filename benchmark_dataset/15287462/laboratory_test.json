@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Similar-appearing cells in the CSF suggestive of drop metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated a decrease in the size of the lateral ventricles post-surgery.",
+            "changes_over_time": "Several CT scans obtained during the weeks after surgery showed a decrease in lateral ventricle size."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Ten weeks after surgery",
+            "findings": "Revealed hydrocephalus.",
+            "changes_over_time": "Indicated a deterioration in the patient's condition."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "7 Mo before Admission",
+            "findings": "43.8% (normal range: 41.0–53.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin, whole blood",
+            "date": "7 Mo before Admission",
+            "findings": "14.4 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "7 Mo before Admission",
+            "findings": "6,250 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "7 Mo before Admission",
+            "findings": "265,000 per mm3 (normal range: 150,000–350,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "7 Mo before Admission",
+            "findings": "67.4 sec (normal range: 22.1–34.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "7 Mo before Admission",
+            "findings": "14.2 sec (reference: 11.8–14.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Factor VIII",
+            "date": "7 Mo before Admission",
+            "findings": "3% (normal range: 50-200)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "7 Mo before Admission",
+            "findings": "8.7 g/dl (normal range: 6.0–8.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "7 Mo before Admission",
+            "findings": "4.3 g/dl (normal range: 3.3–5.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Globulin",
+            "date": "7 Mo before Admission",
+            "findings": "5.0 g/dl (normal range: 2.6–4.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "7 Mo before Admission",
+            "findings": "14 mg/dl (normal range: 8–25)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "7 Mo before Admission",
+            "findings": "1.2 mg/dl (normal range: 0.6–1.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin, total",
+            "date": "7 Mo before Admission",
+            "findings": "0.6 mg/dl (normal range: 0.0–1.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein",
+            "date": "7 Mo before Admission",
+            "findings": "10.1 ng/ml (normal range: <6.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrinogen",
+            "date": "7 Mo before Admission",
+            "findings": "312 mg/dl (normal range: 150–400)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "d-Dimer ELISA",
+            "date": "7 Mo before Admission",
+            "findings": "2457 ng/ml (normal range: 0–499)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "7 Mo before Admission",
+            "findings": "70 U/liter (normal range: 45–115)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "7 Mo before Admission",
+            "findings": "45 U/liter (normal range: 10–40)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "7 Mo before Admission",
+            "findings": "39 U/liter (normal range: 10–55)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time",
+            "date": "11.5 Wk before Admission",
+            "findings": "92.5 sec",
+            "changes_over_time": "Decreased to 67.4 sec by 7 Mo before admission"
+        },
+        {
+            "procedure_name": "Factor VIII",
+            "date": "11.5 Wk before Admission",
+            "findings": "47%",
+            "changes_over_time": "Increased to 3% by 7 Mo before admission"
+        },
+        {
+            "procedure_name": "Factor VIII inhibitor",
+            "date": "11.5 Wk before Admission",
+            "findings": "<1 Bethesda units",
+            "changes_over_time": "Increased to 3 Bethesda units by 7 Mo before admission"
+        }
+    ]
+}

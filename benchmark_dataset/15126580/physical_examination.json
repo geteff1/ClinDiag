@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1999",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "TT4": "44 nmol/liter (normal range, 64–161)",
+                "TSH": "2.7 mU/liter (normal range, 0.4–5.5)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "TT4": "135 nmol/liter",
+                "TSH": "0.05 mU/liter (normal range, 0.4–3.8)",
+                "TBG": "17 ng/liter (normal range, 17–36)"
+            },
+            "changes_over_time": "Improvement in TT4 levels but TSH remained low"
+        },
+        {
+            "date": "7 months after delivery (post-pregnancy)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "TT4": "100 nmol/liter",
+                "TT3": "1.92 nmol/liter (normal range, 1.38–2.84)",
+                "free T4": "14 pmol/liter (normal range, 10–26)",
+                "TSH": "3.2 mU/liter",
+                "TBG": "32 mg/liter"
+            },
+            "changes_over_time": "Both TT4 and TT3 remained in normal range but below expected values for third trimester"
+        },
+        {
+            "date": "3–18 months after delivery",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "TT4": "ranged from 26–136 nmol/liter",
+                "TBG": "ranged from 9–19 mg/liter (normal range, 14–26)"
+            },
+            "changes_over_time": "TT4 levels fluctuated from low to normal, indicating variable secretion"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Elevated right-sided filling pressures, hypokinesis of the right ventricle, moderate pulmonary hypertension.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer test",
+            "date": "4 weeks after discontinuation of anticoagulation",
+            "findings": "Elevated D-dimer level at 812 ng/mL.",
+            "changes_over_time": "Remained elevated at this level when rechecked several months later."
+        },
+        {
+            "procedure_name": "Factor V Leiden and Prothrombin Gene Mutation Testing",
+            "date": "Not specified",
+            "findings": "Negative for both Factor V Leiden and Prothrombin gene mutations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lupus Anticoagulant Testing",
+            "date": "Not specified",
+            "findings": "Lupus anticoagulant not detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Protein C, Protein S, and Antithrombin Levels Testing",
+            "date": "Several weeks after warfarin was discontinued",
+            "findings": "Functional levels of Protein C, Protein S, and Antithrombin were normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

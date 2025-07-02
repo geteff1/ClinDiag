@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Multiple foci of uptake in the ribs on both sides, particularly on the left anterolaterally.",
+            "changes_over_time": "CT scans performed 35 days after the FDG-PET showed healing fractures with callus formation in several ribs."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Opaque area in the left upper lobe.",
+            "changes_over_time": "CT scan confirmed the abnormality in the left upper lobe. FDG-PET showed low-grade diffuse uptake consistent with inflammation and uptake in several ribs bilaterally."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "5 weeks after the fall",
+            "findings": "Bone marrow replacement at the S1-S2 level, possibly due to fracture, discitis, or metastatic replacement.",
+            "changes_over_time": "FDG-PET scan performed 8 weeks after the fall was normal. Follow-up over 3 years revealed no evidence of cancer."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Metabolically active solitary pulmonary nodule with low-grade activity in two foci in the lower left lateral chest wall, corresponding to rib fractures.",
+            "changes_over_time": "Patient had a right middle lobectomy 2 weeks after successful coronary artery bypass graft; the pulmonary nodule was confirmed as non-small-cell lung carcinoma without evidence of spread to lymph nodes."
+        }
+    ]
+}

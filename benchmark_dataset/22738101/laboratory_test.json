@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "5 days before admission",
+            "findings": "34 mg/dL (reference range, 8 to 25 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "5 days before admission",
+            "findings": "2.7 mg/dL (reference range, 0.60 to 1.50 mg/dL)",
+            "changes_over_time": "Reportedly had been 1.4 mg/dL the previous year; increased to 2.7 mg/dL at this time"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "5 days before admission",
+            "findings": "27.4% (reference range, 41.0–53.0%)",
+            "changes_over_time": "Decreased to 24.7% on admission, later 28.1% and then 27.2% on subsequent days"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "5 days before admission",
+            "findings": "9.4 g/dL (reference range, 13.5–17.5 g/dL)",
+            "changes_over_time": "Decreased to 8.6 g/dL on admission, later increased to 12.1 g/dL and then 9.5 g/dL"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "5 days before admission",
+            "findings": "6000 per mm³ (reference range, 4500–11,000 per mm³)",
+            "changes_over_time": "Decreased to 4400 on admission, later increased to 12,100 and then 11,700"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On admission",
+            "findings": "4.42 mg/dL",
+            "changes_over_time": "Rose daily during hospitalization; was 2.8 mg/dL on 3rd hospital day and 3.8 mg/dL on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "On admission",
+            "findings": "93 mg/dL",
+            "changes_over_time": "Increased from 37 mg/dL (5 days before admission) to 58 mg/dL (3rd hospital day) to 102 mg/dL (hospital day of admission)"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "During hospitalization",
+            "findings": "Occult blood: 4+ at 5 days before admission, 3+ on admission; Albumin: 3+ on both occasions; Red cells too numerous to count at 5 days before admission, >100 on admission",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-GBM Antibody Test",
+            "date": "During hospitalization",
+            "findings": "Initially negative, later detected using Western blot analysis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated Glomerular Filtration Rate (eGFR)",
+            "date": "On admission",
+            "findings": "14 ml/min/1.73 m² (normal >60 ml/min/1.73 m²)",
+            "changes_over_time": "Declined from 23 ml/min/1.73 m² (5 days prior) to 16 ml/min/1.73 m² (3rd hospital day)"
+        }
+    ]
+}

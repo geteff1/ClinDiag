@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma DHEAS Level",
+            "date": "Not specified",
+            "findings": "DHEAS levels below the detection limit (<0.4 µmol/liter [147.4 ng per liter]) at two measurements (at 8 years and at 12 years).",
+            "changes_over_time": "The most sensitive assay at 12 years indicated DHEAS level at 0.27 µmol per liter (99.5 ng per liter), but still considered below normal range (1.4–10.4 µmol/liter)."
+        },
+        {
+            "procedure_name": "Plasma DHEA Level",
+            "date": "Not specified",
+            "findings": "At 8 years of age, DHEA level was 15.0 nmol per liter (4.3 μg per liter), near the upper limit of normal; at 12 years, it peaked at 20.0 nmol per liter during testing.",
+            "changes_over_time": "Increased from 20.0 nmol per liter at baseline to 43.0 nmol per liter at 60 minutes during the cosyntropin stimulation test."
+        },
+        {
+            "procedure_name": "Plasma Androstenedione Level",
+            "date": "Not specified",
+            "findings": "Under normal levels for her age and sex, androstenedione was 4.1 nmol per liter at 8 years (normal range 0.14–2.4), and 27.0 nmol per liter at 12 years (upper limit >12.0).",
+            "changes_over_time": "Resulted in increased levels, indicating twice as high values at 12 years compared to 8 years."
+        },
+        {
+            "procedure_name": "Plasma Testosterone Level",
+            "date": "Not specified",
+            "findings": "At 8 years, testosterone level was 1.2 nmol per liter (normal range 0.03–0.65); at 12 years, it was 2.1 nmol per liter (normal range 0.51–1.26).",
+            "changes_over_time": "Results show doubled testosterone levels at 12 years."
+        },
+        {
+            "procedure_name": "Plasma Cortisol Level",
+            "date": "Not specified",
+            "findings": "Cortisol level was 140 nmol per liter at baseline, and rose to 650 nmol per liter after cosyntropin administration (>500 denotes elevated).",
+            "changes_over_time": "Indicates a rise in cortisol levels post-stimulation."
+        },
+        {
+            "procedure_name": "Luteinizing Hormone (LH)",
+            "date": "Not specified",
+            "findings": "At baseline (<0.2 U per liter) and 4.5 U per liter after gonadotropin-releasing hormone (GnRH) stimulation (<0.05–20.2 U per liter).",
+            "changes_over_time": "Demonstrated low baseline levels with a significant increase after stimulation, indicating possible activation of the hypothalamic-pituitary-gonadal axis."
+        },
+        {
+            "procedure_name": "Follicle-Stimulating Hormone (FSH)",
+            "date": "Not specified",
+            "findings": "Baseline level was 0.7 U per liter (normal range <0.2–3.7); after GnRH stimulation, levels rose to 8.5 U per liter.",
+            "changes_over_time": "Exhibited increased response to stimulation, indicating normal function."
+        },
+        {
+            "procedure_name": "17β-Estradiol Level",
+            "date": "Not specified",
+            "findings": "At 8 years, it was 36 pmol per liter (normal range <18–52); at 12 years, it was significantly elevated to 220 pmol per liter.",
+            "changes_over_time": "Increase in estradiol levels over time signifies increasing ovarian activity."
+        },
+        {
+            "procedure_name": "Urinary Steroid Metabolites",
+            "date": "Not specified",
+            "findings": "Increased excretion of androsterone at 5376 μg in 24 hours (normal range 287 to 2215).",
+            "changes_over_time": "Results in an increased output of androgen metabolites."
+        }
+    ]
+}

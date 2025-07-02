@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient is a 24-year-old female with absent breast development, primary amenorrhea, and multicystic ovaries. She presents with markedly elevated serum estrogen levels and mildly elevated gonadotropins.",
+            "changes_over_time": "The patient has had no breast development and the multicystic ovarian condition persists without abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "LH: 6.6 +/- 1.1 IU/L, FSH: 9.9 +/- 0.6 IU/L, E2: 386 +/- 171 pg/ml, E1: 456 +/- 95 pg/ml",
+            "relevant_findings": "LH and FSH were above norms for the early follicular phase. Seven pulses of LH detected within the sampling period with an interpulse interval of 58.3 +/- 19.4 min.",
+            "changes_over_time": "The frequency of LH pulses and their amplitude suggest an ongoing dysfunction due to estrogen insensitivity."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Estradiol: 1910 pg/ml, Ovarian volume: 123.7 cm3",
+            "relevant_findings": "On norethindrone treatment, ovarian volume decreased from 123.7 cm3 to 10.5 cm3, and estradiol decreased from 1910 pg/ml to 47 pg/ml.",
+            "changes_over_time": "Mean ovarian volume was consistently elevated over eight years, but treatment led to significant reductions in both ovarian volume and estradiol levels."
+        },
+        {
+            "date": "Age 23 years and 3 months",
+            "vital_signs": "Bone density z-score: -4.3 (lumbar spine), -2.9 (femoral neck)",
+            "relevant_findings": "Continued reduction in bone mineral density with z-scores reflecting pronounced osteopenia.",
+            "changes_over_time": "Z-scores at age 15 were -2.4, indicating progressively worsening bone density over time."
+        }
+    ]
+}

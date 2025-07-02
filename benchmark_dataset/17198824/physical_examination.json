@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2004",
+            "vital_signs": "Aortic annulus: 25 mm, Sinus portion of the ascending aorta: 38 mm, Sinotubular junction: 27 mm, Ascending aorta: 30 mm",
+            "relevant_findings": "Dilation and elongation of the ascending aorta and arch observed.",
+            "changes_over_time": "Progressive dilation observed in January 2005 with the sinus portion at 44 mm and sinotubular junction at 29 mm."
+        },
+        {
+            "date": "January 2005",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Progressive dilation of the sinus portion (44 mm) and sinotubular junction (29 mm).",
+            "changes_over_time": "Further dilation noted in March 2005, increasing the aortic sinus from 44 mm to 48 mm with moderate aortic valve incompetence."
+        },
+        {
+            "date": "March 2005",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Moderate aortic valve incompetence observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

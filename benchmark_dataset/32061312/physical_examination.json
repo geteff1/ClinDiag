@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.6°C",
+                "oxygen_saturation": "97%",
+                "respiratory_rate": "22 breaths per min",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "thrombocytopenia": "113 × 10⁹ per L",
+                "haemoglobin_concentration": "146 g/L",
+                "white_blood_cell_count": "7.4 × 10⁹ per L",
+                "creatinine_concentration": "81 μmol/L",
+                "alanine_aminotransferase": "29 IU/L",
+                "lactate_concentration": "1.1 mmol/L",
+                "x_ray_findings": "patchy bilateral, peribronchovascular, ill-defined opacities in all lung zones"
+            },
+            "changes_over_time": "Intermittent fever lasted 5 days before fully resolving; platelet count normalized after admission."
+        }
+    ]
+}

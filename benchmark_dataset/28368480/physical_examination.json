@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "139/82 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "hypokalemia": "2.9 mmol/L following initiation of medications",
+                "other_findings": "No signs of Cushing syndrome, normal ACTH and cortisol levels"
+            },
+            "changes_over_time": {
+                "hypokalemia": "Normalized with potassium supplementation",
+                "adrenal_nodules_growth": "Largest right adrenal nodule increased from 22 mm to 31 mm"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "<130/80 mm Hg postoperatively",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "potassium": "Normalized postoperatively",
+                "other_findings": "Continued primary aldosteronism with serum aldosterone at 30 ng/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

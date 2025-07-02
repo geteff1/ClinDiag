@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "March 2008",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "March 2008",
+            "findings": "Pyelonephritis, renal vein thrombosis, left-lung lower lobe consolidation and effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "April 2008",
+            "findings": "Fluid collection in the liver",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "May 2008",
+            "findings": "Large fluid collection in the liver, cholelithiasis, and biliary duct dilatation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "May 2008",
+            "findings": "Gallstones, small pericholecystic fluid, sonographic Murphy’s sign",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

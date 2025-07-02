@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit was 41.2 percent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "White-cell count was 7800 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "Platelet count was 250,000 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Erythrocyte sedimentation rate was 11 mm per hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin Time and Partial-Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "Both prothrombin and partial-thromboplastin times were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": "Two very-low-concentration bands in the slow gamma region; immunofixation revealed IgG lambda M components.",
+            "changes_over_time": "Follow-up study in about three months was recommended."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Cerebrospinal fluid contained no red cells and eight white cells per cubic millimeter (80% lymphocytes and 20% monocytes); glucose level was 64 mg per deciliter, total protein level 75 mg per deciliter, albumin level 57.1 mg per deciliter, and IgG level 8.1 mg per deciliter.",
+            "changes_over_time": "After lumbar puncture, the patient began to shiver, and temperature rose to 38.7°C; later, he was fully oriented again, but had some cognitive difficulties."
+        },
+        {
+            "procedure_name": "Follow-Up Imaging (MRI)",
+            "date": "Three months after discharge",
+            "findings": "Dramatic resolution of the ring-enhancing lesions and minimal remaining white-matter abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

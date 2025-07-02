@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressures: 89/52/67 mm Hg (pulmonary), 69/37/50 mm Hg (systemic)",
+            "relevant_findings": "Echocardiography showed a hypertrophied right ventricle and secondary tricuspid regurgitation with a systolic gradient of 100 mm Hg. Left ventricle small with internal dimension in diastole of 22 mm; mean diastolic gradient across minimal regurgitant mitral valve 8 mm Hg.",
+            "changes_over_time": "After an uneventful period of 4 months following surgical intervention, the patient was seen in improved clinical condition."
+        },
+        {
+            "date": "At 4 days of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A precordial systolic murmur was audible. Echocardiography revealed mild apical displacement of the tricuspid valve, indicating mild Ebstein’s anomaly with moderate tricuspid valve insufficiency and right heart enlargement.",
+            "changes_over_time": "At 11 days of age, the baby was symptomatic with poor feeding, pallor, and poorly perfused, with tachypnea and tachycardia."
+        },
+        {
+            "date": "At 1 month of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Coarctation of the aorta was identified by differences in blood pressures between upper and lower limb.",
+            "changes_over_time": "The child underwent repair of the atrial septal defect and ventricular septal defect, but heart failure symptoms did not improve."
+        },
+        {
+            "date": "At 3 years of follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient continued to have echocardiographic features of left ventricular noncompaction with abnormal myocardial relaxation.",
+            "changes_over_time": "The patient is doing well with normal growth and development."
+        }
+    ]
+}

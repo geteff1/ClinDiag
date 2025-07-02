@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Very few mononuclear cells, no white or red cells. Levels of glucose, total protein, and angiotensin-converting enzyme were normal. No organisms on Gram staining. No oligoclonal bands or malignant cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Hematocrit, hemoglobin level, white-cell count, differential count, and platelet count were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic panel",
+            "date": "Not specified",
+            "findings": "Blood levels of electrolytes, calcium, phosphorus, magnesium, glucose, C-reactive protein, angiotensin-converting enzyme, and immunoglobulins (IgG, IgA, and IgM) were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "1+ ketones, trace occult blood, and protein by dipstick, with 0 to 2 red cells, very few renal tubular cells, few squamous cells, and mucin per low-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antibody testing",
+            "date": "Not specified",
+            "findings": "Positive for anti-Ro antibodies (63.37; reference range, 0 to 19.99) and antinuclear antibodies (at 1:40 and 1:160 dilutions, in a homogeneous pattern); negative for antineutrophil cytoplasmic antibodies (anti-PR3 and anti-MPO), anti-La antibodies, and anti-double-stranded DNA antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of left posterior ethmoid and sphenoid sinuses",
+            "date": "Not specified",
+            "findings": "Sinonasal mucosa with underlying dense lymphoid infiltrate in a background of fibrosis. Large lymphoid cells positive for CD20, confirming diffuse large B-cell lymphoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

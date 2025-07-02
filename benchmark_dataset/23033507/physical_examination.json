@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "112/52 mm Hg",
+                "heart_rate": 110,
+                "respiratory_rate": 20,
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "mental_status": "intact",
+                "cranial_nerves": "intact except for a left lower facial droop",
+                "motor_strength": {
+                    "right_hemibody": "5/5",
+                    "left_hemibody": "4/5"
+                },
+                "deep_tendon_reflexes": "2+/H11001 throughout with flexor plantar responses",
+                "sensation": "decreased to pinprick over the left lower extremity from the thigh distally",
+                "coordination": "intact",
+                "gait": "slightly wide-based"
+            },
+            "changes_over_time": "On the morning following admission, the patient clinically worsened, with strength declining to 0/5 in the left upper extremity, 3/5 in the left lower extremity, left hemianesthesia, significant dysarthria, and worsening dysphagia."
+        },
+        {
+            "date": "10 days prior",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CSF analysis showed white blood cells 2/mm³, red blood cells 2/mm³, and unremarkable cytology.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

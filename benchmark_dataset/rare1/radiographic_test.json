@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fetal magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "One tumorous lesion measuring 11 mm in diameter at the fornix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postnatal abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Tumor at the gastric fornix near the gastric cardia measuring 11.4 × 12.4 mm. No cystic or calcified components identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper gastrointestinal contrast study",
+            "date": "2 days after birth",
+            "findings": "Shadow defect in the gastric fornix. Dull angle of His and severe gastroesophageal reflux observed with aspiration resulting in an extensive bronchogram.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laryngoscopy",
+            "date": "30 days of age",
+            "findings": "Confirmed laryngotracheoesophageal cleft (type III).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

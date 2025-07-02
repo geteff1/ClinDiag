@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "mildly elevated",
+                "height": "68 in (173 cm)",
+                "weight": "258 lb (116 kg)",
+                "body_mass_index": "39.2",
+                "low_density_lipoprotein_cholesterol": "172 mg/dL"
+            },
+            "relevant_findings": {
+                "obesity": "present",
+                "joint_abnormalities": "none",
+                "visible_tophi": "none"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2006",
+            "vital_signs": {
+                "serum_creatinine": "1.3 mg/dL",
+                "estimated_glomerular_filtration_rate": "57 mL/min/1.73 m²"
+            },
+            "relevant_findings": "serum creatinine levels had later increased to 1.5 mg/dL but stabilized at 1.3 mg/dL.",
+            "changes_over_time": "initial increase followed by stabilization of creatinine levels"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "uric_acid_levels": "between 6 and 7 mg/dL"
+            },
+            "relevant_findings": {
+                "physical_stigmata_of_gout": "none except intermittent swelling, redness, and pain in the great toe",
+                "microalbuminuria": {
+                    "albumin_creatinine_ratio": "442 mg/g (normal range, <130 mg/g)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Fetus was in the birth canal in breech position.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Confirmed severe respiratory distress syndrome.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cranial ultrasound",
+            "date": "Not specified",
+            "findings": "Never showed intracranial hemorrhage or periventricular leukomalacia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Retinal examination",
+            "date": "Not specified",
+            "findings": "Stage 1 retinopathy of prematurity; likely to subside.",
+            "changes_over_time": "Resolved by 4.5 months after discharge."
+        }
+    ]
+}

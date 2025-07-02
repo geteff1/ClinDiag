@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": {
+                    "value": "37.4°C",
+                    "date": "Not specified"
+                }
+            },
+            "relevant_findings": {
+                "crying_sound": "loud",
+                "skin_color": "rosy",
+                "anterior_fontanel": "flat and soft",
+                "three_concave_signs": "not present",
+                "lung_breath_sounds": "clear and symmetrical",
+                "rales": "not heard",
+                "heart_rhythm": "regular",
+                "heart_sounds": "moderate",
+                "pathological_murmur": "not heard",
+                "abdomen": "soft",
+                "umbilicus": "dry",
+                "liver_and_spleen": "not abnormally enlarged below the ribs",
+                "distal_limbs": "warm",
+                "capillary_refill_time": "<3 seconds",
+                "mottling": "not seen"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

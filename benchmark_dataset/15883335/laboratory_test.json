@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 40 years",
+            "findings": "Elevated right hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 41 years",
+            "findings": "Elevated left hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 22 years",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Age 42 years",
+            "findings": "Elevated left hemidiaphragm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Normal levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Myopathic pattern without spontaneous discharges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-inactivation studies",
+            "date": "Not specified",
+            "findings": "Patient 1 (II-3) had a random X-inactivation pattern; Patient 2 (II-8) was homozygous on both assays. X-inactivation ratio in Patient 4 (II-2) was 98:2.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

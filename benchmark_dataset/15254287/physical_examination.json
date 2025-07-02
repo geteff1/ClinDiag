@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/83 mm Hg",
+                "heart_rate": "98 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "temperature": "36.1°C",
+                "pulsus_paradoxus": "8 mm Hg"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "12 cm of water",
+                "auscultation": "clear breath sounds",
+                "heart": "possible pericardial friction rub",
+                "neurologic_examination": "no abnormalities",
+                "peripheral_circulation": "warm limbs, symmetric pulses, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "During hospitalization",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Up to 38.1°C",
+                "pulsus_paradoxus": "Not specified"
+            },
+            "relevant_findings": {
+                "pericardial_effusion": "large circumferential pericardial effusion",
+                "right_atrial_inversion": "found during echocardiogram",
+                "the presence of tamponade": "observed with right ventricular diastolic collapse"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two months after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "pulsus_paradoxus": "Not specified"
+            },
+            "relevant_findings": {
+                "pulmonary_examination": "lungs normal on auscultation",
+                "radiograph": "showed resolution of the pleural effusions but two new small nodular opacities in the right upper lung zone"
+            },
+            "changes_over_time": "Resolution of pleural effusions; new nodules observed"
+        },
+        {
+            "date": "Four months after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "pulsus_paradoxus": "Not specified"
+            },
+            "relevant_findings": {
+                "radiograph": "decrease in the size of the anterior mediastinal lymph nodes",
+                "nodular_opacities": "one decreased in size; presence of a new right pleural effusion"
+            },
+            "changes_over_time": "Decrease in size of previous nodules; new pleural effusion developed"
+        }
+    ]
+}

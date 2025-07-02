@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma amino acid testing",
+            "date": "Not specified",
+            "findings": "Phe level in the classic range at 1642 µmol/L",
+            "changes_over_time": "Second level of Phe at 1492 µmol/L obtained a few days later, indicating a decrease."
+        },
+        {
+            "procedure_name": "Parental chromosomal analysis",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "Patient found to be homozygous for a three-basepair in-frame deletion variant c.169_171del, p.Glu57del in the PAH gene, consistent with autosomal recessive PKU. No other clinically relevant variants identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

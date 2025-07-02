@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 18, 2010",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient A-1: BMI 20.4, bilateral aural fullness worse in left ear, Tullio phenomenon and Hennebert sign present only in left ear. Patient A-2: BMI 28.1, Hennebert sign present in right ear only. Patient A-3: BMI 26.9, mild sensorineural loss at 2 kHz bilaterally.",
+            "changes_over_time": "Patient A-1 had resolution of dizziness and left ear symptoms after surgery. Patient A-2 declined surgery; no notable change described for A-3."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient B-1: BMI 16.9, bilateral sensorineural hearing loss, normal otomicroscopy, CT showed dehiscence over left superior semicircular canal. Patient B-2: BMI 27.2, normal otomicroscopy, bilateral dehiscence at the arcuate eminence.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient C-1: BMI 39.1, normal otomicroscopy, CT revealed dehiscence of bone over left superior semicircular canal. Patient C-2: BMI 30.3, normal otomicroscopy, small dehiscence over right superior semicircular canal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

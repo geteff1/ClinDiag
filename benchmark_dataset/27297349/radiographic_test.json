@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "40% proximal focal stenosis in the right coronary artery unchanged from previous angiogram; patent prior stent in the LCx distal to 3 serial 90% stenoses suggestive of 'beads on a string'.",
+            "changes_over_time": "Unchanged appearance of proximal LCx stenoses on repeat coronary angiography."
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Resting perfusion defect in the basal to mid inferior and inferolateral walls, matching regions of hypokinesis, without evidence of late gadolinium enhancement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorodeoxyglucose Positron Emission Tomography–Computed Tomography",
+            "date": "Not specified",
+            "findings": "No evidence of large-vessel vasculitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat Coronary Angiography",
+            "date": "Not specified",
+            "findings": "Unchanged appearance of proximal LCx stenoses; no dissection, thrombosis, or atherosclerosis; mild in-stent restenosis without inflammatory changes.",
+            "changes_over_time": "Patent LCx stents without evidence of restenosis or new inflammatory disease at 6 months after discharge."
+        }
+    ]
+}

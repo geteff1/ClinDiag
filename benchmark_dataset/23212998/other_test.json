@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal for the age of the patient except for a mild left ventricular hypertrophy.",
+            "changes_over_time": "Confirmed by computed tomography at 6 months."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Aortic annulus of 7.4 mm with mild aortic insufficiency and an ascending aortic aneurysm of 11 mm.",
+            "changes_over_time": "At 6 months, dilation of the aneurysm had progressed (ascending aorta 27 mm; aortic root 22 mm)."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Detected a known homozygous mutation of p.Glu57Lys in fibulin-4 (the EFEMP2 gene).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Revised Hasegawa's Dementia Scale (HDS-R)",
+            "date": "At ages 39, 50, and 55 years old",
+            "findings": "HDS-R scores of 28 at age 39, 20 at age 50, and 18 at age 55 (cut-off score 20/21)",
+            "changes_over_time": "Declining scores over time indicate cognitive decline"
+        },
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE-J)",
+            "date": "At age 55",
+            "findings": "MMSE-J score of 24 out of 30 (cut-off score 26/27)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Frontal Assessment Battery (FAB)",
+            "date": "At age 55",
+            "findings": "FAB score of 11 out of 18 (cut-off score 11/12)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle electromyography",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electric encephalography",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gene analysis for spinocerebellar ataxia (SCA)",
+            "date": "Not specified",
+            "findings": "Major types of SCA ruled out",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS) of SCA-related genes",
+            "date": "Not specified",
+            "findings": "Novel homozygous deletion mutation in TMEM16K (ANO10) gene",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

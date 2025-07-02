@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Triglycerides (TG)",
+            "date": "Not specified",
+            "findings": "Pre-splenectomy: 2.09 mmol/L; Post-splenectomy: 7.27 mmol/L; 3 months post-splenectomy: 2.31 mmol/L; 1 year post-splenectomy: 7.27 mmol/L.",
+            "changes_over_time": "TG increased markedly from 2.09 mmol/L pre-splenectomy to 7.27 mmol/L post-splenectomy, then decreased to 2.31 mmol/L 3 months after treatment."
+        },
+        {
+            "procedure_name": "Total Cholesterol (TC)",
+            "date": "Not specified",
+            "findings": "Pre-splenectomy: 2.32 mmol/L; Post-splenectomy: 5.17 mmol/L; 3 months post-splenectomy: 6.56 mmol/L; 1 year post-splenectomy: 5.17 mmol/L.",
+            "changes_over_time": "TC increased from 2.32 mmol/L pre-splenectomy to 5.17 mmol/L post-splenectomy, then rose further to 6.56 mmol/L after 3 months on treatment."
+        },
+        {
+            "procedure_name": "High-Density Lipoprotein Cholesterol (HDL-C)",
+            "date": "Not specified",
+            "findings": "Pre-splenectomy: 0.54 mmol/L; Post-splenectomy: 0.59 mmol/L; 3 months post-splenectomy: 0.85 mmol/L; 1 year post-splenectomy: 0.49 mmol/L.",
+            "changes_over_time": "HDL-C fluctuated, initially increasing after splenectomy then decreasing slightly at 1 year."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "121 U/L (normal, 58–116).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipoprotein Analysis",
+            "date": "Not specified",
+            "findings": "Post-splenectomy: increased b-VLDL; VLDL-C/plasma TG ratio: 0.21.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma ApoE Concentration",
+            "date": "Not specified",
+            "findings": "Pre-treatment: 11.5 mg/dL (normal mean, 5.1 ± 1.6).",
+            "changes_over_time": "Decreased to 7.7 mg/dL after treatment."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiographs",
+            "date": "Not specified",
+            "findings": "mediastinal mass",
+            "changes_over_time": "Normal findings of chest tomodensitometry after treatment"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "liquid mass in the superior mediastinum",
+            "changes_over_time": "Normal findings of chest tomodensitometry after treatment"
+        },
+        {
+            "procedure_name": "chest radiographs",
+            "date": "At age 10 years",
+            "findings": "alveolar pneumonia of the middle lobe",
+            "changes_over_time": "Normal findings at the end of treatment and at the last follow-up visit 3 years later"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "2 types of E. coli isolated: one extended-spectrum beta-lactamase (ESBL) producer (meropenem MIC < 1 µg/mL) and one pan-resistant organism (meropenem MIC > 8 µg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium Mercaptoacetic Acid Screening Test",
+            "date": "Not specified",
+            "findings": "No enhancement for the second pan-resistant isolate with the ceftazidime disk",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Imipenem Susceptibility Test",
+            "date": "Not specified",
+            "findings": "Equivocal result with a zone enhancement of 4 mm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular Testing for Metallo-beta-lactamases",
+            "date": "Not specified",
+            "findings": "Negative results for blaIMP and blaVIM genes; presence of aacA7 confirmed by PCR",
+            "changes_over_time": "Retrieved E. coli isolates retested for NDM-1, consistent result with NDM-1"
+        }
+    ]
+}

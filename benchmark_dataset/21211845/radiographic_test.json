@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "A reduced thickness of the central retina and the RPE–outer segment complex was demonstrated.",
+            "changes_over_time": "At age 18, a reduction of the central retinal thickness was documented."
+        },
+        {
+            "procedure_name": "Fundus autofluorescence (FAF)",
+            "date": "Not specified",
+            "findings": "The intensity of the FAF was severely reduced in the entire fundus.",
+            "changes_over_time": "The FAF did not change after prolonged (17 hours) dark adaptation."
+        },
+        {
+            "procedure_name": "Full-field electroretinogram (ffERG)",
+            "date": "At age 10 and age 18",
+            "findings": "At age 10, no recordable rod response after standard dark adaptation was observed, but a normal combined response and normal cone response were present. At age 18, there was a barely recordable rod response after standard dark adaptation and a significant increase after prolonged dark adaptation.",
+            "changes_over_time": "Normalization of the rod response occurred after prolonged dark adaptation with an increase by more than 700%."
+        },
+        {
+            "procedure_name": "Multifocal electroretinography (mfERG)",
+            "date": "Not specified",
+            "findings": "Demonstrated reduced central and peripheral responses.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

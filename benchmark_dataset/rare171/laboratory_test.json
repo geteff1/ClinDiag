@@ -1,0 +1,78 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematological evaluation",
+            "date": "Not specified",
+            "findings": {
+                "WBC_count": "8700/μl (Neu 77%, Lym 12%, Eos 2%)",
+                "hemoglobin": "17.9 g/dl",
+                "total_proteins": "6.4 g/dl",
+                "albumin": "2.9 g/dl",
+                "aspartate_aminotransferase": "21 U/l",
+                "alanine_transaminase": "10 U/l",
+                "LDH": "289 U/l",
+                "blood_urea_nitrogen": "8.9 mg/dl",
+                "creatinine": "0.87 mg/dl",
+                "C-reactive_protein": "1.87 mg/dl",
+                "thyroid_stimulating_hormone": "1.48 μIU/ml",
+                "triiodothyronine": "1.9 pg/ml",
+                "thyroxine": "1.2 mg/dl",
+                "rheumatoid_factor": "Negative",
+                "anti_nuclear_antibodies": "Negative",
+                "sIL-2R": "Elevated at 845 U/ml"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "3.9 g/dl",
+                "LDH": "120 U/l",
+                "WBC": "3000/μl (Neu 17%, Lym 83%, Eos 2%)",
+                "adenosine_deaminase_level": "12.9 U/l"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculosis-specific enzyme-linked immunospot assay (T-SPOT.TB)",
+            "date": "Not specified",
+            "findings": {
+                "result": "Positive"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": {
+                "results": "Bilateral pleural effusion, diffuse pleural thickening, and mediastinal lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphatic scintigraphy",
+            "date": "Not specified",
+            "findings": {
+                "results": "Congestion of lymphatic perfusion"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided anterior mediastinal biopsy",
+            "date": "Not specified",
+            "findings": {
+                "results": "Infiltration of lymphocytes with poor atypia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracoscopic left pleural biopsy",
+            "date": "Not specified",
+            "findings": {
+                "results": "Infiltration of lymphocytes with poor atypia"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

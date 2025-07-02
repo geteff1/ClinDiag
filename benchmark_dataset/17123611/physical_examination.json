@@ -1,0 +1,74 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "IOP_left_eye": "14 mmHg",
+                "IOP_left_eye_follow_up": "13 mmHg",
+                "IOP_left_eye_deterioration": "15 mmHg"
+            },
+            "relevant_findings": {
+                "slit_lamp_exam": "large central corneal ulcer with ring infiltrate and marked corneal edema with Descemet’s folds"
+            },
+            "changes_over_time": {
+                "vision": "Deteriorated from 20/25 to light perception with projection, then to no light perception.",
+                "corneal_inflammation": "Initially significant, with mild improvement noted after treatment; then severe worsening leading to enucleation."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "IOP_left_eye": "18 mmHg",
+                "IOP_left_eye_follow_up": "14 mmHg",
+                "IOP_left_eye_deterioration": "7 mmHg"
+            },
+            "relevant_findings": {
+                "slit_lamp_exam": "large corneal ulcer with a paracentral ring infiltrate, meibomian gland inspissation, and inferior punctate corneal erosions"
+            },
+            "changes_over_time": {
+                "vision": "Deteriorated from 20/50 to counting fingers at 2 feet, then to light perception without projection.",
+                "corneal_inflammation": "Initial improvement after 1 week, followed by progressive deterioration and visual loss leading to enucleation."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "IOP_left_eye": "13 mmHg",
+                "IOP_left_eye_deterioration": "18 mmHg"
+            },
+            "relevant_findings": {
+                "slit_lamp_exam": "large central corneal ulcer with moderate stromal edema and moderate anterior chamber reaction"
+            },
+            "changes_over_time": {
+                "vision": "Deteriorated from 20/20 to counting fingers at 8 feet and light perception; ultimately progressed to enucleation."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "IOP_right_eye": "11 mmHg",
+                "IOP_right_eye_follow_up": "28 mmHg",
+                "IOP_right_eye_final": "8 mmHg"
+            },
+            "relevant_findings": {
+                "slit_lamp_exam": "marked conjunctival injection, a well-circumscribed central corneal stromal opacity with surrounding ring-shaped infiltrate"
+            },
+            "changes_over_time": {
+                "vision": "Deteriorated from counting fingers to light perception without accurate projection, leading to enucleation."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "IOP_left_eye": "14 mmHg",
+                "IOP_left_eye_final": "35 mmHg"
+            },
+            "relevant_findings": {
+                "slit_lamp_exam": "5 mm central epithelial defect with surrounding ring infiltrate, radial keratoneuritis"
+            },
+            "changes_over_time": {
+                "vision": "Deteriorated from 20/20 to light perception without accurate projection associated with sequent complications."
+            }
+        }
+    ]
+}

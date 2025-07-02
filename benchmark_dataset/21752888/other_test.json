@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "GH stimulation test",
+            "date": "Not specified",
+            "findings": "In Patient 1, GH levels were low during spontaneous hypoglycemic episodes. In Patient 2, GH levels were low during episodes of hypoglycemia and GH response during stimulation tests was also low.",
+            "changes_over_time": "In Patient 1, GH deficiency resolved by 8 months of glucocorticoid replacement; in Patient 2, GH replacement was stopped at 3 years after GH responses were found to be normal."
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Suggested septic arthritis of the left knee without underlying osteomyelitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Initially revealed a normal hypothalamus, stalk, and pituitary; adrenal cortex could not be identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Adrenal cortex could not be identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Provocative GH testing",
+            "date": "Not specified",
+            "findings": "In Patient 2, GH responses were low, confirming GH deficiency.",
+            "changes_over_time": "GH injections were withheld, and stimulation tests showed low GH responses; GH treatment was restarted."
+        }
+    ]
+}

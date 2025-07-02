@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "141/95 mm Hg",
+                "pulse": "100 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "general": "Cooperative, anxious, and disheveled. Excorications on face, arms, and legs, mid-back spared. Fully oriented.",
+                "mental_status": "Irritable and somewhat hostile toward a female interviewer; pleasant and cooperative with a male interviewer. Conviction of parasitic infestation and thought processes were perseverative and occasionally tangential."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (during dermatologic consultation)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "skin": "Neurologic excoriations, erosions, ulceration, and scarring due to compulsive picking at skin."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (6 months after discharge)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "skin": "Excoriations have improved but not completely resolved."
+            },
+            "changes_over_time": "Initial concerns about parasitic infection no longer expressed; overall improvement in skin excoriations noted."
+        }
+    ]
+}

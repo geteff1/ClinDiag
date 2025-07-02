@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Chemistry",
+            "date": "Not specified",
+            "findings": "Sodium 138 mmol/L, Potassium 6.9 mmol/L, Chloride 123 mmol/L, Bicarbonate 10 mmol/L, BUN 61 mg/dL, Creatinine 1.6 mg/dL, Glucose 159 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": "pH 7.26, PCO2 21 mm Hg, PO2 94 mm Hg, Saturation 96%, Base excess -15.4 mmol/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Chemistry",
+            "date": "Not specified",
+            "findings": "Sodium 138 mmol/L, Potassium 5.1 mmol/L, Chloride 121 mmol/L, Bicarbonate 12 mmol/L, BUN 87 mg/dL, Creatinine 4.4 mg/dL, Glucose 102 mg/dL, Hemoglobin 10.6 mg/dL.",
+            "changes_over_time": "Creatinine level stabilized at 4.0 mg/dL after treatment."
+        },
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": "pH 7.27, PCO2 24 mm Hg, PO2 73 mm Hg, Saturation 93%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

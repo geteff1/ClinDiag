@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C (98.0°F)",
+                "blood_pressure": "120/64 mm Hg",
+                "heart_rate": "60 bpm",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "appearance": "thin and tired",
+                "weight": "66 kg (145 lb)",
+                "edema": "3+ soft, pitting edema of the legs bilaterally",
+                "neurologic_exam": "diminished sensation of pinprick and vibration in the distal lower extremities bilaterally; absence of ankle reflexes",
+                "rectal_exam": "normal sphincter tone, normal prostate, Hemoccult-positive stool"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

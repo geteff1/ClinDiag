@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 1998",
+            "vital_signs": {
+                "temperature": "40.5 °C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Hypotensive and febrile.",
+            "changes_over_time": "Symptoms resolved after 7 days of treatment with ampicillin/sulbactam."
+        },
+        {
+            "date": "April 1998",
+            "vital_signs": {
+                "temperature": "37.6 °C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Temperature increased during plasmapheresis, but no infection was noted upon examination.",
+            "changes_over_time": "Patient felt flushed and weak but returned to normal health shortly after."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Physical examination unremarkable; no evidence of infection at the Hickman catheter site.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

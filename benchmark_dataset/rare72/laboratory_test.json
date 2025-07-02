@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "15.3 × 10^9/L on admission; elevated to 57.0 × 10^9/L after transfer.",
+            "changes_over_time": "Increased WBC count from 15.3 × 10^9/L to 57.0 × 10^9/L."
+        },
+        {
+            "procedure_name": "PLT level",
+            "date": "Not specified",
+            "findings": "10 × 10^9/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin level",
+            "date": "Not specified",
+            "findings": "22.7 g/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "79 U/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "134 U/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin (TBI)",
+            "date": "Not specified",
+            "findings": "105.3 µmol/L on admission; elevated to 254.5 µmol/L after transfer.",
+            "changes_over_time": "Increased TBI from 105.3 µmol/L to 254.5 µmol/L."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "87.3 µmol/L on admission; elevated to 263 µmol/L after transfer.",
+            "changes_over_time": "Increased creatinine from 87.3 µmol/L to 263 µmol/L."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "16.68 mmol/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "18.6 s on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time (APTT)",
+            "date": "Not specified",
+            "findings": "41.9 s on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer level",
+            "date": "Not specified",
+            "findings": "6,320 µg/L on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Procalcitonin",
+            "date": "Not specified",
+            "findings": "10.73 ng/mL after transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "59.3 mg/L after transfer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Leptospira IgM and IgG antibodies",
+            "date": "Not specified",
+            "findings": "Both negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sputum culture",
+            "date": "Day 10",
+            "findings": "Detected Pseudomonas aeruginosa; later Aspergillus fumigatus.",
+            "changes_over_time": "First detected Pseudomonas aeruginosa on Day 10, then Aspergillus fumigatus later."
+        }
+    ]
+}

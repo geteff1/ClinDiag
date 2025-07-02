@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Fetal goiter diagnosed, initially measuring 32/16 mm.",
+            "changes_over_time": "Second ultrasound at 27 weeks gestation showed further enlargement of the goiter to 34/21 mm, and later it measured 30/18 mm during the eighth month."
+        },
+        {
+            "procedure_name": "Umbilical vein blood sampling",
+            "date": "27 weeks gestation",
+            "findings": "High serum TSH (336 mU/liter) and undetectable free T4 levels indicating fetal hypothyroidism.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Umbilical vein blood sampling",
+            "date": "29 weeks gestation",
+            "findings": "Elevated serum TSH (472 mU/liter) and low free T4 levels (6.5 pmol/liter), confirming fetal hypothyroidism.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Paraspinal mass in the right lower thorax.",
+            "changes_over_time": "The paraspinal mass was unchanged on repeat chest radiograph done two months later."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lung fields; the paraspinal mass was unchanged.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Well-marginated paraspinal mass (3 cm by 5 cm by 5 cm) on the right, extending from the T9 vertebral body to T11. No extension into or widening of the neural foramina; no expansion or cortical erosion of ribs or vertebral bodies. Additional masses (1.2 cm and 1.0 cm) adjacent to the right posterior eighth rib and left posterior ninth rib.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the thoracic spine",
+            "date": "Not specified",
+            "findings": "Paraspinal mass (3 cm by 5 cm) on the right, extending from T9 to T11, with heterogeneous pattern and mild enhancement. No effect on the neural foramina; no expansion of the ribs or vertebral bodies; no evidence of signal suppression on fat-suppressed sequences.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

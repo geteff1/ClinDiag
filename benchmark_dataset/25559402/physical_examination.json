@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "basal_cortisol": "361 nmol/L",
+                "cortisol_after_ACTH": "633 nmol/L",
+                "free_T4": "14.9 mmol/L",
+                "TSH": "1.1 mU/L",
+                "IGF_1": "1.19 mU/L",
+                "prolactin": "224 mU/L",
+                "estradiol": "90 pmol/L",
+                "LH": "7.3 U/L",
+                "FSH": "9.5 U/L"
+            },
+            "relevant_findings": {
+                "head_circumference": "Below 0.4th centile",
+                "height": "50th centile",
+                "anosmia_score": "3/40",
+                "nerve_conduction_studies": "Moderately severe sensorimotor polyneuropathy",
+                "menstrual_cycles": "Irregular, 30-50 days",
+                "ultrasound": "Adult sized uterus and normal ovaries"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "2nd centile",
+                "weight": "Not specified"
+            },
+            "relevant_findings": {
+                "clinical_observations": "Congenital nonprogressive bilateral ptosis, paralytic strabismus, limited eye movements, facial weakness, hypotonia, global developmental delay"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "birth": {
+                    "gestation": "37 weeks",
+                    "weight": "Not specified"
+                },
+                "postnatal": {
+                    "hypoglycemia": "Two episodes requiring NICU",
+                    "pituitary_imaging": "Normal"
+                }
+            },
+            "relevant_findings": {
+                "operational_procedures": "Two surgical procedures for undescended testes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

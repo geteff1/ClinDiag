@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRSA culture from nares samples",
+            "date": "Not specified",
+            "findings": "Culture of nares samples grew mupirocin-resistant MRSA (minimum inhibitory concentration 11024 mg/mL).",
+            "changes_over_time": "The culture from the patient’s nares on 26 April, 18 May, and 11 June 2001 indicated presence of MRSA despite prior decolonization efforts."
+        },
+        {
+            "procedure_name": "Stump drainage fluid culture",
+            "date": "25 January 2001",
+            "findings": "Culture grew MRSA resistant to most antibiotics but susceptible to vancomycin and rifampin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nares culture from dog",
+            "date": "4 August 2001",
+            "findings": "Culture grew MRSA with a susceptibility pattern identical to that of the previous isolates from the human contacts.",
+            "changes_over_time": "Second culture of samples from the dog’s nares obtained 9 days later confirmed the presence of MRSA."
+        },
+        {
+            "procedure_name": "Nares cultures post-decolonization therapy",
+            "date": "11 September 2001",
+            "findings": "Culture failed to grow MRSA from the patient's nares, but dog’s nares remained culture-positive and patient’s wife grew MRSA.",
+            "changes_over_time": "On 11 October 2001, nares cultures for the patient and the dog grew MRSA, but the result for the patient’s wife was negative."
+        },
+        {
+            "procedure_name": "Nares cultures after new infection",
+            "date": "30 October 2001",
+            "findings": "Cultures of nares samples from the couple and the dog obtained after the treatment were negative for MRSA.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Wound swab",
+            "date": "6 February 2002",
+            "findings": "Wound swab showed no evidence of MRSA.",
+            "changes_over_time": "Four months after decolonization therapy ended, the patient and his wife remained free of MRSA infection."
+        }
+    ]
+}

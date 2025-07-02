@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Multiple T2-hyperintense lesions in the pons, paraventricular region, and corpus callosum without gadolinium enhancement.",
+            "changes_over_time": "Increased T2-lesion load and one Gd-enhancing lesion in the pons were noted at 3-year follow-up."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "2 days after craniotomy",
+            "findings": "Typical features of herpes simplex encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": "Normal hearing on the left side with a 30 dB loss at 8 kHz, right side showed linear sloping loss from 1.5 kHz reaching 40 dB at 8 kHz.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Next afternoon after admission",
+            "findings": "Tachycardia to the 130s, ejection fraction of 42% with segmental left ventricular dysfunction.",
+            "changes_over_time": "Tachycardia normalized approximately 2 hours after the onset, following medication."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Before neurosurgery",
+            "findings": "Meningioma of the right sphenoid wing.",
+            "changes_over_time": "Beginning tentorial herniation was noted after the onset of symptoms post-surgery."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "10 days after resection",
+            "findings": "Right-sided edema with diffuse contrast enhancement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "BAEP study",
+            "date": "Not specified",
+            "findings": "Normal with no abnormalities of absolute or interwave latencies.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

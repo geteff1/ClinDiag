@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Elevated white blood cell count",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inflammatory Markers",
+            "date": "Not specified",
+            "findings": "Elevated levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Not specified",
+            "findings": "Elevated levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Abnormal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TORCH Testing",
+            "date": "Not specified",
+            "findings": "Positive for cytomegalovirus (CMV), reactive for T. pallidum hemagglutination assay",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Confirmed hepatosplenomegaly and mild ascites",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray of Right Arm",
+            "date": "Not specified",
+            "findings": "Periosteal reaction in the right radius, small cystic lesions in the proximal humerus, abnormal bone quality",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skeletal Survey",
+            "date": "Not specified",
+            "findings": "Normal thoracic cage, spine, and pelvic bones; destruction in proximal shaft of the left humerus and distal shaft of the right femur",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Brain Scan",
+            "date": "Not specified",
+            "findings": "Thin corpus callosum, no intracranial hemorrhage or infarctions, gray-white matter differentiation maintained",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal cardiac segments, small patent foramen ovale (PFO), branch stenosis in pulmonary arteries with peak gradient of 28 mmHg, normal cardiac function",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

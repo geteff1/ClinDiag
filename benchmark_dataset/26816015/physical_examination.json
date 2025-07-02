@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: Normal; Heart rate: 150 bpm at one clinic visit; Height: 130.3 cm; Weight: 28.6 kg",
+            "relevant_findings": "Mild diffuse abdominal tenderness, fullness in the left lower quadrant, no abdominal guarding or rebound tenderness.",
+            "changes_over_time": "Initially normal physical examination findings later revealed recurring abdominal pain and mild tenderness."
+        },
+        {
+            "date": "At 8 years 7 months",
+            "vital_signs": "Pulse: 150 bpm",
+            "relevant_findings": "Normal temperature, normal physical examination, and results from chest radiograph and electrocardiogram were normal.",
+            "changes_over_time": "After this visit, the episodes of abdominal pain became more frequent, increasing up to three or four times weekly."
+        },
+        {
+            "date": "At 9 years 4 months",
+            "vital_signs": "Normal temperature",
+            "relevant_findings": "Epigastric tenderness just beneath the xiphoid process, abdomen soft and nontender otherwise.",
+            "changes_over_time": "The patient's abdominal pain recurred approximately weekly despite therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination was normal one month after a prior visit.",
+            "changes_over_time": "Normal examination results were noted, but symptoms persisted shortly thereafter."
+        },
+        {
+            "date": "9 years 11 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Abdomen soft and nontender.",
+            "changes_over_time": "Instance of unrelenting severe abdominal pain was reported, indicating a worsening condition."
+        }
+    ]
+}

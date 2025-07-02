@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Coronary Arteriography",
+            "date": "Not specified",
+            "findings": "Coronary arteries and left ventricular function were completely normal. Coronary intravascular ultrasound showed no significant subangiographic disease.",
+            "changes_over_time": "Symptoms continued to deteriorate over the ensuing months."
+        },
+        {
+            "procedure_name": "Esophageal Manometry and pH Measurements",
+            "date": "Not specified",
+            "findings": "Showed 4 asymptomatic episodes of gastroesophageal reflux without associated ECG changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ambulatory ECG Monitoring",
+            "date": "Not specified",
+            "findings": "Transient ST-segment depression detected during monitoring, usually associated with tachycardia.",
+            "changes_over_time": "It was noted that 20% of the episodes of ST-segment depression occurred with a heart rate of 110-180 bpm."
+        },
+        {
+            "procedure_name": "Brachial Artery Flow-Mediated Dilatation",
+            "date": "Not specified",
+            "findings": "Reduced to 1.3%, indicating systemic endothelial dysfunction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dobutamine Stress Echocardiogram",
+            "date": "Not specified",
+            "findings": "Showed no regional wall motion abnormalities despite the occurrence of ST-segment depression and chest pain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Exercise Test",
+            "date": "Not specified",
+            "findings": "Borderline positive, with upsloping ST-segment depression but without chest pain.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

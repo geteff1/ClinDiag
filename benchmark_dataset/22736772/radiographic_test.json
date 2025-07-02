@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Neck ultrasound",
+            "date": "Not specified",
+            "findings": "Localized an enlarged parathyroid gland inferior to the right thyroid lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sestamibi scan",
+            "date": "Not specified",
+            "findings": "Localized an enlarged parathyroid gland in the left lower neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry",
+            "date": "Not specified",
+            "findings": "Normal bone density.",
+            "changes_over_time": "Pre- and postoperative scans showed normal bone density at the spine, hip, and radius."
+        },
+        {
+            "procedure_name": "Cranial computed tomography",
+            "date": "Not specified",
+            "findings": "Calvarial thickening with widening of the diploic space and calcification of the intracranial carotid arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete skeletal radiographic survey",
+            "date": "Not specified",
+            "findings": "Revealed calvarial hyperostosis and periosteal resorption in the fingers.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

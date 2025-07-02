@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "High ICP (38 mm Hg)",
+            "changes_over_time": "Four months later, another lumbar puncture revealed very high ICP (29 mm Hg)."
+        },
+        {
+            "procedure_name": "Neurovent-P-tel sensor implantation",
+            "date": "Not specified",
+            "findings": "Normal ICP values after gastric bypass surgery. Initially recorded very high ICP over 15 mm Hg before surgery.",
+            "changes_over_time": "ICP returned to normal physiological levels post-surgery."
+        },
+        {
+            "procedure_name": "Codman Microsensor ICP transducer implantation",
+            "date": "Not specified",
+            "findings": "Both ICP sensors recorded values within the reference range at every time point.",
+            "changes_over_time": "No significant changes in registration correlated between ICP readings and the patient's headaches."
+        },
+        {
+            "procedure_name": "Visual field campimetry",
+            "date": "Not specified",
+            "findings": "Indicated increasing visual impairment.",
+            "changes_over_time": "Minimal visual improvement noted post-surgery."
+        },
+        {
+            "procedure_name": "Fundoscopy",
+            "date": "Not specified",
+            "findings": "Optic nerve edema observed.",
+            "changes_over_time": "Resolution of the optic nerve edema after gastric bypass surgery."
+        }
+    ]
+}

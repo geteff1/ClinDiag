@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": {
+                    "value": 14500,
+                    "reference_range": "4500 to 11000",
+                    "status": "outside normal range"
+                },
+                "hematocrit": {
+                    "value": 37.2,
+                    "reference_range": "41.0 to 53.0",
+                    "status": "outside normal range"
+                },
+                "hemoglobin": {
+                    "value": 13.2,
+                    "reference_range": "13.5 to 17.5",
+                    "status": "outside normal range"
+                },
+                "carcinoembryonic_antigen": {
+                    "value": 42.3,
+                    "reference_value": "<3.4",
+                    "status": "outside normal range"
+                },
+                "CA19-9": {
+                    "value": 383,
+                    "reference_value": "<35",
+                    "status": "outside normal range"
+                },
+                "other_tests": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed poorly differentiated adenocarcinoma with metastases to lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": {
+                "evidence_of_disease_progression": [
+                    "Decreased thickening of the esophageal wall",
+                    "Diminishing mediastinal and retroperitoneal lymphadenopathy"
+                ]
+            },
+            "changes_over_time": "Follow-up PET-CT three months later revealed multiple hepatic, pulmonary, and adrenal metastases."
+        },
+        {
+            "procedure_name": "Molecular Genetic Testing",
+            "date": "Not specified",
+            "findings": {
+                "PIK3CA_mutation": {
+                    "result": "c.1624G→A [p.Glu542Lys]"
+                },
+                "MET_amplification": {
+                    "status": "Detected",
+                    "copy_number_ratio": ">25:1"
+                },
+                "HER2_amplification": "Not detected",
+                "EGFR_amplification": "Not detected"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C-reactive protein (CRP) Level",
+            "date": "Not specified",
+            "findings": "CRP levels < 0.4 mg/dl (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SARS-CoV-2 RNA Detection",
+            "date": "Not specified",
+            "findings": "Not detected in sequential respiratory and stool samples",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SARS-CoV-2 IgM Antibody",
+            "date": "3rd day of life",
+            "findings": "Not detected",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SARS-CoV-2 Antinucleocapside IgG Antibody",
+            "date": "3rd day of life",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxoplasma Serology",
+            "date": "Not specified",
+            "findings": "Low IgG titer; IgM and IgA negative",
+            "changes_over_time": "Weakly positive in a competition test one week later; IgG, IgM, and IgA remained negative"
+        },
+        {
+            "procedure_name": "T. gondii-specific PCR from Neonatal EDTA Blood",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxoplasma Serology Follow-Up",
+            "date": "4 weeks after birth",
+            "findings": "No significant serological changes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Maternal Serology for Toxoplasma Infection",
+            "date": "Not specified",
+            "findings": "Primary infection during pregnancy; positive Toxoplasma-specific IgM, low IgG avidity (index 0.036)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Child's Serological Test for Toxoplasma",
+            "date": "11 weeks after birth",
+            "findings": "All Toxoplasma-specific antibody classes positive; significant increase of IgG titers (1:128 to 1:2048)",
+            "changes_over_time": "Immunoblots for IgA and IgM negative; IgA confirmed positive by ISAGA"
+        },
+        {
+            "procedure_name": "Neonatal CSF T. gondii-PCR",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "CSF white blood cell count 5/µl, glucose 45 mg/dl, protein 1315 mg/l"
+        },
+        {
+            "procedure_name": "Serum Control for Toxoplasma",
+            "date": "29 weeks after birth",
+            "findings": "Slightly descending IgG titers; absence of IgA",
+            "changes_over_time": "Thirteen weeks after stopping sulfadiazine treatment, increase in IgG titers (1:1024 to 1:8192) and occurrence of IgA"
+        }
+    ]
+}

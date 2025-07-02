@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": [
+                {
+                    "description": "Firm red plaque on the right cheek measuring 4.6 × 3.5 cm",
+                    "location": "right cheek"
+                },
+                {
+                    "description": "Red, smooth plaque measuring 0.8 cm in diameter below the larger nodule",
+                    "location": "below the larger nodule"
+                },
+                {
+                    "description": "Firm plaque measuring 1.8 × 2.0 cm on the right mandible",
+                    "location": "right mandible"
+                },
+                {
+                    "description": "Slightly raised, red plaque palpable behind the right ear",
+                    "location": "behind the right ear"
+                },
+                {
+                    "description": "Fullness in the right axillary region",
+                    "location": "right axillary region"
+                },
+                {
+                    "description": "No hepatosplenomegaly was evident",
+                    "location": "Not specified"
+                }
+            ],
+            "changes_over_time": "The patient exhibited acceleration in growth of the cheek lesion over the past 6 months prior to presentation, and after 6 cycles of CHOP therapy, all nodules had resolved with only faint erythema remaining."
+        }
+    ]
+}

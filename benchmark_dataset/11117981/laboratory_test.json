@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White-cell count",
+            "date": "37 days before admission",
+            "findings": "12,500 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood gases",
+            "date": "27 days after admission (10 days before the 12th hospital day)",
+            "findings": {
+                "partial_pressure_of_oxygen_mm_Hg": 54,
+                "partial_pressure_of_carbon_dioxide_mm_Hg": 47,
+                "pH": 7.52
+            },
+            "changes_over_time": "Decreasing pH: 7.46 (37 days before admission) to 7.52 (in the 10 days before the 12th hospital day); partial pressure of carbon dioxide increased from 39 to 47 mm Hg."
+        },
+        {
+            "procedure_name": "Blood gases",
+            "date": "On admission",
+            "findings": {
+                "partial_pressure_of_oxygen_mm_Hg": 67,
+                "partial_pressure_of_carbon_dioxide_mm_Hg": 52,
+                "pH": 7.49
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood gases",
+            "date": "12th hospital day",
+            "findings": {
+                "partial_pressure_of_oxygen_mm_Hg": 80,
+                "partial_pressure_of_carbon_dioxide_mm_Hg": 60,
+                "pH": 7.36
+            },
+            "changes_over_time": "pH decreased from 7.49 on admission to 7.36 on the 12th hospital day; partial pressure of carbon dioxide increased from 52 to 60 mm Hg."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for protein; sediment contained 20 to 50 red cells and 3 to 5 white cells per high-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematologic Laboratory Values",
+            "date": "On admission",
+            "findings": {
+                "Hematocrit": "30.1%",
+                "White-cell_count": "9,400 per mm³",
+                "Platelet_count": "117,000 per mm³"
+            },
+            "changes_over_time": "Hematocrit decreased to 24.8% on the 5th day and then increased to 26.7% on the 12th hospital day."
+        },
+        {
+            "procedure_name": "Blood Chemical and Enzyme Values",
+            "date": "On admission",
+            "findings": {
+                "Urea_nitrogen_mg_dl": 30,
+                "Glucose_mg_dl": 116,
+                "Creatine_kinase": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic Values",
+            "date": "On admission",
+            "findings": {
+                "IgG_mg_dl": 2190,
+                "IgE_IU_ml": "<10",
+                "Total_complement_U_ml": 196
+            },
+            "changes_over_time": "IgG decreased to 1880 mg/dl on the 5th hospital day."
+        }
+    ]
+}

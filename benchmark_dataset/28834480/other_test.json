@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "skin biopsy",
+            "date": "Not specified",
+            "findings": "interface dermatitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electromyography",
+            "date": "Not specified",
+            "findings": "abnormal spontaneous activity suggestive of ongoing muscle injury in the left deltoid and left vastus lateralis muscles",
+            "changes_over_time": "Repeat electromyography of the arms revealed persistent myopathy in the proximal muscles and new myopathy in the distal muscles."
+        },
+        {
+            "procedure_name": "muscle biopsy",
+            "date": "Not specified",
+            "findings": "active inflammatory myopathy, electron microscopy revealed tubuloreticular inclusions in endothelial cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "video swallow study",
+            "date": "Not specified",
+            "findings": "mild oropharyngeal dysphagia and no evidence of aspiration",
+            "changes_over_time": "On hospital day 8, repeat study showed moderate oropharyngeal dysphagia and intermittent trace aspiration."
+        },
+        {
+            "procedure_name": "real-time PCR for CMV",
+            "date": "Hospital day 4",
+            "findings": "CMV DNA viral load of 1,280,000 IU per milliliter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "shell-vial culture for CMV",
+            "date": "Hospital day 6",
+            "findings": "homogeneous green staining of nuclei indicating the presence of CMV",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

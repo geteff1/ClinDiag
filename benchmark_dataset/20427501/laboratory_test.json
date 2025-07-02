@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D (25(OH)D)",
+            "date": "Not specified",
+            "findings": "9.9 nmol/liter (normal, 40–130 nmol/liter)",
+            "changes_over_time": "Normalized to 122 nmol/liter one month later."
+        },
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Initial presentation",
+            "findings": "2.16 mmol/liter (low-normal; normal, 2.10–2.55)",
+            "changes_over_time": "Increased to 3.84 mmol/liter one month later."
+        },
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Two weeks after initiation of bisphosphonate therapy and prednisone",
+            "findings": "Decreased to 2.46 mmol/liter (normal range resumed).",
+            "changes_over_time": "Hypercalcemia resolved after treatment with corticosteroids."
+        },
+        {
+            "procedure_name": "Serum 1,25-dihydroxyvitamin D (1,25(OH)2D)",
+            "date": "One month later",
+            "findings": "156 pmol/liter (high-normal; normal, 55–190 pmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum intact PTH",
+            "date": "One month later",
+            "findings": "8 ng/liter (suppressed; normal, 13–54 ng/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum PTHrP",
+            "date": "One month later",
+            "findings": "Undetectable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "101 µmol/liter (normal, 35–100 µmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum creatinine kinase",
+            "date": "One month later",
+            "findings": "19 U/liter (normal, 0–170 U/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Initial presentation",
+            "findings": "33 g/liter (normal, 33–48 g/liter)",
+            "changes_over_time": "Decreased to 29 g/liter one month later."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "After hypercalcemia treatment",
+            "findings": "27 g/liter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

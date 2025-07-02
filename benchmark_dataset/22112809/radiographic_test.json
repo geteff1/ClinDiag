@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "2007",
+            "findings": "9-cm right adrenal mass and a normal-appearing left adrenal gland.",
+            "changes_over_time": "Three months after the initial surgery, an abdominal CT scan demonstrated a low-attenuating lesion measuring 2.2 cm in the tumor bed. Follow-up imaging remained clear of disease for 29 months until the summer of 2010 when CT scanning revealed new disease in the liver and intrapulmonary metastases."
+        },
+        {
+            "procedure_name": "Postoperative CT scan",
+            "date": "Postoperative (exact date not specified)",
+            "findings": "Negative for metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cross-sectional imaging",
+            "date": "Postoperative (exact date not specified)",
+            "findings": "Clear of disease for 29 months.",
+            "changes_over_time": "In the summer of 2010, revealed new disease in the liver and intrapulmonary metastases."
+        },
+        {
+            "procedure_name": "Follow-up abdominal CT scan",
+            "date": "Summer of 2010",
+            "findings": "New multiple liver metastases and retrocaval lymph nodal involvement.",
+            "changes_over_time": "Over 3 months, reduction in the size of liver metastases from 4.4 cm to 2.6 cm, with the right adrenal bed remaining stable."
+        }
+    ]
+}

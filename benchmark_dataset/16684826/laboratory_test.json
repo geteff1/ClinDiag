@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH test",
+            "date": "Not specified",
+            "findings": "TSH was elevated at 362 U/ml (normal 0–8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T3 test",
+            "date": "Not specified",
+            "findings": "Free T3 was 1.0 pg/ml (normal 2.2–5.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4 test",
+            "date": "Not specified",
+            "findings": "Free T4 was 0.17 ng/dl (normal 1.5–2.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum thyroglobulin measurement",
+            "date": "Not specified",
+            "findings": "Elevated thyroglobulin at 72 ng/ml (normal <155)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "4 weeks after initiation of T4 replacement therapy",
+            "findings": "Thyroid function tests were normal",
+            "changes_over_time": "Improvement in thyroid function was noted after 4 weeks of treatment"
+        },
+        {
+            "procedure_name": "Auditory brainstem response analysis",
+            "date": "1 month of age",
+            "findings": "Thresholds at 55 dB (right ear) and 50 dB (left ear), consistent with bilateral moderate hearing loss",
+            "changes_over_time": "Thresholds improved to 30 dB (right) and 40 dB (left) at 13 months"
+        },
+        {
+            "procedure_name": "Pure-tone audiometry",
+            "date": "13 months of age",
+            "findings": "Subjective hearing reactions were normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

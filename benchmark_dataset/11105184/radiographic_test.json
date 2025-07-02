@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild left ventricular hypertrophy, mild aortic and tricuspid regurgitation, intraventricular conduction delay, notched QRS in lead III, and early repolarization in some precordial leads.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous Liver Biopsy",
+            "date": "Before infusion of a-gal A",
+            "findings": "Scattered foamy macrophages in the portal areas and within sinusoids; accumulated material was PAS positive and diastase resistant.",
+            "changes_over_time": "After infusion, the amount of Gb3 in the liver sample reduced from 25 nmol/mg of protein to 16 nmol/mg of protein (36% reduction)."
+        },
+        {
+            "procedure_name": "Second Percutaneous Liver Biopsy",
+            "date": "Forty-four hours after infusion",
+            "findings": "Immunocytochemical staining revealed infused a-gal A localized primarily in Kupffer cells and sinusoidal endothelial cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Sample Analysis",
+            "date": "24 hours before infusion and at 28 days postinfusion",
+            "findings": "Pre-infusion sample indicated Gb3 at 1958 nmol/g of creatinine; 28-day postinfusion sample showed Gb3 at 640 nmol/g of creatinine.",
+            "changes_over_time": "67% reduction in Gb3 from pre-infusion to 28-day postinfusion sample; no reduction seen in 24-hour or 7-day postinfusion samples."
+        }
+    ]
+}

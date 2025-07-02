@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "94% on room air",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "small, thin-appearing, in no respiratory distress",
+                "heart_examination": "1/6 systolic ejection murmur",
+                "lung_examination": "good aeration with fine crackles at the bases",
+                "abdominal_examination": "soft, nontender, non-distended",
+                "white_blood_cell_count": "3400 cells/mL",
+                "chest_radiograph": "possible nodular opacity in the right upper lobe"
+            },
+            "changes_over_time": "Worsening respiratory symptoms with cough, tachypnea, and increasing oxygen requirement noted during the first 3 days of hospitalization."
+        },
+        {
+            "date": "Day 6",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "bronchoscopic_examination": "unremarkable mucosa, one mucous plug, no other secretions",
+                "BAL_results": "positive for influenza A virus by DFA, later isolated from culture"
+            },
+            "changes_over_time": "Initial respiratory distress progressed to needing intubation and transfer to the intensive care unit."
+        },
+        {
+            "date": "Day 40",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "chest_CT": "marked improvement of the areas of nodularity and ground-glass opacities, with residual opacities in the right upper lobe and left lung base"
+            },
+            "changes_over_time": "Clinical improvement observed after extubation on day 40."
+        }
+    ]
+}

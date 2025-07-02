@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Mild cortical atrophy, thin corpus callosum, and cerebellar vermis hypoplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroretinogram (ERG)",
+            "date": "Not specified",
+            "findings": "Marked reduction of b wave amplitude, especially of the rod response; less severe reduction of combined rod-cone and cone responses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundoscopy",
+            "date": "Not specified",
+            "findings": "Posterior subcapsular cataract and tapetoretinal degeneration.",
+            "changes_over_time": "One year after the first evaluation, worsening and enlargement of atrophic areas."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "SSCP analysis",
+            "date": "Not specified",
+            "findings": "The subject's MC4R gene exhibited an abnormal conformer with a double band derived from the 5/H11032SspI fragment.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Confocal imaging",
+            "date": "Not specified",
+            "findings": "Both wild-type (wt) and /H900488–92 myc-MC4Rs are expressed well on the cell surface.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Functional analysis",
+            "date": "Not specified",
+            "findings": "The /H900488–92 MC4R is completely devoid of ligand binding and does not generate cAMP in response to agonist stimulation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

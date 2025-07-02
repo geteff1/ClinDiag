@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 2002",
+            "vital_signs": {
+                "white_blood_cell_count": "58 /H1100310^3/µL",
+                "hematocrit": "41.4%",
+                "platelet_count": "211 /H1100310^3/µL"
+            },
+            "relevant_findings": {
+                "bone_marrow_biopsy": "Myeloproliferative disorder; cytogenetic testing showed classic Philadelphia chromosome (Ph)."
+            },
+            "changes_over_time": "After starting imatinib, her white blood cell count rose higher than 120 /H1100310^3/µL but later improved to 88 /H1100310^3/µL after a lower dose was administered."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "symptoms": "Severe occipital headaches and abdominal rash following initial treatment with imatinib."
+            },
+            "changes_over_time": "Symptoms improved after stopping the initial imatinib dosage."
+        }
+    ]
+}

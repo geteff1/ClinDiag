@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Small area of edema at the right cerebral hemisphere; ischemic area involving the territory of the right middle cerebral artery.",
+            "changes_over_time": "24 hours later, ischemic area involving the right middle cerebral artery became manifest."
+        },
+        {
+            "procedure_name": "Magnetic Resonance (MR) imaging and angiography",
+            "date": "Not specified",
+            "findings": "Severely reduced blood flow in the right middle cerebral artery; large ischemic area in the corresponding territory; absence of flow in the distal internal carotid arteries; slight compensatory hypertrophy of the basilar artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-Ray digital arteriography",
+            "date": "Not specified",
+            "findings": "Confirmed MR findings and showed narrowing of the left superficial femoral and popliteal arteries.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "76 kg",
+                "height": "167 cm",
+                "body_mass_index": "27.3 (85th–95th percentile)"
+            },
+            "relevant_findings": {
+                "general": "The rest of the general, systemic, and neurologic examination was unremarkable.",
+                "oral": "Enlarged tonsils."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Not specified": "Not specified"
+            },
+            "relevant_findings": {
+                "sleep_study": "Polysomnogram (PSG) showed mild obstructive sleep apnea (OSA) with significant upper airway resistance syndrome (UARS), mild periodic limb movements of sleep (PLMS) at 7/hour, and generalized spike-wave discharges in non-REM sleep and in wakefulness.",
+                "multiple_sleep_latency_test": "MSLT showed sleep onset REM (SOREM) in 2 of the 5 naps and a normal sleep latency of 18 minutes."
+            },
+            "changes_over_time": "Post-tonsillectomy, follow-up PSG showed resolution of the OSA, improved sleep efficiency, and reduced snoring and arousal index."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "mild pulmonary congestion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "a right parietal ventriculoperitoneal shunt terminating in the left lateral ventricle; bilateral ventricles were smaller than they had been on previous imaging studies",
+            "changes_over_time": "the bilateral ventricles were smaller than they had been on previous imaging studies"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "symmetric pulmonary edema and bilateral pleural effusions; scattered mildly enlarged mediastinal lymph nodes, measuring up to 1.4 cm in short-axis diameter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "cholelithiasis with trace pericholecystic fluid and mild gallbladder-wall thickening",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Video-assisted thoracoscopic biopsy",
+            "date": "Not specified",
+            "findings": "Nodules of lymphohistiocytic inflammation with ill-defined edges; bronchiolitis obliterans with organizing pneumonia.",
+            "changes_over_time": "The lung lesions have not recurred."
+        },
+        {
+            "procedure_name": "Fine-needle aspiration biopsy",
+            "date": "Not specified",
+            "findings": "No evidence of cancer; organizing fibrin, reactive bronchial epithelial cells, histiocytes, and lymphocytes were present.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Double-contrast upper-gastrointestinal series with a small-bowel study",
+            "date": "Not specified",
+            "findings": "Normal bowel-gas pattern; slight slowing of esophageal primary stripping waves; severe gastroesophageal reflux without a hiatal hernia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Revealed no abnormalities; new development of a vague mass-like lesion in the left lower lobe suspected to be a cancerous lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Three weeks later (after an earlier chest CT scan)",
+            "findings": "Many nodules throughout the lungs had decreased in size; the ground-glass nodule in the left lower lobe had enlarged to 4.2 by 2.6 cm.",
+            "changes_over_time": "Several nodules became smaller and some resolved, but new lesions appeared."
+        }
+    ]
+}

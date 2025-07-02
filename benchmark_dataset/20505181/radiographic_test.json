@@ -1,0 +1,64 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Pneumonia and a possible lucency in the left scapula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "bone scan",
+            "date": "Not specified",
+            "findings": "Two lesions with increased activity involving the posterior spine of the left scapula and the medial cortex of the right femoral shaft.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "A lucent lesion within the left scapular spine with erosion of the cortical surface along the ventral aspect, intact dorsal cortex; numerous mildly enlarged mediastinal and bilateral hilar lymph nodes; ill-defined lung nodules; an indeterminate lesion in the left hepatic lobe; three other cystic lesions within the liver; thickening of the wall of the cecum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Approximately 6 weeks before evaluation",
+            "findings": "Well-circumscribed lytic lesion in the left scapular spine with marked 18F-FDG uptake; hypodense nodules in the lower pole of the left lobe of the thyroid and the left lobe of the liver; scattered lymph nodes in the mediastinum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the left shoulder and right femur",
+            "date": "Not specified",
+            "findings": "A lesion in the left scapular spine measuring 23 mm by 14 mm; isointense on T1-weighted images, hyperintense on T2-weighted images, with heterogeneous enhancement and extension through the ventral cortex of the scapula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "During first admission to this hospital",
+            "findings": "Low lung volumes and subtle fine reticulonodular opacities in both lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "During second admission",
+            "findings": "Multiple lung nodules (2 to 4 mm), cystic lucencies throughout both lungs, lymph nodes in both axillae and abdomen.",
+            "changes_over_time": "The imaging studies displayed small, irregular pulmonary nodules, some of which appeared cavitated and were associated with cysts."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Follow-up after smoking cessation (3 months after discharge)",
+            "findings": "Almost complete resolution of the small nodules and cysts previously seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Follow-up after surgical excision (3 months after smoking cessation)",
+            "findings": "Evidence of callus formation and healing of the lytic lesion and associated fracture.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the femur",
+            "date": "9 months after smoking cessation",
+            "findings": "Mild cortical thickening along the medial diaphysis, consistent with healing of the lytic lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

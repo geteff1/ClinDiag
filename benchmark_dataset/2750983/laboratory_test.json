@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum lithium level",
+            "date": "Not specified",
+            "findings": "0.7 meq/liter (therapeutic range=0.7-1.2 meq/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol level",
+            "date": "2 mornings after admission",
+            "findings": "17 µg/dl (normal morning level 17-22 µg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine drug screen",
+            "date": "Not specified",
+            "findings": "Negative results",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

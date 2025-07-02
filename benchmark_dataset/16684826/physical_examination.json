@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "4250 g",
+                "length": "54 cm"
+            },
+            "relevant_findings": "Physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 days after birth",
+            "vital_signs": {
+                "TSH": "362 /H9262U/ml (normal 0–8)",
+                "free T3": "1.0 pg/ml (normal 2.2–5.4)",
+                "free T4": "0.17 ng/dl (normal 1.5–2.6)"
+            },
+            "relevant_findings": "Thyroid antibodies were negative. Ultrasound revealed an enlarged thyroid gland, and serum thyroglobulin was elevated (72 ng/ml; normal /H1102155).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1 month of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Detailed audiological examination showed thresholds at 55 dB (right ear) and 50 dB (left) on auditory brainstem response analysis, consistent with bilateral moderate hearing loss.",
+            "changes_over_time": "Auditory brainstem response thresholds improved to 30 dB (right) and 40 dB (left) at 13 months."
+        },
+        {
+            "date": "13 months of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Subjective hearing reactions were normal.",
+            "changes_over_time": "Compared to earlier assessments, hearing thresholds were closer to normal at this time."
+        }
+    ]
+}

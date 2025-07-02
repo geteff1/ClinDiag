@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "blood_pressure": "141/61 mm Hg",
+                "pulse": "103 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Somnolent but easily roused; oriented; cooperative with waxing and waning attention.",
+                "mucous_membranes": "Dry with dried blood around the nares.",
+                "skin": "Multiple telangiectasias on face, lips, torso; nonblanching cherry angiomas on chest.",
+                "heart": "Irregularly irregular heart sounds; first and second sounds normal.",
+                "lungs": "Clear bilaterally.",
+                "abdominal": "Mild tenderness in right upper quadrant; liver palpable 2 cm below costal margin; no rebound or guarding; stool with trace blood.",
+                "legs": "Dark and discolored, consistent with chronic venous insufficiency.",
+                "neurological": "No asterixis detected."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Admission at night",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Improvement in confusion noted after initiation of treatment with lactulose and rifaximin.",
+            "changes_over_time": "Initial confusion improved the following morning."
+        }
+    ]
+}

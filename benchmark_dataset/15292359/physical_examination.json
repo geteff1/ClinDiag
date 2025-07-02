@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "2750 g",
+                "length": "46 cm",
+                "APGAR_score": "5/6/7",
+                "bilirubin_max": "17.2 mg/dl"
+            },
+            "relevant_findings": "Normal physical examination without signs of hypothyroidism, muscular hypotonia, difficulty in maintaining body temperature, and icterus neonatorum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At age 25 days",
+            "vital_signs": {
+                "fT4": "0.20 ng/dl (normal range 1.01 – 2.60 ng/dl)",
+                "fT3": "0.072 ng/dl (normal range 0.20 – 0.96)",
+                "TSH": "0.23 μU/ml (normal range 0.51 – 10.8 μU/ml)"
+            },
+            "relevant_findings": "Decreased fT4 and fT3 serum levels with a low serum TSH concentration.",
+            "changes_over_time": "After the initiation of thyroid hormone replacement therapy, the patient remained euthyroid."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fT4": "0.11 ng/dl (normal range not specified)",
+                "TSH": {
+                    "baseline": "0.19 μU/ml (normal range 0.3 - 5 μU/ml)",
+                    "after_TRH": {
+                        "baseline": "0.02 μU/ml",
+                        "maximum": "0.02 μU/ml"
+                    }
+                }
+            },
+            "relevant_findings": "Signs of secondary hypothyroidism confirmed by low TSH response after TRH administration.",
+            "changes_over_time": "After treatment, noted growth acceleration in patients 2, 3, and 4."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "August 2007",
+            "findings": "Klebsiella pneumoniae, hypermucoviscous strain, resistant only to ampicillin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "March 2008",
+            "findings": "Klebsiella pneumoniae, hypermucoviscous, resistant only to ampicillin, genotype magA negative and rmpA positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture and liver abscess drainage culture",
+            "date": "April 2008",
+            "findings": "Klebsiella pneumoniae, hypermucoviscous, both rmpA and magA positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT-guided drainage culture",
+            "date": "May 2008",
+            "findings": "Klebsiella pneumoniae, hypermucoviscous, magA negative and rmpA positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "String test",
+            "date": "Not specified.",
+            "findings": "Positive string test indicating hypermucoviscous phenotype.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

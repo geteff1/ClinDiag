@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematoctrit": {
+                    "current": "31%",
+                    "baseline": "35%"
+                },
+                "white_cell_count": "10,480 per cubic millimeter",
+                "platelet_count": "167,000 per cubic millimeter"
+            },
+            "changes_over_time": "Decreased hematocrit from 35% to 31%; the current value of 31% might not yet reflect acute blood loss."
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "blood_urea_nitrogen": {
+                    "current": "32 mg/dL",
+                    "baseline": "24 mg/dL"
+                },
+                "serum_creatinine": {
+                    "current": "1.37 mg/dL",
+                    "baseline": "1.25 mg/dL"
+                }
+            },
+            "changes_over_time": "Increased blood urea nitrogen from 24 mg/dL to 32 mg/dL; serum creatinine increased from 1.25 mg/dL to 1.37 mg/dL."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus bradycardia with nonspecific T-wave abnormalities.",
+            "changes_over_time": "Findings similar to prior electrocardiograms."
+        },
+        {
+            "procedure_name": "Technetium-99m–Labeled Red-Cell Scan",
+            "date": "Not specified",
+            "findings": "Increased tracer activity in the ascending and sigmoid colon, and possibly in the transverse colon, with no clear uptake in the small bowel.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Video-Capsule Endoscopy",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

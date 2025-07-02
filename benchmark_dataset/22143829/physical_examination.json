@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Obese, with a body mass index of 31 kg/m². No other medical problems reported.",
+            "changes_over_time": "Insulin was begun at 22 weeks gestation when target glucose levels were not achieved with diet and exercise. Post-delivery, fasting glucose levels were normal before discharge."
+        },
+        {
+            "date": "18 weeks gestation",
+            "vital_signs": {
+                "fasting_glucose": "109 mg/dl",
+                "1h_glucose": "220 mg/dl",
+                "2h_glucose": "186 mg/dl"
+            },
+            "relevant_findings": "Diagnosis of gestational diabetes mellitus (GDM).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Postpartum (exact date not specified)",
+            "vital_signs": "Normal fasting glucose levels before discharge.",
+            "relevant_findings": "Postpartum glucose tolerance assessment is recommended at 6-12 weeks after delivery for diabetes risk.",
+            "changes_over_time": "Initial insulin therapy was necessary during pregnancy; however, insulin was discontinued immediately after delivery."
+        }
+    ]
+}

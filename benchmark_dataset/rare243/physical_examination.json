@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100/60 mmHg",
+                "heart_rate": "148 BPM",
+                "respiratory_rate": "38 breaths per minute",
+                "temperature": "98.2°F"
+            },
+            "relevant_findings": "Examination revealed dolichocephaly with marked macrocephaly, short neck, corneal clouding, and stiffness of joints. Coarse facial characteristics included a large and depressed nasal bridge, flared nostrils, ocular hypertelorism, dental malocclusion, interdental spacing, thick eyelids, and big, thick lips. The abdomen was soft and non-tender with an umbilical stump, and the liver was palpable 3 cm below the costal margin with a liver span of 10 cm. Respiratory examination revealed bilateral equal air entry with left infra-axillary and infra-scapular crepitations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

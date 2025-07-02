@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "screening mammography",
+            "date": "Four months earlier",
+            "findings": "Ill-defined nodule, 0.8 cm in diameter, containing a few calcifications, in the upper outer quadrant of the right breast.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "magnification views",
+            "date": "Not specified",
+            "findings": "1-cm mass in the outer quadrant of the right breast with pleomorphic calcifications suggestive of a neoplasm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "mediolateral oblique mammogram",
+            "date": "Not specified",
+            "findings": "Somewhat irregularly shaped mass, 0.8 cm in diameter, in the upper portion of the right breast, suspicious for cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "craniocaudal image",
+            "date": "Not specified",
+            "findings": "Irregular mass seen in the lateral portion of the breast.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "125 cm",
+                "weight": "25 kg",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "other": {
+                    "puberty_staging": "Tanner G1P1",
+                    "testes_size": "2 ml",
+                    "bone_age": "9.5 yr",
+                    "plasma_ACTH": "325.7 pg/ml",
+                    "dehydroepiandrosterone_sulfate": "Below detection limits",
+                    "17-hydroxyprogesterone": "Below detection limits"
+                }
+            },
+            "relevant_findings": {
+                "cryptorchidism": "Bilateral",
+                "hypospadias": "Mid-shaft",
+                "talipes": "Bilateral talipes equino-varus",
+                "sodium_level": "112 mmol/liter",
+                "potassium_level": "6.5 mmol/liter",
+                "treatment_start": "Prednisolone and fludrocortisone started at age 10 yr 4 months"
+            },
+            "changes_over_time": {
+                "adrenal_function": "Developed signs of adrenal insufficiency at age 9 yr, treated at age 10 yr 4 months",
+                "puberty_progression": "Puberty staging improved from Tanner G1P1 with 2 ml testes at age 10.7 yr to G1P1 with 6 ml testes and penile length 5 cm at age 14.2 yr",
+                "height_growth": "Increased from 125 cm at age 10.7 yr to 144.5 cm at age 14.2 yr",
+                "weight_change": "Increased from 25 kg at age 10.7 yr to 46 kg at age 14.2 yr"
+            }
+        }
+    ]
+}

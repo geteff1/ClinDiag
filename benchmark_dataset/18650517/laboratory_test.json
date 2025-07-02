@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-Fetoprotein Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carcinoembryonic Antigen",
+            "date": "Not specified",
+            "findings": "Detected at a level of 24.4 ng/mL (normal value, <3 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "protein_level": "211 g/dL (reference range up to 110 g/dL)",
+                "lactate_dehydrogenase_level": "214 U/L (blood level, 154 U/L)",
+                "specific_gravity": "1.033",
+                "pH": "8.0",
+                "red_cells": "40,000 per mm^3",
+                "white_cells": "400 per mm^3",
+                "cytology": "No malignant-tumor cells seen",
+                "Gram_stain": "No organisms found"
+            },
+            "changes_over_time": "Pleural fluid was drained (850 mL over 4 days)"
+        },
+        {
+            "procedure_name": "Technetium-99m-Methylene Diphosphonate Bone Scan",
+            "date": "Fourth hospital day",
+            "findings": "Diffusely increased uptake in T9 and normal uptake throughout the rest of the skeleton.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the Thorax",
+            "date": "Not specified",
+            "findings": "Revealed loculation of the pleural effusion, irregular left pleural thickening, and new, tiny pleural effusion on the right side",
+            "changes_over_time": "The primary lesion in the left upper lobe and the mediastinal involvement remain suppressed over time."
+        },
+        {
+            "procedure_name": "18-Fluorodeoxyglucose Positron-Emission Tomography",
+            "date": "Fourth hospital day",
+            "findings": "18fluorodeoxyglucose avidity of the left lung mass, left pleural surface, subcarinal space, and T9 vertebral body; no abnormal uptake elsewhere.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

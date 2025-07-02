@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7 degrees Celsius",
+                "heart_rate": "135 beats per minute",
+                "respiratory_rate": "18 respirations per minute",
+                "blood_pressure": "142/99 mmHg",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "tachycardia": "Present with regular rhythm",
+                "murmur": "Absent",
+                "jugular_venous_distention": "Absent",
+                "lower_extremity_edema": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

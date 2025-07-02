@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal white-cell count",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "During hospitalization",
+            "findings": "Grew enterococcus, coagulase-negative staphylococcus, and two candida species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "During hospitalization",
+            "findings": "Negative at 48 hours.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Induced-Sputum Specimens",
+            "date": "During hospitalization",
+            "findings": "Negative for acid-fast bacilli.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram's Staining of Sputum",
+            "date": "During hospitalization",
+            "findings": "Moderate leukocytes, moderate gram-positive bacteria in clusters, and very few colonies of yeast.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

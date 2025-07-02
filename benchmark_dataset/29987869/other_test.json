@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Missense mutation K330E identified in PLG gene; no mutations in F12 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Remarkable swelling of the tongue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Sequencing",
+            "date": "Not specified",
+            "findings": "c.988A>G transition causing a missense mutation changing codon AAA for Lys to GAA for Glu at amino acid residue 330.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR-SSCP Analysis",
+            "date": "Not specified",
+            "findings": "An additional abnormal band visible in Patient 1 and Patient 2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Treatment with Tranexamic Acid",
+            "date": "2 years ago for Patient 3",
+            "findings": "Angioedema attacks terminated completely except for one during treatment.",
+            "changes_over_time": "Prophylactic administration led to almost complete inhibition of attacks."
+        },
+        {
+            "procedure_name": "Intranasal Intubation",
+            "date": "Not specified",
+            "findings": "Performed due to severe tongue swelling and airway obstruction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

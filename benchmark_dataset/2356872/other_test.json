@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Kellner Symptom Questionnaire",
+            "date": "Not specified",
+            "findings": "Patient had a very high hostility score of 15 (maximum 23) at initial evaluation.",
+            "changes_over_time": "Two months after treatment, the hostility score was 0, remained 0 two months later, and was 2 after five months."
+        },
+        {
+            "procedure_name": "Kellner Symptom Questionnaire",
+            "date": "Not specified",
+            "findings": "The patient's hostility score was 16 during the evaluation.",
+            "changes_over_time": "The hostility score dropped to 6 after treatment and remained the same three months later."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Patient reported episodes of anger attacks accompanied by autonomic arousal symptoms (tachycardia, sweating, flushing).",
+            "changes_over_time": "Marked improvement in symptoms observed after treatment with clomipramine."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Patient described episodes of anger that led to outbursts with autonomic symptoms.",
+            "changes_over_time": "After restarting clomipramine, the patient reported no anger attacks for the next four months."
+        }
+    ]
+}

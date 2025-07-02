@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Pallor, dyspnea, and tachycardia with periodic gallop rhythm.",
+            "changes_over_time": "Despite initial therapy with oxygen, digoxin, captopril, and furosemide, cardiovascular function continued to worsen."
+        },
+        {
+            "date": "2 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest x-ray showed cardiomegaly; echocardiography revealed left ventricular dilation (diastolic diameter, 41.5 mm), decreased contractility, and mild to moderate mitral valve insufficiency; ECG showed sinus rhythm with left bundle-branch block and repolarization abnormalities.",
+            "changes_over_time": "Deterioration in cardiac function leading to readmission at 10 months of age."
+        },
+        {
+            "date": "10 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Decompensated heart failure upon readmission.",
+            "changes_over_time": "Significant deterioration in cardiovascular status that resulted in death 8 days later."
+        }
+    ]
+}

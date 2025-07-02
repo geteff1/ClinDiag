@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "20 months before this evaluation",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "20 months before this evaluation",
+            "findings": "Mild, diffuse bronchial-wall thickening, mildly enlarged lymph nodes in the paracardiac region, porta hepatis, mesentery, and retroperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "18 months before this evaluation",
+            "findings": "Enlarged periportal lymph nodes, mild splenomegaly, no focal lesions in liver, pancreas, kidneys, spleen, or adrenal glands.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "16 months before this evaluation",
+            "findings": "Mild bronchial-wall thickening, lymphadenopathy in the axillae (largest node 2.3 cm by 1.3 cm), enlarged right epicardial lymph node (1.5 cm by 1.1 cm), enlarged nodes in the portacaval, peripancreatic, and mesenteric regions (largest node 4.2 cm by 2.9 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG) PET",
+            "date": "13 months before this evaluation",
+            "findings": "FDG-avid lymph nodes in axillae, paracardial region, and near the right internal thoracic artery, enlargement of liver and spleen with diffuse FDG uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET with CT for attenuation correction",
+            "date": "7 months before this evaluation",
+            "findings": "Splenomegaly, stably enlarged FDG-avid lymph nodes in axillae, internal thoracic artery region, paracardiac region, and retroperitoneum. No hilar lymphadenopathy, diffuse mild smooth bronchial-wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

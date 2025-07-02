@@ -1,0 +1,15 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "coronary artery vasospasm",
+        "differential_diagnosis": [
+            "premature coronary artery disease",
+            "coronary artery vasospasm",
+            "hypertrophic cardiomyopathy",
+            "infiltrative cardiomyopathy",
+            "anomalous coronary artery",
+            "arrhythmia (supraventricular or ventricular)",
+            "myocarditis"
+        ],
+        "diagnostic_reasoning": "The patient exhibited episodes of chest pain associated with nonsustained ventricular tachycardia, telemetry findings consistent with ventricular tachycardia, and ST elevation. Coronary angiography revealed significant coronary artery lesions that improved with nitroglycerin, confirming coronary artery vasospasm. Additionally, the patient's episodes of chest pain were more characteristic of vasospasm, particularly occurring early in the morning when vagal tone is greater and at rest."
+    }
+}

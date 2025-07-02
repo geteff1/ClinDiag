@@ -1,0 +1,104 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.9°C (100.2°F)",
+                "blood_pressure": "138/62 mm Hg",
+                "pulse": "91 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "mental_status": "alert but could not consistently follow commands",
+                "pupils": "equal, symmetric, and reactive to light and accommodation",
+                "oral_exam": "no lesions noted",
+                "neck": "supple with no cervical lymphadenopathy or thyroid abnormalities",
+                "facial": "no asymmetry",
+                "motor": "no focal motor deficits",
+                "reflexes": "normal bilaterally",
+                "babinski_sign": "not present bilaterally",
+                "skin": "no rash or lesions noted",
+                "musculoskeletal": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 1",
+            "vital_signs": {
+                "temperature": "38.5°C (101.3°F)",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Increased temperature noted"
+        },
+        {
+            "date": "Day 8",
+            "vital_signs": {
+                "temperature": "38.4°C (101.1°F)",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Further progressing temperature increase"
+        },
+        {
+            "date": "Day 11",
+            "vital_signs": {
+                "temperature": "39.4°C (102.9°F)",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Temperature rose again, patient became more lethargic"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "alertness": "patient was alert and afebrile but had minimal improvement in speech",
+                "speech": "evident aphasia persist"
+            },
+            "changes_over_time": "Some improvement in lethargy but no improvement in aphasia"
+        },
+        {
+            "date": "Day 20",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Reduction in mass effect observed in MRI",
+            "changes_over_time": "No change in temporal-lobe signal abnormality observed"
+        },
+        {
+            "date": "Day 80",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "necrosis": "extensive necrosis of the left temporal lobe observed in MRI"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

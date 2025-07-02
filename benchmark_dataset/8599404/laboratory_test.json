@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Lyme Disease Test",
+            "date": "Not specified",
+            "findings": "Markedly positive serum titers for Borrelia burgdorferi; titer optical density was 0.393 with a negative cutoff of 0.103.",
+            "changes_over_time": "Repeat Lyme serologies indicated higher than normal titers (0.478; 0.117 negative cutoff) after 4 weeks of antibiotic therapy."
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "Not specified",
+            "findings": "Normal protein and glucose content; negative for white cells and organisms initially. IgM antibodies appeared after 1 month of antibiotic therapy; presence of IgM antibodies consistent with acute Borrelia infection after treatment.",
+            "changes_over_time": "Initially negative for IgM but showed presence after 1 month of antibiotic therapy."
+        },
+        {
+            "procedure_name": "MRI Scan",
+            "date": "Not specified",
+            "findings": "Scattered punctate foci of signal abnormality in the subcortical white matter, predominantly in the frontal lobes; no ventricular enlargement or abnormal enhancement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SPECT Scan",
+            "date": "Not specified",
+            "findings": "Lower than normal blood flow in the frontotemporal regions bilaterally; no ischemic areas noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

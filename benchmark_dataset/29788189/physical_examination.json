@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Calcium levels: 9.64 to 11.4 mg/dL; Phosphate: 1.62 mmol/L; PTH: 12 pg/mL",
+            "relevant_findings": "Breathing difficulties due to micrognathia and bilateral choanal stenosis; hypertelorism; elongated high arched palate; downsloping palpebral fissures; large open fontanelles with widely spaced sagittal sutures; palpable rachitic rosary.",
+            "changes_over_time": "Serum calcium increased to upper normal range with associated hypercalciuria."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum calcium level of 10.5 mg/dL; PTH: <4 pg/mL; Phosphate: 0.81 mmol/L",
+            "relevant_findings": "Maximal adult height: 116.9 cm; severe and recurrent alignment abnormalities of legs; multiple osteotomies; kyphoscoliosis.",
+            "changes_over_time": "Serum calcium level remained high during childhood but normalized in adulthood; hypercalciuria persisted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum calcium: 9.4 mg/dL; PTH: 312 pg/mL; Phosphate: 1.55 mmol/L; Creatinine: 4.04 mg/dL; GFR: 22 mL/min/1.73 m²",
+            "relevant_findings": "Maximal adult height: 133 cm; severe kidney disease with nephrocalcinosis; marked bilateral renal calcifications.",
+            "changes_over_time": "Progressive decline in renal function noted since late 30s."
+        }
+    ]
+}

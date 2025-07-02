@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "Not specified",
+                "height": "98 cm",
+                "serum_leptin": "35 ng/ml",
+                "insulin": "14 pmol/liter",
+                "proinsulin": "1079 pmol/liter",
+                "fasting_blood_glucose": "4.0 mmol/liter",
+                "TSH": "4.8 pmol/liter",
+                "free_T4": "10.2 pmol/liter",
+                "0900_serum_cortisol": "78 nmol/liter"
+            },
+            "relevant_findings": {
+                "absence_of_reactive_hypoglycemia": "Yes",
+                "obesity": "Yes",
+                "persistent_diarrhea": "Yes",
+                "polyuria": "Yes at 4 years",
+                "high_levels_of_unprocessed_POMC": "Yes",
+                "high_ACTH_precursors": "549 pmol/liter"
+            },
+            "changes_over_time": {
+                "diarrhea": "Improved but did not achieve normal stools",
+                "obesity": "Severe obesity developed, increased food intake noted",
+                "polyuria": "Developed at age 4, no clear cause"
+            }
+        }
+    ]
+}

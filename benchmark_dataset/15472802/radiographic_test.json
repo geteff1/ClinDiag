@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "December 2000",
+            "findings": "Cavitary infiltrate (2 cm in diameter) in the left upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "February 2002",
+            "findings": "Nodule measuring 3 cm in diameter in the left upper lobe without lymphadenopathy and a low-attenuation image measuring 9 cm in diameter suggestive of a purulent collection in the thoracic wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "February 2002",
+            "findings": "Revealing a purulent collection in the thoracic wall.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

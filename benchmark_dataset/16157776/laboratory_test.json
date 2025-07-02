@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Severe and diffusely calcified pericardium observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT scan with cardiac CT angiography",
+            "date": "Not specified",
+            "findings": "Severe and dense calcification of the pericardium demonstrated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Simultaneous right and left heart catheterization",
+            "date": "Not specified",
+            "findings": "Elevation and equalization of diastolic pressures with characteristic dip and plateau.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Left ventriculography",
+            "date": "Not specified",
+            "findings": "Abrupt diastolic relaxation demonstrated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

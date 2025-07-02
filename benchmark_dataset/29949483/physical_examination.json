@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 37.0°C; Blood Pressure: Not specified; Heart Rate: Not specified; Respiratory Rate: Not specified",
+            "relevant_findings": "Tenderness in the bilateral lumbar paraspinal muscles; neurologic examination normal; multilevel degenerative disk disease revealed on lumbar spine radiography.",
+            "changes_over_time": "Later that day, temperature reached 38.9°C; fever, chills, myalgias of back and calves developed."
+        },
+        {
+            "date": "5 days after previous visit",
+            "vital_signs": "Temperature: 37.8°C; Blood Pressure: Not specified; Heart Rate: Not specified; Respiratory Rate: Not specified",
+            "relevant_findings": "Moxibustion marks on the upper back; swollen, tender area on the upper lateral aspect of the left testicle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Date of emergency department visit",
+            "vital_signs": "Temperature: 37.8°C then rose to 38.3°C; Blood Pressure: 126/64 mm Hg; Heart Rate: 74 bpm; Respiratory Rate: 18 breaths per minute; Oxygen Saturation: 97%",
+            "relevant_findings": "Patient appeared somewhat fatigued; no scleral icterus; normal oropharyngeal findings; supple neck with normal range of motion; non-tender spine and paraspinal muscles; no adenopathy; faint rales at lung bases; scattered bilateral rhonchi and wheezes; normal bowel sounds; abdomen soft, nontender, and nondistended; joints with full range of motion; guaiac-negative stool; normal motor strength.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "5th hospital day",
+            "vital_signs": "Temperature: 38.1 to 39.6°C; Blood Pressure: Not specified; Heart Rate: Not specified; Respiratory Rate: Not specified",
+            "relevant_findings": "Bilateral pleural effusions larger than on admission; persistent opacities at lung bases and right apex.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "7th hospital day",
+            "vital_signs": "Temperature: 40.1°C; Blood Pressure: Not specified; Heart Rate: Not specified; Respiratory Rate: Not specified",
+            "relevant_findings": "Swelling, pain, and tenderness recurred in the left scrotum; urinalysis revealed 2+ blood and 10 to 20 red cells per high-power field.",
+            "changes_over_time": "Follow-up ultrasound showed new engorgement of testicular vessels, suggestive of epididymo-orchitis."
+        },
+        {
+            "date": "10 days post-first ultrasound",
+            "vital_signs": "Not specified",
+            "relevant_findings": "New engorgement of testicular vessels noted during follow-up.",
+            "changes_over_time": "Increased engorgement compared to previous ultrasound."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic Laboratory Values",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "36.7%",
+                "Mean corpuscular volume": "77 µm³",
+                "Erythrocyte sedimentation rate": "58 mm/hr",
+                "White-cell count": "8,200 per mm³",
+                "Neutrophils": "41%",
+                "Lymphocytes": "48%",
+                "Atypical lymphocytes": "1%",
+                "Eosinophils": "2%",
+                "Platelet count": "253,000 per mm³",
+                "Prothrombin time": "Normal",
+                "Partial-thromboplastin time": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Not specified",
+            "findings": {
+                "Urea nitrogen": "33 mg/dl",
+                "Creatinine": "2.1 mg/dl",
+                "Glucose": "139 mg/dl",
+                "Sodium": "137 mmol/liter",
+                "Potassium": "4.7 mmol/liter",
+                "Chloride": "98 mmol/liter",
+                "Carbon dioxide": "29.8 mmol/liter",
+                "Calcium": "Normal",
+                "Phosphorus": "Normal",
+                "Bilirubin Total": "Normal",
+                "Enzymes": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Third hospital day",
+            "findings": {
+                "Induration": "16 mm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Sixth hospital day",
+            "findings": {
+                "Organism": "Gram-negative rods",
+                "Result": "Identified as Brucella melitensis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic Studies",
+            "date": "Not specified",
+            "findings": {
+                "IgM and IgG antibodies": "High titer of 1:640"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

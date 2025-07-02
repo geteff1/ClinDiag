@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "66 bpm",
+                "blood_pressure": "122/80 mmHg",
+                "arterial_oxygen_saturation": "88%",
+                "estimated_right_ventricular_systolic_pressure": "110 mmHg",
+                "systolic_pulmonary_artery_pressure": "88 mmHg",
+                "left_atrial_pressure_before_occlusion": "20 mmHg",
+                "left_atrial_pressure_after_occlusion": "30 mmHg",
+                "mean_pulmonary_artery_wedge_pressure_before_occlusion": "18 mmHg",
+                "mean_pulmonary_artery_wedge_pressure_after_occlusion": "21 mmHg",
+                "brain_natriuretic_peptide": "2.718 pg/mL"
+            },
+            "relevant_findings": {
+                "ecg": "4:1 atrial flutter",
+                "chest_x_ray": "marked cardiomegaly",
+                "echocardiogram": "marked concentric hypertrophy of the left ventricle with severe tricuspid valve regurgitation and preserved ejection fraction",
+                "history": "orthopnea with severe systemic edema, worsening dyspnea, and significant weight gain (20 kg over past year)"
+            },
+            "changes_over_time": {
+                "post_surgery": "improvement in symptoms from NYHA class III to II and marked decrease in pleural effusion"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood tests",
+            "date": "Not specified",
+            "findings": "No notable abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "No notable abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney function tests",
+            "date": "Not specified",
+            "findings": "No notable abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "No notable abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Initial lumbar puncture",
+            "date": "Not specified",
+            "findings": "Initial pressures approximately 220 mmH2O; final pressures around 90 mmH2O.",
+            "changes_over_time": "Decrease in lumbar puncture pressure from 220 mmH2O to 90 mmH2O."
+        },
+        {
+            "procedure_name": "CSF analyses (routine, biochemical, cytological)",
+            "date": "Not specified",
+            "findings": "No significant abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "Not specified",
+            "findings": "Extensive softening lesions and developmental abnormalities in the right cerebral hemisphere, accompanied by POR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Asymmetry in the background activity of both brain regions, epileptic discharges in the left temporal region during interictal periods, and slow wave activity with medium amplitude starting in the left temporal region during ictal periods.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

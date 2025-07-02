@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Hyponatremia (129 mmol/liter), Hyperkalemia (6.4 mmol/liter)",
+            "changes_over_time": "Plasma sodium remained unchanged (135 mmol/liter) under therapy."
+        },
+        {
+            "procedure_name": "Plasma Aldosterone",
+            "date": "Not specified",
+            "findings": "Elevated (2554 pg/ml; normal reference range for age 150-1050 pg/ml)",
+            "changes_over_time": "Decreased (1395 pg/ml; normal reference range for age 100-880 pg/ml) after 24 months."
+        },
+        {
+            "procedure_name": "Plasma Renin Activity",
+            "date": "Not specified",
+            "findings": "Elevated (240 ng/ml; normal reference range for age 1.5–10.2 ng/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma Creatinine",
+            "date": "Not specified",
+            "findings": "Normal range",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sweat Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal range",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Renin",
+            "date": "Not specified",
+            "findings": "Slightly elevated (43.2 mU/liter; normal reference range 3.3–41 mU/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Aldosterone",
+            "date": "Not specified",
+            "findings": "Slightly elevated (379 pg/ml; normal reference range for age 40–310 pg/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour Urinary Steroid Analysis",
+            "date": "Not specified",
+            "findings": "Aldosterone metabolites (tetrahydroaldosterone and 18-hydroxy-tetrahydroaldosterone) were normal",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

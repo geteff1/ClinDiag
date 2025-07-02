@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prolactin",
+            "date": "Not specified",
+            "findings": "4.9 µg/L [reference range, 2-20 µg/L]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid-stimulating hormone (TSH)",
+            "date": "Not specified",
+            "findings": "1.7 mIU/mL [reference range, 0.27-4.2 mIU/mL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "Not specified",
+            "findings": "505 ng/dL [17.5 nmol/L]; reference range, 270-1100 ng/dL [9.4-38.2 nmol/L]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free testosterone",
+            "date": "Not specified",
+            "findings": "1.0 ng/dL [0.03 nmol/L]; reference range, 1.5-3.5 ng/dL [0.05-0.12 nmol/L]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prostate-specific antigen (PSA)",
+            "date": "Not specified",
+            "findings": "1.4 ng/mL [reference range, 0-4 ng/mL]",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "White Blood Cells": "10.6 (4.1–11.2)",
+                "Hemoglobin": "15.3 g/dl (11.5–15.1)",
+                "Hematocrit": "45.0% (35–46)",
+                "Platelets": "503 (140–400)",
+                "Sodium": "137 mEq/l (136–145)",
+                "Potassium": "4.2 mEq/l (3.5–5.1)",
+                "Chloride": "96 mEq/l (98–107)",
+                "Bicarbonate": "27 (20–27)",
+                "Blood Urea Nitrogen": "20 mg/dl (6–20)",
+                "Creatinine": "0.8 (0.5–1.2)",
+                "Glucose": "68 mg/dl (65–115)",
+                "Calcium": "10.9 mEq/l (8.8–10.5)",
+                "Magnesium": "1.9 mEq/l (1.3–2.1)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

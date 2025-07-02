@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 39.7°C; Heart rate: Not specified; Blood pressure: Not specified; Respiratory rate: Not specified",
+            "relevant_findings": "Fever, chills, fatigue, weakness, nausea, vomiting, unsteady gait, needing assistance to walk, decreased oral intake, tremulousness of the arms and jaw.",
+            "changes_over_time": "Patient became progressively less interactive over the next 2 days."
+        },
+        {
+            "date": "4 days before current admission",
+            "vital_signs": "Temperature: 39.4°C; Other vital signs: Normal",
+            "relevant_findings": "Patient appeared uncomfortable and ill, was trembling, alert and oriented, followed commands with single-word answers, dry oral mucous membranes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "On current admission",
+            "vital_signs": "Normal",
+            "relevant_findings": "Somnolent, nonverbal, unable to follow commands, intermittent eye opening, tracking with conjugate gaze, brisk deep-tendon reflexes, nuchal rigidity, systolic ejection murmur (grade 2/6), no movement of arms after pressure to fingernail beds.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

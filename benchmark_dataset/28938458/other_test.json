@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pituitary Surgery",
+            "date": "Not specified",
+            "findings": "Tumor tissue was positive for ACTH, had high mitotic numbers, atypical nuclei, Ki-67 40%, p53 positive in the majority of cells.",
+            "changes_over_time": "After the first surgery, ACTH transiently decreased to 11 pmol/L and s-cortisol to 42 nmol/L. After subsequent treatments, ACTH remained below 100 pmol/L for 10 months, then rapidly increased to 43000 pmol/L with liver enzyme elevations."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy confirmed a pituitary origin of the liver metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "MRI showed a pituitary tumor eroding the floor of the sella and extending into the sphenoidal sinus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Not specified",
+            "findings": "The tumor showed unambiguous loss of MSH2 and MSH6 with retention of MLH1 and PMS2; classified as MSI-low.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiotherapy",
+            "date": "Not specified",
+            "findings": "Received fractionated radiotherapy 50 Gy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

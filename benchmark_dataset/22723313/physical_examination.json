@@ -1,0 +1,77 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "182 cm",
+                "weight": "89 kg",
+                "arm_span": "187 cm",
+                "waist_circumference": "108 cm"
+            },
+            "relevant_findings": {
+                "clinical_features": [
+                    "Bilateral gynecomastia",
+                    "Scant normally distributed pubic and axillary hair (Tanner stage 2)",
+                    "Juvenile voice",
+                    "Penile length: 4 cm",
+                    "Testicular volume: 8 ml"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "testosterone_baseline": "0.49 ng/ml",
+                "testosterone_peak": "4.32 ng/ml",
+                "LH": "Not detectable",
+                "FSH_initial": "8.7 mIU/ml",
+                "FSH_peak": "10.7 mIU/ml"
+            },
+            "relevant_findings": {
+                "initial_lab_results": [
+                    "LH level: Not detectable",
+                    "FSH: Normal",
+                    "Testosterone: Low",
+                    "ACTH: Low",
+                    "Estradiol: Low",
+                    "Prolactin: Normal",
+                    "IGF-I: Normal",
+                    "Cortisol: Normal",
+                    "TSH: Normal"
+                ],
+                "testicular_biopsy": [
+                    "Heterogeneous seminiferous tubules",
+                    "Few Leydig cells present",
+                    "Half of the tubules hyalinized or hypoplastic",
+                    "Presence of immature Sertoli cells and spermatogonia"
+                ]
+            },
+            "changes_over_time": {
+                "testosterone_replacement_therapy": [
+                    "Induced virilization",
+                    "Penile growth: 8 cm",
+                    "Testicular volume increased to 18 ml",
+                    "After chorionic gonadotropin therapy: Testosterone maintained in normal range, LH remained undetectable"
+                ]
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "testicular_volume_after_therapy": "18.6 ml",
+                "testosterone_mean": "4.92 /H110060.98 ng/ml",
+                "semen_volume": "0.38 ml",
+                "sperm_count": "0.38/H1100310^6 spermatozoa per ejaculate"
+            },
+            "relevant_findings": {
+                "testicular_biopsy_followup": [
+                    "A few Leydig cells were observed",
+                    "Spermatogenesis present but greatly reduced",
+                    "Abnormal shape and motility of spermatozoa"
+                ]
+            },
+            "changes_over_time": "Over a period of 12 months post-therapy, the patient became oligospermic despite persistence of undetectable LH levels."
+        }
+    ]
+}

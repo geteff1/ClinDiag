@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White-cell count",
+            "date": "3 days before admission",
+            "findings": "5710 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased from 6490 (7 days before admission) to 8450 (5 days before admission) and then decreased to 5710 on admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "On admission",
+            "findings": "93,000 per mm3 (normal range: 150,000–400,000)",
+            "changes_over_time": "Decreased from 166,000 (3 days before admission) to 93,000 on admission."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "3 days before admission",
+            "findings": "424 U/liter (normal range: 120–246)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "On admission",
+            "findings": "5 mm/hr (normal range: 0–20)",
+            "changes_over_time": "Increased from 1 (7 days before admission) and 4 (3 days before admission) to 5 on admission."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "3 days before admission",
+            "findings": "47.3 mg/liter (normal range: 0–8.0)",
+            "changes_over_time": "Increased from 6.0 (7 days before admission) to 48.5 (5 days before admission) and then decreased to 47.3 on admission."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "On admission",
+            "findings": "63 white cells per mm3, with 18% segmented neutrophils, 64% lymphocytes, and 18% macrophages; glucose 45 mg/dl (normal range: 40–70), total protein 190 mg/dl (normal range: 15–45). Xanthochromia present.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood sodium level",
+            "date": "On admission",
+            "findings": "133 mmol per liter (normal range: 135–145)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

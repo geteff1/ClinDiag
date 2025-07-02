@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "March 2012",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "August 2012",
+            "findings": "Left ventricular tumor affecting the mitral annulus.",
+            "changes_over_time": "New intracardiac tumor formation identified."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "August 2012",
+            "findings": "Left-ventricular tumor.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

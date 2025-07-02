@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stent Implantation",
+            "date": "December 2000 to January 2001",
+            "findings": "Minimal intimal hyperplasia at 6-month follow-up; 8 of 13 patients (61.5%) had angiographic restenosis at 12 months.",
+            "changes_over_time": "Antiproliferative effect not maintained at the 12-month follow-up, resulting in delayed occurrence of angiographic restenosis."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "6-month follow-up",
+            "findings": "Target lesion revascularization (20%). Late loss: 0.47 mm, late loss index: 0.17.",
+            "changes_over_time": "Compared to the 12-month follow-up showing a late loss of 1.36 mm and late loss index of 0.62."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "12-month follow-up",
+            "findings": "8 patients had angiographic restenosis (61.5%).",
+            "changes_over_time": "Increased from 2 patients (13.3%) at 6 months to 8 patients (61.5%) at 12 months."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/20 (right) and 20/17 (left). Five months later, recorded acuity was 20/30 bilaterally.",
+            "changes_over_time": "Decreased visual acuity over five months."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/40 bilaterally. Three months later, recorded visual acuity was 20/30 bilaterally.",
+            "changes_over_time": "Improved visual acuity over three months."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initial acuity of 20/17 bilaterally; unchanged 11 months later.",
+            "changes_over_time": "No change in visual acuity."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/20 bilaterally; unchanged after 21 months.",
+            "changes_over_time": "No change in visual acuity."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/30 (right) and 20/17 (left); unchanged 10 months later.",
+            "changes_over_time": "No change in visual acuity."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/20; after four years, visual acuity was 20/17 bilaterally.",
+            "changes_over_time": "Slight improvement in visual acuity over four years."
+        },
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Initially 20/125 (right) and 20/30 (left); at latest visit aged 79, visual acuities were 20/80 (right) and 20/200 (left).",
+            "changes_over_time": "Decreased visual acuity over several years."
+        }
+    ]
+}

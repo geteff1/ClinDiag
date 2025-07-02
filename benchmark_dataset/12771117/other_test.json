@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Azithromycin Prescription",
+            "date": "Not specified",
+            "findings": "Patient was prescribed azithromycin for a viral illness",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Levofloxacin Prescription",
+            "date": "Not specified",
+            "findings": "Patient was prescribed levofloxacin after azithromycin failed to improve her condition",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchodilator Treatment",
+            "date": "Not specified",
+            "findings": "Patient was started on albuterol and steroid inhalers",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Emergency Department Visit",
+            "date": "Not specified",
+            "findings": "Normal chest radiographs; patient had fever of 101°F and increased cough",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

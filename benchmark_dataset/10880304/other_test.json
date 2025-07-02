@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "March 1998",
+            "findings": "Culture yielded Acinetobacter lwofii.",
+            "changes_over_time": "Subsequent blood cultures were negative after treatment."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "April 1998",
+            "findings": "A gram-negative rod was isolated from the culture.",
+            "changes_over_time": "The same gram-negative rod was identified from cultures obtained peripherally and through the catheter."
+        },
+        {
+            "procedure_name": "Microscopic examination",
+            "date": "Not specified",
+            "findings": "Demonstrated that the gram-negative rod had distinctive nonstaining vacuoles.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture of catheter tip",
+            "date": "Not specified",
+            "findings": "Yielded the same gram-negative rod.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cultural testing",
+            "date": "Not specified",
+            "findings": "Organism was identified as M. mesophilicum, susceptible to gentamicin and ciprofloxacin but resistant to ceftazidime and mezlocillin.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5°C",
+                "pulse": "101 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "examination_findings": [
+                    "Decreased breath sounds in the right lung",
+                    "Soft cardiac murmur"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "examination_findings": [
+                    "Decreased breath sounds bilaterally, greater decrease on the left side"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

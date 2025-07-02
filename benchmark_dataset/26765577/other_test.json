@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Exome Sequencing",
+            "date": "Not specified",
+            "findings": "A heterozygous in-frame deletion of six nucleotides in exon 7 of RET (c.1512_1517delGGAGGG), resulting in a deletion of two amino acids (p.505_506del).",
+            "changes_over_time": "The RET p.505_506 deletion was noted to lead to ligand-independent autophosphorylation and increased activation of the MAPK/ERK and PI3K/AKT pathways, promoting cell proliferation."
+        },
+        {
+            "procedure_name": "Histopathology",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of bilateral pheochromocytoma after bilateral adrenalectomy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound",
+            "date": "At age 37 years",
+            "findings": "Showed a thyroid nodule with a diameter of 5 mm.",
+            "changes_over_time": "Basal calcitonin, previously normal, was now mildly elevated at 7.9 pg/mL. After stimulation with pentagastrin, calcitonin increased to 492 pg/mL, suspecting MTC."
+        },
+        {
+            "procedure_name": "Thyroidectomy and Central Lymphadenectomy",
+            "date": "Not specified",
+            "findings": "Histopathology confirmed a 4-mm medullary thyroid carcinoma (MTC) with stromal desmoplasia.",
+            "changes_over_time": "Post-surgical follow-up indicated plasma metanephrines were within the normal range and serum calcitonin was nondetectable, indicating complete remission."
+        }
+    ]
+}

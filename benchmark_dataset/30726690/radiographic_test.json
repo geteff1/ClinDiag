@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "no masses, lymphadenopathy, or organomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "noncontrast CT",
+            "date": "Not specified",
+            "findings": "mild perinephric stranding of the left kidney and atherosclerotic changes along the aortic arch and descending aorta",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "no valve vegetations",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "positron-emission tomography scan",
+            "date": "Not specified",
+            "findings": "no signs of endovascular or other infection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "no gallstones",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

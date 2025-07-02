@@ -1,0 +1,90 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urinary protein level was 100 mg/dL; the sediment contained 15-20 red cells, 1-3 white cells, no red-cell casts, and a few bacteria per high-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemogram",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "33.3%",
+                "white_cell_count": "23,500",
+                "differential_count": {
+                    "neutrophils": "85%",
+                    "band_forms": "2%",
+                    "lymphocytes": "10%",
+                    "monocytes": "3%"
+                },
+                "platelet_count": "279,000",
+                "reticulocyte_count": "5.7%",
+                "erythrocyte_sedimentation_rate": "135 mm/hr",
+                "mean_corpuscular_volume": "83 µm³",
+                "prothrombin_time": "14.4 seconds",
+                "partial_thromboplastin_time": ">100 seconds",
+                "d_dimer_test": "Positive",
+                "fibrinogen": "757 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemistry",
+            "date": "First hospital day",
+            "findings": {
+                "urea_nitrogen": "24 mg/dL",
+                "random_glucose": "148 mg/dL",
+                "protein_total": "6.8 g/dL",
+                "albumin": "3.2 g/dL",
+                "globulin": "3.6 g/dL",
+                "sodium": "129 mmol/L",
+                "potassium": "3.6 mmol/L",
+                "chloride": "94 mmol/L",
+                "carbon_dioxide": "26.1 mmol/L",
+                "amylase": "135 U/L",
+                "lipase": "79 U/L",
+                "aspartate_aminotransferase": "209 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemistry",
+            "date": "Second hospital day",
+            "findings": {
+                "urea_nitrogen": "Not specified",
+                "random_glucose": "Not specified",
+                "protein_total": "Not specified",
+                "albumin": "Not specified",
+                "globulin": "Not specified",
+                "sodium": "136 mmol/L",
+                "potassium": "3.3 mmol/L",
+                "chloride": "104 mmol/L",
+                "amylase": "Not specified",
+                "lipase": "72 U/L",
+                "aspartate_aminotransferase": "58 U/L",
+                "total_bilirubin": "Normal",
+                "magnesium": "Normal",
+                "alanine_aminotransferase": "Normal",
+                "alkaline_phosphatase": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory tests with follow-up",
+            "date": "Follow-up after surgery",
+            "findings": {
+                "IgG_anticardiolipin": "1:64",
+                "antinuclear_antibodies": "Positive (titer 1:320)",
+                "anti_RNP": "Positive",
+                "anti_Sm": "Positive",
+                "anti_La": "Positive",
+                "anti_Ro": "Positive",
+                "total_complement_level": "58 mg/dL",
+                "C3_level": "59 mg/dL",
+                "C4_level": "<10 mg/dL"
+            },
+            "changes_over_time": "A year later persistent chronic microscopic hematuria and non-nephrotic-range proteinuria were noted with preserved renal function."
+        }
+    ]
+}

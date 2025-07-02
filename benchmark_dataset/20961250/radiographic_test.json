@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography of the abdomen and uterus",
+            "date": "Not specified",
+            "findings": "Moderate amount of maternal peritoneal fluid and a small pleural effusion on the left side; gallbladder appeared normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis in the lung bases and no evidence of free air in the upper abdomen.",
+            "changes_over_time": "Repeat chest radiograph showed subsegmental atelectasis in the lower lobe of the left lung."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Postpartum day 1",
+            "findings": "Minimal bibasilar linear atelectasis; minimal fluid around a nondistended gallbladder; enlarged, heterogeneous, and hypervascular postpartum uterus; moderate amount of free intraperitoneal fluid with a density of 60 Hounsfield units.",
+            "changes_over_time": "CT scan shows normal, enlarged, hypervascular postpartum uterus, with hyperdense fluid adjacent to it."
+        }
+    ]
+}

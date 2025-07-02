@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/80 mm Hg",
+                "pulse": "78 bpm",
+                "weight": "95.3 kg"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Obesity",
+                    "Facial acne",
+                    "Healed surgical scar on the neck",
+                    "Mobile, rubbery nodule, 4 cm in diameter, in the upper left thyroid bed",
+                    "Positive Chvostek's sign on percussion of the homolateral masseter region"
+                ],
+                "examination": "Normal except for noted findings"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eight months later",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "weight": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Left thyroid nodule measured 6 cm in diameter",
+                    "Computed tomography revealed a heterogeneous mass, 48 mm in diameter, with central calcification at the level of the left thyroid bed"
+                ],
+                "examination": "Not specified"
+            },
+            "changes_over_time": "Increase in left thyroid nodule size from 4 cm to 6 cm"
+        },
+        {
+            "date": "When the patient was 36.5 years old",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "weight": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Micronodular lesions on the gingiva and tongue",
+                    "Small hypoechoic region of the left thyroid bed measuring 6 mm in maximal dimension, an increase from 3 mm 1.5 years earlier"
+                ],
+                "examination": "The remainder of the examination was unchanged"
+            },
+            "changes_over_time": "Increase in thyroid nodule size from 3 mm to 6 mm"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": "Diagnosis of primary myelofibrosis (PMF) with grade 2 myelofibrosis (MF) exhibited in the biopsy.",
+            "changes_over_time": "Biopsy exhibited MF grade 1 during further diagnostic tests."
+        },
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "Revealed 45, X/46, XX, confirming the diagnosis of Turner syndrome (TS).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "No structural defects in the heart and major vessels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Large cystic mass measuring 30 mm × 148 mm on the right ovary, indicative of a serous cystadenoma.",
+            "changes_over_time": "Abdominal CT later detected an ovarian cystic mass measuring 236 mm × 143 mm × 255 mm on the right side."
+        },
+        {
+            "procedure_name": "Gene mutation testing",
+            "date": "Not specified",
+            "findings": "Revealed MPL and SH2B3 mutations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Revealed splenomegaly (114 mm × 100 mm × 163 mm), cirrhosis, and portal hypertension.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure_right_eye": "14 mmHg",
+                "intraocular_pressure_left_eye": "18 mmHg"
+            },
+            "relevant_findings": {
+                "visual_acuity_right_eye": "6/6",
+                "visual_acuity_left_eye": "6/18",
+                "keratic_precipitates": "Multiple, diffuse in left cornea",
+                "anterior_chamber_cells": "+++ in left eye",
+                "vitreous_cavity_cells": "++ in left vitreous",
+                "haze": "++ in left vitreous",
+                "white_lesion": "Present in superior-temporal aspect of left ocular fundus consistent with retinitis"
+            },
+            "changes_over_time": "Visual acuity improved from 6/18 to 6/9 within 2 weeks; area of retinitis healed leaving a pigmented scar."
+        }
+    ]
+}

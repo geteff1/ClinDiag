@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pathological examination",
+            "date": "Not specified",
+            "findings": "Microscopic examination of paraffin-embedded histopathological sections showed pancreatic tumor cells distributed in strips or diffuse sheets with characteristic salt and pepper-like nuclei. Immunohistochemistry confirmed CK and beta-catenin were positive, supporting the diagnosis of pancreatic neuroendocrine tumors.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological examination of liver tumor",
+            "date": "Not specified",
+            "findings": "The liver-associated tumor contained epithelioid cells, perivascular muscle-like cells, and adipocytes. Immunohistochemistry revealed GPC-3 was negative and Melan A was positive, supporting the diagnosis of perivascular epithelioid cell tumor (PEcoma).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological examination of splenic tumor",
+            "date": "Not specified",
+            "findings": "The splenic tumor was a round-shaped nodule with clear boundaries, consisting of uniformly sized oval-shaped tissue-like cells and spindle-shaped muscle-like cells. Immunohistochemistry showed positive staining for both SMA and CD68, leading to the diagnosis of splenic hamartoma (myoid hamartoma).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic mutation detection",
+            "date": "Not specified",
+            "findings": "Genetic mutation detection revealed heterozygous variants in BAP1 and TSC2 genes, suggesting a possible tumor susceptibility syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

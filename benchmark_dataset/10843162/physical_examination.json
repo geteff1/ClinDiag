@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 187 cm; Upper to lower segment ratio: 0.85; Height at 39 years old: 190 cm",
+            "relevant_findings": "Eunuchoid body proportions and genu valgum were present.",
+            "changes_over_time": "Height increased from 187 cm (31 years old) to 190 cm (39 years old)."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Bilateral necrosis of femoral heads detected by x-ray.",
+            "changes_over_time": "No modifications in bilateral established necrosis of femoral heads recorded thereafter."
+        },
+        {
+            "date": "Phase 1 (before estradiol treatment)",
+            "vital_signs": "BMD: 0.933 g/cm2; Serum testosterone: Normal range; Serum estradiol: Undetectable; Serum LH: 5.6 mIU/mL; Serum FSH: 17.1 mIU/mL.",
+            "relevant_findings": "Unfused distal femoral and proximal tibial epiphyses; diffuse demineralization observed.",
+            "changes_over_time": "Bone age was 14.8 years."
+        },
+        {
+            "date": "Phase 2 (after 6 months of TE treatment)",
+            "vital_signs": "BMD increased to 1.051 g/cm2; Serum testosterone decreased to 21 ng/dL; Serum estradiol increased to 97 pg/mL; Serum LH decreased to 0.8 mIU/mL; Serum FSH decreased to 1.0 mIU/mL.",
+            "relevant_findings": "Evident increase in estradiol levels above normal, testosterone levels below normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Phase 3 (after 14 months of TE treatment)",
+            "vital_signs": "BMD reached maximum value of 1.275 g/cm2; Serum testosterone returned to normal range; Serum estradiol decreased to 24 pg/mL; Serum LH returned to normal at 3.1 mIU/mL; Serum FSH slightly above normal.",
+            "relevant_findings": "Epidphal closure achieved at distal femoral and proximal tibial epiphyses.",
+            "changes_over_time": "Bone age increased to 16 years."
+        },
+        {
+            "date": "Phase 4 (after 24 months of TE treatment)",
+            "vital_signs": "BMD decreased to 1.029 g/cm2; Serum testosterone: 573.6 ng/dL; Serum estradiol: 15 pg/mL; Serum LH: 8.4 mIU/mL; Serum FSH: 14.8 mIU/mL.",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "BMD decrease noted from 1.275 g/cm2 (phase 3) to 1.029 g/cm2 (phase 4), showing a decline in increase from baseline."
+        }
+    ]
+}

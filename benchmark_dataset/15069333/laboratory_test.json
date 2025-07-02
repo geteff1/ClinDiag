@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "Not specified",
+            "findings": "Elevated creatinine at 230 mmol/L (previously 119 mmol/L 2 months prior).",
+            "changes_over_time": "Increased from 119 mmol/L to 230 mmol/L over 2 months; normalized within 48 hours after withdrawal of NSAIDs; transient rise after ketorolac administration."
+        },
+        {
+            "procedure_name": "Bone Scan",
+            "date": "Not specified",
+            "findings": "Increased uptake in L5/S1; incidental finding of diffuse bilateral increased renal uptake.",
+            "changes_over_time": "Resolution of the increased renal uptake noted on repeat bone scan after cessation of NSAIDs."
+        }
+    ]
+}

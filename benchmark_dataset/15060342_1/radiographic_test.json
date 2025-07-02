@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Normal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography",
+            "date": "1 year of age",
+            "findings": "Opened sutures for a child with progressive postnatal craniosynostosis.",
+            "changes_over_time": "Fusion of all sutures at 5 years of age, along with thumbprinting and anterior fontanelle bulge."
+        },
+        {
+            "procedure_name": "Computed Tomography",
+            "date": "27 months of age",
+            "findings": "Severe craniosynostosis with evidence of high intracranial pressure.",
+            "changes_over_time": "Indicated papilledema and dilated optic nerve sheaths."
+        },
+        {
+            "procedure_name": "Computed Tomography",
+            "date": "Not specified",
+            "findings": "Thumbprinting, anterior fontanelle prominence, and suture fusion.",
+            "changes_over_time": "Transition from normal to pathological findings over time."
+        }
+    ]
+}

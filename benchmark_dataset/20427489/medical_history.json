@@ -1,0 +1,16 @@
+{
+    "medical_history": {
+        "chief_complaint": "Adrenal tumor discovered incidentally on imaging studies.",
+        "history_of_present_illness": "Symptoms varied by patient; some presented with abdominal pain, while others were asymptomatic. The duration before detection was typically not specified, and symptoms progressed differently across cases. For example, one patient showed increasing hirsutism over 7 years.",
+        "past_medical_history": [
+            "Patient 1: Personal history of Crohn’s disease and partial mastectomy for a precancerous breast lesion.",
+            "Patient 2: Family history of fumarate hydratase deficiency.",
+            "Patient 3: Long-standing hypertension, duodenal ulcers, and renal calculi.",
+            "Patient 4: History of hysterectomy and hypertension.",
+            "Patient 6: Increasing hirsutism and testosterone secretion.",
+            "Patient 7: Previous right adrenalectomy for pheochromocytoma."
+        ],
+        "family_history": "Patient 1 had a family history notable for hereditary nonpolyposis colorectal cancer (HNPCC). Patient 2 had a family history of fumarate hydratase deficiency.",
+        "social_history": "Not specified."
+    }
+}

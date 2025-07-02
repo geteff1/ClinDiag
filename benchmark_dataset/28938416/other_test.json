@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pancreas histopathology",
+            "date": "Not specified",
+            "findings": "KCNJ11 sample showed decreased pancreas weight and insulin mass similar to type 1 diabetes, but no insulitis. HNF1A sample had low pancreas weight and marked reduction in insulin mass. GATA6 sample had severe pancreatic atrophy with abundant beta cells and severe amyloidosis. LMNA sample had preserved pancreas weight with abnormal islet architecture and exocrine fatty infiltrates.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS)",
+            "date": "Not specified",
+            "findings": "Identified likely pathogenic sequence changes in KCNJ11, HNF1A, GATA6, and LMNA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide level measurement",
+            "date": "Not specified",
+            "findings": "C-peptide levels were below the lower limit of detection in KCNJ11 case; in GATA6, it was low but detectable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry for insulin",
+            "date": "Not specified",
+            "findings": "Marked loss of beta cells with 0% insulin area in KCNJ11 case. HNF1A case showed small insulin+ islets; GATA6 showed all islets with beta cells but severe amyloidosis; LMNA case had normal insulin area of 1.61%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

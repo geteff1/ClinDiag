@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Ring-enhancing left frontoparietal mass with edema.",
+            "changes_over_time": "Follow-up MRI done 5 months later showed improvement in the brain abscess; increased MRI signal on T1-weighted sequences from the globus pallidus to the substantia nigra was also noted."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Pulmonary arteriovenous malformations (AVMs) were detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Hepatic telangiectasia and prominent vessels; early opacification of the left portal vein provided evidence of arterial-portal shunting.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

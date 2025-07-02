@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "64 inches",
+                "weight": "178 pounds (78.8 kg)",
+                "BMI": "29.8 kg/m2",
+                "random_glucose": "345 mg/dl",
+                "A1C": "8.9%"
+            },
+            "relevant_findings": {
+                "dilated_retinal_examination": "Background diabetic retinopathy"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "A1C": "8.1%"
+            },
+            "relevant_findings": "Glucose concentrations were less than 90 mg/dl fasting and before meals, and less than 150 mg/dl 1 h after meals.",
+            "changes_over_time": "A1C decreased from 8.9% to 8.1%."
+        },
+        {
+            "date": "Week 12",
+            "vital_signs": {
+                "A1C": "6.9%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "A1C further improved to less than 5.3% by week 20."
+        },
+        {
+            "date": "Week 20",
+            "vital_signs": {
+                "A1C": "Less than 5.3%"
+            },
+            "relevant_findings": "Ultrasound did not reveal evidence of major malformations.",
+            "changes_over_time": "A1C improved consistently during pregnancy."
+        },
+        {
+            "date": "38 weeks",
+            "vital_signs": {
+                "infant_weight": "8 pounds, 8 ounces"
+            },
+            "relevant_findings": "During delivery, glucose level maintained above 60 mg/dl and less than 120 mg/dl.",
+            "changes_over_time": "Patient's insulin dose reduced to the dose required at diagnosis."
+        }
+    ]
+}

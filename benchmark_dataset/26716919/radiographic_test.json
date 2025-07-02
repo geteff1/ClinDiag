@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Numerous nonspecific focal lesions (measuring ≤8 mm in diameter) throughout the periventricular and corona radiata white matter; lesions did not show enhancement after gadolinium administration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver",
+            "date": "Not specified",
+            "findings": "Heterogeneously hypoechoic parenchymal nodules (≤1 cm in diameter) in the right hepatic lobe; appearance reminiscent of macronodular cirrhosis. Patent portal vein with normal waveforms and flow velocity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the spleen",
+            "date": "Not specified",
+            "findings": "Splenomegaly with no evidence of varices.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "Not specified",
+            "findings": "Heterogeneous hepatic parenchymal enhancement; splenomegaly without evidence of varices or ascites; bile ducts not dilated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

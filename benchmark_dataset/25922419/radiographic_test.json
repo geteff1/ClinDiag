@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "QTc of 500 ms with extensive T-wave inversions in precordial leads V1-V4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "Negative for ARVC.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cardiac CT scan",
+            "date": "Not specified",
+            "findings": "Negative for ARVC.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

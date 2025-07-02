@@ -1,0 +1,63 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "171/75 mm Hg",
+                "pulse": "73 bpm",
+                "weight": "101 kg"
+            },
+            "relevant_findings": "Physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "186/79 mm Hg",
+                "pulse": "74 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "weight": "105 kg",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "jugular_venous_distention": "Distended to 8 cm when elevated to 30 degrees",
+                "lungs": "Mild expiratory wheezes diffusely and minimal crackles at both lung bases",
+                "heart": "First and second heart sounds normal, soft systolic murmur (grade 1/6) at the right upper sternal border",
+                "peripheral_pulses": "2+ in carotid arteries and extremities",
+                "edema": "2+ pitting edema to knees bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "206 mm Hg (recorded night before admission)",
+                "weight_change": "4.5 kg weight gain noted over the previous week"
+            },
+            "relevant_findings": {
+                "ankle_swelling": "Noticed intermittently for 1 month",
+                "headache": "Frontal headache developed (rated 6 of 10)",
+                "facial_muscle": "Mild left facial droop",
+                "visual_acuity": "20/25 in right eye, 20/100 in left eye"
+            },
+            "changes_over_time": "Report of pedal edema increasing over the previous week, pain in both calves making it difficult to walk."
+        },
+        {
+            "date": "On 2nd hospital day",
+            "vital_signs": {
+                "blood_pressure": "Ranges from 138 to 175 mm Hg systolic and from 64 to 79 mm Hg diastolic",
+                "weight": "99 kg"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure decreased from previous records"
+        },
+        {
+            "date": "On 3rd hospital day",
+            "vital_signs": {
+                "blood_pressure": "180/91 mm Hg"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

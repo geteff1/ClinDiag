@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Hormone (GH) test",
+            "date": "Not specified",
+            "findings": "Patient 1: Baseline GH concentration 39.1 ng/ml, >50 ng/ml after stimulation. Patient 2: Basal GH level 58 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I test",
+            "date": "Not specified",
+            "findings": "Patient 1: Serum IGF-I 20 ng/ml, -5.0 SDS; Patient 2: Serum IGF-I 20 ng/ml, -2.6 SDS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGFBP-3 test",
+            "date": "Not specified",
+            "findings": "Patient 1: IGFBP-3 1720 ng/ml, -2.6 SDS; Patient 2: IGFBP-3 1540 ng/ml, -2.0 SDS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GH Binding Protein (GHBP) test",
+            "date": "Not specified",
+            "findings": "Patient 1: GHBP 383 pmol/liter (normal range 431-1892); Patient 2: GHBP 208 pmol/liter (normal range 431-1892).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Height measurement",
+            "date": "Before IGF-I Therapy",
+            "findings": "Patient 1 height 90.3 cm, -4.8 SDS; After IGF-I therapy height velocity increased from -3.0 SDS to -1.1 SDS (first year), -1.4 SDS (second year), and -0.2 SDS (third year).",
+            "changes_over_time": "Height increased from -4.9 SDS to -3.8 SDS."
+        },
+        {
+            "procedure_name": "Body Mass Index (BMI) measurement",
+            "date": "Before and After 3 years of IGF-I therapy",
+            "findings": "Before: 13.9 kg/m²; After: 14.7 kg/m².",
+            "changes_over_time": "BMI increased from 13.9 kg/m² to 14.7 kg/m²."
+        }
+    ]
+}

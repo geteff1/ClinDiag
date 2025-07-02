@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Full blood count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total biochemistry panel",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor markers",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sex hormone levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron emission tomography",
+            "date": "Not specified",
+            "findings": "Excluded any occult neoplasm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Visual analogue scale for pain",
+            "date": "After botulinum toxin treatment",
+            "findings": "Intensity of pain varied from 4 to 7 (mean, 5); frequency of pain varied between 2 and 7 (mean, 3)",
+            "changes_over_time": "Pain intensity and frequency noted after 30 days showed a reduction following treatment."
+        }
+    ]
+}

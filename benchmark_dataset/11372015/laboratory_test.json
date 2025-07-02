@@ -1,0 +1,118 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic studies",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": [
+                    {
+                        "day": "Admission",
+                        "value": 32.4
+                    },
+                    {
+                        "day": "Second Hospital Day",
+                        "value": 34.5
+                    },
+                    {
+                        "day": "Third Hospital Day",
+                        "value": 33.8
+                    },
+                    {
+                        "day": "Fifth Hospital Day",
+                        "value": 33.7
+                    }
+                ],
+                "Mean corpuscular volume (µm³)": 85,
+                "Erythrocyte sedimentation rate (mm/hr)": 62,
+                "White-cell count (per mm³)": [
+                    {
+                        "day": "Admission",
+                        "value": 6600
+                    },
+                    {
+                        "day": "Second Hospital Day",
+                        "value": 9200
+                    },
+                    {
+                        "day": "Third Hospital Day",
+                        "value": 7900
+                    },
+                    {
+                        "day": "Fifth Hospital Day",
+                        "value": 9100
+                    }
+                ],
+                "Differential count (%)": {
+                    "Neutrophils": [
+                        73,
+                        69,
+                        69
+                    ],
+                    "Lymphocytes": [
+                        19,
+                        19,
+                        19
+                    ],
+                    "Monocytes": [
+                        7,
+                        7,
+                        7
+                    ],
+                    "Eosinophils": [
+                        1,
+                        5
+                    ]
+                },
+                "Platelet count (per mm³)": [
+                    {
+                        "day": "Admission",
+                        "value": 176000
+                    },
+                    {
+                        "day": "Second Hospital Day",
+                        "value": 187000
+                    },
+                    {
+                        "day": "Third Hospital Day",
+                        "value": 196000
+                    },
+                    {
+                        "day": "Fifth Hospital Day",
+                        "value": 212000
+                    }
+                ]
+            },
+            "changes_over_time": "Hematocrit remained stable with minor fluctuations; White-cell count increased on the second hospital day and then decreased before rising again; Platelet counts steadily increased."
+        },
+        {
+            "procedure_name": "Blood chemical tests",
+            "date": "Second Hospital Day, Third Hospital Day, Fifth Hospital Day",
+            "findings": {
+                "Urea nitrogen (mg/dl)": [
+                    {
+                        "day": "Second Hospital Day",
+                        "value": 0.4
+                    },
+                    {
+                        "day": "Third Hospital Day",
+                        "value": "Normal"
+                    },
+                    {
+                        "day": "Fifth Hospital Day",
+                        "value": 4.0
+                    }
+                ],
+                "Creatinine": "Normal",
+                "Calcium (mg/dl)": 8,
+                "Phosphorus": "Normal",
+                "Sodium (mmol/liter)": 142,
+                "Potassium (mmol/liter)": 3.8,
+                "Chloride (mmol/liter)": 105,
+                "Carbon dioxide (mmol/liter)": 22.8,
+                "Magnesium (mmol/liter)": 0.6,
+                "Lipase (U/dl)": 20
+            },
+            "changes_over_time": "Urea nitrogen increased from 0.4 on the second hospital day to 4.0 on the fifth hospital day; other parameters remained normal."
+        }
+    ]
+}

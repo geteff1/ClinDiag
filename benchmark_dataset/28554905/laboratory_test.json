@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Blood glucose peaked at 708 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "HbA1c was 15.9%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Elevated protein (207 mg/dL) and elevated glucose (194 mg/dL) but no pleocytosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Moderate, length-dependent motor and sensory, predominantly axonal polyneuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin E",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Heavy Metals Testing (Mercury and Lead)",
+            "date": "Not specified",
+            "findings": "Normal or negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Paraneoplastic Panel",
+            "date": "Not specified",
+            "findings": "Normal or negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Viral PCR",
+            "date": "Not specified",
+            "findings": "Normal or negative (for Epstein-Barr virus, herpesvirus, and varicella-zoster virus).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

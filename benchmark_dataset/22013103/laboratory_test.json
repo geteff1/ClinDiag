@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ACTH",
+            "date": "Not specified",
+            "findings": "Undetectable ACTH in all patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "Cortisol was undetectable on several occasions; complete cortisol deficiency confirmed later.",
+            "changes_over_time": "Cortisol concentrations were low during hypoglycemic episodes and undeclared before hydrocortisone treatment."
+        },
+        {
+            "procedure_name": "IGF-I",
+            "date": "Not specified",
+            "findings": "Very low IGF-I level of 38 ng/ml at age 5 yr in one patient.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunological investigation",
+            "date": "Not specified",
+            "findings": "Low levels of IgG, IgA, and IgM, which were below normal ranges.",
+            "changes_over_time": "One patient developed slightly decreased levels of IgG, IgA, and IgM after five years."
+        }
+    ]
+}

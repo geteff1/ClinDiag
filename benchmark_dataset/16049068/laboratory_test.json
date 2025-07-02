@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Initially elevated creatinine (166 µmol/L), progressed to chronic renal impairment with serum creatinine at 250 µmol/L.",
+            "changes_over_time": "Serum creatinine increased from 166 µmol/L to 250 µmol/L."
+        },
+        {
+            "procedure_name": "Proteinuria",
+            "date": "4 years old",
+            "findings": "Proteinuria at 4 years of age was significant at 0.8 g/L per day.",
+            "changes_over_time": "Subsequent serial urinalyses showed persistent heavy proteinuria."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "18 months old",
+            "findings": "Elevated creatinine (80 µmol/L).",
+            "changes_over_time": "Currently stable chronic renal impairment with creatinine at 320 µmol/L."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "3 years old",
+            "findings": "Mild chronic renal impairment (creatinine 100 µmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "6 months old",
+            "findings": "Moderate renal impairment (creatinine 99 µmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis for Protein",
+            "date": "8 months old",
+            "findings": "No evidence of proteinuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour Urinary Protein Assessment",
+            "date": "Not specified",
+            "findings": "Significant proteinuria of 4.56 g/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "Shows enlargement of a single cyst in the right kidney.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

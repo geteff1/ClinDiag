@@ -1,0 +1,16 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "insulinoma",
+        "differential_diagnosis": [
+            "hypoglycemia due to medications",
+            "endogenous hyperinsulinism",
+            "islet-cell nesidioblastosis",
+            "autoimmune hypoglycemia mediated by insulin antibodies",
+            "hypocortisolemia",
+            "acute cerebral ischemia",
+            "inflammatory conditions",
+            "arrhythmias"
+        ],
+        "diagnostic_reasoning": "The diagnosis of insulinoma was supported by the occurrence of hypoglycemia (blood glucose level of 40 mg/dL) that correlated with the patient's episodic neurologic symptoms, which resolved upon glucose administration, satisfying Whipple’s triad. Additional tests confirmed inappropriate endogenous insulin production as evidenced by elevated insulin and C-peptide levels during hypoglycemic episodes, ruling out exogenous insulin administration."
+    }
+}

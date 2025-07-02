@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Newborn Screening TSH",
+            "date": "Not specified",
+            "findings": "Elevated TSH level, specific value not provided.",
+            "changes_over_time": "Persistently elevated serum TSH levels."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Free T3 and free T4 concentrations were normal, but TSH was elevated.",
+            "changes_over_time": "Subclinical hypothyroidism developed later."
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound",
+            "date": "At age 12 years",
+            "findings": "Multinodular thyroid gland with total volume of 31 ml.",
+            "changes_over_time": "Increased total volume to 33 ml at age 14 years."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Free T3 concentrations elevated (average 10 ng/liter); free T4 concentrations averaged 30 ng/liter; serum TSH levels were unsuppressed.",
+            "changes_over_time": "RepeatedLY elevated fT3 and fT4 levels over time."
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound",
+            "date": "At age 8 years",
+            "findings": "Total thyroid volume 23 ml; homogeneous structure with a small cyst of 2.5 mm.",
+            "changes_over_time": "Progressive increase in thyroid size noted."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Initial TSH level of about 200 mU/mL; above 100 mU/L at day 32.",
+            "changes_over_time": "Decrease from about 200 mU/mL to above 100 mU/L."
+        },
+        {
+            "procedure_name": "free T4",
+            "date": "Not specified",
+            "findings": "Very low free T4 at 2.8 pmol/L (normal value 10–23 pmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "free T3",
+            "date": "Not specified",
+            "findings": "Low free T3 at 1.5 pmol/L (normal value 3.4–7.5 pmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "thyroglobulin",
+            "date": "Not specified",
+            "findings": "Thyroglobulin at 2.8 mg/L (normal value <25 mg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "99mTc scintigraphy",
+            "date": "Not specified",
+            "findings": "Very hypoplastic thyroid gland in normal cervical position.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Severe thyroid hypoplasia with cystic thyroid rudiments.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

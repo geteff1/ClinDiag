@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 2006",
+            "vital_signs": {
+                "respiratory_rate": "30 breaths per min",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "peak_expiratory_flow_rate": "120 L per min",
+                "auscultation": "diﬀ  use wheeze, no stridor",
+                "chest_radiography": "no abnormality",
+                "electrocardiography": "right ventricular strain",
+                "arterial_blood_gas": {
+                    "PaO2": "19.6 kPa",
+                    "PaCO2": "3.2 kPa"
+                },
+                "spirometry": {
+                    "FVC": "3.77 L",
+                    "FEV1": "2.63 L",
+                    "FEV1_FVC_ratio": "70%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4 days later",
+            "vital_signs": {
+                "respiratory_rate": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "peak_expiratory_flow_rate": "150–170 L per min",
+                "auscultation": "Not specified",
+                "chest_radiography": "Not specified",
+                "electrocardiography": "Not specified",
+                "arterial_blood_gas": "Not specified",
+                "spirometry": "Not specified"
+            },
+            "changes_over_time": "PEFR showed little improvement; the patient remained with a forced expiratory volume consistent with obstructive defect."
+        },
+        {
+            "date": "Post-operative review",
+            "vital_signs": {
+                "respiratory_rate": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "symptoms": "asymptomatic",
+                "medications": "taking no respiratory medications",
+                "pulmonary_function": "continuing upper airway obstruction; tracheomalacia present"
+            },
+            "changes_over_time": "The patient was asymptomatic after surgery, but post-operative pulmonary function showed lingering upper airway obstruction."
+        }
+    ]
+}

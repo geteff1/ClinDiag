@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "126 bpm",
+                "blood_pressure": "150/80 mmHg",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "murmur": "III/VI continuous murmur best heard at the mid-sternal border",
+                "edema": "Mild edema in the lower extremities",
+                "additional_findings": "No rubs or gallops noted; the rest of the examination was normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

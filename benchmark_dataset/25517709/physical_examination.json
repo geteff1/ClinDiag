@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.0°C",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "112/68 mm Hg",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Soft, non-distended abdomen with hypoactive bowel sounds and mild tenderness in the periumbilical region and lower quadrants",
+                "extremities": "Arms and legs cool, without cyanosis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 days before admission",
+            "vital_signs": {
+                "blood_pressure": "108/50 mm Hg (supine), 100/50 mm Hg (standing)",
+                "pulse": "104 bpm (supine), 110 bpm (standing)",
+                "temperature": "38.9°C"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Tender in all four quadrants, without guarding or grimacing",
+                "stools": "Watery and foul-smelling, testing for occult blood was positive"
+            },
+            "changes_over_time": "Severity and frequency of abdominal pain and diarrhea increased"
+        },
+        {
+            "date": "Fourth hospital day",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Abdominal pain and diarrhea had resolved"
+            },
+            "changes_over_time": "Abdominal symptoms improved"
+        }
+    ]
+}

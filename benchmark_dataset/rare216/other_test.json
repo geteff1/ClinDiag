@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Initially showed normal cell morphology but later revealed significantly active hyperplasia of nucleated cells, occasional hemophagocytic events, and immature abnormal hematopoietic elements. MUNC13-4 (UNC13D) expression was lower than in normal controls.",
+            "changes_over_time": "Progression from normal morphology to active hyperplasia and hemophagocytic events."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Routine, biochemical and morphological examination of cerebrospinal fluid was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Negative for significant abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Showed white matter damage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Revealed mild insufficiency of the mitral and tricuspid valves.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Showed slight enhancement of intrahepatic echoes, thickening of gallbladder wall, and splenomegaly.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

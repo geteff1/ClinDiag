@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT head scan",
+            "date": "Not specified",
+            "findings": "Ventricular enlargement that was slightly less than that which preceded her shunt.",
+            "changes_over_time": "Increased ventricular size and effacement of the cortical sulci after head injury."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Partial aqueductal stenosis and no acute intracranial abnormality.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postoperative CT",
+            "date": "Not specified",
+            "findings": "No change in ventricle size.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT head scan",
+            "date": "15 days after head injury",
+            "findings": "Increased ventricular size and effacement of the cortical sulci.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "7 months, 2 years, 3 years, and 5 years after shunt placement",
+            "findings": "No hydrocephalus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

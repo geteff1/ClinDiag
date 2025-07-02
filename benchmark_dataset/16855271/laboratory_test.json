@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (Expressed as the International Normalized Ratio)",
+            "date": "Not specified",
+            "findings": "1.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Other Biochemical Tests",
+            "date": "Not specified",
+            "findings": "Levels of serum electrolytes, calcium, phosphorus, magnesium, creatine kinase, vitamin B12, folate, glycated hemoglobin, thyroid-stimulating hormone, and serum immunoglobulin were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Plasma Reagin Card Test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "CSF pressures, cell counts, protein and glucose determinations, cytologic studies were normal. Detected anti-AB42 peptide antibodies (513 pg/ml) and anti-Tau protein antibodies (905 pg/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG) and Nerve Conduction Studies",
+            "date": "Not specified",
+            "findings": "Motor-nerve conduction studies yielded normal conduction velocities and distal motor latencies, with low amplitude of the compound motor action potentials. Needle electromyographic study showed fibrillations, positive sharp waves, fasciculations, and changes in motor unit potentials consistent with lower motor neuron involvement.",
+            "changes_over_time": "Fasciculations developed six weeks after discharge."
+        }
+    ]
+}

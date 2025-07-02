@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "TSH: <0.03 mU/liter, Free T3: 8.1 ng/liter, Free T4: 15.3 ng/liter",
+            "relevant_findings": "Decreased echogenicity of thyroid parenchyma; thyroid volume: 16 ml (normal range: 4-16 ml); ultrasound revealed hypoplastic thyroid gland for patient 2. No functional active thyroid tissue observed in the I131 scintigraphy for patient 2 and patient 3.",
+            "changes_over_time": "Behavior problems improved and thyroid function normalized after methimazole treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "TSH: 74.5 mU/liter (normal range: 0.5-8.5 mU/liter), T4: 3.8 pmol/liter (normal range: 18-27 pmol/liter)",
+            "relevant_findings": "Patient 2: Elevated TSH and low Free T4 levels; thyroid gland was hypoplastic; functional active thyroid tissue was not observed.",
+            "changes_over_time": "L-T4 treatment was initiated immediately after diagnosis."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "TSH: elevated levels above 75 mU/liter (normal range: 0.5-8.5 mU/liter), T4: <2.57 pmol/liter (normal range: 18-27 pmol/liter)",
+            "relevant_findings": "Patient 3: No visible thyroid gland in I131 scintigraphy; normal thyroid gland observed in ultrasound.",
+            "changes_over_time": "L-T4 supplementation was started directly after diagnosis."
+        }
+    ]
+}

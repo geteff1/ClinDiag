@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Elevated at 9.2 mg/dL (normal: 0-0.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sedimentation rate",
+            "date": "Not specified",
+            "findings": "Elevated at 90 mm/h (normal: <20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "3/3 positive for Enterococcus species",
+            "changes_over_time": "Repeats approximately 2 months after discharge were negative"
+        },
+        {
+            "procedure_name": "Antinuclear antibody (ANA)",
+            "date": "January 2002",
+            "findings": "Positive at 1/1280, anticentromere pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C3 and C4 levels",
+            "date": "Not specified",
+            "findings": "Slightly lowered",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgM anticardiolipin antibodies",
+            "date": "Not specified",
+            "findings": "15.5 UMPL/mL (normal: Not specified)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

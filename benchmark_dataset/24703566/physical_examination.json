@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August, 2013",
+            "vital_signs": {
+                "weight": "36 kg",
+                "body_mass_index": "24.5 kg/m²",
+                "height": "123 cm",
+                "blood_glucose": [
+                    "19.2 mmol/L",
+                    "18.7 mmol/L"
+                ],
+                "HbA1c": "11.9%",
+                "plasma_glucose": "19.5 mmol/L",
+                "C_peptide": "1.6 mmol/L",
+                "insulin": "201 pmol/L",
+                "urine_albumin_creatinine_ratio": "0.3 g/mol creatinine"
+            },
+            "relevant_findings": [
+                "Crusted sores on both upper thighs and right axilla consistent with impetigo",
+                "Acanthosis nigricans in the axillae and around the neck"
+            ],
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "November, 2013",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient was no longer taking metformin due to intolerance but remained on insulin. Blood glucose concentrations remained above target levels at 10–13 mmol/L.",
+            "changes_over_time": "Blood glucose concentrations above target levels persisted, indicating a lack of improvement in glycemic control."
+        }
+    ]
+}

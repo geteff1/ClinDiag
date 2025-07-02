@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "BP 140/95 mmHg",
+            "relevant_findings": "Mild proteinuria (0.2 g/L), elevated creatinine (166 µmol/L), optic disc coloboma.",
+            "changes_over_time": "Chronic renal impairment developed, with serum creatinine increasing to 250 µmol/L by age 29."
+        },
+        {
+            "date": "At age 4 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant proteinuria (0.8 g/L), bilateral grade III to IV vesicoureteric reflux, and bilateral small kidneys.",
+            "changes_over_time": "Persistent heavy proteinuria recorded on serial urinalyses."
+        },
+        {
+            "date": "At age 24 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Stable chronic renal impairment (creatinine 320 µmol/L), mild proteinuria and optic disc coloboma, normal visual acuity.",
+            "changes_over_time": "Bilateral optic disc coloboma and chronic renal impairment noted over time."
+        },
+        {
+            "date": "At age 3 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Bilateral renal hypoplasia, mild chronic renal impairment (creatinine 100 µmol/L), bilateral optic disc coloboma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At age 8 months",
+            "vital_signs": "BP 104/65 mmHg",
+            "relevant_findings": "Mild renal impairment (creatinine 57 µmol/L), asymmetrical right optic disc coloboma, no evidence of proteinuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At age 8 months",
+            "vital_signs": "BP 102/68 mmHg",
+            "relevant_findings": "Moderate renal impairment (creatinine 99 µmol/L), significant proteinuria (0.96 g/L), asymmetrical right optic disc coloboma.",
+            "changes_over_time": "Enlargement of a single cyst in the right kidney noted at follow-up."
+        }
+    ]
+}

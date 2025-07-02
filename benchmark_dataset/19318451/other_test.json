@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Newborn Screening",
+            "date": "Not specified",
+            "findings": "Elder sister had elevated TSH level; younger sister had normal TSH level at birth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound (Elder Sister)",
+            "date": "Not specified",
+            "findings": "Enlarged multinodular thyroid gland, total volume of 31 ml at age 12; 33 ml at age 14.",
+            "changes_over_time": "Increased thyroid volume from 31 ml at age 12 to 33 ml at age 14."
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound (Younger Sister)",
+            "date": "Not specified",
+            "findings": "Asymmetrically enlarged thyroid gland, initial volume 3.88 ml at birth and 23 ml at age 8.",
+            "changes_over_time": "Increased thyroid volume from 3.88 ml at birth to 23 ml at age 8."
+        },
+        {
+            "procedure_name": "Cochlear Implant Surgery (Elder Sister)",
+            "date": "Not specified",
+            "findings": "Confirmed labyrinth dysplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cochlear Implant Surgery (Younger Sister)",
+            "date": "Not specified",
+            "findings": "Received cochlear implant due to progressive hearing loss.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing (Younger Sister)",
+            "date": "Not specified",
+            "findings": "Identified a novel de novo mutation in THRB gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing (Both Sisters)",
+            "date": "Not specified",
+            "findings": "Both had compound heterozygosity for SLC26A4 mutations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

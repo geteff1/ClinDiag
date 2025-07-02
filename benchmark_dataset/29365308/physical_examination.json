@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "white_cell_count": "20,300 per cubic millimeter",
+                "anion_gap": "26 millimoles per liter",
+                "blood_bicarbonate_level": "9 mmol per liter",
+                "blood_glucose_level": "182 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "heart_rate": "136 bpm",
+                "blood_pressure": "113/55 mm Hg",
+                "respiratory_rate": "48 breaths per minute"
+            },
+            "relevant_findings": {
+                "weight": "7.2 kg",
+                "length": "62 cm",
+                "head_circumference": "41 cm",
+                "facial_appearance": "Doll-like facies with full cheeks and deep-set eyes",
+                "abdominal_exam": "Protuberant abdomen"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "58 breaths per minute"
+            },
+            "relevant_findings": {
+                "baseline_glucose_level": "39 mg per deciliter",
+                "post_glucagon_glucose_level": "Less than 10 mg per deciliter"
+            },
+            "changes_over_time": "Respiratory rate increased to 58 breaths per minute after glucagon administration"
+        }
+    ]
+}

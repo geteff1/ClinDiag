@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Endometrial biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination showed a poorly differentiated malignant neoplasm, suggestive of malignant mixed müllerian tumor (carcinosarcoma).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125 level measurement",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of chest, abdomen, and pelvis",
+            "date": "1 month after completion of chemotherapy",
+            "findings": "No evidence of cancer in chest or upper abdomen; soft-tissue densities in the pelvis thought to be resolving postoperative inflammatory changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of abdomen and pelvis",
+            "date": "11 months after completion of chemotherapy",
+            "findings": "Occlusion of the inferior vena cava by a circumferential retroperitoneal soft-tissue mass measuring approximately 4 cm; two lesions in the liver approximately 5 mm in greatest dimension.",
+            "changes_over_time": "New subcentimeter liver lesions observed."
+        },
+        {
+            "procedure_name": "Integrated whole-body FDG-PET",
+            "date": "11 days after the previous CT scan",
+            "findings": "Marked FDG avidity in the retroperitoneal mass and liver lesions; liver lesions had increased in size and number since the previous CT scan.",
+            "changes_over_time": "Increased in size and number since previous imaging."
+        },
+        {
+            "procedure_name": "Laboratory tests (Liver function tests)",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase level rose from 60 to 251 U per liter (reference range, 9 to 32), and bilirubin level rose from 0.4 to 2.1 mg per deciliter (reference range, 0.1 to 1.0).",
+            "changes_over_time": "Significant increase in liver enzymes noted."
+        }
+    ]
+}

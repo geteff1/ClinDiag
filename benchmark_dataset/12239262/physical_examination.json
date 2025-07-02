@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "pulse": "76 bpm",
+                "blood_pressure": "110/55 mm Hg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "dehydration": "Yes",
+                "alertness": "Alert",
+                "abdominal_tenderness": "Mild epigastric tenderness",
+                "neurologic_examination": "No abnormalities",
+                "urinary_protein_level": "100 mg/dL",
+                "urinary_sediment": "15 to 20 red cells, 1 to 3 white cells",
+                "chest_radiograph": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4th hospital day",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "pulse": "100 bpm",
+                "blood_pressure": "85/55 mm Hg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "heart_rate": "161 bpm",
+                "systolic_blood_pressure": "70 mm Hg",
+                "extremities": "Cool",
+                "lung_exam": "Prominent crackles",
+                "murmur": "Grade 3 holosystolic apical murmur",
+                "abdomen": "No abnormalities",
+                "rash": "No",
+                "peripheral_edema": "No"
+            },
+            "changes_over_time": "Initial heart rate was 76 bpm; increased to 161 bpm. Blood pressure initially 110/55 mm Hg decreased to 70 mm Hg."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "papillary_muscle_exam": "Necrotic",
+                "valve_exam": "Valves normal on first inspection, regurgitant with passive testing"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hypokalemia Assessment",
+            "date": "Not specified",
+            "findings": "Marked hypokalemia (1.9-2.2 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UFC (Urine Free Cortisol)",
+            "date": "Not specified",
+            "findings": "53 times above the ULN",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH (p-ACTH)",
+            "date": "Not specified",
+            "findings": "68-72 pmol/L (ref. <10 pmol/L)",
+            "changes_over_time": "After surgery, p-ACTH transiently decreased to 11 pmol/L, then rapidly increased to 43000 pmol/L after 10 months."
+        },
+        {
+            "procedure_name": "S-Cortisol",
+            "date": "Not specified",
+            "findings": "42 nmol/L after surgery",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MMR and MSI Analysis",
+            "date": "Not specified",
+            "findings": "Loss of MSH2 and MSH6, retention of MLH1 and PMS2; classified as MSI-low.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Showed multiple liver metastases.",
+            "changes_over_time": "Confirmed pituitary origin after biopsy."
+        },
+        {
+            "procedure_name": "Temozolomide CT",
+            "date": "Not specified",
+            "findings": "≥ 50% regression of liver metastases.",
+            "changes_over_time": "After 6 months on temozolomide, there was a progression of the liver metastases."
+        }
+    ]
+}

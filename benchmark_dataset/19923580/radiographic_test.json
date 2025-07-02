@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "massive hilar and mediastinal lymphadenopathy and ovoid densities in the right apex and superior segment of the left lower lobe",
+            "changes_over_time": "no change in the hilar and mediastinal masses and no evidence of pneumonia observed on the fourth hospital day"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "a large confluent mass of mediastinal and bilateral hilar lymph nodes, masses in the right apex (3.5 cm and 2.8 cm in diameter) and superior left lower lobe (3.6 cm in diameter), and masses in the left lower lobe that extended from the left hilum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "a permeative, lytic, and destructive lesion in the posterior right iliac bone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-FDG PET and CT",
+            "date": "Not specified",
+            "findings": "multiple 18F-FDG–avid lesions in the chest, including left lower lobe (4.3 by 2.6 cm), left posterior pleural surface (3.7 by 1.7 cm), right upper lobe (3.6 by 2.2 cm), posterior right apex (0.8 cm), and a bulky mediastinal and hilar mass with a large osteolytic lesion in the right iliac bone",
+            "changes_over_time": "increase in some lung lesions and development of numerous bone lesions observed after initial treatment"
+        }
+    ]
+}

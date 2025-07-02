@@ -1,0 +1,42 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical lung biopsy",
+            "date": "Not specified",
+            "findings": "Diffuse fibrosis involved 95% of the lung, with areas of honeycomb fibrosis and bronchiectasis. Histopathological examination showed extensive interstitial fibrosis, interstitial lymphocytic infiltrate, and vacuolated histiocytes.",
+            "changes_over_time": "Post-operative follow-up revealed resolution of pulmonary hypertension and patient improvement, returning to work with FVC at 60-65% of predicted value."
+        },
+        {
+            "procedure_name": "Platelet-aggregation studies",
+            "date": "Not specified",
+            "findings": "Impaired platelet function; primary aggregation response present, but full secondary aggregation absent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary-function tests",
+            "date": "Approximately 3 months before evaluation",
+            "findings": {
+                "FVC": "1.60 liters (32% of predicted)",
+                "FEV1": "1.54 liters (37% of predicted)",
+                "FEV1:FVC Ratio": "96%"
+            },
+            "changes_over_time": {
+                "FVC": "1.60 liters (34% of predicted) on evaluation",
+                "FEV1": "1.38 liters (35% at rest) on evaluation",
+                "Ratio of FEV1:FVC": "86% on evaluation"
+            }
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with poor R-wave progression and nonspecific ST-segment and T-wave findings in leads V1 through V3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Moderately echogenic liver texture consistent with fatty infiltration.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

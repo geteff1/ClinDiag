@@ -1,0 +1,41 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thirst Trial with Desmopressin",
+            "date": "Not specified",
+            "findings": {
+                "Urinary Osmolality Start": "235 mosmol/kg H2O",
+                "Urinary Osmolality End": "229 mosmol/kg H2O",
+                "Diagnosis": "NDI confirmed"
+            },
+            "changes_over_time": "Urinary osmolalities of 112 and 101 mosmol/kg H2O (trial 1) and 150 and 138 mosmol/kg H2O (trial 2) were recorded at ages 4.5 and 5 years."
+        },
+        {
+            "procedure_name": "Urinary Volume Measurements",
+            "date": "12-month period",
+            "findings": {
+                "Median Diurnal Urine Volume": "8.5 ml/kg body wt",
+                "Median Nocturnal Urine Volume": "8.8 ml/kg body wt"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thirst Trial Initial Report",
+            "date": "Not specified",
+            "findings": {
+                "Body Weight": "Decreased from 12.2 kg to 10.1 kg over trial period",
+                "Blood Pressure": "Decreased from 73/55 to 45/37 mmHg",
+                "S-Osmol": "Increased from 297 to 339 mosmol/kg H2O",
+                "U-Osmol": "Remained relatively unchanged (235 to 229 mosmol/kg H2O)",
+                "U-Vol": "Decreased from 10.5 to 9.1 ml/kg per h"
+            },
+            "changes_over_time": "Decreases in body weight and blood pressure correlated with time during the trial."
+        },
+        {
+            "procedure_name": "Activity of von Willebrand factor and clotting factor VIII",
+            "date": "After infusion of desmopressin (0.3 μg/kg body wt)",
+            "findings": "No changes in activity noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "20.0% on admission at other hospital; 20.1% on day 2 at other hospital; 19.4% on admission at this hospital; 32.9% during follow-up.",
+            "changes_over_time": "Decreased from 20.0% to 19.4% over days 2 to 3, then increased to 32.9% after treatment."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "7.5 g/dL at other hospital on admission; 7.2 g/dL on day 2 at other hospital; 11.1 g/dL on first admission at this hospital.",
+            "changes_over_time": "Increased from 7.5 g/dL to 11.1 g/dL after treatment."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "10,300 at other hospital on admission; 27,200 on day 2; 14,500 at this hospital.",
+            "changes_over_time": "Increased from 10,300 to 27,200 and then decreased to 14,500."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "53,000 at other hospital on admission; 87,000 on day 2; 122,000 on admission at this hospital; 67,000 during follow-up.",
+            "changes_over_time": "Increased from 53,000 to 122,000, then decreased to 67,000."
+        },
+        {
+            "procedure_name": "Direct antiglobulin test",
+            "date": "Not specified",
+            "findings": "Positive for both IgG and complement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ urobilinogen, otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "Elevated at 461 U/L at other hospital, decreased to 484 U/L on admission at this hospital, and further decreased to 444 U/L and 416 U/L thereafter.",
+            "changes_over_time": "Initially elevated, then decreased over time."
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin at 4.9 mg/dL on admission at other hospital, decreased to 2.0 mg/dL on day 2, and 1.5 mg/dL at this hospital.",
+            "changes_over_time": "Decreased from 4.9 mg/dL to 1.5 mg/dL."
+        }
+    ]
+}

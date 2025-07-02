@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 105˚F",
+            "relevant_findings": "General physical examination showed no abnormality except for stigmata of TS: facial angiofibromas, ash leaf spots, shagreen patches, periungual fibromas, and retinal hamartomas. Ophthalmological evaluation showed papilledema.",
+            "changes_over_time": "MR imaging revealed worsening ventriculomegaly and increase in size of the right foramen of Monro SEGA."
+        },
+        {
+            "date": "3 weeks after surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Examination of fluid obtained from a lumbar puncture revealed similar-appearing cells in the patient’s CSF.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10 weeks after surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was brought to the hospital in an obtunded condition.",
+            "changes_over_time": "CT scan revealed hydrocephalus and patient was in a state of cardiac arrest."
+        }
+    ]
+}

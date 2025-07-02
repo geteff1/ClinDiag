@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Excluded myopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Ruling out of cardiomyopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Ruling out of cardiomyopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Revealed biallelic novel pathogenic variants in the AGL gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Identified a previously unreported heterozygous variant in exon 5 of the AGL gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "qRT-PCR",
+            "date": "Not specified",
+            "findings": "Showed that the proband and the father had half of the normal copy number for exon 13.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

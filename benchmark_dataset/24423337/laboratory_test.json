@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "2.35 mmol/L (normal range: 2.25–2.65 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum phosphate",
+            "date": "Not specified",
+            "findings": "1.39 mmol/L (normal range: 0.8–1.4 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "67 µmol/L (normal range: 55–90 µmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "1.26 mU/L (normal range: 0.4–4.3 mU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase (ALP)",
+            "date": "Not specified",
+            "findings": "83 U/L (normal reference value noted as 197 U/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone-specific alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "22.6 g/L (normal reference value noted as 120.1 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "59 nmol/L (normal reference value noted as 250 nmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bCTX",
+            "date": "Not specified",
+            "findings": "0.11 g/L (normal reference value noted as 0.56 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-h urine calcium",
+            "date": "Not specified",
+            "findings": "1.9 mmol/24 h (normal range: 2.5–7.5 mmol/24 h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DXA scan (Lumbar spine L2–L4)",
+            "date": "Approximately 3 months after delivery",
+            "findings": "Z-score: -5.6 SD (diagnosis of severe osteoporosis)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DXA scan (Femoral neck)",
+            "date": "Not specified",
+            "findings": "Z-score: -3.9 SD (indicating osteoporosis)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

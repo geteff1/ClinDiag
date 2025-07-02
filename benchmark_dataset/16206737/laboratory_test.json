@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid and blood serology",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MR imaging (initial)",
+            "date": "Not specified",
+            "findings": "Cerebral edema associated with abnormal deep white matter signal changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MR imaging (5 days after admission)",
+            "date": "Not specified",
+            "findings": "Demonstrated no change.",
+            "changes_over_time": "No changes."
+        },
+        {
+            "procedure_name": "MR imaging (1 month later)",
+            "date": "Not specified",
+            "findings": "Large enhancing lesion in the left cerebellar peduncle, vermis, and medulla oblongata, along with effacement of the fourth ventricle and obstructive hydrocephalus.",
+            "changes_over_time": "Progressed from initial edema to a large enhancing lesion."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Demonstrated brief electrographic seizures with left temporal origin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "Not specified",
+            "findings": "Demonstrated cerebellar patchy enhancement and abnormally enhancing foci bilaterally in the frontal and parietal subcortical white matter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

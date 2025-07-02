@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "May, 2009",
+            "findings": "Mass in the right lower lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT",
+            "date": "May, 2009",
+            "findings": "Multiple pulmonary arteriovenous malformations",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "November, 2009",
+            "findings": "No reperfusion of his arteriovenous malformations",
+            "changes_over_time": "Remained asymptomatic"
+        }
+    ]
+}

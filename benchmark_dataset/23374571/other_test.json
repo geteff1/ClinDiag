@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Funduscopy",
+            "date": "Not specified",
+            "findings": "Retinal degeneration surrounding the vascular arcade with cystic changes in both maculae.",
+            "changes_over_time": "Clumped pigmentation has appeared in the retinal degeneration, and the cystic changes in the foveal region have become ambiguous."
+        },
+        {
+            "procedure_name": "Perimetry",
+            "date": "Not specified",
+            "findings": "Ring-shaped scotoma noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrophysiology",
+            "date": "Not specified",
+            "findings": "Unique responses corresponding to Enhanced S-cone Syndrome.",
+            "changes_over_time": "Decreased retinal sensitivity and attenuation of flash ERG amplitude during the 2-decade follow-up."
+        },
+        {
+            "procedure_name": "Funduscopy (Case 2)",
+            "date": "Not specified",
+            "findings": "Diffuse mild retinal degeneration with no pigmentation in both eyes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical Coherence Tomography (Case 2)",
+            "date": "Not specified",
+            "findings": "Subtle foveal schisis in the left eye; outer nuclear layer structure relatively well maintained.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Analysis (Case 1)",
+            "date": "Not specified",
+            "findings": "Novel nucleotide substitution (c.151G>A) in exon 2 resulting in a missense mutation (p.G51R).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Analysis (Case 2)",
+            "date": "Not specified",
+            "findings": "Compound heterozygous mutations (p.R48C in exon 2 and p.R104Q in exon 3).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "34.1%",
+                "Hemoglobin": "12.1 g/dL",
+                "White-cell count": "13,500 per mm³",
+                "Platelet count": "2,000 per mm³"
+            },
+            "changes_over_time": "Hematocrit decreased to 25.4%, Hemoglobin to 8.6 g/dL, White-cell count at one point decreased to 6,500 per mm³, and Platelet count fluctuated with significant drops (e.g., to 1,000 per mm³) after discharge."
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Not specified",
+            "findings": {
+                "Reticulocytes": "4.0%"
+            },
+            "changes_over_time": "Reticulocyte count increased to 16.6% after a significant drop in Hemoglobin; decreased to 2.9% later."
+        },
+        {
+            "procedure_name": "Direct Antiglobulin Test",
+            "date": "Not specified",
+            "findings": "Positive at one point, then negative later.",
+            "changes_over_time": "Initially positive, later again positive, indicating fluctuation in reaction over time."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Remained sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunoglobulin Testing",
+            "date": "Not specified",
+            "findings": {
+                "IgA": "181 mg/dL",
+                "IgG": "623 mg/dL",
+                "IgM": "52 mg/dL"
+            },
+            "changes_over_time": "IgG levels were later recorded as 734 mg/dL and 807 mg/dL, indicating an increase over time."
+        },
+        {
+            "procedure_name": "Flow Cytometry for T-Cell Analysis",
+            "date": "Not specified",
+            "findings": {
+                "CD3+": "82.3%",
+                "Double-Negative T-Cells": "16.6%"
+            },
+            "changes_over_time": "The presence of 16.6% of TCRαβ+ double-negative T cells was diagnostic of ALPS."
+        }
+    ]
+}

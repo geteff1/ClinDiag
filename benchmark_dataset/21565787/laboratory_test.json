@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "34.61 IU/ml (0.44–8.80 IU/ml)",
+            "changes_over_time": "TSH level returned to normal range during thyroid hormone replacement therapy."
+        },
+        {
+            "procedure_name": "free T4",
+            "date": "Not specified",
+            "findings": "1.7 ng/dl (0.9–2.3 ng/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T4",
+            "date": "Not specified",
+            "findings": "8.4 µg/dl (7.2–15.6 µg/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T3",
+            "date": "Not specified",
+            "findings": "109 ng/dl (105–245 ng/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroglobulin",
+            "date": "Not specified",
+            "findings": "309.12 ng/ml (6.44–82.82 ng/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chloride sweat test",
+            "date": "Not specified",
+            "findings": "87 and 91 mEq/liter (diagnostic value for infants, >60 mEq/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fat malabsorption (steatocrit)",
+            "date": "Not specified",
+            "findings": "7.3–15.7% (normal, <12%)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

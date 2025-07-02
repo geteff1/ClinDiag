@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "blood_pressure": "84/55 mmHg",
+                "respiratory_rate": "36/min",
+                "heart_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": "marked",
+                "peripheral_cyanosis": "present",
+                "facial_pallor": "present",
+                "external_malformations": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

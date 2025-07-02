@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "FT4": "11.0 ng/L (normal range, 7.1–18.5 ng/L)",
+                "FT3": "1.7 ng/L (normal range, 2.3–6.6 ng/L)",
+                "TSH": "6.8 mU/L (normal range, 0.2–4.0 mU/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TRH test",
+            "date": "Not specified",
+            "findings": "Increased response of TSH",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function test (after l-T4 treatment)",
+            "date": "6 months after initiation of therapy",
+            "findings": {
+                "DD_TSH": "2.63 mU/L",
+                "DD_FT3": "4.0 ng/L",
+                "DS_TSH": "0.24 mU/L",
+                "DS_FT4": "13 ng/L",
+                "DS_FT3": "5.2 ng/L"
+            },
+            "changes_over_time": "TSH levels decreased after treatment"
+        },
+        {
+            "procedure_name": "Thyroid function test (brother of the proband)",
+            "date": "Not specified",
+            "findings": {
+                "FT4": "9.4 ng/L",
+                "FT3": "2.9 ng/L",
+                "TSH": "5.6 mU/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis (TSH-R gene)",
+            "date": "Not specified",
+            "findings": "Homozygous mutation (CGC3TGC) at codon 310 in exon 10 confirmed",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

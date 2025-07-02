@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Enlarged retroperitoneal, pelvic sidewall, and inguinal lymph nodes on the right side, with the largest lymph node measuring 4 cm in diameter in the right groin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT scan",
+            "date": "Not specified",
+            "findings": "Hypermetabolic lymph nodes involving the right external iliac, femoral, and inguinal regions, and the medial right thigh.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Nonspecific changes and no mass lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "39 weeks after the start of treatment",
+            "findings": "Regression of the pelvic lymphadenopathy but enlargement of the inguinal lymph node; progression of skeletal metastasis with a large lytic lesion in the upper thoracic region and a pathologic compression fracture.",
+            "changes_over_time": "Enlargement of the inguinal lymph node; new enhancing mass lesions consistent with metastasis in the left frontal, right frontal, and left temporal regions."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "11 months after presentation",
+            "findings": "Nearly complete resolution of brain masses.",
+            "changes_over_time": "Significant reduction in the size of brain metastases."
+        },
+        {
+            "procedure_name": "PET-CT scan",
+            "date": "1 month after MRI",
+            "findings": "Resolution of pelvic lymphadenopathy and absence of tracer uptake in the spine.",
+            "changes_over_time": "Resolution of inguinal lymphadenopathy and no other metastatic lesions."
+        }
+    ]
+}

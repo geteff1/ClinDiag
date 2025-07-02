@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Ill-defined, rounded, patchy opacities, none larger than 2 cm in diameter, in both lungs; no lymphadenopathy or pleural effusions observed, and the cardiomediastinal silhouette was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Multiple patchy, ground-glass opacities in a central and peripheral distribution throughout both lungs; some lesions had a rounded shape and some had a central radiolucency, consistent with cavitation; no obvious hilar or mediastinal lymphadenopathy.",
+            "changes_over_time": "No change in the bilateral opacities and no new lesions observed in another CT scan performed four days prior to admission."
+        }
+    ]
+}

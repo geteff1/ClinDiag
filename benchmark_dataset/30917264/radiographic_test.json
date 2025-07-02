@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Moderately inflated lungs with subcentimeter, faint nodular opacities in the upper lung zones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Diffuse sub-pleural reticulation, bilateral scattered solid pulmonary nodules (3 to 6 mm), mild enlargement of a right hilar lymph node (14 mm) and low right paratracheal lymph node (11 mm). Aortic and coronary atherosclerosis present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sinus radiograph",
+            "date": "Seventeen months before current evaluation",
+            "findings": "Opacification of the right frontal sinus but no evidence of sinusitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary CT angiography",
+            "date": "Four weeks before current evaluation",
+            "findings": "Persistent diffuse subpleural reticular opacities, new bilateral traction bronchiolectasis, new dilatation of the main pulmonary artery (33 mm), enlarged mediastinal lymph nodes, new ill-defined ground-glass opacities, and mild air trapping.",
+            "changes_over_time": "Evidence of new traction bronchiolectasis and enlargement of mediastinal lymph nodes compared to previous CT."
+        },
+        {
+            "procedure_name": "High-resolution CT",
+            "date": "Four months after the current evaluation",
+            "findings": "Progression of bilateral subpleural reticular opacities and traction bronchiectasis without mature honeycombing.",
+            "changes_over_time": "Progression noted compared to previous CT findings."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT of the Cervical Spine",
+            "date": "Not specified",
+            "findings": "Straightening of the normal cervical lordosis and no acute osseous injury.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the Head",
+            "date": "Not specified",
+            "findings": "A small subgaleal hematoma adjacent to the right frontal bone, without evidence of an underlying fracture. No evidence of acute intracranial hemorrhage. A small arachnoid cyst was seen in the right middle cranial fossa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the Head",
+            "date": "Three hours after arrival in the emergency department",
+            "findings": "Restricted diffusion involving the cortex of the right temporal lobe, right occipital lobe, right superior and inferior parietal lobule, and right cingulate gyrus, as well as the right insula and right thalamus; fluid-attenuated inversion recovery (FLAIR) images showed hyperintense signal and mild mass effect related to gyral swelling.",
+            "changes_over_time": "Improvement in the cortical swelling and FLAIR hyperintensities was noted on repeat MRI performed 5 days after admission."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Angiography",
+            "date": "Not specified",
+            "findings": "Increased flow-related enhancement of the right middle cerebral artery, the right posterior cerebral artery, and their branches, consistent with marked hyperemia on the side of the epileptic focus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

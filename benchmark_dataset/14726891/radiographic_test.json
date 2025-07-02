@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest computed tomography scan",
+            "date": "January 1999",
+            "findings": "6-mm lung nodule with an otherwise negative workup.",
+            "changes_over_time": "A few months later, 2 new pulmonary lesions were noted on chest computed tomography scan."
+        },
+        {
+            "procedure_name": "chest computed tomography scan",
+            "date": "March 2000",
+            "findings": "Recurrence in thoracoscopy scars; evidence of rapid progression with development of large masses.",
+            "changes_over_time": "Disease progressed rapidly with development of large masses along the left chest wall, on the scalp, in both lungs, and within the abdomen."
+        },
+        {
+            "procedure_name": "brain magnetic resonance imaging scan",
+            "date": "May 20, 2001",
+            "findings": "Multiple new metastatic lesions.",
+            "changes_over_time": "Lactate dehydrogenase level had increased significantly to 7776 U/L."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Immunoglobulin isotypes",
+            "date": "Not specified",
+            "findings": "Normal serum concentrations of immunoglobulin isotypes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "Normal counts of white blood cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interferon-γ release (in response to heat-killed Candida)",
+            "date": "Not specified",
+            "findings": "Normal interferon-γ release.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interleukin 17 release (in response to heat-killed Candida)",
+            "date": "Not specified",
+            "findings": "No release of interleukin 17; controls 210–255 ng/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interleukin 22 release (in response to heat-killed Candida)",
+            "date": "Not specified",
+            "findings": "Impaired release of interleukin 22; measured values 208 and 69 ng/L; controls 506–525 ng/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

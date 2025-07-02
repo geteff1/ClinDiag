@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid scintigraphy",
+            "date": "Not specified",
+            "findings": "Reduced diffuse I-uptake (5.4%) 24 hours after the oral administration of 100 µCi 123I (normal range 10%–40%). Virtually no uptake in salivary glands and stomach, suggesting a diagnosis of ITD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Identified a compound heterozygous NIS mutation R124H/V270E.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH level measurement",
+            "date": "On day 2",
+            "findings": "Abnormally high TSH level (494 mIU/L, cut off 120 mIU/L).",
+            "changes_over_time": "Reexamined at day 11; TSH level was 8.00 mIU/L (0.44–8.80 mIU/L), diagnosed as euthyroid."
+        },
+        {
+            "procedure_name": "TSH level measurement",
+            "date": "Not specified",
+            "findings": "TSH level 446 mIU/L (normal values 0.50–4.30 mIU/L), free T4 0.1 ng/dL (0.9–1.6 ng/dL).",
+            "changes_over_time": "Six weeks after treatment, her TSH level was 4.36 mIU/L."
+        },
+        {
+            "procedure_name": "Serum thyroglobulin level measurement",
+            "date": "Not specified",
+            "findings": "High serum thyroglobulin (3000 ng/ml, normal 2.0–35.0 ng/ml).",
+            "changes_over_time": "Thyroglobulin levels decreased to 204 ng/ml after 15 months of treatment."
+        }
+    ]
+}

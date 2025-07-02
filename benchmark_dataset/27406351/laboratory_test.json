@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic blood chemical studies and renal- and liver-function tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "180 U per liter (normal range: 135 to 214)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "31 mm per hour (normal range: 1 to 20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "9900 per cubic millimeter, 75.8% neutrophils, 19% lymphocytes, 3% monocytes, 2% eosinophils",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit level",
+            "date": "Not specified",
+            "findings": "37.6%",
+            "changes_over_time": "Stable during treatment"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "356,000 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "12 seconds; INR: 1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time (aPTT)",
+            "date": "Not specified",
+            "findings": "85 seconds (normal: <36)",
+            "changes_over_time": "Significantly elevated"
+        },
+        {
+            "procedure_name": "Mixing study",
+            "date": "Not specified",
+            "findings": "aPTT of 55 seconds after 1:1 mix, rose to 64 seconds after incubation",
+            "changes_over_time": "Indicates presence of an inhibitor"
+        },
+        {
+            "procedure_name": "Factor VIII activity",
+            "date": "Not specified",
+            "findings": "Below the lower limit of the assay (<1%; normal range: 50 to 150), inhibitor level: 23 Bethesda units",
+            "changes_over_time": "Confirmed as acquired factor VIII inhibitor"
+        },
+        {
+            "procedure_name": "aPTT (post-treatment, 8 weeks later)",
+            "date": "Not specified",
+            "findings": "35 seconds",
+            "changes_over_time": "Improvement from previous results"
+        },
+        {
+            "procedure_name": "Factor VIII level (post-treatment, 8 weeks later)",
+            "date": "Not specified",
+            "findings": "54%",
+            "changes_over_time": "Improvement from previous results"
+        },
+        {
+            "procedure_name": "aPTT (2 years later)",
+            "date": "Not specified",
+            "findings": "39 seconds",
+            "changes_over_time": "Remains mildly elevated"
+        },
+        {
+            "procedure_name": "Factor VIII level (2 years later)",
+            "date": "Not specified",
+            "findings": "50 to 60% of normal",
+            "changes_over_time": "Remains stable"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchial lavage",
+            "date": "Not specified",
+            "findings": "Positive for MERS-CoV.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum testing",
+            "date": "Not specified",
+            "findings": "Positive for MERS-CoV in Patients 2 and 4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG (not explicitly mentioned but referenced implicitly regarding cardiac function)",
+            "date": "Not specified",
+            "findings": "Patient 1 had cardiac failure noted during hospitalization.",
+            "changes_over_time": "Condition worsened, leading to cardiogenic and septic shock."
+        },
+        {
+            "procedure_name": "Hemodialysis",
+            "date": "On October 23, 2012",
+            "findings": "Required for Patient 1 due to renal failure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests (routine blood counts, serum electrolytes, renal and liver function)",
+            "date": "During hospitalization of Patients 2 and 3",
+            "findings": "Results were normal and remained unchanged for Patient 3; Patient 2 experienced worsening renal function.",
+            "changes_over_time": "Patient 3's results remained stable, while Patient 2's renal function was compromised before death."
+        }
+    ]
+}

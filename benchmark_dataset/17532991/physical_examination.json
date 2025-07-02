@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "above 38°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Fever and right chest pain. Enhanced chest CT showed exacerbation of lung suppuration with parapneumonic effusion and increased gas formation in the right middle lobe.",
+            "changes_over_time": "Initially presented with common cold-like symptoms and right chest pain, which progressed to lung suppuration requiring surgery."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Pathological examination showed gram-positive cocci in the cavity and cavitary wall.",
+            "changes_over_time": "Postoperative course was uneventful, and the patient was discharged in good condition. Remains asymptomatic one year after surgery."
+        }
+    ]
+}

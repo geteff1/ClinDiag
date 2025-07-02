@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph of the chest",
+            "date": "Not specified",
+            "findings": "Endotracheal tube correctly placed; no obvious pulmonary lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain and cervical spine",
+            "date": "Not specified",
+            "findings": "No intracranial hemorrhage; no fracture of the skull or cervical spine; subgaleal hematoma over the left parietal bone.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of abdomen",
+            "date": "Not specified",
+            "findings": "Normal aorta; no sign of injury to the liver, kidneys, or spleen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Hypertrophic cardiomyopathy with asymmetric septal hypertrophy; normal systolic function; mild mitral regurgitation; no dynamic outflow obstruction.",
+            "changes_over_time": "Study repeated two days later; peak outflow tract gradient at rest was 12 mm Hg, and with Valsalva maneuver it was 15 mm Hg, indicating no provocable gradient."
+        }
+    ]
+}

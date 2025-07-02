@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Heterotopic nodules of grey matter in the bilateral temporal and occipital lobes adjacent to posterior horns of the lateral ventricles, and thick bands of heterotopic grey matter extending along the posterior horns of the lateral ventricles.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Initial Test",
+            "findings": "Slowed spike-wave discharges originating from bilateral temporal lobes. Three seizures during the ictal period with discharges originating from the left temporal-occipital junction and generalizing to the bilateral cerebral hemispheres.",
+            "changes_over_time": "At 2 months follow-up, occasional epileptiform discharges in bilateral temporal lobes during the interictal period; at 11 months follow-up, only one focal impaired awareness behavior arrest seizure due to stopping medication."
+        },
+        {
+            "procedure_name": "SEEG",
+            "date": "Not specified",
+            "findings": "Epileptiform discharges mainly from heterotopic nodes in the left occipital lobe, temporal-occipital junctions (both left and right), right superior temporal gyrus, and middle temporal gyrus posterior during the interictal period. Ictal onset from the left temporal-occipital junction heterotopic nodes.",
+            "changes_over_time": "Post-coagulation registered a significant reduction in epileptiform discharges during the interictal period."
+        }
+    ]
+}

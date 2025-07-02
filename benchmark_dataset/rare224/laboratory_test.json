@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "1 RBC, 7 nucleated cells (95% lymphocytes), normal protein and glucose, consistent with lymphocytic pleocytosis.",
+            "changes_over_time": "A repeat LP revealed 14 nucleated cells (99% lymphocytic predominance), demonstrating persistent lymphocytic pleocytosis."
+        },
+        {
+            "procedure_name": "Infectious studies",
+            "date": "Not specified",
+            "findings": "Negative for treponema pallidum, HIV, Epstein-Barr virus, enteroviruses, JC virus, and herpesviruses.",
+            "changes_over_time": "Positive West Nile Virus IgG in the CSF and serum with negative IgM in the CSF and serum."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Extensive non-enhancing white matter signal abnormalities, consistent with leukoencephalopathy.",
+            "changes_over_time": "Follow-up MRI brain scans at three and nine months showed an interval decrease in abnormal signal change."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "No seizures or epileptiform patterns.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

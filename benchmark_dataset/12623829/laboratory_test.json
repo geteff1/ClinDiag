@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Protein C level",
+            "date": "February 1999",
+            "findings": "Decreased to 66% (normal, 70% - 140%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Protein S level",
+            "date": "February 1999",
+            "findings": "Decreased to 56% (normal, 70% - 140%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "February 1999",
+            "findings": "320,000/ml (normal, 150,000 - 350,000/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laser Doppler retinal blood circulation study",
+            "date": "One month post delivery",
+            "findings": "Left superotemporal vein diameter: 178µm, Inferotemporal vein diameter: 176µm (normal, 130 - 160µm), Blood velocity: 8.7 mm/second (75% below normal), Blood flow: 6.6µL/minute.",
+            "changes_over_time": "Similar but less severe changes in the right eye."
+        },
+        {
+            "procedure_name": "Laser Doppler retinal blood circulation study",
+            "date": "One week after discharge",
+            "findings": "Decreased blood velocity to 4.7 mm/second, Vessel diameter: 182µm, Blood flow: 3.6µL/minute.",
+            "changes_over_time": "Increased tortuosity and dot hemorrhages in left eye."
+        },
+        {
+            "procedure_name": "Laser Doppler retinal blood circulation study",
+            "date": "4 months later",
+            "findings": "Reduction of retinal venous diameters toward normal caliber.",
+            "changes_over_time": "Visual symptoms resolved."
+        },
+        {
+            "procedure_name": "Laser Doppler retinal blood circulation study",
+            "date": "7 months after initial presentation",
+            "findings": "Diameter: 125µm, Blood velocity: 23.8 mm/second, Blood flow: 8.8µL/minute.",
+            "changes_over_time": "Visual acuity remained 20/20; retinal veins no longer tortuous and engorged."
+        }
+    ]
+}

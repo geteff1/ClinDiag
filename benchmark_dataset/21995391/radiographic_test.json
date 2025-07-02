@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Partially cystic mass (1.5 cm in diameter) in the right thalamus and upper midbrain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Mass, 4.8 cm by 3.2 cm, in the lower lobe of the right lung; no hilar or mediastinal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron-emission tomography (PET)",
+            "date": "Not specified",
+            "findings": "Intense 18F-fluorodeoxyglucose (FDG) avidity in the right lower lobe, corresponding to the mass seen on CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain (repeat)",
+            "date": "Not specified",
+            "findings": "Rim-enhancing lesion, 2.6 cm in diameter, in the right thalamus with surrounding mass effect; smaller enhancing lesion in the left cerebral hemisphere.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT (after chemotherapy)",
+            "date": "Nine months after right lower lobectomy",
+            "findings": "New nodule, 1.3 cm in the mid-lobe of the right lung, and multiple bilateral lung nodules, consistent with recurrent NSCLC.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up chest CT",
+            "date": "2 months after initiation of erlotinib treatment",
+            "findings": "Complete resolution of the lung nodules; no evidence of mediastinal lymphadenopathy or metastatic disease outside the chest.",
+            "changes_over_time": "No progression of intrathoracic disease."
+        }
+    ]
+}

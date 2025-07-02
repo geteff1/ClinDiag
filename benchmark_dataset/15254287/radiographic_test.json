@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "small bilateral pleural effusions and an enlarged cardiac silhouette",
+            "changes_over_time": "resolution of the pleural effusions and the development of new, small nodular opacities in the right upper lobe"
+        },
+        {
+            "procedure_name": "echocardiogram",
+            "date": "Not specified",
+            "findings": "large, circumferential pericardial effusion with right atrial inversion and diastolic inversion of the right ventricular wall",
+            "changes_over_time": "no reaccumulation of the pericardial effusion"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "two months after discharge",
+            "findings": "mediastinal lymphadenopathy and a cluster of small nodules in the right upper lobe",
+            "changes_over_time": "decrease in the size of the anterior mediastinal lymph nodes and in the size of the nodules in the right upper lobe; a new right pleural effusion developed four months after discharge"
+        }
+    ]
+}

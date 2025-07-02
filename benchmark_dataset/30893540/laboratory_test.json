@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "New atrial fibrillation with a rapid ventricular response; QTc interval 466 msec.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Left atrial and left ventricular dilatation, low-normal left ventricular ejection fraction, mild left ventricular hypertrophy, no clinically significant valvular disease.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "12-lead ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with occasional premature ventricular contractions, ventricular rate of 90 beats per minute.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "Laboratory tests (Thyroid function, kidney function, liver function, electrolytes, complete blood count)",
+            "date": "Not specified",
+            "findings": "All results normal.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with rapid ventricular response and nonspecific ST-segment changes.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "Urinalysis and urine toxicologic testing",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "Kidney function tests",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "None specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (Telemetry monitoring)",
+            "date": "Not specified",
+            "findings": "Two episodes of near syncope correlated with sinus pauses of 6 seconds and 7 seconds.",
+            "changes_over_time": "None specified."
+        }
+    ]
+}

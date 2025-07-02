@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "July 2003",
+            "vital_signs": {
+                "plasma_glucose": "791 mg/dl (43.9 mmol/liter)",
+                "glycosylated_hemoglobin": "9.5%",
+                "serum_sodium": "142 mmol/liter",
+                "serum_chloride": "95 mmol/liter",
+                "serum_total_ketones": "20.3 mmol/liter",
+                "plasma_osmolarity": "356 mOsm/kg",
+                "arterial_ph": "6.930",
+                "serum_bicarbonate": "1.8 mmol/liter",
+                "paCO2": "8.4 mm Hg"
+            },
+            "relevant_findings": {
+                "neurological_examination": "Severe involuntary movement of bilateral extremities noted on admission; remaining neurological examination was normal. Mild choreatic movement persisted in the upper extremities.",
+                "brain_imaging": "Brain CT showed mild atrophy of the bilateral nucleus caudatus and corpus striatum; MRI on day 17 revealed bilateral atrophy of the caudate nucleus with enlargement of the frontal horns."
+            },
+            "changes_over_time": "Severe involuntary movements resolved within 48 hours, but very mild choreatic movements of the bilateral upper extremities persisted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological_examination": "Mild slow eye movements noted later; no dysarthria and gait disturbance observed."
+            },
+            "changes_over_time": "Chorea became severe gradually over follow-up years, difficulty in insulin injection and blood glucose monitoring was noted."
+        }
+    ]
+}

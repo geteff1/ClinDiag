@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "mean_blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "arterial_hypotension": {
+                    "lowest_systolic_value": "65 mmHg"
+                }
+            },
+            "relevant_findings": "Postoperative respiratory distress with audible wheezing, increased inspiratory effort, arterial desaturation (down to 75%), and generalized cutaneous erythema.",
+            "changes_over_time": "Skin rash disappeared over the next 3 hours, and cardiopulmonary condition dramatically improved; oxygen saturation stabilized after withdrawal of adrenaline infusion."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "40 mmHg (after tourniquet release)",
+                "heart_rate": "130 bpm",
+                "oxygen_saturation": "88%"
+            },
+            "relevant_findings": "Cardiovascular collapse with signs of severe bronchospasm, facial and neck redness.",
+            "changes_over_time": "After administration of 2 mg epinephrine, systolic blood pressure increased to 75 mmHg, heart rate decreased to 110 bpm."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "137 bpm",
+                "systemic_blood_pressure": "73/58/45 mmHg",
+                "pulmonary_artery_pressure": "59/42/28 mmHg",
+                "oxygen_saturation": "76%"
+            },
+            "relevant_findings": "Severe pulmonary hypertension before CPB, improvement after inhaled iloprost administration.",
+            "changes_over_time": "Pp/Ps (mean pulmonary artery pressure/mean systemic blood pressure ratio) improved from 0.72 to 0.59 after inhalation of iloprost."
+        }
+    ]
+}

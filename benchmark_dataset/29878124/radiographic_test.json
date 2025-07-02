@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "2005",
+            "findings": "4.4-cm retroperitoneal mass.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of abdomen/pelvis",
+            "date": "2010",
+            "findings": "Lytic lesions in the first lumbar vertebral body and right iliac crest, new retroperitoneal para-aortic and paravena caval lymphadenopathy.",
+            "changes_over_time": "Development of new lesions and lymphadenopathy compared to the previous CT scan."
+        },
+        {
+            "procedure_name": "CT scan of head, neck, and chest",
+            "date": "2010",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Iodine-123-meta-iodobenzylguanidine (123I-MIBG) scan",
+            "date": "2010",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Octreoscan",
+            "date": "2010",
+            "findings": "Foci of radiotracer activity within the first lumbar vertebral body and right iliac crest.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

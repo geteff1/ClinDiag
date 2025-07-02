@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "9 Hr before Admission",
+            "findings": "34% (normal range: 36.0–46.0)",
+            "changes_over_time": "Decreased to 31.8% on admission, 26.1% after 10 Hr, 23.2% on 2nd Day, 23.8% on 4th Day (Postpartum Day 2), and 20.3% on 4th Day (after Onset of Abdominal Pain)."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "9 Hr before Admission",
+            "findings": "11.4 g/dl (normal range: 12.0–16.0)",
+            "changes_over_time": "Decreased to 10.7 g/dl on admission, 9.2 g/dl after 10 Hr, 8.0 g/dl on 2nd Day, 8.4 g/dl on 4th Day (Postpartum Day 2), and 7.1 g/dl on 4th Day (after Onset of Abdominal Pain)."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "9 Hr before Admission",
+            "findings": "8400 per mm3 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased to 13,600 on admission, decreased to 11,600 after 10 Hr, then fluctuated to 8900, 11,200, and finally 7300 on 4th Day (after Onset of Abdominal Pain)."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "9 Hr before Admission",
+            "findings": "274,000 per mm3 (normal range: 150,000–400,000)",
+            "changes_over_time": "Decreased to 288,000 on admission, then decreased to 243,000 after 10 Hr, 230,000 on 2nd Day, and 203,000 on 4th Day (Postpartum Day 2), before returning to 239,000."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "9 Hr before Admission",
+            "findings": "180 U/liter (normal range: 30–100)",
+            "changes_over_time": "Decreased to 158 on admission, 143 after 10 Hr, and 120 on 4th Day (Postpartum Day 2)."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Urinalysis revealed protein (1+) and ketones (3+), other test results normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "14th week",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Single intrauterine gestational sac containing a normal fetus with a normal heart rate. Area of nuchal translucency 3.7 mm in diameter (normal, ≤2.5 mm). Two cysts within the left ovary; a clear cyst, 4.1 cm, and a second cyst consistent with an endometrioma, 4.5 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks later (16th week)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Follow-up ultrasound demonstrated a regular fetal heartbeat and fluid within the fetal stomach. The cranium and spine appeared well-formed for gestational age. There were bilateral nuchal hygromas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Maternal karyotype revealed a reciprocal balanced translocation (46,XX,t(1;18)(q42.1;p11.2)). Fetal karyotype indicated an unbalanced translocation (46,XY,der(18)t(1;18)(q42.1;p11.2)mat).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Termination of the pregnancy was performed at 18 weeks due to the serious prognosis associated with the unbalanced translocation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 41 weeks gestation",
+            "vital_signs": {
+                "weight": "3420 g",
+                "Apgar_scores": {
+                    "1_minute": 9,
+                    "5_minutes": 9
+                }
+            },
+            "relevant_findings": "Delivered a healthy baby boy by cesarean section due to failed induction and nonreassuring fetal heart rate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "9 months after birth",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The infant was progressing normally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

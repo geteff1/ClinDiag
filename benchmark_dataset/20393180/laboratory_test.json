@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Yellow, cloudy urine; specific gravity 1.021; pH 5.5; 1+ albumin; 5 to 10 white cells per high-power field; 10 to 20 hyaline casts and 20 to 100 granular casts per low-power field; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Ten days before admission",
+            "findings": "Large area of signal abnormality and subtle enhancement predominantly involving the white matter of the right frontal lobe and insula, with less extensive involvement of the left frontal lobe; consistent with a small meningioma.",
+            "changes_over_time": "No changes from a repeat MRI performed four days later at the time of admission."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Ten days after first MRI (at admission)",
+            "findings": "No additional changes from the previous examination 10 days earlier.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Adequate megakaryocytes, numerous lymphoid aggregates, normal cytogenetic test results, no evidence of a clonal B-cell population.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

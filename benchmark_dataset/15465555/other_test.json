@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Visual acuity measurement",
+            "date": "June 1997",
+            "findings": "Visual acuity was 20/30 in the right eye and 20/100 pinholing to 20/25 in the left eye.",
+            "changes_over_time": "Visual acuity decreased from 20/30 to 10/200 in the right eye abruptly over 2 months, then remained stable at 20/400 in January 2003."
+        },
+        {
+            "procedure_name": "Goldmann visual fields",
+            "date": "August 2001",
+            "findings": "Central scotoma in the right eye.",
+            "changes_over_time": "Increased atrophy and subretinal fibrosis under the fovea from January to June 2001."
+        },
+        {
+            "procedure_name": "Electroretinogram (ERG)",
+            "date": "October 2000",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "January 2001",
+            "findings": "Showed hyperpigmented and hypopigmented areas, no bone spicule pigmentation. In February 2001, small subfoveal hemorrhage was present, but no definite CNV lesion was identified.",
+            "changes_over_time": "Increased atrophy and scarring consistent with involuted CNV lesion noted from January to June 2001."
+        },
+        {
+            "procedure_name": "DNA analysis",
+            "date": "December 2001",
+            "findings": "Patient was heterozygous for a substitution mutation in the CHM gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical coherence tomography",
+            "date": "January 2003",
+            "findings": "Subretinal changes consistent with fibrosis and cystoid edema in the right eye.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

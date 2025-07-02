@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Neurologic examination revealed a wide-based spastic gait with positive Romberg sign. Strength was 4/5 in both iliopsoas, and 4 1/5 in the remaining muscles of the lower limbs, with increased muscle tone. Deep tendon reflexes (DTR) were very brisk, with bilateral Achilles clonus, and bilateral Babinski signs. Vibration sensation was decreased in lower limbs, and joint position sense was lost in the toes.",
+            "changes_over_time": "At 6-month follow-up, the patient reported increasing walking difficulties and pain in his legs."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "cortisol": "3.8 mg/dL",
+                "ACTH": "1,945 pg/mL"
+            },
+            "relevant_findings": "Blood tests revealed decreased cortisol basal level and increased basal ACTH level, consistent with nonautoimmune adrenal insufficiency.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

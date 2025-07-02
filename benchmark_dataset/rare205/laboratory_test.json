@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Elevated methemoglobin level at 36.9%. After treatment, methemoglobin decreased to 2.0%.",
+            "changes_over_time": "The methemoglobin level had been elevated at 10% and 20% at 5 and 2 years prior to the latest visit, respectively."
+        },
+        {
+            "procedure_name": "Genetic testing (Sanger sequencing)",
+            "date": "Not specified",
+            "findings": "A rare homozygous nonsynonymous variant in exon 3 (NM_000398.7:c.173G>A [p.Arg58Gln], rs121965007) observed. The variant was predicted to be probably damaging by PolyPhen2 and damaging by SIFT.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "14.9 mg/dL (Nl, 8.6–10.3)",
+            "changes_over_time": "Rapid succession falls; 6 hours post-trauma, calcium was 14.9 mg/dL, later retesting showed 13.5 mg/dL."
+        },
+        {
+            "procedure_name": "Ionized Calcium",
+            "date": "Not specified",
+            "findings": "7.4 mg/dL (Nl, 4.5–5.1)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "Not specified",
+            "findings": "16 pg/mL (Nl, 10–55)",
+            "changes_over_time": "PTH levels decreased from pre-trauma levels of 63 pg/mL."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "10.7 mg/dL (Nl, 0.7–1.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Inorganic Phosphate",
+            "date": "Not specified",
+            "findings": "5.0 mg/dL (Nl, 2.3–4.3)",
+            "changes_over_time": "Increased from pre-trauma level of 5.8–6.4 mg/dL."
+        },
+        {
+            "procedure_name": "Serum Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "36 IU/L (Nl, 38–126)",
+            "changes_over_time": "Levels were 36, 33, and 20 IU/L at 0, 1, and 7 days after fractures, suggesting no increase by the skeletal trauma."
+        }
+    ]
+}

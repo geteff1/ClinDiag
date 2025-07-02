@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual acuity test",
+            "date": "Not specified",
+            "findings": "Case 1: NLP in right eye, count fingers in left. Case 2: Count fingers in both eyes. Case 3: NLP in right eye, 20/40 in left.",
+            "changes_over_time": "Case 1: Improved to 20/400 in right eye and 20/50 in left eye after 1 year. Case 2: Improved to 20/20 in both eyes after 6 months. Case 3: Improved to 20/60 in right eye and 20/25 in left eye after 6 months."
+        },
+        {
+            "procedure_name": "Color vision test",
+            "date": "Not specified",
+            "findings": "Case 1: 0/11 plates on right side, 2/11 on left side. Case 2: 1/11 in each eye. Case 3: Full color vision.",
+            "changes_over_time": "Case 1: Not specified. Case 2: Not specified. Case 3: Not specified."
+        },
+        {
+            "procedure_name": "Fundoscopic examination",
+            "date": "Not specified",
+            "findings": "Case 1: No optic disc swelling, slight pallor on right. Case 2: Several microaneurysms, no macular abnormalities. Case 3: Normal optic discs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Goldman perimetry",
+            "date": "Not specified",
+            "findings": "Case 2: Almost complete recovery after 6 months. Case 3: Central and paracentral scotomas after 6 months.",
+            "changes_over_time": "Case 2: Nearly complete recovery after 6 months. Case 3: Mild relative central and paracentral scotomas 1 year after decompression."
+        },
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Case 1: Posterior aspect of the medial wall and floor not removed. Case 2: Massively enlarged extraocular muscles. Case 3: Enlarged extraocular muscles at the apex.",
+            "changes_over_time": "Case 2: Adequate decompression of both posterior orbits postoperatively."
+        }
+    ]
+}

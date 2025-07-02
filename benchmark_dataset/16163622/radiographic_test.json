@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral axillary lymphadenopathy, prominent pretracheal lymph nodes, and inguinal and paraaortic lymphadenopathy.",
+            "changes_over_time": "Worsening adenopathy seen in a follow-up CT scan performed 5 months later."
+        },
+        {
+            "procedure_name": "chest CT",
+            "date": "Not specified",
+            "findings": "Significant shrinkage of the lymphadenopathy.",
+            "changes_over_time": "Follow-up scan obtained 8 months after initial scans showed improvement."
+        }
+    ]
+}

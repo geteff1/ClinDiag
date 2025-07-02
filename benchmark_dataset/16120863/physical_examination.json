@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "36 breaths per minute",
+                "blood_pressure": "140/110 mm Hg",
+                "pulse": "120 beats per minute",
+                "blood_glucose_level": "140 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "blood_pressure": "116/71 mm Hg",
+                "pulse": "100 beats per minute",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Laceration, 3 cm in length, along the left parietal occipital region. Pupils 4 mm in diameter, equal, round, and reactive to light. No trauma to face, no crepitus in neck soft tissue, trachea midline. Jugular venous pressure could not be assessed. Normal examination of chest, heart, abdomen. Normal rectal tone, stool negative for occult blood. Well perfused arms and legs with normal pulses. No spinal deformities or trauma.",
+            "changes_over_time": "At initial examination, the patient did not respond to verbal or physical stimulation but began responding to noxious stimuli shortly after arrival, implying improvement in consciousness."
+        }
+    ]
+}

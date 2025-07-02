@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood biochemistry",
+            "date": "Not specified",
+            "findings": "Hypokalemia, Androstenedione less than 0.3 ng/ml, serum DHEA less than 15.0 μg/dL, 24-h urinary free cortisol (24h-UFC) less than 10 μg/24h, renin 0.24 pg/ml.",
+            "changes_over_time": "Increased levels of blood potassium, estradiol (E2), and 24h-UFC three months after discharge."
+        },
+        {
+            "procedure_name": "Renin level testing",
+            "date": "Not specified",
+            "findings": "Renin levels: 0.19 pg/ml in the supine position and 0.29 pg/ml in the standing position.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ACTH rhythms testing",
+            "date": "Not specified",
+            "findings": "ACTH levels: 71.8 pg/ml at 8 AM, 85.0 pg/ml at 4 PM, 59 pg/ml at 12 AM.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterine body size about 22x8x4mm, bilateral ovaries not detected, diffuse lesions of left thyroid lobe, hypoechoic TI-RADS III nodules on both sides of the thyroid lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Abdominal occupation due to left adrenal area and prerenal space tumors, bilateral abnormal adrenal enhancement of nodules and mass shadow.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pituitary MRI",
+            "date": "Not specified",
+            "findings": "Pituitary form slightly full, height about 0.9 cm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing (Exon sequencing of CYP17A1)",
+            "date": "Not specified",
+            "findings": "Homozygous mutation of c.987del in the 17-OHD lease-related gene CYP17A1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

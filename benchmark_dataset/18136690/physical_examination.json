@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 26, 1947",
+            "vital_signs": {
+                "blood_pressure": "190/110",
+                "temperature": "98.2°F",
+                "pulse": "92 bpm",
+                "respiration": "20 per minute"
+            },
+            "relevant_findings": "Patient was somewhat obese, agitated, restless; neurological examination revealed normal bilateral reflexes, normal speech, and no sensory disturbances.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "May 2, 1947",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiration": "Not specified"
+            },
+            "relevant_findings": "Patient began to show superficial bodily bruises from falling and was mentally somewhat confused and disoriented; all deep reflexes were present but hypoactive.",
+            "changes_over_time": "Deep reflexes became hypoactive."
+        },
+        {
+            "date": "May 3, 1947",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiration": "Varied from 24 to 40 per minute"
+            },
+            "relevant_findings": "Patient was flaccid, unable to move her arms and legs, with bilateral weakness of facial muscles. Deep and abdominal reflexes were unobtainable; responds to pain but not to light touch.",
+            "changes_over_time": "Patient’s condition worsened, showing complete flaccidity and inability to swallow."
+        },
+        {
+            "date": "May 6, 1947",
+            "vital_signs": {
+                "temperature": "104°F",
+                "pulse": "Not specified",
+                "respiration": "Not specified"
+            },
+            "relevant_findings": "Complete neurological examination showed flaccid paralysis of all extremities; no deep or superficial reflexes could be elicited.",
+            "changes_over_time": "Significant worsening with complete paralysis and elevated temperature."
+        },
+        {
+            "date": "May 10, 1947",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiration": "Not specified"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Patient died."
+        }
+    ]
+}

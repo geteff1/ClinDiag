@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "HbA1c": "6.1% (43 mmol/mol)",
+                "FCP": "0.79 nmol/L",
+                "FBG": "118 mg/dL (6.6 mmol/L)",
+                "C-peptide": "Undetectable (<0.02 nmol/L)",
+                "GAD antibodies": "Negative"
+            },
+            "relevant_findings": "Asymptomatic pregnant woman; mild fasting hyperglycemia observed.",
+            "changes_over_time": "Mild fasting hyperglycemia persisted after discontinuing insulin post-delivery."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "HbA1c": "8.5% (69.4 mmol/mol)",
+                "FCP": "<0.02 nmol/L",
+                "FBG": "414 mg/dL (23 mmol/L)",
+                "GAD antibodies": "Positive"
+            },
+            "relevant_findings": "Hyperglycemia with osmotic symptoms; confirmed type 1 diabetes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "HbA1c": "9% (74.9 mmol/mol)",
+                "FCP": "<0.02 nmol/L",
+                "GAD antibodies": "Negative"
+            },
+            "relevant_findings": "Diagnosed at age 13 years with osmotic symptoms and weight loss; confirmed type 1 diabetes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Postprandial urinary C-peptide to creatinine ratio": "0.006 nmol/mmol",
+                "FBG": "Not specified",
+                "GAD antibodies": "Positive"
+            },
+            "relevant_findings": "Diagnosed with type 1 diabetes at age 3 years after hyperglycemia without ketonuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "C-peptide": "Not specified",
+                "FBG": "Not specified",
+                "GAD antibodies": "Not specified"
+            },
+            "relevant_findings": "Presenting a kicrocosmic state at birth; failure to thrive until diagnosed with GCK-PNDM at 16 weeks.",
+            "changes_over_time": "Initially microsomic, improved after insulin treatment."
+        }
+    ]
+}

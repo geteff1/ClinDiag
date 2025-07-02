@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma IGF-I",
+            "date": "Not specified",
+            "findings": "3.8 n mol/liter (/H110025.6 SDS)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma prolactin",
+            "date": "Not specified",
+            "findings": "1.4 U/liter (normal value /H110210.3 U/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Growth hormone (GH) response to GHRH",
+            "date": "Not specified",
+            "findings": "25 /H9262g/liter (considered to be a normal response)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I during GH treatment",
+            "date": "Not specified",
+            "findings": "5.8 nmol/liter (/H110024.7 SDS)",
+            "changes_over_time": "Slight increase during treatment but did not significantly improve growth rate"
+        },
+        {
+            "procedure_name": "Bromocriptine treatment for prolactin",
+            "date": "Not specified",
+            "findings": "Serum prolactin decreased (/H110210.05 U/liter) after starting bromocriptine 2.5 mg/d",
+            "changes_over_time": "Decreased serum prolactin level noted after treatment"
+        },
+        {
+            "procedure_name": "Circulating levels of IGF-I, IGF-II, IGFBP-3, ALS at age 30",
+            "date": "At age 30",
+            "findings": "Markedly reduced levels of IGF-I, IGF-II, IGFBP-3, and ALS",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Prolactin at age 30",
+            "date": "At age 30",
+            "findings": "110 (five times the upper limit of normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basal GH level at age 30",
+            "date": "At age 30",
+            "findings": "0.33 mU/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Maximal GH response after GHRH-arginine at age 30",
+            "date": "At age 30",
+            "findings": "29.4 mU/liter (11.3 ng/ml), considered to be normal response",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGFBP-1 at age 30",
+            "date": "At age 30",
+            "findings": "31 ng/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGFBP-3 at age 30",
+            "date": "At age 30",
+            "findings": "0.18 mg/liter (/H1100212.4 SDS)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Acid-labile subunit (ALS) at age 30",
+            "date": "At age 30",
+            "findings": "0.7 mg/liter (/H110027.0 SDS)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

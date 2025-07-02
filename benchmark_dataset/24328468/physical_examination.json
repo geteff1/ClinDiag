@@ -1,0 +1,73 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.9°C",
+                "blood_pressure": "129/80 mm Hg",
+                "pulse": "104 bpm",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lymphadenopathy": {
+                    "location": "posteroinferior cervical chain on the right side",
+                    "size": "approximately 1 cm in diameter",
+                    "tenderness": "tender",
+                    "other_nodes": "nontender in posterior cervical chain on left and both inguinal regions"
+                },
+                "cardiac": "systolic ejection murmur (grade 1 out of 6)",
+                "remainder_of_exam": "normal"
+            },
+            "changes_over_time": "During evaluation, temperature rose to 39.5°C associated with chills."
+        },
+        {
+            "date": "Two days later",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lymphadenopathy": {
+                    "right_nodes": "slightly larger than previous examination and slightly confluent",
+                    "left_nodes": "soft and mobile",
+                    "submental_nodes": "soft and mobile"
+                },
+                "respiratory": "bronchial breath sounds over the right side of the chest anteriorly",
+                "remainder_of_exam": "unchanged"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Two days later (hospital admission)",
+            "vital_signs": {
+                "temperature": "Maximal daily temperature 40.7°C",
+                "blood_pressure": "106/58 mm Hg",
+                "pulse": "104 bpm",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "ulcer": "superficial ulcer on the right side of the lower lip",
+                "splenomegaly": "tip palpable approximately 3 cm below the costal margin",
+                "remainder_of_exam": "unchanged"
+            },
+            "changes_over_time": "Temperature rose to 40.8°C on the second day."
+        },
+        {
+            "date": "During hospitalization",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lymphadenopathy": "nearly resolved",
+                "neutrophil_count": "recovered",
+                "remainder_of_exam": "Not specified"
+            },
+            "changes_over_time": "Signs of improvement noted by the time of discharge."
+        }
+    ]
+}

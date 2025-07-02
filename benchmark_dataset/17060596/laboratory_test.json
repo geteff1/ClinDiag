@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Opening Pressure Measurement (LP)",
+            "date": "Not specified",
+            "findings": "Opening pressure of 11 cm H2O; CSF cultures negative; two white blood cells present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT scan",
+            "date": "Not specified",
+            "findings": "Marked mid-line shift in the direction opposite the craniectomy site with subfalcine herniation and effacement of the peripontine cisterns.",
+            "changes_over_time": "Follow-up brain CT scan confirmed resolution of the tissue shifts and herniation."
+        },
+        {
+            "procedure_name": "Serum Chemistry",
+            "date": "Not specified",
+            "findings": "Serum glucose 240 mg/dL attributable to dextrose bolus; all other results normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "Serum transaminases slightly elevated; ALT 46 U/L (normal <40 U/L).",
+            "changes_over_time": "ALT increased to 160 U/L after several days."
+        },
+        {
+            "procedure_name": "Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "Metabolic acidosis (pH 7.28, PCO2 4.7, base excess -25.8).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Blood Studies",
+            "date": "Day 6 of hospitalization",
+            "findings": "Plasma ammonia fluctuating from 155 to 60 to 102 µmol/L; normal range <150 µmol/L.",
+            "changes_over_time": "Ammonia levels fluctuated during hospitalization."
+        },
+        {
+            "procedure_name": "Acylcarnitine profiling",
+            "date": "Not specified",
+            "findings": "Characteristic biochemical abnormalities of multiple acyl-CoA dehydrogenation deficiency; confirmed by urine organic acids analysis.",
+            "changes_over_time": "Normalization of biochemical abnormalities after treatment."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Myopathic pattern not observed; positive sharp waves in deltoid muscles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transient Visual Episode Monitoring",
+            "date": "Not specified",
+            "findings": "Complete bilateral vision loss occurred during straining episodes; visual examinations normal after episodes.",
+            "changes_over_time": "Follow-up after high-dose prednisone showed no further vision loss."
+        }
+    ]
+}

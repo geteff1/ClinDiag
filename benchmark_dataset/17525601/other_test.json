@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lung computed tomography scan",
+            "date": "Day 7",
+            "findings": "Bilateral posterior alveolar consolidation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Acute cor pulmonale.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Respiratory mechanics measurements",
+            "date": "Day 7",
+            "findings": "PEEPi of 12 cm H2O; lower inflection point of 14 cm H2O.",
+            "changes_over_time": "After 12 hours of prone positioning, PEEPi was 2 cm H2O, and lower inflection point was 3 cm H2O."
+        },
+        {
+            "procedure_name": "Naloxone test",
+            "date": "Not specified",
+            "findings": "Naloxone did not abolish the placebo response.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron emission tomography (PET) study",
+            "date": "Week 5",
+            "findings": "Degree of pain associated with changes in regional cerebral blood flow in specific brain regions.",
+            "changes_over_time": "Pain ratings decreased with placebo intervention over the 50-day observation period."
+        }
+    ]
+}

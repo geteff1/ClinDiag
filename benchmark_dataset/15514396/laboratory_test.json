@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Head circumference measurement",
+            "date": "6 months",
+            "findings": "50th percentile",
+            "changes_over_time": "Increased to >95th percentile by 9 months"
+        },
+        {
+            "procedure_name": "Weight measurement",
+            "date": "2 months",
+            "findings": "75th percentile",
+            "changes_over_time": "Increased to >95th percentile by 6 months"
+        },
+        {
+            "procedure_name": "Weight measurement",
+            "date": "4 months",
+            "findings": "90th percentile",
+            "changes_over_time": "Fluctuated between 75th and 95th percentile until 24 months"
+        },
+        {
+            "procedure_name": "Genetic evaluations",
+            "date": "17 months",
+            "findings": "Results normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic evaluations",
+            "date": "20 months",
+            "findings": "Results normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "No findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Developmental assessment (Mullen Scales of Early Learning)",
+            "date": "15 months",
+            "findings": "Scores within average range for nonverbal problem-solving skills (14-month level), fine (15-month level), and gross motor (16-month level). Significant delays in receptive (5-month level) and expressive language (9-month level).",
+            "changes_over_time": "Minimal changes, with some progress in nonverbal cognitive functioning (23 months at 23-month level), growing from 14 to 23 months"
+        },
+        {
+            "procedure_name": "Vineland Adaptive Behavior Scales",
+            "date": "15 months",
+            "findings": "High scores in daily living (14-month level) and motor skills (17-month level). Significant delays (communication at 10-month level and socialization at 9-month level).",
+            "changes_over_time": "Minimal absolute progress in adaptive skills at 23 months with drop in standard scores"
+        },
+        {
+            "procedure_name": "Autism Diagnostic Observation Schedule",
+            "date": "15 months",
+            "findings": "Met criteria for autism.",
+            "changes_over_time": "Scores virtually unchanged at 23 months and 34 months"
+        }
+    ]
+}

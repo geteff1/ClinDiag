@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose Measurement",
+            "date": "Not specified",
+            "findings": "Glucose level of 31 mg/dl (1.7 mmol/liter) 30 minutes after birth.",
+            "changes_over_time": "Blood glucose measurements at the age of 20 months showed maximal levels of 181 mg/dl (10 mmol/liter). Daily blood glucose measurements varied between 74.5 mg/dl (4.1 mmol/liter) and 145 mg/dl (8 mmol/liter) two months after insulin treatment was stopped."
+        },
+        {
+            "procedure_name": "Insulin Level Measurement",
+            "date": "Not specified",
+            "findings": "Simultaneous insulin level of 172 mU/liter at the time of hypoglycemic episodes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glycosylated Hemoglobin (HbA1c)",
+            "date": "At 20 months of age and 36 months of age",
+            "findings": "HbA1c was 6.9% at 20 months and decreased to 5.4% at 36 months without treatment.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

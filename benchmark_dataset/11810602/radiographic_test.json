@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "October 1999",
+            "findings": "Severe right-sided cerebral edema with a midline shift and mild left-sided edema.",
+            "changes_over_time": "A second CT scan showed severe, worsened right-sided cerebral edema."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Extensive deep and subcortical white-matter changes in the right hemisphere and posterior left hemisphere.",
+            "changes_over_time": "Weekly neuroimaging revealed slowly decreasing white-matter edema in both hemispheres and evolving encephalomalacia and atrophy over the course of the following 6 weeks."
+        }
+    ]
+}

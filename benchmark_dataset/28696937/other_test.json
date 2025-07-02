@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal posterior rhythm, diffuse intermittent slowing in the delta frequency range, but no periodic sharp waves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Normal cell count, protein, and glucose; oligoclonal bands were not present and neuron-specific enolase was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG) PET scan",
+            "date": "Not specified",
+            "findings": "Generalized mild to moderate reduction of FDG uptake in both cerebral hemispheres, consistent with a nonspecific encephalopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole blood bismuth level",
+            "date": "Not specified",
+            "findings": "948 ng/mL, which is in the toxic range (normal <50; toxic >200 ng/mL).",
+            "changes_over_time": "At 10 weeks follow-up, whole blood bismuth level returned to normal at 9.5 ng/mL."
+        },
+        {
+            "procedure_name": "Urine bismuth level",
+            "date": "Not specified",
+            "findings": ">406.5 ng/mL, which is in the toxic range (normal <50; toxic >200 ng/mL).",
+            "changes_over_time": "At 10 weeks follow-up, urine level declined to 8.6 ng/mL."
+        }
+    ]
+}

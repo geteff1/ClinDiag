@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "6200 per cubic millimeter",
+                "polymorphonuclear_cells": "49%",
+                "lymphocytes": "37%",
+                "monocytes": "13%",
+                "hematocrit": "31.8%",
+                "mean_corpuscular_volume": "93 fl",
+                "platelet_count": "352,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "blood_urea_nitrogen": "18 mg per deciliter (6.4 mmol per liter)",
+                "creatinine": "1.4 mg per deciliter (124 μmol per liter)",
+                "glucose": "88 mg per deciliter (4.8 mmol per liter)",
+                "calcium": "10.2 mg per deciliter (2.6 mmol per liter)",
+                "total_protein": "8.6 g per deciliter",
+                "albumin": "3.9 g per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "electrolytes": "Normal range",
+                "liver_function": "Normal range"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone (TSH)",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "1.7 μU per milliliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT) and Activated Partial-Thromboplastin Time (aPTT)",
+            "date": "Not specified",
+            "findings": {
+                "prothrombin_time": "13.7 seconds (normal range, 11.8 to 14.6)",
+                "activated_partial_thromboplastin_time": "49.6 seconds (normal range, 23.8 to 36.6)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Iron Studies",
+            "date": "Not specified",
+            "findings": {
+                "serum_iron": "27 μg per deciliter (4.8 μmol per liter)",
+                "ferritin": "76 ng per milliliter",
+                "total_iron_binding_capacity": "314 μg per deciliter (56.2 μmol per liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Factor VIII Activity Tests",
+            "date": "Not specified",
+            "findings": {
+                "factor_VIII_activity": "20% (normal range, 50 to 150)",
+                "von_Willebrand_factor_antigen": "22% (normal range, 50 to 160)",
+                "ristocetin_cofactor_activity": "14% (normal range, 50 to 160)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "gamma_region": "2.37 g per deciliter (normal range, 0.8 to 1.7)",
+                "monoclonal_gammopathy": "IgG kappa monoclonal gammopathy detected"
+            },
+            "changes_over_time": "IgG levels increased over 2 years."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "plasma_cells": "Approximately 20% plasma cells detected"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "5.9 g/dL",
+                "mean_corpuscular_volume": "107 fL",
+                "reticulocyte_count": "3.1%",
+                "peripheral_blood_smear": {
+                    "findings": "markedly decreased number of red blood cells, hyperchromic and macrocytic red blood cells, increased anisocytosis and poikilocytosis, mildly increased polychromasia"
+                },
+                "white_blood_cell_count": "normal",
+                "platelet_count": "normal",
+                "blasts": "none identified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin_A1": "96%",
+                "hemoglobin_A2": "2.8%",
+                "hemoglobin_F": "0.6%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron Studies",
+            "date": "Not specified",
+            "findings": {
+                "serum_iron": "normal",
+                "total_iron_binding_capacity": "normal",
+                "ferritin": "461 ng/mL",
+                "transferrin_saturation": "70%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythropoietin Level",
+            "date": "Not specified",
+            "findings": {
+                "erythropoietin": "1437 mIU/mL (range, 2.6–18.5 mIU/mL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adenosine Deaminase (ADA) Level",
+            "date": "Not specified",
+            "findings": {
+                "ADA": "2200 mU/G Hg (range, 400–900 mU/G Hg)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool Hemoccult Test",
+            "date": "Not specified",
+            "findings": {
+                "initial_test": "negative",
+                "subsequent_test": "positive a few days into hospitalization"
+            },
+            "changes_over_time": "positive result appeared after initial negative test"
+        },
+        {
+            "procedure_name": "Parvovirus B19 IgG Testing",
+            "date": "Not specified",
+            "findings": {
+                "IgG": "positive"
+            },
+            "changes_over_time": "subsequent quantitative viral polymerase chain reaction testing was negative"
+        }
+    ]
+}

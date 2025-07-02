@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "31.2% (Reference Range: 28–43, outside normal range)",
+            "changes_over_time": "Increased to 33.2% at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.0 g/dL (Reference Range: 9.0–14.0, outside normal range)",
+            "changes_over_time": "Increased to 10.3 g/dL at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "8400 per mm3 (Reference Range: 4500–13,500, within normal range)",
+            "changes_over_time": "Decreased to 7600 per mm3 at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Differential count - Neutrophils",
+            "date": "Not specified",
+            "findings": "70.9% (Reference Range: 23–66, outside normal range)",
+            "changes_over_time": "Decreased to 66% at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Differential count - Lymphocytes",
+            "date": "Not specified",
+            "findings": "16.6% (Reference Range: 24–57, outside normal range)",
+            "changes_over_time": "Increased to 24% at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL (Reference Range: 0.7–1.4, outside normal range)",
+            "changes_over_time": "Increased to 0.52 mg/dL at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "28 mg/L (for inflammation, outside normal range)",
+            "changes_over_time": "Increased to 56.9 mg/L at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Iron",
+            "date": "Not specified",
+            "findings": "13 μg/dL (Reference Range: 45–160, outside normal range)",
+            "changes_over_time": "Decreased to 12 μg/dL at 2 weeks after presentation."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "18 ng/ml (Reference Range: 30–300, outside normal range)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

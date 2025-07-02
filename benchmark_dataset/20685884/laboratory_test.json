@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Random glucose concentration",
+            "date": "Not specified",
+            "findings": "345 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (A1C)",
+            "date": "Not specified",
+            "findings": "8.9%",
+            "changes_over_time": "Decreased to 8.1% by the end of the observation period"
+        },
+        {
+            "procedure_name": "Self-monitoring of blood glucose (SMBG)",
+            "date": "Week 12",
+            "findings": "Consistently at goal (65-90 mg/dl before meals)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (A1C)",
+            "date": "Week 16",
+            "findings": "6.9%",
+            "changes_over_time": "Improved to less than 5.3% by week 20, where it remained for the rest of the pregnancy"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "CACT deficiency",
+        "differential_diagnosis": [
+            "Acetaminophen overdose",
+            "Metabolic disorders",
+            "Viral infections (e.g., herpes simplex virus, parvovirus, CMV, EBV, hepatitis A, B, C viruses)",
+            "Ischemic disease (Budd-Chiari syndrome)",
+            "Autoimmune hepatitis",
+            "Wolman's disease",
+            "Cholesteryl ester storage disease",
+            "Other fatty acid oxidation defects (e.g., CPT2 deficiency)"
+        ],
+        "diagnostic_reasoning": "The diagnosis was supported by the presence of diffuse microvesicular and macrovesicular steatosis observed in the liver biopsy, and biochemical analysis revealed elevated acylcarnitine levels indicating a fatty acid oxidation defect, specifically CACT deficiency. The child's clinical presentation and biochemical findings matched features typically associated with fatty acid oxidation disorders. The lack of mutations in the CPT2 gene and presence of specific mutations in the SLC25A20 gene confirmed CACT deficiency as the underlying condition."
+    }
+}

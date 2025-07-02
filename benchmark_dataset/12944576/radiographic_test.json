@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "No evidence of bowel obstruction or perforation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasonographic study",
+            "date": "Not specified",
+            "findings": "No gallstones",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic (CT) scan",
+            "date": "Not specified",
+            "findings": "Enlargement of head and body of the pancreas; slight stranding and inflammatory changes in the fat around the body and tail of the pancreas; no dilatation of pancreatic duct or common bile duct",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper gastrointestinal series with small-bowel examination",
+            "date": "Not specified",
+            "findings": "No abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatographic examination (initial)",
+            "date": "Sixteen weeks before admission",
+            "findings": "Diffuse attenuation of the common bile duct; smooth stricture, 3 mm in length, in distal third of the duct; possible stricture at the origin of the left hepatic duct; pancreatic duct not optimally visualized",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatographic examination (follow-up)",
+            "date": "Seven weeks before admission",
+            "findings": "Resolution of stricture in common bile duct; diffuse irregularity in duct in pancreatic head; complete obstruction of main pancreatic duct",
+            "changes_over_time": "Stricture that had been seen in distal third of common bile duct appeared to have resolved"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Lungs and heart normal; unfolding of the descending thoracic aorta",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic ultrasound examination",
+            "date": "Not specified",
+            "findings": "Parenchymal abnormalities suggestive of inflammatory or malignant infiltration",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-needle aspiration of the pancreas",
+            "date": "Not specified",
+            "findings": "Specimen contained benign acini, few ducts; thick bands of dense collagen; little inflammation; no malignant cells",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

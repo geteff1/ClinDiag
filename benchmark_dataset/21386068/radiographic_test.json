@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT angiography",
+            "date": "May 2008",
+            "findings": "multiple emboli in bilateral subsegmental and segmental pulmonary arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "May 2008",
+            "findings": "thrombosis in the left peroneal vein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "May 2008",
+            "findings": "elevated right-sided filling pressures, hypokinesis of the right ventricle, and moderate pulmonary hypertension",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "no evidence of malignancy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography",
+            "date": "4 weeks after discontinuing warfarin (exact date not specified)",
+            "findings": "D-dimer level was elevated at 812 ng/mL",
+            "changes_over_time": "remained at this level at recheck several months later"
+        }
+    ]
+}

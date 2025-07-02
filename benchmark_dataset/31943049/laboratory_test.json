@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis (12,300 cells/μL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Elevated (49 mm/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "Elevated (103 mg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Day of admission",
+            "findings": "Positive for Helicobacter cinaedi after 48 hours of incubation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Sparse perivascular and interstitial inflammatory infiltrate consistent with cellulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antibiotic Susceptibility Testing",
+            "date": "Not specified",
+            "findings": {
+                "penicillin": "4 µg/mL",
+                "tetracycline": "2 µg/mL",
+                "meropenem": "0.032 µg/mL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

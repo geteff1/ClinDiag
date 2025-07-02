@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/90 mm Hg",
+                "pulse": "76 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "temperature": "36.2°C"
+            },
+            "relevant_findings": "Tenderness to palpation over lower thoracic and lumbar spine, and lumbar paraspinal muscles; other findings normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "184/68 mm Hg",
+                "pulse": "102 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "temperature": "39.2°C",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Discomfort in the right lower quadrant without rebound tenderness; tenderness in the lower paraspinal muscles on the right side; tenderness at the costovertebral angle bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/63 mm Hg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "36.8°C"
+            },
+            "relevant_findings": "Tenderness over lower right paraspinal muscles with palpation, costovertebral angle tenderness bilaterally; normal deep-tendon reflexes.",
+            "changes_over_time": "Chest radiographs showed new elevation of the right hemidiaphragm compared to 6 days earlier."
+        },
+        {
+            "date": "On the first day",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "40.0°C"
+            },
+            "relevant_findings": "Grade 2/6 systolic murmur at the right upper sternal border; otherwise unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On the third day",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "38.2°C"
+            },
+            "relevant_findings": "Induration at the site of a tuberculin skin test measured 10 mm in diameter.",
+            "changes_over_time": "CT of the chest revealed new features consistent with previous granulomatous infection."
+        }
+    ]
+}

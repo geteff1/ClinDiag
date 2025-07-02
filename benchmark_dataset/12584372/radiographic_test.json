@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Unremarkable; no pulmonary abnormality, pleural effusion, or pneumothorax.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "No evidence of pulmonary embolism; several hilar lymph nodes (5 to 9 mm), and small shotty mediastinal nodes; lungs and pleural spaces were clear.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonographic examination of the legs",
+            "date": "Not specified",
+            "findings": "No evidence of deep venous thrombosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

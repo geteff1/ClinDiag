@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "144.6 cm",
+                "weight": "47 kg",
+                "sitting_height/height_ratio": "0.52",
+                "body_mass_index": "22.5 kg/m2",
+                "head_circumference": "50.2 cm",
+                "blood_pressure": "135/85 mmHg"
+            },
+            "relevant_findings": {
+                "dysmorphic_features": "None observed",
+                "cardiovascular_examination": "Normal",
+                "respiratory_examination": "Normal",
+                "abdominal_examination": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "birth_weight": "2100 g",
+                "birth_length": "42 cm",
+                "head_circumference_at_2_months": "33.3 cm"
+            },
+            "relevant_findings": {
+                "dysmorphic_features": "Triangular face, brachycephaly, mild hypotelorism, small mouth with thin lips, prominent ears",
+                "feeding": "Percutaneous gastrostoma placed due to extremely poor appetite"
+            },
+            "changes_over_time": "Failure to thrive persisted despite tube feeding"
+        }
+    ]
+}

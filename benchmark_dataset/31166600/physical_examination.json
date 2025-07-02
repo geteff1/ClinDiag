@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "birthweight": "4.04 kg (11.26 SD)",
+                "length": "52 cm (11.04 SD)",
+                "head_circumference": "37 cm (11.94 SD)"
+            },
+            "relevant_findings": "Mild dysmorphic facial features (frontal bossing, posteriorly rotated low-set ears with underdeveloped superior helix and tragus, mild hyper-telorism, depressed and broad nasal bridge), shortened neck, posterior white hair lock, small bell-shaped thoracic cavity with wide-spaced nipples, rhizomelic limbs, and mild fifth finger clinodactyly. Testes were descended with normal volume bilaterally (2.5 mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks of life",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRI shows a heterogeneously enhancing mass arising from the sella with suprasellar extension measuring 8.1 x 37.5 x 10.7 mm.",
+            "changes_over_time": "Interval increase in size of the tumor to 9.0 x 31.0 x 12.0 mm at 3.5 months of age."
+        },
+        {
+            "date": "6 months of age",
+            "vital_signs": {
+                "PRL": "1360 to 4102 ng/mL (59,130 to 178,347 pmol/L)",
+                "GH": "27 to 142 ng/mL (27 to 142 mg/L)",
+                "IGF-1": "<25 to 159 ng/mL (<3 to 21 nmol/L)"
+            },
+            "relevant_findings": "Normal thyroid tests. Serial cortisol within normal limits, robust cortisol of 25 mg/dL (690 nmol/L) at 7 weeks of life.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "15 months of age",
+            "vital_signs": {
+                "PRL": "1585 ng/mL (68,913 pmol/L)",
+                "GH": "436 ng/mL (436 mg/L)",
+                "IGF-1": "243 ng/mL (32 nmol/L)"
+            },
+            "relevant_findings": "Tumor mass grown to 12.5 x 12.5 x 15.1 mm with abutment onto the optic chiasm.",
+            "changes_over_time": "Tumor grew from previous measurement at this stage."
+        },
+        {
+            "date": "21 months of age (6 months postoperatively)",
+            "vital_signs": {
+                "PRL": "37 ng/mL (1609 pmol/L)",
+                "GH": "2.3 ng/mL (2.3 mg/L)",
+                "IGF-1": "146 ng/mL (19 nmol/L)"
+            },
+            "relevant_findings": "Post surgical intervention hormone levels sharply decreased.",
+            "changes_over_time": "Gradual increase in IGF-1, PRL, and GH concentrations observed post-operatively."
+        },
+        {
+            "date": "28 months of age",
+            "vital_signs": {
+                "PRL": "151 ng/mL (6578 pmol/L)",
+                "GH": "6.1 ng/mL (6.1 mg/L)",
+                "IGF-1": "189 ng/mL (25 nmol/L)"
+            },
+            "relevant_findings": "Measured in the 99th percentile for height (12.26 SD) and weight (12.52 SD). MRI shows 7.0 x 35.0 x 36.0 mm area of hypointensity suggestive of possible residual disease.",
+            "changes_over_time": "Increase in height z score since the last measurement; evidence of possible tumor regrowth."
+        }
+    ]
+}

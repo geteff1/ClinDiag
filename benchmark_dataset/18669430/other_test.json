@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Emergency Psychiatry Consultation",
+            "date": "Not specified",
+            "findings": "Patient was disoriented, did not recall childbirth, and displayed frightened behavior with hallucinations.",
+            "changes_over_time": "Patient eventually became alert and calm after treatment."
+        },
+        {
+            "procedure_name": "IM medication administration (Haloperidol, Lorazepam, Benztropine)",
+            "date": "Not specified",
+            "findings": "Administered due to severe agitation and refusal of medications.",
+            "changes_over_time": "Patient's condition improved after 24 hours; she became alert and calm, requiring removal of restraints."
+        },
+        {
+            "procedure_name": "Psychiatric Evaluation",
+            "date": "Not specified",
+            "findings": "Initially vague recollection of hospital events, mood was depressed and labile with insomnia.",
+            "changes_over_time": "Mood improved on follow-up visits, and patient was able to care for her baby."
+        },
+        {
+            "procedure_name": "Electroconvulsive Therapy (ECT)",
+            "date": "Not specified",
+            "findings": "Patient underwent eight sessions due to severe depressive symptoms and suicidal thoughts.",
+            "changes_over_time": "Symptoms abated, but patient experienced persistent memory loss after therapy."
+        },
+        {
+            "procedure_name": "Medication Adjustment (Sertraline addition)",
+            "date": "One week after discharge",
+            "findings": "Added due to persistent depression.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

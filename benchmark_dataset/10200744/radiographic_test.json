@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal X-ray",
+            "date": "Not specified",
+            "findings": "A small dark spot, consistent with bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the sigmoid colon and atherosclerotic disease with a calcified density in the left pelvis, most likely vessel calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT scan",
+            "date": "Not specified",
+            "findings": "Prominent ventricles, no other evidence of structural abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

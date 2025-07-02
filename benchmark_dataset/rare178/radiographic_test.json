@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest x-ray",
+            "date": "Not specified",
+            "findings": "enlarged cardiac silhouette",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transfontanellar ultrasonography",
+            "date": "Not specified",
+            "findings": "physiological size of the ventricular system",
+            "changes_over_time": "evolution to middle-grade hydrocephalus"
+        },
+        {
+            "procedure_name": "magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "evolution to middle-grade hydrocephalus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasound imaging of the abdomen",
+            "date": "Not specified",
+            "findings": "no abnormalities in the size of the organs or signs of inflammation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "imaging of the scrotum",
+            "date": "Not specified",
+            "findings": "confirmed the presence of a left-sided epidydimal cyst (12 × 5 mm)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

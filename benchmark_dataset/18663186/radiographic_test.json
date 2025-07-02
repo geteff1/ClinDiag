@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain and spinal cord",
+            "date": "Not specified",
+            "findings": "Mild cortical atrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Videonystagmography (VNG)",
+            "date": "Not specified",
+            "findings": "Initially normal saccade latencies, hypometric saccades, lengthening latency with repetition, horizontal pursuit with range restriction, and preserved caloric responses.",
+            "changes_over_time": "Progressively delayed saccade latency noted."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "Extensive acellular eosinophilic material staining strongly positive with Congo red, consistent with amyloidosis, affecting glomeruli, vessels, and medulla; moderate tubular atrophy, interstitial fibrosis, and arteriolosclerosis.",
+            "changes_over_time": "Serum creatinine gradually increased to 2.8 mg/dl 2 months later, prompting the kidney biopsy. After the biopsy, serum creatinine level was 2.3 mg/dl."
+        },
+        {
+            "procedure_name": "Gastrointestinal endoscopic biopsy",
+            "date": "Not specified",
+            "findings": "Detected amyloid in the gastric, duodenal, and rectal mucosa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate to severe concentric increase in left ventricular wall thickness; reduced global average peak systolic strain.",
+            "changes_over_time": "The patient had a mildly elevated troponin T level (0.12 ng/ml) and elevated NT-proBNP (4890 pg/ml) five months post-renal biopsy."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, normal voltage QRS complexes, t-wave inversion in leads I and aVL, mild biphasic t waves in leads V5 and V6.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

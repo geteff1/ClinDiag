@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2004-06-04",
+            "vital_signs": {
+                "temperature": "38.6 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": "Erythematous rash on face and trunk with secondary licheniﬁcation; resolving papular lesions on arms and legs.",
+                "neurological_examination": "Mild nuchal rigidity with meningismus; extreme pain on straight-leg raise; bilateral 4/5 strength in hip and knee flexion; ankle dorsiflexion; areflexic in lower extremities with flexor plantar responses bilaterally; sensory examination normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2004-06-18",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "muscle_strength": "Nearly plegic in both legs; arm strength remained at 4/5. Continued pain."
+            },
+            "changes_over_time": "Weakness progressed to nearly plegic in both legs."
+        },
+        {
+            "date": "2004-06-20",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "nerve_conduction_studies": "Results essentially unchanged from initial studies; EMG continued to demonstrate widespread fibrillation potentials."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2004-06-25",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "muscle_strength": "Started to improve after initiation of treatment."
+            },
+            "changes_over_time": "Muscular strength started to improve after treatment."
+        },
+        {
+            "date": "2004-07-06",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "muscle_strength": "Demonstrated full recovery of strength at follow-up examination."
+            },
+            "changes_over_time": "Full recovery of strength noted."
+        }
+    ]
+}

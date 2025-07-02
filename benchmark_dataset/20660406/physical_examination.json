@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "220/100 mmHg",
+                "pulse": "60 bpm",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "confusion": "Patient was confused but able to speak",
+                "pupils": "Pinpoint",
+                "lung_condition": "Clear",
+                "grip_strength": "Weak left-hand grip"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "220/120 mmHg",
+                "pulse": "60 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "responsiveness": "Unresponsive to sternal rub, withdrew extremities to painful stimuli",
+                "ability_to_swallow": "Unable to swallow secretions",
+                "face": "Symmetric with eyes closed, pupils were pinpoints",
+                "breath_sounds": "Coarse",
+                "plantar_responses": "Extensor"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eighth hospital day",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "level_of_alertness": "Patient became more alert, oriented, conversant, and interactive"
+            },
+            "changes_over_time": "Improvement noted in cognition and extent of edema after treatment"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "admission_condition": "Readmitted with lethargy and respiratory distress, chest radiography showed pleural effusions and atelectasis"
+            },
+            "changes_over_time": "Condition did not improve despite treatment; deterioration leading to death"
+        }
+    ]
+}

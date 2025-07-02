@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "37.6%",
+            "changes_over_time": "Increased to 38.0% on Hospital Day 2."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.6 g/dL",
+            "changes_over_time": "Increased to 12.8 g/dL on Hospital Day 2."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "12,100 per mm3",
+            "changes_over_time": "Decreased to 9600 per mm3 on Hospital Day 2."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "144 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sylvian Vibrio Infection Tests",
+            "date": "Follow-up Visit 1 week after Care Discharge",
+            "findings": "Tests for B. henselae and B. quintana IgG antibodies were borderline positive with a titer of 1:128.",
+            "changes_over_time": "Tests for IgM antibodies remained negative."
+        },
+        {
+            "procedure_name": "Treponema Antibodies Test",
+            "date": "Follow-up Visit 13 days after initial presentation",
+            "findings": "Serum test for treponemal-specific antibodies was positive; rapid plasma reagin test was reactive at a 1:64 dilution.",
+            "changes_over_time": "Reactivity changed to 1:4 at 3-month follow-up."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Initial value was 738 U/L (reference range, 45 to 115).",
+            "changes_over_time": "Decreased to 638 U/L one week after the first penicillin injection."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Follow-up Visit 1 week after therapy",
+            "findings": "Mildly elevated aminotransferase levels.",
+            "changes_over_time": "Normalized after therapy."
+        }
+    ]
+}

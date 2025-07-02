@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit level was 58.1%. Normal range for men is 41.0–53.0%.",
+            "changes_over_time": "Hematocrit at previous tests were 48.1% (9 months before), 44.3% (6 months before), 39% (5 months before), 41.4% (4 months before), 55.0% (6 days before), 57.0% (1 day before), 55.5% (3rd hospital day)."
+        },
+        {
+            "procedure_name": "Erythropoietin",
+            "date": "Not specified",
+            "findings": "Results ranged from 16.2 mIU/ml (initial) to a high of 977 and 1747 mIU/ml (13 and 16 months later, respectively), and also >2000 mIU/ml (prior to admission). Normal range is 4.0–16.0 mIU/ml.",
+            "changes_over_time": "Erythropoietin level increased dramatically, with the last recorded levels being >2000 mIU/ml at the time of performance."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine ranged from 1.2 mg/dL (9 months before admission) to 2.08 mg/dL (3rd hospital day). Normal range is 0.60–1.50 mg/dL.",
+            "changes_over_time": "Creatinine levels increased: 1.2 mg/dL (9 Mo before), 1.1 mg/dL (6 Mo before), 1.3 mg/dL (5 Mo before), 1.2 mg/dL (4 Mo before), 1.60 mg/dL (6 Days before), 2.08 mg/dL (3rd hospital day)."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin ranged from 12.2 g/dL to 12.1 g/dL (9 and 6 months before respectively) to a low of 10.6 g/dL (5 months before). Normal range is 13.5–17.5 g/dL.",
+            "changes_over_time": "Hemoglobin levels decreased from 12.2 g/dL (9 months before) to 10.6 g/dL (5 months before)."
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "Not specified",
+            "findings": "Platelet counts varied from 193,000 (9 Mo before) to highs of 609,000 (6 Mo before) with 288,000 (3rd hospital day). Normal range is 150,000–350,000.",
+            "changes_over_time": "Platelet levels increased to a maximum of 609,000 (6 Mo before admission), then decreased to 288,000 (hospital day)."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Sodium levels varied, with results 140 mmol/liter (9 Mo before) decreasing to 131 (3rd hospital day). Normal range is 135–145 mmol/liter.",
+            "changes_over_time": "Sodium levels decreased from 140 mmol/liter to 131 mmol/liter."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Potassium levels were stable around 4.0 to 4.5 mmol/liter (varied slightly across tests). Normal range is 3.4–4.8 mmol/liter.",
+            "changes_over_time": "Potassium levels varied slightly but remained within normal limits."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin levels were normal at the time of evaluation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-Hour Urine Protein and Creatinine Clearance",
+            "date": "Not specified",
+            "findings": "Normal levels of protein and creatinine clearance.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

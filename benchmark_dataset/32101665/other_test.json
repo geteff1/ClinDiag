@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "phlebotomy",
+            "date": "Not specified",
+            "findings": "Hematocrit values higher than the 99th percentile for age; periodic phlebotomies of 5 to 7 ml per kilogram since a few days old.",
+            "changes_over_time": "Phlebotomy is currently the main prophylactic treatment for symptoms such as severe headache and muscle cramps; however, it is described as detrimental in patients with Chuvash polycythemia."
+        },
+        {
+            "procedure_name": "GHRH+arginine stimulation test",
+            "date": "At age 12 years",
+            "findings": "GH peak of 33.6 ng/mL (normal response in mid-60s for this age group), indicating impairment in the GHRH–GH–IGF1 pathway.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "high-resolution respirometry",
+            "date": "Not specified",
+            "findings": "Marked suppression in the patient's muscle mitochondrial respiratory capacity relative to control; oxidative phosphorylation capacity supported by fatty acids was 28% lower.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "transmission electron microscopy",
+            "date": "Not specified",
+            "findings": "High levels of unusual intermitochondrial connecting ducts observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "metabolomic analysis",
+            "date": "Not specified",
+            "findings": "Low levels of glycolytic intermediates (81-98% lower) and alterations in glucose and lipid metabolism were noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "120/80 mm Hg",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "No lumps or lymph nodes were palpable; surgical sites and scars were well healed.",
+                "spine": "Mild focal tenderness of the spine just to the left of T10."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

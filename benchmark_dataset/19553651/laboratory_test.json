@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Day of Admission: 38.8%, On Admission: 42.7%",
+            "changes_over_time": "Increased from 38.8% to 42.7%"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "Day of Admission: 23,100 per mm3, On Admission: 26,300 per mm3",
+            "changes_over_time": "Increased from 23,100 to 26,300 per mm3"
+        },
+        {
+            "procedure_name": "Neutrophils",
+            "date": "Not specified",
+            "findings": "Day of Admission: 95%, On Admission: 92%",
+            "changes_over_time": "Decreased from 95% to 92%"
+        },
+        {
+            "procedure_name": "Lymphocytes",
+            "date": "Not specified",
+            "findings": "Day of Admission: 2%, On Admission: 4%",
+            "changes_over_time": "Increased from 2% to 4%"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Day of Admission: 122 mmol/liter, On Admission: 126 mmol/liter",
+            "changes_over_time": "Increased from 122 to 126 mmol/liter"
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "Day of Admission: 86 mmol/liter, On Admission: 88 mmol/liter",
+            "changes_over_time": "Increased from 86 to 88 mmol/liter"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "Day of Admission: 160 mg/dl, On Admission: 121 mg/dl",
+            "changes_over_time": "Decreased from 160 to 121 mg/dl"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Day of Admission: 189 U/liter, On Admission: Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Day of Admission: 134 U/liter, On Admission: Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "19,400 (elevated, normal range: 6,000–17,500)",
+                "neutrophils": "78% (elevated, normal range: 17–49%)",
+                "lymphocytes": "19% (decreased, normal range: 67–77%)",
+                "monocytes": "2% (decreased, normal range: 4–11%)",
+                "eosinophils": "1% (normal, normal range: 0–8%)",
+                "platelet_count": "483,000 (normal, normal range: 150,000–450,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "138 mmol/L (normal, normal range: 135–145)",
+                "potassium": "5.2 mmol/L (slightly elevated, normal range: 3.4–4.8)",
+                "chloride": "102 mmol/L (normal, normal range: 98–106)",
+                "carbon_dioxide": "21.4 mmol/L (slightly low, normal range: 22.0–27.0)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "urea_nitrogen": "11 mg/dL (normal, normal range: 5–20)",
+                "creatinine": "0.28 mg/dL (slightly low, normal range: 0.30–1.00)",
+                "calcium": "10.9 mg/dL (elevated, normal range: 8.5–10.5)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "specific_gravity": "1.020 (normal, normal range: 1.001–1.035)",
+                "white_cells": "1+ (abnormal)",
+                "ketones": "1+ (abnormal)",
+                "albumin": "trace (abnormal)",
+                "transitional_cells": "rare (normal)",
+                "mucin": "present (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxicology Screening",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

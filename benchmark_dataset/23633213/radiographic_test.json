@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal brain MRI.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Confirmed hearing loss likely due to otosclerosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dual-energy X-ray absorptiometry",
+            "date": "Not specified",
+            "findings": "BMD was 0.911 g/cm2 in the lumbar spine and 0.881 g/cm2 in the femoral head for the index patient; normal BMD in father.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

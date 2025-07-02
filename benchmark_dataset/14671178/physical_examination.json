@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "157.5 cm",
+                "weight": "126.4 kg",
+                "BMI": "51 kg/m2",
+                "waist_hip_ratio": "0.92"
+            },
+            "relevant_findings": {
+                "obesity_onset": "Less than 5 years of age",
+                "hirsutism": "Self-reported",
+                "acanthosis_nigricans": "Self-reported",
+                "menstrual_irregularities": "Reported"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

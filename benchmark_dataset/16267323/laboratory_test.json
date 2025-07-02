@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glutamine Test (Serum)",
+            "date": "Not specified",
+            "findings": "Patient 1: 2 µmol/liter (normal range: 433–619 µmol/liter); Patient 2: 6 µmol/liter (normal range: 300–800 µmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glutamine Test (Urine)",
+            "date": "Not specified",
+            "findings": "Patient 1: Not detectable (normal range: 52–205 mmol/mol creatinine); Patient 2: 8 µmol/g creatinine (normal range: 640–3230 µmol/g)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glutamine Test (Cerebrospinal Fluid)",
+            "date": "Not specified",
+            "findings": "Patient 1: 11 µmol/liter (normal range: 352–885 µmol/liter); Patient 2: 12 µmol/liter (normal range: 520–1280 µmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glutamate Test (Serum)",
+            "date": "Not specified",
+            "findings": "Patient 1: 45 µmol/liter (normal range: 36–82 µmol/liter); Patient 2: 80 µmol/liter (normal range: 70–220 µmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glutamate Test (Urine)",
+            "date": "Not specified",
+            "findings": "Patient 1: 2 mmol/mol creatinine (normal range: 0–30 mmol/mol); Patient 2: 34 µmol/g creatinine (normal range: 0–250 µmol/g)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glutamate Test (Cerebrospinal Fluid)",
+            "date": "Not specified",
+            "findings": "Patient 1: Not detectable (normal range: 1–48 µmol/liter); Patient 2: 2 µmol/liter (normal range: 2–51 µmol/liter)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

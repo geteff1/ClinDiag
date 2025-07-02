@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "97% on ambient air"
+            },
+            "relevant_findings": {
+                "lesions": "Well-demarcated, edematous, friable, erythematous-to-violaceous plaques on the dorsal surfaces of the hands, gray discoloration at the margins.",
+                "other_findings": "Bilateral leg edema; thrombocytopenia."
+            },
+            "changes_over_time": "Lesions expanded including the proximal interphalangeal joints and became more erosive and painful."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "lesions": "Partially denuded bullous lesions on the dorsal surface of both hands, extending over the fingers.",
+                "other_findings": "Decreased appetite, weight loss (approximately 2.3 kg per week), and intermittent diarrhea."
+            },
+            "changes_over_time": "Lesions initially showed partial improvement after treatment but worsened later."
+        }
+    ]
+}

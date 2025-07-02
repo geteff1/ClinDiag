@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound scan",
+            "date": "Not specified",
+            "findings": "Suspicious nodule of more than 2 cm in diameter in the thyroid gland; multiple bilaterally enlarged lymph nodes in the neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-therapy scan",
+            "date": "Not specified",
+            "findings": "Intense uptake of iodine-131 (¹³¹I) in both lungs; normal chest X-ray.",
+            "changes_over_time": "No change occurred in the level of ¹³¹I uptake in the lungs."
+        },
+        {
+            "procedure_name": "Post-therapy scan",
+            "date": "Not specified",
+            "findings": "Intense ¹³¹I uptake in the lungs; correspondingly high serum concentration of thyroglobulin (3750 ng/mL).",
+            "changes_over_time": "¹³¹I uptake in the lung metastases finally disappeared."
+        },
+        {
+            "procedure_name": "Lung CT",
+            "date": "September 2019",
+            "findings": "Mild pulmonary fibrosis.",
+            "changes_over_time": "No scintigraphic or radiological remnants of pulmonary metastases were seen; thyroglobulin concentration decreased to 17 ng/mL."
+        }
+    ]
+}

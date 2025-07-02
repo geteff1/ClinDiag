@@ -1,0 +1,69 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "5,400/mm3 (4,000–12,000/mm3)",
+                "Segments": "50% (40%–75%)",
+                "Lymphocytes": "34% (20–47%)",
+                "Monocytes": "13% (0–10%)",
+                "Hemoglobin": "9.6 g/dL (12–15.8 g/dL)",
+                "Hematocrit": "28.1% (36%–47%)",
+                "Mean cell volume": "101.8 µm3 (82–96 µm3)",
+                "Mean cell hemoglobin": "34.8 ng (27–33 ng)",
+                "Platelets": "227,000/mm3 (140,000–440,000/mm3)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Color": "Yellow",
+                "Clarity": "Cloudy",
+                "pH": "6.0 (5.0–8.0)",
+                "Protein": "100 mg/dL (Negative)",
+                "Glucose": "Negative (Negative)",
+                "Acetone": "Negative (Negative)",
+                "Urine hemoglobin": "Moderate (Negative)",
+                "Specific gravity": "1.020 (1.003–1.030)",
+                "WBCs": "Occasional",
+                "RBCs": "1–2/high-power field",
+                "Casts": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "141 mmol/L (135–148 mmol/L)",
+                "Potassium": "4.1 mmol/L (3.5–5.5 mmol/L)",
+                "Chloride": "106 mmol/L (98–108 mmol/L)",
+                "CO2": "25 mmol/L (23–30 mmol/L)",
+                "Glucose": "105 mg/dL (65–110 mg/dL)",
+                "Blood urea nitrogen": "14 mg/dL (7–18 mg/dL)",
+                "Creatinine": "1.0 mg/dL (0.6–1.2 mg/dL)",
+                "Calcium": "10.1 mg/dL (8.8–10.1 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "114 mm/h (0–20 mm/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": {
+                "Bilateral atelectasis": "Present",
+                "Fractures": "Old left-sided rib fractures and a questionable right-sided rib fracture",
+                "Lytic lesion": "1 cm × 1 cm on the medial aspect of the right clavicle"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

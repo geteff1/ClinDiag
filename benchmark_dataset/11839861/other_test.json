@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "fMRI",
+            "date": "Not specified",
+            "findings": "Initial fMRI study showed right temporal activation with no activation over the left temporal lobe. The second fMRI revealed bilateral activation with left-sided predominance for language tasks.",
+            "changes_over_time": "First fMRI indicated right-sided activation; the follow-up demonstrated significant left-sided activation, confirming false lateralization in the initial study."
+        },
+        {
+            "procedure_name": "Ictal SPECT study",
+            "date": "Not specified",
+            "findings": "Increased radiopharmaceutical uptake in the entire left temporal lobe, operculum, and insula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Video-EEG telemetry",
+            "date": "Not specified",
+            "findings": "Interictal sharp/slow wave discharges over the left anterior quadrant, consistent with a left mesial temporal focus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Functional mapping using electrical stimulation",
+            "date": "Not specified",
+            "findings": "Confirmed language cortex localization over the left superior temporal gyrus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

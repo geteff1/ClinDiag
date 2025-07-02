@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Identified two novel heterozygous mutations located in the last GCMB exon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": "The mutant GCMB proteins were well expressed but showed a dominant-negative effect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luciferase reporter assay",
+            "date": "Not specified",
+            "findings": "Mutant GCMB proteins exhibited approximately 22% of wild-type activity.",
+            "changes_over_time": "As mutant expression increased, wild-type activity decreased, suggesting competition."
+        }
+    ]
+}

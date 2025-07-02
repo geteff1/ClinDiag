@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "19 June 2000",
+            "findings": "Peripheral WBC count of 4400 cells/mm3, with an absolute lymphocyte count of 300 cells/mm3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "19 June 2000",
+            "findings": "71 nucleated cells with 80% neutrophils and 14% lymphocytes; protein level 66 g/dL, glucose level 96 g/dL; negative Gram stain and cultures.",
+            "changes_over_time": "A second analysis on 28 June revealed 18 nucleated cells, with 85% lymphocytes; protein level, 77 g/dL; glucose level, 86 g/dL. PCR and viral cultures were negative."
+        },
+        {
+            "procedure_name": "Blood Culture for Enterovirus",
+            "date": "20 June 2000 (results reported)",
+            "findings": "Positive for enterovirus from a blood sample obtained on 14 June.",
+            "changes_over_time": "Negative results for additional viral blood cultures obtained on 19 June and 28 June."
+        },
+        {
+            "procedure_name": "CSF PCR for Enteroviral RNA",
+            "date": "19 June 2000",
+            "findings": "Positive for enteroviral RNA.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

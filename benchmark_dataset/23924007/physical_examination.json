@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "pulse": "145 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": "Diffuse scaly erythematous rash with serous drainage",
+                "edema": "Warm, nonpitting edema of the legs",
+                "other": "Remainder of the examination normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "126 bpm",
+                "blood_pressure": "110/58 mm Hg",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "rash": "Diffuse confluent erythroderma with superficial scaling and erosions, foci of lichenification, palmoplantar hyperkeratosis, and follicular prominence on the back.",
+                "edema": "Painful pitting edema of the legs",
+                "other": "Madarosis, bilateral small ectropion of the eyelids; remainder of the examination normal"
+            },
+            "changes_over_time": "Erythroderma persisted, with some improvement after topical treatments."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Diffuse pulmonary edema, diffuse interstitial infiltrates, small bilateral pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Severe left ventricular systolic dysfunction, left ventricular ejection fraction of 15%, left ventricular apical akinesis, severe right ventricular apical dysfunction, small pericardial effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Not specified",
+            "findings": "Mildly reduced left ventricular ejection fraction of 49%, left ventricular mid-to-apical hypokinesis, normal right ventricular function, no evidence of clinically significant myocardial edema.",
+            "changes_over_time": "Initially low left ventricular ejection fraction, improved to 54% preoperatively after treatment."
+        },
+        {
+            "procedure_name": "Endomyocardial biopsy",
+            "date": "Not specified",
+            "findings": "Acute and healing myocardial injury, focal necrotic myocytes, and a reparative inflammatory infiltrate primarily composed of CD68+ macrophages.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the adrenal glands",
+            "date": "Not specified",
+            "findings": "Ellipsoid mass located anterior to the superior pole of the right kidney, suggestive of pheochromocytoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

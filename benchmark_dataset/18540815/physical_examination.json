@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Severe confusion, complete disorientation, neck stiffness, severe weakness of the limbs, urinary retention, molluscum contagiosum in the face, oral thrush.",
+            "changes_over_time": "Initially presented with severe symptoms; improved remarkably after two weeks of antiretroviral therapy with resolved headaches, disappearance of neck stiffness and urinary trouble, normal CSF cell counts and biochemical results."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "CD4+ T lymphocyte count: 35 cells/mL; Plasma HIV RNA level: 159,000 copies/mL; CSF HIV RNA level: 13,000,000 copies/mL.",
+            "relevant_findings": "MRI showed increased T2-weighted signal diffusely scattered with confluent aspect; electroencephalographic examination revealed diffuse abnormal findings; lumbar puncture yielded clear CSF with 22 mononuclear cells/mL, protein level of 80 mg/dL, glucose level of 41 mg/dL.",
+            "changes_over_time": "After two weeks of therapy, neurological symptoms improved, and CSF cell counts returned to normal along with the biochemical test results."
+        },
+        {
+            "date": "6 months follow-up",
+            "vital_signs": "Plasma HIV RNA level: <40 copies/mL; CSF HIV RNA level: 73 copies/mL.",
+            "relevant_findings": "Patient was free of symptoms.",
+            "changes_over_time": "Significant overall clinical improvement over the follow-up period, with continued decrease in HIV RNA levels in both plasma and CSF."
+        }
+    ]
+}

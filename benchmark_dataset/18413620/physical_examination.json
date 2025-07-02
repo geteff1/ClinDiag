@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Mildly icteric sclera, mild discomfort on deep abdominal palpation, no masses or organomegaly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hemoglobin_level": "84 g/L",
+                "platelet_count": "96 /H1100310^9 cells/L",
+                "lactate_dehydrogenase": "2950 U/L"
+            },
+            "relevant_findings": "ANemia and thrombocytopenia.",
+            "changes_over_time": "Hemoglobin level decreased to 70 g/L and lactate dehydrogenase level increased to 3450 U/L on follow-up."
+        },
+        {
+            "date": "6 months after starting eculizumab therapy",
+            "vital_signs": {
+                "hemoglobin_level": "101 g/L",
+                "platelet_count": "107 /H1100310^9 cells/L",
+                "lactate_dehydrogenase": "359 U/L"
+            },
+            "relevant_findings": "Marked improvement in energy level, no further episodes of hemolytic episodes, esophageal spasm resolved, erectile dysfunction resolved.",
+            "changes_over_time": "Symptoms improved significantly after starting eculizumab therapy; no further hemolytic episodes were reported."
+        }
+    ]
+}

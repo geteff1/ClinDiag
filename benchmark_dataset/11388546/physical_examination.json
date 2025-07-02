@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "90/60 to 110/50 mmHg",
+                "pulse": "90 to 115 bpm",
+                "oxygen_saturation": "70% (initially decreased from 100%)"
+            },
+            "relevant_findings": "Truncal erythema noted.",
+            "changes_over_time": "O2 saturation improved to 100% after treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Kahwaji reports varied between 90/60 and 110/50 mmHg",
+                "pulse": "Not available, average range during monitoring is noted."
+            },
+            "relevant_findings": "Severe bronchospasm with difficulty in ventilation after rapacuronium administration.",
+            "changes_over_time": "The bronchospasm resolved with treatment (albuterol, increasing anesthesia)."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "SpO2_initial": "100%",
+                "SpO2_after_intervention": "Higher than 95%",
+                "peak_inspiratory_pressure": "45 cm H2O"
+            },
+            "relevant_findings": "Severe bronchospasm noted with difficulty in positive pressure ventilation.",
+            "changes_over_time": "SpO2 increased from 85% to around 96% after treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "SpO2": "81% (initially)",
+                "SpO2_after_intervention": "95%+ or symmetrical chest excursion"
+            },
+            "relevant_findings": "Complete atelectasis of the left lung with significant desaturation.",
+            "changes_over_time": "Reexpansion of the left lung achieved successfully post-procedure."
+        }
+    ]
+}

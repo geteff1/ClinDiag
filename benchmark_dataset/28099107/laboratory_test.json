@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pleural fluid chemistry",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.16 (range, 7.30–7.40)",
+                "glucose": "56 mg/dL (3.1 mmol/L) (range, 60–139 mg/dL [3.3–7.7 mmol/L])",
+                "fluid_protein": "4.7 g/dL (range, 0.4–2.0 g/dL)",
+                "lactate_dehydrogenase": "826 U/L (range, 20–300 U/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology specimen evaluation",
+            "date": "Not specified",
+            "findings": "Positive for rheumatoid factor; showed areas of geographic stellate necrobiosis with extensive fibrin deposition surrounded by a palisading histiocytic rim.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytology of pleural fluid",
+            "date": "Not specified",
+            "findings": "Presence of lymphocytes without evidence of infectious microorganisms.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

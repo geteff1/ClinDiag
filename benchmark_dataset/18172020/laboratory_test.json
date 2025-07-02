@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HAM-D",
+            "date": "Not specified",
+            "findings": "Patients designated as having anxious depression if their anxiety/somatization factor score from the HAM-D was 7 or higher at baseline.",
+            "changes_over_time": "Anxious depression patients were less likely and took longer to achieve remission compared to nonanxious depression patients."
+        },
+        {
+            "procedure_name": "QIDS-SR",
+            "date": "Not specified",
+            "findings": "Remission rates were lower in anxious depression (27.5%) compared to nonanxious depression (38.9%).",
+            "changes_over_time": "Patients with anxious depression had higher mean QIDS-SR scores at exit and lower raw QIDS-SR change scores compared to nonanxious depression."
+        }
+    ]
+}

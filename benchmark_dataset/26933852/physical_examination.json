@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "136/76 mm Hg",
+                "pulse": "84 bpm",
+                "weight": "48.6 kg",
+                "height": "151.4 cm"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared healthy and in no distress.",
+                "abdomen": "Soft and nontender, with no organomegaly."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks after initial presentation",
+            "vital_signs": {
+                "notable_changes": "Weight loss of approximately 3 kg reported."
+            },
+            "relevant_findings": {
+                "general": "Patient reported increased frequency of abdominal pain and hematochezia.",
+                "pain": "Pain that waxed and waned between 5 and 10 on a scale of 0 to 10."
+            },
+            "changes_over_time": "Worsening of abdominal pain and increase in hematochezia frequency since the initial evaluation."
+        }
+    ]
+}

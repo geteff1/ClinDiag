@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR",
+            "date": "Not specified",
+            "findings": "Positive for B. microti DNA.",
+            "changes_over_time": "B. microti DNA was detected at the conclusion of the 6-week ATV/AZ treatment. PCR was negative at 60 and 102 days after initiation of the four-drug regimen."
+        },
+        {
+            "procedure_name": "Peripheral blood smear",
+            "date": "June 2015",
+            "findings": "Positive for intra-erythrocytic inclusions consistent with Babesia and parasitemia of 0.3%.",
+            "changes_over_time": "The patient had a total of 4 negative follow-up blood smears after the initial treatment, but showed increasing parasitemia (up to 1%) upon relapse."
+        },
+        {
+            "procedure_name": "Genetic sequencing",
+            "date": "October 2015",
+            "findings": "Emergence of point mutations in the cytb and rpl4 genes.",
+            "changes_over_time": "Wild-type cytb and rpl4 were observed at diagnosis, but resistance haplotypes were noted after the initial treatment course."
+        }
+    ]
+}

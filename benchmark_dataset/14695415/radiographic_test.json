@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper gastrointestinal series with small-bowel follow-through",
+            "date": "Not specified",
+            "findings": "Several massively dilated loops of distal small bowel with intervening areas of stricture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal pelvic CT scan",
+            "date": "Six weeks before admission",
+            "findings": "Extensive inflammatory changes in the right lower quadrant, medial to the cecum; abnormal enhancement of the cecal wall and ascending colon; enlargement of mesenteric lymph nodes; several massively dilated loops of distal small bowel with air–fluid levels and intervening strictures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominopelvic CT scan",
+            "date": "One week before admission",
+            "findings": "Changes nearly identical to those seen on the previous scan, as well as a small amount of intraperitoneal fluid in the pelvis and diffuse hepatic fatty infiltration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Reticulonodular interstitial infiltrate in the apex of the right lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-resolution CT scan",
+            "date": "Not specified",
+            "findings": "Tree-in-bud appearance characteristic of endobronchial spread of tuberculosis; blunting of right lateral costophrenic sulcus, scarring at the right lung base, indicating prior tuberculous pleuritis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

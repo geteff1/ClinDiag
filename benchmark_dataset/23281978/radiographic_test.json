@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal mediastinum without pulmonary edema, cardiomegaly, or air-space disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "left-sided cardiac catheterization",
+            "date": "Not specified",
+            "findings": "100% occlusion of the left anterior descending artery; left main, left circumflex, and right coronary arteries did not have clinically significant disease.",
+            "changes_over_time": "The percutaneous intervention restored blood flow (TIMI grade 3), which was successful."
+        },
+        {
+            "procedure_name": "trans-thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Ejection fraction of 40%, with hypokinesis of the apex, the middle and distal anterior wall, and the middle and distal anterior septum.",
+            "changes_over_time": "At the 6-month follow-up visit, the ejection fraction improved to 50%."
+        }
+    ]
+}

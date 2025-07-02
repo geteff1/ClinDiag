@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs and degenerative changes of the spine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Indeterminate sclerotic lesion involving the right eighth rib",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "Not specified",
+            "findings": "Nonspecific abnormal uptake by the rib lesion and at the left ischium",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the pelvis",
+            "date": "Not specified",
+            "findings": "High-grade tear of the left common hamstring tendon at the ischial tuberosity attachment site",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

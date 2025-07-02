@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Glucose: 28 mg/dl (1.55 mmol/liter) at emergency department visit, with normal range 68–110 mg/dl (3.7–6.1 mmol/liter)",
+            "relevant_findings": "Patient reported lightheadedness, chills, diaphoresis, palpitations, and shakiness. Physical examination was unremarkable: well-developed, well-nourished; abdomen soft, nontender, with no palpable masses or organomegaly.",
+            "changes_over_time": "Patient experienced similar symptoms of lesser severity for approximately 3 years prior to presentation, typically occurring from 1000–1300 h."
+        },
+        {
+            "date": "Postoperative follow-up",
+            "vital_signs": "Fasting blood glucose: 120 mg/dl (6.66 mmol/liter), Insulin levels: 95.4 pmol/liter (normal range, 6–144 pmol/liter)",
+            "relevant_findings": "Complete resolution of preoperative symptoms. Postoperative hyperglycemia noted with serum glucose levels as high as 303 mg/dl (16.8 mmol/liter).",
+            "changes_over_time": "Preoperative symptoms resolved completely after tumor resection. A postoperative low-output pancreatic fistula closed one week after surgery."
+        },
+        {
+            "date": "6 weeks postoperative follow-up",
+            "vital_signs": "Fasting blood glucose: 120 mg/dl (6.66 mmol/liter), Insulin: 95.4 pmol/liter",
+            "relevant_findings": "No evidence of recurrent disease on routine follow-up.",
+            "changes_over_time": "No abnormalities noted since surgery; condition improved."
+        }
+    ]
+}

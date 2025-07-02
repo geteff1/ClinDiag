@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "Heterogeneous, well-circumscribed mass anterior to the right common iliac artery with prominent internal vascularity. Normal testes and scrotum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Well-circumscribed, solid retroperitoneal mass (2.8 cm by 3.3 cm by 4.6 cm) at the level of the pelvic inlet on the right side, anterior and medial to the psoas muscle. 4-mm indeterminate nodule at the base of the right lung.",
+            "changes_over_time": "Subsequent CT confirmed the presence of the mass; no evidence of other pathologic conditions or abnormal FDG uptake in the lung nodule."
+        },
+        {
+            "procedure_name": "FDG PET scan",
+            "date": "Not specified",
+            "findings": "FDG avidity within physiologic limits with no evidence of pathologic uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "No evidence of a recurrence after 2 years; follow-up MRI of the chest showed no change in the size of the pulmonary nodule."
+        }
+    ]
+}

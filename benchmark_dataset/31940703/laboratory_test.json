@@ -1,0 +1,80 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine Laboratory Testing",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": {
+                    "value": "5.78 mg/dL",
+                    "normal_range": "0.60 to 1.50 mg/dL"
+                },
+                "blood_urea_nitrogen": {
+                    "value": "80 mg/dL",
+                    "normal_range": "8 to 25 mg/dL"
+                },
+                "hemoglobin": {
+                    "value": "10.4 g/dL",
+                    "normal_range": "13.5–17.5 g/dL"
+                },
+                "hematocrit": {
+                    "value": "30.2 %",
+                    "normal_range": "41.0–53.0 %"
+                },
+                "platelet_count": {
+                    "value": "119,000 per μL",
+                    "normal_range": "150,000–400,000 per μL"
+                },
+                "white_cell_count": {
+                    "value": "2760 per μL",
+                    "normal_range": "4500–11,000 per μL"
+                },
+                "c_reactive_protein": {
+                    "value": "287.5 mg/L",
+                    "normal_range": "<8.0 mg/L"
+                },
+                "eosinophils": {
+                    "value": "0.9 %",
+                    "normal_range": "0–8 %"
+                },
+                "plasma_cells": {
+                    "value": "0.9 %",
+                    "normal_range": "0 %"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "value": "41 mm/hr",
+                    "normal_range": "0–13 mm/hr"
+                }
+            },
+            "changes_over_time": "Progressive increase in creatinine, blood urea nitrogen, and changes in hemoglobin, hematocrit, and white cell count."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "blood": "3+",
+                "protein": "2+",
+                "red_cells_per_high_power_field": "10 to 20, including acanthocytes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Diagnostic Tests",
+            "date": "Not specified",
+            "findings": {
+                "cytomegalovirus_dna": {
+                    "value": "4680 IU/mL",
+                    "comments": "Detected in blood"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopy (Cytologic Examination)",
+            "date": "Not specified",
+            "findings": {
+                "spherules": "Morphologically consistent with C. immitis or C. posadasii"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

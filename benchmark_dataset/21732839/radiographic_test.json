@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal chest radiograph.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Abnormal intimal thickening of the thoracic and abdominal aorta, extending into the superior mesenteric artery and the proximal left common iliac artery; liver and spleen normal; no small-bowel dilatation, ascites, free air, or bowel-wall thickening.",
+            "changes_over_time": "Follow-up imaging showed resolution of the thickening and enhancement in the aorta four months later."
+        },
+        {
+            "procedure_name": "MRI scan of the chest and upper abdomen",
+            "date": "Not specified",
+            "findings": "Diffuse intimal thickening and enhancement in the wall of the thoracic and abdominal aorta; moderate-to-severe narrowing at the origin of the left subclavian artery and mild narrowing at the origins of the celiac and superior mesenteric arteries.",
+            "changes_over_time": "Follow-up imaging showed resolution of edema after treatment."
+        }
+    ]
+}

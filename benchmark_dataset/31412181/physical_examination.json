@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "pulse": "71 bpm",
+                "blood_pressure": "113/67 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Gravid abdomen, soft with hyperactive bowel sounds; severe tenderness in right lower quadrant extending inferiorly to inguinal region; voluntary guarding; Rovsing's sign present. Limited pelvic examination revealed closed cervix, remainder normal.",
+                "urinalysis": "Cloudy yellow urine, specific gravity 1.002, moderate ketones, few bacteria."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

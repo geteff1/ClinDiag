@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "Not specified",
+            "findings": "Fasting blood glucose: 81 mg/dL; 2-hour blood glucose: 120 mg/dL; Insulin levels: Fasting: 33.7 IU/mL; 2-hour: 219 IU/mL",
+            "changes_over_time": "At age 27, diagnosed with diabetes; hemoglobin A1c levels consistently elevated."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "Not specified",
+            "findings": "Fasting blood glucose: 81 mg/dL; 2-hour blood glucose: 137 mg/dL; Insulin levels: Fasting: 28 IU/mL; 2-hour: 180 IU/mL",
+            "changes_over_time": "Adult noted elevated fasting blood sugars (peak: 154 mg/dL) but never received medical therapy for diabetes."
+        },
+        {
+            "procedure_name": "Lymphocyte Subpopulation Analysis",
+            "date": "Not specified",
+            "findings": "Mild lymphopenia; reduced number of natural killer and B cells, mild decrease in CD4 T cells, with normal numbers of CD8 T cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complement Analysis",
+            "date": "Not specified",
+            "findings": "C3 mildly elevated; normal C4.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematological Assessment",
+            "date": "Not specified",
+            "findings": "Low-normal hemoglobin levels.",
+            "changes_over_time": "Persistent anemia of unknown origin throughout childhood and young adulthood."
+        },
+        {
+            "procedure_name": "Reproductive/Hormonal Assessment",
+            "date": "Age 13",
+            "findings": "Baseline T level of 10 ng/dL.",
+            "changes_over_time": "At age 18, consistent primary gonadal failure with marked hypergonadotropic hypogonadism."
+        },
+        {
+            "procedure_name": "Reproductive/Hormonal Assessment",
+            "date": "Not specified",
+            "findings": "LH: 44.6 mIU/mL, FSH: 62.3 mIU/mL, T: 10 ng/dL at age 13, T: 30 ng/dL at age 18.",
+            "changes_over_time": "Estrogen replacement therapy needed but patient displayed persistent hypogonadism at age 19."
+        },
+        {
+            "procedure_name": "Biochemical Assessment for Diabetes and Dyslipidemia",
+            "date": "Not specified",
+            "findings": "Consistently elevated HbA1c levels; diagnosed with dyslipidemia, treated with a statin.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Bone Age X-ray",
+            "date": "Not specified",
+            "findings": "Markedly advanced bone age at 9.0 years for a chronologic age of 5 years and 2 months.",
+            "changes_over_time": "Bone age has remained advanced approximately 4 years above chronologic age on repeat assessments."
+        },
+        {
+            "procedure_name": "Skeletal Survey",
+            "date": "7 years and 5 months of age",
+            "findings": "Normal with no signs of skeletal dysplasia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Age Assessment",
+            "date": "At age 11 years and 7 months",
+            "findings": "Advanced bone age of 13 years and 0 months.",
+            "changes_over_time": "Repeat assessments during treatment confirmed that GnRH agonist treatment successfully blocked bone age advancement."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Detected multiple osteochondral lesions along the weight-bearing parts of the medial femoral condyles consistent with osteochondritis dissecans.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

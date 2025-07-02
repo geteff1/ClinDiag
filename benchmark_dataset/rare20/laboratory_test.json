@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype and Chromosomal Microarray",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Head MRI",
+            "date": "13 months of age",
+            "findings": "Slight loss of white matter volume and hypoplastic corpus callosum, no other anomalies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "A de novo missense CAMK2B variant identified as 'Likely pathogenic' according to ACMG guidelines.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

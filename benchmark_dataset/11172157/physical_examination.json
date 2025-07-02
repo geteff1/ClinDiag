@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "pulse": "58 bpm",
+                "blood_pressure": "150/75 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No abnormalities except a few crackles in both lungs.",
+                "rectal_examination": "Prostatic enlargement consistent with hyperplasia.",
+                "neurologic_examination": "Orientation intact, long-term memory better than short-term, light perception only in right eye, sluggish pupillary reaction, inability to adduct right eye (abduction preserved), intact corneal reflexes, left eye normal."
+            },
+            "changes_over_time": "Right-sided visual loss and oculomotor-nerve palsy noted; visual acuity in right eye deteriorated during hospital stay."
+        },
+        {
+            "date": "Fifth hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "ophthalmologic": "Limited visual acuity in right eye, ptosis of right upper eyelid, evidence of oculomotor nerve palsy present."
+            },
+            "changes_over_time": "Continued deterioration of vision in right eye."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

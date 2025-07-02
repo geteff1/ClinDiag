@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral hemispheric atrophy with calcification in the bilateral basal ganglia and an isodense area in the left parietooccipital region.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MR imaging",
+            "date": "Not specified",
+            "findings": "Hyperintense area in the left parietooccipital region, no enhancement after contrast administration.",
+            "changes_over_time": "Reduction of the lesion in the parietooccipital region observed 2 months after admission."
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Dilation of the cortical arteries and capillary blush without occlusive lesions in the left parietooccipital region.",
+            "changes_over_time": "Slighter decreased perfusion in the previously hyperperfused area observed 2 months after admission."
+        },
+        {
+            "procedure_name": "Xenon CT scan",
+            "date": "Not specified",
+            "findings": "Increased regional cerebral blood flow in the left parietooccipital region corresponding to the lesion.",
+            "changes_over_time": "Reduction in uptake in the left parietal region observed 2 months after initial studies."
+        }
+    ]
+}

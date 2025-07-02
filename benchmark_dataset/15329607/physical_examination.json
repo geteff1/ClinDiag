@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mm Hg to 110/60 mm Hg",
+                "pulse_rate": "70 to 75 bpm",
+                "oxygen_saturation": "greater than 90%",
+                "PaCO2": "43 mm Hg",
+                "PaO2": "82 mm Hg"
+            },
+            "relevant_findings": "Severe subglottic stenosis of trachea, 1.5 cm below vocal cords, lumen diameter 4 mm",
+            "changes_over_time": "Blood pressure declined during procedure; pulse rate maintained stable"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "220/120 mm Hg to 120/65 mm Hg",
+                "pulse_rate": "120 bpm to 65 bpm",
+                "respiratory_rate": "30 breaths/min to 16 breaths/min",
+                "oxygen_saturation": "above 90%"
+            },
+            "relevant_findings": "Acute exacerbation of chronic respiratory failure, initial tachycardia and hypertension.",
+            "changes_over_time": "Blood pressure and heart rate stabilized post-sedation; respiratory rate decreased."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse_rate": "Not specified",
+                "oxygen_saturation": "above 92%",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Presence of artificial upper trachea (Montgomery stent), chronic pain requiring opioid therapy, difficulties with airway management due to scar tissue.",
+            "changes_over_time": "No detailed changes over time specified."
+        }
+    ]
+}

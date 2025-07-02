@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Stool samples from siblings tested positive for Shiga toxin on enzyme-linked immunosorbent assay.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR assay",
+            "date": "Not specified",
+            "findings": "Several single colonies were positive for the stx2 gene and negative for the stx1 and eae genes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasmapheresis",
+            "date": "Not specified",
+            "findings": "The boy underwent four cycles of plasmapheresis.",
+            "changes_over_time": "His clinical condition improved after treatment."
+        }
+    ]
+}

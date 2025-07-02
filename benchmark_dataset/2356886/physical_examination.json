@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": {
+                    "systolic": 200,
+                    "diastolic": 110,
+                    "baseline_systolic": 120,
+                    "baseline_diastolic": 70
+                },
+                "heart_rate": {
+                    "max": 150,
+                    "baseline": "Not specified"
+                }
+            },
+            "relevant_findings": {
+                "autonomic_events": {
+                    "episodes": "Flushing, profuse sweating, excessive salivation, hypertension, tachycardia",
+                    "duration": "5-15 minutes"
+                }
+            },
+            "changes_over_time": "The disorder had been present unchanged for 12 years."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Day 1 (Birth)",
+            "findings": "37.2%",
+            "changes_over_time": "Increased to 56.6% by Day 5, then decreased to 32.9% by Day 29."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Day 1 (Birth)",
+            "findings": "12.9 g/dL",
+            "changes_over_time": "Increased to 18.7 g/dL by Day 5, then decreased to 11.3 g/dL by Day 29."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Day 1 (Birth)",
+            "findings": "112.9 µm³",
+            "changes_over_time": "Decreased to 95 µm³ by Day 29."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Day 1 (Birth)",
+            "findings": "12,300 per mm³",
+            "changes_over_time": "Decreased to 5,740 per mm³ by Day 7, then increased to 7,300 per mm³ by Day 30."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Day 1 (Birth)",
+            "findings": "47,000 per mm³",
+            "changes_over_time": "Decreased to 21,000 per mm³ by Day 5, then increased to 75,000 per mm³ by Day 29."
+        },
+        {
+            "procedure_name": "Total bilirubin",
+            "date": "Day 1 (Birth)",
+            "findings": "11.6 mg/dL",
+            "changes_over_time": "Increased to 21.7 mg/dL by Day 5, then decreased to 15.6 mg/dL by Day 29."
+        },
+        {
+            "procedure_name": "Direct bilirubin",
+            "date": "Day 1 (Birth)",
+            "findings": "2.1 mg/dL",
+            "changes_over_time": "Increased to 9.8 mg/dL by Day 7, then decreased to 7.7 mg/dL by Day 30."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Day 1 (Birth)",
+            "findings": "323 U/L",
+            "changes_over_time": "Increased to 1507 U/L by Day 7."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Day 1 (Birth)",
+            "findings": "244 U/L",
+            "changes_over_time": "Decreased to 183 U/L by Day 2, then increased to 501 U/L by Day 30."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Day 1 (Birth)",
+            "findings": "33 U/L",
+            "changes_over_time": "Increased to 124 U/L by Day 5, then decreased to 81 U/L by Day 30."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Day 1 (Birth)",
+            "findings": "2651 U/L",
+            "changes_over_time": "Decreased to 1479 U/L by Day 8."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "2605 ng/mL",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

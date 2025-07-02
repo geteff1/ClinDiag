@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood analysis",
+            "date": "Not specified",
+            "findings": {
+                "total_creatine_kinase": "2630 U/L (normal /H11021190 U/L)",
+                "creatine_kinase_MB": "80 U/L (normal /H1102125 U/L)",
+                "troponin_T": "0.09 ng/mL (normal /H110210.03 ng/mL)",
+                "N_terminal_pro_brain_natriuretic_peptide": "137 pg/mL (normal /H11021450 pg/mL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Resting ECG",
+            "date": "Not specified",
+            "findings": "Negative T waves in leads V1 through V3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood analysis",
+            "date": "Not specified",
+            "findings": {
+                "total_creatine_kinase": "220 U/L (normal /H11021190 U/L)",
+                "creatine_kinase_MB": "Normal",
+                "troponin_T": "Normal",
+                "N_terminal_pro_brain_natriuretic_peptide": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Mildly reduced left ventricular systolic function with hypokinetic inferolateral wall (in mother not in son).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiovascular MRI (CMR)",
+            "date": "Not specified",
+            "findings": {
+                "left_ventricular_ejection_fraction": "52% (son) and 45% (mother)",
+                "regional_hypokinesia": "Confirmed in the inferolateral wall for both."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Late gadolinium enhancement (LGE)",
+            "date": "Not specified",
+            "findings": "Indicated myocardial damage in the subepicardium of the left ventricular inferolateral wall for both.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

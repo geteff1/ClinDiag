@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Evidence of lung adenocarcinoma with a mutation in KRAS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia, a rightward axis, and minor nonspecific ST-segment and T-wave changes.",
+            "changes_over_time": "On hospital days 2 through 6, ST-segment depressions were more pronounced in the inferolateral leads."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 57%; subtle hypokinesis in the mid-inferior, basal inferior, and basal inferoseptal walls, mild-to-moderate tricuspid regurgitation, no evidence of pericardial effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endomyocardial biopsy",
+            "date": "10th hospital day",
+            "findings": "Inflammatory infiltrate composed primarily of macrophages and lymphocytes associated with myocardial injury; characteristics of lymphocytic myocarditis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

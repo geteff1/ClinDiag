@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "First admission",
+            "findings": "Diffusely dilated loops of fluid-filled small and large bowel with mucosal hyperemia and bowel-wall thickening. No transition point identified to suggest mechanical bowel obstruction. Marked atherosclerotic calcification of the abdominal aorta. Chronic non-united left pelvic fracture through which a loop of large bowel had herniated, without evidence of strangulation.",
+            "changes_over_time": "Findings on CT performed during the second admission are unchanged."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Second admission",
+            "findings": "Increased linear opacities in the lungs.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

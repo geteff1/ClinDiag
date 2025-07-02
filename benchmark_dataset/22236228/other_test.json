@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "10th hospital day",
+            "findings": "Pathological examination reportedly showed leukocytoclastic vasculitis and no microorganisms.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed a superficial and deep, dense, diffuse neutrophilic infiltrate. Staining for microorganisms was negative, and cultures were sterile.",
+            "changes_over_time": "Partial improvement noted after administration of higher-dose systemic glucocorticoids."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Six days before admission to this hospital",
+            "findings": "Pathological examination reportedly revealed neutrophilic dermatitis, with a suggestion of follicular perforation and folliculitis; no microorganisms were seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy and aspiration",
+            "date": "4th hospital day",
+            "findings": "Biopsy specimen was normocellular, showed dysplastic megakaryocytes, and revealed frequent dysplastic myeloid cells. Cytogenetic analysis revealed an abnormal, complex karyotype.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Cloudy yellow urine, trace protein, 3+ occult blood, 20 to 50 red cells per high-power field, and 3 to 5 hyaline casts per low-power field.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

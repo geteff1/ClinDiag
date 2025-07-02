@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "sibling_A": {
+                    "growth": "stunted",
+                    "pubic_hair": "sparse",
+                    "gynecomastia": "absent",
+                    "genitalia": "infantile, small testes (approximately 4 ml)",
+                    "hearing": "profound bilateral sensorineural hearing loss",
+                    "olfactory_bulbs": "hypoplastic",
+                    "olfactory_function": "abnormal thresholds for odor identification"
+                },
+                "sibling_B": {
+                    "growth": "statural and pubertal delay",
+                    "pubic_hair": "absent",
+                    "gynecomastia": "absent",
+                    "genitalia": "normal, infantile testes (2 ml), ability for erection but no ejaculation",
+                    "olfactory_bulbs": "bilateral aplasia",
+                    "olfactory_function": "extensively abnormal olfactometry"
+                },
+                "sibling_C": {
+                    "growth": "stunted",
+                    "pubic_hair": "not specified",
+                    "gynecomastia": "not specified",
+                    "genitalia": "infantile phenotype, testes less than 1 ml",
+                    "olfactory_bulbs": "asymmetric, right: aplasia, left: hypoplasia",
+                    "olfactory_function": "abnormal olfactometry"
+                }
+            },
+            "changes_over_time": {
+                "sibling_A": "improvement noted with androgen therapy (muscular development, deepening voice, hair growth)",
+                "sibling_B": "partial development during treatment, discontinued due to articular pain",
+                "sibling_C": "progressive growth and development of genitalia, facial and pubic hair upon treatment"
+            }
+        }
+    ]
+}

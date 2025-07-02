@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "291 mg per deciliter (16.2 mmol per liter); outside normal range (70 to 110 mg per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycated Hemoglobin",
+            "date": "Not specified",
+            "findings": "11.8% (reference range, <5.7); outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "25 mm per hour (reference range, <30); within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Glucose",
+            "date": "Not specified",
+            "findings": "115 mg per deciliter (6.4 mmol per liter; reference range, 50 to 75); outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Total Protein",
+            "date": "Not specified",
+            "findings": "128 mg per deciliter (reference range, 5 to 55); outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Nucleated-Cell Count",
+            "date": "Not specified",
+            "findings": "46 per cubic millimeter (reference range, 0 to 5); outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Antibody Tests for Lyme Borrelia",
+            "date": "Not specified",
+            "findings": "ELISA reactive; IgM immunoblot negative; IgG immunoblot positive (9 of 10 specific bands)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "pulse": "98 bpm",
+                "blood_pressure": "140/80 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "weight": "82.1 kg",
+                "height": "155 cm"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Soft, normal bowel sounds, no tenderness, rebound, or distention.",
+                "general_appearance": "Patient appeared anxious but well."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

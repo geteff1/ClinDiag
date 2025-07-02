@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fecal electrolyte analysis",
+            "date": "Postnatal 6th day",
+            "findings": "Potassium: 20 mEq/L, Sodium: 84 mEq/L, Chlorine: <20 mEq/L, Stool osmotic gap: 82 mOsm/kg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duodenal biopsy",
+            "date": "Postnatal 20th day",
+            "findings": "Moderate villous blunting with mildly increased inflammatory cells in the lamina propria, intraepithelial lymphocytosis, irregular vacuolated appearance of enterocytes at the villous tips, abnormal pattern of PAS and CD10 staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Detected Homozygous c.1323-2A>G mutation of the MYO5B gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonic biopsy",
+            "date": "Not specified",
+            "findings": "Normal with no epithelial abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ileal biopsy",
+            "date": "Not specified",
+            "findings": "No muscular or neurologic abnormality, Microvillus inclusions detected by electron microscopy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

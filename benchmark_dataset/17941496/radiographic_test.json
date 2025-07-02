@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Plain radiographs",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Signs of vertebral hemangiomas (honeycomb aspect of the vertebral body) had already been present at the levels of T6–7 and L-5."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the spine",
+            "date": "6 days before admission",
+            "findings": "Vertebral hemangiomas at multiple levels with stenosis and compression maximal at level T5–6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Angiographic study",
+            "date": "2 days after surgery",
+            "findings": "Vascularized lesions of the vertebral body at the C-6 and T-2 levels, T5–8 levels, and L-5 level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "8 days after surgery",
+            "findings": "Good decompression of the spinal cord at the T5–7 level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "15 months after surgery",
+            "findings": "Lesions stable, spinal cord compression at C-6 and L-5 levels almost completely eliminated.",
+            "changes_over_time": "Slight regression of the cervical and lumbar hemangiomas, stability of the hemangioma at T-6."
+        }
+    ]
+}

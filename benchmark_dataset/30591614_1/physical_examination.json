@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2003",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Severe emphysema noted on CT scan. Lung function showed mild airway obstruction (FEV1/FVC = 53%; FEV1 = 2.77 L, 73% predicted; FVC = 5.19 L, 109% predicted), significant air trapping (residual volume = 3.02 L, 135% predicted), and severely reduced gas transfer (DLCO = 3.96 mmol/min/kPa, 37% predicted).",
+            "changes_over_time": "There was a steady decline in lung function over 13 years."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lung function testing and CT appearance similar to brother's; FEV1 = 0.91 L (25% predicted), DLCO = 3.41 mmol/min/kPa (32% predicted) noted at 6 years post-diagnosis.",
+            "changes_over_time": "Steady deterioration in lung function leading to exercise limitation of 20 yards."
+        }
+    ]
+}

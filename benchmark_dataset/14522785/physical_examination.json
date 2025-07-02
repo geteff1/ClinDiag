@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "intraocular_pressure": {
+                    "right_eye": "38 mmHg",
+                    "left_eye": "20 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "visual_acuity": {
+                    "right_eye": "hand motions",
+                    "left_eye": "10/20"
+                },
+                "cornea": {
+                    "right_eye": "edematous",
+                    "left_eye": "Not specified"
+                },
+                "rashes": "red skin rashes on cheeks and arms",
+                "swelling": {
+                    "wrists": "swollen and deformed"
+                },
+                "anterior_chamber": {
+                    "left_eye": "Not specified",
+                    "right_eye": "inflammatory cells present"
+                },
+                "posterior_synechiae": "present in both eyes",
+                "iris_bombe": "found in the right eye",
+                "ciliary_injection": "not noted in both eyes",
+                "subretinal_exudates": "observed in the left eye"
+            },
+            "changes_over_time": {
+                "ocular_inflammation": "waxed and waned in proportion to systemic prednisolone",
+                "vision": {
+                    "right_eye": "improved to 15/20",
+                    "left_eye": "remained 20/20"
+                }
+            }
+        }
+    ]
+}

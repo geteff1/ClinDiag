@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.9°C",
+                "pulse": "80 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "blood_pressure": "110/70 mmHg",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "description": "Patient coughed frequently but appeared well. No rash or lymphadenopathy was found. Jugular venous pressure was normal. Lungs were clear. Heart sounds were normal. Abdominal examination was unremarkable. No peripheral edema, digital clubbing, or cyanosis. Neurologic examination was within normal limits.",
+                "urinalysis": "Amber urine, trace-positive for protein and urobilinogen; sediment contained three to five red cells per low-power field."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three weeks before admission",
+            "vital_signs": {
+                "hematocrit": "44%",
+                "white_cell_count": "9000 per cubic millimeter",
+                "platelet_count": "391,000 per cubic millimeter",
+                "erythrocyte_sedimentation_rate": "22 mm/hour"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One week before admission",
+            "vital_signs": {
+                "hematocrit": "44%",
+                "white_cell_count": "6300 per cubic millimeter",
+                "platelet_count": "349,000 per cubic millimeter",
+                "erythrocyte_sedimentation_rate": "23 mm/hour",
+                "IgE_level": "23 IU per milliliter"
+            },
+            "relevant_findings": "Urine specimen positive for protein; sediment contained 2-4 red cells per low-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Four days before admission",
+            "vital_signs": {
+                "white_cell_count": "Not specified",
+                "erythrocyte_sedimentation_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "CT scan of the chest showed no change in bilateral opacities and no new lesions; no lymphadenopathy or pleural effusions."
+            },
+            "changes_over_time": "No change in the bilateral opacities since previous CT."
+        }
+    ]
+}

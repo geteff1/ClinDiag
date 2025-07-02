@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Multiple electroencephalogram evaluations showed inconsistent findings. There were no clear ictal patterns on EEG.",
+            "changes_over_time": "Multiple EEG evaluations continued to show inconsistent findings over several years."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Frequent abnormalities identified in the left frontal and temporal lobes, specifically showing a left temporal lobe slow wave focus.",
+            "changes_over_time": "Multiple MRI evaluations over years showed inconsistent findings."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Not explicitly detailed in the report.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET",
+            "date": "Not specified",
+            "findings": "Inconsistent findings with abnormalities identified in the left frontal and temporal lobes.",
+            "changes_over_time": "Repeated PET evaluations showed inconsistent findings."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Age-related cerebral atrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat gadolinium-enhanced MRI of the brain",
+            "date": "Not specified",
+            "findings": "Remained normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-body positron emission tomography-CT",
+            "date": "Not specified",
+            "findings": "Only age-related cortical atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "February 20, 1976",
+            "findings": {
+                "sodium": "128 mEq/L",
+                "potassium": "6.9 mEq/L",
+                "chloride": "91 mEq/L",
+                "BUN": "94 mg/dL",
+                "glucose": "103 mg/dL",
+                "creatinine": "15 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematology Panel",
+            "date": "March 18, 1976",
+            "findings": {
+                "creatinine": "2.2 mg/dL",
+                "BUN": "32 mg/dL",
+                "hematocrit": "33 volume %"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematology Panel",
+            "date": "April 5, 1976",
+            "findings": {
+                "creatinine": "3.6 mg/dL",
+                "BUN": "47 mg/dL",
+                "hematocrit": "26.4 volume %",
+                "hemoglobin": "8.8 gm/dL",
+                "white blood count": "7,400/cu mm",
+                "sodium": "143 mEq/L",
+                "potassium": "5.2 mEq/L",
+                "chloride": "119 mEq/L",
+                "carbon dioxide combining power": "12 mEq/L",
+                "fasting blood sugar": "90 mg/dL",
+                "urinalysis": "color, pH 7.0, specific gravity 1.012, 2+ protein, many white and occasional red blood cells, and few bacteria"
+            },
+            "changes_over_time": "Creatinine decreased from 3.6 mg/dL to 2.6 mg/dL in 6 days"
+        },
+        {
+            "procedure_name": "Hematology Panel",
+            "date": "April 28, 1976",
+            "findings": {
+                "creatinine": "2.7 mg/dL",
+                "BUN": "52 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": "1.9 to 2.5 mg/dL",
+                "BUN": "27 to 39 mg/dL",
+                "hematocrit": "29.3 to 39.2 volume %"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin": "13.3 g/dl (normal range 12.0–16.0)",
+                "Hematocrit": "38.3% (normal range 36.0–46.0)",
+                "White-cell count": "10,800 per mm³ (normal range 4500–11,000)",
+                "Neutrophils": "81% (normal range 40–70)",
+                "Lymphocytes": "10% (normal range 22–44)",
+                "Monocytes": "6% (normal range 4–11)",
+                "Eosinophils": "3% (normal range 0–8)",
+                "Basophils": "0% (normal range 0–3)",
+                "Platelet count": "272,000 per mm³ (normal range 150,000–350,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney and Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "140 mmol/L (normal range 135–145)",
+                "Potassium": "4.3 mmol/L (normal range 3.4–4.8)",
+                "Chloride": "96 mmol/L (normal range 100–108)",
+                "Carbon dioxide": "26 mmol/L (normal range 23.0–31.9)",
+                "Urea nitrogen": "8 mg/dL (normal range 8–25)",
+                "Creatinine": "0.7 mg/dL (normal range 0.60–1.50)",
+                "Glucose": "87 mg/dL (normal range 70–110)",
+                "Calcium": "9.3 mg/dL (normal range 8.5–10.5)",
+                "Total protein": "7.4 g/dL (normal range 6.0–8.3)",
+                "Albumin": "4.1 g/dL (normal range 3.3–5.0)",
+                "Globulin": "3.3 g/dL (normal range 2.6–4.1)",
+                "Alanine aminotransferase": "19 U/L (normal range 7–30)",
+                "Aspartate aminotransferase": "21 U/L (normal range 9–32)",
+                "Alkaline phosphatase": "71 U/L (normal range 30–100)",
+                "Total bilirubin": "0.4 mg/dL (normal range 0.0–1.0)",
+                "Erythrocyte sedimentation rate": "28 mm/hr (normal range 1–25)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sweat Chloride Test",
+            "date": "Not specified",
+            "findings": {
+                "Chloride level": "40 to 45 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": {
+                "CFTR mutation": "Deletion of phenylalanine at position 508 (Phe508del) and a substitution of aspartic acid for histidine at position 1152 (D1152H)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

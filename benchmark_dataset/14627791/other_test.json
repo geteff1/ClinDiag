@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "+++ for protein, specific gravity above 1.030, trace positive for ketones; sediment contained 0 to 2 red and white cells, moderate numbers of squamous and transitional cells, a few bacteria, hyaline casts, granular casts, and waxy casts.",
+            "changes_over_time": "Increased proteinuria reported on the second hospital day: urinary protein level of 3.4 g per 24 hours."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal rhythm at a rate of 65 beats per minute, corrected QT interval of 487 msec, and minor ST-segment and T-wave abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "Fifth hospital day",
+            "findings": "Acute interstitial nephritis with a granulomatous reaction, typical features of acute tubular injury, and normal glomeruli. Eosinophils were conspicuous in renal tissue.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

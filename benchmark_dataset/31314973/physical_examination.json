@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "pulse": "67 bpm",
+                "blood_pressure": "98/54 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "neurologic_examination": {
+                    "upper_arm_strength_left": "4/5",
+                    "upper_arm_strength_right": "4+/5",
+                    "grip_strength": "4+/5 bilaterally",
+                    "strength_in_legs": "5−/5 hip flexion bilaterally; 5−/5 knee extension and flexion on left side",
+                    "pronator_drift": "Slight on left side",
+                    "reflexes": "1+ and symmetric",
+                    "gait": "Wide-based and cautious",
+                    "edema": "1+ in lower legs, slightly more on left side",
+                    "abdomen": "Protuberant but soft and nontender",
+                    "dysarthria": "Mild"
+                }
+            },
+            "changes_over_time": "Progressive weakness and fatigue noted over time, with an episode of mechanical fall requiring evaluation."
+        }
+    ]
+}

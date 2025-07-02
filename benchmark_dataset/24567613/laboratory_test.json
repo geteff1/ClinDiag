@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "3.6 (patient on warfarin)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ventricular Pacing Threshold",
+            "date": "Not specified",
+            "findings": "2.75 V at 1.0 ms",
+            "changes_over_time": "Similar values had already been observed 2 months earlier during routine follow-up"
+        },
+        {
+            "procedure_name": "Sensing Amplitude",
+            "date": "Not specified",
+            "findings": "5.6 mV",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pacing Impedances",
+            "date": "Not specified",
+            "findings": "403 Ohms",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

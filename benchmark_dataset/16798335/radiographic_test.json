@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "High displacement of the left hemidiaphragm with contralateral mediastinal shift.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography (CT) scan of the chest",
+            "date": "Not specified",
+            "findings": "Major eventration of the left hemidiaphragm with compressive atelectasis of the anterior segment of the lower lobe and appearance of some bilateral apical subpleural bullae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "total-body computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Left orbital fracture, left pneumothorax, multiple rib fractures, left hemothorax, and a large lateral lung hernia protruding through a chest wall defect between the sixth and seventh ribs with contralateral pulmonary contusion.",
+            "changes_over_time": "Six months postoperatively, the CT scan revealed the complete healing of the pulmonary lesion."
+        }
+    ]
+}

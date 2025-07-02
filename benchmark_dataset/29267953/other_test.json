@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal cardiac function with mild mitral and aortic regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 14 for patient 6.1",
+            "findings": "Evidence of cardiomyopathy.",
+            "changes_over_time": "Patient required cardiac transplantation at age 33."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 13 for patient 7.1",
+            "findings": "Possible noncompaction cardiomyopathy without valvular abnormalities.",
+            "changes_over_time": "Improved hemoglobin A1c from 10.4% to 5.7% with metreleptin therapy."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Severe hepatic steatosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Severe steatohepatitis with mild inflammation and fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve conduction study",
+            "date": "Not specified",
+            "findings": "Mild motor neuropathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Performed at 12 years for patient 6.1",
+            "findings": "Focal segmental glomerulosclerosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "At age 12 years for patient 10.1",
+            "findings": "Steatohepatitis stage 3 with grade 1a fibrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

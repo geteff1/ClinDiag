@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "bilateral alveolointerstitial infiltrates",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lung computed tomography scan",
+            "date": "Day 7",
+            "findings": "bilateral posterior alveolar consolidation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

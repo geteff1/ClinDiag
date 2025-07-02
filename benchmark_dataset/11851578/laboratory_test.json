@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White blood cell count",
+            "date": "November 16, 2001",
+            "findings": "Total white blood cell count was 8.1 x 10^3/µL (78% neutrophils, 15% lymphocytes, and 7% monocytes).",
+            "changes_over_time": "Increased to 13.3 x 10^3/µL on November 18, 2001, and then to 25.0 x 10^3/µL on November 19, 2001."
+        },
+        {
+            "procedure_name": "Serum urea nitrogen",
+            "date": "November 16, 2001",
+            "findings": "39 mg/dL (13.9 mmol/L).",
+            "changes_over_time": "Increased to 43 mg/dL (15.4 mmol/L) on November 19, 2001."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "November 16, 2001",
+            "findings": "1.3 mg/dL (115 µmol/L).",
+            "changes_over_time": "Increased to 2.6 mg/dL (230 µmol/L) on November 19, 2001, and further to 3.7 mg/dL (327 µmol/L) between November 19 and 21, 2001."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "November 16, 2001",
+            "findings": "Initially interpreted as having no evidence of pulmonary infiltrates, widened mediastinum, or pleural effusion.",
+            "changes_over_time": "Subsequent examination suggested possible interval enlargement of the left hilum and a possible small left pleural effusion."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "November 17, 2001",
+            "findings": "Growth of gram-positive bacilli detected in all 4 blood culture bottles after 14 hours of incubation.",
+            "changes_over_time": "Blood cultures obtained 3 hours after initiation of antibiotics were sterile."
+        },
+        {
+            "procedure_name": "Pleural fluid analysis",
+            "date": "November 20, 2001",
+            "findings": "800 mL of serosanguinous fluid yielded 4224 red blood cells, 1463 white blood cells, pH 7.12, lactate dehydrogenase level 611 U/L, glucose level 259 mg/dL (14.4 mmol/L), protein level 3.4 g/dL. No organisms seen on Gram stain; culture did not grow bacteria.",
+            "changes_over_time": "Subsequent PCR assay was positive for B anthracis."
+        },
+        {
+            "procedure_name": "IgG antibody test for anthrax",
+            "date": "November 16, 2001",
+            "findings": "All samples nonreactive.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

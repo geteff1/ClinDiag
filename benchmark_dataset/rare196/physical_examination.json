@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "12 weeks of gestation",
+            "vital_signs": "Blood pressure: 103/65 mmHg",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "16 weeks of gestation",
+            "vital_signs": "Blood pressure: 123/76 mmHg",
+            "relevant_findings": "Slightly elevated blood pressure recorded.",
+            "changes_over_time": "Blood pressure began to increase over time."
+        },
+        {
+            "date": "18 weeks and 4 days of gestation",
+            "vital_signs": "Blood pressure: 172/116 mmHg on admission.",
+            "relevant_findings": "Severe hypertension, headache, and nausea were reported.",
+            "changes_over_time": "Blood pressure significantly elevated compared to previous measurements."
+        }
+    ]
+}

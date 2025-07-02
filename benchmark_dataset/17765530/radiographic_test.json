@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "No abnormality",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Compression of the lower trachea by a vascular ring",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography (MRA)",
+            "date": "Not specified",
+            "findings": "Double aortic arch, with the left side largely atretic",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

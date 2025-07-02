@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI of the right breast",
+            "date": "Not specified",
+            "findings": "An enhancing mass, 5.7 cm in the greatest dimension, in the lower outer quadrant that was highly suggestive of carcinoma, with enhancement of the underlying pectoralis muscle and thickening of the skin.",
+            "changes_over_time": "Enlargement of the dominant mass to 7.1 cm in the greatest dimension 19 days later."
+        },
+        {
+            "procedure_name": "Core biopsies of the masses in the right breast and fine-needle aspiration of the lymph node in the right axilla",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed invasive ductal carcinoma, grade 3 of 3; ER, PR, and HER2 were negative. The fine-needle aspiration contained metastatic carcinoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI after four cycles of neoadjuvant chemotherapy",
+            "date": "Not specified",
+            "findings": "The dominant mass was now 3.0 cm in greatest dimension, with resolution of skin thickening, enhancement of the satellite masses, and axillary lymphadenopathy.",
+            "changes_over_time": "Size and enhancement of the cancer decreased from 7.1 cm to 3.0 cm."
+        },
+        {
+            "procedure_name": "Histologic examination of the mastectomy specimen",
+            "date": "Not specified",
+            "findings": "No residual invasive carcinoma was identified.",
+            "changes_over_time": "Pathological complete response indicated by chronic inflammation without residual cancer."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Mild, scattered, nonspecific hypoattenuation of the periventricular and subcortical white matter bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Mild, scattered hyperintensities in the periventricular and subcortical white matter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "A small cluster of nodules and linear opacities in the right middle lobe and multilevel degenerative changes of the lumbar spine and bilateral hip joints.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

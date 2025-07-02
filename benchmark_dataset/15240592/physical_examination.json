@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "174.6 cm",
+                "weight": "58.6 kg",
+                "BMI": "19.4 kg/m²"
+            },
+            "relevant_findings": {
+                "Tanner_stage_breasts": "IV",
+                "Tanner_stage_pubic_hair": "IV",
+                "uterus": "small",
+                "ovaries": "small",
+                "LH": "0.9 IU/liter",
+                "FSH": "2.6 IU/liter",
+                "estradiol": "15 pg/ml"
+            },
+            "changes_over_time": "Subject was previously diagnosed with Tanner stage III breasts and underwent various hormonal assessments indicating progression from primary amenorrhea to an amenorrheic state post-contraceptive therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "LH_baseline": "0.9 IU/liter",
+                "FSH_baseline": "3.8 IU/liter",
+                "LH_peak_after_GnRH_test": "19.3 IU/liter",
+                "FSH_peak_after_GnRH_test": "20.9 IU/liter"
+            },
+            "relevant_findings": "Cyclic Premarin and Provera treatments initiated resulted in regular withdrawal bleeding, but no increase in LH, FSH, or estradiol was seen during the clomiphene citrate challenge test.",
+            "changes_over_time": "Received increasing doses of pulsatile GnRH, with changes in gonadotropin levels noted across cycles."
+        }
+    ]
+}

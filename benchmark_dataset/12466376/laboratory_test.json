@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal Evaluation",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "Androgens": "Low",
+                    "Progesterone": "High",
+                    "Cortisol": "Normal, but rose insufficiently after ACTH"
+                },
+                "Patient 2": {
+                    "Androgens": "Low-normal",
+                    "Cortisol": "Normal"
+                },
+                "Patient 3": {
+                    "Androgens": "Low",
+                    "Progesterone": "Elevated",
+                    "Cortisol": "Low-normal, did not respond to ACTH"
+                },
+                "Patient 4": {
+                    "Androgens": "Extremely low",
+                    "Progesterone": "Elevated",
+                    "Cortisol": "Low-normal, did not rise after ACTH"
+                },
+                "Patients 5 and 6": {
+                    "Androgens": "Low",
+                    "Cortisol": "Normal"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH Test",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "Cortisol": "Did not rise after ACTH"
+                },
+                "Patient 3": {
+                    "Cortisol": "Did not respond to ACTH"
+                },
+                "Patient 4": {
+                    "Cortisol": "Did not rise after ACTH"
+                },
+                "Patient 5": {
+                    "Cortisol": "Insufficient rise during ACTH"
+                },
+                "Patient 6": {
+                    "Cortisol": "Insufficient rise during ACTH"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

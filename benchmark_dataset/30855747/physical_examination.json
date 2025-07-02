@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 7, 2019",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "pulse": "124 bpm",
+                "blood_pressure": "125/80 mm Hg",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "81%"
+            },
+            "relevant_findings": {
+                "general": "Cachectic appearance with bitemporal wasting.",
+                "respiratory": "Labored respirations using accessory muscles. Fine mid-to-late inspiratory crackles throughout both lung fields, most prominent at the bases. No wheezing or rhonchi.",
+                "cardiac": "Tachycardia with a regular rhythm, no murmurs detected.",
+                "jugular_venous_pressure": "Estimated at 8 cm of water.",
+                "extremities": "No clubbing, cyanosis, or edema in the arms or legs.",
+                "other": "Abdominal, neurologic, musculoskeletal, and cutaneous examinations were normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

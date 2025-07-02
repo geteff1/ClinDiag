@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "pulse": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "120/70 mm Hg",
+                "oxygen_saturation": "92%"
+            },
+            "relevant_findings": "Physical examination showed clear lungs and neurologic examination revealed no abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "One month later",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Exertional dyspnea unchanged; physical findings unchanged.",
+            "changes_over_time": "No change in exertional dyspnea or the physical findings."
+        }
+    ]
+}

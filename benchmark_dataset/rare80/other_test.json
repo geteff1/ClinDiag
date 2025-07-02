@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sleep Study",
+            "date": "Not specified",
+            "findings": "Confirmed obstructive sleep apnea.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing (Methylation Studies)",
+            "date": "2019",
+            "findings": "Absence of the paternal allele at 15q11-q13 due to abnormal methylation, suggesting a defect in imprinting.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Abdomen",
+            "date": "Every 6 months, initial MRI not dated",
+            "findings": "Enlarged liver with diffuse fat infiltration and multiple numerous focal lesions suggestive of multiple adenomas (adenomatosis).",
+            "changes_over_time": "No significant interval changes in the number or size of the adenomas."
+        },
+        {
+            "procedure_name": "Ultrasound of the Liver",
+            "date": "Initial ultrasound not dated, follow-up in 2021",
+            "findings": "Multiple lesions initially thought to be areas of focal fatty sparing; follow-up showed a markedly echogenic and heterogeneous liver.",
+            "changes_over_time": "The largest adenoma measured 13 mm superficially in the left lobe (previously up to 11 mm), with others generally around 6 mm in diameter."
+        }
+    ]
+}

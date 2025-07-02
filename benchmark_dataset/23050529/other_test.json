@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Tube 1 of CSF appeared bloody with gradual clearing; white-cell count was 9 per cubic millimeter in tube 1 and 1 per cubic millimeter in tube 4; red-cell count was 10,000 per cubic millimeter in tube 1 and 54 per cubic millimeter in tube 4; protein level was 58 mg per deciliter; glucose level was 62 mg per deciliter; no organisms were seen on Gram’s staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specifically mentioned in the extracted text.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral angiography",
+            "date": "Not specified",
+            "findings": "Complete occlusion of the basilar artery just above the origin of the anterior inferior cerebellar artery with a small amount of collateral flow from the territory of the anterior inferior cerebellar artery to the territory of the superior cerebellar artery.",
+            "changes_over_time": "Complete reperfusion of the posterior circulation vessels and no residual thrombus observed after the procedure."
+        },
+        {
+            "procedure_name": "Postprocedural MRI",
+            "date": "Not specified",
+            "findings": "Findings similar to those seen on MRI at the other hospital; no new areas of infarcts; regression of the lesion of the basis pontis mostly on its ventral aspect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic and transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Small patent foramen ovale with left-to-right shunting at rest and right-to-left shunting during the Valsalva maneuver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Holter study",
+            "date": "Not specified",
+            "findings": "Showed no atrial fibrillation, occasional premature ventricular contractions, and premature atrial contractions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

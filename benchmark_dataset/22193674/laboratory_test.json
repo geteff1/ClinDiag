@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Obsessive-Compulsive Scale Assessment",
+            "date": "Before DBS surgery",
+            "findings": "Score was 32 while on medications.",
+            "changes_over_time": "After DBS, score decreased to 10."
+        },
+        {
+            "procedure_name": "Cambridge Neuropsychological Test Automated Battery (CANTAB)",
+            "date": "Baseline (pre-stimulation) and 8 months after DBS",
+            "findings": "Pre-DBS stop-signal test reaction time was 211.58 msec; post-DBS was 204.70 msec. Other tests show slight variations.",
+            "changes_over_time": "Stop-signal reaction time change was minimal (z=1.0 to z=0.8)."
+        }
+    ]
+}

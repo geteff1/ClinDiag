@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "153/86 mm Hg",
+                "pulse": "107 bpm",
+                "respiratory_rate": "28 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "mental_status": "Oriented but confused by instructions, recalled 1 of 3 objects at three minutes.",
+                "gait": "Minimally ataxic, right leg swinging out slightly.",
+                "speech": "Mild dysarthria.",
+                "sensation": "Intact.",
+                "motor_strength": "Generally slowed movements."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general_examination": "Diminished right dorsalis pedis and posterior tibial pulses.",
+                "upper_extremity_strength": "4+/5 bilaterally in finger extensors, 4/5 at hip flexors, 5/5 in other muscle groups.",
+                "gait": "Walked slowly and unsteadily, small steps on a narrow base, tandem walking resulted in falls."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "articulation": "Improved articulation but speech remained slow, suggesting left-sided weakness of the tongue.",
+                "gait": "Improvement in walking and balance noted after physical therapy."
+            },
+            "changes_over_time": "Initially increased weakness and instability, later reported improvement with therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "hand_function": "Mild atrophy of intrinsic muscles of both hands, hypereactive deep tendon reflexes, and bilateral Babinski signs present."
+            },
+            "changes_over_time": "Fasciculations developed six weeks after discharge, and atrophy became visible in upper and lower extremities."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Not specified",
+            "findings": {
+                "serum_TSH": "7.08 /H9262U/ml",
+                "low_FT4": "0.73 ng/dl (9.40 pmol/liter)",
+                "normal_FT3": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4 (FT4)",
+            "date": "Not specified",
+            "findings": {
+                "proposita_A_FT4": "0.51 ng/dl (6.56 pmol/liter; normal range 0.85–1.69 ng/dl)",
+                "proposita_B_FT4": "0.73 ng/dl (9.40 pmol/liter)"
+            },
+            "changes_over_time": "Proposita A adapted to poor organification by increasing deiodinase activities in the goiter, avoiding hypothyroidism. FT4 levels remained low or low-normal despite increasing doses of L-thyroxine."
+        },
+        {
+            "procedure_name": "Serum thyroglobulin (Tg)",
+            "date": "Not specified",
+            "findings": "1312 ng/ml (normal range 0–80 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine iodine",
+            "date": "Not specified",
+            "findings": "102 /H9262g/liter (median value for her age is 79.7 /H9262g/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "L-thyroxine dosage",
+            "date": "Not specified",
+            "findings": "Increasing daily doses were provided (25, 50, 75, and 100 /H9262g)",
+            "changes_over_time": "FT4 levels remained low or low-normal despite the increasing doses."
+        },
+        {
+            "procedure_name": "Iodine uptake kinetics",
+            "date": "Not specified",
+            "findings": "High iodine uptake with low efflux leading to iodine retention in T-PS2 cells.",
+            "changes_over_time": "Iodide retention was higher in T-PS2 cells than in normal NT cells. T-PS2 cells showed a progressive increase in intracellular iodide levels."
+        },
+        {
+            "procedure_name": "Perchlorate test",
+            "date": "Not specified",
+            "findings": "Showed an organification defect.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

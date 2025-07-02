@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "Instances of hypothyroidism documented by laboratory studies.",
+            "changes_over_time": "Seven women developed clinically significant hypothyroidism after starting lithium; five were rapid cyclers."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Initially diffusely abnormal EEG, improved by mid-January, and normalized by discharge.",
+            "changes_over_time": "Improvement noted in EEG from abnormal to normal range by discharge."
+        },
+        {
+            "procedure_name": "Plasma level test (tricyclic antidepressants)",
+            "date": "Not specified",
+            "findings": "Elevated tricyclic antidepressant plasma level (imipramine plus desipramine = 540 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lithium level monitoring",
+            "date": "Not specified",
+            "findings": "Serum lithium levels could not be obtained due to patient's inability to cooperate.",
+            "changes_over_time": "Patient eventually was able to cooperate with lithium therapy after a course of ECT."
+        }
+    ]
+}

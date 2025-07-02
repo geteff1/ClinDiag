@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lupus serologies",
+            "date": "6 weeks before admission",
+            "findings": "2+ antinuclear antibodies and normal Farr and complement studies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CSF pleocytosis (12 leukocyte/µL, 92% lymphocytes, 5% neutrophils, 3% monocytes), 44 mg/dL of glucose, and 56 mg/dL of protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sedimentation rate",
+            "date": "At the time of admission",
+            "findings": "Elevated sedimentation rate at 55 mm/hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematologic and biochemical studies",
+            "date": "At the time of admission",
+            "findings": "Normal with the exception of mild microcytic anemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

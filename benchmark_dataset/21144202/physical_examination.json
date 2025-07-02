@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "155/102 mmHg",
+                "body_weight": "119.40 kg",
+                "body_mass_index": "35.7 kg/m²"
+            },
+            "relevant_findings": {
+                "musculoskeletal_examination": [
+                    "small effusion in the left wrist",
+                    "large effusions in the left ankle and knee with significant reduction in range of movement",
+                    "severe valgus deformity with swelling in the right hallux"
+                ],
+                "abdominal_obesity": "present",
+                "walking_difficulty": "present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Cracked and painful nipples with bleeding",
+                "Bright red area on lateral breast that spread to cover three quarters of breast",
+                "Lump near nipple suspected as a blocked duct",
+                "Skin soreness described as feeling like a sunburn"
+            ],
+            "changes_over_time": "Signs and symptoms virtually cleared 24 hours after taking herbal preparations."
+        },
+        {
+            "date": "Ten days after birth",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Infant weighed 8 lb 10 oz"
+            ],
+            "changes_over_time": "Breastfeeding proceeding uneventfully after previous issues."
+        }
+    ]
+}

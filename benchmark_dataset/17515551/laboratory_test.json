@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Random blood glucose",
+            "date": "Not specified",
+            "findings": "400 mg/dL (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "Not specified",
+            "findings": "11.9% (high)",
+            "changes_over_time": "Subsequent testing showed Hgb A1c 5.3% (normal)."
+        },
+        {
+            "procedure_name": "Anti-GAD antibody test",
+            "date": "Not specified",
+            "findings": "2.1 U/mL (high; normal < 0.1 U/mL)",
+            "changes_over_time": "Subsequent testing showed undetectable anti-GAD antibody."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Opening pressure of 40 cm H2O, white blood cell count of 23, glucose 40, and protein 193 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Showed epileptiform activity in the right mid-temporal cortex.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum evaluation (repeat)",
+            "date": "Not specified",
+            "findings": "Blood glucose of 90 mg/dL (normal), Hgb A1C 5.3% (normal), undetectable anti-GAD antibody.",
+            "changes_over_time": "Initial testing showed high blood glucose and Hgb A1c."
+        },
+        {
+            "procedure_name": "Electrophysiologic testing (right median and ulnar nerves)",
+            "date": "Not specified",
+            "findings": "Right median CMAP 2.3 mV (low) and right ulnar 3.4 mV (low). Following exercise, right ulnar CMAP increased to 6.8 mV.",
+            "changes_over_time": "Demonstrated an increase after exercise."
+        },
+        {
+            "procedure_name": "Nerve stimulation test (right ulnar nerve)",
+            "date": "Not specified",
+            "findings": "17% decrement in CMAP amplitude at 3 Hz, 164% amplitude increment at 50 Hz.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

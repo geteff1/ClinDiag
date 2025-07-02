@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "112/63 mmHg",
+                "pulse": "100 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "swelling_and_tenderness": "Metacarpophalangeal and proximal interphalangeal joints bilaterally; swelling below the knees to the toes, without erythema or warmth.",
+                "decreased_range_of_motion": "In the metacarpophalangeal and ankle joints.",
+                "hyperpigmentation": "On the skin of the metacarpophalangeal joints and legs below the knees to the toes."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Five weeks later",
+            "vital_signs": {
+                "blood_pressure": "110/70 mmHg",
+                "pulse": "100 to 111 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "joint_pain": "Rated 2 out of 10; joints remain swollen but less tender; wrists slightly full.",
+                "edema": "1+ pitting edema below the knees; skin deeply tanned and firm."
+            },
+            "changes_over_time": {
+                "joint_tenderness": "Less tender compared to previous examination.",
+                "swelling": "Persistent but decreased in tenderness."
+            }
+        },
+        {
+            "date": "Three and a half months later",
+            "vital_signs": {
+                "blood_pressure": "98/63 mmHg",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "lung_sounds": "Bilateral bronchial breath sounds, crackles at the base of the left lung.",
+                "skin_condition": "Extensive hardening of the skin from the hands to the elbows and from the toes to above the knees; deep bronze discoloration present."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

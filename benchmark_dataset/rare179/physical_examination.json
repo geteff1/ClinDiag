@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "125 bpm",
+                "breathing": "stable",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "facial_features": [
+                    "midface retraction",
+                    "frontal bossing",
+                    "low-set ears"
+                ],
+                "anterior_fontanelle": {
+                    "size": "3.0 cm x 3.0 cm",
+                    "characteristics": "flat and soft"
+                },
+                "cyanosis": {
+                    "perioral": "none",
+                    "fingertip": "none"
+                },
+                "pulmonary_examination": "no abnormalities",
+                "abdominal_circumference": "38 cm",
+                "bowel_sounds": "2-3 sounds/min",
+                "muscle_tone": "increased",
+                "abduction": "limited in both upper and lower limbs",
+                "limb_deformities": [
+                    "bilateral varus",
+                    "syndactyly of the 4th and 5th toes"
+                ],
+                "vulvar_malformation": "dysplasia of the labia majora",
+                "cardiac": "class II/6 systolic murmur in the precordial region"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

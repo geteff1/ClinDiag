@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "82 kg",
+                "height": "172 cm"
+            },
+            "relevant_findings": {
+                "gynecomastia": "None",
+                "testicular_volume": "Normal for age (Tanner stage V)",
+                "hearing_loss": "Congenital hearing loss of 85%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 17 yr",
+            "vital_signs": {
+                "testosterone": "1305 ng/dl (reference range, 300-1000 ng/dl)",
+                "free_testosterone": "42 ng/dl (reference range, 5–20 ng/dl)",
+                "FSH": "8 mU/ml (reference range, 2–10 mU/ml)",
+                "LH": "8 mU/ml (reference range, 2–10 mU/ml)",
+                "estrone": "Below lower normal limit (23 pg/ml; reference range, 25–65 pg/ml)",
+                "estradiol": "Undetectable (<15 pg/ml; reference range, 0–30 pg/ml)",
+                "osteocalcin": "132 ng/dl (reference range, 10–40 ng/dl)"
+            },
+            "relevant_findings": "Elevated serum testosterone and free testosterone, low estrone and undetectable estradiol indicative of aromatase deficiency.",
+            "changes_over_time": "At age 17 yr and after 41 months of treatment, testosterone levels normalized and osteocalcin decreased to 88 ng/ml."
+        },
+        {
+            "date": "At age 20 yr and 5 months",
+            "vital_signs": {
+                "weight": "129 kg",
+                "height": "191 cm"
+            },
+            "relevant_findings": {
+                "growth": "Increase in height by 8.5% during treatment",
+                "bone_age_maturation": "From 12 yr and 5 months to 16 yr and 8 months"
+            },
+            "changes_over_time": "Consistent growth in height and maturation of bone age during treatment."
+        }
+    ]
+}

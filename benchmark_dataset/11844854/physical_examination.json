@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "pulse": "107 bpm",
+                "blood_pressure": "145/70 mmHg",
+                "respiratory_rate": "20"
+            },
+            "relevant_findings": {
+                "general_examination": "No abnormalities observed.",
+                "neurologic_examination": {
+                    "orientation": "Fully oriented",
+                    "speech": "Normal",
+                    "memory": "Intact",
+                    "visual_acuity": {
+                        "left_eye": "20/20",
+                        "right_eye": "20/100"
+                    },
+                    "pupils": "Equal and reactive",
+                    "extraocular_movements": "Impaired in downward gaze of right eye when looking left"
+                }
+            },
+            "changes_over_time": "There was improvement in vision in the right eye twelve hours after treatment with dexamethasone."
+        }
+    ]
+}

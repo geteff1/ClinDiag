@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure": {
+                    "right_eye": "20 mmHg",
+                    "left_eye": "15 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "best_corrected_visual_acuity": {
+                    "right_eye": "20/200",
+                    "left_eye": "counting fingers at 1 foot"
+                },
+                "physical_examination_observations": [
+                    "severe bilateral trichiasis",
+                    "meibomian gland disease",
+                    "lid notching",
+                    "cicatricial ectropion",
+                    "symblephara, worse in the left eye",
+                    "conjunctiva injected bilaterally",
+                    "mild edema",
+                    "apparent loss of the limbal palisades of Vogt",
+                    "peripheral 360° pannus",
+                    "central neovascularization of the left eye",
+                    "significant epitheliopathy bilaterally"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "best_corrected_visual_acuity": {
+                    "right_eye": "20/150",
+                    "left_eye": "unable to obtain due to pain"
+                },
+                "physical_examination_observations": [
+                    "large descemetocele of the left eye"
+                ]
+            },
+            "changes_over_time": "Left eye pain and vision worsening, requiring emergent penetrating keratoplasty and amniotic membrane transplantation."
+        },
+        {
+            "date": "One month postoperatively",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "best_corrected_visual_acuity": {
+                    "right_eye": "counting fingers at 2 feet",
+                    "left_eye": "Not specified"
+                },
+                "physical_examination_observations": "No complaints of pain."
+            },
+            "changes_over_time": "Improvement in symptoms and vision compared to preoperative findings."
+        }
+    ]
+}

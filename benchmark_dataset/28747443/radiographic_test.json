@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "Not specified",
+            "findings": "Bilateral signal abnormalities of putamina",
+            "changes_over_time": "At follow-up MRI after 1 month, findings were normal."
+        },
+        {
+            "procedure_name": "Brain and spinal cord MRI",
+            "date": "Not specified",
+            "findings": "Normal except for very mild hyperintensity of dentate nuclei",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "At 3 years and 2 months of age",
+            "findings": "Bilateral signal abnormalities of putamina and dentate nuclei",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Mild hyperintensity of dentate nuclei",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Most recent MRI",
+            "date": "At 6 years and 1 month of age",
+            "findings": "Normal",
+            "changes_over_time": "The slight hyperintensity in the dentate nuclei from earlier imaging was resolved."
+        }
+    ]
+}

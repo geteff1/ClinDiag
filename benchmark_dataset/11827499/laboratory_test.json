@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4 lymphocyte count",
+            "date": "Not specified",
+            "findings": "0.65 /H1100310^9 cells/L (patient's husband); 0.279 /H1100310^9 cells/L (after 1 month of treatment)",
+            "changes_over_time": "Decreased from 0.65 to 0.279 /H1100310^9 cells/L over 1 month."
+        },
+        {
+            "procedure_name": "HIV viral load",
+            "date": "Not specified",
+            "findings": "2033 copies/mL (husband); 134,000 copies/mL (after 1 month of treatment); nondetectable (/H110210.5 copies/mL) after 3 months; increased to 76,000 copies/mL after approximately 1 year.",
+            "changes_over_time": "Increased from 134,000 copies/mL to 76,000 copies/mL."
+        },
+        {
+            "procedure_name": "Vaginal cultures",
+            "date": "Not specified",
+            "findings": "Positive for Candida organisms.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Papanicolaou (Pap) smear",
+            "date": "Not specified",
+            "findings": "Abnormal, showing a Bethesda system low-grade squamous intraepithelial lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV-1 RNA levels",
+            "date": "Not specified",
+            "findings": "Nondetectable (/H110210.5 copies/mL) after 3 months; elevated to 76,000 copies/mL after approximately 1 year.",
+            "changes_over_time": "Initially nondetectable, then increased to 76,000 copies/mL."
+        }
+    ]
+}

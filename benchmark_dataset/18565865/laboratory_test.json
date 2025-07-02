@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "13.8 g/dL",
+                "hematocrit": "38.3%",
+                "white_cell_count": "5500 per mm³",
+                "neutrophils": "38%",
+                "lymphocytes": "54%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "T-cell count by Flow Cytometry",
+            "date": "Not specified",
+            "findings": {
+                "CD3_positive_cells": "1639 per mm³",
+                "CD4_positive_cells": "232 per mm³",
+                "CD8_positive_cells": "1258 per mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "1.1 mg/dL",
+                "lactate_dehydrogenase": "332 U/L",
+                "alanine_aminotransferase": "48 U/L",
+                "aspartate_aminotransferase": "64 U/L",
+                "alkaline_phosphatase": "116 U/L"
+            },
+            "changes_over_time": "The aminotransferase levels had been stable for several years."
+        },
+        {
+            "procedure_name": "Serum Electrolytes, Calcium, Glucose, Creatinine and Urea Nitrogen Level Test",
+            "date": "Not specified",
+            "findings": "All levels were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Liver",
+            "date": "Not specified",
+            "findings": "Almost complete replacement of the parenchyma by echogenic nodules.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Core Biopsy of the Liver",
+            "date": "Not specified",
+            "findings": "Foci of malignant cells within the liver parenchyma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

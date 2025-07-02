@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "70 bpm",
+                "blood_pressure": "110/70 mm Hg"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "slightly distended, soft, non-tender abdomen with active bowel sounds",
+                "rectal_examination": "no abnormalities",
+                "stool_test": "negative for occult blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

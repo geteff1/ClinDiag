@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycated Hemoglobin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve-Conduction Studies",
+            "date": "3 months before admission",
+            "findings": "Sensory and motor responses were normal and symmetric; absent Hoffmann’s reflex at left soleus; normal at right soleus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle Electromyography",
+            "date": "3 months before admission",
+            "findings": "Diminished recruitment of long-duration, polyphasic motor-unit potentials in proximal and distal muscles of the L5 myotome. Right leg electromyography results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Admission",
+            "findings": {
+                "opening_pressure": "Not available",
+                "color": "Colorless",
+                "turbidity": "Slight",
+                "xanthochromia": "None",
+                "red_cells": "241",
+                "nucleated_cells": "1280",
+                "lymphocytes": "79%",
+                "glucose": "<2 mg/dL",
+                "protein": "4620 mg/dL",
+                "albumin": "3000 mg/dL",
+                "IgG": "1840 mg/dL"
+            },
+            "changes_over_time": "Glucose level decreased from 41 mg/dL 3 months prior to less than 2 mg/dL on admission; protein level increased from 207 mg/dL to 4620 mg/dL."
+        },
+        {
+            "procedure_name": "Repeat Nerve-Conduction Studies",
+            "date": "Not specified",
+            "findings": "Asymmetric attenuation in the amplitudes of sensory and motor responses; more severe on left side than right; no evidence of primary demyelination.",
+            "changes_over_time": "Deterioration observed since the initial study; evidence of acute or recent nerve injury in multiple muscles."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "100% occlusion of the left anterior descending artery. Left main, left circumflex, and right coronary arteries did not have clinically significant disease.",
+            "changes_over_time": "Successful percutaneous coronary intervention with restoration of normal flow."
+        },
+        {
+            "procedure_name": "Trans-thoracic Echocardiography",
+            "date": "Not specified",
+            "findings": "Ejection fraction of 40%, with hypokinesis of the apex, the middle and distal anterior wall, and the middle and distal anterior septum.",
+            "changes_over_time": "Repeat echocardiogram at 6-month follow-up showed an ejection fraction of 50%."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Approximately 70% cellularity, with trilineage hematopoiesis, increased number of megakaryocytes, and reticulin fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testing for JAK2 V617F mutation",
+            "date": "Not specified",
+            "findings": "Positive, indicating a myeloproliferative neoplasm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "Not specified",
+            "findings": "0.7 mmol/l (reference range 0.5-2.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Homocysteine Levels",
+            "date": "Not specified",
+            "findings": ">500 µmol/L (reference range <10 µmol/L)",
+            "changes_over_time": "Elevated homocysteine levels showed improvement over two years of follow-up."
+        },
+        {
+            "procedure_name": "Fasting Homocysteine Levels",
+            "date": "Not specified",
+            "findings": "106 µmol/l (reference < 1 umol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting Methionine Levels",
+            "date": "Not specified",
+            "findings": "170 µmol/l (reference 16-34 umol/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dual-energy X-ray Absorptiometry (DEXA) Scan",
+            "date": "Not specified",
+            "findings": "Low bone mineral density (BMD), lumbar spine Z-score of -1.7, femoral neck Z-score of -2.3, hip Z-score of -2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amino Acid Levels (Serial Measurements)",
+            "date": "During treatment",
+            "findings": "Improvement of initially low serine levels, increase in taurine and beta-aminoisobutyric acid.",
+            "changes_over_time": "Beta-aminoisobutyric acid levels increased over two years of follow-up."
+        }
+    ]
+}

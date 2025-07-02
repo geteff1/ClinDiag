@@ -1,0 +1,110 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": {
+                    "value": 37.4,
+                    "normal_range": "41.0-53.0 (men)"
+                },
+                "Hemoglobin": {
+                    "value": 12.4,
+                    "normal_range": "13.5-17.5 (men)"
+                },
+                "White-cell count": {
+                    "value": 9610,
+                    "normal_range": "4500-11,000"
+                },
+                "Differential count": {
+                    "Neutrophils": {
+                        "value": 74.1,
+                        "normal_range": "40-70%"
+                    },
+                    "Lymphocytes": {
+                        "value": 12.4,
+                        "normal_range": "22-44%"
+                    },
+                    "Monocytes": {
+                        "value": 13.0,
+                        "normal_range": "4-11%"
+                    },
+                    "Eosinophils": {
+                        "value": 0.1,
+                        "normal_range": "0-8%"
+                    },
+                    "Basophils": {
+                        "value": 0.1,
+                        "normal_range": "0-3%"
+                    }
+                },
+                "Platelet count": {
+                    "value": 139,
+                    "normal_range": "150,000-400,000"
+                }
+            },
+            "changes_over_time": {
+                "Hematocrit": "Decreased from 37.4% (admission) to 28.6% (Day 9)",
+                "Hemoglobin": "Decreased from 12.4 g/dL (admission) to 9.1 g/dL (Day 9)",
+                "White-cell count": "Increased from 9610 (admission) to 22,340 (Day 5) then decreased to 15,120 (Day 9)",
+                "Neutrophils": "Increased from 74.1% (admission) to 84.9% (Day 5) then decreased to 62% (Day 9)",
+                "Lymphocytes": "Decreased from 12.4% (admission) to 7.2% (Day 5) then decreased to 27% (Day 9)",
+                "Monocytes": "Decreased from 13.0% (admission) to 7.4% (Day 5) then decreased to 8% (Day 9)"
+            }
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": {
+                    "value": 136,
+                    "normal_range": "135-145"
+                },
+                "Potassium": {
+                    "value": 4.0,
+                    "normal_range": "3.4-5.0"
+                },
+                "Chloride": {
+                    "value": 99,
+                    "normal_range": "98-108"
+                },
+                "Carbon dioxide": {
+                    "value": 26,
+                    "normal_range": "23-32"
+                }
+            },
+            "changes_over_time": {
+                "Sodium": "Decreased from 136 (admission) to 127 (Day 5) and then increased to 152 (Day 9)",
+                "Chloride": "Decreased from 99 (admission) to 87 (Day 5) and then increased to 120 (Day 9)"
+            }
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": {
+                "White cells": {
+                    "value": "188",
+                    "normal_range": "Not applicable"
+                },
+                "Lymphocytes": {
+                    "value": "88%",
+                    "normal_range": "Not applicable"
+                },
+                "Protein": {
+                    "value": 58,
+                    "normal_range": "5-55"
+                },
+                "Glucose": {
+                    "value": 37,
+                    "normal_range": "50-75"
+                }
+            },
+            "changes_over_time": {
+                "White cells": "Decreased from 188 (initial CSF) to 129 (Day 9)",
+                "Lymphocytes": "Decreased from 88% (initial CSF) to 27% (Day 9)",
+                "Protein": "Increased from 58 mg/dL (initial CSF) to 275 mg/dL (Day 9)",
+                "Glucose": "Increased from 37 mg/dL (initial CSF) to 48 mg/dL (Day 9)"
+            }
+        }
+    ]
+}

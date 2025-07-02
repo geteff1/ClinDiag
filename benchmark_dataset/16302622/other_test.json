@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Spinal Angiography",
+            "date": "Not specified",
+            "findings": "A large macro-AVF fed by the posterior spinal arteries of T-12 and L-1 on the left and L-2 on the right, resulting in a large venous varix within the thoracic spinal cord.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transarterial Embolization",
+            "date": "At 3.5 years of age",
+            "findings": "Successful obliteration of the macro-AVF, confirmed by postembolization angiography.",
+            "changes_over_time": "Postembolization axial and sagittal MRI revealed reduction in size of the venous varix and resolution of spinal cord edema."
+        },
+        {
+            "procedure_name": "Postembolization MRI",
+            "date": "10 months after the embolization",
+            "findings": "Complete resolution of T2 hyperintensity in the spinal cord; no abnormal perimedullary flow voids.",
+            "changes_over_time": "There was complete resolution of spinal cord edema, and hematosiderin deposits were noted within the residual cavity of the venous varix."
+        }
+    ]
+}

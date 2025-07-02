@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "22w5d gestation",
+            "findings": "Long T2 signals near the anterior horns and bodies of bilateral lateral ventricles indicating subependymal cysts, and widened bilateral posterior horns of lateral ventricles.",
+            "changes_over_time": "The abnormalities persisted and were more pronounced as the pregnancy progressed."
+        },
+        {
+            "procedure_name": "Chest computed tomography",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild patent ductus arteriosus, patent foramen ovale, and mitral and tricuspid regurgitation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stress echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal left ventricular function at rest, mildly thickened tricuspid aortic valve, mild aortic insufficiency, mild aortic-root dilatation, trivial regurgitation of the other valves; negative for ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at a rate of 78 beats per minute, with probable left ventricular hypertrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Thickening of multiple aortic leaflets but no stenosis, mild-to-moderate aortic insufficiency, normal left ventricular systolic function with an ejection fraction of 60%.",
+            "changes_over_time": "Follow-up echocardiogram showed a persistent mobile density on the aortic valve, although it appeared improved."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Echogenic mass on the non-coronary cusp of the aortic valve, consistent with vegetations and moderate aortic insufficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "On the day of admission",
+            "findings": "Positive for S. mutans after four days, indicative of bacterial endocarditis.",
+            "changes_over_time": "Final positive culture also grew MRSA on fifth hospital day."
+        }
+    ]
+}

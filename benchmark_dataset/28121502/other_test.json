@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Test",
+            "date": "Not specified",
+            "findings": "CSF contained 4 red cells and 188 white cells per cubic millimeter, with 88% lymphocytes, 5% segmented neutrophils, and 7% monocytes.",
+            "changes_over_time": "On repeat lumbar puncture, showed an increased number of lymphocytes with admixed neutrophils, macrophages, and occasional plasma cells."
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "Portable electroencephalography revealed generalized rhythmic delta activity and bifrontal triphasic waves, with diffuse irregular delta–theta slowing.",
+            "changes_over_time": "Improvement in generalized rhythmic delta activity was noted after administration of Lorazepam."
+        },
+        {
+            "procedure_name": "Repeat CSF Test",
+            "date": "Hospital Day 9",
+            "findings": "CSF revealed yellow color, elevated protein (275 mg/dl), and abundant polymorphonuclear neutrophils.",
+            "changes_over_time": "CSF findings progressed with increased white-cell count and dominance of neutrophils."
+        }
+    ]
+}

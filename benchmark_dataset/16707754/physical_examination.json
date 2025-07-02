@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37°C",
+                "pulse": "98 bpm",
+                "blood_pressure": "120/82 mm Hg",
+                "oxygen_saturation": "98%",
+                "weight": "61.7 kg",
+                "jugular_venous_pressure": "8 cm"
+            },
+            "relevant_findings": {
+                "abdominal_exam": {
+                    "distention": "distended but not tense",
+                    "liver_span": "10 cm",
+                    "liver_tenderness": "not tender",
+                    "spleen": {
+                        "palpation": "tip not palpable",
+                        "size": "14.5 cm"
+                    },
+                    "edema": "more pronounced on the right leg"
+                },
+                "neurological_exam": {
+                    "alertness": "alert and appropriate",
+                    "asterixis": "absent"
+                },
+                "skin": "no jaundice, no signs of chronic liver disease"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "60.8 kg"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Postoperative condition improved for about a week but ascites returned."
+        }
+    ]
+}

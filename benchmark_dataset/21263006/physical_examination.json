@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": {
+                    "left_arm": "148/96 mm Hg",
+                    "right_arm": "144/94 mm Hg"
+                },
+                "pulse": "84 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "body_mass_index": "33 kg/m²",
+                "jugular_venous_pressure": "6 cm H2O",
+                "point_of_maximal_impulse": "discrete, nondisplaced in the fifth intercostal space at the midclavicular line",
+                "lung_exam": "clear to auscultation",
+                "extremities_exam": "warm, with intact pulses and without edema",
+                "reflexes": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "155/95 mm Hg"
+            },
+            "relevant_findings": {
+                "S4_gallop": "present",
+                "ECG": "3- to 4-mm ST-segment elevation in leads V1 through V4 with reciprocal ST-segment depression in the inferior leads"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": {
+                    "baseline": "148/92 mm Hg",
+                    "post-exercise": "168/100 mm Hg"
+                },
+                "heart_rate_peak": "150 bpm"
+            },
+            "relevant_findings": {
+                "exercise_duration": "8 minutes and 8 seconds",
+                "chest_discomfort_during_exercise": "4/10, resolving 2 minutes into recovery",
+                "ECG_changes": "1-mm ST depressions with T-wave inversions in leads V2 through V4",
+                "left_ventricular_ejection_fraction": "61%",
+                "perfusion_defect": "moderate-sized, medium-intensity, reversible affecting the anterior wall"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 days after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "troponin_T": "peaked at 5 ng/mL",
+                "creatine_kinase_MB": "125 ng/mL",
+                "echocardiography": "anterior hypokinesis, estimated ejection fraction of 45%",
+                "platelet_function_testing": {
+                    "PRU": "280 U"
+                }
+            },
+            "changes_over_time": "Status progressed to ST-segment elevation myocardial infarction with development of anterior hypokinesis"
+        }
+    ]
+}

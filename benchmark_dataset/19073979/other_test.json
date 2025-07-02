@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Chronic hepatitis with a score of 3 for portal activity, score of 2 for lobular activity, bridging fibrosis, and no cirrhosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "7 months before admission",
+            "findings": "Malignant cells consistent with hepatocellular carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiofrequency Ablation",
+            "date": "5 months before admission",
+            "findings": "Post-procedure CT revealed perihepatic hematoma and extension of the hematoma over three days.",
+            "changes_over_time": "Follow-up MRI revealed nodular enhancement surrounding the ablation zone, suggesting residual disease."
+        },
+        {
+            "procedure_name": "Factor VIII Inhibitor Testing",
+            "date": "11.5 weeks before admission",
+            "findings": "Initial negative result; subsequent test resulted in 0.64 Bethesda units and later at 1.66 Bethesda units.",
+            "changes_over_time": "Inhibitor detected after previous undetectable results, indicating development of a factor VIII inhibitor."
+        },
+        {
+            "procedure_name": "Liver Transplantation Surgery",
+            "date": "Not specified",
+            "findings": "Progressive improvement in coagulation parameters during surgery, without factor VIII replacement needed postoperatively.",
+            "changes_over_time": "The activated partial-thromboplastin time was normal by completion of the operation; postoperative factor VIII levels remained normal."
+        }
+    ]
+}

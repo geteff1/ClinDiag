@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "office_blood_pressure": "127/74 mm Hg",
+                "mean_ambulatory_blood_pressure": "133/86 mm Hg",
+                "daytime_blood_pressure": "135/88 mm Hg",
+                "sleeping_blood_pressure": "124/78 mm Hg"
+            },
+            "relevant_findings": "Physical examination was unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Confluent parakeratosis, absent granular cell layer, and subtle pallor of the superficial epidermis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Zinc level test",
+            "date": "Around 5-6 months of age",
+            "findings": "Zinc level of 50 /C22g/dL (reference range, 66-110 /C22g/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sweat chloride test",
+            "date": "Not specified",
+            "findings": "Not enough sweat was collected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postmortem histologic examination",
+            "date": "Postmortem",
+            "findings": "Diffuse fibrosis, exocrine atrophy, and ductal plugs highly suggestive of cystic fibrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Homozygous d-508 mutation diagnostic of cystic fibrosis; parents were both heterozygous for the d-508 mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture tests",
+            "date": "Not specified",
+            "findings": "Skin and blood cultures grew Pseudomonas species.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

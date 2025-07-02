@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "119/88 mm Hg",
+                "serum_sodium": "139 mEq/liter",
+                "serum_potassium": "5.5 mEq/liter"
+            },
+            "relevant_findings": "At 3 months of age, her physical examination showed hyperpigmentation and respiratory distress.",
+            "changes_over_time": "During her admission, the patient exhibited severe respiratory distress, leading to septic shock."
+        },
+        {
+            "date": "At the age of 5 yr",
+            "vital_signs": {
+                "height": "122 cm",
+                "weight": "22.5 kg"
+            },
+            "relevant_findings": "Physical exam showed pubic hair Tanner stage 3, genital Tanner stage 2–3, and mild increment in testicular volume (2–3 ml each).",
+            "changes_over_time": "Longitudinal growth was severely compromised."
+        },
+        {
+            "date": "At the age of 2 yr 9 months",
+            "vital_signs": {
+                "height": "82.5 cm",
+                "weight": "10.2 kg",
+                "head_circumference": "46.5 cm"
+            },
+            "relevant_findings": "Physical examination showed frontal bossing, low-set ears, normal penis, and unilateral cryptorchidism.",
+            "changes_over_time": "Bone age was 2.5 yr by age 5 yr 11 months."
+        },
+        {
+            "date": "At 8 months of age",
+            "vital_signs": {
+                "height": "56.5 cm",
+                "weight": "4830 g"
+            },
+            "relevant_findings": "Physical examination showed frontal bossing, wide nasal bridge, small low-set ears, right cryptorchidism.",
+            "changes_over_time": "Developed a severe respiratory distress syndrome and eventually died 5 days later."
+        }
+    ]
+}

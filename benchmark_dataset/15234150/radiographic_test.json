@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan of the brain",
+            "date": "Not specified",
+            "findings": "Acute left subdural hematoma in patient 1; simple parietal skull fracture and small, underlying acute subdural hemorrhage in patient 2; small, acute subdural hematoma over the convexities and falx in patient 3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skeletal survey",
+            "date": "Not specified",
+            "findings": "Abnormalities consistent with Osteogenesis Imperfecta and a healing, nondisplaced oblique fracture of the distal left tibia and each ulna in patient 1; generalized osteopenia and a healing left posterior rib and femur fractures in patient 2; normal in patient 3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

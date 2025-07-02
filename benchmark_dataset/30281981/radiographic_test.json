@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "pulmonary computed tomography (CT) angiogram",
+            "date": "Not specified",
+            "findings": "Negative for pulmonary embolism, showed bibasilar subsegmental atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "No change from echocardiogram obtained 2 years earlier.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

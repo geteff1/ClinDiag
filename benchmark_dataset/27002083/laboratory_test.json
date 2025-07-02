@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sodium concentration",
+            "date": "Not specified",
+            "findings": "Sodium concentration of 133 mmol/L (normal, 136–145)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit of 31.2% (normal, 36%–48%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial Thromboplastin Time (PTT)",
+            "date": "Not specified",
+            "findings": "Partial thromboplastin time of 25.6 seconds (normal, 23.8–36.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "International normalized ratio of 1.1 (normal, 0.9–1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm at 84 beats per minute with sinus arrhythmia and diffuse T-wave flattening",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lower extremity venous duplex ultrasound",
+            "date": "Not specified",
+            "findings": "Extensive thrombus with a lack of venous compressibility and absent respiratory variability, indicating obstructing DVTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal and pelvic CT imaging",
+            "date": "Not specified",
+            "findings": "Complete agenesis of the IVC with an extensive system of serpiginous venous collaterals providing drainage from the abdomen",
+            "changes_over_time": "Invasive venography showed thrombotic occlusion of the right common femoral vein and left femoral vein"
+        },
+        {
+            "procedure_name": "Follow-up venography",
+            "date": "Not specified",
+            "findings": "Patent right-sided femoral and common femoral veins with improved patency in the left common femoral and iliac veins",
+            "changes_over_time": "Reduction in thrombus burden with improvement in venous collateralization after catheter-directed thrombolysis"
+        }
+    ]
+}

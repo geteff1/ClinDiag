@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Twenty days after admission",
+            "findings": "Leukocyte count: 1.4 × 10^9/L; Hemoglobin level: 78 g/L; Platelet count: 37 × 10^9/L",
+            "changes_over_time": "Mild pancytopenia observed"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Twenty days after admission",
+            "findings": "Aspartate aminotransferase (AST): 448 U/L; Alanine aminotransferase (ALT): 218 U/L",
+            "changes_over_time": "Elevated aminotransferases noted"
+        },
+        {
+            "procedure_name": "Ferritin Level Test",
+            "date": "Twenty days after admission",
+            "findings": "Ferritin: 4325 ng/mL",
+            "changes_over_time": "Elevated level noted"
+        },
+        {
+            "procedure_name": "HHV-6 DNA Quantification",
+            "date": "Not specified",
+            "findings": "High levels of HHV-6 DNA: 1.2 × 10^7 copies/µg DNA in peripheral blood",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reverse Transcription Polymerase Chain Reaction (RT-PCR)",
+            "date": "Not specified",
+            "findings": "Viral RNA detected: U60/66: 4.6 × 10^2 copies/µg RNA; IE1: 5.2 × 10^3 copies/µg RNA",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

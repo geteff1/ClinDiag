@@ -1,0 +1,79 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 1983",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "best_corrected_VA": "2.0 (40/20)",
+                "anterior_segment": "Normal",
+                "vitreous_opacities": "Many, resembling asteroid hyalosis",
+                "tumors": "Elevated, whitish-grey, semitransparent tumor adjacent to optic disc with two more opaque white equatorial tumors visible at 10-o'clock and 12 o'clock",
+                "tumor_size": "About 2.5 disc diameters, not calcified",
+                "chorioretinal_scars_or_hyperpigmentation": "None visible"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "August 1984",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "VA": "Not specified",
+                "irradiation_effects": "Developed proliferative radiation retinopathy with cotton-wool spots, cystoid macular edema, and intraretinal and vitreous hemorrhages",
+                "treatment": "Argon laser coagulation and steroids"
+            },
+            "changes_over_time": "VA dropped to counting fingers"
+        },
+        {
+            "date": "May 1986",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "VA": "1.0 after treatment of vitreous hemorrhages and cryotherapy"
+            },
+            "changes_over_time": "VA improved post-surgery"
+        },
+        {
+            "date": "September 1991",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "VA": "Varied between 0.6 and 1.0",
+                "appearance": "Identified two new equatorial retinoblastomas at the 9-o'clock position"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "August 1992",
+            "vital_signs": {
+                "IOP": "12-15 mmHg"
+            },
+            "relevant_findings": {
+                "pseudohypopyon": "First seen below the limbus, with 5 new retinal tumors",
+                "VA": "Not specified"
+            },
+            "changes_over_time": "IOP increased to 28 mmHg with a subsequent eye tap showing retinoblastoma cells"
+        },
+        {
+            "date": "February 1993",
+            "vital_signs": {
+                "IOP": "20 mmHg",
+                "pseudohypopyon": "2.5 mm height"
+            },
+            "relevant_findings": {
+                "VA": "0.8",
+                "accumulation": "Elschnig's pearls increased and were difficult to differentiate from tumor particles"
+            },
+            "changes_over_time": "Seen growth on optic disc and hemorrhages visible"
+        },
+        {
+            "date": "November 1993",
+            "vital_signs": {
+                "IOP": "17 mmHg",
+                "pseudohypopyon": "2.7 mm height"
+            },
+            "relevant_findings": {
+                "VA": "0.63",
+                "appearance": "Increasing irradiation retinopathy with marked narrowing of retinal arterioles"
+            },
+            "changes_over_time": "Retinoblastoma cells began to grow on the corneal endothelium"
+        }
+    ]
+}

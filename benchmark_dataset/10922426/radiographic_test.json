@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "The QT interval is 400 msec and the corrected QT interval is 448 msec, with a clear notch in the T wave. Ventricular extrasystoles are observed, originating from the end of the T wave.",
+            "changes_over_time": "On day 6 of hospitalization, the QT interval is 540 msec, and the corrected QT interval is 493 msec, with giant inverted T waves in the precordial leads."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Post-defibrillation, the patient shows deep T-wave inversion.",
+            "changes_over_time": "Intravenous lidocaine was administered, and during the following days, there were no arrhythmias recorded."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Revealed a large tumor of the right adrenal gland (4 cm in diameter).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

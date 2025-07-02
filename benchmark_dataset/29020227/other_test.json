@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "430 leukocytes (96% lymphocytes) per cubic millimeter, a protein level of 133 mg per deciliter, and a glucose level of 43 mg per deciliter.",
+            "changes_over_time": "Mild improvement in the lymphocytic pleocytosis was noted in subsequent lumbar punctures."
+        },
+        {
+            "procedure_name": "Metagenomic sequencing",
+            "date": "Hospital day 8",
+            "findings": "Powassan virus was identified in cerebrospinal fluid.",
+            "changes_over_time": "Initial rapid sequencing run completed on hospital day 11 confirmed Powassan virus, with no other plausible pathogens detected."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Continuous diffuse irregular delta waves, slowing of the background, and occasional right frontal broad sharp wave discharges, without seizures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Hospital day 11",
+            "findings": "Diffuse lymphoid infiltrates; no evidence of vasculitis, infarction, or infection by spirochetes and common viral pathogens.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "18 mm per hour (reference range, 0 to 17)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3 to 5 white cells and 2+ squamous cells per high-power field; 0 to 2 granular casts per low-power field; mucin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Sodium",
+            "date": "Not specified",
+            "findings": "130 mmol per liter initially, falling to 120 mmol per liter over 10 days",
+            "changes_over_time": "Gradually fell from 130 to a nadir of 120 mmol per liter"
+        },
+        {
+            "procedure_name": "Brain Natriuretic Peptide",
+            "date": "Not specified",
+            "findings": "113 pg per milliliter (reference range, 5 to 99)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "1st Admission",
+            "findings": "34.6% (normal range 36.0–46.0 for women)",
+            "changes_over_time": "Decreased to 31.7% after 6 weeks, then increased to 34.3%"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "1st Admission",
+            "findings": "12.3 g/dL (normal range 12.0–16.0 for women)",
+            "changes_over_time": "Decreased to 10.7 g/dL after 6 weeks, then increased to 11.1 g/dL"
+        },
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "1st Admission",
+            "findings": "6100 per mm3 (reference range 4500–11,000)",
+            "changes_over_time": "Increased to 16,600 per mm3 on the third hospital day"
+        },
+        {
+            "procedure_name": "Differential Count",
+            "date": "Not specified",
+            "findings": "Neutrophils: 73%; Lymphocytes: 23%; Monocytes: 3%; Eosinophils: 1%",
+            "changes_over_time": "Neutrophils increased to 95% and lymphocytes dropped to 3% over time"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "1st Admission",
+            "findings": "138 mmol/liter (normal range 135–145)",
+            "changes_over_time": "Decreased to 131 mmol/liter then gradually rose to 139 and 140 mmol/liter"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Measurements",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.11",
+                "Partial pressure of oxygen": "83 mm Hg",
+                "Partial pressure of carbon dioxide": "111 mm Hg"
+            },
+            "changes_over_time": "pH fell to 6.94 later, indicating worsening acidosis"
+        }
+    ]
+}

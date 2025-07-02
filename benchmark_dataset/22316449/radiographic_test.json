@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "patchy opacities in the upper lobe of the right lung, features consistent with possible pneumonia",
+            "changes_over_time": "Resolved after azithromycin was administered."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "technetium-99m pertechnetate scan",
+            "date": "Not specified",
+            "findings": "enlarged thyroid with diffusely increased uptake, features consistent with Graves’ disease",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "106 bpm",
+                "respiratory_rate": "26/min",
+                "blood_pressure": "144/84 mmHg",
+                "oxygen_saturation": "99% in room air",
+                "capillary_blood_glucose": "106 mg/dl"
+            },
+            "relevant_findings": "The patient appeared conscious and cooperative but showed signs of physiological distress.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 10 of hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Weakness in eye closure, loss of nasolabial folds, and an inability to smile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 13 of hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Signs suggestive of cerebellar impairment, including dysdiadochokinesia, impaired finger-nose test, impaired heel-shin, and tandem walking, but no dysarthria. Also showed signs of vestibulocochlear nerve impairment.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

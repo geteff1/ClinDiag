@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus rhythm with a ventricular rate of 101 beats per minute, a PR interval of 260 msec, a QRS complex of 136 msec, first-degree atrioventricular block and right bundle-branch block.",
+            "changes_over_time": "First-degree atrioventricular block and right bundle-branch block were present and had not been present 3 years earlier."
+        },
+        {
+            "procedure_name": "Glucocorticoid injection",
+            "date": "11 months before admission",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "High-grade tear of the left common hamstring tendon at the ischial tuberosity attachment site.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radionuclide Bone Scan",
+            "date": "Hospital day 2",
+            "findings": "Nonspecific abnormal uptake by the rib lesion and at the left ischium.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "83/50 mm Hg",
+                "heart_rate": "110 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general_condition": "Patient in slight distress but afebrile.",
+                "murmur": "Loud crescendo systolic murmur at right upper sternal border",
+                "lung_exam": "Lungs clear",
+                "extremities": "Warm with symmetric distal pulses, no edema",
+                "abdominal_exam": "Unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "82/61 mm Hg",
+                "heart_rate": "97 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "general_condition": "Chest pressure improved but not completely resolved.",
+                "biomarkers": {
+                    "creatine_kinase_MB": "14.1 ng/mL (normal range, 0 to 4.9)",
+                    "serum_troponin_I": "4.23 ng/mL (<0.30)"
+                },
+                "ST_segment_changes": "Persistent ST-segment elevation and T-wave inversions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "echocardiogram": {
+                    "ejection_fraction": "35%",
+                    "mitral_regurgitation": "Moderate",
+                    "wall_motion": "Akinetic apex, mid anterior wall and mid anteroseptum"
+                }
+            },
+            "changes_over_time": "Chest pain resolved overnight, and biomarker levels decreased."
+        },
+        {
+            "date": "1 month after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "echocardiogram": {
+                    "ejection_fraction": "75%",
+                    "mitral_regurgitation": "Resolved",
+                    "left_ventricular_hypertrophy": "Present"
+                }
+            },
+            "changes_over_time": "Complete recovery and no recurrent chest pain or dyspnea."
+        },
+        {
+            "date": "6 months after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "general_condition": "No electrocardiographic abnormalities and no symptoms."
+            },
+            "changes_over_time": "Continued to do well."
+        }
+    ]
+}

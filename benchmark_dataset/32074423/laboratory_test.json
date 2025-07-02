@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "126 mg/dL (7.0 mmol/L) - annual well visit, 112 mg/dL (6.2 mmol/L; reference range, <100 mg/dL) - fasting test, 217 mg/dL (12.0 mmol/L) - random blood glucose with polyuria.",
+            "changes_over_time": "Blood glucose decreased from 126 mg/dL to 112 mg/dL over one year. Random glucose level was significantly elevated at 217 mg/dL nine years prior, indicating progression."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "Not specified",
+            "findings": "5.8% (reference range, 4.3 to 5.6) with normal hemoglobin level; 5.9% one year later; decreased to 5.5% after dietary changes.",
+            "changes_over_time": "Initial level was 5.8%, increased to 5.9%, then decreased to 5.5% after lifestyle changes over six months."
+        },
+        {
+            "procedure_name": "1-hour oral glucose challenge test",
+            "date": "Not specified",
+            "findings": "186 mg/dL (10.3 mmol/L; reference range, <140 mg/dL) at 26 weeks gestation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "2-hour oral glucose tolerance test",
+            "date": "Six weeks postpartum",
+            "findings": "131 mg/dL (7.3 mmol/L; reference range, <140 mg/dL).",
+            "changes_over_time": "No previous results specified for comparison."
+        },
+        {
+            "procedure_name": "Fasting blood glucose",
+            "date": "Six weeks postpartum",
+            "findings": "120 mg/dL (6.7 mmol/L).",
+            "changes_over_time": "Increased from 120 mg/dL at six weeks postpartum to 133 mg/dL six weeks later, indicating rising levels."
+        },
+        {
+            "procedure_name": "2-hour oral glucose tolerance test",
+            "date": "Six weeks postpartum",
+            "findings": "236 mg/dL (13.1 mmol/L).",
+            "changes_over_time": "Indicates significant hyperglycemia at this time."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "Three months postpartum",
+            "findings": "6.1%.",
+            "changes_over_time": "Increased from 5.5% to 6.1% indicating worsening glycemic control."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "Not specified",
+            "findings": "6.2%.",
+            "changes_over_time": "Remained unchanged after stopping metformin."
+        }
+    ]
+}

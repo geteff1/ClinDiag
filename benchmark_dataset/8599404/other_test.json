@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Intermittent asymmetry with posterior right-hemisphere background slowing; considered artifact.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Absence of white cells and organisms, normal protein and glucose content, positive CSF LISA screen for Lyme disease.",
+            "changes_over_time": "1gM antibodies present after 1 month of antibiotic therapy, consistent with acute Borrelia infection."
+        },
+        {
+            "procedure_name": "Neuropsychological testing",
+            "date": "Not specified",
+            "findings": "Inconsistent pattern of mild right-hemisphere brain dysfunction; mild impairment in nonverbal information processing and problem solving.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Single-photon emission computed tomography (SPECT)",
+            "date": "Not specified",
+            "findings": "Lower than normal blood flow in the frontotemporal regions bilaterally, suggestive of an obliterative process in the midsized blood vessels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Polysomnogram (Multiple Sleep Latency Test)",
+            "date": "Not specified",
+            "findings": "Short sleep latency in a series of five naps and REM sleep in three of the five naps.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hypnotic induction",
+            "date": "Not specified",
+            "findings": "Patient recalled an apparent molestation while under hypnosis; memory remains disputed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Scattered punctate foci of signal abnormality in the subcortical white matter, predominantly in the frontal lobes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

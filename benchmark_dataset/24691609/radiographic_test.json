@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "screening mammogram",
+            "date": "2008",
+            "findings": "abnormal screening mammogram with microcalcifications in the left medial inferior breast, interpreted as BI-RADS category 3 (probably benign)",
+            "changes_over_time": "in 2010, the third mammogram showed interval increase in the number of heterogeneous microcalcifications and was classified as BI-RADS category 5 (highly suggestive of malignancy)"
+        },
+        {
+            "procedure_name": "excisional biopsy",
+            "date": "Not specified",
+            "findings": "identified ductal carcinoma in situ (DCIS), intermediate grade without comedo-type necrosis",
+            "changes_over_time": "one area of DCIS was less than 1 mm from the anterior margin so she underwent reexcision and no residual DCIS was identified"
+        },
+        {
+            "procedure_name": "annual mammograms",
+            "date": "ongoing",
+            "findings": "annual mammograms have been negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

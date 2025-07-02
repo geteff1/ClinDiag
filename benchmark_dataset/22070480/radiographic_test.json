@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the brain without contrast",
+            "date": "Not specified",
+            "findings": "Scattered T2-weighted hyperintense foci in the deep and subcortical cerebral white matter bilaterally, suggestive of mild microangiopathic changes, with no associated restricted diffusion.",
+            "changes_over_time": "MRI after administration of contrast material revealed features the same as previous study, including increased T2-weighted signal intensity and mild expansion of the left amygdala and hippocampus without enhancement; persistent mild nonspecific white matter change."
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography of the head",
+            "date": "Not specified",
+            "findings": "No hemodynamically significant intracranial arterial stenosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest and abdomen",
+            "date": "Not specified",
+            "findings": "Multiple renal cysts, a small infrarenal abdominal aortic aneurysm measuring 3.3 cm, and no evidence of cancer in the chest, abdomen, or pelvis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG)-PET",
+            "date": "Not specified",
+            "findings": "Initial focus of abnormal hypermetabolism in the left medial temporal lobe; follow-up showed increased hypermetabolism most pronounced in the amygdaloid nucleus.",
+            "changes_over_time": "Reduction in hypermetabolism noted as the patient's symptoms improved over time."
+        }
+    ]
+}

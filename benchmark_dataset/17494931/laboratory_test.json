@@ -1,0 +1,151 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": {
+                    "result": 9500,
+                    "reference_range": "4,500–11,000"
+                },
+                "differential_count": {
+                    "neutrophils": {
+                        "result": 81,
+                        "reference_range": "40–70"
+                    },
+                    "lymphocytes": {
+                        "result": 14,
+                        "reference_range": "22–44"
+                    },
+                    "monocytes": {
+                        "result": 5,
+                        "reference_range": "4–11"
+                    }
+                },
+                "hematocrit": {
+                    "result": 28.9,
+                    "reference_range": "41.0–53.0"
+                },
+                "hemoglobin": {
+                    "result": 9.4,
+                    "reference_range": "13.5–17.5"
+                },
+                "mean_corpuscular_volume": {
+                    "result": 87,
+                    "reference_range": "80–100"
+                },
+                "platelet_count": {
+                    "result": 690000,
+                    "reference_range": "150,000–350,000"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": {
+                "prothrombin_time": {
+                    "result": 16.6,
+                    "reference_range": "11.3–13.3"
+                },
+                "partial_thromboplastin_time": {
+                    "result": 29.8,
+                    "reference_range": "22.1–35.1"
+                },
+                "aspartate_aminotransferase": {
+                    "result": 65,
+                    "reference_range": "10–40"
+                },
+                "alanine_aminotransferase": {
+                    "result": 82,
+                    "reference_range": "10–55"
+                },
+                "alkaline_phosphatase": {
+                    "result": 173,
+                    "reference_range": "45–115"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": {
+                    "result": 131,
+                    "reference_range": "135–145"
+                },
+                "potassium": {
+                    "result": 3.1,
+                    "reference_range": "3.4–4.8"
+                },
+                "chloride": {
+                    "result": 94,
+                    "reference_range": "100–108"
+                },
+                "carbon_dioxide": {
+                    "result": 28.8,
+                    "reference_range": "23.0–31.9"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal function test",
+            "date": "Not specified",
+            "findings": {
+                "urea_nitrogen": {
+                    "result": 35,
+                    "reference_range": "8–25"
+                },
+                "creatinine": {
+                    "result": 1.7,
+                    "reference_range": "0.6–1.5"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Day 5",
+            "findings": {
+                "result": ">140",
+                "reference_range": "0–17"
+            },
+            "changes_over_time": "Significantly elevated."
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "Day 4",
+            "findings": {
+                "pattern": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulins",
+            "date": "Not specified",
+            "findings": {
+                "immunoglobulin_G": {
+                    "result": 1250
+                },
+                "immunoglobulin_A": {
+                    "result": 496
+                },
+                "immunoglobulin_M": {
+                    "result": 111
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Day 1 to Day 4",
+            "findings": {
+                "result": "No growth"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Findings suggestive of pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Nine months before evaluation",
+            "findings": "An irregular mass (3.5 cm by 3.7 cm by 5.0 cm) in the anterior right upper lobe, multiple pleural nodules (most <1 cm), mediastinal and right hilar lymphadenopathy (nodes ≤12 mm).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Three months after starting erlotinib therapy",
+            "findings": "Decrease in size of pulmonary nodules and up to eight new mixed lytic and sclerotic vertebral lesions.",
+            "changes_over_time": "Reportedly revealed a decrease in size and number of pulmonary nodules."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "18 days before the evaluation",
+            "findings": "Enlargement of the dominant mass in the right upper lobe and a new pleural effusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Twelve months after initial presentation",
+            "findings": "Enlargement of the dominant mass in the right upper lobe and right pleural effusion, new lung nodules.",
+            "changes_over_time": "Findings consistent with disease progression."
+        },
+        {
+            "procedure_name": "CT of the chest and abdomen",
+            "date": "Eighteen months after initial presentation",
+            "findings": "New mediastinal lymphadenopathy and a new heterogeneously enhancing liver metastasis.",
+            "changes_over_time": "Findings consistent with progression of diffuse osseous metastatic disease."
+        },
+        {
+            "procedure_name": "MRI of the thoracic spine",
+            "date": "Two days after initial evaluation",
+            "findings": "Multiple enhancing lesions in the thoracic vertebrae, consistent with osseous metastatic disease.",
+            "changes_over_time": "Findings consistent with progression of diffuse osseous metastatic disease."
+        }
+    ]
+}

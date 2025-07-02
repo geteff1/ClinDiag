@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "101/72 mm Hg",
+                "oxygen_saturation": {
+                    "ambient_air": "85%",
+                    "oxygen": "94% at 4 L/min"
+                }
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented.",
+                "neurological": "Subtle weakness of facial muscles (sparing forehead), minimal palatal elevation, absence of triceps, patellar, and Achilles reflexes on both sides.",
+                "muscular": "Proximal and distal muscle strength intact.",
+                "pulmonary": "Frequent coughing and clearing of secretions, hoarse and hypophonic voice with hypernasal resonance, rhonchi at lung bases.",
+                "abdominal": "Nontender and scaphoid."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "9 days after admission",
+            "vital_signs": {
+                "oxygen_saturation": "96% while breathing ambient air"
+            },
+            "relevant_findings": {
+                "pulmonary": "Improved breath sounds; rhonchi were less prominent than previous examination."
+            },
+            "changes_over_time": "Condition unchanged except for improved breath sounds."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "16,100 per cubic millimeter (87% neutrophils, 7% band forms)",
+                "hemoglobin_level": "12.7 g per deciliter",
+                "platelet_count": "85,000 per cubic millimeter"
+            },
+            "changes_over_time": "The hemoglobin level fell to 7.6 g per deciliter and the platelet count declined to 55,000 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "1.4 mg per deciliter (123.8 μmol per liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "34 mg per deciliter (12.1 mmol per liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "16.2 seconds (international normalized ratio, 1.8)",
+            "changes_over_time": "The prothrombin time remained elevated after treatment."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "57 mm per hour",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Presence of blood (3+), with 2 to 4 red cells, 2 to 4 white cells, and 1+ granular casts per high-power field.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

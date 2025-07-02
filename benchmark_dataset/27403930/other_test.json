@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Did not reveal any disease-causing mutations in known T1HLP genes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "Revealed compound heterozygous rare variants (p.Val103Met and p.Arg540Gln) in GCKR gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatic ultrasound",
+            "date": "Age 30",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oral glucose tolerance test",
+            "date": "Age 59",
+            "findings": "Revealed post prandial hyperglycemia with normal insulin levels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

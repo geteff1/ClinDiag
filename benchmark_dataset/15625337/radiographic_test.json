@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Intravenous pyelogram",
+            "date": "Not specified",
+            "findings": "Showed a urethral stricture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal-size kidneys, no hydronephrosis, and no evidence of renal stones.",
+            "changes_over_time": "Another renal ultrasonogram was obtained and showed the right kidney to be 9.3 cm long and the left kidney to be 9.4 cm long without hydronephrosis. No residual fluid was seen within the urinary bladder after voiding."
+        },
+        {
+            "procedure_name": "Percutaneous renal biopsy",
+            "date": "Not specified",
+            "findings": "Glomeruli were normal except for focal, mild mesangial hypercellularity. Electron microscopy showed diffusely thin glomerular basement membranes.",
+            "changes_over_time": "Two years after the diagnostic biopsy, the patient remained well, with no evidence of progressive renal disease."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the lumbar spine with contrast enhancement",
+            "date": "Not specified",
+            "findings": "End-plate irregularity and destruction of the L4 and L5 vertebrae, with a surrounding left paravertebral and ventral epidural soft-tissue collection extending into the right foramen. No evidence of nerve-root compression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Multiple calcified mediastinal and hilar lymph nodes, parenchymal scarring in the right upper lobe, and a trace pleural effusion on the right side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Multiple calcified mediastinal and hilar lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

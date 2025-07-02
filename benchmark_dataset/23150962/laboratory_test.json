@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "8 Weeks before Admission",
+            "findings": "30.9% (normal range: 41.0–53.0%)",
+            "changes_over_time": "Increased to 33.4% on Admission"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "8 Weeks before Admission",
+            "findings": "10.3 g/dl (normal range: 13.5–17.5 g/dl)",
+            "changes_over_time": "Decreased to 10.2 g/dl on Admission"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "8 Weeks before Admission",
+            "findings": "3200 per mm3 (normal range: 4500–11,000 per mm3)",
+            "changes_over_time": "Increased to 4900 per mm3 on Admission"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "8 Weeks before Admission",
+            "findings": "1.66 mg/dl (normal range: 0.60–1.50 mg/dl)",
+            "changes_over_time": "Increased to 4.01 mg/dl on Admission"
+        },
+        {
+            "procedure_name": "Estimated glomerular filtration rate",
+            "date": "8 Weeks before Admission",
+            "findings": "44 ml/min/1.73 m2 (normal range: ≥60 ml/min/1.73 m2)",
+            "changes_over_time": "Decreased to 16 ml/min/1.73 m2 on Admission"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "8 Weeks before Admission",
+            "findings": "77 mg/dl (normal range: 70–110 mg/dl)",
+            "changes_over_time": "Increased to 129 mg/dl on Admission"
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "On Admission",
+            "findings": "132 μU per ml (normal range: 0.4–5.0 μU per ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "On Admission",
+            "findings": "3.7 μg per dl (normal range: 5–15 μg per dl)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

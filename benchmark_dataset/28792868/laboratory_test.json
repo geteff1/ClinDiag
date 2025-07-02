@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "pH of 5.0, specific gravity of 1.005, small amount of blood, and urobilinogen level of 0.2 mg/dL; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "29.1% (normal range 33.0–39.0%)",
+                "Hemoglobin": "9.2 g/dL (normal range 10.5–13.5 g/dL)",
+                "White-cell count": "10,400 per mm3 (normal range 6000–17,500 per mm3)",
+                "Neutrophils": "38.4% (normal range 17–49%)",
+                "Lymphocytes": "49.4% (normal range 67–77%)",
+                "Monocytes": "11.5% (normal range 4–11%)",
+                "Eosinophils": "0.3% (normal range 0–8%)",
+                "Basophils": "0.1% (normal range 0–3%)",
+                "Platelet count": "490,000 per mm3 (normal range 150,000–450,000 per mm3)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical Panel",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "135 mmol/L (normal range 135–145 mmol/L)",
+                "Potassium": "4.3 mmol/L (normal range 3.4–5.0 mmol/L)",
+                "Chloride": "100 mmol/L (normal range 98–106 mmol/L)",
+                "Carbon dioxide": "20 mmol/L (normal range 22–27 mmol/L)",
+                "Urea nitrogen": "3 mg/dL (normal range 5–20 mg/dL)",
+                "Creatinine": "0.23 mg/dL (normal range 0.30–1.00 mg/dL)",
+                "Magnesium": "2.6 mg/dL (normal range 1.7–2.4 mg/dL)",
+                "Lipase": "797 U/L (normal range 13–60 U/L)",
+                "C-reactive protein": "134.4 mg/L (normal range <8.0 mg/L)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluid Analysis",
+            "date": "On hospital day 4",
+            "findings": {
+                "Amylase": "5000 U/L",
+                "Lipase": "Greater than 1,000,000 U/L",
+                "Neutrophils": "Abundant",
+                "Organisms": "No organisms cultured"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

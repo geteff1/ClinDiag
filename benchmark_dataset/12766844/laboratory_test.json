@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV-1 RNA load",
+            "date": "August 2000",
+            "findings": "Plasma HIV-1 RNA levels before therapy began ranged from approximately 561.2 to undetectable copies/mL. After 6 months (day 200), all 3 children had a several-log-fold reduction in plasma HIV-1 RNA levels. After 14 months (day 410), levels remained less than pretreatment levels in 2 of 3 children.",
+            "changes_over_time": "A sustained increase of 18 CD4+ T lymphocytes/mL per month was observed during the 14 months after the initiation of therapy, although an increase in the virus load in subject 3 was also noted."
+        },
+        {
+            "procedure_name": "CD4 T cell quantification",
+            "date": "August 2000",
+            "findings": "CD4 T lymphocyte counts of less than 20 cells/mL initially. A sustained increase of 18 CD4+ T lymphocytes/mL per month was observed after the initiation of therapy over the next 14 months.",
+            "changes_over_time": "An increase of 18 CD4+ T lymphocytes/mL per month was observed over 14 months."
+        }
+    ]
+}

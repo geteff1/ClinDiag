@@ -1,0 +1,79 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_sodium_levels": [
+                    {
+                        "value": 108,
+                        "unit": "mmol/L"
+                    },
+                    {
+                        "value": 119,
+                        "unit": "mmol/L"
+                    },
+                    {
+                        "value": 135,
+                        "unit": "mmol/L"
+                    },
+                    {
+                        "value": 108,
+                        "unit": "mmol/L"
+                    }
+                ]
+            },
+            "relevant_findings": {
+                "patient_1": {
+                    "urinary_PBG": {
+                        "initial": 221,
+                        "post_treatment": 13,
+                        "follow_up": {
+                            "range": [
+                                75,
+                                137
+                            ]
+                        }
+                    },
+                    "symptoms": "intense abdominal pain, generalized tonic–clonic convulsive crisis"
+                },
+                "patient_2": {
+                    "urinary_PBG": {
+                        "initial": 172,
+                        "post_treatment": 23,
+                        "follow_up": {
+                            "value": 9
+                        }
+                    },
+                    "symptoms": "acute flaccid quadriparesis, intense abdominal pain"
+                },
+                "patient_3": {
+                    "urinary_PBG": {
+                        "initial": 75,
+                        "follow_up": {
+                            "status": "stable"
+                        }
+                    },
+                    "symptoms": "flaccid quadriparesis, moderate high blood pressure"
+                },
+                "patient_4": {
+                    "urinary_PBG": {
+                        "initial": 115,
+                        "follow_up": {
+                            "range": [
+                                13,
+                                27
+                            ]
+                        }
+                    },
+                    "symptoms": "intense generalized abdominal pain"
+                }
+            },
+            "changes_over_time": {
+                "patient_1": "Urinary PBG levels decreased from 221 to 13 during treatment, then fluctuated between 75 to 137 over 4 years.",
+                "patient_2": "Urinary PBG levels decreased from 172 to 23 after treatment and remained low at 9 after 1 year.",
+                "patient_3": "Condition remained stable over 5 years with no significant changes reported.",
+                "patient_4": "Urinary PBG levels decreased from 115 to 13–27 over 3 years."
+            }
+        }
+    ]
+}

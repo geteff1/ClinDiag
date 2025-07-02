@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "Initially elevated at 20.5 mg/dL, later levels of 19.4 mg/dL at month 23, stabilized at 12.1 mg/dL after treatment.",
+            "changes_over_time": "Calcium levels were refractory, fluctuating between 12.2 and 14.2 mg/dL despite treatment over months 23-26."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "Not specified",
+            "findings": "Initially at 110222500 pg/mL, later levels of 1273 pg/mL at month 23.",
+            "changes_over_time": "PTH levels continued to rise over time, reaching 1541 pg/mL at month 27, and 1459 pg/mL later."
+        },
+        {
+            "procedure_name": "Intraoperative PTH",
+            "date": "Not specified",
+            "findings": "Decreased from 1692 to 46 pg/mL after surgery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium post-denosumab administration",
+            "date": "Not specified",
+            "findings": "Decreased to levels between 8.3 and 12.0 mg/dL after second dose of denosumab.",
+            "changes_over_time": "Ca levels remained in the reference range for 2-3 months after denosumab treatment."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Month 31",
+            "findings": "Showed a 1.6-cm nodular soft tissue mass in the right inferior thyroid bed.",
+            "changes_over_time": "Increased in size compared to month 26, along with increasing bilateral pulmonary micronodules."
+        }
+    ]
+}

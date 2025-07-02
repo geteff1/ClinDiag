@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "5'10\"",
+                "weight": "155 lb"
+            },
+            "relevant_findings": {
+                "left_knee": {
+                    "size": "slightly larger than right",
+                    "erythema": "no",
+                    "warmth": "no",
+                    "varus_deformity": "present",
+                    "antalgic_gait": "present",
+                    "range_of_motion": {
+                        "left": "5° to 120°",
+                        "right": "5° to 140°"
+                    },
+                    "ligaments": "stable",
+                    "crepitus": "noted",
+                    "effusion": "moderate",
+                    "palpable_bursa": "semi-membranous",
+                    "neurovascular_compromise": "none"
+                },
+                "hip": {
+                    "range_of_motion": "full and pain-free bilaterally"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

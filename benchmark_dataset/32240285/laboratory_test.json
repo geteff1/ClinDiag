@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "SARS-CoV-2 Testing (rRT-PCR)",
+            "date": "January 22, 2020",
+            "findings": "Initially positive; nasopharyngeal swab: Neg, Pos, Pos, Pos, Inc, Inc, Inc, Pos, Neg, Inc, Neg (Ct 25.1–39.4), oropharyngeal swab: Pos, Pos, Pos, Pos, Pos, Pos, Pos, Neg, Neg, Neg, Neg, Neg (Ct 26.7–38.7), sputum: Pos (Ct 31.7–32.8).",
+            "changes_over_time": "Nasal swab changed from positive to negative, indicating decreasing viral load over time; Ct values increased to >35 in follow-up tests from days 12 onward, indicating lower viral RNA concentration."
+        },
+        {
+            "procedure_name": "SARS-CoV-2 Testing (rRT-PCR)",
+            "date": "January 25, 2020",
+            "findings": "Positive results confirmed for oropharyngeal swab and sputum specimens.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SARS-CoV-2 Testing (rRT-PCR)",
+            "date": "February 19, 2020",
+            "findings": "Nasopharyngeal and oropharyngeal specimens tested negative for SARS-CoV-2.",
+            "changes_over_time": "First negative tests were confirmed at two consecutive time points, 14 days after symptom resolution."
+        }
+    ]
+}

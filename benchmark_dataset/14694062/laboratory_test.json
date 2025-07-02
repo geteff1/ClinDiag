@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma ACE level",
+            "date": "Not specified",
+            "findings": "380 U/L (normal < 155 U/L) - increased",
+            "changes_over_time": "After 1 year of treatment: 161 U/L - still increased"
+        },
+        {
+            "procedure_name": "CSF ACE level",
+            "date": "Not specified",
+            "findings": "7.3 U/L (normal < 11.5 U/L) - increased",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve Conduction Study (NCS)",
+            "date": "2 weeks after extubation",
+            "findings": "Details provided in two time points; First NCS: Amplitudes and latencies recorded",
+            "changes_over_time": "Follow-up NCS at 10 weeks after extubation shows some amplitude and latency changes across various nerves."
+        }
+    ]
+}

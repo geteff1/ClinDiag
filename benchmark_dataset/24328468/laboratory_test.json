@@ -1,0 +1,118 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "On Presentation",
+            "findings": {
+                "Hematocrit (%)": {
+                    "value": 38.3,
+                    "normal_range": "41.0–53.0"
+                },
+                "Hemoglobin (g/dL)": {
+                    "value": 12.5,
+                    "normal_range": "13.5–17.5"
+                },
+                "White-cell count (per mm3)": {
+                    "value": 4300,
+                    "normal_range": "4500–11,000"
+                },
+                "Neutrophils (%)": {
+                    "value": 62,
+                    "normal_range": "40–70"
+                },
+                "Lymphocytes (%)": {
+                    "value": 26,
+                    "normal_range": "22–44"
+                },
+                "Monocytes (%)": {
+                    "value": 12,
+                    "normal_range": "4–11"
+                },
+                "Eosinophils (%)": {
+                    "value": 0,
+                    "normal_range": "0–8"
+                },
+                "Platelet count (per mm3)": {
+                    "value": 213000,
+                    "normal_range": "150,000–400,000"
+                }
+            },
+            "changes_over_time": {
+                "Hematocrit": [
+                    38.3,
+                    33.7,
+                    31.0,
+                    28.9,
+                    23.4
+                ],
+                "Hemoglobin": [
+                    12.5,
+                    11.5,
+                    10.9,
+                    10.1,
+                    8.6
+                ],
+                "White-cell count": [
+                    4300,
+                    3500,
+                    1600,
+                    1000,
+                    200
+                ]
+            }
+        },
+        {
+            "procedure_name": "Hemoglobin Electrophoresis",
+            "date": "2 Days after Presentation",
+            "findings": {
+                "Hemoglobin D Punjab": {
+                    "value": 91.8,
+                    "normal_range": "Not specified"
+                },
+                "Hemoglobin A": {
+                    "value": 0,
+                    "normal_range": "95.8 to 98.0"
+                },
+                "Hemoglobin A2": {
+                    "value": 7.0,
+                    "normal_range": "2.0 to 3.3"
+                },
+                "Hemoglobin F": {
+                    "value": 1.2,
+                    "normal_range": "0.0 to 0.9"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Mixed population of lymphocytes, histiocytes, and occasional plasma cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Sterile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "5th Hospital Day",
+            "findings": "Yellow, clear fluid, with 1+ occult blood, trace albumin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "5th Hospital Day",
+            "findings": "Normal pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scans of Neck and Chest",
+            "date": "Not specified",
+            "findings": "Lymph nodes measuring up to 9 mm, mild centrilobular emphysema, splenomegaly.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

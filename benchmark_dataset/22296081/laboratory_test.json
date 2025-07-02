@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "9920 per cubic millimeter",
+                "neutrophils": "72%",
+                "lymphocytes": "17%",
+                "monocytes": "6%",
+                "eosinophils": "5%",
+                "hematocrit": "26.8% (decreased from 34.5% 1 year earlier)",
+                "mean_corpuscular_volume": "86.9 fl",
+                "red_cell_distribution_width": "13.3%",
+                "platelet_count": "598,000 per cubic millimeter"
+            },
+            "changes_over_time": "Hematocrit decreased from 34.5% 1 year earlier to 26.8%."
+        },
+        {
+            "procedure_name": "Serum Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "136 mmol per liter",
+                "potassium": "3.3 mmol per liter",
+                "chloride": "103 mmol per liter",
+                "bicarbonate": "24 mmol per liter",
+                "blood_urea_nitrogen": "44 mg per deciliter (16 mmol per liter)",
+                "creatinine": "1.28 mg per deciliter (113.2 µmol per liter)",
+                "glucose": "104 mg per deciliter (5.8 mmol per liter)",
+                "calcium": "6.5 mg per deciliter (1.6 mmol per liter)",
+                "albumin": "2.8 g per deciliter",
+                "total_protein": "6.0 g per deciliter",
+                "iron": "13 µg per deciliter (2.3 µmol per liter)",
+                "total_iron_binding_capacity": "353 µg per deciliter (63 µmol per liter)",
+                "ferritin": "10 ng per milliliter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Vitamin and Mineral Levels",
+            "date": "Not specified",
+            "findings": {
+                "vitamin_B12": "Normal",
+                "folate": "Normal",
+                "vitamin_D": "Low, at 15 ng per milliliter",
+                "zinc": "28 µg per deciliter (normal range, 60 to 120 µg per deciliter)"
+            },
+            "changes_over_time": "Zinc, vitamin D, and calcium levels all normalized later."
+        },
+        {
+            "procedure_name": "Endoscopy and Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "initial_endoscopy": "Revealed mucosal abnormalities",
+                "biopsy_stomach_and_duodenum": "Negative for cancer, celiac disease, Whipple’s disease, eosinophilic gastroenteritis; evidence of chronic active gastritis."
+            },
+            "changes_over_time": "Presence of prominent folds and polypoid formation noted upon repeat endoscopy."
+        }
+    ]
+}

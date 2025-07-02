@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormone analysis",
+            "date": "Not specified",
+            "findings": "Increased testosterone, luteinizing hormone, and follicle-stimulating hormone levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood karyotype",
+            "date": "Not specified",
+            "findings": "46XY with a positive SRY gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Identified 1,582 variants causing non-synonymous, stop-gain, and frameshift changes. Detected one nonsense heterozygote variant in the SOX9 gene (c.G344A, p.Trp115*).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Showed Arnold–Chiari malformation type 1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography of the head",
+            "date": "Not specified",
+            "findings": "Vertebral fusion between C5 and C6.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography of the limbs",
+            "date": "Not specified",
+            "findings": "Femur bowing, an underdeveloped acetabulum, and a femoral head.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Ovaries, a small uterus, and shortened vagina.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

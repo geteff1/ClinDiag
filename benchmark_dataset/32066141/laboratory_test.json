@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": {
+                    "value": "4.61 mmol/L",
+                    "normal_range": "178 mg/dL"
+                },
+                "LDL_cholesterol": {
+                    "value": "2.95 mmol/L",
+                    "normal_range": "114 mg/dL"
+                },
+                "HDL_cholesterol": {
+                    "value": "1.11 mmol/L",
+                    "normal_range": "43 mg/dL"
+                },
+                "triglycerides": {
+                    "value": "1.16 mmol/L",
+                    "normal_range": "103 mg/dL"
+                },
+                "apolipoprotein_B": {
+                    "value": "1.07 g/L",
+                    "normal_range": "0.8 to 1.2 g/L"
+                },
+                "apolipoprotein_A1": {
+                    "value": "1.26 g/L",
+                    "normal_range": "1.2 to 1.4 g/L"
+                },
+                "lipoprotein_a": {
+                    "value": "0.89 μmol/L",
+                    "normal_range": "<1.07 μmol/L"
+                },
+                "hemoglobin_A1c": {
+                    "value": "5.3%"
+                }
+            },
+            "changes_over_time": {
+                "LDL_cholesterol": {
+                    "initial": "2.95 mmol/L",
+                    "after_3months": "<50% decrease (approx. 1.24 mmol/L)",
+                    "after_4years": "1.24 mmol/L (48 mg/dL)"
+                },
+                "total_cholesterol": {
+                    "initial": "4.61 mmol/L",
+                    "after_4years": "2.62 mmol/L (101 mg/dL)"
+                }
+            }
+        }
+    ]
+}

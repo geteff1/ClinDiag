@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "152/84 mm Hg",
+                "pulse": "85 beats per minute",
+                "weight": "77.1 kg",
+                "height": "170.2 cm"
+            },
+            "relevant_findings": {
+                "cutaneous": "brown, infiltrative lesions (5 to 10 mm in diameter) over the trunk and back, consistent with mastocytosis",
+                "mass": "mass on the back of the neck, consistent with a lipoma",
+                "mandibular": "enlargement of the lingual mandible anteriorly and on the right with no dental dysplasia or dysplasia of the palate or jaw bone",
+                "scarring": "surgical scarring and fibrosis over the mandible and neck on the right side"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

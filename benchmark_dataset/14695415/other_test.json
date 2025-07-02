@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Discontinuous areas of ulcerated and bleeding mucosa, with friable mucosa in the rectum and cecum; the ileocecal valve was too ulcerated to be entered. Biopsy revealed an ulcer with a focal giant-cell reaction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Esophagus, stomach, duodenal bulb, and second portion of the duodenum were normal. Biopsy specimens were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper gastrointestinal series with small-bowel follow-through",
+            "date": "Approximately 3 months before admission",
+            "findings": "Several massively dilated loops of distal small bowel with intervening areas of stricture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominopelvic CT scan",
+            "date": "Six weeks before admission and one week before admission",
+            "findings": "Extensive inflammatory changes in the right lower abdominal quadrant and abnormal enhancement of the cecal wall and ascending colon; numerous dilated loops of distal small bowel.",
+            "changes_over_time": "Changes nearly identical to those seen on the previous scan, as well as a small amount of intraperitoneal fluid in the pelvis."
+        },
+        {
+            "procedure_name": "Surgical exploration",
+            "date": "Not specified",
+            "findings": "Marked thickening, creeping fat, and subserosal studding in the terminal ileum; marked dilation with a stricture proximal to ileocecal valve; presence of granulomas.",
+            "changes_over_time": "Identified multiple well-formed epithelioid granulomas corresponding to earlier endoscopic findings."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Multiple well-formed epithelioid granulomas and areas of necrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

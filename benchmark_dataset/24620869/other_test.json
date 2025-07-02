@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "No malignant cells, elevated protein levels (419 mg/dl initially, 580 mg/dl on repeat, 870 mg/dl subsequently) and low glucose levels (15 mg/dl initially, 18 mg/dl on repeat, 41 mg/dl subsequently)",
+            "changes_over_time": "Repeated lumbar punctures showed progressive elevation of protein levels and persistently low glucose levels."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Day 2",
+            "findings": "Intermittent generalized background slowing, without epileptiform activity",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy of right frontal meninges and brain",
+            "date": "Day 7",
+            "findings": "Leptomeningeal fibrosis and reactive gliosis in the cortex; cultures were sterile.",
+            "changes_over_time": "Findings indicative of prior meningitis progression noted, but cultured results remained negative throughout."
+        },
+        {
+            "procedure_name": "Craniotomy for biopsy and possible excision",
+            "date": "Not specified",
+            "findings": "Markedly cellular neoplasm revealed, consistent with glioblastoma.",
+            "changes_over_time": "The patient's condition deteriorated rapidly following this procedure."
+        }
+    ]
+}

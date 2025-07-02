@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Nasopharyngeal swab",
+            "date": "Not specified",
+            "findings": "Test returned positive for SARS-CoV-2 RNA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Continuous insulin infusion",
+            "date": "Day 17 of stay at medical respite facility",
+            "findings": "Severe diabetic ketoacidosis.",
+            "changes_over_time": "Resolved with treatment."
+        },
+        {
+            "procedure_name": "SARS-CoV-2 test",
+            "date": "After diabetic ketoacidosis treatment",
+            "findings": "Test returned negative.",
+            "changes_over_time": "Another test one day later also returned negative."
+        }
+    ]
+}

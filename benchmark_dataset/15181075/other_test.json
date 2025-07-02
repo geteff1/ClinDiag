@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Glucose Monitoring",
+            "date": "Not specified",
+            "findings": "Hyperglycemia with blood sugar level of 1000 mg/dl (55.5 mmol/liter); blood glucose at 474 mg/dl (26.3 mmol/liter) during right epididymitis episode.",
+            "changes_over_time": "Initially fluctuated in severity, now remains euglycemic since age 5."
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "20th day of life",
+            "findings": "Bilateral subacute brain infarction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the Kidneys",
+            "date": "Not specified",
+            "findings": "Identified a slightly small right kidney with two small cysts; left kidney normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen and Creatinine Tests",
+            "date": "Not specified",
+            "findings": "Initial renal dysfunction with blood urea nitrogen of 19 mg/dl and creatinine of 2.5 mg/dl.",
+            "changes_over_time": "Renal function gradually deteriorated leading to end-stage renal failure at 2 years of age."
+        },
+        {
+            "procedure_name": "Renal Transplantation",
+            "date": "Age 3",
+            "findings": "Performed due to end-stage renal failure.",
+            "changes_over_time": "Chronic rejection of the graft necessitated continued use of glucocorticoid and tacrolimus."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test",
+            "date": "Not specified",
+            "findings": "Mother showed a normal response (blood glucose and insulin).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

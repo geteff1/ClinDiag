@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Metastatic disease in the manubrium and the right ninth and left tenth ribs.",
+            "changes_over_time": "Follow-up showed diffusely progressive disease."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Metastatic disease to the lungs.",
+            "changes_over_time": "Two months later, confirmed by a CT scan showing multiple pulmonary nodules, bilaterally primarily in the lower lung regions."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Metastases to the thoracolumbar vertebra.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

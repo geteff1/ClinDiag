@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ventilation-Perfusion Scan",
+            "date": "Not specified",
+            "findings": "Marked decrease in perfusion and a slight decrease in ventilation in the left lung.",
+            "changes_over_time": "On the third hospital day, it showed no perfusion of the left lung."
+        },
+        {
+            "procedure_name": "Cardiac Ultrasonographic Study",
+            "date": "Not specified",
+            "findings": "Pulmonary arterial pressure estimated to be 75 mm Hg.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler Ultrasonographic Studies",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urinary sediment contained 3 to 5 red cells and 3 to 5 white cells per low-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin 36.3%, WBC count 9700 per cubic millimeter (66% neutrophils, 25% lymphocytes, 6% monocytes, 2% eosinophils, 1% basophils), platelet count 242,000 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Partial-Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "54 seconds.",
+            "changes_over_time": "Back to normal range after heparin treatment."
+        },
+        {
+            "procedure_name": "Fibrinogen Level",
+            "date": "Not specified",
+            "findings": "Higher than 400 mg per deciliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm at a rate of 91, inverted T waves in leads V1 and V2, low upright T waves in lead V.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

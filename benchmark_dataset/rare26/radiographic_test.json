@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Blurred T1 high signal in the hindlimb of the internal capsule, lack of white matter, and high T2 signal.",
+            "changes_over_time": "At 6 months, brain MRI showed deep sulci, delayed myelination, little white matter, and thin corpus callosum."
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "2 years and 10 months",
+            "findings": "Brain atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Video electroencephalogram (VEEG)",
+            "date": "1 month and 15 days",
+            "findings": "Interictal multifocal epileptiform discharges, noticeable bilaterally in the occipital region.",
+            "changes_over_time": "At 8 months, extensive, multifocal epileptic discharges between seizures. At 1 year and 2 months, slow background activity, no occipital-dominated rhythm, interictal multifocal epileptiform discharges. At 1 year and 6 months, displayed no occipital dominant rhythm, bilateral occipital spikes, and slow waves, with no seizures detected."
+        }
+    ]
+}

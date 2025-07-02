@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "Not specified",
+            "findings": "Right eye 20/50 with eyeglasses, left eye 20/20. Subsequent measurements showed right eye 20/60 + 1 and improved to 20/40, then 20/13 after surgery.",
+            "changes_over_time": "Visual acuity in the right eye decreased from 20/50 to 20/60 + 1 over several days and then improved to 20/13 post-surgery."
+        },
+        {
+            "procedure_name": "Pupil Examination",
+            "date": "Not specified",
+            "findings": "Both pupils were 4 mm in diameter; relative afferent pupillary defect noted in the right eye.",
+            "changes_over_time": "A relative afferent pupillary defect was observed in the right eye, which resolved after surgery."
+        },
+        {
+            "procedure_name": "Applanation Tonometry",
+            "date": "Not specified",
+            "findings": "Intraocular pressure was 16 mm Hg in the right eye and 17 mm Hg in the left eye at one point, later showed 17 mm Hg in both eyes.",
+            "changes_over_time": "No significant changes over time specified."
+        },
+        {
+            "procedure_name": "Automated Perimetry (Humphrey Visual-Field Testing)",
+            "date": "Not specified",
+            "findings": "Normal in the left eye; right eye showed a diffusely decreased visual field with relative sparing superonasal.",
+            "changes_over_time": "Right eye showed improvement in visual fields after surgery."
+        },
+        {
+            "procedure_name": "MRI of the Orbits",
+            "date": "Not specified",
+            "findings": "No evidence of a mass lesion or enhancement in the optic nerves; showed opacification of the left sphenoid sinus and mucosal thickening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the Sinuses",
+            "date": "Not specified",
+            "findings": "Complete opacification of paranasal sinuses with expansion and erosion along the optic nerve canals; findings consistent with allergic fungal sinusitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

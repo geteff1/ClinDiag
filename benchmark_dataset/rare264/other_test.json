@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Necrosis along with endomysial and perivascular lymphocytic infiltrates; no fibrosis or fatty infiltration was seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Initially normal; subsequent EMG revealed a myopathic pattern.",
+            "changes_over_time": "Progressed from normal to showing a myopathic pattern."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of LGMDR2 based on a compound heterozygous variant of the DYSF gene.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

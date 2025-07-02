@@ -1,0 +1,131 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "13,900 per cubic milliliter",
+                "polymorphonuclear_leukocytes": "74%",
+                "lymphocytes": "11%",
+                "monocytes": "9%",
+                "eosinophils": "5%",
+                "basophils": "1%",
+                "hemoglobin": "14.0 g per deciliter",
+                "hematocrit": "45%",
+                "platelet_count": "490,000 per cubic milliliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": "1.0 mg per deciliter",
+                "liver_tests": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "132 mmol per liter",
+                "potassium": "8.0 mmol per liter",
+                "chloride": "98 mmol per liter",
+                "bicarbonate": "12 mmol per liter",
+                "blood_urea_nitrogen": "176 mg per deciliter",
+                "creatinine": "22.6 mg per deciliter",
+                "glucose": "132 mg per deciliter",
+                "calcium": "8.7 mg per deciliter",
+                "phosphorus": "12.9 mg per deciliter",
+                "serum_albumin": "2.1 g per deciliter"
+            },
+            "changes_over_time": "Increased creatinine level from 1.0 mg per deciliter to 22.6 mg per deciliter."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "14,600 per cubic milliliter",
+                "hemoglobin": "11.4 g per deciliter",
+                "hematocrit": "36.0%",
+                "platelet_count": "458,000 per cubic milliliter"
+            },
+            "changes_over_time": "Decreased hemoglobin from 14.0 g per deciliter to 11.4 g per deciliter and decreased hematocrit from 45% to 36.0%."
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": {
+                "creatine_kinase_level": "31 U per liter",
+                "normal_range": "30 to 240"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin_level": "3.5 mIU per liter",
+                "normal_range": "0.3 to 5.6"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": {
+                "erythrocyte_sedimentation_rate": "75 mm per hour"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": {
+                "c_reactive_protein": "27.4 mg per deciliter",
+                "normal_range": "0 to 7.5"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Complement Levels",
+            "date": "Not specified",
+            "findings": {
+                "complement_factor_3": "101 mg per deciliter",
+                "normal_range_3": "70 to 156",
+                "complement_factor_4": "81 mg per deciliter",
+                "normal_range_4": "15 to 56"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ANCA Testing",
+            "date": "Not specified",
+            "findings": {
+                "indirect_immunofluorescence": "positive",
+                "titer": ">1:640",
+                "normal_value": "<1:20"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-GBM Antibody Test",
+            "date": "Not specified",
+            "findings": {
+                "anti_gbm_antibody_level": "207 units",
+                "normal_range": "0 to 20"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antistreptolysin O Antibody Test",
+            "date": "Not specified",
+            "findings": {
+                "titer": "76 IU per milliliter",
+                "normal_range": "0 to 200"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

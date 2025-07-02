@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 2011",
+            "vital_signs": "Mean arterial pressure < 50 mmHg; cardiac output normal by thermal dilution; mixed venous saturation low",
+            "relevant_findings": "Episodes of hypotension during extensive lysis of adhesions for LVAD removal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Postoperative day 1",
+            "vital_signs": "Temperature 40°C; elevated white cell count 18.39 k/mL; creatinine peaked at 3.3 mmol/L; potassium peaked at 5.1 mmol/L; creatine phosphokinase peaked at 1406 U/L.",
+            "relevant_findings": "Delayed recovery from anesthesia; ocular clonus; mydriasis; lateral nystagmus; myoclonic jerks; shivering; hypertonicity.",
+            "changes_over_time": "Changes noted included evolution from hypotension to increased temperature and lab findings indicating a hypermetabolic state."
+        },
+        {
+            "date": "48 hours postoperatively",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Neurologic manifestations resolved; patient extubated.",
+            "changes_over_time": "Improvement in neurologic status with no new manifestations noted."
+        },
+        {
+            "date": "Postoperative day 17",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Patient discharged home.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

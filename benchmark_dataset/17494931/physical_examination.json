@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.2°C",
+                "pulse": "108 bpm",
+                "respiratory_rate": "22 breaths per minute",
+                "blood_pressure": "145/75 mm Hg"
+            },
+            "relevant_findings": {
+                "eye": "Chemosis and mild lid swelling in the left eye; visual acuity normal.",
+                "ear": "Skin changes thought to be eczema in the right ear; mildly tender."
+            },
+            "changes_over_time": "Symptoms worsened with increasing pain and swelling in the left eye and right ear."
+        },
+        {
+            "date": "Early morning after admission",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "blood_pressure": "78/40 mm Hg"
+            },
+            "relevant_findings": {
+                "eye": "Marked chemosis and erythema of the left eye; similar but lesser findings in the right eye.",
+                "ear": "Right ear tender with erythema of the external canal involving soft tissues."
+            },
+            "changes_over_time": "Blood pressure initially low but returned to normal after fluid resuscitation."
+        },
+        {
+            "date": "Day 3",
+            "vital_signs": {
+                "temperature": "38.9°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified"
+            },
+            "relevant_findings": {
+                "eye": "Pain in the eyes decreased slightly.",
+                "ear": "Pain in the neck and right ear persisted."
+            },
+            "changes_over_time": "Temperature rose, while eye pain slightly lessened."
+        },
+        {
+            "date": "Day 4",
+            "vital_signs": {
+                "temperature": "38.6°C",
+                "blood_pressure": "109/70 mm Hg",
+                "pulse": "86 bpm"
+            },
+            "relevant_findings": {
+                "eye": "Eyes unchanged.",
+                "ear": "Right ear remained red, swollen, and tender."
+            },
+            "changes_over_time": "No significant change in eye findings; right ear findings persistent."
+        },
+        {
+            "date": "Day 6",
+            "vital_signs": {
+                "temperature": "37.9°C",
+                "blood_pressure": "127/78 mm Hg",
+                "pulse": "Not specified"
+            },
+            "relevant_findings": {
+                "ear": "Right ear swollen, red, and tender, with predominant involvement of the pinna."
+            },
+            "changes_over_time": "Increasing pain in the right ear."
+        }
+    ]
+}

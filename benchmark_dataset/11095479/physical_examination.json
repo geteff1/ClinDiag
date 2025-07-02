@@ -1,0 +1,71 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Total Cholesterol (TC)": "2.32 mmol/L",
+                "Triglycerides (TG)": "2.09 mmol/L",
+                "HDL-C": "0.54 mmol/L"
+            },
+            "relevant_findings": {
+                "Splenomegaly": "Found on routine examination",
+                "Aspartate Aminotransferase": "40 U/L (normal, 12–31)",
+                "Platelet Count": "140,000/L (normal, 184,000–370,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months after splenectomy",
+            "vital_signs": {
+                "Total Cholesterol (TC)": "4.75 mmol/L",
+                "Triglycerides (TG)": "2.48 mmol/L",
+                "HDL-C": "0.59 mmol/L"
+            },
+            "relevant_findings": {
+                "Splenectomy findings": "Spleen weighed 1200 g (normal, 70-250), marked expansion of red pulp by foamy histiocytes, normal white pulp.",
+                "Liver Biopsy": "Severe macrovesicular steatosis without fibrosis."
+            },
+            "changes_over_time": "After splenectomy, TG and TC increased noticeably."
+        },
+        {
+            "date": "One year after splenectomy",
+            "vital_signs": {
+                "Total Cholesterol (TC)": "5.17 mmol/L",
+                "Triglycerides (TG)": "7.27 mmol/L",
+                "HDL-C": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "TC and TG continued to rise over time after splenectomy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Total Cholesterol (TC)": "6.54 mmol/L",
+                "Triglycerides (TG)": "15.59 mmol/L",
+                "HDL-C": "0.67 mmol/L"
+            },
+            "relevant_findings": {
+                "Splenomegaly": "Noted on routine examination.",
+                "Alanine Aminotransferase": "121 U/L (normal, 58–116)",
+                "Platelet Count": "112,000/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months after treatment",
+            "vital_signs": {
+                "Total Cholesterol (TC)": "6.62 mmol/L",
+                "Triglycerides (TG)": "6.52 mmol/L",
+                "HDL-C": "0.64 mmol/L"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "TG decreased after low fat diet and gemfibrozil treatment."
+        },
+        {
+            "date": "Five years after initial evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed symptoms of angina and underwent cardiac catheterization with a 50-70% lesion in the left anterior descending coronary artery.",
+            "changes_over_time": "Significant progression to angina symptoms."
+        }
+    ]
+}

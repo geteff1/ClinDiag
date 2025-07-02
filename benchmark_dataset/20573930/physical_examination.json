@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "height": "188.0 cm",
+                "weight": "88.9 kg",
+                "BMI": "25.2"
+            },
+            "relevant_findings": {
+                "abdomen": {
+                    "soft": true,
+                    "tenderness": false,
+                    "distention": false,
+                    "hepatomegaly": false,
+                    "splenomegaly": false,
+                    "lymphadenopathy": false,
+                    "palpable_masses": false
+                },
+                "cecal_mass": {
+                    "carcinoembryonic_antigen": "10.2 ng/mL (reference range: 0.0 to 2.5)",
+                    "exam": "Ulcerated cecal mass, 5.0 cm in diameter, extending into the wall of the terminal ileum."
+                },
+                "other_findings": "Remainder of the examination was normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

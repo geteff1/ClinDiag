@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal, with no evidence of free air under the diaphragm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Complete absence of the infrahepatic inferior vena cava with extensive retroperitoneal collateralization; atrophic left kidney. Right renal vasculature appeared patent. No renal stones, thickening of the bowel wall, or bowel dilatation observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal and renal Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "Thrombus in the left iliac vein; no evidence of mesenteric or renal vein thrombosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gadolinium-enhanced MRI",
+            "date": "Not specified",
+            "findings": "Renal and mesenteric vasculature patent; clot seen in the left ascending lumbar vein.",
+            "changes_over_time": "During the next several days, pain and renal function improved, leading to complete resolution at the 2-month follow-up visit."
+        }
+    ]
+}

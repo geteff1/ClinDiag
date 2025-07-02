@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Large patent ductus arteriosus, mild pericardial effusion, severe left ventricular hypertrophy (LVH), moderate-to-severe subaortic stenosis, normal aortic valve, presence of a subaortic membrane.",
+            "changes_over_time": "Peak pressure gradient reduced from 70 mm Hg to 51 mm Hg; mean pressure gradient reduced from 45 mm Hg to 32 mm Hg."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Subaortic membrane, moderate aortic stenosis, moderate LVH.",
+            "changes_over_time": "Peak pressure gradient reduced from 90 mm Hg to 72 mm Hg post-surgery."
+        }
+    ]
+}

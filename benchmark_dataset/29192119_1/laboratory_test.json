@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "Not specified",
+            "findings": "Lowest of 2.1 mEq/L was reported, and later serum potassium was 2.6 mEq/L despite oral supplementation.",
+            "changes_over_time": "Decreased potassium levels (from 2.1 mEq/L to 2.6 mEq/L) despite treatment."
+        },
+        {
+            "procedure_name": "Serum Aldosterone",
+            "date": "Not specified",
+            "findings": "Normal serum aldosterone levels at 12 ng/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aldosterone Levels (Adrenal Venous Sampling)",
+            "date": "Not specified",
+            "findings": "Markedly increased aldosterone levels on the left, confirming diagnosis of aldosterone-producing adenoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "Not specified",
+            "findings": "Serum potassium was 2.8 mEq/L despite supplementation.",
+            "changes_over_time": "No significant change noted before surgery."
+        },
+        {
+            "procedure_name": "Serum Aldosterone",
+            "date": "Not specified",
+            "findings": "Serum aldosterone was 79 ng/dL, more than twice the normal level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "Thyroid function was normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

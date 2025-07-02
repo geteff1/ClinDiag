@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "The right kidney was 11.2 cm in length and the left kidney 11.1 cm, with normal parenchyma and no hydronephrosis or masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal, with no valvular vegetations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundus photography",
+            "date": "Day of admission",
+            "findings": "Dense vitritis obscuring the posterior pole; subretinal purulent material consistent with abscess.",
+            "changes_over_time": "Five days after vitrectomy, visual acuity improved to 20/400; 9 months later, improved to 20/60."
+        }
+    ]
+}

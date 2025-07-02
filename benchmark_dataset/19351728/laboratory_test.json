@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Blood glucose level of 440 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated Hemoglobin",
+            "date": "Not specified",
+            "findings": "Elevated glycosylated hemoglobin of 13.3%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated Hemoglobin",
+            "date": "Not specified",
+            "findings": "Glycosylated hemoglobin between 6.5 and 6.9% after treatment with glibenclamide",
+            "changes_over_time": "Improved metabolic control with reduction in levels"
+        },
+        {
+            "procedure_name": "Insulin Requirements",
+            "date": "Not specified",
+            "findings": "Insulin requirement varied between 0.15 and 0.4 U/kg/day",
+            "changes_over_time": "Insulin therapy was stable with no episodes of diabetic ketoacidosis"
+        },
+        {
+            "procedure_name": "Developmental Tests",
+            "date": "Not specified",
+            "findings": "Normal psychomental development and normal formal developmental test",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Examination for Diabetic Retinopathy and Nephropathy",
+            "date": "Not specified",
+            "findings": "Both examinations were normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

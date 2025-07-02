@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Saccular aneurysm of the aorta with associated periaortic infiltration. Elevated F-18 FDG uptake within the walls of the aortic aneurysm suggested active vascular infection.",
+            "changes_over_time": "Increased size of the aneurysm noted on discharge, but decreased F-18 FDG uptake was observed one month after discharge, indicating clinical improvement."
+        },
+        {
+            "date": "30 days after treatment",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient left the hospital in good condition with oral antibiotics. CT demonstrated increased size of the aneurysm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "One month after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Decreased F-18 FDG uptake in the right wall of the infrarenal abdominal aorta and periaortic space, correlating with clinical improvement and normalization of laboratory findings.",
+            "changes_over_time": "Indicated a more rapid response of F-18 FDG uptake due to successful therapy compared to delayed changes seen in CT morphology."
+        },
+        {
+            "date": "One year after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Nearly normalization of the F-18 FDG uptake.",
+            "changes_over_time": "No complications reported on clinical follow-up."
+        }
+    ]
+}

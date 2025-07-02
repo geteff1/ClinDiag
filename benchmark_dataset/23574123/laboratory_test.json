@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ ketones, 1+ blood, 0 to 3 red cells per high-power field; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Heterogeneous, lobulated mass, 5.7 cm by 6.5 cm in the pelvis.",
+            "changes_over_time": "Mass enlarged to approximately 8.2 cm by 10.7 cm by 8.7 cm on second admission."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "First Admission",
+            "findings": {
+                "Hematocrit (%)": "30.2%",
+                "Hemoglobin (g/dl)": "10.5 g/dl",
+                "White-cell count (per mm3)": "11,000",
+                "Neutrophils (%)": "40%",
+                "Platelet count (per mm3)": "744,000",
+                "C-reactive protein (mg/liter)": "104.4",
+                "Sodium (mmol/liter)": "133",
+                "Potassium (mmol/liter)": "3.1",
+                "Chloride (mmol/liter)": "94",
+                "Lab values noted": "Other blood levels of glucose, total protein, albumin, globulin, amylase, and lactate dehydrogenase were normal."
+            },
+            "changes_over_time": "Hematocrit increased to 31.8%, Hemoglobin increased to 11.2 g/dl, and White-cell count increased to 15,400 on the second admission."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CRP (C-reactive protein)",
+            "date": "Not specified",
+            "findings": "Initially elevated CRP (7.18 mg/dL, normal values: < 0.5 mg/dL). On the 6th day, CRP further increased to 15.5 mg/dL.",
+            "changes_over_time": "Increased from 7.18 mg/dL to 15.5 mg/dL over 6 days."
+        },
+        {
+            "procedure_name": "CMV IgM and IgG",
+            "date": "Not specified",
+            "findings": "Positive for both CMV IgM and IgG with low IgG avidity test (< 10%).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CMV DNA by RT-PCR",
+            "date": "Not specified",
+            "findings": "Strongly positive for CMV DNA (40,917 iu/mL, positive > 178 iu/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "6th day",
+            "findings": "Reticular pattern indicative of pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "10th day",
+            "findings": "Infiltration of both lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nasopharyngeal swab",
+            "date": "Not specified",
+            "findings": "Negative for SARS-CoV-2, Influenza virus antigen, and RSV antigen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serological immune control tests",
+            "date": "Not specified",
+            "findings": "Not indicative of autoimmune disorder (ANA, p-ANCA, ASMA, RF, complement system and control for the major immunoglobulin classes).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

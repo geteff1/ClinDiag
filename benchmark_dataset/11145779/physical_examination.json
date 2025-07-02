@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/95 mm Hg",
+                "pulse_rate": "55 bpm",
+                "respiratory_rate": "0 to 6 breaths/min",
+                "temperature": "35.6°C (96.1°F)",
+                "SaO2": "90% on 10 L of oxygen"
+            },
+            "relevant_findings": "Patient was apneic, GCS score of 3 upon arrival, improved to 10 with stimulation, otherwise normal physical examination.",
+            "changes_over_time": "GCS score improved from 3 to 10 to 15 after physostigmine administration, heart rate increased from 55 bpm to 110 bpm and then stabilized between 80 to 90 bpm."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/95 mm Hg",
+                "pulse_rate": "50 to 90 bpm",
+                "respiratory_rate": "0 to 8 breaths/min",
+                "temperature": "35.8°C (96.4°F)",
+                "SaO2": "99% on 10 L of oxygen"
+            },
+            "relevant_findings": "GCS score of 6 upon arrival, gag reflex was absent, diaphoretic with clenching of fists.",
+            "changes_over_time": "GCS score improved from 6 to 11 after two doses of physostigmine and further to 15 later."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "125/65 mm Hg",
+                "pulse_rate": "72 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "34.9°C (94.8°F)",
+                "SaO2": "99% on 10 L of oxygen"
+            },
+            "relevant_findings": "GCS score of 3 upon arrival improved to 8 with stimulation, otherwise normal physical examination.",
+            "changes_over_time": "GCS score increased from 3 to 10 after administration of physostigmine and fully recovered within 15 minutes."
+        }
+    ]
+}

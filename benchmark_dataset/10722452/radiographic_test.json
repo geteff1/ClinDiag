@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiogram",
+            "date": "Not specified",
+            "findings": "Bilateral interstitial infiltrates and pleural effusions.",
+            "changes_over_time": "Resolved over several weeks."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral interstitial infiltrates and pleural effusions.",
+            "changes_over_time": "Resolved over several weeks."
+        },
+        {
+            "procedure_name": "Head CT scan",
+            "date": "Not specified",
+            "findings": "Very small remote lacunar infarcts involving the left side of the caudate head and the left external capsule.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Multiple ring-enhancing lesions with acute-to-subacute hemorrhages.",
+            "changes_over_time": "Previous MRI obtained 1 year earlier was normal."
+        }
+    ]
+}

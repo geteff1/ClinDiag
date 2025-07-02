@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Pancytopenia with hemoglobin of 5.9 g/dL, white cell count of 2100/µL, and platelets of 76,000/µL. Peripheral blood smear showed ring forms of Plasmodium falciparum and marked thrombocytopenia.",
+            "changes_over_time": "Two weeks post-splenectomy: leukocytes at 14,400/µL, platelets at 666,000/µL, and hemoglobin at 10.0 g/dL. Five weeks post-operatively: leukocytosis (18,700/µL), normal hemoglobin (11.4 g/dL), and thrombocytopenia (28,000/µL)."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy and aspirate",
+            "date": "Not specified",
+            "findings": "Gaucher cells, weakly periodic acid Schiff (PAS) positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lower limb x-ray",
+            "date": "Not specified",
+            "findings": "Early skeletal deformities (Erlenmeyer flask deformity) involving the metaphysis of the femur, with no evidence of osteonecrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

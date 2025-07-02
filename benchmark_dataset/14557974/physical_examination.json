@@ -1,0 +1,94 @@
+{
+    "physical_examinations": [
+        {
+            "date": "9 March 2001 (transplantation day 13)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "fever": "Yes",
+                "respiratory_failure": "Yes",
+                "altered_mental_status": "Yes",
+                "hypotension": "Yes",
+                "leukocytosis": "Yes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (transplantation day 16)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "bronchoscopy_with_BAL": "Performed",
+                "BAL_stains": "Negative for CMV, fungi, acid-fast bacilli, bacteria"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (transplantation day 19)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "respiratory_failure": "Yes",
+                "adult_respiratory_distress_syndrome": "Yes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (transplantation day 11)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "serum_creatinine_level": "4.2 mg/dL",
+                "high-dose_steroids": "Administered"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (transplantation day 17)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "fever": "Yes",
+                "hypoxemia": "Yes",
+                "dyspnea": "Yes",
+                "respiratory_failure": "Yes",
+                "adult_respiratory_distress_syndrome": "Yes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10 March 2001",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart rate": "Not specified",
+                "blood pressure": "Not specified",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "condition_posttransplantation": "Good",
+                "discharged_on_posttransplantation_day": 16
+            },
+            "changes_over_time": "Asymptomatic after 2 years"
+        }
+    ]
+}

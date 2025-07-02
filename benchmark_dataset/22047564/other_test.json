@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Not specified",
+            "findings": "Induration at the site measured 12 mm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitreous Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Vitreous fluid showed a polymorphous cellular infiltrate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided Needle Biopsy of the Adrenal Gland",
+            "date": "Not specified",
+            "findings": "Areas of loosely organized, granulomatous inflammation with diffuse necrosis; abundant small, budding yeast forms detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenal CT Scan",
+            "date": "At the time of presentation",
+            "findings": "Diffuse enlargement of both adrenal glands without discrete nodules; heterogeneous appearance.",
+            "changes_over_time": "Follow-up CT scan after 9 months showed reduction in the size of the adrenal lesions."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Analysis for Cortisol and Corticotropin",
+            "date": "Two separate days",
+            "findings": "Cortisol levels of 17.1 μg/dL and 21.2 μg/dL; corticotropin levels high at both times.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-body PET",
+            "date": "Not specified",
+            "findings": "18F-FDG avidity exclusively in the adrenal glands.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

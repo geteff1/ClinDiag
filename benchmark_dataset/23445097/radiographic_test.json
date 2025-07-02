@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Multiple cystic foci, hypointense on T1-weighted images and hyperintense on T2-weighted images, in the neural foramina of the cervical, thoracic, lumbar, and sacral spine, typical of Tarlov cysts measuring up to 13 mm.",
+            "changes_over_time": "Initial MRI eight years earlier was reported as normal. Four months prior to the current evaluation, MRI revealed a lesion in the left T7–T8 neural foramen, causing mild expansion and remodeling, consistent with a perineurial cyst."
+        },
+        {
+            "procedure_name": "CT Myelography",
+            "date": "Twenty months before evaluation",
+            "findings": "A perineurial cyst (10 mm by 8 mm) at the T7–T8 level on the left side that became filled with contrast material.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI (with contrast material)",
+            "date": "One month after the CT Myelography",
+            "findings": "Bilateral T7–T8 neural foraminal cysts measuring up to 8 mm, with smaller foraminal lesions suspected at T10–T11, T11–T12, T12–L1, and low cervical levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiograph of the chest",
+            "date": "Not specified",
+            "findings": "Slight aortic dilatation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

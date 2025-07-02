@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Optical Coherence Tomography (OCT)",
+            "date": "Not specified",
+            "findings": "RPD visible as subretinal conical lesions, deposits rich in vitronectin, photoreceptor-associated proteins, and Iba1-immunoreactive immune cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunocytochemistry",
+            "date": "Not specified",
+            "findings": "Immunoreactivity for vitronectin confirmed the subretinal location of several RPD, associated with a disruption of photoreceptor integrity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Staining with Oil Red O",
+            "date": "Not specified",
+            "findings": "Oil Red O failed to stain RPD, indicating distinct lipid composition compared to conventional drusen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological Analysis",
+            "date": "Not specified",
+            "findings": "RPD are located on the subretinal side and associated with photoreceptor disruption, leading to thinner ONL in affected regions.",
+            "changes_over_time": "ONL thickness is significantly thinner in regions with RPD compared to adjacent areas without RPD; positive correlation observed between ONL thinning and increasing RPD area."
+        },
+        {
+            "procedure_name": "TUNEL Assay",
+            "date": "Not specified",
+            "findings": "No TUNEL labeling of photoreceptor nuclei was noted in regions with RPD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GFAP Immunolabeling",
+            "date": "Not specified",
+            "findings": "Localized upregulation of GFAP immunoreactivity in Müller cell processes near RPD, indicating retinal stress.",
+            "changes_over_time": "Increased GFAP labeling observed in regions containing RPD compared to adjacent regions."
+        }
+    ]
+}

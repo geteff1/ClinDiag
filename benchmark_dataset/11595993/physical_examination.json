@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "Present",
+                "splenomegaly": "Present",
+                "hepatomegaly": "Present",
+                "lymphadenopathy": "5 (28%)",
+                "skin rash": "3 (17%)",
+                "anemia": "Present",
+                "neutropenia": "17 (94%)",
+                "thrombocytopenia": "Present",
+                "hypertriglyceridemia": "13 (76%)",
+                "hypoalbuminemia": "14 (82%)",
+                "hyperbilirubinemia": "12 (67%)",
+                "elevated ALT": "11 (61%)",
+                "hypofibrinogenemia": "15 (83%)",
+                "prolonged PTT": "11 (61%)",
+                "CSF pleocytosis": "4 (31%)",
+                "CSF elevated protein": "5 (38%)"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

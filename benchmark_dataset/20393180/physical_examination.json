@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal; oxygen saturation 95% while breathing ambient air.",
+            "relevant_findings": "The patient was quiet and withdrawn during the examination. There was left sixth-nerve palsy without diplopia, otherwise cranial nerves intact. Motor examination revealed normal power with increased deep-tendon reflexes on the left side. Mild impairment of vibration sense in toes; sensation otherwise intact. Gait was unsteady and slow; unable to perform heel-to-toe walking. Urinalysis revealed yellow, cloudy urine with several abnormal findings indicating a urinary tract infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Five days before admission",
+            "vital_signs": "Normal; oxygen saturation 95% while breathing ambient air.",
+            "relevant_findings": "The patient was alert and oriented but inattentive, with not much insight into her medical condition. She displayed perseveration and had decreased verbal fluency, impaired calculations, and inability to follow three-step commands. Memory, language, and praxis were otherwise normal. There was minimal swaying in Romberg's test after 30 seconds.",
+            "changes_over_time": "Mental deterioration was noted over the prior 2 months, with increased lethargy and cognitive decline."
+        },
+        {
+            "date": "Ten days before admission",
+            "vital_signs": "Normal.",
+            "relevant_findings": "MRI of the brain revealed a large area of signal abnormality and subtle enhancement predominantly involving the white matter of the right frontal lobe and insula, with less extensive involvement of the left frontal lobe, thought to be consistent with a small meningioma.",
+            "changes_over_time": "MRI results showed no changes from the later examination at the time of admission."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "27.8 (Normal range: 36.0–46.0)",
+                "Hemoglobin (g/dl)": "9.7 (Normal range: 12.0–16.0)",
+                "White‑cell count (per mm3)": "10,300 (Normal range: 4500–11,000)",
+                "Neutrophils (%)": "89.0 (Normal range: 40–70)",
+                "Band forms (%)": "3.0 (Normal range: 0–10)",
+                "Lymphocytes (%)": "7.0 (Normal range: 22–44)",
+                "Monocytes (%)": "1.0 (Normal range: 4–11)",
+                "Mean corpuscular volume (μm3)": "76 (Normal range: 80–100)",
+                "Erythrocyte count (per mm3)": "3,680,000 (Normal range: 4,000,000–5,200,000)",
+                "Smear description": "Microcytosis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Prothrombin time (sec)": "15.1 (Normal range: 11.0–14.0)",
+                "Potassium (mmol/liter)": "3.1 (Normal range: 3.4–4.8)",
+                "Creatinine (mg/dl)": "0.51 (Normal range: 0.60–1.50)",
+                "Albumin (g/dl)": "3.1 (Normal range: 3.3–5.0)",
+                "Alkaline phosphatase (U/liter)": "332 (Normal range: 30–100)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": {
+                "Blood Cultures": "Six of six blood cultures grew gram-positive cocci in clusters"
+            },
+            "changes_over_time": "Nine of 10 blood cultures drawn over a 48-hour period grew S. aureus"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Specific gravity": "1.020",
+                "pH": "6.0",
+                "Ketones": "Trace",
+                "Albumin": "Trace",
+                "Urobilinogen": "2+",
+                "Bilirubin": "1+"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

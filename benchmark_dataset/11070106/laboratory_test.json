@@ -1,0 +1,69 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "31 months before admission",
+            "findings": {
+                "Thyrotropin (µU/ml)": "0.20",
+                "Total Thyroxine (µg/dl)": "7.5"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemical values",
+            "date": "6 years before admission",
+            "findings": {
+                "Total cholesterol (mg/dL)": 294,
+                "HDL (mg/dL)": 58,
+                "LDL (mg/dL)": 210,
+                "Triglycerides (mg/dL)": 128,
+                "Glucose (mg/dL)": "Normal 72–166",
+                "Aspartate aminotransferase (U/liter)": 51,
+                "Sodium (mmol/liter)": 129,
+                "Potassium (mmol/liter)": 4.2,
+                "Chloride (mmol/liter)": 93,
+                "Carbon dioxide (mmol/liter)": 29,
+                "Osmolality (mOsm/kg of water)": 264
+            },
+            "changes_over_time": "Hyperlipidemia; specific values changed over time."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Six months before admission",
+            "findings": {
+                "Result": "No organisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Six months before admission",
+            "findings": {
+                "Appearance of fluid": "Clear, colorless",
+                "Cells (per mm³)": 3,
+                "Glucose (mg/dL)": 59,
+                "Total protein (mg/dL)": 50,
+                "Culture": "No microorganisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cosyntropin stimulation test",
+            "date": "Three months before admission",
+            "findings": {
+                "Cortisol (mg/dL) in fasting state": 8.9,
+                "Cortisol (mg/dL) 60 min after IV injection": 24.8
+            },
+            "changes_over_time": "Normal adrenal reserve before corticosteroids; loss of reserve suspected later."
+        },
+        {
+            "procedure_name": "MRI of the pituitary gland",
+            "date": "One month before admission",
+            "findings": {
+                "Mass dimensions": "13 mm x 16 mm x 12 mm",
+                "Enhancement": "Enhanced with contrast material, slightly heterogeneous"
+            },
+            "changes_over_time": "Mass enlarged from previous evaluation."
+        }
+    ]
+}

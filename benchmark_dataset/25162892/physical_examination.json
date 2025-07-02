@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "blood_pressure": "116/55 mmHg",
+                "pulse": "120 bpm",
+                "respiratory_rate": "50 breaths/minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "neurology": "Pupils were equal, reactive to light; decreased visual fixation; failure to track; decreased truncal control; axial hypotonia; normal tone in arms/legs.",
+                "physical": "Microcephaly, no dysmorphic features, brisk patellar reflex (3+), sustained clonus at left ankle.",
+                "lung": "Lungs were clear."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "First hospital day",
+            "vital_signs": {
+                "temperature": "35.3°C",
+                "blood_pressure": "98/50 mmHg",
+                "pulse": "75 to 130 bpm",
+                "respiratory_rate": "50 breaths/minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "neurology": "Two episodes of respiratory distress and cyanosis, similar to previously reported episodes.",
+                "physical": "Head bobbing, perioral cyanosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

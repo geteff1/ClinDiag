@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "158/120 mm Hg",
+                "heart_rate": "115 bpm",
+                "oxygen_saturation": "98%",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Jugular veins distended to 10 cm above the right atrium while lying in a mildly inclined position",
+                    "Heart sounds distant, without murmur, rub, or gallop",
+                    "Cervical and supraclavicular lymphadenopathy",
+                    "Swollen left proximal interphalangeal joint",
+                    "Leg edema to the knees",
+                    "Violaceous macule (1 cm by 1 cm) on the left inner thigh",
+                    "No cyanosis or clubbing"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "201/147 mm Hg",
+                "heart_rate": "110 bpm",
+                "oxygen_saturation": "99%",
+                "temperature": "37.8°C",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Complete blood count showing red-cell distribution width of 18.1%",
+                    "2+ anisocytosis and hypochromasia on peripheral-blood smear",
+                    "Urinalysis revealed 2+ blood and trace protein by dipstick"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

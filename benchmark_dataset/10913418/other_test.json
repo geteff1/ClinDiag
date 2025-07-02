@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF examination",
+            "date": "Not specified",
+            "findings": "Tuberculous meningoencephalitis diagnosed based on CSF findings; cultures negative for mycobacteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "arthrocentesis",
+            "date": "Not specified",
+            "findings": "Cultures of inflammatory joint fluid were negative for bacteria and fungi; WBC count <10,000 cells/mL.",
+            "changes_over_time": "Symptoms at the right knee worsened after 2 weeks of therapy, and articular pain and local swelling at the left knee were observed."
+        },
+        {
+            "procedure_name": "open-field biopsy",
+            "date": "Not specified",
+            "findings": "Necrotizing granulomatous process with acid-fast bacilli detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Granulomatous giant-cell necrotizing disease.",
+            "changes_over_time": "Control bone marrow biopsy revealed remission of granulomatous features after 5 months of therapy."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Altered signal areas with peripheral enhancement indicative of a colliquative abscess of the left knee.",
+            "changes_over_time": "After initial improvement, the patient developed fever again and a new abscess was cultured."
+        }
+    ]
+}

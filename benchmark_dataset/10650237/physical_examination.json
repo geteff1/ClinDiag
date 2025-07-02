@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/110 mm Hg",
+                "pulse_rate": "85 beats/min",
+                "respiration_rate": "18 breaths/min",
+                "temperature": "37.1°C (98.8°F)"
+            },
+            "relevant_findings": "Obesity, scattered rales at both bases. Regular cardiac rhythm with no murmurs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "80/30 mm Hg",
+                "pulse_rate": "130 beats/min"
+            },
+            "relevant_findings": "Severe angioedema, markedly edematous tongue, generalized erythematous hue, and acute stridor. Auscultation revealed diffuse rhonchi.",
+            "changes_over_time": "Developed from baseline normal findings to severe angioedema and stridor, necessitating cricothyrotomy."
+        }
+    ]
+}

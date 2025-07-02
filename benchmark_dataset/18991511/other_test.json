@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "WBC count of 331 cells/mL (76% lymphocytes), protein level of 119 mg/dL, and normal glucose level.",
+            "changes_over_time": "Two weeks later, a lumbar puncture revealed WBC count of 127 cells/mL (87% lymphocytes), RBC count of 3355 cells/mL, protein level of 92 mg/dL, and glucose level of 36 mg/dL."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Hospital day 14",
+            "findings": "Bifrontal epileptiform discharges and an evolving run of stimulus-induced seizures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Hospital day 40",
+            "findings": "Increase in glucose level to 47 mg/dL, decrease in pleocytosis (WBC count, 6 cells/mL), and decrease in HHV-6 load to 4400 copies/mL by PCR.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

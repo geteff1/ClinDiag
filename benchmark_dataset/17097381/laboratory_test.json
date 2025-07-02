@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum 25-hydroxycholecalciferol",
+            "date": "Not specified",
+            "findings": "Low serum levels.",
+            "changes_over_time": "Serum 25-(OH)-D was normalized within 3 weeks after oral substitution with vitamin D (5000 IU/d) and calcium (1000 mg/d)."
+        },
+        {
+            "procedure_name": "Serum parameters",
+            "date": "Not specified",
+            "findings": "1, 25-dihydroxycholecalciferol, parathyroid hormone, calcium, phosphate were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine parameters",
+            "date": "Not specified",
+            "findings": "Calcium and phosphate were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiographic examination of the skeleton",
+            "date": "Not specified",
+            "findings": "Severe generalized osteopenia, deformities and marginal erosions of the metatarsal/metacarpal bones and phalanges, and big cystic lesions of both tibiae.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tc 99m bone scan",
+            "date": "Not specified",
+            "findings": "Demonstrated generalized osteopathia with pseudofractures of the ribs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging of the skull",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

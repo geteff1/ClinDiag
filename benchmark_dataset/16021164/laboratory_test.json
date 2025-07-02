@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "3.1 g/dL, indicating severe anemia",
+            "changes_over_time": "Previous hemoglobin was 5.7 g/dL during a hospitalization 7 months prior, indicating worsening anemia."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "10.7%, indicating severe anemia",
+            "changes_over_time": "Previous hematocrit was 18.9% during a hospitalization 7 months prior, indicating worsening anemia."
+        },
+        {
+            "procedure_name": "Peripheral blood smear",
+            "date": "Not specified",
+            "findings": "Microcytic, hypochromic red blood cells",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Iron studies",
+            "date": "Not specified",
+            "findings": "Consistent with iron deficiency anemia",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

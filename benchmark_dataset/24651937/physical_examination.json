@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Heart rate dropped from approximately 60 bpm to approximately 30 bpm; Systolic blood pressure measurements in the 70s to 80s",
+            "relevant_findings": "Transient episodes of bradycardia and hypotension following second preoperative embolization.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Asystole during surgery; regained pulse and measurable blood pressure after resuscitation",
+            "relevant_findings": "Severe hemodynamic instability requiring resuscitation during surgery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Stable vital signs following administration of low-dose dobutamine hydrochloride",
+            "relevant_findings": "No signs of cardiac ischemia during ICU monitoring.",
+            "changes_over_time": "Improvement in stability after low-dose dobutamine was administered"
+        },
+        {
+            "date": "Postoperative day 1",
+            "vital_signs": "No bradycardia; normal heart rate maintained without pacing",
+            "relevant_findings": "No postoperative cranial nerve deficits.",
+            "changes_over_time": "Resolved cranial nerve deficits postoperatively; pacer wires removed without complication."
+        }
+    ]
+}

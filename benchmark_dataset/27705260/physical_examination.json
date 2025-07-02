@@ -1,0 +1,63 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2016",
+            "vital_signs": {
+                "blood_pressure": "120/70 mmHg",
+                "pulse": "72 bpm",
+                "temperature": "38.9°C"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "No abdominal tenderness",
+                "hematocrit": "38%",
+                "white_cell_count": "Normal",
+                "platelet_count": "Normal",
+                "ESR": "68 mm/h"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "September 2016",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "weight_loss": "Approximately 2 kg"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Mild tenderness in the right upper quadrant",
+                "hematocrit": "34%",
+                "white_cell_count": "Normal",
+                "platelet_count": "Normal",
+                "ESR": "104 mm/h"
+            },
+            "changes_over_time": "Significant worsening of anemia and increased ESR compared to initial examination."
+        },
+        {
+            "date": "3 months after initial presentation",
+            "vital_signs": {
+                "blood_pressure": "100/70 mmHg",
+                "hematocrit": "27%",
+                "ESR": ">120 mm/h"
+            },
+            "relevant_findings": {
+                "conjunctival_pallor": "Present",
+                "white_cell_count": "Normal",
+                "platelet_count": "455,000/mm³",
+                "alkaline_phosphatase": "354 U/L",
+                "alanine_aminotransferase": "71 U/L",
+                "aspartate_aminotransferase": "57 U/L",
+                "ferritin": "828 µg/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-surgery",
+            "vital_signs": {
+                "hematocrit": "Normal"
+            },
+            "relevant_findings": {
+                "blood_tests": "Normal immediately after surgery"
+            },
+            "changes_over_time": "Resolution of fever after surgery."
+        }
+    ]
+}

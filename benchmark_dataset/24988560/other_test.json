@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "lumbar puncture",
+            "date": "Not specified",
+            "findings": "Clear cerebrospinal fluid (CSF) with a white-cell count of 20 per cubic millimeter (85% neutrophils, 6% lymphocytes, and 9% monocytes), a red-cell count of 16 per cubic millimeter, a glucose level of 68 mg per deciliter, and a protein level of 44 mg per deciliter.",
+            "changes_over_time": "A repeat lumbar puncture showed clear CSF with a white-cell count of 17 per cubic millimeter (70% lymphocytes), a red-cell count of 303 per cubic millimeter, a glucose level of 60 mg per deciliter, and a protein level of 102 mg per deciliter, indicating a shift from neutrophilic predominance to lymphocytic predominance."
+        },
+        {
+            "procedure_name": "brain biopsy",
+            "date": "day 16",
+            "findings": "Lymphocytic inflammatory process and the presence of HSV-infected cells on immunohistochemical staining; no evidence of cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Findings consistent with diffuse encephalopathy without focal or epileptiform features.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

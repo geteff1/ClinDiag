@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0°C",
+                "blood_pressure": "102/68 mm Hg",
+                "pulse": "135 bpm",
+                "respiratory_rate": "16 to 30 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "oropharynx": "clear, without erythema or focal lesions",
+                "neck": "supple",
+                "tracheostomy_site": "clean and dry, with an underlying small cavity",
+                "lymphadenopathy": {
+                    "right_anterior_cervical_chain": "nodes measuring up to 1 cm",
+                    "right_axillary": "mildly tender node approximately 1 cm"
+                },
+                "breath_sounds": {
+                    "left": "normal",
+                    "right": "diminished"
+                },
+                "chest_wall": {
+                    "description": "bulging area (4 cm by 7 cm) on right lateral chest wall",
+                    "tenderness": "tender on palpation",
+                    "skin_changes": "no fluctuance or overlying skin changes"
+                },
+                "abdominal_examination": {
+                    "right_upper_quadrant": "diffusely tender"
+                },
+                "remainder_of_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

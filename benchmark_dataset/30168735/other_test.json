@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "High ICP (38 mm Hg)",
+            "changes_over_time": "Another lumbar puncture revealed very high ICP (29 mm Hg) four months later."
+        },
+        {
+            "procedure_name": "Neurovent-P-tel sensor implantation",
+            "date": "Not specified",
+            "findings": "Initially monitored for 11 months; showed good correlation and reliability during long-term monitoring with minimal zero drift after 11 months.",
+            "changes_over_time": "After bariatric surgery, normal ICP values were recorded, and the patient’s visual fields improved."
+        },
+        {
+            "procedure_name": "Codman Microsensor ICP transducer implantation",
+            "date": "Not specified",
+            "findings": "ICP measurements confirmed that both sensors showed reliable data.",
+            "changes_over_time": "A correlation was observed between the recordings, with changes when Valsalva maneuvers were performed."
+        }
+    ]
+}

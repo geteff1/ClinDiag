@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "20,793 U per liter (elevated)",
+            "changes_over_time": "Creatine kinase level normalized after 2 months of IVIG treatment."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "360 U/liter (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "813 U/liter (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide",
+            "date": "Not specified",
+            "findings": "2091 pg/ml (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autoantibodies to HMGCR",
+            "date": "Not specified",
+            "findings": "More than 200 IU per milliliter (elevated)",
+            "changes_over_time": "Level of autoantibodies to HMGCR has markedly declined after treatment."
+        },
+        {
+            "procedure_name": "Electrodiagnostic Studies",
+            "date": "Not specified",
+            "findings": "Abnormal spontaneous activity, motor-unit potentials with reduced amplitude and polyphasia",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

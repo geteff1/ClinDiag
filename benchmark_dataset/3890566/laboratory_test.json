@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Pressure Measurement",
+            "date": "Not specified",
+            "findings": "Initial blood pressure was 150/80 mmHg after starting captopril. Subsequently recorded as 160/100 mmHg upon readmission.",
+            "changes_over_time": "Blood pressure control remained good after treatment with captopril; however, blood pressure increased to 160/100 mmHg during re-evaluation due to fever and depressive symptoms."
+        },
+        {
+            "procedure_name": "Oral Temperature Measurement",
+            "date": "Not specified",
+            "findings": "Oral temperature on admission was 101.3°F.",
+            "changes_over_time": "Fever persisted until the fifth hospital day; normalized after captopril discontinuation and treatment with nadolol and methyclothiazide."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "143/80 mmHg",
+                "pulse_rate": "80/min",
+                "body_temperature": "38.8°C",
+                "respiratory_rate": "40/min",
+                "oxygen_saturation": "88%"
+            },
+            "relevant_findings": "Confirmed diagnosis of COVID-19 with consolidations in both lungs on radiology assessment.",
+            "changes_over_time": "The patient deteriorated to respiratory insufficiency and required transfer to the Intensive Care Unit (ICU) for mechanical ventilation."
+        },
+        {
+            "date": "Day 16 after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ALT": "1305 IU/L",
+                "AST": "1461 U/L",
+                "alkaline_phosphatase": "269 U/L",
+                "total_bilirubin": "8 µmol/L",
+                "gamma_glutamyltransferase": "227 U/L",
+                "creatine_kinase": "103 U/L"
+            },
+            "changes_over_time": "There was a rapid decrease in ALT and AST values following the discontinuation of remdesivir, resulting in normalization of liver enzyme levels."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was discharged to a rehabilitation center and was able to restart normal daily activities.",
+            "changes_over_time": "The patient improved overall, returning home two weeks after rehabilitation."
+        }
+    ]
+}

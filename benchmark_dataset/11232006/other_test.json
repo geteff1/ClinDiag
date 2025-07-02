@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "Severe thyroid hypoplasia with cystic thyroid rudiments.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "blood test",
+            "date": "Day 32",
+            "findings": "TSH level was still above 100 mU/L, with very low free T4 [2.8 pmol/L; normal value (N), 10–23] and free T3 (1.5 pmol/L; N, 3.4–7.5); thyroglobulin was at 2.8 mg/L (N, <25).",
+            "changes_over_time": "TSH level decreased from about 200 mU/mL at diagnosis to above 100 mU/L."
+        }
+    ]
+}

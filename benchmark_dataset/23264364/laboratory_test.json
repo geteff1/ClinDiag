@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "February 2008",
+            "findings": "ALT 529 U/L, AST 306 U/L, Total Bilirubin normal",
+            "changes_over_time": "Three months later, ALT 331 U/L, AST 540 U/L, Total Bilirubin 4.3 mg/dL; elevated levels continued with HCV load of 6,144,372 IU/mL"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified (8 months after primary HCV infection)",
+            "findings": "Stage 3 fibrosis",
+            "changes_over_time": "None specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified (17 months after onset of primary HCV infection)",
+            "findings": "Albumin 1.8 g/dL, Total Bilirubin 11.6 mg/dL, INR 3.5, Platelet count 85,000 cells/μL, MELD score 30",
+            "changes_over_time": "MELD score rose to 34 over the following months before liver transplant"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "January 2006",
+            "findings": "ALT 436 U/mL, AST 220 U/mL, Total Bilirubin normal, HCV load 26,600,000 IU/mL",
+            "changes_over_time": "Four months post-primary HCV infection, ALT peaked at 622 U/L, AST 343 U/L, then remained in 200–300 U/L range"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "4 months after primary HCV infection",
+            "findings": "Grade 2 inflammation, stage 2 fibrosis, grade 2 steatohepatitis",
+            "changes_over_time": "None specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified (19 months after primary HCV infection)",
+            "findings": "Mild to moderate hepatosplenomegaly",
+            "changes_over_time": "10 months later, presented with ascites and esophageal varices; died 2 months after"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "August 2004",
+            "findings": "ALT 114 U/L, AST 78 U/L, normal Total Bilirubin, HCV load 10,700,000 IU/mL",
+            "changes_over_time": "HCV serology was positive 28 months later; decompensated liver disease developed over the next 40 months"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified (40 months after primary HCV infection)",
+            "findings": "Grade 4 inflammation, stage 3 fibrosis",
+            "changes_over_time": "None specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "June 2002",
+            "findings": "AST 332 IU/L, ALT 367 IU/L, normal Total Bilirubin",
+            "changes_over_time": "4 weeks later, HCV load 2410 IU/mL; 3 weeks later, HCV Ab positive and load >500,000 IU/mL"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "3.5 years after primary HCV infection",
+            "findings": "Grade 2 inflammation, stage 3 fibrosis, grade 1 steatohepatitis",
+            "changes_over_time": "Repeat biopsy 1 year later showed grade 3 inflammation, stage 4 fibrosis"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Day 1",
+            "vital_signs": {
+                "heart_rate": "130 to 160 bpm",
+                "blood_pressure": "90/50 mm Hg",
+                "body_temperature": "36.9°C"
+            },
+            "relevant_findings": "Standard ECG shows sinus rhythm with normal atrioventricular and intraventricular conduction, no QTc prolongation.",
+            "changes_over_time": "On day 5, ECG showed marked QTc prolongation of 600 ms."
+        },
+        {
+            "date": "Day 5",
+            "vital_signs": {
+                "heart_rate": "107 bpm (after b-blocker therapy)"
+            },
+            "relevant_findings": "Marked QTc prolongation of 600 ms on ECG with delayed T-waves.",
+            "changes_over_time": "Heart rate decreased from 127 bpm on day 1 to 107 bpm on day 5 under b-blocker therapy."
+        },
+        {
+            "date": "Week 7",
+            "vital_signs": {
+                "minimal_heart_rate": "80 bpm"
+            },
+            "relevant_findings": "The infant remained asymptomatic in stable sinus rhythm.",
+            "changes_over_time": "The tachycardia did not reappear, and the infant was discharged."
+        },
+        {
+            "date": "Week 9",
+            "vital_signs": {
+                "heart_rate": "60 bpm (recurrent bradycardias documented)"
+            },
+            "relevant_findings": "Fatal tachyarrhythmia recorded by home monitor.",
+            "changes_over_time": "Progression to lethal tachyarrhythmia that was not present previously."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "[123I]MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "All 6 patients were negative on screening with [123I]MIBG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "[111In]pentetreotide scintigraphy",
+            "date": "Not specified",
+            "findings": "3 of 4 patients showed positive uptake; revealed increased uptake in the left orbit, lungs, and left hilar region for patient 1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "CT scanning of the abdomen confirmed multiple hepatic deposits for patient 2.",
+            "changes_over_time": "Subsequent follow-up revealed abdominal lymph node and skeletal involvement for patient 2."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "MRI revealed a left orbital mass for patient 1; confirmed bilateral choroidal lesions for patient 6.",
+            "changes_over_time": "Repeated subsequent clinical examination after treatment revealed inactive choroidal lesions for patient 3."
+        },
+        {
+            "procedure_name": "Scintigraphy with [111In]-pentetreotide",
+            "date": "Not specified",
+            "findings": "Positive uptake in the right orbit, liver, abdomen, and throughout the skeleton for patient 5.",
+            "changes_over_time": "Treatment led to regression of the choroidal metastasis and clinical improvement lasting 3 years."
+        }
+    ]
+}

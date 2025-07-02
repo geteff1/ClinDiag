@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "At age 5.5 years",
+            "findings": "TSH levels low (≤0.1 mU/liter; normal range 0.3–5.0).",
+            "changes_over_time": "TSH levels remained low across subsequent measurements."
+        },
+        {
+            "procedure_name": "Free T4 (FT4)",
+            "date": "At age 5.5 years",
+            "findings": "FT4 1.85 ng/dl (normal range 0.9–1.8).",
+            "changes_over_time": "FT4 peaked at 1.88 ng/dl at age 11.5 years."
+        },
+        {
+            "procedure_name": "Free T3 (FT3)",
+            "date": "At age 5.5 years",
+            "findings": "FT3 6.36 ng/liter (normal range 2.7–5.2).",
+            "changes_over_time": "FT3 remained elevated, showing variation in subsequent measurements."
+        },
+        {
+            "procedure_name": "Thyroid Volume",
+            "date": "At age 5.5 years",
+            "findings": "Thyroid volume 2.1 ml (normal range 15.9 ml).",
+            "changes_over_time": "Thyroid volume remained stable at normal size through age 11."
+        }
+    ]
+}

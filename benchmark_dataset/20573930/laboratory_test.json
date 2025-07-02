@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Carcinoembryonic Antigen",
+            "date": "Not specified",
+            "findings": "10.2 ng per milliliter (reference range, 0.0 to 2.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microsatellite Instability Analysis",
+            "date": "Not specified",
+            "findings": "No microsatellite instability detected; loss of heterozygosity of p53 and APC genes detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "KRAS Sequence Analysis",
+            "date": "Not specified",
+            "findings": "No mutations identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic and Positron-Emission Tomographic Scans",
+            "date": "One week before current evaluation",
+            "findings": "Focus of intense tracer uptake in the cecal region; multiple small omental soft-tissue nodules without 18F-FDG avidity; small volume of ascites in pelvis; several small low-level tracer uptake pulmonary nodules.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological Examination of Biopsy Specimens",
+            "date": "Not specified",
+            "findings": "Moderately differentiated, invasive adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

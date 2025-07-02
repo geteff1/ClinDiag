@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT coronary angiography",
+            "date": "Not specified",
+            "findings": "Identified a pulmonary arteriovenous malformation (PAVM) within the lingula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Confirmed normal left ventricular and valvular function; prominent bubbles in the left heart chambers five beats after their first appearance in the right atrium, consistent with fast pulmonary transit time due to extracardiac shunting through the PAVM.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "QP:QS shunt ratio of 9.5%; at room air, pH 7.41, pO2 83 mm Hg, pCO2 36 mm Hg; at FiO2 100%, pH 7.43, pO2 526 mm Hg, pCO2 36 mm Hg.",
+            "changes_over_time": "Post-procedure analysis showed no residual right-to-left shunt."
+        },
+        {
+            "procedure_name": "Pulmonary angiography",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a pulmonary arteriovenous fistula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Showed a structurally normal heart and no evidence of an underlying infiltrative disorder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

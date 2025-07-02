@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Three-Phase Bone Scintigraphy",
+            "date": "Not specified",
+            "findings": "Significantly increased blood-flow, blood-pool, and delayed-phase radioactivity over both feet.",
+            "changes_over_time": "Follow-up scan showed less radiotracer uptake consistent with a good response to calcitonin therapy."
+        },
+        {
+            "procedure_name": "Follow-Up Three-Phase Bone Scintigraphy",
+            "date": "Not specified",
+            "findings": "Less diffuse radioactivity over the feet compared to the initial study.",
+            "changes_over_time": "Bone-to-soft tissue ratios improved from 12.6 to 6.6 after calcitonin therapy."
+        },
+        {
+            "procedure_name": "Electromyogram",
+            "date": "Not specified",
+            "findings": "No resting potential, giant potentials, or an increase of polyphasic wave in the legs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve Conduction Velocity Study",
+            "date": "Not specified",
+            "findings": "Prolonged distal latencies and conduction velocity in both tibial, peroneal, and sural nerves.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

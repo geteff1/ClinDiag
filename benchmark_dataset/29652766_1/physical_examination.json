@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hemoglobin": "Not specified",
+                "hematocrit": "Not specified",
+                "platelets": "Not specified",
+                "ESR": "57 mm/hr",
+                "leukocyte_count": "Normal",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "initial_examination": "Significant left facial asymmetry, pain on mastication, limitation of incisor opening, no localized mass.",
+                "diagnostic_imaging": "CT scan showed an expanding, ground glass lesion in the left mandible."
+            },
+            "changes_over_time": "Initially improved with indomethacin; however, condition worsened with diarrhea, abdominal pain, and weight loss two years later."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hemoglobin": "Severely anemic",
+                "ESR": "Elevated",
+                "calprotectin": "Elevated",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "initial_examination": "Right mandible swelling, induration, and tenderness.",
+                "diagnostic_imaging": "CT scan showed a ground-glass lesion in the right mandible."
+            },
+            "changes_over_time": "CT scans showed marked improvement in the size of the mandibular lesion during treatment with antibiotics and NSAIDs."
+        }
+    ]
+}

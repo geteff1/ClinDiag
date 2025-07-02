@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.1°C",
+                "blood_pressure": "178/96 mm Hg",
+                "pulse": "114 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "upper_eyelids": "prominent",
+                "lacrimal_glands": "swollen bilaterally",
+                "temporal_arteries": "swollen, indurated, and nodular bilaterally, strong pulses and no tenderness",
+                "sublingual_glands": "hypertrophic bilaterally",
+                "lymph_node": "nontender, measuring 1 cm in greatest dimension in the posterior cervical chain",
+                "abdominal_examination": "mild tenderness in the left lower quadrant and a palpable spleen tip",
+                "joint_examination": "warm synovial effusions in right knee and left ankle, left ankle tender",
+                "purpura": "palpable and nonpalpable on both legs"
+            },
+            "changes_over_time": "Weight decreased from 122.5 kg to 87.5 kg, abdominal pain decreased after treatment with prednisone."
+        }
+    ]
+}

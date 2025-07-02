@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Hormone (GH) Level",
+            "date": "Not specified",
+            "findings": "GH of 10.70 ng/ml (normal is <5 ng/ml)",
+            "changes_over_time": "Normalized to 0.9 ng/ml three months after TSS."
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor 1 (IGF-I) Level",
+            "date": "Not specified",
+            "findings": "IGF-I of 492 ng/ml (normal is 109-284 ng/ml)",
+            "changes_over_time": "Increased to 774 ng/ml before TSS; then normalized to 126 ng/ml three months after TSS."
+        },
+        {
+            "procedure_name": "Plasma Norepinephrine",
+            "date": "Not specified",
+            "findings": "Norepinephrine was 847 pg/ml (normal is 120-350 pg/ml)",
+            "changes_over_time": "Decreased to 465 pg/ml ten months later before TSS; further decreased to 454 pg/ml three months after TSS."
+        },
+        {
+            "procedure_name": "Urine Normetanephrine",
+            "date": "Not specified",
+            "findings": "Urine normetanephrine was 3506 µg/24h (normal is <1500 µg/24h)",
+            "changes_over_time": "Decreased to 2220 µg/24h ten months later before TSS; further decreased to 727 µg/24h three months after TSS."
+        },
+        {
+            "procedure_name": "Plasma Metanephrine",
+            "date": "Not specified",
+            "findings": "Metanephrine was less than 29 µg/24h",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma Chromogranin A",
+            "date": "Not specified",
+            "findings": "Chromogranin A was 1087 ng/ml (normal is <198 ng/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glucose Level",
+            "date": "Not specified",
+            "findings": "Impaired fasting glucose according to standard criteria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": "Cholesterol at 225 mg/dl (normal is 130-200 mg/dl), HDL at 77 mg/dl (normal is >55 mg/dl), LDL at 135 mg/dl (normal is <165 mg/dl).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

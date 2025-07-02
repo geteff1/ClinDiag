@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "watershed infarction in the left parietal lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MR angiography",
+            "date": "Not specified",
+            "findings": "pearl-and-string appearance of the left CCA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aortography",
+            "date": "Not specified",
+            "findings": "dissection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up angiography",
+            "date": "1 month after the event",
+            "findings": "aggravation of the dissecting aneurysm, severe stenosis of the left CCA of more than 90%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "123I-IMP SPECT study",
+            "date": "1 month after the event",
+            "findings": "decrease in CBF beyond the infarction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "123I-IMP SPECT study",
+            "date": "9 days post-treatment",
+            "findings": "improvement in the CBF in the left temporal lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up echogram",
+            "date": "3 months post-treatment",
+            "findings": "good blood flow with no stenosis of the artery, and the aneurysm had disappeared",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MR angiography",
+            "date": "6 months post-treatment",
+            "findings": "artifacts at the proximal and distal ends of the stent in the left CCA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digital subtraction angiography",
+            "date": "7 months after stent placement",
+            "findings": "good blood flow through the left CCA, with no dissecting aneurysm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

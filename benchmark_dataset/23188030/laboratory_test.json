@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "2006",
+            "findings": "Initially elevated to 1.3 mg/dL, later increased to 1.5 mg/dL but stabilized at 1.3 mg/dL.",
+            "changes_over_time": "Increased from 1.3 mg/dL to 1.5 mg/dL and then stabilized back to 1.3 mg/dL."
+        },
+        {
+            "procedure_name": "Uric Acid Levels",
+            "date": "Not specified",
+            "findings": "Ranges between 6 and 7 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin-Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "442 mg/g (normal range 130 mg/g).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Low-Density Lipoprotein Cholesterol",
+            "date": "Not specified",
+            "findings": "172 mg/dL (ideal range <129 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "Not specified",
+            "findings": "Normal hemoglobin A1c levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "2007",
+            "findings": "Levels above 500 mg/dL.",
+            "changes_over_time": "Symptoms and abnormal test results resolved rapidly with metformin therapy."
+        }
+    ]
+}

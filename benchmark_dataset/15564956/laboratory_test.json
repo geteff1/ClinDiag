@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "Baseline platelet count at the time of first delivery was 20,000 giga/l; current platelet count at consultation was 46,000 giga/l; on day of delivery initial platelet count was 36,000 giga/l; repeat platelet count after transfusion was 30,000 giga/l; intraoperative count was 10,000 giga/l; serial counts showed progressive increases: 20,000 giga/l to 31,000 giga/l at 24 h, 42,000 giga/l at 48 h, and 53,000 giga/l at discharge.",
+            "changes_over_time": "Platelet count showed a decrease from 46,000 to 36,000, then to 30,000, further reduced to 10,000 intraoperatively, followed by increases post-delivery."
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "INR was 1.0 at consultation and 1.02 before the second surgery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "vWF Ristocetin Cofactor Activity (vWF:RCo)",
+            "date": "Not specified",
+            "findings": "vWF:RCo activity at the time of hospital discharge was 454%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Factor VIII Concentration",
+            "date": "Not specified",
+            "findings": "Factor VIII concentration at discharge was 258%.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

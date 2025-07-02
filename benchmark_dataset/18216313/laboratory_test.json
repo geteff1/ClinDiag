@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Proteinuria assessment",
+            "date": "Not specified",
+            "findings": "24 g/d proteinuria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin test",
+            "date": "Not specified",
+            "findings": "Albumin 23 g/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatinine test",
+            "date": "At presentation",
+            "findings": "Serum creatinine 1.1 mg/dL",
+            "changes_over_time": "Remained normal throughout with a current serum creatinine of 1.1 mg/dL after 10 years."
+        },
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "13 glomeruli with one globally sclerosed; subtle changes at light microscopy, mild increase in mesangial cellularity and matrix, focal thickening of capillary walls; negative for IgG, IgA, IgM, C3, and C1q; electron microscopy showed widespread mesangial expansion by fibrillar collagen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gene sequencing",
+            "date": "Not specified",
+            "findings": "Demonstrated a frameshift type 2 mutation 238 del A in EXT1 gene",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

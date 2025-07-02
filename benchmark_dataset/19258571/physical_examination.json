@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "146/74 mm Hg (right arm), 144/72 mm Hg (left arm)",
+                "heart_rate": "64/min",
+                "respiratory_rate": "10/min",
+                "weight": "210 lb",
+                "height": "72 in"
+            },
+            "relevant_findings": {
+                "general_condition": "Mr R looked well.",
+                "cardiac_examination": "Grade 2/6 holosystolic murmur at the base, accentuated with Valsalva maneuver, no heave, rub, or gallop.",
+                "abdominal_examination": "No organomegaly, bruits, or hepatojugular reflux.",
+                "peripheral_examination": "No peripheral edema or neurological abnormalities.",
+                "visual_examination": "Eyegrounds were unremarkable.",
+                "lung_examination": "Lungs clear.",
+                "carotid_examination": "Normal pulsations and no bruits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

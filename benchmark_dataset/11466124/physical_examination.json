@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "sinus tachycardia",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Patient experienced palpitations and chest discomfort. Medical evaluation including ECG that revealed sinus tachycardia.",
+            "changes_over_time": "Initially, patient had significant palpitations and symptoms that evolved to episodes every couple of weeks."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Ms. M reports being a frequent smoker, up to 1 pack per day, which she feels helps with her symptoms.",
+            "changes_over_time": "Ms. M indicated that her anxiety is now more manageable with symptoms being controlled occasionally with clonazepam."
+        }
+    ]
+}

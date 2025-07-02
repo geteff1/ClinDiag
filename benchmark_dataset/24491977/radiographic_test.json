@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Moderate hydrocephalus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "brain MRI",
+            "date": "On admission",
+            "findings": "Acute obstructive hydrocephalus with ventricular synechiae at the sylvian aqueduct and foramen of Magendie.",
+            "changes_over_time": "Three weeks later showed hydrocephalus improvement and lesser white matter signal abnormality. Synechiae had resolved and there was CSF flow void signal."
+        },
+        {
+            "procedure_name": "brain MRI",
+            "date": "Repeated MRI (three weeks later)",
+            "findings": "Hydrocephalus improvement and lesser white matter signal abnormality.",
+            "changes_over_time": "Progressive hydrocephalus improvement noted."
+        }
+    ]
+}

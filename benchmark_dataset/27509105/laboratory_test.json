@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "8 months before admission",
+            "findings": "35.9%",
+            "changes_over_time": "Decreased to 34.4% on admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "8 months before admission",
+            "findings": "12.2 g/dL",
+            "changes_over_time": "Decreased to 11.7 g/dL on admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "8 months before admission",
+            "findings": "7200 per mm3",
+            "changes_over_time": "Increased to 8200 per mm3 on admission."
+        },
+        {
+            "procedure_name": "Erythrocyte count",
+            "date": "8 months before admission",
+            "findings": "3,940,000 per mm3",
+            "changes_over_time": "Decreased to 3,770,000 per mm3 on admission."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "33 mm/hr",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "8 months before admission",
+            "findings": "141 mmol/L",
+            "changes_over_time": "Decreased to 139 mmol/L on admission."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "8 months before admission",
+            "findings": "3.8 mmol/L",
+            "changes_over_time": "Decreased to 3.8 mmol/L on admission."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "98 mmol/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "32.5 mmol/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma anion gap",
+            "date": "Not specified",
+            "findings": "9 mmol/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "8 months before admission",
+            "findings": "19 mg/dL",
+            "changes_over_time": "Increased to 49 mg/dL on admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "8 months before admission",
+            "findings": "1.50 mg/dL",
+            "changes_over_time": "Increased to 5.06 mg/dL on admission."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "8 months before admission",
+            "findings": "9.6 mg/dL",
+            "changes_over_time": "Increased to 15.0 mg/dL on admission."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "16.5 mg/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "pH",
+            "date": "8.75 hours after admission",
+            "findings": "7.47",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Partial pressure of carbon dioxide",
+            "date": "8.75 hours after admission",
+            "findings": "36 mm Hg",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Partial pressure of oxygen",
+            "date": "8.75 hours after admission",
+            "findings": "163 mm Hg",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

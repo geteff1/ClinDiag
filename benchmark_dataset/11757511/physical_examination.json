@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "pulse": "120 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "blood_pressure": "150/80 mmHg",
+                "oxygen_saturation": "93% (with supplemental oxygen at times as low as 70 mmHg)"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared comfortable but had mild respiratory distress that increased with exertion.",
+                "lung": "Conjunctivae injected, crackles over the lower third of both lungs, mild bilateral wheezes.",
+                "heart": "Grade 2 systolic murmur at the upper right sternal border.",
+                "abdomen": "Distended and tympanitic without organomegaly or tenderness.",
+                "other": "Large prostatic nodule on rectal examination, positive for occult blood in stool."
+            },
+            "changes_over_time": "Temperature was initially 38.9°C and 37.7°C during the hospital visit, with subsequent drops to 36.7°C and then afebrile status."
+        },
+        {
+            "date": "During hospital stay (second day)",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "creatine_kinase_level": "589 U/liter",
+                "MB_fraction": "20.7 ng/mm",
+                "MB_relative_index": "3.5%"
+            },
+            "relevant_findings": "Electrocardiogram showed atrial fibrillation at a ventricular rate of 100 bpm without ischemic changes.",
+            "changes_over_time": "No chest pain noted during this period despite elevated creatine kinase level; efibrile status established after this."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest radiograph revealed patchy interstitial and air-space opacities with small pleural effusions.",
+            "changes_over_time": "Improvements noted with subsequent imaging, showing a slightly improved atelectasis and similar pleural effusions."
+        }
+    ]
+}

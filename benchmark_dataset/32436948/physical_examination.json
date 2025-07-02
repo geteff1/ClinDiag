@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 19th",
+            "vital_signs": {
+                "heart_rate": "90 bpm",
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "thyroid": "Markedly painful, slightly tender, and enlarged",
+                "lab_results": {
+                    "FT4": "27.2 nmol/L (high)",
+                    "FT3": "8.7 pmol/L (high)",
+                    "TSH": "<0.04 mIU/L (undetectable)",
+                    "ESR": "90 mm/h (high)",
+                    "CRP": "6.9 mg/L (high)",
+                    "white_cell_count": "11,200 per L (high)"
+                }
+            },
+            "changes_over_time": "Thyroid function tests were normal one month earlier (February 21st). Following treatment with prednisone starting March 20th, neck pain and fever resolved within two days, and remaining symptoms improved within one week."
+        },
+        {
+            "date": "April 1st",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lab_results": {
+                    "FT4": "21.7 nmol/L (declined to upper normal range)",
+                    "TSH": "0.2 mIU/L (risen to almost normal level)",
+                    "ESR": "28 mm/h (slightly elevated)",
+                    "white_cell_count": "6,900 per L (normal)",
+                    "CRP": "1.2 mg/L (normal)"
+                }
+            },
+            "changes_over_time": "Marked improvement in thyroid function and inflammatory markers compared to March 19th."
+        },
+        {
+            "date": "April 27th",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "thyroid_function": "Normal thyroid functional tests and inflammatory markers.",
+                "symptoms": "Asymptomatic while taking prednisone 16 mg/d."
+            },
+            "changes_over_time": "Continued improvement and normalization of thyroid function and inflammatory markers since April 1st."
+        }
+    ]
+}

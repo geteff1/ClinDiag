@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Borrelia burgdorferi antibodies test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Negative at the first test and confirmed negative two days later."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Slight",
+                "red-cell count": "579 (normal: 0-5)",
+                "total nucleated-cell count": "9 (normal: 0-5)",
+                "neutrophils": "11% (normal: 0%)",
+                "lymphocytes": "76% (normal: 0-100%)",
+                "monocytes": "13% (normal: 0-100%)",
+                "protein": "61 g/dl (normal: 5-55)",
+                "glucose": "63 mg/dl (normal: 50-75)"
+            },
+            "changes_over_time": "Total nucleated-cell count increased to 73 on the subsequent analysis."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Follow-up MRI showed increased effacement and enlargement of ventricles suggestive of early obstructive hydrocephalus."
+        },
+        {
+            "procedure_name": "PCR assay for herpes simplex virus DNA",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tests for vectorborne agents of viral encephalitis",
+            "date": "Not specified",
+            "findings": {
+                "West Nile virus IgM": "Negative",
+                "West Nile virus IgG": "Negative",
+                "CSF PCR assay for West Nile virus RNA": "Negative",
+                "CSF tests for IgM antibodies to West Nile virus, St. Louis encephalitis virus, and eastern equine encephalitis virus": "Negative",
+                "CSF test for Powassan virus IgM": "Positive",
+                "Plaque reduction neutralization test for Powassan virus": "Positive at a titer of 1:4."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

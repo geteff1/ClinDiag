@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit was 34%; the remainder of the complete blood count was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antinuclear Antibodies (ANA)",
+            "date": "Not specified",
+            "findings": "Testing for antinuclear antibodies was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": "Level of d-dimer was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin Biopsy (Deep-Wedge Biopsy)",
+            "date": "7 months before first evaluation",
+            "findings": "Disclosed a superficial perivascular lymphocytic infiltrate, dermal edema, and increased cellularity in the reticular dermis.",
+            "changes_over_time": "Fourteen months later, examination revealed increased density of spindle-shaped fibroblasts and thickened collagen bundles."
+        }
+    ]
+}

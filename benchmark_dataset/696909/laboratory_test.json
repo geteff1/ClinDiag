@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "10.8 mg/dl (upper limit of normal 8.8-11.0 mg/dl)",
+            "changes_over_time": "3 years before admission: 9.7 mg/dl; 2 years before: 10.6 mg/dl; 1 year before: 11.3 mg/dl; at time of asterixis: 12.0 mg/dl; after discharge: 10.5 mg/dl."
+        },
+        {
+            "procedure_name": "Parathyroid hormone (PTH) level",
+            "date": "2 weeks after the 10th ECT",
+            "findings": "44 pEq/ml, elevated.",
+            "changes_over_time": "Repeat PTH level 1 month after discharge was 35 pEq/ml."
+        }
+    ]
+}

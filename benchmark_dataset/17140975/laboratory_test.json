@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "210 mg/dL (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen",
+            "date": "Not specified",
+            "findings": "50 mg/dL (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.4 mg/dL (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Forced expiratory volume in 1 second",
+            "date": "Not specified",
+            "findings": "20% of predicted value (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Forced vital capacity",
+            "date": "Not specified",
+            "findings": "86% of predicted value (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Forced expiratory volume in 1 second/forced vital capacity",
+            "date": "Not specified",
+            "findings": "70.3% of predicted value (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Diffusion capacity",
+            "date": "Not specified",
+            "findings": "84% of predicted value (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Resting oxygen saturation",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peak expiratory flow",
+            "date": "Not specified",
+            "findings": "22% of predicted value (low)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

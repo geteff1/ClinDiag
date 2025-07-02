@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "Marked decrease in immunoglobulins; no significant elevation in white blood cell count or C-reactive protein, indicating absence of inflammatory markers.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Hypoxemia with a PaO2 of 62.6 Torr under 6 L/min of oxygen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphocyte subset analysis",
+            "date": "Not specified",
+            "findings": "Normal ranges for CD3 and CD19 cell counts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopy and bronchoalveolar lavage",
+            "date": "Not specified",
+            "findings": "Increased lymphocyte count of 49% in bronchoalveolar lavage fluid; negative cultures for bacteria and fungi.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological diagnosis from transbronchial lung biopsies",
+            "date": "Not specified",
+            "findings": "Diverse inflammatory cell infiltration mainly composed of lymphocytes and granulomatous infiltration of macrophages; no necrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "11th day of illness",
+            "findings": "Significant improvement in the infiltrates and ground-glass opacities in both lungs.",
+            "changes_over_time": "Improvement was noted from initial CT findings of diffuse infiltrates and ground-glass opacities."
+        }
+    ]
+}

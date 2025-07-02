@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sweat Test",
+            "date": "Not specified",
+            "findings": "Diagnosis of cystic fibrosis due to elevated sweat chloride levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary Function Testing (PFT)",
+            "date": "Multiple occasions from 2000 to 2007",
+            "findings": "Forced expiratory volume in first second (FEV1) showed significant improvement post aggressive therapy.",
+            "changes_over_time": "Initial decline, improved after aggressive treatment in August 2003 and maintained benefit over next 7 years."
+        },
+        {
+            "procedure_name": "Intravenous Antibiotic Therapy",
+            "date": "August 2003",
+            "findings": "Improvement in symptoms and lung function after the first course.",
+            "changes_over_time": "Sustained improvements; patient reported feeling significantly better and remained stable over 3 years."
+        },
+        {
+            "procedure_name": "Airway Clearance and Mucolytic Therapy",
+            "date": "Not specified",
+            "findings": "Regular use reported as beneficial, with patient stating it has 'given him his life back'.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

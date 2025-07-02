@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "65 to 130 bpm",
+                "mean_art arterial_pressure": "55 to 120 mmHg",
+                "pulmonary_capillary_occlusion_pressure": "5 to 12 mmHg"
+            },
+            "relevant_findings": {
+                "orthostatic_intolerance_symptoms": [
+                    "postural tachycardia approaching 180 beats/min",
+                    "lability of arterial blood pressure when standing",
+                    "frequent syncope",
+                    "neck pain",
+                    "migraine-like headaches",
+                    "severe light-headedness",
+                    "visual impairment",
+                    "unstable gait"
+                ],
+                "mitral_valve_prolapse": "incidental finding",
+                "echocardiographic_findings": "normal left ventricular systolic function"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.7–37.5°C"
+            },
+            "relevant_findings": {
+                "heart_rate_control": "86–98 bpm",
+                "mean_art arterial_pressure_control": "75–90 mmHg"
+            },
+            "changes_over_time": "Improvement in heart rate and mean arterial pressure control during surgery"
+        }
+    ]
+}

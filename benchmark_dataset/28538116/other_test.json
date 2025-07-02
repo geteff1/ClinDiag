@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "21 months before current evaluation",
+            "findings": "The uterus measured 8.5 cm by 8.9 cm by 9.6 cm; a heterogeneous mass (6.4 cm by 7.8 cm by 8.4 cm) with areas of hypoechogenicity and increased peripheral vascularity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "17 months before current evaluation",
+            "findings": "The uterus measured 8.9 cm by 9.2 cm by 11.2 cm; a large fibroid (7.2 cm by 7.6 cm by 8.0 cm) with areas of internal hypoechogenicity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "16 months before current evaluation",
+            "findings": "Cystic lesion in the uterus measuring 7.1 cm by 7.4 cm by 7.4 cm thought to represent cystic degeneration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "12 months before current evaluation",
+            "findings": "Fibroid measuring 5.6 cm by 6.5 cm by 6.7 cm, decreased in size but had more cystic components.",
+            "changes_over_time": "Decreased in overall size but increased in cystic components."
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "8 months before current evaluation",
+            "findings": "Hypoechoic lesion measuring 5.2 cm by 5.4 cm by 5.8 cm, likely a uterine fibroid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "4 days before current evaluation",
+            "findings": "Mass increased in size to 6.9 cm by 8.8 cm by 10.3 cm with central cystic components.",
+            "changes_over_time": "Increased in size."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "During hysterectomy",
+            "findings": "Atypical smooth-muscle tumor with characteristics suggestive of leiomyosarcoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

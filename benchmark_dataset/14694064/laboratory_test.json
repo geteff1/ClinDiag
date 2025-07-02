@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glutamic-pyruvic transaminase (GPT)",
+            "date": "March 14",
+            "findings": "Raised levels (exact values not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LDH)",
+            "date": "March 14",
+            "findings": "Raised levels (exact values not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "March 14",
+            "findings": "Leukopenia with count of 1,980/mm³",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction study (NCS)",
+            "date": "10 days after extubation (March 26)",
+            "findings": "Decreased amplitude of compound muscle action potentials (CMAP) in both peroneal nerves; motor nerve conduction velocities normal; F-wave latencies absent or mildly prolonged; H reflex could not be elicited bilaterally.",
+            "changes_over_time": "Follow-up NCS revealed improvement."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Active fibrillation potentials, positive waves, neurogenic polyphasic waves in right anterior tibialis muscle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "58 cells (18 neutrophils and 17 lymphocytes), glucose 80 mg/100 mL, protein 60 mg/100 mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum hemagglutinin inhibition for West Nile virus (WNV) antibodies",
+            "date": "Admission, Day 7, 12, 19, Day 36",
+            "findings": "Negative on admission and days 7, 12, and 19; Positive on day 36 with titers 1:2,560.",
+            "changes_over_time": "Titers increased from 1:10 on admission to 1:2,560 on Day 36."
+        },
+        {
+            "procedure_name": "Noncontrast CT",
+            "date": "Day 4",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Days 5 and 13",
+            "findings": "Day 5 showed questionable nonenhancing hyperintensity in central pons, decreased ADC values in hyperintense areas; Day 13 showed new lesions in both thalami, increased T2 signal.",
+            "changes_over_time": "New nonenhancing lesions appeared on day 13."
+        }
+    ]
+}

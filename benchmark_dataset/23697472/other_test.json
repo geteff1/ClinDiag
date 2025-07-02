@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Left atrial enlargement; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol test",
+            "date": "Not specified",
+            "findings": "Markedly elevated level at 303 μg per 24 hours (normal range: 17 to 47 μg per 24 hours).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Overnight dexamethasone suppression test",
+            "date": "Not specified",
+            "findings": "Elevated morning cortisol level of 32.8 μg per deciliter (normal is below 5 μg per deciliter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical staining",
+            "date": "After wedge resection of pulmonary nodule",
+            "findings": "Strong antigenic expression consistent with a corticotropin-secreting carcinoid tumor.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

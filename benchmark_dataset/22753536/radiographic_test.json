@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions and pulmonary vascular redistribution, suggestive of congestive heart failure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "6 months previously",
+            "findings": "Normal systolic function, mitral annular calcification, and mild mitral regurgitation.",
+            "changes_over_time": "Follow-up echocardiogram after 1 month showed only mild MR with vigorous LV (LV ejection fraction 80%) and improved pulmonary hypertension."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe mitral regurgitation with incomplete closure and apical tenting, and regional wall motion abnormalities with inferoapical dyskinesis.",
+            "changes_over_time": "Apical wall motion abnormalities had resolved along with mitral valve tethering 1 month after LAD revascularization."
+        }
+    ]
+}

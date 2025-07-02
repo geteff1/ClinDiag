@@ -1,0 +1,100 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Capillary glucose",
+            "date": "Not specified",
+            "findings": "135 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood levels of glucose",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal-function tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Trace occult blood; 0 to 2 red cells per high-power field; cannabinoid and benzodiazepine present",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Emergency Department",
+            "findings": "42.5% (reference range: 41.0–53.0)",
+            "changes_over_time": "32.7% in ICU"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Emergency Department",
+            "findings": "13.8 g/dL (reference range: 13.5–17.5)",
+            "changes_over_time": "10.7 g/dL in ICU"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Emergency Department",
+            "findings": "4700 per mm3 (reference range: 4500–11,000)",
+            "changes_over_time": "No change; remained at 4700 per mm3 in ICU."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Emergency Department",
+            "findings": "139 mmol/L (reference range: 135–145)",
+            "changes_over_time": "135 mmol/L in ICU"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Emergency Department",
+            "findings": "3.7 mmol/L (reference range: 3.4–4.8)",
+            "changes_over_time": "2.9 mmol/L in ICU"
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Emergency Department",
+            "findings": "9.5 mg/dL (reference range: 8.5–10.5)",
+            "changes_over_time": "7.8 mg/dL in ICU"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Emergency Department",
+            "findings": "131 U/L (reference range: 45–115)",
+            "changes_over_time": "97 U/L in ICU"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Emergency Department",
+            "findings": "89 U/L (reference range: 10–40)",
+            "changes_over_time": "64 U/L in ICU"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Emergency Department",
+            "findings": "42 U/L (reference range: 10–55)",
+            "changes_over_time": "30 U/L in ICU"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Emergency Department",
+            "findings": "190 U/L (reference range: 3–100)",
+            "changes_over_time": "161 U/L in ICU"
+        }
+    ]
+}

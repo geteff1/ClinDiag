@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 13, 2020",
+            "vital_signs": {
+                "blood_pressure": "100/80 mmHg",
+                "pulse_rate": "98 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Thickened wet rales in both lungs, abdominal distention, bilateral lower limb edema, neurological examination negative with Glasgow Coma Scale score of 15/15.",
+            "changes_over_time": "Blood pressure fell dramatically to 84/58 mmHg four days after admission; subsequently, Glasgow Coma Scale decreased to 3/15 on day 14."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/73 mmHg",
+                "pulse_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Laboratory findings show stable blood pressure at 120/73 mmHg with significant elevation in inflammatory markers and renal function decline.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

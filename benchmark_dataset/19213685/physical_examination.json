@@ -1,0 +1,82 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "126/80 mm Hg",
+                "weight": "57.8 kg",
+                "height": "163.2 cm",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "skin": {
+                    "mottled_discoloration": "suggestive of livedo reticularis",
+                    "tender_nodule_diameter": "3 cm just below the left lateral malleolus",
+                    "smaller_less_tender_lesions": "2 in the same area",
+                    "porcelain_colored_areas": "on both lower legs",
+                    "decreased_sensation": "to light touch over the medial aspects of both feet",
+                    "no_capillary_dilatation": true,
+                    "no_joint_swelling": true
+                },
+                "crepitus": "mild on flexion and extension of the knees without effusions",
+                "additional_findings": "no nodules observed; remainder of examination normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three weeks before presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "weight": "Not specified",
+                "height": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "ankle": {
+                    "increased_pain_and_swelling_duration": "3 to 4 days",
+                    "warmth": "slight around the left lateral malleolus",
+                    "tenderness": "mild tenderness to touch",
+                    "erythema": "rounded, 1-cm area",
+                    "normal_range_of_motion": "in both ankles",
+                    "no_enthesopathy": true,
+                    "no_tenderness": "in plantar fasciae"
+                },
+                "sensation": "no sensation to pinprick over either medial malleolus",
+                "erythrocyte_sedimentation_rate": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks before presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "weight": "Not specified",
+                "height": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general_health": {
+                    "xerostomia": false,
+                    "joint_pain_or_swelling": false,
+                    "weakness": false,
+                    "alopecia": false,
+                    "malar_rash": false,
+                    "oral_or_tongue_ulcers": false,
+                    "lymphadenopathy": false,
+                    "shortness_of_breath": false,
+                    "chest_pain": false,
+                    "fevers": false,
+                    "night_sweats": false,
+                    "change_in_weight": false
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

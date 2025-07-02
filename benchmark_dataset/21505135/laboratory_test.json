@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole-Genome Sequencing",
+            "date": "Not specified",
+            "findings": "A novel, heterozygous 3-kilobase deletion removing exons 7-9 of TP53 in the patient’s normal skin DNA; this deletion was homozygous in the leukemia DNA due to uniparental disomy. A total of 28 validated somatic single-nucleotide variations or indels in coding genes, 8 somatic structural variants, and 12 somatic copy number alterations were detected in the patient’s leukemia genome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA Expression Profiling",
+            "date": "Not specified",
+            "findings": "Except for the deleted region (exons 7-9), TP53 mRNA expression was similar to or higher than that observed in AML without TP53 mutations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spectral Karyotyping",
+            "date": "Not specified",
+            "findings": "Revealed several complex chromosomal rearrangements in the leukemia genome, including monosomy 7, del(5q), and multiple translocations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

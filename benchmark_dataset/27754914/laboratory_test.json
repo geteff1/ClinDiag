@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Confirmed the common m.3243A .G mutation with a heteroplasmy level of 23% in the serum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Revealed right greater than left periodic lateralized epileptiform discharges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "CSF showed 1 leukocyte, glucose 4.0, and mildly elevated protein at 474.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT head scan",
+            "date": "Initial - Not specified",
+            "findings": "Showed a subacute right occipital infarct and bilateral basal ganglia calcification.",
+            "changes_over_time": "Repeat CT head prior to discharge showed some improvement in low attenuation of the bilateral occipito-parietal regions."
+        }
+    ]
+}

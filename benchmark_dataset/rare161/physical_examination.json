@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "74.8 kg (+2.04 SD)",
+                "height": "185.5 cm (+4.35 SD)",
+                "occipitofrontal circumference": "52.2 cm (-0.95 SD)",
+                "body mass index": "21.7 (+0.44 SD)",
+                "arm-span": "182 cm",
+                "arm span/height ratio": "0.98"
+            },
+            "relevant_findings": {
+                "phys_exam": [
+                    "Thyroid and pelvic US scan were normal",
+                    "Carpal x-ray revealed a bone age 4 years older than chronological age",
+                    "Spine x-ray revealed left-convex lumbar rotoscoliosis with moderate right-convex compensatory curvature",
+                    "Valgus knees and flat feet noted",
+                    "Mild dysmorphic features: high frontal hairline, slight asymmetric face, deeply set eyes, slight prognathism, small ears, bifid uvula, peg-shaped incisors",
+                    "Long and thin fingers, prominent phalanx epiphyses, camptodactyly of fingers and toes, first and second fingers clinodactyly on the left hand, second and third fingers clinodactyly on the right hand",
+                    "Clinodactyly and proximal placement of the fifth toes bilaterally",
+                    "Mild joint hyperextensibility with a Beighton score of 5/9",
+                    "Skin examination revealed no striae distensae, bruising, atrophic scars, or pigmentation disorders"
+                ]
+            },
+            "changes_over_time": {
+                "kidney": "Dysplastic multicystic right kidney identified during pregnancy atrophied over time",
+                "hearing_loss": "Bilateral pantonal sensorineural hearing loss diagnosed at age 10",
+                "height": "Height greater than 97th centile since the first months of life"
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Case 1: Absolute eosinophil count of 10.9 × 10^9/L; Case 2: Absolute eosinophil count of 5.2 × 10^9/L; Case 5: Absolute eosinophil count of 4.7 × 10^9/L.",
+            "changes_over_time": "Case 1: Eosinophil count increased from 0.09 × 10^9/L two years prior to 10.9 × 10^9/L; Case 2: Normal CBC two years prior showed no eosinophilia before 5.2 × 10^9/L; Case 5: Eosinophil count increased from 0.1 × 10^9/L three years prior to 4.7 × 10^9/L."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Excluded malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool Microscopy",
+            "date": "Not specified",
+            "findings": "High numbers of D. fragilis identified in cases 1, 2, and 5. Case 4 had negative stool microscopy.",
+            "changes_over_time": "Case 1: Revealed D. fragilis; 40 days after treatment, case 5 showed D. fragilis presence; case 4 remained asymptomatic despite positive PCR."
+        },
+        {
+            "procedure_name": "Real-Time Polymerase Chain Reaction (PCR)",
+            "date": "Not specified",
+            "findings": "All patients with gastrointestinal symptoms or eosinophilia confirmed positive for D. fragilis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the neck",
+            "date": "Not specified",
+            "findings": "Normal, showed an 8-mm HNPGL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Revealed an incidental adrenal tumor with a maximum diameter of 14 cm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-FDG PET/CT",
+            "date": "4 months postoperatively",
+            "findings": "Showed metabolically active enlarged mediastinal and infrahilar lymph nodes, suspected for metastatic disease.",
+            "changes_over_time": "The thoracic lesions remained stable for 3 years."
+        },
+        {
+            "procedure_name": "68Ga-DOTA0-Tyr3-octreotate scan",
+            "date": "Not specified",
+            "findings": "Showed multiple bone metastases in the ribs, spine, and pelvis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head and neck",
+            "date": "8 years after surgery",
+            "findings": "Showed slight growth of both HNPGLs.",
+            "changes_over_time": "Two lesions were found, one suggestive of local recurrence and another identified as a vagal PGL."
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "5 years after diagnosis of metastatic disease",
+            "findings": "Showed stable disease.",
+            "changes_over_time": "18F-FDG PET showed a significant decrease in metabolic activity of multiple metastatic lesions and a complete response at the level of L5."
+        },
+        {
+            "procedure_name": "Actual imaging for general complaints",
+            "date": "Not specified",
+            "findings": "Multiple lesions in the liver and lungs, suggestive of metastatic disease.",
+            "changes_over_time": "Confirmed with a liver biopsy."
+        }
+    ]
+}

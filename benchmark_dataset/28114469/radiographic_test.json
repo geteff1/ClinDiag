@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Enlargement of the pancreas; indications of bilateral kidney involvement; mass at the bile duct convergence with intrahepatic bile duct dilatation.",
+            "changes_over_time": "Resolution of clinical symptoms and of the pancreatic and renal abnormalities on computed tomography and magnetic resonance imaging during 2 years of rituximab therapy."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Enlargement of the pancreas; diffuse bile duct dilatation; indications of a mass in the hepatic hilum.",
+            "changes_over_time": "Resolution of clinical symptoms and of the pancreatic and renal abnormalities on computed tomography and magnetic resonance imaging during 2 years of rituximab therapy."
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "Not specified",
+            "findings": "Intense tracer uptake in the pelvis, skull, and multiple ribs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Confirmed pagetic bone at these sites and revealed a dorsal vertebral fracture.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry",
+            "date": "Not specified",
+            "findings": "T-scores of -1.1 at the hip and -1.7 at the radius.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

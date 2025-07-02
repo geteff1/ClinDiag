@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Evidence of leukocytoclastic vasculitis.",
+            "changes_over_time": "Lesions improved with immunosuppressive therapy but recurred upon tapering."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Two months before current presentation",
+            "findings": "CSF protein level 54 mg/dL (reference range, 5 to 55), total nucleated-cell count 16 per cubic mm with 66% lymphocytes; negative infectious tests; no abnormal cell populations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat lumbar puncture",
+            "date": "Current presentation",
+            "findings": "Opening pressure 45 cm of water (normal range, 10 to 25), normal CSF analysis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ophthalmologic examination",
+            "date": "Current presentation",
+            "findings": "Extensive bilateral optic-disk edema (grade 4 on the Frisén scale) with associated subretinal fluid and multiple hemorrhages.",
+            "changes_over_time": "Papilledema decreased to Frisén grade 3 at follow-up."
+        }
+    ]
+}

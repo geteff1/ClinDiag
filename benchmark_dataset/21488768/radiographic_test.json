@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 55%, left ventricular hypertrophy, severe mitral-valve regurgitation, moderate tricuspid-valve regurgitation, biatrial enlargement, mild right ventricular dilatation, and a pulmonary-artery systolic pressure of 40 to 50 mm Hg.",
+            "changes_over_time": "Marked biventricular hypertrophy, severe mitral-valve regurgitation, dilatation of inferior vena cava and hepatic vein, and a right ventricular systolic pressure of at least 31 mm Hg on third day; estimated left ventricular ejection fraction of 54% with mild thickening of the anterior leaflet of the mitral valve indicating diastolic dysfunction."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomegaly.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "computed tomography (CT) of the abdomen",
+            "date": "Not specified",
+            "findings": "Diffuse dilatation of small-bowel segments and the transverse colon with moderate free fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "transthoracic echocardiography (follow-up)",
+            "date": "10 months after admission",
+            "findings": "No decrease in either mitral-valve regurgitation or ventricular-wall thickness.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

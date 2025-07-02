@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI without gadolinium",
+            "date": "Not specified",
+            "findings": "No parenchymal abnormalities, normal ventricular size and configuration, and no restricted diffusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET",
+            "date": "Not specified",
+            "findings": "Asymmetric hypometabolism in the left thalamus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat MRI",
+            "date": "Not specified",
+            "findings": "Global cerebral atrophy.",
+            "changes_over_time": "Progressive clinical worsening leading to global cerebral atrophy."
+        }
+    ]
+}

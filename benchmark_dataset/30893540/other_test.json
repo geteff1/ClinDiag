@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "New atrial fibrillation with a rapid ventricular response.",
+            "changes_over_time": "ECG showed normal sinus rhythm with slightly prolonged QTc interval measuring 466 msec four weeks later."
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Left atrial and left ventricular dilatation, low-normal left ventricular ejection fraction, mild left ventricular hypertrophy, no clinically significant valvular disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Average heart rate of 65 beats per minute, maximum heart rate of 84 beats per minute, no episodes of atrial fibrillation detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with a rapid ventricular response and nonspecific ST-segment changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrograms from Pacemaker",
+            "date": "Not specified",
+            "findings": "Average atrial heart rate of 368 beats per minute, average ventricular heart rate of 179 beats per minute during an episode of atrial fibrillation.",
+            "changes_over_time": "A reduction in frequency and duration of atrial fibrillation episodes was confirmed after the initiation of sotalol."
+        }
+    ]
+}

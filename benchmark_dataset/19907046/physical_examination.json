@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9°C",
+                "blood_pressure": "84/48 mm Hg",
+                "pulse": "80 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared cachectic and confused.",
+                "neurological": "Minimally verbal, clonus in the right leg, tremor in both arms; reflexes 1+.",
+                "abdominal": "Tender to palpation in the right lower quadrant; no distention, guarding, or rebound.",
+                "cardiac": "Grade 2/6 systolic murmur at left upper sternal border; grade 3/6 holosystolic murmur at apex.",
+                "pulmonary": "Scattered crackles heard in both lungs, loudest at the bases.",
+                "dermatological": "Erythematous sacrum; dry clean ulcer on right anterior tibial surface."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day before admission",
+            "vital_signs": {
+                "blood_pressure": "92/46 mm Hg",
+                "pulse": "92 bpm",
+                "oxygen_saturation": "97% (on 3 liters oxygen via nasal cannula)"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure fell to 70 to 80 mm Hg during assessment."
+        },
+        {
+            "date": "Day of admission",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Mental status worsened; developed respiratory distress requiring intubation."
+        }
+    ]
+}

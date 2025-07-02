@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "156/76 mm Hg",
+                "pulse": "56 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "The physical examination was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_sodium_level": "123 mmol per liter"
+            },
+            "relevant_findings": "On evaluation, the patellar reflexes were 3+; the remainder of the physical examination was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Two weeks after discharge",
+            "vital_signs": {
+                "blood_sodium_level": "134 mmol per liter"
+            },
+            "relevant_findings": "The physical examination was normal, and no involuntary movements were observed.",
+            "changes_over_time": "The involuntary movements of the left arm and left side of the face had increased in frequency, occurring once per hour."
+        }
+    ]
+}

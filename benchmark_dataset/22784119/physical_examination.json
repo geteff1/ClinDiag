@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cachectic with bitemporal wasting; abdomen flat and nontender, striae without pigmentation; slightly edematous feet; blanching erythematous macular rash on the dorsal surface; proximal muscle weakness with severe wasting in the thighs; pubic-hair distribution Tanner stage 5; testicular volume estimated at 15 ml bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "12 days later",
+            "vital_signs": {
+                "blood_pressure": "103/55 mmHg",
+                "pulse": "56 bpm",
+                "temperature": "36.6°C",
+                "weight": "51.3 kg (BMI, 16.7)"
+            },
+            "relevant_findings": "Poor dentition; severe diffuse muscle tenderness; edematous ankles; decreased strength (4 out of 5) in ankles and lower legs; nonblanching macular erythematous rash on thighs; decreased sensation of light touch over legs; positive antinuclear antibodies at a dilution of 1:40.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "6 days later (follow-up evaluation)",
+            "vital_signs": {
+                "blood_pressure": "114/76 mmHg",
+                "pulse": "42 bpm",
+                "temperature": "34.6°C",
+                "weight": "42.9 kg (BMI, 14.0)"
+            },
+            "relevant_findings": "Cachectic; depressed affect; dry oral mucosa; abdomen scaphoid and soft with palpable liver edge 3 cm below costal margin; lymph node palpated in right inguinal region; slightly jaundiced skin; bleeding laceration on head; healed laceration on arm; petechiae and 1+ edema of legs; stage II sacral decubitus ulcer; extremities cool to palpation.",
+            "changes_over_time": "Weight decreased from 51.3 kg to 42.9 kg."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "108/80 mmHg",
+                "pulse": "53 bpm",
+                "temperature": "32.1°C"
+            },
+            "relevant_findings": "Alert; cachectic; decubitus ulcer present; capillary blood glucose reported as 26 mg/dL; glucose administered; respiratory rate normal; skin slightly jaundiced with bleeding laceration on head, healed laceration on arm, petechiae and edema of legs.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

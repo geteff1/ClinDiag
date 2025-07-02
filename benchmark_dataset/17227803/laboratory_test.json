@@ -1,0 +1,75 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "Not specified",
+            "findings": {
+                "norepinephrine": "0.17 and 0.22 µmol/24 h",
+                "epinephrine": "0.02 µmol/24 h",
+                "dopamine": "1.48 and 1.75 µmol/24 h"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "2003",
+            "findings": {
+                "norepinephrine": "0.15 and 0.34 µmol/24 h",
+                "epinephrine": "0.00 µmol/24 h",
+                "dopamine": "0.53 and 2.25 µmol/24 h",
+                "VMA": "16 and 23 µmol/24 h"
+            },
+            "changes_over_time": "No excessive secretion of catecholamines despite lymph node metastasis found."
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "2002",
+            "findings": {
+                "norepinephrine": "0.87 and 0.88 µmol/24 h",
+                "VMA": "31 µmol/24 h",
+                "epinephrine": "0.06 µmol/24 h",
+                "dopamine": "2.04 µmol/24 h"
+            },
+            "changes_over_time": "Persistent increase in norepinephrine excretion noted."
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "2005",
+            "findings": {
+                "norepinephrine": "10.70 µmol/24 h",
+                "dopamine": "4.13 µmol/24 h"
+            },
+            "changes_over_time": "Elevated levels indicating catecholamine excess."
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "Postoperative (not specified)",
+            "findings": {
+                "norepinephrine": "0.82 µmol/24 h",
+                "dopamine": "1.53 µmol/24 h"
+            },
+            "changes_over_time": "Reduction in catecholamine secretion but no normalization."
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "Not specified",
+            "findings": {
+                "norepinephrine": "0.65 and 0.50 µmol/24 h",
+                "epinephrine": "0.07 µmol/24 h",
+                "dopamine": "1.89 µmol/24 h"
+            },
+            "changes_over_time": "Elevated norepinephrine levels noted."
+        },
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "Not specified",
+            "findings": {
+                "norepinephrine": "0.62 and 0.57 µmol/24 h",
+                "normetanephrine": "393 µmol per mol creatinine",
+                "epinephrine": "0.02 µmol/24 h",
+                "dopamine": "1.40 µmol/24 h"
+            },
+            "changes_over_time": "Elevated levels of norepinephrine."
+        }
+    ]
+}

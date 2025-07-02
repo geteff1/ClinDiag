@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "90/50 mm Hg",
+                "pulse": "148 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and appeared ill and emaciated.",
+                "mucous_membranes": "Dry.",
+                "cardiovascular": "Grade 2/6 systolic ejection murmur.",
+                "abdominal": "Hyperactive bowel sounds, soft abdomen, suprapubic tenderness, no organomegaly or rebound.",
+                "musculoskeletal": "Grasp strength 1 out of 5, strength of major muscle groups 0 out of 5.",
+                "neurological": "Absent deep-tendon reflexes, flexor plantar reflex."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

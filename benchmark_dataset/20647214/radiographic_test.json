@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "A lesion in the sella.",
+            "changes_over_time": "Reportedly showed evidence of left frontal sinusitis two years prior, with expansion of the sella turcica."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "A lesion measuring 2.8 cm by 2.4 cm by 2.4 cm isointense to gray matter, extending into the suprasellar region and abutting the optic chiasm with mild compression and possible invasion of the right cavernous sinus. Mild patchy enhancement was evident. The skull was diffusely thickened, and the frontal sinuses were prominent.",
+            "changes_over_time": "No specific changes over time described; the features suggest the lesion had been present for an extended time."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "6 weeks postoperatively",
+            "findings": "No evidence of a tumor.",
+            "changes_over_time": "The patient's signs and symptoms of acromegaly showed rapid diminishing or resolution."
+        }
+    ]
+}

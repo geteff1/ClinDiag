@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "10th hospital day",
+            "findings": "Evidence of acute appendicitis; enlarged, thickened appendix with mucosal hyperenhancement and periappendiceal fat stranding.",
+            "changes_over_time": "Abdominal CT scans obtained on the 31st hospital day showed resolution of both the appendiceal changes and the colonic-wall thickening."
+        },
+        {
+            "procedure_name": "CT scan of the pelvis",
+            "date": "12th hospital day",
+            "findings": "Thickening of the sigmoid and descending colon consistent with colitis; unchanged appearance of the appendix, with no evidence of perforation; multiple prominent retroperitoneal lymph nodes, up to 1.1 cm in diameter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "31st hospital day",
+            "findings": "Bilateral pulmonary nodules, 2 to 4 mm in diameter; no lymphadenopathy or pleural effusion.",
+            "changes_over_time": "These pulmonary nodules had not been present on chest CT scans obtained 4 weeks earlier."
+        }
+    ]
+}

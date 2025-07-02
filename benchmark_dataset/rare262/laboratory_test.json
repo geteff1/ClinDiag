@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukopenia and thrombocytopenia with deranged coagulation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "Elevated bilirubin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "Hypoxemia (PaO2 78 mmHg on 6 L/min oxygen flows).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tracheal Culture",
+            "date": "Day 1",
+            "findings": "Grew Staphylococcus aureus (SA).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Day 16",
+            "findings": "Methicillin-resistant SA in blood.",
+            "changes_over_time": "Confirmed on Day 10 with multiple thin-wall cavitary lesions suggestive of pneumatoceles."
+        },
+        {
+            "procedure_name": "CT Thorax",
+            "date": "Day 10",
+            "findings": "Confirmed multiple thin-wall cavitary lesions suggestive of pneumatoceles.",
+            "changes_over_time": "On Day 22, post-thoracentesis revealed right hydropneumothorax which increased over the next 4 days."
+        },
+        {
+            "procedure_name": "CT Thorax after Death",
+            "date": "Not specified",
+            "findings": "Loculated right hydropneumothorax with no evidence of an air-fluid level in the cavitary lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

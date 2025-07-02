@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "first_lumbar_puncture": {
+                    "Color": "Colorless",
+                    "Turbidity": "Clear",
+                    "Xanthochromia": "None",
+                    "Red cells (per mm3)": "None",
+                    "White cells (per mm3)": "6",
+                    "Protein (mg/dl)": "74",
+                    "Glucose (mg/dl)": "71"
+                },
+                "second_lumbar_puncture": {
+                    "Color": "Colorless",
+                    "Turbidity": "Clear",
+                    "Xanthochromia": "None",
+                    "Red cells (per mm3)": "1",
+                    "White cells (per mm3)": "16",
+                    "Protein (mg/dl)": "50",
+                    "Glucose (mg/dl)": "71"
+                }
+            },
+            "changes_over_time": "Increased white cells from 6 to 16, decreased protein from 74 to 50."
+        },
+        {
+            "procedure_name": "Neuropsychological testing",
+            "date": "Not specified",
+            "findings": {
+                "memory_deficit": "Profound anterograde amnesia and mild retrograde amnesia.",
+                "fluency": "Mild difficulty with phonemic fluency and visuospatial processing."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mediastinal mass resection",
+            "date": "Not specified",
+            "findings": {
+                "tumor_characteristics": "Tumor was 5.5 cm by 1.5 cm, well circumscribed with thin capsule, consistent with atypical carcinoid tumor."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "12 March 2022",
+            "vital_signs": {
+                "temperature": "36 °C",
+                "blood_pressure": "120/60 mmHg",
+                "heart_rate": "120 bpm",
+                "oxygen_saturation": "90% at room air",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": "The patient presented with right subscapular pain, dyspnea, fever, cough, and hemoptysis. Six hours after admission, he developed a stuporous state and mottled skin.",
+            "changes_over_time": "The patient's condition deteriorated over six hours, evolving from initial symptoms to a stuporous state and mottled skin."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "73.3% in oxygen therapy FiO2 100%",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Arterial blood gas analysis showed respiratory and lactic acidosis (pH 7.1, pO2 45 mmHg, PaCO2 42 mmHg, HCO3- 16.5 mmol/L, BE -15.8 mmol/L, lactates 9.7 mmol/L). Repeat chest X-ray showed complete right upper lobe, right lower, and left mid-basal opacification, with diffuse thickening of the bilateral lower-middle lung.",
+            "changes_over_time": "The patient exhibited worsening respiratory function as indicated by progressive hypoxia and changes seen on chest X-ray."
+        }
+    ]
+}

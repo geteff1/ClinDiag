@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White blood cell count: 4920 cells/mL, Hemoglobin level: 11.5 g/dL, Platelet count: 129,000 cells/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Total bilirubin: 17.8 mg/dL, Direct bilirubin: 11.2 mg/dL, Alanine aminotransferase (ALT): 363 mg/dL, Aspartate aminotransferase (AST): 359 mg/dL.",
+            "changes_over_time": "Initial ALT: 363 mg/dL, later increased to 5727 mg/dL; Initial AST: 359 mg/dL, later increased to 25,615 mg/dL."
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine: 1.8 mg/dL.",
+            "changes_over_time": "Increased from 1.8 mg/dL to 3.9 mg/dL."
+        },
+        {
+            "procedure_name": "Creatine Kinase Test",
+            "date": "Not specified",
+            "findings": "Elevated creatine kinase level: 579 U/L (reference range: 38–160 U/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fibrinogen and D-dimer test",
+            "date": "Not specified",
+            "findings": "Fibrinogen level: 322.3 mg/dL (reference range: 163.5–362.7 mg/dL), D-dimer level: 2.4 mg/mL (reference level: <2.09 mg/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Two sets of blood cultures yielded S. sonnei growth.",
+            "changes_over_time": "Blood cultures were taken on the day after the patient’s death."
+        }
+    ]
+}

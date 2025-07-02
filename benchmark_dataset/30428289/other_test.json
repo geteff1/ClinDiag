@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Medium-sized dyshesive tumor cells in a single-cell pattern; positive for cytokeratin, mammaglobin, and ER and PR proteins; negative for E-cadherin and HER2 overexpression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ventilation–perfusion scan",
+            "date": "Not specified",
+            "findings": "High probability of pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "d-dimer test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "whole-body bone scan",
+            "date": "Not specified",
+            "findings": "Multiple sites of increased uptake throughout the axial and appendicular skeleton, consistent with osseous metastases.",
+            "changes_over_time": "Findings showed multiple mixed lytic and blastic lesions in the thoracic vertebrae, ribs, and sternum not present on previous study."
+        },
+        {
+            "procedure_name": "chromosome analysis of blood specimen",
+            "date": "Not specified",
+            "findings": "Detection of two ESR1 mutations suggesting potential resistance to aromatase inhibitors.",
+            "changes_over_time": "The D538G mutation level subsequently increased while the Y537C mutation level continued to be low during treatment with a SERD."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Detection of a pathogenic frameshift variant in the CDH1 gene; two additional variants of unknown significance were identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

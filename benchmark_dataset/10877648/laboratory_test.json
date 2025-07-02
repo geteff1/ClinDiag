@@ -1,0 +1,37 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "8 g/dL",
+                "platelet_count": "181,000/mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microscopic Analysis of Blood Smears",
+            "date": "Not specified",
+            "findings": "1 to 10 Plasmodium malariae parasites per 100 fields (100x, oil-immersion lens)",
+            "changes_over_time": "Parasitemia resolved by day 2 after treatment"
+        },
+        {
+            "procedure_name": "Creatine Kinase Level",
+            "date": "Not specified",
+            "findings": "Cretaine kinase level elevated to 188 U/L.",
+            "changes_over_time": "The patient had an uneventful recovery."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Liver function was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Renal function was normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

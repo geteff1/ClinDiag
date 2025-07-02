@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone Mineral Density (BMD)",
+            "date": "Not specified",
+            "findings": "BMD of the lumbar spine was 0.933 g/cm² at baseline (phase 1), increased to 1.051 g/cm² after 4 months, and reached 1.275 g/cm² after 14 months of treatment.",
+            "changes_over_time": "BMD increased from 0.933 g/cm² at baseline to 1.051 g/cm² after 4 months, then to 1.173 g/cm² after 7 months, and peaked at 1.275 g/cm² after 14 months. During phase 4, BMD decreased to 1.180 g/cm² after 20 months and further to 1.029 g/cm² after 24 months."
+        },
+        {
+            "procedure_name": "Serum Estradiol",
+            "date": "Not specified",
+            "findings": "Estradiol levels were undetectable in phase 1, increased to 97 pg/mL in phase 2, decreased to 24 pg/mL in phase 3, and further decreased to 15 pg/mL in phase 4.",
+            "changes_over_time": "Estradiol levels increased from undetectable in phase 1 to 97 pg/mL in phase 2, but decreased during phases 3 and 4."
+        },
+        {
+            "procedure_name": "Serum Testosterone",
+            "date": "Not specified",
+            "findings": "Testosterone levels were in the normal range at 523 ng/dL in phase 1, fell to 21 ng/dL in phase 2, increased to 415.4 ng/dL in phase 3, and further increased to 573.6 ng/dL in phase 4.",
+            "changes_over_time": "Testosterone levels decreased from 523 ng/dL in phase 1 to 21 ng/dL in phase 2, then rose to 415.4 ng/dL in phase 3 and 573.6 ng/dL in phase 4."
+        },
+        {
+            "procedure_name": "Serum LH",
+            "date": "Not specified",
+            "findings": "LH levels were 5.6 mIU/mL in phase 1, decreased to 0.8 mIU/mL in phase 2, and rose to 3.1 mIU/mL in phase 3 and 8.4 mIU/mL in phase 4.",
+            "changes_over_time": "LH levels fell from 5.6 mIU/mL in phase 1 to 0.8 mIU/mL in phase 2, then increased to 3.1 mIU/mL in phase 3 and 8.4 mIU/mL in phase 4."
+        },
+        {
+            "procedure_name": "Serum FSH",
+            "date": "Not specified",
+            "findings": "FSH levels were 17.1 mIU/mL in phase 1, decreased to 1.0 mIU/mL in phase 2, rose to 8.1 mIU/mL in phase 3, and increased to 14.8 mIU/mL in phase 4.",
+            "changes_over_time": "FSH levels decreased from 17.1 mIU/mL in phase 1 to 1.0 mIU/mL in phase 2, then increased to 8.1 mIU/mL in phase 3 and 14.8 mIU/mL in phase 4."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase levels were 227 IU/L in phase 1, 329 IU/L in phase 2, decreased to 159 IU/L in phase 3, and rose to 213 IU/L in phase 4.",
+            "changes_over_time": "Alkaline phosphatase levels rose from 227 IU/L in phase 1 to 329 IU/L in phase 2, then decreased to 159 IU/L in phase 3 and increased again to 213 IU/L in phase 4."
+        },
+        {
+            "procedure_name": "Osteocalcin",
+            "date": "Not specified",
+            "findings": "Osteocalcin levels were 9.7 ng/mL in phase 1, increased to 22 ng/mL in phase 2, decreased to 14.2 ng/mL in phase 3, and fell to 10.6 ng/mL in phase 4.",
+            "changes_over_time": "Osteocalcin levels increased from 9.7 ng/mL in phase 1 to 22 ng/mL in phase 2, then decreased to 14.2 ng/mL in phase 3 and fell to 10.6 ng/mL in phase 4."
+        },
+        {
+            "procedure_name": "Urinary Pyridoline",
+            "date": "Not specified",
+            "findings": "Urinary pyridoline levels were 23 mg/g creatinine in phase 1, increased to 49 mg/g creatinine in phase 2, decreased to 41 mg/g creatinine in phase 3, and fell to 21 mg/g creatinine in phase 4.",
+            "changes_over_time": "Urinary pyridoline levels increased from 23 mg/g creatinine in phase 1 to 49 mg/g creatinine in phase 2, then decreased to 41 mg/g creatinine in phase 3 and fell to 21 mg/g creatinine in phase 4."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Serum calcium levels remained relatively stable at 9.56 mg/dL in phase 1, 8.64 mg/dL in phase 2, 8.38 mg/dL in phase 3, and 9.00 mg/dL in phase 4.",
+            "changes_over_time": "Serum calcium levels did not change significantly throughout the study protocol."
+        },
+        {
+            "procedure_name": "Serum Phosphorous",
+            "date": "Not specified",
+            "findings": "Serum phosphorous levels were stable around 4.30 mg/dL in phase 1, 4.20 mg/dL in phase 2, 3.83 mg/dL in phase 3, and 4.50 mg/dL in phase 4.",
+            "changes_over_time": "Serum phosphorous levels did not show significant changes throughout the study protocol."
+        }
+    ]
+}

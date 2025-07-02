@@ -1,0 +1,77 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": 0.6,
+                    "unit": "mmol/L",
+                    "normal_range": "3.0-5.4 mmol/L"
+                },
+                "cortisol": {
+                    "value": 560,
+                    "unit": "nmol/L",
+                    "normal_range": "138-635 nmol/L"
+                },
+                "sodium": {
+                    "value": 125,
+                    "unit": "mmol/L",
+                    "normal_range": "134-146 mmol/L"
+                },
+                "potassium": {
+                    "value": 4.7,
+                    "unit": "mmol/L",
+                    "normal_range": "3.4-5.0 mmol/L"
+                }
+            },
+            "relevant_findings": "Hyperpigmentation of the skin and gums.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 21 months of age",
+            "vital_signs": {
+                "serum_blood_glucose": {
+                    "value": 1.4,
+                    "unit": "mmol/L"
+                },
+                "cortisol": {
+                    "value": 30,
+                    "unit": "nmol/L"
+                },
+                "plasma_ACTH": {
+                    "value": 492,
+                    "unit": "pmol/L",
+                    "normal_range": "2.2-13.3 pmol/L"
+                },
+                "serum_aldosterone": {
+                    "value": 192,
+                    "unit": "pmol/L",
+                    "normal_range": "300-500 pmol/L for age 1 wk to 2 y"
+                },
+                "renin": {
+                    "value": 2.2,
+                    "unit": "mU/L",
+                    "normal_range": "5-100 mU/L for age 1 wk to 2 y"
+                }
+            },
+            "relevant_findings": "Adrenal insufficiency diagnosed.",
+            "changes_over_time": "The patient had hyperpigmentation from 6 months of age, worsening to significant findings at 21 months."
+        },
+        {
+            "date": "At 8 months of age",
+            "vital_signs": {
+                "peak_cortisol": {
+                    "value": 130,
+                    "unit": "nmol/L"
+                },
+                "ACTH": {
+                    "value": 517,
+                    "unit": "pmol/L",
+                    "normal_range": "2.0-10 pmol/L"
+                }
+            },
+            "relevant_findings": "First indication of adrenal insufficiency with a peak cortisol level of 130 nmol/L.",
+            "changes_over_time": "Initial symptoms of increased pigmentation noted at 4 months of age."
+        }
+    ]
+}

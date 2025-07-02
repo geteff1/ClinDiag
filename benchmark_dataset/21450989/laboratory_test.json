@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "144 /H9262U/ml (elevated)",
+            "changes_over_time": "Confirmed 5 days after birth with serum TSH at 179 /H9262U/ml (still elevated)."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "8 mU/liter (mildly elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T3",
+            "date": "Not specified",
+            "findings": "0.9 nmol/liter (normal 1.2–4)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T4",
+            "date": "Not specified",
+            "findings": "27 nmol/liter (normal 77–205)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "serum thyroglobulin (TG)",
+            "date": "Not specified",
+            "findings": "5 ng/ml (very low)",
+            "changes_over_time": "Suggests no significant thyroid tissue."
+        }
+    ]
+}

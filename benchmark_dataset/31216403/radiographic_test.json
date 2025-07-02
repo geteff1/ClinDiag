@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Mild dilatation and fecalization of the distal small intestine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT with small-bowel enterography",
+            "date": "One month later (Not an exact date provided)",
+            "findings": "Mild circumferential wall thickening of the proximal ascending colon and distal ileum and prominent lymph nodes in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance enterography",
+            "date": "3 months before current admission (Not an exact date provided)",
+            "findings": "Thickening and edema of the ascending colon, cecum, and terminal ileum, with surrounding changes consistent with inflammation and marked contrast enhancement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "On current presentation (Not an exact date provided)",
+            "findings": "Diffuse thickening and enhancement of the ascending colon, cecum, and terminal ileum, with surrounding changes consistent with inflammation, minimal free peritoneal fluid, and multiple enlarged mesenteric lymph nodes.",
+            "changes_over_time": "Persistent, contiguous thickening of the terminal ileum, cecum, and ascending colon."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Linear scarring in the right apex, small pulmonary nodules in the right upper lobe, nonenlarged mediastinal lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

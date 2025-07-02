@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "55 mm per hour (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "396 mg/100 ml (elevated)",
+            "changes_over_time": "Normal after treatment"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "36 mg/100 ml (elevated)",
+            "changes_over_time": "Fell to 24 mg/100 ml after treatment"
+        },
+        {
+            "procedure_name": "3,5,3'-Triiodothyronine (T3) Resin Uptake",
+            "date": "Not specified",
+            "findings": "149% of standard (definitely thyrotoxic)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Normal at 0.9 mg/100 ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

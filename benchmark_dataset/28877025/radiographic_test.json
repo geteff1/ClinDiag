@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain, spine, and brachial plexus",
+            "date": "Not specified",
+            "findings": "Hyperdense foci in the left caudate and lentiform nuclei thought to represent a developmental venous abnormality, mild disk protrusion at C4 and C5. No cord compression or nerve-root impingement. Brachial plexus appeared normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the pelvis",
+            "date": "Not specified",
+            "findings": "Multiple solid, hypoechoic vascular masses in the uterus, with the largest measuring 2.6 cm by 3.8 cm by 2.5 cm. Two hypoechoic vascular nodules in the right ovary, measuring 2.2 cm by 2.5 cm by 1.9 cm and 1.3 cm by 1.9 cm by 1.4 cm; a small cyst in the left ovary.",
+            "changes_over_time": "Subsequent MRI revealed an enlarged uterus with multiple lesions thought to represent fibroids, and a single vascular lesion in the right ovary measuring 5.2 cm by 1.8 cm by 3.9 cm, with a normal left ovary."
+        },
+        {
+            "procedure_name": "Repeat MRI of the brain and spine with gadolinium",
+            "date": "Not specified",
+            "findings": "Enhancement and hyperintensity on T2-weighted imaging of multiple nerve roots, suggestive of subacute-to-chronic inflammatory polyradiculopathy involving the entire spinal axis.",
+            "changes_over_time": "Findings suggestive of a possible subacute infarct in brain MRI. In the spine, greatest involvement over the cervical-nerve roots on the right side, extending into the right brachial plexus."
+        },
+        {
+            "procedure_name": "MRI of the pelvis",
+            "date": "Not specified",
+            "findings": "Infiltrating soft-tissue masses involving the uterus and both ovaries, larger than on previous imaging.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Third lumbar puncture",
+            "date": "Not specified",
+            "findings": "White-cell count of 26 per cubic millimeter, 92% lymphocytes, protein level of 2.60 g per liter, glucose level of 3 mmol per liter. Cytologic testing of CSF negative for cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat imaging after chemotherapy",
+            "date": "Not specified",
+            "findings": "Diminished enhancement of the nerve roots and resolution of the ovarian and uterine lesions.",
+            "changes_over_time": "Interval progression since previous imaging."
+        },
+        {
+            "procedure_name": "MRI of the brain with gadolinium enhancement",
+            "date": "Not specified",
+            "findings": "Subtle thickening along the left cavernous sinus and exiting mandibular-nerve root.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron-emission tomography (PET) scan",
+            "date": "Not specified",
+            "findings": "High-level 18F-fluorodeoxyglucose uptake in the left cavernous sinus, cranial nerves, and multiple nerve roots along the cervical spine and at L5 and S1.",
+            "changes_over_time": "No evidence of recurrence of masses in the ovaries or other systemic involvement."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified.",
+            "findings": {
+                "white_cell_count": "3.6 per cubic millimeter",
+                "hemoglobin": "11.1 g per deciliter",
+                "platelet_count": "82 per cubic millimeter",
+                "vitamin_B12": "519 pg per milliliter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Telomere Length Measurement",
+            "date": "Not specified.",
+            "findings": {
+                "telomere_length": "less than the first percentile for age"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

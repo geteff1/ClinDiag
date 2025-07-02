@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "120/82 mm Hg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress.",
+                "sclerae": "Anicteric",
+                "conjunctivae": "Pink",
+                "oropharynx": "Without palatal petechiae or purpura",
+                "neck": "Supple, without thyromegaly",
+                "lungs": "Clear",
+                "heart": "Regular heart sounds, without murmurs, rubs, or gallops",
+                "abdomen": "Non-tender, no hepatomegaly or splenomegaly",
+                "extremities": "Warm and well perfused, without edema",
+                "ecchymosis": "Large areas on calves, anterior thighs, upper and lower arms, and a diffuse area across lower back.",
+                "elbows": {
+                    "right": "Warm, slightly swollen, flexion limited to approximately 100 degrees, painful.",
+                    "left": "Full flexion."
+                },
+                "knees": {
+                    "both": "Slightly warm, restricted ranges of motion."
+                },
+                "peripheral_pulses": "Intact.",
+                "sensory_deficits": "None."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparotomy",
+            "date": "Not specified",
+            "findings": "No ovarian cyst was found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MR Imaging",
+            "date": "35 weeks’ gestation",
+            "findings": "No increase in the size of the meningocele.",
+            "changes_over_time": "Progressive decrease in the size of the meningocele until it completely disappeared."
+        },
+        {
+            "procedure_name": "Surgical treatment via sacral laminectomy",
+            "date": "4 months later",
+            "findings": "Intrasacral meningocele communicating anteriorly and to the left with an anterior sacral meningocele (ASM); epidermoid cyst resected.",
+            "changes_over_time": "Total disappearance of the ASM noted in the postoperative rectal examination."
+        },
+        {
+            "procedure_name": "Emergency reoperation",
+            "date": "Not specified",
+            "findings": "Purulent fluid leak and dehiscence of suture lines.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative MR Imaging",
+            "date": "3 months after surgery",
+            "findings": "Total disappearance of the ASM.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

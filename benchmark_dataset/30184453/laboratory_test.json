@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Aspartate amino-transferase level was 119 U per liter (normal range, 0 to 37); alanine aminotransferase level was 48 U per liter (normal range, 0 to 40); alkaline phosphatase and bilirubin levels were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "White-cell count was 3410 per cubic millimeter (56% neutrophils, 18% lymphocytes, 25% monocytes); hemoglobin level was 13.1 g per deciliter; platelet count was 127,000 per cubic millimeter; erythrocyte sedimentation rate was 37 mm per hour (normal range, 1 to 20); C-reactive protein level was 2.9 mg per deciliter (normal value, <0.5).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Phosphorus Level Test",
+            "date": "Not specified",
+            "findings": "Serum phosphorus level was 3.9 mg per deciliter (normal range, 2.7 to 4.5 mg per deciliter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Uric Acid Level Test",
+            "date": "Not specified",
+            "findings": "Uric acid level was 5.7 mg per deciliter (normal range, 3.5 to 7.2 mg per deciliter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Haptoglobin Level Test",
+            "date": "Not specified",
+            "findings": "Haptoglobin level was 55 mg per deciliter (normal range, 36 to 195).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ferritin Level Test",
+            "date": "Not specified",
+            "findings": "Ferritin level was 508 ng per milliliter (normal range, 30 to 400).",
+            "changes_over_time": "Increased to 700 ng per milliliter two months later."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH) Level Test",
+            "date": "Not specified",
+            "findings": "LDH level was 1942 U per liter (normal range, 118 to 273).",
+            "changes_over_time": "Increased to 2475 U per liter during the fourth month check."
+        },
+        {
+            "procedure_name": "Complete Blood Count (Follow-up)",
+            "date": "Two months later",
+            "findings": "White-cell count was 2800 per cubic millimeter; hemoglobin level was 11.3 g per deciliter; platelet count was 138,000 per cubic millimeter.",
+            "changes_over_time": "Declined from previous levels."
+        },
+        {
+            "procedure_name": "Complete Blood Count (Latest Check)",
+            "date": "Not specified",
+            "findings": "White-cell count was 1900 per cubic millimeter; hemoglobin level was 9.8 g per deciliter; platelet count was 44,000 per cubic millimeter.",
+            "changes_over_time": "Further decline in all parameters."
+        }
+    ]
+}

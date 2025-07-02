@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Four weeks before current admission",
+            "findings": "42.5% (normal range: 36–46)",
+            "changes_over_time": "Increased from 42.5% to 48.9% three weeks before admission to 36.6% on admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Four weeks before current admission",
+            "findings": "14.4 g/dL (normal range: 12–16)",
+            "changes_over_time": "Increased from 14.4 g/dL to 16.2 g/dL three weeks before admission, then decreased to 12.9 g/dL on admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Four weeks before current admission",
+            "findings": "15,000 per mm³ (normal range: 4500–11,000)",
+            "changes_over_time": "Increased from 15,000 to 17,350 three weeks before admission, then decreased to 6800 on admission."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "On admission",
+            "findings": "<0.01 ng/mL (normal: <0.01)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "d-dimer",
+            "date": "Three weeks before current admission",
+            "findings": "246 ng/mL (normal: <500.0)",
+            "changes_over_time": "Increased to 716 ng/mL on admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "On admission",
+            "findings": "260 mg/dL (normal range: 70–110)",
+            "changes_over_time": "Increased from 101 mg/dL four weeks before admission and 168 mg/dL three weeks before admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On admission",
+            "findings": "0.59 mg/dL (normal range: 0.6–1.5)",
+            "changes_over_time": "Decreased from 0.63 mg/dL to 0.75 mg/dL three weeks before admission."
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide",
+            "date": "On admission",
+            "findings": "2360 pg/mL (normal range: 0–450)",
+            "changes_over_time": "Increased from 936 pg/mL four weeks before admission and 1296 pg/mL three weeks before admission."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "On admission",
+            "findings": "8.7 mg/dL (normal range: 8.5–10.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "On admission",
+            "findings": "3.3 mmol/L (normal range: 3.4–5.0)",
+            "changes_over_time": "Decreased from 3.3 mmol/L four weeks before admission and 3.4 mmol/L three weeks before admission."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "On admission",
+            "findings": "92 mmol/L (normal range: 98–108)",
+            "changes_over_time": "Decreased from 99 mmol/L four weeks before admission."
+        },
+        {
+            "procedure_name": "Phosphorus",
+            "date": "On admission",
+            "findings": "2.8 mg/dL (normal range: 2.6–4.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "On admission",
+            "findings": "138 mmol/L (normal range: 135–145)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "On admission",
+            "findings": "14.3 sec (normal range: 11.5–14.5)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin-time international normalized ratio",
+            "date": "On admission",
+            "findings": "1.2 (normal range: 0.9–1.1)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

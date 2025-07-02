@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "Mild hypercalcemia: 11.1 mg/dL at 2 years, 11.2 mg/dL at 6 years. Normal serum phosphate levels.",
+            "changes_over_time": "Progression from normal calcium levels to mild hypercalcemia in patient 1."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "Not specified",
+            "findings": "Undetectable or reduced PTH levels for patient 1; 6.0 pg/ml at 6 years for patient 1.",
+            "changes_over_time": "PTH levels well below normal range over time for patient 1."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated total alkaline phosphatase activity: 701 IU/L at 2 years, 507 IU/L at 6 years for patient 1.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "40 days",
+            "findings": "Normal serum calcium level: 9.0 mg/dL for patient 3.",
+            "changes_over_time": "Progressed to mild hypercalcemia (11.2 mg/dL) by 4 years."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "40 days",
+            "findings": "PTH at the lower end of the normal range for patient 3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "Never overtly hypercalcemic for patient 2; at age 38, ionized calcium at upper end of normal (1.29 mmol/L).",
+            "changes_over_time": "Calcium at the lower end of the normal range at age 32."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "32 years, 38 years",
+            "findings": "PTH levels either slightly elevated or within normal range for patient 2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium to Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "Urinary calcium-to-creatinine ratio significantly increased for all patients; specific values not stated.",
+            "changes_over_time": "Increased ratio over time."
+        },
+        {
+            "procedure_name": "1,25(OH)2D",
+            "date": "Not specified",
+            "findings": "Elevated at 94.9 pg/ml for patient 2 at age 38.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

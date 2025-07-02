@@ -1,0 +1,84 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic Laboratory Values",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": 36.1,
+                "Mean corpuscular volume (µm3)": 87,
+                "Erythrocyte sedimentation rate (mm/hr)": 8,
+                "White-cell count (per mm3)": 6200,
+                "Differential count (%)": {
+                    "Neutrophils": 47,
+                    "Lymphocytes": 41,
+                    "Monocytes": 5,
+                    "Eosinophils": 2,
+                    "Basophils": 1
+                },
+                "Platelet count (per mm3)": 222000
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Not specified",
+            "findings": {
+                "Urea nitrogen": "Normal",
+                "Creatinine": "Normal",
+                "Glucose": "Normal",
+                "Calcium": "Normal",
+                "Phosphorus": "Normal",
+                "Magnesium": "Normal",
+                "Electrolytes": "Normal",
+                "Ammonia (µmol/liter)": 35,
+                "Lactic acid (mmol/liter)": 1.9,
+                "Pyruvate (mg/dl)": 0.82,
+                "Valproic acid (µg/ml)": "<5"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture Findings",
+            "date": "Not specified",
+            "findings": {
+                "Appearance of fluid": "Clear, colorless",
+                "Cells (per mm3)": 2,
+                "Glucose (mg/dl)": 68,
+                "Protein (mg/dl)": {
+                    "Total": 17,
+                    "Albumin": 10.4
+                },
+                "IgG (mg/dl)": 1.1,
+                "Pyruvate (mg/dl)": 0.47,
+                "Lactic acid (mmol/liter)": 1.1,
+                "Microscopical examination": "No microorganisms",
+                "Culture": "No organisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalographic Study",
+            "date": "Not specified",
+            "findings": {
+                "Background slowing": "Slight",
+                "Spike and slow-wave discharges": {
+                    "Frequency": "frequent bursts",
+                    "Amplitude": "500 µV",
+                    "Location": "frontal areas"
+                }
+            },
+            "changes_over_time": "Frequency of the spike-wave activity increased with sleep."
+        },
+        {
+            "procedure_name": "Visual Evoked Potentials",
+            "date": "Not specified",
+            "findings": {
+                "Positive component": {
+                    "Amplitude": "22 to 24 µV",
+                    "Time": "about 90 msec"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

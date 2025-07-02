@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": "Conjunctival injection, icterus, subconjunctival hemorrhages, 2+ bilateral pedal edema, soft abdomen without tenderness or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Nine days after first examination",
+            "vital_signs": "Capillary blood glucose between 30 to 39 mg/dL",
+            "relevant_findings": "Unresponsive on examination by EMS personnel.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eight weeks before current admission",
+            "vital_signs": "Normal",
+            "relevant_findings": "Skin jaundiced, conjunctivae hyperemic, distended abdome, normal tenderness, 1+ peripheral edema. Mental status was only oriented to self.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Five days before current admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Confusion, increasing lethargy, non-radiating mid-abdominal pain, vomiting, splenomegaly noted (19.5 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second day of current admission",
+            "vital_signs": "Temperature: 37.1°C, other vital signs normal",
+            "relevant_findings": "Bilateral subconjunctival hemorrhages, diffuse jaundice, soft abdomen with normal bowel sounds and mild tenderness, no distention or palpable spleen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2.5 hours after CT was performed",
+            "vital_signs": "Blood pressure: 75/45 mm Hg",
+            "relevant_findings": "Hypotension developed post CT scan.",
+            "changes_over_time": "Gradual improvement after normal saline infusion, albumin and red cell transfusion."
+        }
+    ]
+}

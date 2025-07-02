@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Skin lesions were described as violaceous, ulcerated with infarcted necrotic areas, and located in the inguinal and axillary regions. Blood tests showed leukopenia (WBC count, 2460/μL) and neutropenia (neutrophil count, 220/μL).",
+            "changes_over_time": "Lesions progressed to become ulcerated within 3 to 4 days, necessitating surgical debridement due to worsening condition."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "CD4+ cell count: 4770/μL; neutrophil count increased to 2810/μL.",
+            "relevant_findings": "Skin lesions improved with antipseudomonal antibiotic therapy. CD4+ and immunoglobulin levels were normal.",
+            "changes_over_time": "The neutrophil count increased from 220/μL to 2810/μL, and skin lesions improved following treatment with piperacillin sodium and tazobactam sodium."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "HIV viral load reduced to 2403 copies/mL (3.38 log10 copies/mL).",
+            "relevant_findings": "Fourth-generation ELISA for HIV was positive for the mother.",
+            "changes_over_time": "The HIV viral load was higher than 7.0 log10 copies/mL initially and reduced significantly after 6 weeks of highly active antiretroviral therapy."
+        }
+    ]
+}

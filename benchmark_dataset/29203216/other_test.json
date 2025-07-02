@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fetal echocardiography",
+            "date": "Not specified",
+            "findings": "Diagnosis of left ventricular noncompaction (LVNC) and double outlet of the right ventricle, in addition to the interruption of the aorta and aortic stenosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilateral pulmonary artery banding",
+            "date": "6 days after birth",
+            "findings": "Worsening heart failure with pericardial effusion, pleural effusion, and ascites.",
+            "changes_over_time": "Heart failure worsened after surgical intervention."
+        },
+        {
+            "procedure_name": "Genetic testing (next-generation sequencing)",
+            "date": "Not specified",
+            "findings": "Identified a novel heterozygous splicing variant in the MYH7 gene (c.896-1G>A) in the patient and her father; heterozygous missense variant in the CD36 gene (c.760T>C, p.Phe254Leu) in the patient and her mother.",
+            "changes_over_time": "Patient and her mother showed reduced CD36 expression compared with the father."
+        }
+    ]
+}

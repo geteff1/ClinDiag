@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Multiple surgical clips in the area of the previous right adrenalectomy. A small nodule anterior to the left kidney. Left adrenal gland was diffusely thickened, suggesting the possibility of a small left adrenal mass. An oblong density left of the aorta, consistent with a left para-aortic node or left renal artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal MRI scan",
+            "date": "Not specified",
+            "findings": "Somewhat thickened left adrenal gland without evidence of a discrete mass. No hepatic, splenic, or pancreatic lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "[131I]MIBG scanning",
+            "date": "Not specified",
+            "findings": "Focus of activity in the upper abdomen, immediately to the left and anterior to the left lobe of the liver.",
+            "changes_over_time": "Focus disappeared 48 hours after [131I]MIBG scanning, suggesting uptake and excretion in the colon."
+        },
+        {
+            "procedure_name": "6-[18F]Fluorodopamine PET scan",
+            "date": "Not specified",
+            "findings": "Area of 6-[18F]fluorodopamine-derived radioactivity in the region of the previous right adrenalectomy, suggesting recurrent pheochromocytoma.",
+            "changes_over_time": "Close comparison with MRI indicated that the area extended about 3–4 cm anteriorly and medially from the right adrenal surgical bed to the region of the inferior vena cava."
+        },
+        {
+            "procedure_name": "[123I]MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "Increased [123I]MIBG uptake in the right adrenal bed.",
+            "changes_over_time": "Confirmed previous findings from the vena caval sampling and 6-[18F]fluorodopamine PET scanning."
+        }
+    ]
+}

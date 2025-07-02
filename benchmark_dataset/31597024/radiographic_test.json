@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "No evidence of an acute intracranial process; finding suggestive of an inferior basal ganglia cyst unchanged from previous imaging.",
+            "changes_over_time": "The finding of the inferior basal ganglia cyst was unchanged from the CT performed 5 years earlier."
+        },
+        {
+            "procedure_name": "MRI and magnetic resonance arteriography",
+            "date": "Not specified",
+            "findings": "Stable, scattered demyelinating plaques; no active demyelinating lesions; no evidence of venous sinus thrombosis or cavernous sinus thrombosis.",
+            "changes_over_time": "No changes over time; findings were stable."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified (performed on admission to the hospital)",
+            "findings": "Subtle leptomeningeal enhancement in the posterior fossa; T2-weighted FLAIR imaging showed signal hyperintensity in the sulci of the temporal and occipital lobes, and in the right posterior periatrial region corresponding to a punctate focus of restricted diffusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up MRI of the head",
+            "date": "Not specified (10 days after admission)",
+            "findings": "New hydrocephalus; progressive and extensive leptomeningeal enhancement; abnormal enhancement in the choroid plexus and ependyma of the lateral ventricles; extensive periventricular signal hyperintensity throughout both cerebral hemispheres; areas of restricted diffusion.",
+            "changes_over_time": "Progression noted with new hydrocephalus and enhanced leptomeningeal pathology compared to previous MRI."
+        }
+    ]
+}

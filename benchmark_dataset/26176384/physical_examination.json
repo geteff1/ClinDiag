@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C",
+                "pulse": "102 bpm",
+                "blood_pressure": "162/83 mm Hg",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared pale and fatigued.",
+                "jugular_venous_pressure": ">19 cm of water",
+                "pulsus_paradoxus": "14 mm Hg",
+                "heart_sounds": "Distant",
+                "lung_examination": "Dullness on percussion at both lung bases.",
+                "edema": "Pitting edema of the legs below the knees and mild swelling around the shoulders and elbows.",
+                "rash": "Faint pink macules on forearms and right antecubital fossa, transiently visible."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "During hospital stay",
+            "vital_signs": {
+                "temperature": "Between 38.9°C and 39.4°C",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "fever": "Persistent fever with temperatures reported.",
+                "dyspnea": "Progressively increased dyspnea.",
+                "rash": "Faint erythematous rash reappeared on face, neck, and arms."
+            },
+            "changes_over_time": "Increased dyspnea and persistent fever."
+        }
+    ]
+}

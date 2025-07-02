@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "144 /H9262U/ml",
+                "TSH_confirmed": "179 /H9262U/ml",
+                "serum_T3": "0.9 nmol/liter",
+                "serum_T4": "27 nmol/liter"
+            },
+            "relevant_findings": "Hypothyroidism diagnosed at neonatal screening; athyreosis suggested on neck ultrasound.",
+            "changes_over_time": "At 17 months, the patient was clinically euthyroid with unremarkable physical examination. Thyroid function tests were consistently normal during follow-up."
+        },
+        {
+            "date": "At 10 years old",
+            "vital_signs": {
+                "L-thyroxine_dose": "87.5 /H9262g daily"
+            },
+            "relevant_findings": "Patient developed normally on L-thyroxine treatment.",
+            "changes_over_time": "Continued euthyroid status with adjustments in L-thyroxine dosage based on age and weight."
+        }
+    ]
+}

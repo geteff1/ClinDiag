@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "12-lead EKG",
+            "date": "Not specified",
+            "findings": "Baseline sinus rhythm at 74 beats/min and a normal Q-T interval.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG (polygraphic)",
+            "date": "Not specified",
+            "findings": "No abnormalities during baseline recording. High-amplitude theta-delta activity during at 12 flashes/s concurrent with asystole.",
+            "changes_over_time": "A reproducible response with progressive bradycardia and decrease in arterial blood pressure was seen over time with stimuli at 4 to 6 and 8 flashes/s."
+        },
+        {
+            "procedure_name": "Cranial CT",
+            "date": "Not specified",
+            "findings": "Hypointense region in the left basal ganglia suggestive of an ischemic stroke.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Acute infarct in the left caudate head, internal capsule, and putamen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRA",
+            "date": "Not specified",
+            "findings": "Absent basilar artery, vertebral arteries terminating in the posterior inferior cerebellar arteries, occlusion of the first segment of the left middle cerebral artery, tortuosity of the carotid, vertebral, and internal mammillary arteries.",
+            "changes_over_time": "An arteriogram confirmed the MRA findings."
+        },
+        {
+            "procedure_name": "Blood Tests (various tests)",
+            "date": "Not specified",
+            "findings": "Normal prothrombin and partial thromboplastin times, as well as normal aPTT, and platelet count at different times (e.g., declined from 159 to 40 and back to 168 cells/uL).",
+            "changes_over_time": "Plates count decreased after surgery but returned to normal after transfusion."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal baseline; elevated heart rate indicative of stress/disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Elevated creatine kinase at 5,000 U/L.",
+            "changes_over_time": "Creatine kinase rose in response to suspected myopathy."
+        },
+        {
+            "procedure_name": "Biochemical studies",
+            "date": "Not specified",
+            "findings": "Calcium 9.9 mg/dL, phosphorus 1.4 mg/dL, alkaline phosphatase 318 U/L, and elevated FGF-23 1,640 RU/mL.",
+            "changes_over_time": "Post-operative serum phosphorus and FGF-23 returned to normal within 3 days."
+        },
+        {
+            "procedure_name": "Tremor Scale Assessment",
+            "date": "Not specified",
+            "findings": "Mild tremor at admission, completely resolved 3 weeks later.",
+            "changes_over_time": "Writing tremor disappeared after striatal infarction."
+        },
+        {
+            "procedure_name": "14-3-3 protein assay",
+            "date": "Not specified",
+            "findings": "Slightly positive in the CSF.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

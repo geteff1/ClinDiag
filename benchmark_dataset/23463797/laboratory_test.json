@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "2.1 (60% neutrophils, 32% eosinophils, 16% lymphocytes, 2% monocytes)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Level",
+            "date": "Not specified",
+            "findings": "7.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "121,000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 Count",
+            "date": "Not specified",
+            "findings": "84 cells/mm3",
+            "changes_over_time": "Increased to 174 cells/mm3 within 4 weeks"
+        },
+        {
+            "procedure_name": "Viral Load",
+            "date": "Not specified",
+            "findings": "7.36 million copies/mL",
+            "changes_over_time": "Decreased to 4,150 copies/mL within 4 weeks"
+        }
+    ]
+}

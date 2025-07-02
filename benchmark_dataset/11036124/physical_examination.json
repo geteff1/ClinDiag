@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 19, 2000",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "pulse": "104 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "110/60 mmHg"
+            },
+            "relevant_findings": {
+                "shotty_cervical_lymph_nodes": "present",
+                "cafe_au_lait_spot": "questionable",
+                "hair_growth": "greater-than-normal over legs and back",
+                "hepatomegaly": "2 to 3 cm below right costal margin",
+                "splenomegaly": "absent",
+                "digit_position": "fifth digits turned inward slightly, more on right side",
+                "spinal_tenderness": "absent",
+                "testicular_volume": "1 ml each side",
+                "pubic_hair": "absent",
+                "neurologic_examination": "no abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

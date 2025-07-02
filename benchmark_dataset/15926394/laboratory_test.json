@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid-stimulating hormone (TSH) level",
+            "date": "Not specified",
+            "findings": "Elevated thyroid-stimulating hormone level of greater than 150 mIU/L (normal range 0.7–6.4 mIU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroxine level",
+            "date": "Not specified",
+            "findings": "Decreased thyroxine level of 0.5 µg/dL (normal range 4.5–12.5 µg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prolactin level",
+            "date": "Not specified",
+            "findings": "Slightly elevated prolactin level of 45 ng/ml (normal range 1.4–24 ng/ml)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

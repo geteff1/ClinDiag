@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "39 mg/dL (hypoglycemic)",
+            "changes_over_time": "Decreased from 93 mg/dL at the start of the fast to 37 mg/dL at 25 hours."
+        },
+        {
+            "procedure_name": "Insulin test",
+            "date": "Not specified",
+            "findings": "40 mcU/mL (26 hours into fasting), 1.0 mcU/mL (initial admission), 15.7 mcU/mL (25 hours into fast)",
+            "changes_over_time": "Increased from 1.0 mcU/mL to 15.7 mcU/mL over 25 hours."
+        },
+        {
+            "procedure_name": "C-peptide test",
+            "date": "Not specified",
+            "findings": "1 ng/mL (initial admission), 1.6 ng/mL (3.5 hours into fasting), 2.2 ng/mL (25 hours into fasting)",
+            "changes_over_time": "Increased from 1 ng/mL to 2.2 ng/mL over 25 hours."
+        },
+        {
+            "procedure_name": "Proinsulin test",
+            "date": "Not specified",
+            "findings": "35 pmol/L (hypoglycemic condition)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "68Ga-DOTATATE PET/CT",
+            "date": "Not specified",
+            "findings": "SUV of 12 indicating focal uptake in the neck of the pancreas.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mixed meal test",
+            "date": "Not specified",
+            "findings": "Post-meal test not detailed but conducted prior to fasting.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intra-arterial calcium stimulation testing",
+            "date": "Not specified",
+            "findings": "Step-up of venous insulin levels on injection of the superior mesenteric artery and proximal and mid-splenic artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

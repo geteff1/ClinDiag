@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Toxicology Screen",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography Scan",
+            "date": "Not specified",
+            "findings": "Shows septal perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-operative Evaluation",
+            "date": "1 year follow-up",
+            "findings": "No evidence of fistula, normal speech.",
+            "changes_over_time": "Showed improvement after operation."
+        },
+        {
+            "procedure_name": "Nuclear Magnetic Resonance",
+            "date": "Not specified",
+            "findings": "Spectrum of sample 1 matched that of dimethylpolysiloxane, indicating the injected material was not collagen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Multiple hypointense masses of various sizes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

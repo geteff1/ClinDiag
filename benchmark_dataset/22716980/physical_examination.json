@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "58/44 mm Hg",
+                "pulse": "119 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "94 to 96%",
+                "blood_glucose_level": "72 mg/dl"
+            },
+            "relevant_findings": "Nondysmorphic appearance, moderate subcostal retractions, shallow respirations, slightly diminished intensity of bronchial breath sounds, normal examination for gestational age.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "blood_pressure": "60/30 mm Hg",
+                "pulse": "174 bpm",
+                "respiratory_rate": "56 breaths/min",
+                "oxygen_saturation": "Not specified",
+                "blood_glucose_level": "Not specified"
+            },
+            "relevant_findings": "Attempted to cry around endotracheal tube; decreased breath sounds bilaterally; heart sounds normal without murmurs; warm and well perfused extremities; ruddy, thin skin with visible veins; no plantar creases; no breast tissue; moved all extremities with resting posture in extension.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2nd day of life",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Development of neonatal abstinence syndrome characterized by tremors, agitation, poor sleeping, and frantic behavior.",
+            "changes_over_time": "Improved following administration of morphine."
+        },
+        {
+            "date": "3rd day of life",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Systolic ejection murmur appreciated; respiratory distress recurred; respiratory acidosis noted.",
+            "changes_over_time": "Trachea reintubated, and echocardiography showed normal structures but also revealed patent ductus arteriosus with left-to-right shunting."
+        },
+        {
+            "date": "6th day of life",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Increased work of breathing; mottled skin; reintubated; developed hypotension and oxygen desaturation to 70%.",
+            "changes_over_time": "Deteriorated clinically with progressive multiorgan system failure leading to death."
+        }
+    ]
+}

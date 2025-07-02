@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Bilateral hyperintensity in the globus pallidus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI (Diffusion-weighted imaging)",
+            "date": "Not specified",
+            "findings": "Bilateral hyperintense signal of hippocampus, cortex of the temporal lobe, and caudate and lenticular nucleus.",
+            "changes_over_time": "Repeat CT scan after 4 days showed subtle decreased attenuation of the basal ganglia; on day 5, there was hyperintense signal in the basal ganglia, hippocampus, and cerebral cortex bilaterally."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "After 4 days, showed subtle decreased attenuation of the basal ganglia."
+        }
+    ]
+}

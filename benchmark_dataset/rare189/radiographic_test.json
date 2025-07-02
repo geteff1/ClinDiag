@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Contrast-enhanced computer tomography (CECT)",
+            "date": "Not specified",
+            "findings": "Unenhanced lesions in the splenic vein suggesting ISVT.",
+            "changes_over_time": "On August 14, 2023, CECT scans still showed low-density lesions in the proximal splenic vein. On August 22, 2023, repeat CECT scans showed a slight decrease in thrombus extension. On September 26, 2023, CECT scans showed that the splenic vein became a fibrotic cord."
+        },
+        {
+            "procedure_name": "Upper gastrointestinal endoscopy",
+            "date": "August 11, 2023",
+            "findings": "Superficial gastritis without gastroesophageal varices.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced computer tomography (CECT)",
+            "date": "August 14, 2023",
+            "findings": "Low-density lesions in the proximal splenic vein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced computer tomography (CECT)",
+            "date": "August 22, 2023",
+            "findings": "Slight decrease in thrombus extension.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced computer tomography (CECT)",
+            "date": "September 26, 2023",
+            "findings": "The splenic vein became a fibrotic cord.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

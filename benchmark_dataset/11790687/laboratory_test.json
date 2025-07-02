@@ -1,0 +1,79 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "289 mg/dL",
+                "triglycerides": "108 mg/dL",
+                "LDL": "205 mg/dL",
+                "HDL": "62 mg/dL"
+            },
+            "changes_over_time": {
+                "initial": {
+                    "total_cholesterol": "289 mg/dL",
+                    "triglycerides": "108 mg/dL",
+                    "LDL": "205 mg/dL",
+                    "HDL": "62 mg/dL"
+                },
+                "after_diet": {
+                    "total_cholesterol": "220 mg/dL",
+                    "triglycerides": "117 mg/dL",
+                    "LDL": "136 mg/dL",
+                    "HDL": "60 mg/dL"
+                },
+                "description": "LDL cholesterol decreased from 205 mg/dL to 136 mg/dL, and total cholesterol decreased from 289 mg/dL to 220 mg/dL."
+            }
+        },
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "256 mg/dL",
+                "triglycerides": "380 mg/dL",
+                "LDL": "156 mg/dL",
+                "HDL": "32 mg/dL"
+            },
+            "changes_over_time": {
+                "initial": {
+                    "total_cholesterol": "256 mg/dL",
+                    "triglycerides": "380 mg/dL",
+                    "LDL": "156 mg/dL",
+                    "HDL": "32 mg/dL"
+                },
+                "on_statin": {
+                    "total_cholesterol": "161 mg/dL",
+                    "triglycerides": "290 mg/dL",
+                    "LDL": "68 mg/dL",
+                    "HDL": "35 mg/dL"
+                },
+                "description": "Total cholesterol decreased from 256 mg/dL to 161 mg/dL and LDL decreased from 156 mg/dL to 68 mg/dL on statin therapy."
+            }
+        },
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "149 mg/dL",
+                "triglycerides": "120 mg/dL",
+                "LDL": "99 mg/dL",
+                "HDL": "33 mg/dL"
+            },
+            "changes_over_time": {
+                "initial": {
+                    "total_cholesterol": "149 mg/dL",
+                    "triglycerides": "120 mg/dL",
+                    "LDL": "99 mg/dL",
+                    "HDL": "33 mg/dL"
+                },
+                "after_nuts": {
+                    "total_cholesterol": "162 mg/dL",
+                    "triglycerides": "110 mg/dL",
+                    "LDL": "98 mg/dL",
+                    "HDL": "42 mg/dL"
+                },
+                "description": "Total cholesterol increased slightly to 162 mg/dL after adding nuts, but HDL increased from 33 mg/dL to 42 mg/dL."
+            }
+        }
+    ]
+}

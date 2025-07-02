@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "19 months of age",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "pulse": "110 bpm",
+                "blood_pressure": "125/55 mmHg",
+                "respiratory_rate": "32 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "physical_examination": "Cachexia; otherwise appeared well and happy, was playful and active.",
+                "weight": "7.4 kg (<1st percentile)",
+                "anterior_fontanelle": "Closed",
+                "other_findings": "Physical examination otherwise normal."
+            },
+            "changes_over_time": "Weight decreased from 7.6 kg at 17 months to 7.4 kg at 19 months despite reports of adequate food intake."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Weight was 7.3 kg (<1st percentile); physical examination otherwise unchanged.",
+                "other_findings": "Tests for anti–tissue transglutaminase IgA and IgG antibodies and HIV were negative."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

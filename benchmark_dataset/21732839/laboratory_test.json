@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "10,800 per cubic millimeter",
+                "hematocrit": "27.6%",
+                "hemoglobin": "8.8 mg per deciliter",
+                "platelet_count": "892,000 per cubic millimeter",
+                "mean_corpuscular_volume": "85 μm3",
+                "red_cell_distribution_width": "13.5%",
+                "differential_count": {
+                    "neutrophils": "70%",
+                    "band_forms": "0%",
+                    "lymphocytes": "21%",
+                    "monocytes": "5%",
+                    "eosinophils": "4%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "138 mmol per liter",
+                "potassium": "5.3 mmol per liter",
+                "chloride": "103 mmol per liter",
+                "bicarbonate": "26 mmol per liter",
+                "blood_urea_nitrogen": "16 mg per deciliter",
+                "creatinine": "0.8 mg per deciliter",
+                "alanine_aminotransferase": "107 U per liter",
+                "aspartate_aminotransferase": "82 U per liter",
+                "alkaline_phosphatase": "567 U per liter",
+                "total_bilirubin": "0.3 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": {
+                "erythrocyte_sedimentation_rate": ">140 mm per hour"
+            },
+            "changes_over_time": "Increased from earlier measurements; extreme elevation indicates an acute-phase reaction"
+        },
+        {
+            "procedure_name": "C-reactive Protein Level",
+            "date": "Not specified",
+            "findings": {
+                "c_reactive_protein": "200 mg per liter (normal range: 0 to 7.9)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron Studies",
+            "date": "Not specified",
+            "findings": {
+                "iron_level": "17 μg per deciliter",
+                "ferritin": "618 μg per liter",
+                "haptoglobin": "566 mg per deciliter (normal range: 30 to 200)",
+                "reticulocyte_count": "1.7%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "leukocytes": "0 to 2 per high-power field",
+                "erythrocytes": "3 to 5 per high-power field",
+                "bacteria": "rare"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures and Stool Cultures",
+            "date": "Not specified",
+            "findings": {
+                "blood_cultures": "negative",
+                "stool_cultures": "negative",
+                "C_difficile_toxin": "negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "disseminated tuberculosis",
+        "differential_diagnosis": [
+            "Sweet's syndrome",
+            "viral infections (e.g., herpes, varicella)",
+            "tick-borne illnesses (e.g., Lyme disease, Rocky Mountain spotted fever)",
+            "fungal infections (e.g., aspergillus, fusarium)",
+            "mycobacterial infections",
+            "autoimmune conditions",
+            "drug hypersensitivity reactions"
+        ],
+        "diagnostic_reasoning": "The patient initially presented with symptoms consistent with Sweet's syndrome, characterized by papules and plaques, along with fever and arthralgias. However, upon further investigation including a skin biopsy and thorough infectious workup, a diagnosis of disseminated tuberculosis was confirmed when lymph node biopsy revealed acid-fast bacilli. This late finding led to the conclusion that the Sweet's syndrome was likely a reaction to an underlying, undiagnosed M. tuberculosis infection."
+    }
+}

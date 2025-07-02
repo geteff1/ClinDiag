@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL (reference range, 2.6–4.5 mg/dL)",
+            "changes_over_time": "Last serum phosphate level was 2.6 mg/dL when checked 10 years earlier."
+        },
+        {
+            "procedure_name": "Fractional Excretion of Phosphate",
+            "date": "Not specified",
+            "findings": "34% (reference, /H110215% in the setting of hypophosphatemia)",
+            "changes_over_time": "41% recorded 5 weeks after admission; 23% recorded 12 weeks after admission."
+        },
+        {
+            "procedure_name": "FGF23",
+            "date": "Not specified",
+            "findings": "674 RU/mL (reference, /H11021180 RU/mL)",
+            "changes_over_time": "Decreased to 174 RU/mL at 5 weeks after admission and 167 RU/mL at 12 weeks after admission."
+        },
+        {
+            "procedure_name": "1,25(OH)2D",
+            "date": "Not specified",
+            "findings": "13 pg/mL (reference, 18–78 pg/mL)",
+            "changes_over_time": "Increased to 93 pg/mL at 5 weeks after admission, then decreased to 53 pg/mL at 12 weeks after admission."
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "33 ng/mL (reference range, 33–100 ng/mL)",
+            "changes_over_time": "Decreased to 22 ng/mL at 5 weeks after admission, then returned to 22 ng/mL at 12 weeks after admission."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "9.2 mg/dL (reference range, 8.5–10.5 mg/dL)",
+            "changes_over_time": "9.0 mg/dL at 5 weeks after admission; 9.1 mg/dL at 12 weeks after admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.7 mg/dL (reference range, 0.6–1.5 mg/dL)",
+            "changes_over_time": "Remained stable at 0.7 mg/dL at all measured times."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "757 U/L (reference range, 30–100 U/L)",
+            "changes_over_time": "Decreased to 363 U/L at 5 weeks after admission and then to 313 U/L at 12 weeks after admission."
+        },
+        {
+            "procedure_name": "PTH",
+            "date": "Not specified",
+            "findings": "36 pg/mL (reference range, 10–60 pg/mL)",
+            "changes_over_time": "Increased to 132 pg/mL at 5 weeks after admission, then decreased to 94 pg/mL at 12 weeks after admission."
+        }
+    ]
+}

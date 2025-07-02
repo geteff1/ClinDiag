@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "Not specified",
+            "findings": "A focus of increased uptake in the right aspect of the T6 vertebral body, suggesting the possibility of a metastasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mammography",
+            "date": "Not specified",
+            "findings": "An ill-defined mass in the upper outer quadrant of the left breast.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "An ill-defined, hypoechoic, lobulated mass, 3.5 cm by 2.7 cm by 2.0 cm, at the 2 o’clock position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the breasts",
+            "date": "Not specified",
+            "findings": "An ill-defined, lobulated, enhancing mass, 2.9 cm by 2.7 cm by 2.5 cm, in the upper outer quadrant of the left breast.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the thoracic spine",
+            "date": "Not specified",
+            "findings": "A lytic destructive lesion, 1.8 cm by 1.6 cm by 1.5 cm, in the right side of the T6 vertebral body.",
+            "changes_over_time": "The bone lesion remained stable over time."
+        }
+    ]
+}

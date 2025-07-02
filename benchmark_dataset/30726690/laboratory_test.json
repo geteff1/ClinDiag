@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "27.8%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean Corpuscular Volume",
+            "date": "Not specified",
+            "findings": "85 fl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "5700 per cubic millimeter, with 79% segmented neutrophils, 6% monocytes, 11% lymphocytes, and 4% eosinophils",
+            "changes_over_time": "Decreased to 5300 per cubic millimeter, with 74.5% segmented neutrophils, 7% monocytes, and 15% lymphocytes at follow-up."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "180,000 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "27 mg per deciliter (9.6 mmol per liter)",
+            "changes_over_time": "Increased from 19.6 mg per deciliter (7.0 mmol per liter) four months earlier to 50 mg per deciliter (18 mmol per liter) one month after discharge, then to 67 mg per deciliter (24 mmol per liter) two weeks later."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.45 mg per deciliter (130 μmol per liter)",
+            "changes_over_time": "Increased from 0.82 mg per deciliter (70 μmol per liter) four months earlier to 2.2 mg per deciliter (190 μmol per liter) one month after discharge, then decreased to 2.1 mg per deciliter (190 μmol per liter) two weeks later."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "160 mg per deciliter (8.9 mmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "60 mm per hour",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "+1 blood and +3 protein, with a protein-to-creatinine ratio of 6682 mg protein per gram creatinine (normal value <200), and an albumin-to-creatinine ratio of 2652 mg albumin per gram creatinine (normal range 0 to 30)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour Urine Collection",
+            "date": "1 month after discharge",
+            "findings": "7 g of protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV Testing",
+            "date": "Not specified",
+            "findings": "Positive with a CD4 count of 110 per cubic millimeter, viral load of 156,000 copies per milliliter",
+            "changes_over_time": "Viral load became undetectable six months after starting ART"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Hypercellular with 40 to 50% cellularity; no atypical or dysplastic cells",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

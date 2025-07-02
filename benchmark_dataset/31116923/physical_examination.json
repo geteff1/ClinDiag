@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "pulse": "66 bpm",
+                "blood_pressure": "122/89 mm Hg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "cough": "Light-green sputum with a bloody streak.",
+                "oropharynx": "Slight yellow discoloration on the tongue; no erythema or exudates.",
+                "sinuses": "No tenderness on percussion.",
+                "lymphadenopathy": "None noted.",
+                "chest": "Clear, without rales, wheezing, or egophony.",
+                "jugular_venous_pulse": "6 cm of water.",
+                "heart": "Crescendo–decrescendo systolic murmur (grade 3/6) along the left sternal border that increased during Valsalva maneuver.",
+                "edema": "None noted."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

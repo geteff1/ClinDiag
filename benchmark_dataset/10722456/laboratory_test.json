@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBCs, /L; hemoglobin, 93.7 g/dL; and platelets, /L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "Not specified",
+            "findings": "CD4 cell count of 60/mm3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Hospital day 6",
+            "findings": "Two sets of cultures yielded acid-fast organisms.",
+            "changes_over_time": "After 4 weeks of therapy, cultures were sterile."
+        }
+    ]
+}

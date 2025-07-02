@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2 °C",
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "blood_pressure": "84/56 mmHg"
+            },
+            "relevant_findings": "Patient appeared ill; lethargic but cooperative. Hemorrhagic cellulitis of the left lower leg without regional lymphadenopathy was observed.",
+            "changes_over_time": "By the morning after admission, the patient's temperature had risen to 39.8 °C, and the hemorrhagic cellulitis was rapidly progressing."
+        },
+        {
+            "date": "Morning after admission",
+            "vital_signs": {
+                "temperature": "39.8 °C",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": "Rapidly progressing hemorrhagic cellulitis.",
+            "changes_over_time": "Humor again noted, subsequent emergent fasciotomy performed due to progression."
+        },
+        {
+            "date": "48 hours after fasciotomy",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Hemorrhagic and infected soft tissues led to left transfemoral amputation.",
+            "changes_over_time": "Patient gradually improved and regained full consciousness 4 days after transfemoral amputation."
+        },
+        {
+            "date": "3 days after extubation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Development of right hemiparesis without hypotensive episodes.",
+            "changes_over_time": "CT scan revealed low-density areas indicating cerebritis."
+        },
+        {
+            "date": "1 week after extubation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Neck stiffness, aphasia, and loss of consciousness observed.",
+            "changes_over_time": "CT scans revealed left fronto-temporal hemorrhage."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Clear lungs; cardiac silhouette within normal limits; pacemaker leads well positioned without evidence of lead fracture or cable extrusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal left ventricular dimensions and wall thickness; normal LV ejection fraction (62%); abnormal apical wall motion reflecting pacemaker activation; elevated right atrial pressure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Significant variability of myofiber size; disturbed intermyofibrillar network; increase in the number of myofibers with internal nuclei; presence of rimmed vacuoles; eosinophilic material in certain fibers; no active inflammatory changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pacemaker interrogation",
+            "date": "4 months prior to hospital admission",
+            "findings": "Increased threshold to 2.0 V compared with 0.75 V.",
+            "changes_over_time": "Increased threshold noted over time indicating potential pacemaker dysfunction."
+        }
+    ]
+}

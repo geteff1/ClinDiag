@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Sterile",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HBV serologic testing",
+            "date": "Not specified",
+            "findings": "Positive for HBsAg, reactive for HBeAg, reactive for HBc IgM, very high HBV DNA",
+            "changes_over_time": "Aminotransferase levels rose dramatically, normalizing after treatment by day 30"
+        },
+        {
+            "procedure_name": "Complement levels monitoring",
+            "date": "Not specified",
+            "findings": "Normal C3 and C4 levels",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

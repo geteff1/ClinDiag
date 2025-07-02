@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120–140/80–90",
+                "pulse": "68–82"
+            },
+            "relevant_findings": "Mild anxiety (1 on a 0- to 3-point scale), mild nausea, strong but not fast heartbeat.",
+            "changes_over_time": "Symptoms resolved within 8 hours after modafinil dosing on both days."
+        },
+        {
+            "date": "Day 2, 9:00 p.m.",
+            "vital_signs": {
+                "blood_pressure": "136/84",
+                "pulse": "84"
+            },
+            "relevant_findings": "Moderate chest tightness, nausea, anxiety, and a pounding but not fast heartbeat.",
+            "changes_over_time": "Symptoms progressed in intensity compared to the earlier day."
+        },
+        {
+            "date": "30 hours later",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified"
+            },
+            "relevant_findings": "Modafinil, 200 mg daily, was started and increased to 400 mg without incident.",
+            "changes_over_time": "Patient reported previous symptoms as 'the same but much more intense.'"
+        }
+    ]
+}

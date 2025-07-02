@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "T-cell count",
+            "date": "10 months",
+            "findings": "Very low T-cell counts; B-cell counts normal, eosinophilia (1000 cells per cubic millimeter)",
+            "changes_over_time": "T-cell counts low at 10 months, gradually increased until age of 2 years, but remained below normal values."
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization",
+            "date": "Not specified",
+            "findings": "Maternal lymphocytes could not be detected in the blood.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum immunoglobulin levels",
+            "date": "Not specified",
+            "findings": "Elevated serum immunoglobulin levels, with specific measurements not provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antibody response to immunization",
+            "date": "Not specified",
+            "findings": "No antibodies detected after immunization with tetanus toxoid, diphtheria toxoid and poliovirus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T-cell receptor–CD3 complex analysis",
+            "date": "10 months",
+            "findings": "90% of circulating T cells with low levels of T-cell receptor–CD3 complex, 10% with normal levels.",
+            "changes_over_time": "Normal levels of the T-cell receptor–CD3 complex were detected after mutations; however, T-cell receptor signaling remained defective."
+        },
+        {
+            "procedure_name": "Proliferation assays",
+            "date": "10 months",
+            "findings": "Impaired T-cell proliferation compared to controls; partial restoration of response with interleukin-2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": "ZAP-70 present but not phosphorylated in T cells with normal levels of T-cell receptor–CD3 complex.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

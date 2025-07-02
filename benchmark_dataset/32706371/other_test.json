@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rapid Whole-Exome Sequencing",
+            "date": "Not specified",
+            "findings": "Loss-of-function variants of the X-chromosomal TLR7 were identified, associated with impaired type I and III interferon responses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR and Sanger Sequencing",
+            "date": "Not specified",
+            "findings": "All identified TLR7 variants were confirmed by standard Sanger sequencing and co-segregation analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immune Cell Functional Testing",
+            "date": "Not specified",
+            "findings": "Defective upregulation of type I interferon-related genes in response to TLR7 agonist imiquimod was observed in patients compared to controls.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "In Vitro PBMC Experiments",
+            "date": "Not specified",
+            "findings": "Patients were completely deficient for IFN-γ production in response to TLR7 stimulation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Enzyme-Linked Immunosorbent Assay Measurements",
+            "date": "Not specified",
+            "findings": "Cytokines' production was measured, with patients displaying low IFN-γ response to TLR7 stimulation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

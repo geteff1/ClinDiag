@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "28 weeks of pregnancy",
+            "findings": "Presence of megacystis and bilateral hydronephrosis.",
+            "changes_over_time": "Normal findings at previous ultrasound examinations at 20 and 24 weeks' gestational age."
+        },
+        {
+            "procedure_name": "Fetal Doppler ultrasound",
+            "date": "30 weeks of pregnancy",
+            "findings": "Decreased venous return with presence of pulsative flow in the inferior vena cava and continuous elevated fetal heart rate.",
+            "changes_over_time": "Persistent ascites and oligohydramnios observed."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "34 weeks of pregnancy",
+            "findings": "Relapse of the megacystis with bilateral pyelectasis and oligohydramnios (AFI 2.4 cm).",
+            "changes_over_time": "Possible due to healing of the bladder rupture."
+        },
+        {
+            "procedure_name": "Fetal ultrasonography",
+            "date": "1 day post-operatively",
+            "findings": "No residual ascites, correct stent position, absence of hydronephrosis, normalization of AFI to 10.8 cm.",
+            "changes_over_time": "Resolution of ascites and hydronephrosis post-surgery."
+        },
+        {
+            "procedure_name": "Cystography",
+            "date": "1 week after birth",
+            "findings": "Confirmed a right-sided grade I vesico-ureteral reflux (VUR).",
+            "changes_over_time": "Minimal residual grade I VUR on repeat cystography at 12 months."
+        },
+        {
+            "procedure_name": "DMSA scan and Cr-EDTA study",
+            "date": "6 months after birth",
+            "findings": "Normal kidneys with symmetrical function and good absolute renal clearance.",
+            "changes_over_time": "Normal renal clearance of 151 ml/minute/1.73 m2 at three years."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Confirmed spontaneous bladder rupture with fetal urinary ascites compressing the thoracic cavity, no signs of pulmonary hypoplasia, kidneys appeared normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

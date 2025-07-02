@@ -1,0 +1,87 @@
+{
+    "physical_examinations": [
+        {
+            "date": "4.5 yr",
+            "vital_signs": {
+                "cortisol": {
+                    "value": "< 1.0 µg/dl (undetectable)",
+                    "date": "4.5 yr"
+                },
+                "ACTH": {
+                    "value": "1250 pg/ml",
+                    "date": "4.5 yr"
+                },
+                "PRA": {
+                    "value": "5.3 ng/ml/h",
+                    "normal_range": "0.3–3.9",
+                    "date": "4.5 yr"
+                },
+                "sodium": {
+                    "value": "138 mEq/liter",
+                    "date": "4.5 yr"
+                },
+                "potassium": {
+                    "value": "4.2 mEq/liter",
+                    "date": "4.5 yr"
+                },
+                "aldosterone": {
+                    "value": "15.5 ng/dl",
+                    "normal_range": "4–31",
+                    "date": "4.5 yr"
+                }
+            },
+            "relevant_findings": "Initial manifestations included fever, vomiting, hypoglycemia, and hyperpigmentation. On examination, progressive hyperpigmentation noted prompting referral.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "2.2 yr",
+            "vital_signs": {
+                "cortisol": {
+                    "value": "6.2 µg/dl",
+                    "date": "2.2 yr"
+                },
+                "ACTH": {
+                    "value": "1250 pg/ml",
+                    "date": "2.2 yr"
+                },
+                "PRA": {
+                    "value": "5.4 ng/ml/h",
+                    "normal_range": "0.3–3.9",
+                    "date": "2.2 yr"
+                },
+                "aldosterone": {
+                    "value": "6.7 ng/dl",
+                    "normal_range": "4–31",
+                    "date": "2.2 yr"
+                }
+            },
+            "relevant_findings": "Examination revealed normal genitalia with descended testes and hyperpigmentation. The patient was diagnosed with compensated primary adrenal failure.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "2.8 yr",
+            "vital_signs": {
+                "cortisol": {
+                    "value": "11.3 µg/dl",
+                    "date": "2.8 yr"
+                },
+                "ACTH": {
+                    "value": "1250 pg/ml",
+                    "date": "2.8 yr"
+                },
+                "PRA": {
+                    "value": "20.2 ng/ml/h",
+                    "normal_range": "0.3–3.9",
+                    "date": "2.8 yr"
+                },
+                "aldosterone": {
+                    "value": "12.4 ng/dl",
+                    "normal_range": "4–31",
+                    "date": "2.8 yr"
+                }
+            },
+            "relevant_findings": "General examination revealed progressive pigmentation, while cortisol, aldosterone, and electrolytes were normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

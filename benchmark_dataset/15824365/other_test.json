@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Serum bromide level",
+            "date": "Not specified",
+            "findings": "Serum bromide level was 2.9 mg/dL following last MB exposure.",
+            "changes_over_time": "Increased to 4.3 mg/dL after 7 months of exposure."
+        },
+        {
+            "procedure_name": "Urine bromide level",
+            "date": "Not specified",
+            "findings": "Urine bromide level was 3.6 mg/dL following last MB exposure.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "January 2003",
+            "findings": "Mild slowing of motor conductions, reduced motor amplitudes, and prolongation of late responses.",
+            "changes_over_time": "Normal in June 2003."
+        },
+        {
+            "procedure_name": "Neuropsychological testing",
+            "date": "January 2003",
+            "findings": "Mildly impaired executive function, naming and attentional deficits.",
+            "changes_over_time": "Improved by June 2003."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "January 2003",
+            "findings": "Increased signal intensity in cerebellar dentate nuclei, periaqueductal region, dorsal midbrain, dorsal pons, and inferior olives.",
+            "changes_over_time": "Normal in June 2003."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "June 2003",
+            "findings": "Normal brain MRI.",
+            "changes_over_time": "Previous abnormalities resolved."
+        }
+    ]
+}

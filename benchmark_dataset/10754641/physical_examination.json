@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systemic_arterial_pressure": "108/69 mmHg",
+                "heart_rate": "94 bpm",
+                "oxygen_saturation": "88% (increased to >94% with supplemental oxygen)",
+                "hemoglobin": "11.4 g/dl",
+                "platelet_count": "177 1030/uL"
+            },
+            "relevant_findings": {
+                "dyspnea": "severe dyspnea at rest",
+                "edema": "lower limb edema",
+                "neck_veins": "dilated neck veins",
+                "cardiac_exam": {
+                    "right_atrial_diameter": "6.2 cm (normal 2.2-4.1 cm)",
+                    "right_ventricular_diameter": "5.1 cm (normal 1.9-4.0 cm)",
+                    "right_ventricle": "eccentric hypertrophy",
+                    "fractional_area_shortening": "3396"
+                }
+            },
+            "changes_over_time": {
+                "right_atrial_diameter": "increased to 6.3 cm at 32 weeks",
+                "right_ventricular_diameter": "increased to 5.4 cm at 32 weeks",
+                "fractional_area_shortening": "decreased to 25% at 32 weeks"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "systolic_AP": "Not specified",
+                "mean_AP": "Not specified",
+                "diastolic_AP": "Not specified",
+                "systolic_PAP": "82-95 mmHg",
+                "mean_PAP": "Not specified",
+                "diastolic_PAP": "Not specified",
+                "cardiac_output": "decreased to 5.4 l/min, then 4.1-6.4 l/min range",
+                "SVR": "increased from 567 to 1180 dyn·s^-1·cm^-5",
+                "PVR": "increased from 395 to 890 dyn·s^-1·cm^-5"
+            },
+            "relevant_findings": {
+                "cardiovascular_health": {
+                    "systolic_AP": "greater than systolic_PAP",
+                    "oxygen_condition": "SpO2 improved with oxygen administration"
+                },
+                "thromboelastography": {
+                    "reaction_time": "increased from 3.5-4.0 mm",
+                    "clot_formation_time": "2.0-2.5 mm",
+                    "maximal_amplitude": "63-66 mm",
+                    "clot_formation_rate": "74-76"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Six months after delivery",
+            "vital_signs": {
+                "right_atrial_diameter": "7.4 cm",
+                "end_diastolic_ventricular_diameter": "5.7 cm",
+                "fractional_area_shortening": "20%"
+            },
+            "relevant_findings": {
+                "foramen_ovale": "newly patent with right-to-left shunt"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

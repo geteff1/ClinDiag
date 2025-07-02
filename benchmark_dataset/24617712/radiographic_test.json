@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "At 7 years of age",
+            "findings": "Multiple nodules within both lobes of the thyroid.",
+            "changes_over_time": "Growth of the thyroid mass continued, leading to total thyroidectomy."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "At 7 years of age",
+            "findings": "Clinically unsuspected thyroid nodule within the left lobe.",
+            "changes_over_time": "Nodule was removed, diagnosed as follicular variant papillary thyroid carcinoma."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Interval between PPB and thyroid diagnoses",
+            "findings": "Frequent scans were employed.",
+            "changes_over_time": "Specific findings not disclosed, but the total number of CT scans was nine, with an estimated radiation dose to the thyroid of 180 mGy."
+        }
+    ]
+}

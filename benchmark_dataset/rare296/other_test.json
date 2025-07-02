@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Age 37",
+            "findings": "Lamellated myelin-like inclusions in the cytoplasm of glomerular and tubular cells; Lacunar brain infarction, opacified lens, and angiokeratoma detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Age 42",
+            "findings": "Multiple asymptomatic brain infarctions.",
+            "changes_over_time": "At age 48, MRI demonstrated new infarctions at the left pons and bilateral cerebral cortex."
+        },
+        {
+            "procedure_name": "COGNISTAT examination",
+            "date": "Age 48",
+            "findings": "Remarkable declines in Orientation, Language (Comprehension, Naming), Construction, Memory, Calculations and Reasoning (Similarities, Judgement); relatively good scores maintained for Attention and Language Repetition.",
+            "changes_over_time": "Cognitive function tests at ages 49, 50, and 51 showed HDS-R scores of 6, 4, and 4 points, and MMSE scores of 15, 17, and 10 points, respectively, indicating progression to severe dementia."
+        },
+        {
+            "procedure_name": "Voxel-based Specific Regional Analysis System for Alzheimer's Disease",
+            "date": "Age 48",
+            "findings": "Z-score of 0.49 indicating no specific loss of gray matter selectivity in bilateral hippocampal regions; reduction in whole brain gray matter volume was 6.02%, suggesting no atrophy despite multiple brain infarctions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, ST-segment elevation of up to 4 mm in leads V3 through V6.",
+            "changes_over_time": "Repeat ECG showed ST-segment elevations (1 to 4 mm) in leads V1 through V6; hyperacute T waves in leads V4, V5, and V6; and ST-segment depressions (1 to 1.5 mm) in the inferior leads."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "35-mm-long segment of severe narrowing (90% stenosis) in the middle of the left anterior descending coronary artery, consistent with intramural hematoma and distal haziness consistent with a dissection site.",
+            "changes_over_time": "Second coronary angiogram after 48 hours showed improved blood flow (TIMI grade 3), a shorter segment of stenosis (approximately 25 mm), and resolution of the distal dissection flap."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "81.8 kg",
+                "vital_signs": "Normal"
+            },
+            "relevant_findings": {
+                "physical_examination": "Diffuse induration of the anterior wall of the rectum, normal rectal tone, estimated prostate weight of 10 g, no rectal or prostatic masses, penis circumcised with no external abnormalities, no scrotal masses, remainder of the examination was normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "22 months after implantation",
+            "vital_signs": {
+                "PSA": "0.6 ng per milliliter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Level of PSA decreased to <0.1 ng per milliliter 5 years after the procedure."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cystoscopy revealed a benign-appearing bladder with irregularities of the prostatic urethra.",
+            "changes_over_time": "Two months later, cystoscopic examination revealed two small papillary projections in the prostatic urethra, which were resected."
+        }
+    ]
+}

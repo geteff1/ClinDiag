@@ -1,0 +1,86 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "15.7 g/dL",
+                "white_cell_count": "7100 per cubic mm",
+                "platelet_count": "199,000 per cubic mm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Creatinine",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "6.7 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Regular heart rate of 96 beats per minute, incomplete right bundle-branch block, right atrial enlargement, right axis deviation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Hilar lymphadenopathy, fine reticular pattern, mild filling of the retrosternal air space",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Testing",
+            "date": "Not specified",
+            "findings": {
+                "FVC": "4.04 liters (116% of predicted)",
+                "FEV1": "3.56 liters (118% of predicted)",
+                "FEV1/FVC_ratio": "0.88",
+                "slow_vital_capacity": "3.87 liters (111% of predicted)",
+                "residual_volume": "1.67 liters (116% of predicted)",
+                "total_lung_capacity": "5.54 liters (112% of predicted)",
+                "carbon_monoxide_diffusing_capacity": "Severely reduced at 45% of predicted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "left_ventricular_systolic_dysfunction": "Moderate",
+                "right_ventricular_dilatation": "Present",
+                "pulmonary_systolic_pressure": "Estimated at 52 mm Hg",
+                "tricuspid_regurgitation": "Severe",
+                "pulmonary_regurgitation": "Moderate"
+            },
+            "changes_over_time": "Another echocardiogram showed normal left ventricular function."
+        },
+        {
+            "procedure_name": "Right-sided Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary_artery_pressures": "66/32 mm Hg to 82/40 mm Hg (mean 43.3 to 54 mm Hg)",
+                "pulmonary_capillary_wedge_pressure": "12 mm Hg",
+                "cardiac_index": "2.2 liters/min/m²",
+                "pulmonary_vascular_resistance": "800 dyne.sec.cm⁻⁵"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "Not specified",
+            "findings": {
+                "mediastinal_adenopathy": "Increased",
+                "pericardial_effusion": "Small",
+                "pleural_effusions": "Small in both lungs",
+                "interlobular_septal_thickening": "Widespread with ill-defined central lobular acinar opacities"
+            },
+            "changes_over_time": "Another CT scan increased mediastinal adenopathy seen on the previous CT scan."
+        }
+    ]
+}

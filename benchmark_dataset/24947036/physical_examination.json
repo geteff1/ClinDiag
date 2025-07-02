@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "Suppressed",
+                "fT4": "Increased",
+                "fT3": "Increased"
+            },
+            "relevant_findings": "The index patient was diagnosed with hyperthyroidism with undetectable TPO and TSHR antibodies aged 18 during her first pregnancy.",
+            "changes_over_time": "The fT4 levels increased to greater than 40.94 pmol/L after 2 years of treatment with thiamazole."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "Suppressed",
+                "fT4": "Normal",
+                "fT3": "Normal"
+            },
+            "relevant_findings": "TSH suppression was observed in the third child at the age of 8 years. He has not received antithyroid treatment.",
+            "changes_over_time": "All thiamazole-treated children show normal fT4 and fT3 values during the antithyroid drug treatment."
+        },
+        {
+            "date": "At age 2 years",
+            "vital_signs": {
+                "TSH": "Suppressed (10.01 mU/L)",
+                "fT4": "1.37 ng/dL (normal)"
+            },
+            "relevant_findings": "The youngest boy exhibited TSH suppression already at 6 months and started thiamazole due to hyperthyroidism.",
+            "changes_over_time": "His development is impaired due to being affected by epileptic encephalopathy after a herpes simplex stomatitis in infancy."
+        }
+    ]
+}

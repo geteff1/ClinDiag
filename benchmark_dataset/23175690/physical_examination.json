@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 2011",
+            "vital_signs": {
+                "blood_pressure": "106/64 mm Hg",
+                "heart_rate": "80 bpm",
+                "dry_weight": "60.4 kg"
+            },
+            "relevant_findings": {
+                "central_obesity": true,
+                "moon_face": true,
+                "buffalo_hump": true,
+                "purple_striae": true,
+                "proximal_muscle_weakness": true,
+                "hip_joint_pain": {
+                    "severity": "severe",
+                    "worse_on": "left"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2002",
+            "vital_signs": {
+                "dry_weight": "48.1 kg",
+                "serum_potassium": "6.1 mEq/l"
+            },
+            "relevant_findings": {
+                "iPTH": "879 pg/ml",
+                "serum_calcium": "11.0 mg/dl",
+                "serum_phosphate": "8.2 mg/dl"
+            },
+            "changes_over_time": "Hypokalemia persisted and was documented with serum potassium levels of less than 5 mEq/liter in 2004 and less than 3.6 mEq/liter in 2008."
+        },
+        {
+            "date": "2008",
+            "vital_signs": {
+                "dry_weight": "52 kg",
+                "serum_potassium": "less than 3.6 mEq/l"
+            },
+            "relevant_findings": {
+                "iPTH": "increased after treatment failure",
+                "possible_hyperparathyroidism": true
+            },
+            "changes_over_time": "Hypokalemia persisted with worsening of muscle weakness and weight gain noted."
+        },
+        {
+            "date": "After adrenal surgery",
+            "vital_signs": {
+                "potassium": "normal"
+            },
+            "relevant_findings": {
+                "adrenal_tumor_resected": true,
+                "post_op_hypokalemia_resolution": true
+            },
+            "changes_over_time": "Post-surgery endocrinological data improved; hypokalemia resolved."
+        }
+    ]
+}

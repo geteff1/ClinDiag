@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Occipitofrontal circumference of 60 cm (97th percentile for age)",
+            "relevant_findings": {
+                "macrocephaly": true,
+                "facial_features": {
+                    "high_nasal_voice": true,
+                    "mild_speech_delay": true,
+                    "ocular_hypertelorism": true,
+                    "long_philtrum": true,
+                    "thin_upper_lip": true,
+                    "broad_mouth": true,
+                    "relative_micrognathia": true
+                },
+                "dermatological_findings": [
+                    {
+                        "type": "subcutaneous mass",
+                        "location": "left elbow",
+                        "tenderness": "not tender"
+                    },
+                    {
+                        "type": "lentigo-like macules",
+                        "location": "glans and shaft of penis"
+                    },
+                    {
+                        "type": "subcutaneous nodules",
+                        "description": "3 painful and tender nodules, 0.5 to 2 cm",
+                        "location": "below medial malleolus, lateral calf and ankle"
+                    },
+                    {
+                        "type": "verruca-like lesions",
+                        "description": "flesh to pink papules with smooth surface",
+                        "location": "shin and dorsum of foot"
+                    }
+                ],
+                "ophthalmologic_findings": {
+                    "prominent_partial_Schwalbe_lines": true
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

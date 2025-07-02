@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glucose Test",
+            "date": "Not specified",
+            "findings": "Glucose concentrations above 200 mg per deciliter (11 mmol per liter).",
+            "changes_over_time": "Difficult to achieve control of blood glucose concentration with intravenous insulin."
+        },
+        {
+            "procedure_name": "C-Peptide Test",
+            "date": "Not specified",
+            "findings": "Low serum insulin and C-peptide concentrations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coombs’ Test (IgG isotype)",
+            "date": "Four weeks of age",
+            "findings": "Autoantibodies detected on surface of red cells.",
+            "changes_over_time": "Lowest hemoglobin recorded was 6 g per deciliter."
+        },
+        {
+            "procedure_name": "Blood Neutrophils Count",
+            "date": "Four weeks of age",
+            "findings": "1380 per cubic millimeter.",
+            "changes_over_time": "Increased to more than 500 per cubic millimeter on day 11 after transplantation, then to 6500, 3700, 4600, and 4800 over time."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Four weeks of age",
+            "findings": "17,000 per cubic millimeter.",
+            "changes_over_time": "Increased to 331,000; 530,000; 504,000; and 273,000 over subsequent tests."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Elevated concentrations of liver enzymes.",
+            "changes_over_time": "Moderate hepatitis occurred from day 42 to day 50."
+        },
+        {
+            "procedure_name": "Serum Antinuclear Antibodies Test",
+            "date": "Not specified",
+            "findings": "Detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgE Measurement",
+            "date": "Four months of age",
+            "findings": "Very high (up to 1750 IU per milliliter [4200 µg per liter]).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Duodenal Biopsy",
+            "date": "At diagnosis (2.5 months old)",
+            "findings": "Flattened mucous membrane, partial-to-subtotal villous atrophy, numerous T lymphocytes and plasma cells.",
+            "changes_over_time": "Six months after transplantation showed normal villous architecture."
+        }
+    ]
+}

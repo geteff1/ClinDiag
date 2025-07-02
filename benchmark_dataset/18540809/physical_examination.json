@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "18 June 2007",
+            "vital_signs": "High-grade fever",
+            "relevant_findings": "Clinical examination was normal.",
+            "changes_over_time": "On 22 June 2007, diarrhea appeared and fever persisted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "C. psittaci IgG antibody titer was 1:256; IgM negative.",
+            "changes_over_time": "Test results from a serum sample drawn on 13 June showed negative for C. psittaci IgG and slightly positive for IgM (titer, 1:20), indicating seroconversion."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient presented with afebrile condition at discharge; surgical site and grafting tissue appeared healthy.",
+            "changes_over_time": "Patient had decreased myocardial function (ejection fraction < 30%) post-surgery, which improved to ejection fraction 40% during follow-up."
+        }
+    ]
+}

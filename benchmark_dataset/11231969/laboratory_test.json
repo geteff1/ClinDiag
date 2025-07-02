@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte panel",
+            "date": "Not specified",
+            "findings": {
+                "hyponatremia": "Na, 116 mEq/L",
+                "hyperkalemia": "K, 8.6 mEq/L",
+                "metabolic_acidosis": "base excess, 28.0 mEq/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone concentration",
+            "date": "Not specified",
+            "findings": "29,740 pmol/L (normal range for neonates, 560–2,800)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Renin Activity (PRA)",
+            "date": "Not specified",
+            "findings": "192 mg/L zh (normal range, 0.2–17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol response",
+            "date": "Not specified",
+            "findings": "1,290 nmol/L (within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

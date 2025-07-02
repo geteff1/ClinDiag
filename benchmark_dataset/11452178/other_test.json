@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "I-123 Metaiodobenzylguanidine Scintigraphy",
+            "date": "Not specified",
+            "findings": "Before treatment, the H:M ratio was 2.1 and the washout rate was 21%, indicating hyperactivity of the sympathetic nervous system in the myocardium. During treatment, the H:M ratio was 3.0 and the washout rate was 15%.",
+            "changes_over_time": "The H:M ratio increased from 2.1 to 3.0 and the washout rate decreased from 21% to 15% during treatment with enalapril maleate."
+        },
+        {
+            "procedure_name": "Tl-201 Scintigraphy",
+            "date": "Not specified",
+            "findings": "Stress Tl-201 scintigraphy revealed nonreversible myocardial perfusion defects in the anterior, inferoposterior, and apical walls.",
+            "changes_over_time": "Resting Tl-201 SPECT images remained unchanged after treatment."
+        },
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Suggestive of mild left ventricular dysfunction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Ultrasound",
+            "date": "Not specified",
+            "findings": "Suggested the presence of mild left ventricular dysfunction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

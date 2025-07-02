@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fasting blood glucose",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver transaminases",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oral glucose tolerance test",
+            "date": "Not specified",
+            "findings": "Revealed insulin resistance",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotype analysis",
+            "date": "Not specified",
+            "findings": "46, XX",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation analysis for Prader-Willi Syndrome (PWS)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical exome sequencing (CES)",
+            "date": "Not specified",
+            "findings": "Detected a novel heterozygous c.1732C>T (p.Gln578*) pathogenic variant in the MAGEL2 gene, classified as 'Likely Pathogenic'. No pathogenic variants in LEPR and MC4R genes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

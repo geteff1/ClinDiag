@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary Protein Excretion",
+            "date": "Not specified",
+            "findings": "24-hour urinary protein excretion was 8.34 g.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Albumin Test",
+            "date": "Not specified",
+            "findings": "Serum albumin was 24 g/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Cholesterol Test",
+            "date": "Not specified",
+            "findings": "Serum cholesterol was 4.55 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine was 53 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histopathology (First Biopsy)",
+            "date": "1999",
+            "findings": "14 glomeruli with global sclerosis in one glomerulus, segmental sclerosis in two glomeruli, mesangial enlargement in nine glomeruli.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histopathology (Second Biopsy)",
+            "date": "2002",
+            "findings": "Nine glomeruli with segmental sclerosis in one glomerulus, mild segmental mesangial proliferation in eight glomeruli.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

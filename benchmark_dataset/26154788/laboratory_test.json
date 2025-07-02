@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "RT-qPCR",
+            "date": "Not specified",
+            "findings": "High VSBV-1 RNA loads observed in the squirrel brain, heart, lung, kidney, and oropharyngeal-swab samples. Intermediate viral genome loads in FFPE brain samples from Patients 1 and 2. High VSBV-1 RNA loads in the brain of Patient 3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical Analysis",
+            "date": "Not specified",
+            "findings": "Positive immunostaining in the nuclei, cytoplasm, and neuronal and glial processes of brain cells for viral proteins N, X, and P in the squirrel and Patient 1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Indirect Immunofluorescence Assay",
+            "date": "Not specified",
+            "findings": "Bornavirus-specific IgG antibodies detected in serum and cerebrospinal fluid from Patient 3; titers of 1:2560 in CSF and 1:5120 in serum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Pleocytosis was noted in the cerebrospinal fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "December 2011",
+            "findings": "Delta activity with short alpha episodes.",
+            "changes_over_time": "In August 2013, low-voltage theta and delta activity was observed; in December 2013, delta and theta activity was recorded."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Patient 1: December 2011",
+            "findings": "Initial scan was normal.",
+            "changes_over_time": "Follow-up 3 weeks after the initial scan showed hyperintense lesions in the cortex."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Patient 2: July 2013",
+            "findings": "Initial scan was normal, followed by hyperintense lesions 10 days after the initial scan.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Patient 3: December 2013",
+            "findings": "Meningeal contrast enhancement observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "sitting": {
+                    "blood_pressure": "125/60 mm Hg",
+                    "pulse_rate": "78/min"
+                },
+                "standing": {
+                    "blood_pressure": "133/60 mm Hg",
+                    "pulse_rate": "80/min"
+                }
+            },
+            "relevant_findings": {
+                "lung_exam": "Normal",
+                "cardiac_exam": "Normal",
+                "right_knee": "Swollen but not painful; no erythema",
+                "sensory_examination": "Intact to light touch in lower extremities",
+                "mobility": "Able to stand from a chair without using arms"
+            },
+            "changes_over_time": "Incremental steps of decline noted in gait and mobility."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "sitting": {
+                    "blood_pressure": "Not specified",
+                    "pulse_rate": "Not specified"
+                },
+                "standing": {
+                    "blood_pressure": "Not specified",
+                    "pulse_rate": "Not specified"
+                }
+            },
+            "relevant_findings": {
+                "PT_Evaluation": "Normal standing balance as per computerized posturography",
+                "leg_length_difference": {
+                    "right_leg_length": "32.25 inches",
+                    "left_leg_length": "33.25 inches",
+                    "correction": "Heel lift used on right shoe"
+                },
+                "performance_oriented_mobility_assessment": {
+                    "balance_score": "24 out of 25",
+                    "gait_score": "7 out of 12",
+                    "total_score": "31 out of 37",
+                    "fall_risk": "Moderate"
+                },
+                "muscle_strength": {
+                    "hip_abduction": {
+                        "right": "4+",
+                        "left": "3+"
+                    },
+                    "hip_adduction": {
+                        "right": "4+",
+                        "left": "3+"
+                    },
+                    "knee_flexors": "4+",
+                    "knee_extensors": "4+"
+                },
+                "independence_tests": "Fully independent in gait, transfers, and bed mobility."
+            },
+            "changes_over_time": "Overall decline in gait stability noted over follow-up."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "blood_pressure": "120/80 mm Hg",
+                "pulse": "108 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "The posterior neck and occipital region on the left side were tender but had full range of motion; remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "159/114 mm Hg",
+                "pulse": "109 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "The remainder of the examination was normal. An electrocardiogram showed sinus rhythm with a ventricular rate of 101 bpm and presented first-degree atrioventricular block and right bundle-branch block.",
+            "changes_over_time": "First-degree atrioventricular block and right bundle-branch block were present and had not been present 3 years earlier."
+        }
+    ]
+}

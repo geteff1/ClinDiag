@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "11.4 g per deciliter (normal range: 13.5 to 17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "32.3% (normal range: 41 to 53)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.65 mg per deciliter (normal range: 0.6 to 1.5 mg per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Specimens of blood were obtained for culture",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of Neck",
+            "date": "Not specified",
+            "findings": "Heterogeneously hypoechoic lesion measuring 4.5 cm in diameter, suggestive of evolving hematoma",
+            "changes_over_time": "Initial heterogeneously hypoechoic lesion was 4.3 cm, increased to 4.5 cm"
+        },
+        {
+            "procedure_name": "Gram's Staining",
+            "date": "Not specified",
+            "findings": "Few neutrophils and mononuclear cells, no organisms",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Imaging (CT) of the Neck",
+            "date": "Not specified",
+            "findings": "Heterogeneous mass measuring 4.0 cm in diameter located in the soft tissue, no evidence of arterial or venous obstruction",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

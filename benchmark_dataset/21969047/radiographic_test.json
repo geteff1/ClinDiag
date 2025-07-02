@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal except for sinus tachycardia (108 bpm).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid function testing",
+            "date": "After 18 months of treatment",
+            "findings": "Low levels of TSH (0.13 plU/ml; range=0.35-5.50) and free T4 (0.7 ng/dl; range=0.9-1.8) with a normal total T3 level (1.32 ng/ml; range=0.60-1.81).",
+            "changes_over_time": "Follow-up thyroid function testing after 90 days showed normal results (TSH level, 0.72 plU/ml; total T3 level, 1.16 ng/ml; free T4 level, 1.0 ng/dl)."
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "After 18 months of treatment",
+            "findings": "Blood pressure was measured at 200/120 mm Hg.",
+            "changes_over_time": "After administration of missed medications, blood pressure decreased to 193/94 mm Hg."
+        }
+    ]
+}

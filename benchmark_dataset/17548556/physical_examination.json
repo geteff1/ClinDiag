@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "129/78",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "left_homonymous_hemianopsia": true,
+                "visual_acuity": {
+                    "right_eye": "20/200",
+                    "left_eye": "20/80"
+                },
+                "left_pronator_drift": true,
+                "left_triceps_weakness": true,
+                "postural_tremor": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "173/89",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "headache": "Worsening",
+                "vision": "Deteriorated"
+            },
+            "changes_over_time": "Worsening treatment-related symptoms"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/70",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "headache": "Improving",
+                "visual_acuity": {
+                    "right_eye": "20/60",
+                    "left_eye": "20/40"
+                },
+                "incomplete_homonymous_hemianopsia": true,
+                "postural_tremor": true
+            },
+            "changes_over_time": "Headache improved and vision moderately improved"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Invasive aspergillosis of the appendix with neutropenic enterocolitis",
+        "differential_diagnosis": [
+            "Neutropenic enterocolitis",
+            "Acute appendicitis",
+            "Clostridium difficile infection",
+            "Cytomegalovirus infection",
+            "Leukemic infiltration",
+            "Early graft-versus-host disease",
+            "Intramural hemorrhage",
+            "Paralytic ileus",
+            "Ischemia",
+            "Diverticulitis"
+        ],
+        "diagnostic_reasoning": "The patient exhibited clinical signs consistent with acute appendicitis and neutropenic enterocolitis, worsened by chemotherapy-related immunosuppression. Two consecutive positive aspergillus galactomannan assays, combined with the patient's profound neutropenia and history of acute leukemia, pointed towards an invasive fungal infection, specifically invasive aspergillosis of the appendix. Pathological examination confirmed the presence of fungal hyphae consistent with aspergillus, invading the appendiceal wall."
+    }
+}

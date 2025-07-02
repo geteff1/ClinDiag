@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "133/107 mm Hg",
+                "pulse": "133 bpm",
+                "respiratory_rate": "28 breaths/min",
+                "oxygen_saturation": "75%"
+            },
+            "relevant_findings": {
+                "oral_mucous_membranes": "dry",
+                "lung_fields": "basilar rales in the right lung field, decreased breath sounds throughout both lung fields",
+                "cardiac_monitor": "intermittent runs of ventricular tachycardia",
+                "ECG": "couplets, intermittent ventricular tachycardia with polymorphic waveforms, prolonged QTc approximately 520 msec, ST-segment elevations in leads V2-V4"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0°C",
+                "blood_pressure": "117/95 mm Hg",
+                "pulse": "69 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "pupils": "sluggishly reactive to light",
+                "conjunctivae": "slightly icteric, without injection",
+                "jugular_venous_pressure": "10 cm of water without a Kussmaul sign or hepatojugular reflux",
+                "lung_examination": "bilateral rhonchi",
+                "heart": "diffuse point of maximal impulse, holosystolic murmur (grade 2/6) loudest over the apex",
+                "abdomen": "distention with decreased bowel sounds, liver span of 8 cm",
+                "extremities": "cool with 1+ pulses, erythematous macular rash in a shawl-like distribution and palmar erythema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Third day of hospital stay",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiography": "marked biventricular hypertrophy, severe mitral-valve regurgitation, biatrial enlargement, dilatation of inferior vena cava and hepatic vein, left ventricular ejection fraction 54%, small posterior pericardial effusion"
+            },
+            "changes_over_time": "Echocardiographic findings were consistent with prior examinations but noted worsening in terms of biventricular hypertrophy and regurgitation severity."
+        }
+    ]
+}

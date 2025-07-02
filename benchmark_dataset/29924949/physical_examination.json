@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 36.5°C, Pulse: 98 bpm",
+            "relevant_findings": "The patient appeared mildly ill and slightly pale. The abdomen was soft, with normal bowel sounds, mild, diffuse tenderness, and no distention, masses, or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 36.9°C, Pulse: 80 bpm, Blood Pressure: 111/69 mm Hg, Respiratory Rate: 22 bpm, Oxygen Saturation: 100%",
+            "relevant_findings": "The patient appeared slightly pale. The abdomen was soft, with normal bowel sounds and mild tenderness of the upper abdomen, and no distention, masses, or hepatosplenomegaly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 36.9°C, Pulse: 71 bpm, Blood Pressure: 124/75 mm Hg, Respiratory Rate: 18 bpm, Oxygen Saturation: 100%",
+            "relevant_findings": "The patient appeared tired but otherwise well. The abdomen was soft, with normal bowel sounds and mild tenderness of the upper abdomen, and no distention, masses, or hepatosplenomegaly.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

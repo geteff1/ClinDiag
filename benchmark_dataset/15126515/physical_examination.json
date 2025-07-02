@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "225/120 mm Hg",
+                "pRA": "0.26 ng/ml",
+                "bicarbonate": "33 mmol/liter",
+                "potassium": "2.4 mmol/liter",
+                "aldosterone": "undetectable",
+                "cortisol_secretion_rate": "0.43 mg/d"
+            },
+            "relevant_findings": "Hypertensive retinopathy was mild to moderate upon evaluation at age 12.",
+            "changes_over_time": "Blood pressure improved from 156/91 to 141/86 mm Hg after dietary salt restriction and further improved to 129/77 mm Hg after 3 months of treatment with spironolactone."
+        }
+    ]
+}

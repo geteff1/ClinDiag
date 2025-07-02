@@ -1,0 +1,118 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "230 mg/dL (12.8 mmol/L), outside normal range (70-110 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "39.8%, outside normal range (41.0-53.0%)",
+            "changes_over_time": "Decreased from 39.8% on admission to 37.5% on 5th hospital day, then increased to 41.3% on 7th hospital day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.9 g/dL, outside normal range (13.5-17.5 g/dL)",
+            "changes_over_time": "Decreased from 12.9 g/dL on admission to 12.1 g/dL on 5th hospital day, then increased to 12.5 g/dL on 7th hospital day."
+        },
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "10,200 per mm3, within normal range (4500-11,000 per mm3)",
+            "changes_over_time": "Increased from 10,200 per mm3 on admission to 12,800 per mm3 on 5th hospital day, then to 18,200 per mm3 on 7th hospital day."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "311,000 per mm3, within normal range (150,000-350,000 per mm3)",
+            "changes_over_time": "Slight increase to 314,000 per mm3 on 5th hospital day, then increased to 406,000 per mm3 on 7th hospital day."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "135 mmol/L, within normal range (135-145 mmol/L)",
+            "changes_over_time": "Increased to 140 mmol/L on 5th hospital day, then decreased back to 135 mmol/L on 7th hospital day."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.8 mmol/L, outside normal range (3.4-4.8 mmol/L)",
+            "changes_over_time": "Decreased to 4.2 mmol/L on 5th hospital day, then increased to 5.6 mmol/L on 7th hospital day."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "105 mmol/L, within normal range (100-108 mmol/L)",
+            "changes_over_time": "Decreased to 98 mmol/L on 5th and 7th hospital days."
+        },
+        {
+            "procedure_name": "Carbon Dioxide",
+            "date": "Not specified",
+            "findings": "22.7 mmol/L, outside normal range (23.0-31.9 mmol/L)",
+            "changes_over_time": "Increased to 31.2 mmol/L on 5th hospital day, then decreased to 23.4 mmol/L on 7th hospital day."
+        },
+        {
+            "procedure_name": "Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "74 mg/dL, outside normal range (8-25 mg/dL)",
+            "changes_over_time": "Decreased to 29 mg/dL on 5th hospital day, then increased to 48 mg/dL on 7th hospital day."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.7 mg/dL, outside normal range (0.6-1.5 mg/dL)",
+            "changes_over_time": "Decreased to 1.2 mg/dL on 5th hospital day, then increased to 1.9 mg/dL on 7th hospital day."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "276 mg/dL, outside normal range (70-110 mg/dL)",
+            "changes_over_time": "Decreased to 152 mg/dL on 5th hospital day, then increased to 408 mg/dL on 7th hospital day."
+        },
+        {
+            "procedure_name": "Phosphorus",
+            "date": "Not specified",
+            "findings": "5.1 mg/dL, outside normal range (2.6-4.5 mg/dL)",
+            "changes_over_time": "Decreased to 2.4 mg/dL on 5th hospital day."
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L, within normal range (0.7-1.0 mmol/L)",
+            "changes_over_time": "Decreased to 0.8 mmol/L on 5th hospital day."
+        },
+        {
+            "procedure_name": "Calcium",
+            "date": "Not specified",
+            "findings": "9.4 mg/dL, within normal range (8.5-10.5 mg/dL)",
+            "changes_over_time": "Decreased to 9.0 mg/dL on 5th hospital day."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "53 U/L, outside normal range (10-40 U/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "210 U/L, outside normal range (10-55 U/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type Natriuretic Peptide",
+            "date": "Not specified",
+            "findings": "11,213 pg/ml, outside normal range (0-1500 pg/ml for >75 years of age)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": "pH 7.47, Partial pressure of oxygen 66 mm Hg, Partial pressure of carbon dioxide 41 mm Hg",
+            "changes_over_time": "pH decreased to 7.18 on 7th hospital day; Partial pressure of oxygen decreased to 50 mm Hg on 7th hospital day."
+        }
+    ]
+}

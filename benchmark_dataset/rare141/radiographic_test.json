@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "grayscale ultrasound examination",
+            "date": "Not specified",
+            "findings": "Heterogeneous echotexture seen in the liver; fibrous cord replacing the middle hepatic vein; presence of mild ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "contrast-enhanced computed tomography (CECT) scan",
+            "date": "Not specified",
+            "findings": "No contrast opacification in middle and left hepatic veins; partial opacification in the right hepatic vein; complete thrombosis of middle and left hepatic veins; partial thrombosis of the right hepatic vein; slight enlargement of caudate lobe; heterogeneous mottled appearance of the liver (nutmeg liver).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "diagnostic hepatic vein venography",
+            "date": "Not specified",
+            "findings": "Confirmed imaging findings from previous studies.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Peripheral-blood smear",
+            "date": "Not specified",
+            "findings": "Anisocytosis and polychromasia of red cells, occasional schistocytes, reduced platelet count, normal-appearing white cells.",
+            "changes_over_time": "The low number of schistocytes on the initial smear led to an impression of an infectious process; later, an increase in schistocytes to 2-3 per high-power field was observed."
+        },
+        {
+            "procedure_name": "Giemsa staining of blood smears",
+            "date": "Not specified",
+            "findings": "No intracellular organisms observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ADAMTS13 activity assay",
+            "date": "Not specified",
+            "findings": "ADAMTS13 activity level of less than 5%.",
+            "changes_over_time": "ADAMTS13 activity level increased to 62% after treatment, but later fell to undetectable levels."
+        },
+        {
+            "procedure_name": "ADAMTS13 inhibition assay",
+            "date": "Not specified",
+            "findings": "Negative inhibition assay (<0.4 inhibitor units).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-ADAMTS13 antibody assay",
+            "date": "Not specified",
+            "findings": "Positive result (56 arbitrary units).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma exchange",
+            "date": "Not specified",
+            "findings": "Significant improvement in neurologic deficits; normal platelet count was achieved.",
+            "changes_over_time": "Platelet count increased to 200,000 per cubic millimeter after a single session of plasma exchange post-relapse."
+        },
+        {
+            "procedure_name": "Gene sequencing for ADAMTS13",
+            "date": "Not specified",
+            "findings": "Two heterozygous pathogenic sequence variants indicative of inherited TTP.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

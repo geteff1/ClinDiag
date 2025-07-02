@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "116/71 mm Hg",
+                "pulse": "74 bpm",
+                "temperature": "36.7°C",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Distended tympanic abdomen, without tenderness or hernias; hypoactive bowel sounds.",
+                "skin": "Blanching erythematous macules, 1 to 2 mm in diameter, on the torso.",
+                "edema": "1+ pitting edema on the legs.",
+                "stool": "Brown and guaiac-positive."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Four days after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "The examination was unchanged."
+        },
+        {
+            "date": "Nine days later",
+            "vital_signs": {
+                "weight": "53.1 kg",
+                "height": "167.6 cm",
+                "body_mass_index": "18.9",
+                "temperature": "38°C"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Abdomen was diffusely tender.",
+                "bowel_sounds": "Faint.",
+                "stool": "Positive for occult blood.",
+                "chest_radiograph": "Revealed increased linear opacities in the lungs."
+            },
+            "changes_over_time": "The patient's weight was 53.1 kg, indicating further weight loss."
+        },
+        {
+            "date": "During the second admission",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Endoscopic findings revealed extensive areas of inflammation characterized by erythema, edema, and deep, serpiginous ulcerations throughout the entire colon, especially severe in the right colon.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

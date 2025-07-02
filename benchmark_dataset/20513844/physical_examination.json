@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Absolute neutrophil count was 2.3 x 10^9 cells/L; within 48 hours, it dropped to 0.5 x 10^9 cells/L.",
+            "relevant_findings": "Tender palpable purpuric plaques on both cheeks and ear lobes with central areas of necrosis.",
+            "changes_over_time": "Neutropenia improved with treatment using filgrastim; skin lesions resolved spontaneously."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Laboratory data showed an absolute neutrophil count less than 1.0 x 10^9 cells/L.",
+            "relevant_findings": "Many exquisitely tender erythematous plaques with central necrosis on her thighs, lower extremities, and buttocks; necrotic lesion on the nose.",
+            "changes_over_time": "Lesions and neutropenia improved rapidly with treatment using steroids."
+        }
+    ]
+}

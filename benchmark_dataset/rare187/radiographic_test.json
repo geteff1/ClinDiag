@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper GI endoscopy",
+            "date": "Postnatal 20th day",
+            "findings": "Normal appearance",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duodenal biopsy",
+            "date": "Postnatal 20th day",
+            "findings": "Moderate villous blunting with mildly increased inflammatory cells in the lamina propria and intraepithelial lymphocytosis. Enterocytes at the villous tips showed an irregular vacuolated appearance in the apical cytoplasm with patchy absence of the brush border.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ileal and colonic biopsies",
+            "date": "Not specified",
+            "findings": "Microvillus inclusions detected by electron microscopy in ileal biopsy. Colonic biopsies were normal with no epithelial abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

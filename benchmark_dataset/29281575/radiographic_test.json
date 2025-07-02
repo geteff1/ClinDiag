@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Splenomegaly (spleen length, 15.6 cm); central filling defect in the splenic vein compatible with acute splenic-vein thrombosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Low lung volumes; scattered ground-glass opacities; no evidence of pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Confluent area of hypodensity and sulcal effacement in the superior right parietal lobe; suggests recent infarct; small focal areas of hyperdensity consistent with hemorrhagic conversion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Confirmed infarcts and hemorrhagic conversion; a cortical vein not visible over the lesion suggests cortical-vein thrombosis or secondary compression due to mass effect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transfemoral cerebral angiography",
+            "date": "Not specified",
+            "findings": "Multiple cerebral venous thrombi involving the right frontal and parietal cortical veins; no involvement of the major dural sinuses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

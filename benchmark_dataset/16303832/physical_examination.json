@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "10.1 mg/dl",
+                "serum_phosphorus": "2.5 mg/dl",
+                "alkaline_phosphatase": "1875 IU/liter",
+                "1,25_dihydroxyvitamin_D3": "57.4 pg/dl",
+                "intact_PTH": "44 pg/ml"
+            },
+            "relevant_findings": "Radiographic evidence of severe rickets in the proband (III-1) at 19 months of age.",
+            "changes_over_time": "Significant improvement in the radiological signs of rickets after 12 months of treatment with 1-hydroxyvitamin D3 and sodium phosphate."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "9.6 mg/dl",
+                "serum_phosphorus": "1.7 mg/dl",
+                "alkaline_phosphatase": "215 IU/liter"
+            },
+            "relevant_findings": "The father (II-1) had a history of hypophosphatemic rickets/osteomalacia, body height of 148.0 cm (below mean height for Japanese males).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 1 month of age",
+            "vital_signs": {
+                "serum_calcium": "11.0 mg/dl",
+                "serum_phosphorus": "7.3 mg/dl",
+                "alkaline_phosphatase": "971 IU/liter"
+            },
+            "relevant_findings": "The younger sister (III-2) exhibited laboratory results consistent with being unaffected.",
+            "changes_over_time": "A repeat evaluation after 2 weeks demonstrated similar laboratory findings."
+        }
+    ]
+}

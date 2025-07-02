@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Positron Emission Tomography (PET)",
+            "date": "Not specified",
+            "findings": "Increased activity at two areas with a maximum standardized uptake value (SUV) of 13.2 and 11.2, respectively.",
+            "changes_over_time": "The right upper and right lower lung mass gradually increased in size over 2 years."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Multiple bilateral lung nodules and a right upper and right lower lung mass.",
+            "changes_over_time": "The right upper and right lower lung mass gradually increased in size over 2 years."
+        },
+        {
+            "procedure_name": "Serial radiologic examination",
+            "date": "Not specified",
+            "findings": "Multiple bilateral lung nodules that remained relatively stable in size.",
+            "changes_over_time": "The right upper and right lower lung mass gradually increased in size over 2 years."
+        }
+    ]
+}

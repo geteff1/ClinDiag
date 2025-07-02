@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6˚C",
+                "pulse": "120 bpm",
+                "blood_pressure": "115/60 mm Hg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_examination": "Initially alert with an otherwise normal neurological examination. Developed left hemiparesis and further twitching of the left upper extremity.",
+                "pupils": "Pinpoint"
+            },
+            "changes_over_time": "Patient's neurological condition rapidly deteriorated from normal examination to becoming unrousable and developing left hemiparesis."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "clotting_tests": "Initial PT greater than 160 seconds and aPTT greater than 200 seconds, later improved to PT of 32 seconds and aPTT of 42.9 seconds post-transfusion.",
+                "hematoma": "Acute hemorrhage in the right frontal lobe with edema."
+            },
+            "changes_over_time": "Postoperative clotting results showed minimal improvement despite treatment."
+        },
+        {
+            "date": "1 year after surgery",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurodevelopment": "Child is well with no neurological deficit and attaining developmental milestones."
+            },
+            "changes_over_time": "Significant improvement noted; child recovered well post-surgery."
+        }
+    ]
+}

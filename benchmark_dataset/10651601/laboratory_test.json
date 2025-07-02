@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Examination",
+            "date": "Not specified",
+            "findings": {
+                "leukocyte_count": "212 cells/mm3",
+                "neutrophils": "67%",
+                "lymphocytes": "20%",
+                "monocytes": "13%",
+                "protein_level": "137 g/L",
+                "cryptococcal_antigen_titer": "1:1024",
+                "Gram_stain": "no organisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture of Cerebrospinal Fluid",
+            "date": "Not specified",
+            "findings": "Culture grew C. neoformans.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Isolation of Cryptococcus neoformans from Cockatoo Excreta",
+            "date": "Two weeks after patient became ill",
+            "findings": {
+                "isolates": [
+                    "A3",
+                    "B1"
+                ],
+                "growth_temperature": "37 °C",
+                "melanin_production": "yes",
+                "urease_activity": "yes",
+                "capsule_presence": "yes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical profile and DNA typing",
+            "date": "Not specified",
+            "findings": "Isolates from the cockatoo and the patient had identical biochemical profiles and indistinguishable patterns on restriction fragment length polymorphism analysis and karyotyping.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

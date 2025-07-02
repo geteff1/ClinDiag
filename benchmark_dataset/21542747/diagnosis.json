@@ -1,0 +1,20 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "glycogenic hepatopathy",
+        "differential_diagnosis": [
+            "drug-induced hepatitis",
+            "viral hepatitis",
+            "autoimmune hepatitis",
+            "nonalcoholic steatohepatitis",
+            "iron-overload disorder",
+            "inherited glycogen storage disorder",
+            "thyroid disease",
+            "celiac sprue",
+            "Budd-Chiari syndrome",
+            "amyloidosis",
+            "sarcoidosis",
+            "Gaucher's disease"
+        ],
+        "diagnostic_reasoning": "The patient’s symptoms of abdominal pain, nausea, vomiting, and elevated liver enzymes, along with a history of poorly controlled type 1 diabetes, strongly suggest glycogenic hepatopathy. Other causes such as drug-induced hepatitis and autoimmune hepatitis were considered but deemed less likely based on laboratory and imaging results. A liver biopsy confirmed the diagnosis."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genetic testing for RB1 gene mutation",
+            "date": "Not specified",
+            "findings": "g.153211T/H11022A (p.Tyr606X) mutation was found in the RB1 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Visual Acuity assessment",
+            "date": "1983",
+            "findings": "Best-corrected right VA of 2.0 (40/20)",
+            "changes_over_time": "Dropped to counting fingers by 1985, to 0.25 in 1988, and further decreased to light perception by November 1994."
+        },
+        {
+            "procedure_name": "Intraocular Pressure measurement",
+            "date": "Not specified",
+            "findings": "Varied between 12 and 15 mmHg until end of 1991, rose to 28 mmHg in August 1992, 20 mmHg in January 1993, and 17 mmHg in November 1993.",
+            "changes_over_time": "Increased gradually over time, peaking at 43 mmHg by the end of February 1995."
+        },
+        {
+            "procedure_name": "Anterior Chamber Tap",
+            "date": "Not specified",
+            "findings": "Specimen showed retinoblastoma cells.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

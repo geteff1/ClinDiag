@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lymphocyte Count",
+            "date": "30 months after gene therapy",
+            "findings": "Lymphocyte count rose to 300,000 per cubic millimeter.",
+            "changes_over_time": "Lymphocyte count increased during the interval from 30 to 34 months after gene therapy."
+        },
+        {
+            "procedure_name": "Proviral Integration Analysis",
+            "date": "30 months after gene therapy",
+            "findings": "One proviral integration site was found on the short arm of chromosome 11 within the LMO-2 locus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Translocation Analysis",
+            "date": "Between 30 and 34 months after gene therapy",
+            "findings": "Presence of t(6;13) translocation, which had not been detected 30 months after therapy.",
+            "changes_over_time": "New finding of t(6;13) translocation developed between evaluations."
+        },
+        {
+            "procedure_name": "Tests for Replication-Competent Retrovirus",
+            "date": "Not specified",
+            "findings": "Repeatedly negative in the patient’s lymphocytes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

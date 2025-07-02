@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "50% (normal range, 41-53) prior to the motor vehicle accident; 36% (normal range, 41-53) two days after the accident; 18% on the day of admission to the other hospital; 17.6% on admission to this hospital; increased to 21.7% by hospital day 3.",
+            "changes_over_time": "Decreasing levels from 50% to 17.6% before stabilizing at 21.7% on hospital day 3."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "17 g/dL before motor vehicle accident; 13 g/dL two days after the accident; 6 g/dL on day of admission; 5.8 g/dL on admission to this hospital; increased to 7.3 g/dL by hospital day 3.",
+            "changes_over_time": "Decreasing levels from 17 g/dL to 5.8 g/dL before increasing to 7.3 g/dL by hospital day 3."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "9.8 million/mm³ before the accident; 8.4 million/mm³ two days after the accident; 9.2 million/mm³ on day of admission; 9 million/mm³ on admission to this hospital; 7 million/mm³ by hospital day 3.",
+            "changes_over_time": "Slight decrease from 9.8 million/mm³ to 7 million/mm³ over the sequence of evaluations."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "193,000/mm³ before the accident; 22,000/mm³ two days after the accident; 13,000/mm³ on day of admission; 15,000/mm³ on admission to this hospital; 17,000/mm³ by hospital day 3.",
+            "changes_over_time": "Decreasing levels from 193,000/mm³ to 15,000/mm³ before a slight increase to 17,000/mm³."
+        },
+        {
+            "procedure_name": "Reticulocyte count",
+            "date": "Not specified",
+            "findings": "Normal range, NA at first; 6% noted post-accident; 16.2% on admission to the hospital.",
+            "changes_over_time": "Increased from NA to 16.2% by hospital admission."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "711 U/L prior to admission; increased to 1122 U/L during hospital stay; peaked at 1150 U/L.",
+            "changes_over_time": "Increasing levels from 711 U/L to a peak of 1150 U/L during the hospital stay."
+        },
+        {
+            "procedure_name": "ADAMTS13 activity",
+            "date": "Not specified",
+            "findings": "<5%, indicative of TTP.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ADAMTS13 inhibition",
+            "date": "Not specified",
+            "findings": "<0.4 inhibitor units, normal level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-ADAMTS13 antibodies",
+            "date": "Not specified",
+            "findings": "56 arbitrary units (normal level ≤18).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ blood and 2+ protein.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

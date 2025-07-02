@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_creatinine": "2.7 mg/dL (238.7 µmol/L)",
+                "blood_urea_nitrogen": "20 mg/dL (7.14 mmol/L)"
+            },
+            "relevant_findings": {
+                "general_condition": "Healthy-appearing middle-aged woman in no acute distress",
+                "gait": "Walked with apparently stiff hips and an abductor lurch bilaterally",
+                "right_hip_motion": {
+                    "extension": "full",
+                    "flexion": "95°",
+                    "internal_rotation": "20°",
+                    "external_rotation": "25°",
+                    "abduction": "35°"
+                },
+                "left_hip_motion": {
+                    "extension": "full",
+                    "flexion": "95°",
+                    "internal_rotation": "20°",
+                    "external_rotation": "30°",
+                    "abduction": "40°"
+                },
+                "straight_leg_raise_right": "difficulty and substantial pain",
+                "straight_leg_raise_left": "less discomfort than the right"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two years post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "pain": {
+                    "left_hip": "no pain",
+                    "right_hip": "pain in the anterior aspect thought to be due to iliopsoas tendinitis"
+                }
+            },
+            "changes_over_time": {
+                "left_hip": "Improvement - no pain",
+                "right_hip": "Pain present, treated with injection of lidocaine and steroids; symptoms resolved"
+            }
+        }
+    ]
+}

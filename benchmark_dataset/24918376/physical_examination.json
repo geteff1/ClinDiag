@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "175/90 mm Hg",
+                "pulse": "128 bpm",
+                "respiratory_rate": "40 breaths per minute",
+                "oxygen_saturation": "93% (on oxygen)",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "consciousness": "alert and oriented",
+                "lung_exam": "diminished breath sounds at both lung bases, no wheezing",
+                "edema": "pitting edema of the arms and legs",
+                "dermatologic_findings": "erythematous papules on extensor surfaces, heliotrope rash bilaterally",
+                "muscle_strength": "grip strength and foot dorsiflexion/plantar flexion 4−/5, unable to lift arms, legs, or head against gravity (2+/5)",
+                "bowel_sounds": "hypoactive"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

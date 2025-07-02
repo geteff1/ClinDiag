@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Iron-deficiency anemia with a hematocrit of 22%.",
+            "changes_over_time": "Hematocrit became dependent on adherence to iron supplementation, which when inconsistent, declined to as low as 28%."
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterus measuring 14 cm with multiple fibroids, largest measuring 6.7 cm. Six months ago, uterus assessed at 11.9 cm with a fundal fibroid of 5.2 cm.",
+            "changes_over_time": "Initial ultrasound showed an increased size of the fibroids and uterus compared to the most recent assessment."
+        },
+        {
+            "procedure_name": "Myomectomy",
+            "date": "About 2 years ago",
+            "findings": "11 fibroids removed. Initially, symptoms resolved.",
+            "changes_over_time": "Symptoms returned about a year later."
+        }
+    ]
+}

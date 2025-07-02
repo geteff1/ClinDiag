@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "blood_pressure": "102/58 mm Hg",
+                "pulse": "170 bpm",
+                "respiratory_rate": "32 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "weight": "9.53 kg (93rd percentile)",
+                "fontanelle": "open, soft, and flat",
+                "abdomen": "moderately distended, normal bowel sounds, no tenderness"
+            },
+            "changes_over_time": "Temperature decreased to 36.1°C after acetaminophen was administered."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "blood_pressure": "105/52 mm Hg",
+                "pulse": "122 bpm",
+                "respiratory_rate": "32 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "abdomen": "soft, distended, firm fullness above the pubis, no discrete mass",
+                "remainder_of_exam": "unchanged"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Infiltration of the brain parenchyma by large atypical lymphoid cells, characterized by a diffuse and angiocentric pattern of involvement. Immunohistochemical staining confirmed B-cell characteristics.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Cerebrospinal fluid for cytopathological assessment was intended, but the procedure was not performed initially due to concerns of increased intracranial pressure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal right and left ventricular function, estimated left ventricular ejection fraction of 67%, trace regurgitation of the mitral valve, and trace insufficiency of aortic, pulmonary, and tricuspid valves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic testing for HIV",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "After the administration of gadolinium",
+            "findings": "A large, enhancing mass in the medial aspect of the right frontal lobe and corpus callosum was detected, along with extensive vasogenic edema.",
+            "changes_over_time": "Progressive resolution of abnormal enhancement in the corpus callosum and adjacent right frontal edema was observed after treatment."
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "On the third day",
+            "findings": "Substantial 18F-fluorodeoxyglucose uptake in the enhancing mass in the region of the corpus callosum; no abnormal uptake elsewhere.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

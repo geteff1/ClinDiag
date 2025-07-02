@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum protein bound iodine (PBI)",
+            "date": "Not specified",
+            "findings": "Initially low serum PBI at 3 months (3.8 g/100ml, Normal range 5.3–7.3), raised PBI at age 3.2 years (14.8 g/100ml)",
+            "changes_over_time": "Raised PBI at age 3.2 years prompted thyroxine discontinuation; PBI levels returned normal with treatment."
+        },
+        {
+            "procedure_name": "Thyroid function tests (FT4, FT3, rT3)",
+            "date": "Not specified",
+            "findings": "Normal FT4 and FT3 levels off thyroxine treatment, subnormal FT4/FT3 ratio, low rT3 levels.",
+            "changes_over_time": "After thyroxine therapy, elevated FT3 and high-normal FT4, TSH levels suppressed."
+        },
+        {
+            "procedure_name": "Resting Energy Expenditure (REE)",
+            "date": "Not specified",
+            "findings": "Baseline REE low.",
+            "changes_over_time": "REE increased with thyroxine therapy."
+        },
+        {
+            "procedure_name": "Echocardiographic indices",
+            "date": "Not specified",
+            "findings": "At baseline, parameters in hypothyroid range.",
+            "changes_over_time": "Most parameters remained within hypothyroid or control ranges after thyroxine therapy."
+        },
+        {
+            "procedure_name": "Creatine Kinase (CK-MM)",
+            "date": "Not specified",
+            "findings": "Raised CK-MM isoenzyme levels, elevated before treatment.",
+            "changes_over_time": "Levels normalized following thyroxine therapy."
+        },
+        {
+            "procedure_name": "Bone Turnover Markers",
+            "date": "Not specified",
+            "findings": "Normal baseline bone turnover markers.",
+            "changes_over_time": "Rising markers post thyroxine treatment, some high-normal, others becoming elevated."
+        },
+        {
+            "procedure_name": "Hematological examination",
+            "date": "Not specified",
+            "findings": "Reduction in red cell mass with raised mean corpuscular volume (MCV); normal WBC and slightly reduced platelet counts.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

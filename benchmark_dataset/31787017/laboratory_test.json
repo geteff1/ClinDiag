@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Positron Emission Tomography (PET)",
+            "date": "10 years ago",
+            "findings": "Significantly decreased expression of serotonin (5-HT2A) receptors throughout A.M.'s brain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Resting-state functional MRI (rsfMRI)",
+            "date": "Baseline on admission (Not specified)",
+            "findings": "At baseline, the patient exhibited significantly increased functional connectivity between the medial prefrontal cortex and superior frontal gyrus as well as between the anterior cingulate cortex and the precuneus.",
+            "changes_over_time": "Differences no longer detectable 200 minutes and 1 day after ketamine infusion, but altered SAN-precuneus connectivity was again evident after 7 days."
+        },
+        {
+            "procedure_name": "Montgomery-Åsberg Depression Rating Scale (MADRS)",
+            "date": "On admission last year",
+            "findings": "Score of 43 on the MADRS indicating severe depression.",
+            "changes_over_time": "73% reduction in MADRS score 50 minutes after ketamine infusion."
+        },
+        {
+            "procedure_name": "Beck Depression Inventory – II (BDI)",
+            "date": "On admission last year",
+            "findings": "Score of 54 on the BDI indicating severe depression.",
+            "changes_over_time": "65% reduction in BDI score 170 minutes after ketamine infusion."
+        },
+        {
+            "procedure_name": "Columbia-Suicide Severity Rating Scale (C-SSRS)",
+            "date": "On admission last year",
+            "findings": "Score of 21 indicating severe suicidal ideation.",
+            "changes_over_time": "Score dropped to 13 on the C-SSRS 200 minutes after infusion."
+        },
+        {
+            "procedure_name": "Clinician-Administered Dissociative States Scale (CADSS)",
+            "date": "During ketamine infusion",
+            "findings": "Score of 24 on the CADSS indicating peak dissociative symptoms.",
+            "changes_over_time": "Dissociative symptoms vanished after 130 minutes (score of 2 on the CADSS)."
+        }
+    ]
+}

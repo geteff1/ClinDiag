@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Febrile",
+                "heart_rate": "Tachycardic",
+                "blood_pressure": "100/60 mmHg",
+                "respiratory_rate": "Tachypneic"
+            },
+            "relevant_findings": {
+                "mental_status": "Normal with hypophonic speech",
+                "lung_exam": "Bilateral coarse crepitations",
+                "limb_strength": {
+                    "upper_limbs": "MRC grade 4",
+                    "lower_limbs": "MRC grade 1"
+                },
+                "neck_flexor_weakness": "Significant",
+                "facial_muscles": "Lower motor neuron facial diplegia",
+                "deep_tendon_reflexes": "Absent",
+                "sensory_examination": "Normal"
+            },
+            "changes_over_time": {
+                "limb_power": {
+                    "Day 3": "Significant improvement in lower limb power",
+                    "Day 4": "Power in all limbs improved to MRC grade 4",
+                    "End of week 1": "Power in all limbs normal"
+                },
+                "thoracentesis": {
+                    "Day 22": "Thoracentesis performed with drastic clinical improvement"
+                },
+                "cavitary_lesions": {
+                    "Day 21": "Increased in size on repeat X-rays"
+                },
+                "ventilator_status": "Difficult weaning due to underlying respiratory infections"
+            }
+        }
+    ]
+}

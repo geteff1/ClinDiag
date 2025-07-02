@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "8 years 7 months of age",
+            "findings": "Nonobstructive bowel-gas pattern and a moderate-to-abundant amount of stool distributed in the colon, consistent with clinical history of constipation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal image.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Well-defined, homogeneously hyperenhancing, round mass in the left upper quadrant, consistent with accessory spleen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

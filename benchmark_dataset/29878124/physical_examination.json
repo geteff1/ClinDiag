@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2005",
+            "vital_signs": "Hypertension noted (exact readings not specified).",
+            "relevant_findings": "Presented with hypertension and diarrhea. CT scan revealed a 4.4 cm retroperitoneal mass.",
+            "changes_over_time": "In 2010, the patient developed recurrent hypertension and abdominal pain; symptoms and elevated catecholamines were reported."
+        },
+        {
+            "date": "2010",
+            "vital_signs": "Norepinephrine 2770 mg/24 h (nl 0 to 140 mg/24 h), Dopamine 3083 mg/24 h (nl 65 to 610 mg/24 h), Epinephrine 7 mg/24 h (nl 0 to 32 mg/24 h).",
+            "relevant_findings": "CT scan revealed lytic lesions in the first lumbar vertebral body and right iliac crest, as well as new retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Hypertension improved with beginning treatment with prazosin and labetalol."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Received external beam radiation and various antineoplastic agents without success in preventing disease progression.",
+            "changes_over_time": "The disease progressed despite treatment, and the patient expired in 2012."
+        }
+    ]
+}

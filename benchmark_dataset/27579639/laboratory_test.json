@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4+ T-lymphocyte count",
+            "date": "Not specified",
+            "findings": "Nadir CD4+ T-lymphocyte count was 21 cells per cubic millimeter 3 years before presentation; last CD4+ count was 198 cells per cubic millimeter 15 months before presentation; current CD4+ count was 265 cells per cubic millimeter.",
+            "changes_over_time": "CD4+ T-lymphocyte count increased from 198 cells per cubic millimeter to 265 cells per cubic millimeter."
+        },
+        {
+            "procedure_name": "Serum electrolytes",
+            "date": "Not specified",
+            "findings": "Serum sodium 139 mmol per liter, potassium 3.5 mmol per liter, chloride 103 mmol per liter, bicarbonate 22 mmol per liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN) and creatinine",
+            "date": "Not specified",
+            "findings": "Blood urea nitrogen 15 mg per deciliter; serum creatinine 0.8 mg per deciliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Albumin level 4.2 g per deciliter, total serum protein 8.5 g per deciliter; other liver-function tests normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Lactate dehydrogenase level was 158 U per liter (normal range, 135 to 225).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit 36.9%, platelet count 279,000 per cubic millimeter, white-cell count 6470 per cubic millimeter (59% neutrophils, 31% lymphocytes, 8% monocytes, 2% eosinophils).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "CSF contained 409 red cells per cubic millimeter (tube 1) and 244 red cells per cubic millimeter (tube 4), 10 white cells per cubic millimeter (tube 1) and 9 white cells per cubic millimeter (tube 4); proteins 94 mg per deciliter; glucose 58 mg per deciliter; positive for Epstein–Barr virus on PCR assay.",
+            "changes_over_time": "Decreasing levels of erythrocytes in subsequent tubes suggest a traumatic tap."
+        }
+    ]
+}

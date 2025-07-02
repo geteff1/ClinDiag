@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "pulse": "83 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "blood_pressure": "115/75 mmHg",
+                "weight": "99.1 kg",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Healthy-appearing man without jaundice.",
+                "lymphadenopathy": "Not detected.",
+                "lungs": "Clear.",
+                "abdomen": "Normal.",
+                "peripheral edema": "Not present."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

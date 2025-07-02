@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "pulse": "70 bpm",
+                "oxygen_saturation": "96%",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Mild tenderness on the right side on palpation",
+                "psychiatric_exam": "Limited eye contact, mumbling speech, poor concentration, depressed mood with a congruent affect, poor insight and judgment"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Next evening",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "elbow_exam": "Olecranon process appeared to protrude posteriorly and medially without ecchymosis; patient unable to move the arm at the elbow"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hours after the second reduction",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "elbow_exam": "Posterior dislocation of the left elbow with a fragment from a displaced fracture of the trochlea"
+            },
+            "changes_over_time": "Repeated act of self-harm reported with each dislocation"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "electrocardiogram",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "exercise treadmill test",
+            "date": "Not specified",
+            "findings": "achieved 10.8 metabolic equivalents, exercising 9 minutes and 23 seconds, without angina or ischemic changes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "renal biopsy",
+            "date": "Not specified",
+            "findings": "glomerulonephritis with a membranoproliferative pattern and several intraluminal microthrombi; immunofluorescence assay highlighted granular to focally confluent IgM and IgG consistent with cryoglobulinemic glomerulonephritis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "urinalysis",
+            "date": "Not specified",
+            "findings": "dark yellow urine with heme positivity, 3+ protein, red cells too numerous to count, and 25 to 50 white cells per high-power field",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "a non-bleeding, clean-based ulcer and gastritis, with pathological specimens showing moderately active chronic gastritis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

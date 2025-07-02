@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT head scan",
+            "date": "Not specified",
+            "findings": "Subacute right occipital infarct and bilateral basal ganglia calcification.",
+            "changes_over_time": "Subsequent CT imaging done 3 weeks later demonstrated interval development of new left temporoparietal and left occipital infarcts."
+        },
+        {
+            "procedure_name": "CT angiogram",
+            "date": "Not specified",
+            "findings": "Intracranial stenoses affecting basilar artery, both posterior cerebral arteries, and to a lesser degree bilateral anterior cerebral arteries and middle cerebral arteries, suggestive of possible atherosclerosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat CT head scan",
+            "date": "Prior to discharge, 6 weeks after initial presentation",
+            "findings": "Improvement in low attenuation of the bilateral occipito-parietal regions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

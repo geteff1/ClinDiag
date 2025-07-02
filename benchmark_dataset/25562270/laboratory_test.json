@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": {
+                "serum_triglycerides": "3159 mg/dL",
+                "total_cholesterol": "902 mg/dL (23.4 mmol/L)",
+                "LDL_cholesterol": "164 mg/dL (4.2 mmol/L)",
+                "HDL_cholesterol": "22 mg/dL (0.57 mmol/L)",
+                "blood_glucose": "278 mg/dL (15.4 mmol/L)",
+                "glycated_hemoglobin": "12.0%",
+                "lipase": "72 U/L (1.2 μkat/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Extracellular deposition of lipid within the superficial dermis; diagnostic of eruptive xanthoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid panel (post-treatment)",
+            "date": "6 days later",
+            "findings": {
+                "serum_triglycerides": "866 mg/dL"
+            },
+            "changes_over_time": "Triglyceride level decreased from 3159 mg/dL to 866 mg/dL over 6 days."
+        }
+    ]
+}

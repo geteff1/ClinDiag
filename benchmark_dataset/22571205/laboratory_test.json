@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal white cell count of 6460 on initial admission, decreased to 3830 on the 3rd day, and further decreased to 3400 when transferred to this hospital.",
+            "changes_over_time": "White cell count decreased from 6460 on the first evaluation to 3400 by the third day."
+        },
+        {
+            "procedure_name": "Skin Biopsy Culture",
+            "date": "Not specified",
+            "findings": "Culture of the skin revealed a heavy growth of Staphylococcus aureus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Yellow turbid fluid with 2+ ketones and albumin, 3 to 5 red cells, 5 to 10 white cells per high-power field; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Blood cultures were sterile initially, but later revealed Pseudomonas aeruginosa.",
+            "changes_over_time": "Sterile initially, grew Pseudomonas aeruginosa later indicating progression to infection."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Initial hematocrit at 37.6%, decreased to 35.2% on the third day.",
+            "changes_over_time": "Hematocrit level decreased from 37.6% to 35.2%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Initially at 13.1 g/dl, decreased to 12.2 g/dl on the 3rd day, and rose slightly to 12.4 g/dl on transfer.",
+            "changes_over_time": "Decreased from 13.1 g/dl to 12.2 g/dl and then increased slightly to 12.4 g/dl."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "C-reactive protein was elevated at 239.2 mg/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "Sodium was low at 131 mmol/liter, chloride was low at 95 mmol/liter, calcium was low at 7.9 mg/dl, and phosphorus was low at 2.2 mg/dl.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Direct Fluorescent Antibody Testing",
+            "date": "Not specified",
+            "findings": "Positive for HSV-1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

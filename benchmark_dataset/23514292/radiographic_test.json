@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Hilar lymphadenopathy and multiple nodular opacities throughout both lungs, more prominent in the middle and lower zones.",
+            "changes_over_time": "Unchanged."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Multifocal ill-defined nodular opacities throughout all lung lobes, superimposed areas of consolidation, scattered ground-glass opacities, and mediastinal and hilar lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "A small pleural effusion on the right side; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound examination of the neck",
+            "date": "Not specified",
+            "findings": "Bilateral cervical lymphadenopathy, more prominent on the right side; no evidence of deep venous thrombosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

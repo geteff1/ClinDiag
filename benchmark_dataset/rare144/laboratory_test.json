@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraocular Pressure Measurement",
+            "date": "Not specified",
+            "findings": "Initial intraocular pressure was 18mmHg in both eyes, later increased to 25mmHg and then 55mmHg in the left eye.",
+            "changes_over_time": "Intraocular pressure increased from 18mmHg to 55mmHg in the left eye."
+        },
+        {
+            "procedure_name": "Coagulation Profile",
+            "date": "Not specified",
+            "findings": "INR 1.06, APTT 29.4 s, PT 15.7 s.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tacrolimus Level Test",
+            "date": "Not specified",
+            "findings": "Tacrolimus level of 5.3 µg/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Kidney Function Tests",
+            "date": "Not specified",
+            "findings": "Urea 4.6 mmol/L, Creatinine 114 mol/L, Albumin 41 g/L, Glomerular Filtration Rate 49 ml/min/1.73m2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone (TSH) Test",
+            "date": "Not specified",
+            "findings": "TSH 7.1 mU/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "147/81 mmHg",
+                "pulse": "61 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "temperature": "36.2°C",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_exam": "The patient had difficulty walking in a straight line. The remainder of the general physical examination was normal.",
+                "neurological_exam": "A few beats of horizontal nystagmus with left and right far lateral gaze, fatiguing and decreased sensation to all stimuli on the right foot and calf, mild ataxia on tandem gait; the Romberg test was positive."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second day in the hospital",
+            "vital_signs": {
+                "blood_pressure": "166/77 mmHg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_exam": "The patient appeared intermittently inattentive."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Third day in the hospital",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "lumbar_puncture": "Opening pressure of 14 cm of water. Cerebrospinal fluid was clear, glucose level of 64 mg/dL, protein level of 65 mg/dL, with cellular count of one red cell and one white cell per cubic millimeter.",
+                "neurological_exam": "Continuous focal slowing in the right hemisphere on EEG."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Five days after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_exam": "Signs of cognitive deterioration with errors in orientation, slow responses, and naming difficulty."
+            },
+            "changes_over_time": "Worsening gait instability confirmed by family members."
+        },
+        {
+            "date": "Thirteen days after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_exam": "Confusion, action tremors on the left side, asterixis, ataxic tremor in arms and legs."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "38.5°C",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_exam": "Somnolent, blunted affect, visual tracking impairment, slow saccades, moderate action tremor, myoclonus in upper extremities, fasciculations in legs."
+            },
+            "changes_over_time": "Worsening of neurological status with persistent symptoms."
+        }
+    ]
+}

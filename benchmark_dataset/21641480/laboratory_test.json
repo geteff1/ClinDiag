@@ -1,0 +1,29 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "1.96 mg/dL",
+                "glucose": "6.0 mmol/L",
+                "polymorphs": "3 cells per μL",
+                "lymphocytes": "57 cells per μL",
+                "VDRL": "Positive (1:2)",
+                "TPHA": "Positive"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "VDRL test",
+            "date": "Not specified",
+            "findings": "Positive in both CSF and serum (titre 1 to 128)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV ELISA",
+            "date": "November, 2010",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

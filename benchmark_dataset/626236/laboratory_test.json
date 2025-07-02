@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemogram",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemistries",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "T3 uptake",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Occasional theta activity in right temporal leads, otherwise unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF examination",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Isotope brain scan",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skull X-ray",
+            "date": "Not specified",
+            "findings": "Abnormal, indicating a slowly progressive increase of intracranial pressure possibly due to a tumor or an early-acquired hydrocephalus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Showed a large spherical mass occupying the third ventricle and obstructing lateral ventricles, which were dilated, thought to be a colloid cyst rather than a tumor.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

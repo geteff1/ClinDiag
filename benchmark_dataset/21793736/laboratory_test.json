@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "May 17, 2011",
+            "findings": "4.1 mg per deciliter (362 μmol per liter), outside normal range.",
+            "changes_over_time": "Improved after 9 days of peritoneal dialysis, with serum creatinine levels just above the normal range at discharge."
+        },
+        {
+            "procedure_name": "Potassium level",
+            "date": "May 17, 2011",
+            "findings": "6 mmol per liter, outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thrombocytopenia check",
+            "date": "May 17, 2011",
+            "findings": "22,000 platelets per cubic millimeter, outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin check",
+            "date": "May 17, 2011",
+            "findings": "11.6 g per deciliter, within normal range.",
+            "changes_over_time": "Fell to 8.4 g per deciliter within 48 hours after admission."
+        },
+        {
+            "procedure_name": "Bilirubin check",
+            "date": "May 17, 2011",
+            "findings": "2.8 mg per deciliter (49 μmol per liter), outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase check",
+            "date": "May 17, 2011",
+            "findings": "2297 U per liter, outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool biopsy",
+            "date": "May 18, 2011",
+            "findings": "Culture-positive for Shiga-toxin–producing E. coli.",
+            "changes_over_time": "Subsequent analyses showed the strain belonged to serotype O104:H4."
+        }
+    ]
+}

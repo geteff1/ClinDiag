@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Implantable cardioverter-defibrillator (ICD) interrogation",
+            "date": "Not specified",
+            "findings": "The patient developed supraventricular tachycardia shortly after his wife began yelling, which then degenerated to atrial fibrillation with a rapid ventricular response.",
+            "changes_over_time": "Following electrophysiology testing and ablation, neither atrial flutter nor supraventricular tachycardia could be reinduced and the patient has remained free of atrial tachyarrhythmias for almost 4 years."
+        },
+        {
+            "procedure_name": "Electrophysiology testing",
+            "date": "Not specified",
+            "findings": "Atrial flutter was easily induced and then degenerated to atrial fibrillation, requiring electrical cardioversion.",
+            "changes_over_time": "Following the procedure, no atrial flutter or supraventricular tachycardia could be reinduced."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "The patient was found to have multivessel coronary artery disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Recovery and Follow-up",
+            "date": "Almost 2 years post-event",
+            "findings": "Patient has normal left ventricular function.",
+            "changes_over_time": "Patient has not had any recurrent cardiac events."
+        }
+    ]
+}

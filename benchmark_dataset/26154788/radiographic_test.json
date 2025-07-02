@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "December 2011",
+            "findings": "Normal",
+            "changes_over_time": "Follow-up 3 weeks after initial scan: hyperintense (T2-weighted imaging) lesions in temporal, parietal, and insular cortex and midbrain; spine not affected."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "July 2013",
+            "findings": "Normal",
+            "changes_over_time": "10 days after initial scan: hyperintense (T2-weighted imaging), partly symmetric lesions in temporal, parietal, and frontal cortex, basal ganglia, and brainstem; spine not affected."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "December 2013",
+            "findings": "Dilated ventricles.",
+            "changes_over_time": "6 days after initial scan: meningeal contrast enhancement; spine not affected."
+        }
+    ]
+}

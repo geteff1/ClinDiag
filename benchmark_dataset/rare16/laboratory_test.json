@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Typical T wave alternans, markedly prolonged QT-intervals (RR=570 ms, QT=501 ms, QTc=664 ms).",
+            "changes_over_time": "Slightly prolonged QTc at the age of 5 (RR=559 ms, QT=346 ms, QTc=462 ms)."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "No congenital heart defects nor hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Age 7 months",
+            "findings": "Hypsarrhythmia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Identified a novel heterozygous missense variant p.R412M in CACNA1C, confirmed as pathogenic.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

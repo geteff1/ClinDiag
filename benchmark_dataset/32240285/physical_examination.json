@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 22, 2020",
+            "vital_signs": {
+                "oral_temperature": "36.7°C",
+                "pulse": "95 beats/minute",
+                "blood_pressure": "150/89 mmHg",
+                "respiratory_rate": "16 breaths/minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "lung_auscultation": "Clear breath sounds bilaterally without wheezing, rales, or rhonchi.",
+                "cough": "Mild nonproductive cough reported, unchanged in character, frequency, and severity."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "February 5, 2020",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "cough": "Reported to have resolved."
+            },
+            "changes_over_time": "Cough improved from persistent to resolved."
+        },
+        {
+            "date": "February 19, 2020",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Patient tested negative for SARS-CoV-2 at 2 consecutive time points ≥24 hours apart."
+        }
+    ]
+}

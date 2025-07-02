@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Skin Prick Test",
+            "date": "Not specified",
+            "findings": "Positive for kiwi (3 mm), pear (4 mm), banana (5 mm), watermelon (5 mm), cherry (6 mm), passion fruit (5 mm), walnut (5 mm), pistachio (4 mm), and latex (12 mm); Positive control 8 mm, Negative control 0 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Serum IgE Level",
+            "date": "Not specified",
+            "findings": "34 IU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum-specific IgE to Latex",
+            "date": "Not specified",
+            "findings": "3.2 KU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum-specific IgE to Turnip",
+            "date": "Not specified",
+            "findings": "0.64 KU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum-specific IgE to Zucchini",
+            "date": "Not specified",
+            "findings": "<0.35 KU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inhibition Studies",
+            "date": "Not specified",
+            "findings": "Inhibition of turnip ImmunoCAP reaction by 99.3% and latex ImmunoCAP reaction inhibited by both zucchini and turnip.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specific IgE Levels to rHev b Proteins",
+            "date": "Not specified",
+            "findings": "rHev b1: 0 KU/l, rHev b5: 0.31 KU/l, rHev b6.01: 2.9 KU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inhibition Study of rHev b6.01",
+            "date": "Not specified",
+            "findings": "Inhibition of 63% with turnip extract and 52.3% with zucchini extract.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "Not specified",
+            "findings": "Progressive improvement in respiratory function in twins treated with omalizumab; specific values not mentioned.",
+            "changes_over_time": "Improvement in respiratory function noted during extended treatment period of 6 years."
+        }
+    ]
+}

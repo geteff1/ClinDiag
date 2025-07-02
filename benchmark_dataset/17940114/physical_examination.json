@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_TSH": "7.08 /H9262U/ml",
+                "serum_FT4": "0.73 ng/dl, 9.40 pmol/liter",
+                "serum_FT3": "Normal",
+                "anti_TPO": "Negative",
+                "anti_Tg": "Negative"
+            },
+            "relevant_findings": "The proposita of family B had a goiter with a 1-cm nodule in the right lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_FT4": "0.51 ng/dl, 6.56 pmol/liter",
+                "serum_TSH": "Normal",
+                "serum_FT3": "Normal",
+                "serum_thyroglobulin": "1312 ng/ml (normal range 0-80 ng/ml)",
+                "urine_iodine": "102 /H9262g/liter"
+            },
+            "relevant_findings": "Proposita A had a large goiter and hypothyroxinemia, normal TSH, and free T3.",
+            "changes_over_time": "On increasing daily doses of L-thyroxine (25, 50, 75, and 100 /H9262g), her serum FT4 levels remained low or low-normal."
+        }
+    ]
+}

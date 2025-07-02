@@ -1,0 +1,132 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "10 months before this evaluation",
+            "findings": {
+                "Hematocrit": "47.2%",
+                "Hemoglobin": "15.8 g/dL",
+                "White-cell count": "15,100 per mm3",
+                "Neutrophils": "84.5%",
+                "Immature granulocytes": "1.8%",
+                "Lymphocytes": "7.0%",
+                "Monocytes": "6.4%",
+                "Basophils": "0.2%",
+                "Eosinophils": "0.1%",
+                "Platelet count": "379,000 per mm3",
+                "Red-cell count": "5,240,000 per mm3",
+                "Mean corpuscular volume": "90.1 fL",
+                "Mean corpuscular hemoglobin": "30.2 pg",
+                "Mean corpuscular hemoglobin concentration": "33.5 g/dL",
+                "Red-cell distribution width": "13.8%",
+                "Erythrocyte sedimentation rate": "3 mm/hr"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "4 months before this evaluation",
+            "findings": {
+                "Hematocrit": "48.7%",
+                "Hemoglobin": "16.6 g/dL",
+                "White-cell count": "13,790 per mm3",
+                "Neutrophils": "61.3%",
+                "Immature granulocytes": "1.0%",
+                "Lymphocytes": "29.5%",
+                "Monocytes": "7.4%",
+                "Basophils": "0.3%",
+                "Eosinophils": "0.5%",
+                "Platelet count": "373,000 per mm3",
+                "Red-cell count": "5,400,000 per mm3",
+                "Mean corpuscular volume": "90.2 fL",
+                "Mean corpuscular hemoglobin": "30.7 pg",
+                "Mean corpuscular hemoglobin concentration": "34.1 g/dL",
+                "Red-cell distribution width": "14.2%",
+                "Erythrocyte sedimentation rate": "Not specified."
+            },
+            "changes_over_time": "Increased white-cell count from 15,100 to 13,790 per mm3."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Urine protein level": "15.7 mg/dL",
+                "Urine protein:creatinine ratio": "0.05"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase (ALT)",
+            "date": "4 months before this evaluation",
+            "findings": {
+                "ALT": "81 U/L",
+                "Reference range": "0 to 50"
+            },
+            "changes_over_time": "Increased from 38 U/L to 81 U/L."
+        },
+        {
+            "procedure_name": "Blood Chemistry Panel",
+            "date": "10 months before this evaluation",
+            "findings": {
+                "Creatinine": "0.82 mg/dL",
+                "Estimated glomerular filtration rate": ">60 mL/min/1.73 m2"
+            },
+            "changes_over_time": "Creatinine increased to 0.91 mg/dL at evaluation."
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": {
+                "Thyrotropin": "0.493 μIU/mL",
+                "Reference range": "0.300–5.000"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "10 months before this evaluation",
+            "findings": {
+                "Glycated hemoglobin": "5.1%",
+                "Reference range": "4.3–6.4"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG",
+            "date": "10 months before this evaluation",
+            "findings": {
+                "IgG": "705 mg/dL",
+                "Reference range": "672–1680"
+            },
+            "changes_over_time": "Decreased to 681 mg/dL."
+        },
+        {
+            "procedure_name": "IgG4",
+            "date": "10 months before this evaluation",
+            "findings": {
+                "IgG4": "14 mg/dL",
+                "Reference range": "0–157"
+            },
+            "changes_over_time": "Increased to 15.7 mg/dL."
+        },
+        {
+            "procedure_name": "IgE",
+            "date": "Not specified",
+            "findings": {
+                "IgE": "310 IU/mL",
+                "Reference range": "0–100"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C3 and C4",
+            "date": "Not specified",
+            "findings": {
+                "C3": "157 mg/dL",
+                "C4": "31 mg/dL",
+                "Reference ranges": "C3: 81–157, C4: 12–39"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

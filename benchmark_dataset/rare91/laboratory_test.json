@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ophthalmic evaluation",
+            "date": "Not specified",
+            "findings": "Slit-lamp examination showed severe blepharitis with mucopurulent discharge, epiphoria, and absent Meibomian glands in both eyes. Cycloplegic objective refraction was +6.25/-2×180° in the right eye and +6.75/-2×10 in the left eye, with best-corrected visual acuity of 20/200 in both eyes. Schirmer test with anesthetics was normal. Mean fluorescein tear-film break-up time was 4 seconds in the right eye and 5 seconds in the left eye, indicating rapid tear evaporation. Anterior segment examination showed bilateral superficial punctuate keratitis. Fundoscopy was unremarkable in both eyes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundus autofluorescence",
+            "date": "Not specified",
+            "findings": "Bilateral 'bull’s eye ring'.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroretinography",
+            "date": "Not specified",
+            "findings": "Bilateral severely reduced cone responses consistent with a diagnosis of congenital cone dystrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography",
+            "date": "Not specified",
+            "findings": "Normal, suggesting an early stage of the disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Revealed two pathogenic variants: c.931A > G (p.Ser311Gly) in the TP63 gene (de novo) and c.1810C > T (p.Arg604Ter) in the CNGB3 gene (homozygous from heterozygous parents).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

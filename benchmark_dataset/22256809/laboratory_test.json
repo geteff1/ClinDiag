@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "27.8% (7.5 months before admission), 25.6% (on admission), 19.3% (3rd to 4th day), 27.9% (14th day); outside normal range initially and on admission, normal by 14th day.",
+            "changes_over_time": "Decreased from 27.8% to 19.3% over the first few days, then increased to 27.9% by the 14th day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "9.0 g/dl (7.5 months before admission), 8.2 g/dl (on admission), 6.0 g/dl (3rd to 4th day), 9.5 g/dl (14th day); outside normal range.",
+            "changes_over_time": "Decreased from 9.0 g/dl to 6.0 g/dl in the first few days, then increased to 9.5 g/dl by the 14th day."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "5300 per mm³ (7.5 months before admission), 26,300 per mm³ (on admission), 32,800 per mm³ (3rd to 4th day), 4000 per mm³ (14th day); elevated initially.",
+            "changes_over_time": "Increased from 5300 to 32,800 per mm³ over the first few days, then decreased to 4000 per mm³ by the 14th day."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "227,000 per mm³ (7.5 months before admission), 22,000 per mm³ (on admission), 25,000 per mm³ (3rd to 4th day), 70,000 per mm³ (14th day); severely decreased.",
+            "changes_over_time": "Decreased dramatically from 227,000 to 22,000 per mm³, then slightly increased to 70,000 by the 14th day."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "30 mg/dl (7.5 months before admission), 35 mg/dl (on admission), 106 mg/dl (3rd to 4th day); outside normal range.",
+            "changes_over_time": "Increased from 30 to 106 mg/dl over the first few days."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.12 mg/dl (7.5 months before admission), 1.36 mg/dl (on admission), 1.69 mg/dl (3rd to 4th day); slightly elevated over time.",
+            "changes_over_time": "Increased from 1.12 to 1.69 mg/dl over the first few days."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "160 mg/dl (7.5 months before admission), 213 mg/dl (on admission), 349 mg/dl (3rd to 4th day); outside normal range.",
+            "changes_over_time": "Increased from 160 to 349 mg/dl over the first few days."
+        },
+        {
+            "procedure_name": "Bilirubin (Total)",
+            "date": "Not specified",
+            "findings": "0.8 mg/dl (7.5 months before admission), 2.5 mg/dl (on admission); outside normal range.",
+            "changes_over_time": "Increased from 0.8 to 2.5 mg/dl from baseline to admission."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "117 U/liter (7.5 months before admission), 77 U/liter (on admission); initially elevated.",
+            "changes_over_time": "Decreased from 117 to 77 U/liter by admission."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "505 U/liter (on admission); elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Galactomannan antigen index",
+            "date": "3rd day",
+            "findings": "<0.5 (negative test); no evidence of fungal infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1,3-β-d-glucan",
+            "date": "7.5 months before admission",
+            "findings": "68 pg/ml (positive); indicative of possible fungal infection.",
+            "changes_over_time": "Increased to 370 pg/ml on 3rd day, suggesting significant fungal activity."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "156.4 mg/liter (elevated); indicative of inflammation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "865 ng/ml (elevated); indicative of inflammation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gases (pH)",
+            "date": "3rd day",
+            "findings": "7.30 (acidosis); outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gases (partial pressure of carbon dioxide)",
+            "date": "3rd day",
+            "findings": "54 mm Hg (elevated); outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gases (partial pressure of oxygen)",
+            "date": "3rd day",
+            "findings": "72 mm Hg (low); outside normal range.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

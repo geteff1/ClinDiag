@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "100/60 mm Hg",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Flushed skin",
+                    "Superficial abrasions on the left side of the forehead",
+                    "Jugular venous pressure 5 cm of water",
+                    "Carotid pulses 2+ without bruits",
+                    "Normal apical impulse and rhythm without murmur or rub",
+                    "Prolonged expiratory phase in auscultation of the lung without wheezes or rales",
+                    "Mild varicosities in the lower legs without edema"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified (hospital day 3)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Two masses located along the right atrioventricular groove compressing the tricuspid annulus",
+                    "Superior aneurysmal segment measuring 4.4 cm in greatest dimension",
+                    "Inferior aneurysmal segment measuring 4.0 cm in greatest dimension"
+                ]
+            },
+            "changes_over_time": "Progression in diagnosis from initial syncope to identification of two aneurysmal segments"
+        }
+    ]
+}

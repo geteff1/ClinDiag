@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "total_cholesterol": "675 mg/dL",
+                "LDL_cholesterol": "540 mg/dL",
+                "HDL_cholesterol": "46 mg/dL",
+                "triglycerides": "51 mg/dL"
+            },
+            "relevant_findings": {
+                "cutaneous_examination": "Multiple yellowish plaques on wrist, neck, and gluteal folds consistent with intertriginous xanthomas.",
+                "other_findings": "No goiter or hepatomegaly."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 18 months of age",
+            "vital_signs": {
+                "total_cholesterol": "Not specified",
+                "LDL_cholesterol": "Not specified",
+                "HDL_cholesterol": "Not specified",
+                "triglycerides": "Not specified"
+            },
+            "relevant_findings": {
+                "cutaneous_examination": "Some regression of the intertriginous xanthomas on the wrist and neck."
+            },
+            "changes_over_time": "Xanthomas are noted to have regressed."
+        },
+        {
+            "date": "At 3 years of age",
+            "vital_signs": {
+                "total_cholesterol": "184 mg/dL",
+                "LDL_cholesterol": "118 mg/dL",
+                "HDL_cholesterol": "Not specified",
+                "triglycerides": "Not specified"
+            },
+            "relevant_findings": {
+                "cutaneous_examination": "Xanthomas have regressed and disappeared."
+            },
+            "changes_over_time": "Xanthomas disappeared by this age."
+        }
+    ]
+}

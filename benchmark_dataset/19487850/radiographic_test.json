@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "F-18 FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Multifocal abnormal FDG uptake in the right thorax with SUVmax ranging from 1.4 to 2.7; abnormal FDG uptake also seen in the chest wall. Faint infiltrative opacities noted in both lungs.",
+            "changes_over_time": "Lung lesions gradually and spontaneously regressed on follow-up CT images, with disappearance or shrinkage of the lesions observed."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Multiple lung nodules with various sizes from 0.6 to 3 cm and faint infiltrative opacities observed.",
+            "changes_over_time": "Several nodules appeared 1 month later on a chest radiograph."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Follow-up at 3, 6, and 1-year intervals post-VATS",
+            "findings": "Not specified.",
+            "changes_over_time": "Follow-up images showed gradual and spontaneous regression of lung lesions."
+        }
+    ]
+}

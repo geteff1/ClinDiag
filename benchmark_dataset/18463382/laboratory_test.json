@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit was 39% (reference range, 41 to 53)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "5 to 10 white cells per high-power field; other results normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Dilated left ventricle with diffuse hypokinesis, apical dyskinesia, left ventricular ejection fraction of approximately 20%",
+            "changes_over_time": "Estimated left ventricular ejection fraction improved to 23% after treatment."
+        },
+        {
+            "procedure_name": "CT of the brain",
+            "date": "6 months before the current admission",
+            "findings": "Nonspecific, periventricular white-matter hypodensities consistent with microangiopathic disease; tiny chronic cerebellar infarct on the right side",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "6 months before the current admission",
+            "findings": "Complete heart block with a slow junctional escape rhythm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatine kinase and troponin levels",
+            "date": "During the course of ECT treatment",
+            "findings": "Indicated no acute ischemic changes",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

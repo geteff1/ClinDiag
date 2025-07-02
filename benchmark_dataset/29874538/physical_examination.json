@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2010",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination: well-appearing; cardiopulmonary examination was unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "pulse": "70 bpm",
+                "blood_pressure": "114/60 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Swollen, plethoric face; swollen arms; swollen but supple neck; moist mucous membranes; jugular venous distention; well-healed defibrillator pocket; dilated collateral veins on chest wall; normal pulmonary examination; regular cardiac rate and rhythm without murmurs, rubs, or gallops; soft and nontender abdomen; no leg edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "FSH",
+            "date": "Not specified",
+            "findings": "At age 14 years, FSH 124 UI/l; at age 19 years, FSH 73 U/l; at age 39 years, FSH 36.3 UI/l.",
+            "changes_over_time": "High FSH levels noted at all ages, decreasing from 124 UI/l at 14 years to 73 U/l at 19 years, but still indicative of POI."
+        },
+        {
+            "procedure_name": "LH",
+            "date": "Not specified",
+            "findings": "At age 14 years, LH 34 UI/l; at age 19 years, LH 34 U/l; at age 39 years, LH 23 UI/l.",
+            "changes_over_time": "LH levels remain elevated across different ages, consistent with primary ovarian insufficiency."
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "At age 14 years, Estradiol <5 pg/ml; at age 19 years, Estradiol <9.5 pg/ml; at age 39 years, Estradiol <0.03 ng/l.",
+            "changes_over_time": "Estradiol levels consistently low at all ages."
+        },
+        {
+            "procedure_name": "AMH",
+            "date": "At age 19 years",
+            "findings": "AMH 0.03 µg/l.",
+            "changes_over_time": "Low AMH levels confirmed at the age of 19 years; no previous measurements reported."
+        },
+        {
+            "procedure_name": "Anti-TPO antibodies",
+            "date": "At age 14 years",
+            "findings": "Anti-TPO antibodies slightly elevated at 37 UI/l (normal <34 UI/l).",
+            "changes_over_time": "No changes over time described; consistent elevation noted at 14 years."
+        },
+        {
+            "procedure_name": "Chromosomal breakage study (Mitomycin C)",
+            "date": "Not specified",
+            "findings": "Patient’s cells show two times more breaks at 10-6 M MMC compared to the mother; significantly more aberrant metaphases.",
+            "changes_over_time": "The mother's cells exhibited intermediate but significantly higher chromosomal breaks compared to the control."
+        },
+        {
+            "procedure_name": "Growth hormone therapy blood assays",
+            "date": "At age 22 years",
+            "findings": "No abnormalities in FSH, LH, TSH, T4 plasma assays; ovarian antibodies negative.",
+            "changes_over_time": "Prior tests at ages 14 and 19 years indicated POI; no significant change over the years regarding hormonal levels."
+        },
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "Karyotype was 46,XX.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "TSH and T4 levels normal across various ages.",
+            "changes_over_time": "Persistently normal TSH and T4 levels throughout the years."
+        },
+        {
+            "procedure_name": "Total thyroidectomy histology",
+            "date": "At age 46 years",
+            "findings": "Histology confirmed benign lymphocyte thyroiditis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

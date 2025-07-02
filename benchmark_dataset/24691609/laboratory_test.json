@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mammogram",
+            "date": "2010",
+            "findings": "Interval increase in the number of heterogeneous microcalcifications, classified as BI-RADS category 5 (highly suggestive of malignancy).",
+            "changes_over_time": "Abnormal mammogram in 2008 with microcalcifications (BI-RADS category 3), followed by increased findings in 2010."
+        },
+        {
+            "procedure_name": "Excisional biopsy",
+            "date": "Not specified",
+            "findings": "Identified ductal carcinoma in situ (DCIS), intermediate grade without comedo-type necrosis, on 2 of 9 slides. Estrogen receptor staining was strongly positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Reexcision",
+            "date": "Not specified",
+            "findings": "No residual DCIS was identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Profound QT prolongation with a corrected QT interval (QTc) of 712 ms and intermittent 2:1 atrioventricular (AV) block. During 1:1 conduction, macroscopic T-wave alternans were observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genomic DNA sequencing",
+            "date": "Not specified",
+            "findings": "A L179F (C535T) missense mutation in SCN4B was identified, which cosegregated properly throughout a 3-generation pedigree and was absent in 800 reference alleles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Holter evaluation",
+            "date": "Not specified",
+            "findings": "T wave alternans during 1:1 conduction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

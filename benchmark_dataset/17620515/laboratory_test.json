@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cardiac enzyme tests",
+            "date": "24 hours after PCI",
+            "findings": "Troponin I: 1.19 g/L (normal <0.04 g/L), CK-MB: 7.8 g/L (normal 0–6 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiovascular magnetic resonance (CMR) scan",
+            "date": "48 hours after PCI",
+            "findings": "Evidence of septal mid-wall late gadolinium enhancement compatible with septal perforation; chronic inferior wall subendocardial infarct observed.",
+            "changes_over_time": "Follow-up CMR scan 8 weeks after PCI showed a small area of focal fibrosis in the mid septum, less prominent than previously, likely representing infarct resorption."
+        }
+    ]
+}

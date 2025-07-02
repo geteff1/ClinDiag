@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Within normal range initially; later increased to 80 mm/h.",
+            "changes_over_time": "ESR increased from normal to 80 mm/h."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "Increased to 170 mg/L.",
+            "changes_over_time": "CRP increased from normal to 170 mg/L."
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "10,750/mm3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Neutrophils Count",
+            "date": "Not specified",
+            "findings": "7,920/mm3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Initial visit",
+            "findings": "Minimal effusion of the free pericardium wall (5 mm) with fibrin presence.",
+            "changes_over_time": "Follow-up echocardiogram showed pericardial effusion (20 mm)."
+        },
+        {
+            "procedure_name": "Blood Tests (last visit)",
+            "date": "Not specified",
+            "findings": "Results within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Negative at initial visit; normal at last visit.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Supervised fast",
+            "date": "Not specified",
+            "findings": "At 6 hours, blood glucose level was 48 mg/dL; at 8 hours, blood glucose level was 29 mg/dL with symptoms of weakness and fatigue.",
+            "changes_over_time": "Following administration of orange juice and dextrose, the glucose level rose to 200 mg/dL and the weakness and fatigue resolved."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Revealed a hypoechoic, homogeneous, well-defined, nearly spherical lesion (1.6 cm) in the head of the pancreas.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cellular pattern with moderately cohesive clusters of relatively monomorphic tumor cells and approximately 2% of tumor cells stained positive for Ki-67, consistent with a grade 1 tumor.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

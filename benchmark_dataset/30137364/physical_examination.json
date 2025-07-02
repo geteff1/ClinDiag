@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "6.9 mg/dL",
+                "serum_phosphorus": "6.5 mg/dL",
+                "urinary_cyclic_amp": "Normal"
+            },
+            "relevant_findings": "The proband exhibited muscle cramping and tetany. Additionally, bilateral subcapsular cataracts were noted.",
+            "changes_over_time": "Serum calcium levels ranged from 5.3 to 6.9 mg/dL over time with episodes of therapy discontinuation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "Not specified",
+                "serum_phosphorus": "Not specified",
+                "urinary_cyclic_amp": "Not specified"
+            },
+            "relevant_findings": "The proband developed hypocalcemia due to hypoparathyroidism and underwent surgical repair of a cardiac defect.",
+            "changes_over_time": "Asymptomatic hypocalcemia was diagnosed in the proband's mother and grandmother retrospectively."
+        }
+    ]
+}

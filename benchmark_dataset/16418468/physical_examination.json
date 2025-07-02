@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "appearance": "looks well, younger than her stated age, and has full range of affect",
+                "cardiac_examination": "unremarkable, save for sounds produced by the prosthetic aortic valve",
+                "neurological_status": "no evidence for neurological deficits",
+                "international_normalized_ratio": "variable",
+                "anemia": "low-grade chronic anemia of uncertain etiology"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

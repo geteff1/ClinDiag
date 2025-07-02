@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "28.0 kg (40th centile)",
+                "height": "136.0 cm (60th centile)",
+                "head_circumference": "52.0 cm (30th centile)",
+                "pubertal_development": "Tanner stage II"
+            },
+            "relevant_findings": {
+                "dysmorphic_features": [
+                    "bilateral ptosis",
+                    "upturned nares",
+                    "two-to-three toe syndactyly",
+                    "curving of the little finger toward the fourth finger (clinodactyly)"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1 year follow-up (at age 10.3 years)",
+            "vital_signs": {
+                "weight": "Not specified (reported at 25th centile)",
+                "height": "Not specified (reported at 55th centile)",
+                "cholesterol_levels": {
+                    "initial": "117 mg/dl",
+                    "1_year": "177 mg/dl"
+                },
+                "7_dehydrocholesterol_levels": "6.2 mg/dl"
+            },
+            "relevant_findings": {
+                "behavioral_changes": "Less impulsive and overactive; began to verbalize feelings; increased perseverance on books."
+            },
+            "changes_over_time": "Significant improvement in behavior and verbalization noted."
+        },
+        {
+            "date": "2 years follow-up (at age 11.0 years)",
+            "vital_signs": {
+                "weight": "Not specified (reported at 50th centile)",
+                "height": "Not specified (reported at 60th centile)",
+                "cholesterol_levels": {
+                    "2_year": "140 mg/dl"
+                },
+                "7_dehydrocholesterol_levels": "6.6 mg/dl"
+            },
+            "relevant_findings": {
+                "behavioral_changes": "Continued significant gains in reading and vocabulary development; speech production improved to five- to eight-word sentences."
+            },
+            "changes_over_time": "Marked improvement in written language and steps climbing ability; continued social and language deficits."
+        }
+    ]
+}

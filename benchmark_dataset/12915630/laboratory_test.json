@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-h Urine Free Cortisol (HPLC)",
+            "date": "Not specified",
+            "findings": "166 μg/24 h (normal <142).",
+            "changes_over_time": "Subsequent measurements were 135 μg/24 h and 463 μg/24 h."
+        },
+        {
+            "procedure_name": "24-h Urine Free Cortisol after Dexamethasone",
+            "date": "Not specified",
+            "findings": "218 μg/24 h.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-h Urine Free Cortisol (RIA)",
+            "date": "Not specified",
+            "findings": "35 μg/24 h (within normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-h Urine Free Cortisol (HPLC-MS/MS)",
+            "date": "Not specified",
+            "findings": "10 μg/24 h (within normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Late-night Salivary Cortisol",
+            "date": "Not specified",
+            "findings": "All measurements within normal range.",
+            "changes_over_time": "Several measurements over 3-month period."
+        },
+        {
+            "procedure_name": "1-mg Dexamethasone Suppression Test",
+            "date": "Not specified",
+            "findings": "0.9 μg/dl serum cortisol and 3 pg/ml plasma ACTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-h Urine Free Cortisol (HPLC) - Case 2",
+            "date": "Not specified",
+            "findings": "Range from 80-180 μg/24 h (normal <142).",
+            "changes_over_time": "Persistent elevations over 1-year period."
+        },
+        {
+            "procedure_name": "1-mg Dexamethasone Suppression Test - Case 2",
+            "date": "Not specified",
+            "findings": "1.1 μg/dl serum cortisol.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-h Urine Free Cortisol (HPLC/MS-MS) - Case 2",
+            "date": "Not specified",
+            "findings": "9 μg/24 h (well within normal range).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

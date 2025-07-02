@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Mild pancytopenia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Clearance",
+            "date": "Not specified",
+            "findings": "Estimated CrCl 22 mL/min, decreased compared to baseline",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Transaminitis (~8X normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Elevated LDH",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ELISA for Echinococcus granulosus",
+            "date": "Not specified",
+            "findings": "Positive with an optical density of 0.60 (cut-off value: 0.35)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Second ELISA for Echinococcus granulosus hydatid fluid antigen",
+            "date": "Not specified",
+            "findings": "Positive (156 AU/ml; cut-off ≥ 1 AU/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ELISA for Echinococcus multilocularis",
+            "date": "Not specified",
+            "findings": "Negative for both tested antigens",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western Blot for Echinococcus granulosus and Echinococcus multilocularis",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albendazole Monitoring",
+            "date": "Monthly",
+            "findings": "Target 1–3 µmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver MRI",
+            "date": "7 months after treatment initiation",
+            "findings": "50% decrease in the size of the liver lesion, with residual satellite lesions",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

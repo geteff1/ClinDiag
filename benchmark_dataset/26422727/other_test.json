@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "Extensive but not diffuse effacement of foot processes with minimal chronic changes of the parenchyma and 12% global glomerulosclerosis.",
+            "changes_over_time": "Suggestive of idiopathic minimal-change disease; extensive effacement of foot processes indicates an early stage or partial remission."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ protein and no blood.",
+            "changes_over_time": "Protein-to-creatinine ratio decreased to 1.4, with resolution of edema and furosemide discontinued after treatment."
+        },
+        {
+            "procedure_name": "Urine thyroxine assay",
+            "date": "Not specified",
+            "findings": "Total urine T4 level was 2.14 μg per deciliter; calculated 24-hour T4 excretion was 62 μg.",
+            "changes_over_time": "Confirmed that clinical hypothyroidism was attributable to nephrotic syndrome; monitored over time."
+        },
+        {
+            "procedure_name": "Spot urine protein-to-creatinine ratio",
+            "date": "Two months after initial presentation",
+            "findings": "5.6, indicating relapse of proteinuria.",
+            "changes_over_time": "After treatment with prednisone, the ratio declined to 0.1, indicating resolution of nephrotic syndrome."
+        }
+    ]
+}

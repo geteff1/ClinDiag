@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Age Assessment",
+            "date": "Not specified",
+            "findings": "Bone age of 5 years 10 months to 6 years 10 months, consistent with height age.",
+            "changes_over_time": "Bone age advanced to 12 years 6 months."
+        },
+        {
+            "procedure_name": "Blood Work",
+            "date": "Not specified",
+            "findings": "17OHP of 90 ng/dl, /H90044-A of 66 ng/dl, DHEA of 120 ng/dl, DHEAS of 80 /H9262g/dl, testosterone of 8 ng/dl, FSH of 1 mIU/ml, and LH of 0.12 mIU/ml.",
+            "changes_over_time": "At age 16 years 6 months: 17OHP of 114 ng/dl, /H90044-A of 194 ng/dl, DHEAS of 237 /H9262g/dl, testosterone of 41 ng/dl, FSH of 5.4 mIU/ml, and LH of 19.0 mIU/ml."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (oGTT)",
+            "date": "Not specified",
+            "findings": "Fasting glucose and insulin levels indicated moderate hyperinsulinemia.",
+            "changes_over_time": "FGIR decreased from 6.5 to 5.2 over the years evaluated."
+        },
+        {
+            "procedure_name": "Dual-Energy X-ray Absorptiometry (DEXA)",
+            "date": "Not specified",
+            "findings": "35% body fat at age 12 years; increases in trunk fat.",
+            "changes_over_time": "Body fat increased to 40% at age 16 years 6 months."
+        },
+        {
+            "procedure_name": "Transabdominal Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "4-cc ovaries with multiple peripheral follicles.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

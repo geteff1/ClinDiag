@@ -1,0 +1,79 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell_count": "3000 cells/mm3 (42% neutrophils, 10% lymphocytes, 1% monocytes, 44% eosinophils, 2% bands)",
+                "hemoglobin": "12.7 g/dL",
+                "platelet_count": "117 × 10^9/L",
+                "CD4_T_cell_count": "141 cells/mm3",
+                "CD4_CD8_ratio": "0.99",
+                "lymphocyte_distribution": "98% T cells (normal 60%-80%), B and NK cell lymphopenia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cell Count (2007)",
+            "date": "August 2007",
+            "findings": {
+                "lymphocyte_count": "270 cells/mm3 (lymphocytopenia)",
+                "monocyte_count": "27 cells/mm3 (monocytopenia)",
+                "absolute_neutrophil_count": "64 cells/mm3 (neutropenia)"
+            },
+            "changes_over_time": "Developed neutropenia two months later that responded well to treatment with granulocyte colony-stimulating factor."
+        },
+        {
+            "procedure_name": "Serum Testing",
+            "date": "Not specified",
+            "findings": {
+                "immunoglobulin_levels": "Within normal range",
+                "bacterial_culture": "Negative",
+                "serum_cryptococcal_antigen": "Negative",
+                "serum_galactomannan": "Negative",
+                "urine_histoplasma_antigen": "Negative",
+                "Coccidioides_immitis": "Negative",
+                "Histoplasma_capsulatum": "Negative",
+                "serum_immunoglobulin_M": "Negative",
+                "serum_immunoglobulin_G": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Synovial Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "1600 cells/mm3 with neutrophil predominance",
+                "bacterial_culture": "Negative",
+                "fungal_culture": "Negative",
+                "AFB_culture": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the Chest",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary_infiltrates": "Patchy and nodular within the right middle, left upper, and left lower lobes",
+                "mediastinal_lymphadenopathy": "Up to 1.2 cm in diameter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the Abdomen",
+            "date": "Not specified",
+            "findings": {
+                "liver_lesions": "Multiple enhancing hypervascular lesions throughout the liver measuring up to 1.2 cm and a 2.3-cm heterogeneous mass with nodular enhancement in the right lobe"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": {
+                "result": "Heterozygous mutation in GATA2 (c.1186C > T; p.R396W)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

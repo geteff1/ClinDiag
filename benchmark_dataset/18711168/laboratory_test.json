@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Leukocyte count was 12.57 /H11003109 cells/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Erythrocyte sedimentation rate was 68 mm/h on admission, decreased to 28% after anakinra treatment.",
+            "changes_over_time": "Initial ESR was 68 mm/h; later decreased significantly after starting anakinra."
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "C-reactive protein level was 73 mg/L on admission, decreased by 86% with anakinra treatment.",
+            "changes_over_time": "Initial CRP was 73 mg/L; decreased significantly after beginning treatment with anakinra."
+        },
+        {
+            "procedure_name": "Cholesterol Level Assessment",
+            "date": "Not specified",
+            "findings": "Total cholesterol level was 7.95 mmol/L (307 mg/dL); after 6 months of simvastatin, it was 3.94 mmol/L (152 mg/dL).",
+            "changes_over_time": "Total cholesterol decreased from 7.95 mmol/L to 3.94 mmol/L after treatment with simvastatin."
+        }
+    ]
+}

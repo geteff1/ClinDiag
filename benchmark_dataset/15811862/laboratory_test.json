@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "QT prolongation (QTm 600 ms, QTc 577 ms) and presence of delta wave.",
+            "changes_over_time": "QT prolongation noted again after ablation (QTm 640 ms, QTc 604 ms)."
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Documented polymorphic ventricular tachycardias (torsade de pointes) with a duration of 50 s, self-terminating.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

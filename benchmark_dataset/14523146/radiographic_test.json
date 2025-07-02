@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radionuclide scanning with technetium-99m–labeled sestamibi",
+            "date": "Not specified",
+            "findings": "Possible small, fixed, apical–inferior myocardial infarct surrounded by an area of mild ischemia; a small, posterobasal septal, nontransmural infarct with apical hypokinesis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Four months before the main examination",
+            "findings": "Segmental left ventricular apical hypokinesis or akinesis; small pericardial effusion.",
+            "changes_over_time": "Showed a multilobular mass of echoes (4.3 by 3.1 cm) invading the tricuspid annulus and right ventricular free wall with moderate pericardial effusion three and a half months later."
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Large, lobulated, slightly oblong mass projecting into the right atrial cavity, with maximal diameter ranging from 5.9 to 7.0 cm, merging with myocardium of the right and left ventricles.",
+            "changes_over_time": "The mass appeared to protrude partially into the tricuspid orifice without thrombus formation."
+        },
+        {
+            "procedure_name": "Transvenous endomyocardial biopsy",
+            "date": "Not specified",
+            "findings": "Dense infiltrate of large atypical lymphoid cells consistent with aggressive B-cell non-Hodgkin's lymphoma that was EBV-positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "Eight weeks after the start of chemotherapy",
+            "findings": "The pedunculated, lobulated right atrial mass decreased in size to 1.7 by 3.0 cm, no longer obstructing the tricuspid valve, with the pericardium appearing free of disease.",
+            "changes_over_time": "Ejection fraction decreased from 60 percent to 45 percent after chemotherapy."
+        }
+    ]
+}

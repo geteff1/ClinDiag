@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Protein Examination",
+            "date": "Not specified",
+            "findings": "Protein excretion in the urine was 5382 mg/24 h (normal, 30-100 mg/24 h).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine Clearance",
+            "date": "Not specified",
+            "findings": "Creatinine clearance was 1.4 mL/s (normal, 1.5-2.1 mL/s).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Creatinine and Blood Urea Nitrogen Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine and blood urea nitrogen were within reference range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alpha-galactosidase A (a-gal A) Activity Test",
+            "date": "Not specified",
+            "findings": "a-Galactosidase A activity in extracts of the patient’s cultured peripheral white blood cells was less than 1% of the mean of 3 normal control specimens.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Biopsy (Pre-infusion)",
+            "date": "Not specified",
+            "findings": "Histological examination revealed scattered foamy macrophages in portal areas.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Specimens Examination (Post-infusion)",
+            "date": "44 hours after infusion",
+            "findings": "Before infusion, the amount of globotriaosylceramide (Gb3) in the liver sample obtained was 25 nmol/mg of protein. After infusion, the value was 16 nmol/mg of protein (36% reduction).",
+            "changes_over_time": "Significant reduction in Gb3 levels in the liver after infusion."
+        },
+        {
+            "procedure_name": "Urinary Globotriaosylceramide Examination",
+            "date": "24 hours before infusion",
+            "findings": "Globotriaosylceramide in the 24-hour pre-infusion sample was 1958 nmol/g of creatinine.",
+            "changes_over_time": "Gb3 in the 28-day post-infusion sample was 640 nmol/g of creatinine (67% reduction); no reduction of Gb3 was seen in the 24-hour or 7-day post-infusion specimens."
+        }
+    ]
+}

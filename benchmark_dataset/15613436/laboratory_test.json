@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Total serum calcium was 15.1 mg/dl (3.78 mmol/liter), with a reference range of 8.2–10.2 mg/dl.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "Serum phosphate was 1.4 mg/dl (0.47 mmol/liter), normal range not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "PTH was 1110.51 pg/ml (111.05 pmol/liter), normal range 9 to 55 pg/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Calcium Excretion",
+            "date": "Not specified",
+            "findings": "Urinary calcium excretion was elevated to 940 mg/d (23.5 mmol/d); normal range is <300 mg/d.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative Serum Calcium and PTH",
+            "date": "3 months after operation",
+            "findings": "Serum calcium and parathyroid hormone levels reverted to normal range.",
+            "changes_over_time": "Levels normalized after 3 months post-surgery."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/110 mmHg on four antihypertensive medications",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "additional_findings": [
+                    {
+                        "date": "Not specified",
+                        "blood_pressure": "250/130 mmHg",
+                        "potassium": "2.1 mEq/L"
+                    }
+                ]
+            },
+            "relevant_findings": {
+                "hypertension": "Resistant hypertension",
+                "hypokalemia": "Severe hypokalemia despite potassium supplementation",
+                "adrenal_adenoma": "Nodularity in the left adrenal gland",
+                "alosterone_levels": {
+                    "plasma_aldosterone": "24 ng/dL",
+                    "suppressed_PRA": "<10.6 ng/mL/h"
+                }
+            },
+            "changes_over_time": "Postoperatively, plasma aldosterone levels decreased, but PRA remained suppressed. Fourteen months post-surgery, plasma aldosterone increased and PRA remained suppressed."
+        }
+    ]
+}

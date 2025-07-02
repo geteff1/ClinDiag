@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, left ventricular hypertrophy, and T-wave inversions in leads I, aVL, V4, V5, and V6.",
+            "changes_over_time": "Findings had not changed from previous tracings."
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Not specified",
+            "findings": "Negative for induration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Trans-thoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 60%, maximum left ventricular wall thickness of 16 mm, systolic anterior motion of the mitral-valve chordae with trace mitral regurgitation, resting left ventricular outflow gradient of 16 mm Hg.",
+            "changes_over_time": "Findings had not changed from a study obtained 9 months earlier."
+        },
+        {
+            "procedure_name": "Peripheral Blood Smear",
+            "date": "Not specified",
+            "findings": "Marked peripheral eosinophilia (absolute eosinophil count of 3800 to 4550 per cubic millimeter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing for Strongyloides",
+            "date": "Not specified",
+            "findings": "Testing for antibodies to Strongyloides was positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing for Filarial Infection",
+            "date": "Not specified",
+            "findings": "Testing for antifilarial antibodies was markedly positive (>510 μg per milliliter).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

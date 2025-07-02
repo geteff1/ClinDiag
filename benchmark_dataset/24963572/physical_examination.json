@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "119/73 mmHg",
+                "pulse": "83 bpm",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "70% (rising to 95% with 4L/min supplemental oxygen)"
+            },
+            "relevant_findings": "Decreased breath sounds at the right base and diffuse wheezing in the upper lung fields.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "130/90 mmHg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "67% on arrival (rising to 89%-90% with 10L/min through a face mask, and 93% with high-flow face mask that delivered 60% oxygen)"
+            },
+            "relevant_findings": "Breath sounds diminished without wheezes or crackles.",
+            "changes_over_time": "Oxygen saturation improved from 67% to 93% with increased supplemental oxygen; overall respiratory status worsened prior to admission."
+        }
+    ]
+}

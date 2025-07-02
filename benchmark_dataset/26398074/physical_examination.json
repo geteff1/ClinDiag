@@ -1,0 +1,72 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "80 to 89 mm Hg",
+                "heart_rate": "> 100 bpm",
+                "oxygen_saturation": "77%"
+            },
+            "relevant_findings": {
+                "normal_mentation": true,
+                "cardiac_rhythm": "rapid atrial fibrillation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "98/20 mm Hg"
+            },
+            "relevant_findings": {
+                "left_ventricular_ejection_fraction": "15%",
+                "severe_diffuse_hypokinesis": true,
+                "mild_left_ventricular_dilatation": true,
+                "moderate_mitral_regurgitation": true,
+                "no_pericardial_effusion": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "coarse_breath_sounds": true,
+                "active_bowel_sounds": true,
+                "trace_leg_edema": true,
+                "soft_non_distended_abdomen": true,
+                "sluggishly_reactive_pupils": true,
+                "absent_oculocephalic_reflexes": true,
+                "absent_corneal_reflexes": true,
+                "minimal_withdrawal_and_possible_posturing": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "muscle_weakness": {
+                    "historical_context": {
+                        "mild_bilateral_ptosis": true,
+                        "moderate_bilateral_facial_weakness": true,
+                        "slight_thinning_of_temporalis_muscles": true,
+                        "nasal_quality_speech": true
+                    },
+                    "muscle_strength": {
+                        "MRC_scale": 4,
+                        "involvement": {
+                            "neck_flexors": true,
+                            "finger_extensors": true,
+                            "intrinsic_hand_muscles": true
+                        }
+                    },
+                    "vibration_sense_decrease": true,
+                    "gait": "high-stepping",
+                    "deep_tendon_reflexes": "hypoactive_in_arms_and_absent_at_ankles"
+                }
+            },
+            "changes_over_time": "Weakness progressed over the years."
+        }
+    ]
+}

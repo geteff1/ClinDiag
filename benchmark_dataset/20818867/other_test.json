@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thoracentesis",
+            "date": "Not specified",
+            "findings": "Sampling of the pleural fluid revealed a transudative fluid; no organisms were seen on Gram’s staining, and the culture was sterile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "6 months before admission",
+            "findings": "Pathological examination of a bone marrow biopsy specimen showed a mildly hypercellular marrow with trilineage hematopoiesis; kappa-restricted plasma cells made up approximately 5% of the marrow cellularity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided biopsy",
+            "date": "1 month before admission",
+            "findings": "Pathological examination of tissue from CT-guided biopsies of the right kidney reportedly showed findings suspicious for immunoglobulin-light-chain deposition disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Drain placement",
+            "date": "2 days before admission",
+            "findings": "A drain was placed in the perinephric area on the left side with the use of ultrasonographic guidance, and clear, yellow fluid (750 ml) was aspirated.",
+            "changes_over_time": "During the next 3 days, the catheter drained between 1900 and 2700 ml of fluid daily."
+        },
+        {
+            "procedure_name": "Angiographic sampling",
+            "date": "Day of admission",
+            "findings": "Angiographic sampling of the superior vena cava, the inferior vena cava, and the hepatic and renal veins revealed similarly elevated levels of erythropoietin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Surgical marsupialization",
+            "date": "Not specified",
+            "findings": "Postoperatively, the erythropoietin level fell from 4500 to 450 mIU per milliliter.",
+            "changes_over_time": "Within a week, the level rose to more than 4000 mIU per milliliter and has remained at that level."
+        }
+    ]
+}

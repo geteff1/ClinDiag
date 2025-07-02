@@ -98,13 +98,20 @@ To test out the 2-agent *ClinDiag-Framework*, run:
 
 ## Datasets <a name="datasets"></a>
 
-### ClinDiag-Benchmark (n=4,421) <a name="benchmark"></a>
+### ClinDiag-Benchmark <a name="benchmark"></a>
 
-`./benchmark_dataset.rar`
+`./benchmark_dataset/`
 
-(To uncompress, run `tar -xf benchmark_dataset.rar` in the root directory)
+A comprehensive clinical dataset of 2,021 real-world cases, encompassing both rare and common diseases across 32 specialties.
 
-A comprehensive clinical dataset comprising 4,421 real-world cases, encompassing both rare and common diseases across 32 specialties.
+> **Note:** The full ClinDiag-Benchmark (n=4,421) used in our study comprises three subsets: 
+>   1. Challenging Case Subset (n=1,719)
+>   2. Rare Disease Subset (n=302)
+>   3. Emergency Case Subset (n=2,400)
+>
+> The provided `benchmark_dataset/` only contains the former two subsets.
+>
+> The Emergency Case Subset is derived from *MIMIC-IV-Ext Clinical Decision Making Dataset*, which is officially available at https://physionet.org/. Users should follow the guidelines provided there to gain access to the MIMIC dataset and adhere to their data use policy. 
 
 ### Standardized Patients (n=35) <a name="patients"></a>
 
@@ -147,7 +154,7 @@ The multi-turn chat dataset used for fine-tuning a chat model. Each conversation
 
 ## Usage <a name="usage"></a>
 
-Below are instructions to run experiments on the full [benchmark dataset](#benchmark). Remember to `tar -xf benchmark_dataset.rar` first.
+Below are instructions to run experiments on the full [benchmark dataset](#benchmark).
 
 ### Human+LLM <a name="human-llm"></a>
 

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "Not specified",
+            "findings": "No evidence of a mass lesion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography of the chest",
+            "date": "Not specified",
+            "findings": "Moderate cardiomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Hepatomegaly, an enlarged spleen measuring 15 cm in length, and minimal ascites",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "No abnormality",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

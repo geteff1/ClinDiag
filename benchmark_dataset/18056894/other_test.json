@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Blood cultures were drawn but the lesion had no drainage to culture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Incision and Drainage",
+            "date": "Not specified",
+            "findings": "The wound did not reveal any pus; a wick was placed.",
+            "changes_over_time": "Mr. M was slowly improving with intravenous vancomycin and levofloxacin after the procedure."
+        },
+        {
+            "procedure_name": "Wound culture",
+            "date": "Just before discharge",
+            "findings": "The wound culture grew MRSA. The species was sensitive to gentamicin, levofloxacin, rifampin, tetracycline, trimethoprim-sulfamethoxazole, and vancomycin.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

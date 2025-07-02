@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2 months",
+            "vital_signs": "RR = 570 ms, QT = 501 ms, QTc = 664 ms",
+            "relevant_findings": "Dysmorphic features such as high arched palate, full cheeks, congenital clasped thumb; severe developmental disability and hypotonia; unable to roll over at age 3.",
+            "changes_over_time": "ECG at age 5 showed slightly prolonged QTc (RR = 559 ms, QT = 346 ms, QTc = 462 ms) compared to ECG at 2 months."
+        },
+        {
+            "date": "7 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Electroencephalogram displayed hypsarrhythmia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "5 years",
+            "vital_signs": "RR = 559 ms, QT = 346 ms, QTc = 462 ms",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "ECG showed a slight improvement in QT interval compared to earlier findings."
+        }
+    ]
+}

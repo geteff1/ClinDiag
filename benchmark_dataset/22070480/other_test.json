@@ -1,0 +1,55 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Nonspecific ST-segment and T-wave changes; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Noninvasive carotid testing",
+            "date": "Not specified",
+            "findings": "Bilateral minimal stenosis (1 to 19%) of the internal carotid arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Mildly dilated left atrium, estimated left ventricular ejection fraction of 63%, thickened aortic leaflets, trace aortic and tricuspid insufficiency, thickened interatrial septum consistent with lipomatous hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ambulatory electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "No seizure activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) analysis",
+            "date": "12 weeks after initial presentation",
+            "findings": {
+                "appearance": "Pale pink, slightly turbid",
+                "red_cells": "985 per mm3",
+                "white_cells": "8 per mm3",
+                "lymphocytes": "92%",
+                "protein": "79 mg/dl",
+                "glucose": "69 mg/dl",
+                "cytologic_analysis": "No malignant cells",
+                "nucleic_acid_testing": "None detected"
+            },
+            "changes_over_time": "Elevated protein level compared to the reference range and mild pleocytosis."
+        },
+        {
+            "procedure_name": "Fine-needle aspiration biopsy",
+            "date": "Not specified",
+            "findings": "Negative for cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Abnormal hypermetabolism in the left medial temporal lobe.",
+            "changes_over_time": "Gradual abatement of hypermetabolism correlated with improvement in symptoms over time."
+        }
+    ]
+}

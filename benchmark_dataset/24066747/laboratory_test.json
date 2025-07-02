@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematology",
+            "date": "18 Days before Admission",
+            "findings": {
+                "white_cell_count": "13,400 (high)",
+                "neutrophils": "34% (low)",
+                "band_forms": "6",
+                "lymphocytes": "30%",
+                "atypical_lymphocytes": "23% (high)",
+                "monocytes": "7%",
+                "eosinophils": "0%",
+                "basophils": "0%"
+            },
+            "changes_over_time": "Increased white-cell count from 13,400 to 14,100 on admission."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "18 Days before Admission",
+            "findings": {
+                "alkaline_phosphatase": "167 (high)",
+                "aspartate_aminotransferase": "86 (high)",
+                "alanine_aminotransferase": "120 (high)"
+            },
+            "changes_over_time": {
+                "alkaline_phosphatase": "decreased to 117 on admission",
+                "aspartate_aminotransferase": "decreased to 28 on admission",
+                "alanine_aminotransferase": "decreased to 30 on admission"
+            }
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "On Admission",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "red_cells_per_mm3": "0 in Tube 1, 0 in Tube 4",
+                "white_cells_per_mm3": "2 in Tube 1, 4 in Tube 4",
+                "protein": "28 mg/dl",
+                "glucose": "53 mg/dl"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

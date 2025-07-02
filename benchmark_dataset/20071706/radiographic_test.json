@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Multiple low-density lesions throughout the liver suggestive of metastatic disease; bilateral adrenal nodules increased slightly in size.",
+            "changes_over_time": "Adrenal nodules increased slightly in size from previous studies."
+        },
+        {
+            "procedure_name": "Chest CT scan",
+            "date": "Not specified",
+            "findings": "Two nodules in each lung, 2 to 4 mm in diameter, with paratracheal and subcarinal lymph nodes present.",
+            "changes_over_time": "New pulmonary nodules that had not been present on a study 6 years earlier."
+        },
+        {
+            "procedure_name": "Pelvic CT scan",
+            "date": "1 month after admission",
+            "findings": "Mass in the region of the pelvis consistent with recurrent prostatic cancer.",
+            "changes_over_time": "Mass was present on admission but was obscured in initial imaging."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "1 month after admission",
+            "findings": "Intense uptake of FDG in the liver metastases and bony metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone scan with technetium-99m",
+            "date": "3 months after initial CT scans",
+            "findings": "Multiple abnormal foci of radiotracer uptake in the bones indicating bony metastases.",
+            "changes_over_time": "Newly seen sclerotic lesions on CT scan consistent with progression of bony disease."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "41.2% on presentation, 41.0% on admission, 36.0% on Day 1, 35.9% on Day 2, 26.8% on Day 3 (decreasing)",
+            "changes_over_time": "Decreased from 41.2% to 26.8% over three days"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "14.2 g/dl on presentation, 14.0 g/dl on admission, 11.9 g/dl on Day 1, 12.3 g/dl on Day 2, 9.9 g/dl on Day 3 (decreasing)",
+            "changes_over_time": "Decreased from 14.2 g/dl to 9.9 g/dl over three days"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "2600 per mm3 on presentation, 4300 per mm3 on admission, 9200 per mm3 on Day 1, 13600 per mm3 on Day 2, 10700 per mm3 on Day 3 (increasing)",
+            "changes_over_time": "Increased from 2600 to 13600 per mm3 over three days"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "184,000 per mm3 on presentation, 78,000 per mm3 on admission, 68,000 per mm3 on Day 1, 47,000 per mm3 on Day 2, 14,000 per mm3 on Day 3 (decreasing)",
+            "changes_over_time": "Decreased from 184,000 to 14,000 per mm3 over three days"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.6 mg/dl on presentation, 1.60 mg/dl on admission, 1.37 mg/dl on Day 1, 3.01 mg/dl on Day 2, 2.85 mg/dl on Day 3 (increasing then decreasing)",
+            "changes_over_time": "Increased from 1.60 mg/dl to 3.01 mg/dl and then decreased to 2.85 mg/dl over three days"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "79 U/liter on presentation, 317 U/liter on admission, 646 U/liter on Day 1, 13,090 U/liter on Day 2, 10,230 U/liter on Day 3 (increasing then decreasing)",
+            "changes_over_time": "Increased from 79 U/liter to 13,090 U/liter and then decreased to 10,230 U/liter over three days"
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "<0.01 ng/ml on admission, 2.12 ng/ml on Day 2 (increasing)",
+            "changes_over_time": "Increased from <0.01 ng/ml to 2.12 ng/ml over two days"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "141.9 mg/liter (elevated)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

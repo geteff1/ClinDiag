@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lung CT scan",
+            "date": "Day 1",
+            "findings": {
+                "lung_weight": "2,101.00 g",
+                "excess_tissue_mass": "1,311.26 g (261.18%)",
+                "normally_aerated_fraction": "5%"
+            },
+            "changes_over_time": "Respective CT scan on day 46 was nearly identical, indicating no significant change in the lung conditions."
+        },
+        {
+            "procedure_name": "Lung CT scan",
+            "date": "Day 46",
+            "findings": {
+                "lung_weight": "Not specified",
+                "excess_tissue_mass": "Not specified",
+                "normally_aerated_fraction": "Not specified"
+            },
+            "changes_over_time": "CT scan results were nearly identical to those taken on day 1."
+        },
+        {
+            "procedure_name": "Lung lavage",
+            "date": "Day 51",
+            "findings": {
+                "vaseline_oil_concentration": "4 mg/ml"
+            },
+            "changes_over_time": "Concentration was 10 times lower than at the start, which was 44 mg/ml."
+        },
+        {
+            "procedure_name": "Whole-lung CT scan",
+            "date": "Day 55",
+            "findings": {
+                "lung_aeration": "Marked improvement"
+            },
+            "changes_over_time": "Significant improvement in lung aeration was noted compared to previous scans."
+        }
+    ]
+}

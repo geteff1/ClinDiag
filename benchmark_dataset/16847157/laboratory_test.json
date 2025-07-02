@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Arterial oxygen saturation was 88% and partial pressure of oxygen was 56.3 mm Hg in room air.",
+            "changes_over_time": "After embolization, arterial oxygen saturation improved to 98% and partial pressure of oxygen increased to 87.8 mm Hg."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Revealed a lobulated opacity with a large feeding artery and large draining veins.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary angiography",
+            "date": "Not specified",
+            "findings": "Showed a large PAVF in the left ninth segment and a small PAVF near the main lesion.",
+            "changes_over_time": "Shunt ratio decreased from 32.7% to 9.8% after embolization."
+        }
+    ]
+}

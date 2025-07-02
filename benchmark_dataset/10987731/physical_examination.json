@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.5 °C",
+                "blood_pressure": "94/42 mm Hg",
+                "heart_rate": "106 bpm",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "pupils": "normal reactive",
+                "face": "symmetrical",
+                "cervical_spine": "tenderness",
+                "torticollis": "right",
+                "muscle_tone": "decreased in right lower extremity",
+                "sensation": "decreased in right and left lower extremities",
+                "deep_tendon_reflexes": "2+ and equal throughout",
+                "babinski_sign": "present bilaterally",
+                "strength": {
+                    "right_upper_extremity": "2/5",
+                    "right_lower_extremity": "1/5",
+                    "left_upper_extremity": "4/5",
+                    "left_lower_extremity": "4/5"
+                },
+                "cranial_nerves": "intact",
+                "meningeal_signs": "none",
+                "papule": "present on fifth digit of left hand"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

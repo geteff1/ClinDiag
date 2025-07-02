@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "pulse": "53 bpm",
+                "blood_pressure": "170/55 mm Hg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared well.",
+                "neurologic_examination": "Fully alert, oriented, speech with occasional hesitation, intact perception for pinprick and light touch except for great toes.",
+                "motor_function": "5/5, slight pronator drift, very mild foot drop, questionable limitation in grip strength on right.",
+                "reflexes": "Biceps jerks +++ bilaterally; right knee jerk ++, left +; no ankle jerks; equivocal plantar responses."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7°C",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Confusion, considerable word-finding difficulty, right-side neglect, slightly weaker grip strength on right, mildly hyperactive tendon reflexes on right, right-sided Babinski reflex."
+            },
+            "changes_over_time": "Neurologic function declined with increased confusion and difficulties in function on the fifth hospital day."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal on eighth hospital day",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Improvement noted."
+            },
+            "changes_over_time": "Significant improvement in neurologic symptoms over time, returned to normal temperature, confusion resolved."
+        }
+    ]
+}

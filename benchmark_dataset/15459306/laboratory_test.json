@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Unremarkable, with no evidence of eosinophilia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PPD Tuberculin Test",
+            "date": "Not specified",
+            "findings": "Resulted in more than 20 mm of induration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Suggested subtle hilar fullness.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "5 mm per hour.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Features suggestive of erythema nodosum, with lobular granulomatous inflammation and negative special stains for acid-fast bacilli and fungi.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "Not specified",
+            "findings": "Showed nonspecific hilar and mediastinal lymphadenopathy; no evidence of parenchymal, upper-lobe, or cavitary disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sputum Tests for Acid-Fast Bacilli",
+            "date": "Not specified",
+            "findings": "All negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tests for Urinary Histoplasma Antigen and Serum Antibodies to Coccidioides",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

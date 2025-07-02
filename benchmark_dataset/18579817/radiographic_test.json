@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Two adrenal nodules: one, 3.2 cm in diameter, on the right side, and the other, 1.7 cm in diameter, on the left. No evidence of bowel obstruction or intra-abdominal fluid collection.",
+            "changes_over_time": "The adrenal lesions were unchanged on subsequent imaging."
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Eight days before admission",
+            "findings": "Areas of decreased attenuation in the occipital lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Eight days before admission",
+            "findings": "Bilateral cortical and subcortical areas of hyperintensity in the occipital, posterior temporal, and parietal lobes on T2-weighted images. Hyperintensity on diffusion-weighted images and elevated diffusion on apparent diffusion coefficient maps, suggesting posterior reversible encephalopathy.",
+            "changes_over_time": "Resolution of the abnormalities noted on the previous examination."
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "Not specified",
+            "findings": "Multiple disk extrusions from T5–T6 to T7–T8, with narrowing of the left neural foramen at T5–T6 and slight indentation of the ventral cord at T6–T8 and T7–T8, without compression.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen (follow-up)",
+            "date": "Not specified",
+            "findings": "No new abnormalities after the administration of oral and intravenous contrast material.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

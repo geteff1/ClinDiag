@@ -1,0 +1,117 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "1 Week before Evaluation",
+            "findings": {
+                "Hematocrit (%)": "42.2",
+                "Hemoglobin (g/dl)": "13.3",
+                "White-cell count (per mm3)": "6330",
+                "Platelet count (per mm3)": "228,000",
+                "Red-cell count (per mm3)": "5,310,000",
+                "Mean corpuscular volume (fl)": "79.5",
+                "Mean corpuscular hemoglobin (pg)": "25.0",
+                "Mean corpuscular hemoglobin concentration (g/dl)": "31.5",
+                "Red-cell distribution width (%)": "14.8"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "1 Day before Evaluation",
+            "findings": {
+                "Hematocrit (%)": "37.4",
+                "Hemoglobin (g/dl)": "12.5",
+                "White-cell count (per mm3)": "13,120",
+                "Platelet count (per mm3)": "141,000",
+                "Red-cell count (per mm3)": "4,810,000",
+                "Mean corpuscular volume (fl)": "77.8",
+                "Mean corpuscular hemoglobin (pg)": "26.0",
+                "Mean corpuscular hemoglobin concentration (g/dl)": "33.4",
+                "Red-cell distribution width (%)": "14.3"
+            },
+            "changes_over_time": "Increase in white-cell count"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Day of Evaluation, 14 Hr after Surgery",
+            "findings": {
+                "Hematocrit (%)": "37.0",
+                "Hemoglobin (g/dl)": "12.3",
+                "White-cell count (per mm3)": "13,160",
+                "Platelet count (per mm3)": "191,000",
+                "Red-cell count (per mm3)": "4,790,000",
+                "Mean corpuscular volume (fl)": "77.2",
+                "Mean corpuscular hemoglobin (pg)": "25.7",
+                "Mean corpuscular hemoglobin concentration (g/dl)": "33.2",
+                "Red-cell distribution width (%)": "14.5"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Day of Evaluation, 24 Hr after Surgery",
+            "findings": {
+                "Hematocrit (%)": "Not specified",
+                "Hemoglobin (g/dl)": "Not specified",
+                "White-cell count (per mm3)": "Not specified",
+                "Platelet count (per mm3)": "Not specified",
+                "Red-cell count (per mm3)": "Not specified",
+                "Mean corpuscular volume (fl)": "Not specified",
+                "Mean corpuscular hemoglobin (pg)": "Not specified",
+                "Mean corpuscular hemoglobin concentration (g/dl)": "Not specified",
+                "Red-cell distribution width (%)": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Day of Evaluation, 24 Hr after Surgery",
+            "findings": {
+                "Total bilirubin (mg/dl)": "1.1 (high)",
+                "Albumin (g/dl)": "3.1 (low)",
+                "Alkaline phosphatase (U/liter)": "61 (normal)",
+                "Alanine aminotransferase (U/liter)": "12 (normal)",
+                "Aspartate aminotransferase (U/liter)": "24 (normal)"
+            },
+            "changes_over_time": "Increase in total bilirubin, decrease in albumin"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Day of Evaluation, 24 Hr after Surgery",
+            "findings": {
+                "Sodium (mmol/liter)": "141 (normal)",
+                "Potassium (mmol/liter)": "4.5 (normal)",
+                "Calcium (mg/dl)": "8.7 (normal)",
+                "Magnesium (mg/dl)": "1.5 (low)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Occult blood": "1+",
+                "Leukocyte esterase": "1+",
+                "Specific gravity": "1.017",
+                "pH": "5.0",
+                "Red cells per high-power field": "3 to 5",
+                "White cells per high-power field": "10 to 20",
+                "Hyaline casts per low-power field": "5 to 10"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "145.5 (high)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

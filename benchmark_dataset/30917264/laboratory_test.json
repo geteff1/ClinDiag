@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin level was 13.6 mg/dL (reference range, 14.0 to 18.0) - outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Creatinine",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Testing",
+            "date": "Two weeks before this evaluation",
+            "findings": "FEV1 of 2.50 liters (82% of predicted value), FVC of 2.90 liters (73% of predicted value), FEV1/FVC ratio of 0.86, total lung capacity of 3.92 liters (61% of predicted value), carbon monoxide diffusion capacity of 45% of predicted value - indicative of a restrictive ventilatory deficit with diffusion impairment.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aldolase Level",
+            "date": "Not specified",
+            "findings": "5.0 U/L (reference range, <7.7) - within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase Level",
+            "date": "Not specified",
+            "findings": "127 U/L (reference range, 60 to 400) - within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte-Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "22 mm/hour (reference range, 0 to 13) - outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer Level",
+            "date": "Not specified",
+            "findings": "1239 ng/mL (reference range, <500) - outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-Resolution CT of the Chest",
+            "date": "Four months after current evaluation",
+            "findings": "Progression of bilateral subpleural reticular opacities and bilateral traction bronchiectasis, without mature honeycombing.",
+            "changes_over_time": "Evidence of air trapping was less extensive than it had been on pulmonary CT angiography."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "Not specified",
+            "findings": "Evidence of new right ventricular dilatation and hypokinesis, with a right ventricular systolic pressure of 71 mm Hg.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

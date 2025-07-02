@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Five female PHP1B patients presented with hypercalcemia and elevated PTH levels.",
+            "changes_over_time": "Patients developed hypercalcemia and elevated PTH levels between the ages of 39 and 58, occurring 21–42 years after the diagnosis of PHP1B."
+        },
+        {
+            "date": "Age 51",
+            "vital_signs": {
+                "Ionized calcium": "1.39 mmol/liter",
+                "PTH": "526 ng/liter"
+            },
+            "relevant_findings": "Neck ultrasound and sestamibi scan localized an enlarged parathyroid gland inferior to the right thyroid lobe.",
+            "changes_over_time": "At 7 years after surgery, serum calcium, PTH, and urine calcium were all normal."
+        },
+        {
+            "date": "Age 39",
+            "vital_signs": {
+                "Ionized calcium": "1.13 mmol/liter",
+                "Phosphorus": "5.2 mg/dl",
+                "PTH": "236 ng/liter"
+            },
+            "relevant_findings": "Localized an enlarged parathyroid gland in the left lower neck.",
+            "changes_over_time": "At 10 years after surgery, patient remains eucalcemic with normal PTH."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Ionized calcium": "1.04 mmol/liter",
+                "PTH": "136 ng/liter"
+            },
+            "relevant_findings": "Ultrasound showed an enlarged left-sided parathyroid gland.",
+            "changes_over_time": "Fifteen months postoperative, the patient remained eucalcemic with elevated PTH, which was significantly lower than before surgery."
+        },
+        {
+            "date": "Age 47",
+            "vital_signs": {
+                "Alkaline phosphatase": "423 U/liter",
+                "PTH": "576 ng/liter"
+            },
+            "relevant_findings": "Calvarial hyperostosis and periosteal resorption; an enlarged right inferior parathyroid gland that was resected.",
+            "changes_over_time": "On postoperative day 3, PTH was 119 ng/liter. She was discharged on substantial calcium and calcitriol doses."
+        },
+        {
+            "date": "Age 56-58",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Enlarged parathyroid glands localized on ultrasound.",
+            "changes_over_time": "After 1.5 months of treatment with cinacalcet, serum calcium level slightly increased, with significant decreases in serum PTH."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3 °C",
+                "heart_rate": "54 bpm",
+                "blood_pressure": "119/64 mm Hg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "98%",
+                "weight": "72.3 kg",
+                "body_mass_index": "28.3"
+            },
+            "relevant_findings": {
+                "right_testicle": "firm, nontender scrotal mass, 7 cm in diameter, mobile posterior mass.",
+                "left_testicle": "normal echotexture with changes consistent with a varicocele.",
+                "scrotal_skin": "normal, no erythema or peau d’orange changes.",
+                "prostate": "small and benign on palpation.",
+                "inguinal_lymphadenopathy": "None."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Six weeks after initial presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "right_testicular_volume": "Approximately 33 ml (increased from approximately 19 ml 6 weeks earlier).",
+                "left_testicle": "normal."
+            },
+            "changes_over_time": "Further enlargement of the right testicle noted with scattered hypoechoic areas developing."
+        }
+    ]
+}

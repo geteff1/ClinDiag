@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biochemical Examination",
+            "date": "Not specified",
+            "findings": {
+                "hyponatremia": "133 mmol/L",
+                "hyperkalemia": "5.7 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical Measures",
+            "date": "Not specified",
+            "findings": {
+                "hyponatremia": "117 mmol/L",
+                "hyperkalemia": "10.5 mmol/L",
+                "urinary sodium excretion": "112 mmol/L",
+                "plasma aldosterone": "2.4 nmol/L"
+            },
+            "changes_over_time": "Plasma aldosterone and renin levels were extremely elevated despite salt supplementation."
+        },
+        {
+            "procedure_name": "Sweat Test",
+            "date": "At age 3 years",
+            "findings": {
+                "chloride concentration": "55 mmol/L",
+                "normal test": "145 mmol/L",
+                "positive test": "260 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Analysis",
+            "date": "Not specified",
+            "findings": {
+                "Plasma Na": "130 mmol/L",
+                "Plasma K": "5.6 mmol/L",
+                "Urinary Na": "26 mmol/L",
+                "Plasma Aldosterone": "21 nmol/L"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

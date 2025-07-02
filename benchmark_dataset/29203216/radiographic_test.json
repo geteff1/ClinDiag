@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "fetal echocardiography",
+            "date": "26 weeks of gestation",
+            "findings": "LVNC and double outlet of the right ventricle, in addition to the interruption of the aorta and aortic stenosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "30 weeks of gestation",
+            "findings": "Abnormal, highly trabeculated left ventricular myocardium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "0 days of age",
+            "findings": "Prominent trabeculation of the left ventricle and blood signals within the intertrabecular region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "38 days of age",
+            "findings": "Continuation of findings related to left ventricular trabeculation and heart failure signs.",
+            "changes_over_time": "Heart failure worsened with pericardial effusion, pleural effusion, and ascites."
+        }
+    ]
+}

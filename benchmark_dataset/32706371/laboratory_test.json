@@ -1,0 +1,122 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Rapid Whole-Exome Sequencing",
+            "date": "Not specified",
+            "findings": "Loss-of-function variants of TLR7 identified: family 1 - 4-nucleotide deletion (c.2129_2132del; p.[Gln710Argfs*18]), family 2 - missense variant (c.2383G>T; p.[Val795Phe]).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "Alanine aminotransferase",
+                    "result": "28 U/L (reference <45 U/L)"
+                },
+                {
+                    "test": "Albumin",
+                    "result": "24.2 g/L (reference 35-50 g/L)"
+                },
+                {
+                    "test": "Alkaline phosphatase",
+                    "result": "79 U/L (reference 40-125 U/L)"
+                },
+                {
+                    "test": "Aspartate aminotransferase",
+                    "result": "33 U/L (reference <35 U/L)"
+                },
+                {
+                    "test": "Cardiac troponin (high sensitivity)",
+                    "result": "<3 pg/mL (reference <3 pg/mL)"
+                },
+                {
+                    "test": "Creatine kinase",
+                    "result": "102 U/L (reference <170 U/L)"
+                },
+                {
+                    "test": "Creatinine",
+                    "result": "85 μmol/L (reference 60-110 μmol/L)"
+                },
+                {
+                    "test": "eGFR",
+                    "result": "105 mL/min/1.73 m² (reference >90 mL/min/1.73 m²)"
+                },
+                {
+                    "test": "γ-Glutamyltransferase",
+                    "result": "19 U/L (reference <55 U/L)"
+                },
+                {
+                    "test": "Lactate dehydrogenase",
+                    "result": "357 U/L (reference <250 U/L)"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Count",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "Hemoglobin",
+                    "result": "8.2 mmol/L (reference 8.5-11.0 mmol/L)"
+                },
+                {
+                    "test": "Lymphocyte count",
+                    "result": "2.1 x10^9/L (reference 1.0-3.5 x10^9/L)"
+                },
+                {
+                    "test": "White blood cell count",
+                    "result": "17.0 x10^9/L (reference 4.0-10.0 x10^9/L)"
+                },
+                {
+                    "test": "Platelet count",
+                    "result": "309 x10^9/L (reference 150-400 x10^9/L)"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Tests",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "Activated partial thromboplastin time",
+                    "result": "Not assessed"
+                },
+                {
+                    "test": "D-dimer",
+                    "result": "Not assessed"
+                },
+                {
+                    "test": "Fibrinogen",
+                    "result": "Not assessed"
+                },
+                {
+                    "test": "Prothrombin time",
+                    "result": "Not assessed"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inflammatory Markers",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "C-reactive protein",
+                    "result": "343 mg/L (reference <10 mg/L)"
+                },
+                {
+                    "test": "Ferritin",
+                    "result": "Not assessed"
+                },
+                {
+                    "test": "Procalcitonin",
+                    "result": "Not assessed"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cerebral computed tomography",
+            "date": "Not specified",
+            "findings": "Oedema in the posterior fossa; suspected cerebellar tumour.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral magnetic resonance",
+            "date": "Not specified",
+            "findings": "Severe cerebellar oedema, herniation of cerebellar tonsils through the foramen magnum, compression of the fourth ventricle, and secondary supratentorial hydrocephaly; no tumour visible.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography",
+            "date": "Not specified",
+            "findings": "Absence of signal flow in the straight sinus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plain abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Not done.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

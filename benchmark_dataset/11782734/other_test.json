@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm at a rate of 78 beats/min with slight peaked T waves in leads V2 to V4 deemed insignificant.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "New right bundle branch block with inverted T waves in leads V2 to V6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Diagnosis of type IV RTA confirmed with elevated potassium and metabolic acidosis.",
+            "changes_over_time": "Patient was stabilized with bicarbonate therapy."
+        }
+    ]
+}

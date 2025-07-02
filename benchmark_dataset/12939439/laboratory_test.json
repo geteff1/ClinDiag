@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Left-sided slowing and attenuation, no epileptiform activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SPECT scan",
+            "date": "Not specified",
+            "findings": "Decreased cerebral perfusion predominantly of the left frontoparietal cortex.",
+            "changes_over_time": "Post-embolization scan demonstrated enhanced perfusion of the left frontoparietal lobe, especially the left dorsolateral prefrontal cortex."
+        },
+        {
+            "procedure_name": "Cerebral angiography",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a giant high flow dural arteriovenous fistula at the middle third of the superior sagittal sinus.",
+            "changes_over_time": "Follow-up angiogram at the time of embolization showed obliteration of the anomaly."
+        },
+        {
+            "procedure_name": "Hyper-coagulability workup",
+            "date": "Not specified",
+            "findings": "Positive for a lupus anticoagulant by the dilute Russell viper venom time assay.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

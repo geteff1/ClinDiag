@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient had a cleft soft palate and a partial cleft of the hard palate. There was a hypertrophic irregular lingual frenum and thick fibrous bands between the buccal mucosa and alveolar ridges. The tongue was partially cleft into lobes with a typical nodule on the left margin. Clinodactyly affecting the fingers and toes, and syndactyly of the fingers of both hands were present. Patchy alopecia of the scalp and dry hair were noted. The patient exhibited typical facies with short upper lip and broad nasal root. There were bilaterally palpable renal masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_urea": "45 mmol/l",
+                "creatinine": "1130 µmol/l",
+                "bicarbonate": "9 mmol/l",
+                "haemoglobin": "6 g/dl"
+            },
+            "relevant_findings": "The patient had established chronic renal failure and bilaterally palpable renal masses.",
+            "changes_over_time": "The patient initially received conservative treatment but later required dialysis after four months. She was established on continuous ambulatory peritoneal dialysis and later transferred to maintenance haemodialysis."
+        }
+    ]
+}

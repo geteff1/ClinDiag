@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Normal pituitary size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography scan",
+            "date": "Not specified",
+            "findings": "Ground glass and generalized micronodular appearance consistent with pulmonary fibrosis.",
+            "changes_over_time": "Diffuse infiltrates remained apparent on a more recent postero-anterior radiography of the chest."
+        },
+        {
+            "procedure_name": "Postero-anterior radiography of the chest",
+            "date": "Not specified",
+            "findings": "Evidence of diffuse pulmonary disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ST-segment elevation in the inferior leads, consistent with acute inferior myocardial infarction, and third-degree atrioventricular block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "85% stenosis of the proximal right coronary artery and 70% stenosis of the middle segment. Normal left ventricular contraction with an ejection fraction of 0.73.",
+            "changes_over_time": "Increased thickening of aortic-valve and mitral-valve leaflets over time, with mild insufficiency."
+        },
+        {
+            "procedure_name": "Cytologic examination of pleural fluid",
+            "date": "Not specified",
+            "findings": "Infiltrative inflammatory cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "Before 51 years of age",
+            "findings": "Forced expiratory volume in 1 second was 36% of the predicted value, vital capacity 48%, total lung capacity 64%, and carbon monoxide diffusing capacity 67%.",
+            "changes_over_time": "Gradual decrease in pulmonary function over time."
+        },
+        {
+            "procedure_name": "Barium swallow examination",
+            "date": "At 55 years of age",
+            "findings": "Severe esophageal dysmotility, with spontaneous reflux of barium up to the clavicles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological examination of pleura",
+            "date": "Not specified",
+            "findings": "Chronic inflammation and fibrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "ST-segment elevation consistent with myocardial infarction and bradycardic cardiac arrest.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

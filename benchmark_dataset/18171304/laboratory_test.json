@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Not specified",
+            "findings": "Positive results (diameter at 2 different test sites, 2 mm and 3 mm)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy and Culture",
+            "date": "Not specified",
+            "findings": "Pus from liver abscess contained M. avium-intracellulare; isolates were resistant to amikacin, rifabutin, clarithromycin, and ciproﬂoxacin, but susceptible to ethambutol.",
+            "changes_over_time": "After 4 weeks of treatment, the E. faecium isolate was susceptible to penicillin, ampicillin, and amoxicillin but had become resistant to linezolid."
+        },
+        {
+            "procedure_name": "Electrophoretic Mobility Shift Assay",
+            "date": "Not specified",
+            "findings": "Partial deficiency in IFN-g response compared with control subjects.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cellular Activation Test",
+            "date": "Not specified",
+            "findings": "Partial defect in IL-12p40 and a complete defect in production of IL-12p70 to BCG plus IFN-g.",
+            "changes_over_time": "Normative responses to BCG alone or to BCG plus IL-12 for the production of IFN-g."
+        }
+    ]
+}

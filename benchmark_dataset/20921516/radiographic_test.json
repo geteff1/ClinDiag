@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "1997",
+            "findings": "T2-weighted increased signal in both thalami, the pons, and cerebral peduncles.",
+            "changes_over_time": "After the first stroke-like episode (in 2007), MRI showed edema involving the entire hemicortex of the left cerebral hemisphere, except for the mesiotemporal regions. After the second event (in 2008), MRI showed new cortical edema with contrast enhancement of the right hemisphere."
+        },
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "April 2007",
+            "findings": "Edema involving the entire hemicortex of the left cerebral hemisphere, except for the mesiotemporal regions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "August 2007",
+            "findings": "Cortical necrosis of the left hemisphere, sparing the mesiotemporal cortex.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "2008",
+            "findings": "Left cortical sequelae and cortical edema of the right hemisphere, with cortical enhancement.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

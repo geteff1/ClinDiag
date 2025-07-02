@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "visual_acuity": {
+                    "age_8": "0.9",
+                    "age_18": "0.5"
+                },
+                "fundus_examination": "Uniform, yellow-white dots typical of fundus albipunctatus; reduced central retinal thickness (132/134 µm).",
+                "faF_intensity": "Severely reduced in the entire fundus; temporal macula/optic disk autoﬂuorescence index was 1.4 (right eye) and 1.6 (left eye).",
+                "ffERG": {
+                    "rod_response_standard_dark": "Barely recordable",
+                    "rod_response_prolonged_dark": "Normalization (increase by more than 700%)",
+                    "cone_30Hz_flicker_response": {
+                        "reduction_standard_dark": "Reduced",
+                        "increase_prolonged_dark": "Increased by 50%"
+                    }
+                },
+                "mfERG": "Demonstrated reduced central and peripheral responses."
+            },
+            "changes_over_time": {
+                "visual_acuity": "Decreased from 0.9 at age 8 to 0.5 at age 18.",
+                "ffERG_rod_response": "Progressively reduced from normal responses at age 10 to barely recordable at age 18 after standard dark adaptation.",
+                "faF_intensity": "Homogeneously reduced, did not change after prolonged dark adaptation."
+            }
+        }
+    ]
+}

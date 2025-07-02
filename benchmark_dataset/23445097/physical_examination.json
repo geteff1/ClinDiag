@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "67 kg",
+                "height": "178 cm"
+            },
+            "relevant_findings": {
+                "general": "Patient was alert and oriented.",
+                "neurological": "Mild allodynia over the left thorax, Achilles' tendon reflexes were not present; other reflexes normal. Sensation on pin-prick testing was normal. Detailed neurological examination was otherwise normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

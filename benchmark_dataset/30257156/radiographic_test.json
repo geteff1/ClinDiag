@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Findings consistent with sinusitis and otitis media of the left ear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal mediastinal contours without evidence of lymphadenopathy or cardiomegaly, clear pleural spaces without evidence of an effusion, and clear lungs without evidence of opacities, apical scarring, or calcified granulomas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "One month after initial visit",
+            "findings": "Irregular circumferential mass in the ascending colon measuring 4.5 cm in the craniocaudal dimension with transmural extension, stranding in the adjacent pericolonic fat, and adjacent enlarged mesenteric lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

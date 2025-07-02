@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Developed paroxysmal atrial fibrillation requiring cardioversion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Psychiatric evaluation",
+            "date": "Not specified",
+            "findings": "Diagnosis of delirium.",
+            "changes_over_time": "Delirium cleared slowly as her medical condition stabilized."
+        },
+        {
+            "procedure_name": "Psychiatric hospitalization",
+            "date": "Not specified",
+            "findings": "Hospitalization for major depression.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up psychiatric assessment",
+            "date": "4 months after initial surgery",
+            "findings": "No evidence of thought disorder, reported feelings of optimism and enjoyment.",
+            "changes_over_time": "Improved from previous states of confusion and depression."
+        }
+    ]
+}

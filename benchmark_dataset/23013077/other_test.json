@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Initial ECG showed sinus rhythm at a rate of 60 beats per minute, with premature atrial complexes and nonspecific ST-segment and T-wave changes. A repeat ECG during severe chest pain showed ST-segment elevation in leads II, III, aVF, V5, and V6, and ST-segment depression in leads I, aVR, aVL, V1, V2, and V3.",
+            "changes_over_time": "Subsequent ECGs showed normalization of ST segments, followed by transient ST-segment elevations in the absence of pain."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "Revealed a right-dominant system with mild diffuse disease in the proximal and middle segments of the right coronary artery, a 30% ostial stenosis of the posterior descending artery, and a 90% focal proximal stenosis in the posterolateral ventricular branch.",
+            "changes_over_time": "After stent placement, there were excellent angiographic results and normal flow with no residual stenosis."
+        },
+        {
+            "procedure_name": "Stress Test",
+            "date": "Three weeks after discharge",
+            "findings": "Showed excellent exercise tolerance, without evidence of ischemia or infarction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

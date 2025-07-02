@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Large pulmonary lesion (15.6 mm) in the left hilus, atelectasis of the left upper lobe, multiple smaller nodules in the left lung suspect for metastatic lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET/CT scan",
+            "date": "Not specified",
+            "findings": "Avid F-18 FDG-uptake in the pulmonary lesions (max SUV 26.85), large abdominal mass (5 x 10 cm, SUV 24.91), and multiple smaller mesenteric nodules with significant metabolic activity.",
+            "changes_over_time": "On follow-up PET/CT scan 2 months after presentation, all lesions showed regression, only the large abdominal lesion took up F-18 FDG but with a much lower intensity (SUV 3.57)."
+        }
+    ]
+}

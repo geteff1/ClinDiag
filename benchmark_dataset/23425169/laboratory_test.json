@@ -1,0 +1,97 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "8 Days before Admission",
+            "findings": {
+                "Hematocrit (%)": "54.6",
+                "Hemoglobin (g/dL)": "19.1",
+                "White-cell count (per mm3)": "9800",
+                "Neutrophils (%)": "71",
+                "Lymphocytes (%)": "16",
+                "Monocytes (%)": "10",
+                "Eosinophils (%)": "2",
+                "Basophils (%)": "1"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "On Admission",
+            "findings": {
+                "Hematocrit (%)": "54",
+                "Hemoglobin (g/dL)": "17.9",
+                "White-cell count (per mm3)": "16600",
+                "Neutrophils (%)": "76",
+                "Lymphocytes (%)": "17",
+                "Monocytes (%)": "5",
+                "Eosinophils (%)": "1",
+                "Basophils (%)": "1"
+            },
+            "changes_over_time": "Increase in white-cell count from 9800 to 16600; Neutrophils increased from 71% to 76%; Hemoglobin decreased from 19.1 to 17.9."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "2nd Hospital Day",
+            "findings": {
+                "Hematocrit (%)": "49.6",
+                "Hemoglobin (g/dL)": "16.0",
+                "White-cell count (per mm3)": "17300",
+                "Neutrophils (%)": "79",
+                "Lymphocytes (%)": "12",
+                "Monocytes (%)": "7",
+                "Eosinophils (%)": "1",
+                "Basophils (%)": "1"
+            },
+            "changes_over_time": "White-cell count further increased from 16600 to 17300; Neutrophils increased from 76% to 79%; Hemoglobin decreased from 17.9 to 16.0."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "8 Days before Admission",
+            "findings": {
+                "Sodium (mmol/liter)": "139",
+                "Potassium (mmol/liter)": "3.3",
+                "Chloride (mmol/liter)": "91",
+                "Carbon dioxide (mmol/liter)": "26.2",
+                "Anion gap (mmol/liter)": "22"
+            },
+            "changes_over_time": "Potassium levels increased to 3.6 mmol/L on admission, while Sodium decreased to 133 mmol/L."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "On Admission",
+            "findings": {
+                "Sodium (mmol/liter)": "133",
+                "Potassium (mmol/liter)": "3.6",
+                "Chloride (mmol/liter)": "92",
+                "Carbon dioxide (mmol/liter)": "30.3",
+                "Anion gap (mmol/liter)": "11"
+            },
+            "changes_over_time": "Sodium decreased from 139 to 133 mmol/L; Anion gap decreased from 22 to 11."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "2nd Hospital Day",
+            "findings": {
+                "Sodium (mmol/liter)": "137",
+                "Potassium (mmol/liter)": "3.5",
+                "Chloride (mmol/liter)": "98",
+                "Carbon dioxide (mmol/liter)": "29.8",
+                "Anion gap (mmol/liter)": "9"
+            },
+            "changes_over_time": "Sodium increased to 137 from 133 mmol/L; Chloride increased to 98 from 92."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "8 Days before Admission",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Gastrin Level",
+            "date": "At Time of Surgery",
+            "findings": "1329 pg/mL (reference range <100).",
+            "changes_over_time": "Elevated gastrin levels noted; levels returned to normal after surgery."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Two small ill-defined opacities at both lung apexes.",
+            "changes_over_time": "Stable bilateral apical lung opacities."
+        },
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Dilatation of the intrahepatic and extrahepatic ducts; enlargement of the pancreatic head; complex cystic masses adjacent to the pancreatic head and tail; low-density splenic lesion.",
+            "changes_over_time": "Stent in place with decreased bile-duct dilatation and the pancreatic head mass slightly decreased in size. The complex cystic mass in the head of the pancreas had decreased in size."
+        },
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Diffusely dilated biliary tree above a localized stenosis of the middle third of the common bile duct.",
+            "changes_over_time": "Persistent stricture of the middle third of the main bile duct, with a patent sphincterotomy."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Confirmed dilated intrahepatic and extrahepatic bile ducts and a complex cystic mass in the pancreatic head.",
+            "changes_over_time": "No changes over time specified."
+        },
+        {
+            "procedure_name": "Second abdominal CT scan",
+            "date": "Approximately two months after the first scan",
+            "findings": "No residual intrahepatic biliary dilatation; cystic mass in the head of the pancreas almost fully resolved; multiple enlarged retroperitoneal lymph nodes developed.",
+            "changes_over_time": "Improvement in cystic mass and reduction in biliary dilatation."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Two weeks before admission",
+            "findings": "Unchanged mass in the porta hepatis and decrease in the size of the pancreatic-head mass.",
+            "changes_over_time": "The pancreatic head mass decreased in size."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Small-bowel biopsy",
+            "date": "1 month of age",
+            "findings": "Total villous atrophy.",
+            "changes_over_time": "Confirmed total villous atrophy at 4 years of age; regrowth of villi at 5 years of age."
+        },
+        {
+            "procedure_name": "Antibody to thyroid microsomal antigen",
+            "date": "Not specified",
+            "findings": "Persistently high titers at 56.5 IU/mL (normal: 0.0-1.9 IU/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Eosinophil count",
+            "date": "Not specified",
+            "findings": "Persistent peripheral blood eosinophilia at 0.9 k/uL (normal: 0.0-0.65 k/uL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgE levels",
+            "date": "Not specified",
+            "findings": "Increased serum IgE at 755 IU/mL (normal: 10-180 IU/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgA levels",
+            "date": "Not specified",
+            "findings": "Increased levels at 472 mg/dL (normal: 45-263 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgG levels",
+            "date": "Not specified",
+            "findings": "Normal levels at 1060 mg/dL (normal: 608-1572 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgM levels",
+            "date": "Not specified",
+            "findings": "Normal levels at 153 mg/dL (normal: 52-242 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "5 years of age",
+            "findings": "Focal spongiotic dermatitis with subcorneal vesiculo-pustule formation consistent with eczema.",
+            "changes_over_time": "At 7 years of age, a repeat skin biopsy showed a subepidermal blister compatible with bullous pemphigoid."
+        },
+        {
+            "procedure_name": "Salt-split direct immunofluorescence",
+            "date": "7 years of age",
+            "findings": "Demonstrated linear IgG deposition along the roof of the subepidermal separation and linear C3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "14 years of age",
+            "findings": "Demonstrated central ulceration with fibrin deposition, adjacent pseudoepitheliomatous hyperplasia, and numerous eosinophils.",
+            "changes_over_time": "Confirmed pemphigoid nodularis."
+        },
+        {
+            "procedure_name": "Direct immunofluorescence",
+            "date": "14 years of age",
+            "findings": "Demonstrated linear staining of the dermal-epidermal junction with antibodies to C3 and IgG.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Enzyme-linked immunosorbent assay (ELISA)",
+            "date": "14 years of age",
+            "findings": "Positive for the 180 kd bullous pemphigoid antigen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "protein_level": "23 mg/dL",
+                    "mononuclear_cell_count": "6"
+                },
+                "Patient 2": {
+                    "protein_level": "16 mg/dL",
+                    "mononuclear_cell_count": "5"
+                },
+                "Patient 3": {
+                    "protein_level": "25 mg/dL",
+                    "mononuclear_cell_count": "4"
+                },
+                "Patient 4": {
+                    "protein_level": "34 mg/dL",
+                    "mononuclear_cell_count": "1"
+                },
+                "Patient 5": {
+                    "protein_level": "18 mg/dL",
+                    "mononuclear_cell_count": "5"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroneuromyography",
+            "date": "Not specified",
+            "findings": {
+                "Patient 5": {
+                    "findings": "low motor fibular amplitude, fibrillations, and rarefaction"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ELISA/Western blotting for HTLV-1 antibodies",
+            "date": "Not specified",
+            "findings": "Positive for all patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spinal imaging",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": "No abnormalities",
+                "Patient 2": "No abnormalities",
+                "Patient 3": "No abnormalities",
+                "Patient 4": "No abnormalities",
+                "Patient 5": "No abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided biopsy",
+            "date": "Not specified",
+            "findings": "Adenocarcinoma consistent with lung primary.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "No distant disease found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "No distant disease found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathologic evaluation of surgical specimen",
+            "date": "Not specified",
+            "findings": "Stage II (T2N1M0) lung adenocarcinoma harboring an EGFR exon 19 p.Glu746_Ala750 deletion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Germline genetic testing using a 91-gene pan-cancer panel",
+            "date": "Not specified",
+            "findings": "Heterozygous likely pathogenic germline TP53 variant c.542G>A (p.Arg181His) detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Posteroanterior Chest Radiograph",
+            "date": "Not specified",
+            "findings": "3 round metallic objects projecting over the upper esophagus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lateral Neck Radiograph",
+            "date": "3 days later",
+            "findings": "Retropharyngeal soft tissue thickening and emphysema.",
+            "changes_over_time": "Airway displacement anteriorly but otherwise normal in appearance."
+        },
+        {
+            "procedure_name": "Contrast Esophagram",
+            "date": "Not specified",
+            "findings": "Leakage confirmed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

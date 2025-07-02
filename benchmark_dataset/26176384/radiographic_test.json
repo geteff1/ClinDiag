@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Right hilar and mediastinal adenopathy, small bilateral pleural effusions, bibasilar atelectasis, and no evidence of acute pulmonary embolism.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "No abnormalities noted in the abdomen or pelvis, but moderate bilateral pleural effusions, dependent bibasilar opacities, and a moderate pericardial effusion were seen in the visualized portion of the lower thorax.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anteroposterior chest radiograph",
+            "date": "Not specified",
+            "findings": "Symmetrically enlarged cardiac silhouette consistent with the water-bottle sign, cephalization of pulmonary vasculature, indistinct vascular markings, peribronchial cuffing, blunting of the costophrenic angles, and opacification of the lower lung zones bilaterally consistent with bilateral small pleural effusions (larger on the left side than the right) and associated atelectasis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate circumferential pericardial effusion with maximum diastolic dimensions indicating hemodynamically significant pericardial effusion.",
+            "changes_over_time": "On the 11th hospital day, a repeat echocardiogram showed a large anterior pericardial effusion and a moderate posterior pericardial effusion."
+        }
+    ]
+}

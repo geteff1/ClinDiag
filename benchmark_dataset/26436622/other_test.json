@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "Initial blood glucose was 180 mg/dL, repeated blood sugar was 170 mg/dL, A1c was 8.5%.",
+            "changes_over_time": "A1c was unchanged at 8% after starting long-acting insulin."
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "Not specified",
+            "findings": "Initial blood pressure was 150/96 mm Hg, remained in the 150- to 160-mm Hg range.",
+            "changes_over_time": "Blood pressure was recorded at 154/92 mm Hg before admission."
+        },
+        {
+            "procedure_name": "Creatinine level test",
+            "date": "Not specified",
+            "findings": "Creatinine level was 1.2 mg/dL on admission, previous level was 0.9 mg/dL.",
+            "changes_over_time": "Increased to 2.0 mg/dL after complications post-surgery."
+        },
+        {
+            "procedure_name": "Cerebrovascular accident assessment",
+            "date": "Postoperative",
+            "findings": "Noted to have difficulty using his right hand and was not speaking clearly.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

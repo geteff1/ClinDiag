@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "BMI": "17 kg/m²",
+                "fasting_blood_glucose": "12 mmol/L",
+                "HbA1c": "75 mmol/mol (9%)",
+                "C-peptide": "0.35 nmol/L",
+                "lipids": "Normal range"
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Absence of insulin resistance",
+                    "details": "No signs of insulin resistance noted."
+                },
+                {
+                    "finding": "Negative GAD antibodies",
+                    "details": "The commonest form of pancreatic beta-cell antibodies."
+                },
+                {
+                    "finding": "Genetic mutation identified",
+                    "details": "Mutation in HNF4A confirmed, diagnosing HNF4A-MODY."
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "BMI": "23 kg/m²",
+                "fasting_blood_glucose": "6.7 mmol/L",
+                "HbA1c": "49 mmol/mol (6.6%)",
+                "GAD_antibodies": "Negative"
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Lethargy",
+                    "details": "The patient presented with lethargy but no other symptoms."
+                },
+                {
+                    "finding": "Genetic mutation suspected",
+                    "details": "Mutation in GCK suspected, confirmed on genetic testing."
+                }
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

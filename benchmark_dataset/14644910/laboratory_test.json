@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "13.6 mmol/L [38 mg/dL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "230 mmol/L [2.6 mg/dL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Generalized spike, polyspike, and slow waves consistent with atypical absence status",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Initial test - Not specified",
+            "findings": "41 ng/mL",
+            "changes_over_time": "Subsequent troponin I levels remained elevated (36 to 41 ng/mL)"
+        },
+        {
+            "procedure_name": "Creatine Phosphokinase (CPK)",
+            "date": "Not specified",
+            "findings": "55 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Inflammation often mild to moderate, with 47.6% of patients having advanced fibrosis and 2 patients having definite cirrhosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCV RNA test",
+            "date": "Baseline - Not specified",
+            "findings": "Present before treatment",
+            "changes_over_time": "No values provided for changes during follow-up."
+        }
+    ]
+}

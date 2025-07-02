@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated diffusely dilated cortical veins suggestive of a dAVF; no intracranial hemorrhage, cerebral edema, or diffusion-weighted imaging abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Demonstrated diffusely dilated cortical veins suggestive of a dAVF; no intracranial hemorrhage, cerebral edema, or diffusion-weighted imaging abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Revealed left-sided slowing and attenuation, no epileptiform activity.",
+            "changes_over_time": "Post-embolization EEG was improved."
+        },
+        {
+            "procedure_name": "Tc-99m brain SPECT scan",
+            "date": "Not specified",
+            "findings": "Showed decreased cerebral perfusion predominantly of the left frontoparietal cortex.",
+            "changes_over_time": "A repeat brain SPECT scan demonstrated enhanced perfusion of the left frontoparietal lobe, especially the left dorsolateral prefrontal cortex after embolization."
+        },
+        {
+            "procedure_name": "Cerebral angiography",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a giant high flow dAVF at the middle third of the SSS, with occlusion of the posterior SSS and straight and left transverse/sigmoid sinuses.",
+            "changes_over_time": "Follow-up angiogram at the time of embolization showed obliteration of the anomaly."
+        }
+    ]
+}

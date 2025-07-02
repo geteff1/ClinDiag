@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the neck",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT angiography of the head and neck",
+            "date": "Not specified",
+            "findings": "Irregular narrowing of the cervical right internal carotid artery and a pseudoaneurysm near the base of the skull.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography",
+            "date": "8 months after initial presentation",
+            "findings": "Persistent pseudoaneurysm that had decreased in size from the initial imaging, and apparent resolution of the narrowing of the proximal cervical internal carotid artery.",
+            "changes_over_time": "Decreased size of the pseudoaneurysm."
+        }
+    ]
+}

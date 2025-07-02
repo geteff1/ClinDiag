@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "68Ga-DOTATOC CT/positron emission tomography",
+            "date": "Not specified",
+            "findings": "Identified an insulinoma relapse.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "99mTc-nanocolloid scintigraphy",
+            "date": "Not specified",
+            "findings": "Characterized by endothelial-like uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echo-endoscopy",
+            "date": "Not specified",
+            "findings": "Identified an additional hypo-echogenic nodulation (9.9 mm maximum diameter) adjacent to the major lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal MRI",
+            "date": "Not specified",
+            "findings": "A 22-mm nodular lesion with unclear significance for insulinoma or splenule.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intra-operative histopathological examination",
+            "date": "December 2017",
+            "findings": "Confirmed an 8.0-mm benign insulinoma relapse (Ki-67 = 1%; 2010 WHO grading = G1) on background nesidioblastosis.",
+            "changes_over_time": "No further hypoglycemic episode occurred after subtotal pancreatectomy."
+        }
+    ]
+}

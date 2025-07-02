@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "115/85 mmHg",
+                "height": "125 cm",
+                "weight": "36.2 kg",
+                "sitting_height_to_standing_height_ratio": "0.54"
+            },
+            "relevant_findings": {
+                "pubic_hair_development": "Tanner stage 4",
+                "breast_development": "Tanner stage 2",
+                "bone_age": "12 years"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 12 years",
+            "vital_signs": {
+                "height": "139.0 cm",
+                "weight": "58.3 kg",
+                "body_mass_index": "30.2",
+                "sitting_height_to_standing_height_ratio": "0.55"
+            },
+            "relevant_findings": {
+                "pubic_hair_development": "Tanner stage 5",
+                "breast_development": "Tanner stage 4",
+                "hirsutism": "Clinically significant",
+                "acne": "Present",
+                "bone_age": "16.5 years"
+            },
+            "changes_over_time": "Worsening symptoms of hirsutism and acne, advancement of bone age."
+        },
+        {
+            "date": "At 14.5 years",
+            "vital_signs": {
+                "height": "139.0 cm",
+                "weight": "Not specified",
+                "body_mass_index": "Not specified"
+            },
+            "relevant_findings": "Secondary amenorrhea developed.",
+            "changes_over_time": "Height remained stable since 12 years."
+        }
+    ]
+}

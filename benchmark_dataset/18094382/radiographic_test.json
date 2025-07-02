@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Skin biopsy revealed infiltrate of mononuclear cells involving the upper and deep dermis, with a periadnexal pattern, sparing the epidermis and a diagnosis of acute monoblastic leukemia involving the skin.",
+            "changes_over_time": "Initially, there was noticeable regression of skin lesions after therapy; however, the rash recurred one month after completion of consolidation therapy."
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH)",
+            "date": "Not specified",
+            "findings": "Observed a rearrangement at 11q23 involving the MLL gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "Not specified",
+            "findings": "Trilineage hematopoiesis with 13% blast cells showing monocytic differentiation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Hyperglycemia with a glucose level of 16.3 mmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum insulin",
+            "date": "Not specified",
+            "findings": "Undetectable at less than 3.0 mU/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Hyperglycemia with a glucose level of 27.3 mmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum insulin",
+            "date": "Not specified",
+            "findings": "Undetectable at less than 14 pmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Real-time PCR quantification",
+            "date": "Not specified",
+            "findings": "No trace of mutant DNA detected in the father's blood.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

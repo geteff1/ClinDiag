@@ -1,0 +1,128 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "2900 per cubic millimeter (low)",
+                "hematocrit": "36.1%",
+                "mean_corpuscular_volume": "102 fl",
+                "platelet_count": "149,000 per cubic millimeter",
+                "peripheral_blood_smear": "occasional schistocytes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": "0.93 mg per deciliter [82.2 μmol per liter] (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes, Aminotransferases, and Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": {
+                "levels": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin_level": "1.23 mIU per milliliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": {
+                "albumin_level": "3.9 g per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin_level": "1.9 mg per deciliter (elevated, normal range up to 1.2 mg per deciliter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Iron and Total Iron-Binding Capacity",
+            "date": "Not specified",
+            "findings": {
+                "serum_iron_level": "108 μg per deciliter",
+                "total_iron_binding_capacity": "288 μg per deciliter",
+                "ferritin_level": "118 μg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": {
+                "INR": "2.0"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "description": "Atrial fibrillation with a slow ventricular response, low voltage in limb leads, rightward axis, poor R-wave progression, and diffuse nonspecific T-wave changes."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "left_ventricular_thickness": "1.5 cm (moderate concentric thickening)",
+                "ejection_fraction": "50%",
+                "right_ventricle": "mildly enlarged and hypokinetic",
+                "mitral_valve_prosthesis": {
+                    "status": "well seated",
+                    "mean_gradient": "5 mm Hg (normal)",
+                    "mitral_regurgitation": "minimal"
+                },
+                "aortic_insufficiency": "mild",
+                "tricuspid_regurgitation": "moderate",
+                "inferior_vena_cava": "dilated and nonpulsatile",
+                "pulmonary_hypertension": "mild-to-moderate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Immunofixation",
+            "date": "Not specified",
+            "findings": {
+                "monoclonal_IgG_lambda_spike": "0.4 g per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Free Light-Chain Assay",
+            "date": "Not specified",
+            "findings": {
+                "lambda_light_chains": "199 mg per liter (elevated)",
+                "normal_kappa_light_level": "11.8",
+                "kappa_lambda_ratio": "0.06 (abnormal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "cellularity": "<20% (hypocellular)",
+                "plasma_cells": "20 to 30% of all cells"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

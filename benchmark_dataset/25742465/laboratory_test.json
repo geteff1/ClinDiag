@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Real-time reverse transcription-polymerase chain reaction",
+            "date": "September 29, 2014",
+            "findings": {
+                "vesicular_stomatitis_virus_nucleoprotein": "Positive",
+                "ebola_virus_glycoprotein": "Positive",
+                "ebola_virus_nucleoprotein": "Negative",
+                "viral_matrix_protein_40": "Negative"
+            },
+            "changes_over_time": {
+                "day_3": {
+                    "vesicular_stomatitis_virus_nucleoprotein": "Positive",
+                    "ebola_virus_glycoprotein": "Positive"
+                },
+                "day_4": {
+                    "vesicular_stomatitis_virus_nucleoprotein": "Positive",
+                    "ebola_virus_glycoprotein": "Positive"
+                },
+                "threshold_cycle_values": {
+                    "day_3": 37,
+                    "day_4": 40
+                }
+            }
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "September 29, 2014",
+            "findings": {
+                "white_blood_cell_count": "4000 /μL (leukopenia)",
+                "hemoglobin": "15.5 g/dL",
+                "platelets": "133,000 /μL (thrombocytopenia)",
+                "lymphocytes": "610 /μL (absolute lymphopenia)",
+                "d_dimer": "0.83 μg/mL (mildly elevated)"
+            },
+            "changes_over_time": {
+                "day_2": {
+                    "lymphocytes": "930 /μL (mild lymphopenia)",
+                    "plates": "126,000 /μL",
+                    "d_dimer": "1.07 μg/mL"
+                },
+                "day_5": {
+                    "lymphocytes": "1830 /μL",
+                    "plates": "124,000 /μL"
+                }
+            }
+        }
+    ]
+}

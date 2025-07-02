@@ -1,0 +1,116 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal testing",
+            "date": "Not specified",
+            "findings": {
+                "Cortisol": {
+                    "2 days": "0.06 µg/dL (low)",
+                    "2 weeks": "22 µg/dL (normal)",
+                    "2 months": "0.25 µg/dL (low)",
+                    "1 year, 1 month": "0.18 µg/dL (low)",
+                    "1 year, 2 months": "2.5 µg/dL (normal)"
+                },
+                "ACTH": {
+                    "2 days": "0.3 pg/mL (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "8.0 pg/mL",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "0.18 pg/mL (low)",
+                    "1 year, 2 months": "25 pg/mL"
+                },
+                "FSH": {
+                    "2 days": "0.02 IU/L (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "Not specified",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "0.5 IU/L (low)",
+                    "1 year, 2 months": "0.07 IU/L (low)"
+                },
+                "LH": {
+                    "2 days": "0.02 IU/L (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "Not specified",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "0.5 IU/L (low)",
+                    "1 year, 2 months": "Not specified"
+                },
+                "Prolactin": {
+                    "2 days": "3.5 ng/mL (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "42 ng/mL",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "1.36 ng/mL (low)",
+                    "1 year, 2 months": "Not specified"
+                },
+                "IGFBP-3": {
+                    "2 days": "1.0 mg/L (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "Not specified",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "1.36 mg/L",
+                    "1 year, 2 months": "Not specified"
+                },
+                "IGF-I": {
+                    "2 days": "0.4 ng/mL",
+                    "2 weeks": "Not specified",
+                    "122 months": "0.7 ng/mL (low)",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "0.5 ng/mL",
+                    "1 year, 2 months": "Not specified"
+                },
+                "TSH": {
+                    "2 days": "0.02 µU/mL (undetectable)",
+                    "2 weeks": "Not specified",
+                    "122 months": "0.02 µU/mL (low)",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "Not specified",
+                    "1 year, 2 months": "Not specified"
+                },
+                "Free T4": {
+                    "2 days": "2.88 ng/mL (low)",
+                    "2 weeks": "Not specified",
+                    "122 months": "Not specified",
+                    "2 months": "Not specified",
+                    "1 year, 1 month": "Not specified",
+                    "1 year, 2 months": "Not specified"
+                }
+            },
+            "changes_over_time": "Cortisol levels improved over time; LH and FSH showed consistent low levels suggesting deficiency."
+        },
+        {
+            "procedure_name": "CRH stimulation test",
+            "date": "At 6 years, 8 months",
+            "findings": {
+                "Cortisol": {
+                    "Baseline": "3.6 µg/dL",
+                    "10 min": "11 µg/dL",
+                    "20 min": "12 µg/dL",
+                    "30 min": "13 µg/dL"
+                },
+                "ACTH": {
+                    "Baseline": "166 pg/mL",
+                    "10 min": "951 pg/mL",
+                    "20 min": "1241 pg/mL",
+                    "30 min": "960 pg/mL"
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the pituitary",
+            "date": "Performed shortly after birth and at 6 years, 8 months",
+            "findings": {
+                "Initial MRI": "Hypointense lesion in the anterior pituitary consistent with microadenoma.",
+                "Repeat MRI": "Confirmed hypointensity consistent with microadenoma; enlarged anterior pituitary volume noted."
+            },
+            "changes_over_time": "Hypointensity consistent with microadenoma noted on both MRIs performed at different ages."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Moderate fasciculation potentials and occasional fibrillation potentials; motor units and recruitment not adequately assessed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

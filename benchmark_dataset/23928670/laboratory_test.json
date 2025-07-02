@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "IGF-1",
+            "date": "Not specified",
+            "findings": "At the start of GH treatment, IGF-1 was 223 ng/mL (1.8 SDS). After 2 years, IGF-1 was 642 ng/mL (4.0 SDS). IGF-1 fluctuated around 3 SDS during treatment.",
+            "changes_over_time": "Substantial increase during treatment; IGF-1 levels rose from 223 ng/mL to 642 ng/mL over 2 years."
+        },
+        {
+            "procedure_name": "IGFBP-3",
+            "date": "Not specified",
+            "findings": "At the start of GH treatment, IGFBP-3 was 2.1 mg/L (0 SDS). Levels remained within normal range during treatment.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arginine stimulation test",
+            "date": "Not specified",
+            "findings": "Patient 1 had a maximum GH response of 13.5 µg/L (35 mU/L). Patient 2 had a maximum GH response of 21.5 µg/L (56 mU/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "At age 13 years",
+            "findings": "TSH levels increased to 9.7 mU/L; free T4 was normal (14.4 pmol/L [112 pg/dL]). Antithyroperoxidase antibodies and anti-thyroglobulin antibodies were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgA, IgG, IgM",
+            "date": "At age 4 years for Patient 2",
+            "findings": "IgA was 0.2 g/L (normal 0.1-1.0 g/L), IgG 6.4 g/L (normal 3.3-11.6 g/L), and IgM 0.5 g/L (normal 0.4-1.7 g/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

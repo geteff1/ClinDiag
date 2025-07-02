@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "140/88 mmHg",
+                "pulse": "76 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "pain_right_forearm": true,
+                "erythema_right_forearm": true,
+                "swelling_right_forearm": true,
+                "ecchymosis_left_antcubital_fossa": true,
+                "petechiae_on_palate": true,
+                "normal_findings": "No lymphadenopathy or hepatosplenomegaly detected."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "weight": "95.3 kg",
+                "BMI": "30",
+                "appearance": "Pale",
+                "description_forearm": "Erythematous and mildly swollen; no induration or crepitus; wrist extension limited by pain.",
+                "additional_findings": "Scattered petechiae noted on the palate."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

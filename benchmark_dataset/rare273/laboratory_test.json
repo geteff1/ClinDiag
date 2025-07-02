@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "Elevated at 6.01.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain Natriuretic Peptide",
+            "date": "Not specified",
+            "findings": "Level at 73 pg/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "7.64 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Pulmonary artery pressure of 45 mmHg and ejection fraction of 50%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluid analysis from pericardiocentesis",
+            "date": "Not specified",
+            "findings": "RBC at 220,000/uL, WBC at 5000/uL (polymorphonuclear predominant), protein 4.8 g/dL, lactate dehydrogenase level of 1275 U/L, and negative cytology.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "COVID-19 PCR test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Diffuse pulmonary vascular congestion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

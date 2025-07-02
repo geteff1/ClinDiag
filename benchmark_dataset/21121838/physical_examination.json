@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "blood_pressure": "155/84 mmHg (supine), 110/65 mmHg (standing)",
+                "pulse": "80 bpm (supine), 92 bpm (standing)",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98% (ambient air)"
+            },
+            "relevant_findings": {
+                "alert": true,
+                "distress": false,
+                "orientation": "oriented to person, place, and time",
+                "cardiovascular": "nonradiating early systolic murmur best at left sternal border",
+                "respiratory": "lungs clear on bilateral auscultation",
+                "abdomen": "no distention, tenderness, organomegaly, or masses",
+                "prostate": "normal size and consistency",
+                "stool_sample": "negative for occult blood",
+                "cognitive_function": "30 out of 30 on Mini-Mental State Examination"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Five weeks later",
+            "vital_signs": {
+                "temperature": "36.0°C",
+                "blood_pressure": "137/90 mmHg",
+                "pulse": "80 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "98% (ambient air)"
+            },
+            "relevant_findings": "Results of the physical examination were unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

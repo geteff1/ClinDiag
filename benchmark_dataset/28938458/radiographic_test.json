@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Pituitary tumor eroding the floor of the sella and extending into the sphenoidal sinus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "18F-FDG-PET/CT scan",
+            "date": "Not specified",
+            "findings": "No metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Multiple liver metastases confirmed by biopsy as pituitary origin.",
+            "changes_over_time": "Progression of liver metastases and spread to the skeleton after 6 months on temozolomide."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "≥ 50% regression of the liver metastases after five cycles of temozolomide."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Invasive, clinically silent macroadenoma with a solid and cystic component.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not available",
+            "date": "Not specified",
+            "findings": "Microprolactinoma treated with dopamine agonists.",
+            "changes_over_time": "Prolactin normalized but no shrinkage of tumor."
+        }
+    ]
+}

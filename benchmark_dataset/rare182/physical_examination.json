@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "190/90 mmHg",
+                "heart_rate": "110 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": [
+                "Dehydration",
+                "Palpable painful hepatomegaly",
+                "Marked confluent telangiectasias of the nose and malar regions"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

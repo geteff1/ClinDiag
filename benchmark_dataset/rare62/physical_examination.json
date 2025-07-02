@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Initial clinical examination at birth was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 15 hours of age",
+            "vital_signs": "Blood pressure: 104/70",
+            "relevant_findings": "Significant heart murmur detected; chest X-ray revealed cardiomegaly.",
+            "changes_over_time": "Condition worsened, leading to a diagnosis of congenital heart failure."
+        },
+        {
+            "date": "At 10 months",
+            "vital_signs": "Blood pressure: 130/85",
+            "relevant_findings": "Puffy eye, squint on the right eye corrected by surgery, no pallor or jaundice, bilateral equal air entry with no added sound, loud first and second heart sounds, lax abdomen with no organomegaly or masses, restricted upper limb joint movement, and normal lower limbs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "By 3 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Bilateral genu valgus deformity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 11 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Recurrent tonsillar attacks noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 17 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Echocardiogram showed a large pericardial effusion and severe concentric left ventricular hypertrophy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

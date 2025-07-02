@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "heart_rate": "129 bpm",
+                "blood_pressure": "123/66 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "body": "well developed",
+                "appearance": "flushed, uncomfortable except when lying flat",
+                "abdominal_exam": {
+                    "distention": "mildly distended",
+                    "tenderness": "both lower quadrants, worst in midline",
+                    "guarding": "voluntary guarding on palpation",
+                    "rebound": "no rebound",
+                    "bowel_sounds": "diminished"
+                },
+                "cardiac_exam": "normal except for tachycardia"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

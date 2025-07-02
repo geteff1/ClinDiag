@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "23.5 mg/dL (normal range, 4.0 to 16.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyruvate",
+            "date": "Not specified",
+            "findings": "57 µmol/L (normal range, 34 to 102 µmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin A1C",
+            "date": "Not specified",
+            "findings": "8.7% (normal range, 4.3% to 5.8%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "5.0 x 10^9 cells/L",
+            "changes_over_time": "Improved to 298.0 x 10^9 cells/L within 1 week after therapy"
+        },
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "Not specified",
+            "findings": "5.8 x 10^9 cells/L (40% neutrophils, 47% lymphocytes, 9% monocytes, 3% eosinophils, 1% bands)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Xylose absorption test",
+            "date": "Not specified",
+            "findings": "8.6 g (normal range, 5.0 to 8.0 g)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "body_temperature": "36.3°C",
+                "pulse_rate": "101 bpm",
+                "respiratory_rate": "20 breaths per min",
+                "systolic_blood_pressure": "80 mm Hg",
+                "baseline_systolic_blood_pressure": "∼160 mm Hg",
+                "high_spiking_fever": "40°C"
+            },
+            "relevant_findings": {
+                "awareness": "aware and alert",
+                "appearance": "chronically ill",
+                "sclerae": "icteric",
+                "hepatomegaly": "noted",
+                "white_blood_cell_count": "4920 cells/mL",
+                "hemoglobin_level": "11.5 g/dL",
+                "platelet_count": "129,000 cells/mL",
+                "bilirubin_level": {
+                    "total": "17.8 mg/dL",
+                    "direct": "11.2 mg/dL"
+                },
+                "alanine_aminotransferase_level": "363 mg/dL",
+                "aspartate_aminotransferase_level": "359 mg/dL",
+                "serum_creatinine_level": "1.8 mg/dL",
+                "chest_radiography_findings": "right hilar mass and small amount of pleural effusion",
+                "creatine_kinase_levels": "579 U/L",
+                "creatine_kinase_muscle_brain_fraction": "186.5 U/L"
+            },
+            "changes_over_time": {
+                "temperature": "developed high spiking fever (40°C)",
+                "systolic_blood_pressure": "dropped to 80 mm Hg from ~160 mm Hg",
+                "white_blood_cell_count": "decreased to 880 cells/mL",
+                "alanine_aminotransferase_level": "increased to 5727 mg/dL",
+                "aspartate_aminotransferase_level": "increased to 25615 mg/dL",
+                "serum_creatinine_level": "increased to 3.9 mg/dL"
+            }
+        }
+    ]
+}

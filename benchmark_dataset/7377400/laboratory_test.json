@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count of 16,900 with 10% eosinophils",
+            "changes_over_time": "Returned to normal approximately 4 weeks after the toxic episode."
+        },
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "Not specified",
+            "findings": "Elevated serum glucose of 202 mg/dL with 3+ glucosuria",
+            "changes_over_time": "Resolved during the next 3 days after reducing lithium dosage."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated alkaline phosphatase of 352 IU",
+            "changes_over_time": "Returned to normal approximately 4 weeks after the toxic episode."
+        },
+        {
+            "procedure_name": "Serum Lithium Concentration",
+            "date": "Not specified",
+            "findings": "Serum lithium concentration of 1.08 mEq/L and then reduced to 0.81 mEq/L after tapering dosage.",
+            "changes_over_time": "Remains in the 0.6 to 0.7 mEq/L range as an outpatient."
+        }
+    ]
+}

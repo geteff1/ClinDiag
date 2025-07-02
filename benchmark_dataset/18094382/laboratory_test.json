@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "1 Day after Presentation",
+            "findings": {
+                "White-cell count": "12,800 per mm3 (Reference Range: 5,000–19,500)",
+                "Neutrophils": "17% (Reference Range: 20–46%)",
+                "Lymphocytes": "76% (Reference Range: 50–85%)",
+                "Monocytes": "2% (Reference Range: 4–11%)",
+                "Eosinophils": "5% (Reference Range: 0–8%)",
+                "Hematocrit": "31.0% (Reference Range: 29.0–41.0%)",
+                "Hemoglobin": "11.0 g/dl (Reference Range: 9.5–13.5 g/dl)",
+                "Platelet count": "505,000 per mm3 (Reference Range: 150,000–450,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "1 Day after Presentation",
+            "findings": {
+                "Aspartate aminotransferase": "64 U/liter (Reference Range: 9–80 U/liter)",
+                "Alanine aminotransferase": "52 U/liter (Reference Range: 7–30 U/liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "1 Day after Presentation",
+            "findings": {
+                "Total Bilirubin": "0.3 mg/dl (Reference Range: 0–1.0 mg/dl)",
+                "Direct Bilirubin": "0.0 mg/dl (Reference Range: 0–0.4 mg/dl)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "Cell Infiltrate": "Mononuclear cells involving the upper and deep dermis",
+                "Immunohistochemistry": {
+                    "CD68": "Positive",
+                    "Lysozyme": "Positive",
+                    "CD117": "Positive",
+                    "CD34": "Positive",
+                    "CD1a": "Negative",
+                    "Mast-cell tryptase": "Negative",
+                    "Myeloperoxidase": "Negative"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence In Situ Hybridization (FISH)",
+            "date": "Not specified",
+            "findings": {
+                "11q23 Rearrangement": "Observed in 28 of 50 nuclei (exceeded normal range up to 1%)",
+                "Chromosomes 8 and 21": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "Blast Cells": "13% with monocytic differentiation",
+                "Cytogenetic Analysis": "Normal female karyotype",
+                "FISH Analysis": "No rearrangement of MLL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

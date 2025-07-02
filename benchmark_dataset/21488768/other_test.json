@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "60% occlusion of the right coronary artery, 30% occlusion of the left anterior descending artery, and mitral-valve regurgitation.",
+            "changes_over_time": "Unchanged from 2 months earlier."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Couplets, intermittent ventricular tachycardia with polymorphic waveforms, prolonged QT interval (QTc ≈ 520 msec), ST-segment elevations in leads V2 through V4.",
+            "changes_over_time": "Later ECG showed normal sinus rhythm with intraventricular conduction delay."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Day 3 of admission",
+            "findings": "Marked biventricular hypertrophy, severe mitral-valve regurgitation, biatrial enlargement, left ventricular ejection fraction of 54%, and a small posterior pericardial effusion.",
+            "changes_over_time": "No decrease in ventricular-wall thickness noted on echocardiogram 10 months after admission."
+        },
+        {
+            "procedure_name": "Endomyocardial biopsy",
+            "date": "Not specified",
+            "findings": "Moderate-to-severe myocyte hypertrophy, extensive myocyte vacuolization, and glycolipid composition identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

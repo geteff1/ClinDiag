@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Air space shadowing in the right lower zone suggestive of acute infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex Doppler ultrasound scan",
+            "date": "Not specified",
+            "findings": "Patency of the right posterior tibial and peroneal arteries from origin to proximal segment with no flow distally and normal aorta.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Abrupt arterial occlusion at the upper peroneal and distal posterior tibial arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "No abnormalities revealed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

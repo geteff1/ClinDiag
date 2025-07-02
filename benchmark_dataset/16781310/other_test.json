@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "small-bowel biopsy",
+            "date": "1 month of age",
+            "findings": "total villous atrophy",
+            "changes_over_time": "Confirmed total villous atrophy on repeat biopsy at 4 years of age."
+        },
+        {
+            "procedure_name": "small-bowel biopsy",
+            "date": "5 years of age",
+            "findings": "regrowth of the villi",
+            "changes_over_time": "Diarrhea resolved with treatment before the biopsy, normal bowel function and weight gain maintained since starting oral cyclosporine."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "5 years of age",
+            "findings": "focal spongiotic dermatitis with subcorneal vesiculo-pustule formation consistent with eczema",
+            "changes_over_time": "Transitioned to a diagnosis of bullous pemphigoid with a repeat biopsy at 7 years of age."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "7 years of age",
+            "findings": "subepidermal blister compatible with bullous pemphigoid",
+            "changes_over_time": "Intravenous immunoglobulin and dapsone were added to the treatment regimen, leading to gradual resolution of the bullae."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "14 years of age",
+            "findings": "central ulceration with fibrin deposition, adjacent pseudoepitheliomatous hyperplasia, a mixed inflammatory infiltrate, and numerous eosinophils",
+            "changes_over_time": "Lesional direct immunofluorescence demonstrated linear staining at the dermal-epidermal junction confirming pemphigoid nodularis, treated with rituximab resulting in marked improvement."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "Increased from 16 mg/dL (5.7 mmol/L) to 43 mg/dL (15.4 mmol/L)",
+            "changes_over_time": "Increased"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "1 week later",
+            "findings": "Elevated at 1.6 mg/dL (141 μmol/L), compared to 0.9 mg/dL (80 μmol/L) obtained 7 months earlier",
+            "changes_over_time": "Increased from 0.9 mg/dL to 1.6 mg/dL"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "8460 per cubic millimeter, with 88% neutrophils, 7% lymphocytes, and 4% monocytes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "23.4%, baseline 40% (8 months earlier)",
+            "changes_over_time": "Decreased from 40% to 23.4%"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL (150 μmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Dark yellow urine with a pH of 5.5, specific gravity of 1.025, heme positivity, 3+ protein, red cells too numerous to count, and 25-50 white cells per high-power field",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Protein-to-Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "5.0 (normal value <0.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Not specified",
+            "findings": "0.73% (normal range, 0.7 to 2.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron Level",
+            "date": "Not specified",
+            "findings": "28 μg/dL (normal range 70 to 175 μg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radioimmunoassay for rheumatoid factor",
+            "date": "Not specified",
+            "findings": "24 U/mL (normal range, 0 to 15)",
+            "changes_over_time": "Increased"
+        },
+        {
+            "procedure_name": "Thyrotropin Level",
+            "date": "Not specified",
+            "findings": "5.66 mU/L (normal range 0.5 to 5.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cryocrit",
+            "date": "Not specified",
+            "findings": "10% (normal result undetectable)",
+            "changes_over_time": "Decreased to trace levels after treatment"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": "Elevated beta fraction; no monoclonal gammopathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Post-treatment",
+            "findings": "Decreased to 1.0 mg/dL (88 μmol/L)",
+            "changes_over_time": "Decreased from 1.7 mg/dL to 1.0 mg/dL post-treatment"
+        }
+    ]
+}

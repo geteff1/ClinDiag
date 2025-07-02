@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Missense mutation of the MCT8 gene was detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Permanent tachycardia (104 beats/min) observed.",
+            "changes_over_time": "Tachycardia abated to 84 beats/min after treatment."
+        },
+        {
+            "procedure_name": "Indirect Calorimetry",
+            "date": "At diagnosis and 1 year later",
+            "findings": "REE increased from 881 kcal (predicted 931 kcal) at baseline to 1160 kcal after PTU and 1207 kcal on PTU plus LT4.",
+            "changes_over_time": "REE increased, but remained correlated to predicted values; no significant influence on REE from PTU or LT4 treatments."
+        }
+    ]
+}

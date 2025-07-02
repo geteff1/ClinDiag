@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC with differential",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic panel",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test (ALT and AST)",
+            "date": "Not specified",
+            "findings": "ALT was 47 IU/liter; AST was 43 U/liter.",
+            "changes_over_time": "Serum ALT and AST levels were normal on the third day."
+        },
+        {
+            "procedure_name": "Thyroid function test (TSH)",
+            "date": "Not specified",
+            "findings": "Thyrotropin (TSH) level was 0.36 µIU/ml; repeat TSH level was 0.53 µIU/ml (range=0.50–4.50). Free T4 and T3 were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urinalysis revealed gross hematuria. A repeat urinalysis showed resolution of the hematuria.",
+            "changes_over_time": "Hematuria resolved by the second hospital day."
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound and CT scan of the kidneys",
+            "date": "Not specified",
+            "findings": "Revealed a benign cyst in the right kidney and a smaller cyst in the lower pole of the left kidney.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Vitamin B12 and folate levels",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "RPR",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "QP:QS shunt ratio of 9.5% (at room air, pH 7.41, pO2 83 mm Hg, pCO2 36 mm Hg, alveolar-arterial gradient 28 mm Hg, SaO2 97%; at FiO2 100%, pH 7.43, pO2 526 mm Hg, pCO2 36 mm Hg, alveolar-arterial gradient 161 mmHg, SaO2 99.6%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-procedure arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "No residual right-to-left shunt",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

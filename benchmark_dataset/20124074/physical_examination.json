@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination revealed a mild effusion. Range of motion was painful and severely limited, with flexion to 80° and a 45° extension loss. Forearm rotation was also painful and mildly limited. No neurologic deficits were noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2006, postoperative",
+            "vital_signs": "Fibrinogen level was 0.3 g/L.",
+            "relevant_findings": "At the end of the procedure, flexion was 140° and loss of extension was 10°.",
+            "changes_over_time": "After surgery, the patient's range of motion showed improvement with post-operative flexion of 135°, loss of extension of 30° at six months follow-up."
+        },
+        {
+            "date": "6 months postoperatively",
+            "vital_signs": "Fibrinogen levels ranged from a minimum of 0.3 g/L and a peak at a maximum of 1.4 g/L during this period.",
+            "relevant_findings": "Range of motion plateaued with flexion of 135°, loss of extension of 30°, and full forearm rotation.",
+            "changes_over_time": "At one and two years follow-up, the range of motion remained unchanged compared with six months follow-up."
+        }
+    ]
+}

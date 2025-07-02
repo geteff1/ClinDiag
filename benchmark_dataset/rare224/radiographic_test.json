@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography of the head",
+            "date": "Not specified",
+            "findings": "Diffuse hypoattenuation of the subcortical white matter of the frontal, parietal, and temporal lobes as well as the thalami, midbrain, and pons regions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Consistent with leukoencephalopathy.",
+            "changes_over_time": "A repeat MRI brain demonstrated extensive non-enhancing white matter signal abnormalities. Follow-up MRI brain scans done three and nine months following his initial presentation revealed an interval decrease in abnormal signal change."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "No seizures or epileptiform patterns.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

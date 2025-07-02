@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) of the abdomen",
+            "date": "Not specified",
+            "findings": "Fat stranding and inflammation of the pancreas, features consistent with pancreatitis; normal gallbladder; no evidence of dilatation or obstruction of the biliary tree.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound examination of the abdomen",
+            "date": "Not specified",
+            "findings": "Absence of cholelithiasis, cholecystitis, ascites, or loculated fluid collections; borderline splenomegaly; pancreas poorly visualized due to bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the abdomen",
+            "date": "Not specified",
+            "findings": "Normal pancreas and pancreatic duct; normal common bile duct; no calculi; no pancreatic parenchymal necrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Cholangiopancreatography (MRCP)",
+            "date": "Not specified",
+            "findings": "Single, normal-size pancreatic duct; normal common bile duct; no evidence of pancreas divisum or annular pancreas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

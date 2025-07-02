@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "3.5 x 4.3-cm pituitary mass invading the right cavernous sinus and extending into the suprasellar region, compressing the optic chiasm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Large enhancing tumors identified in the soft tissues of the neck bilaterally, located at the bifurcation of the common carotid arteries between the proximal end of the internal and external carotids.",
+            "changes_over_time": "Five tumors with characteristics typical for PGL were detected."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Tumor masses identified in both adrenal glands with the right being larger than the left, both demonstrating high signal intensity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "[18F]Fluorodopa positron emission tomography imaging",
+            "date": "Not specified",
+            "findings": "Avid concentration of the radionuclide in each of these tumors.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

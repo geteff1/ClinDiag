@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "17 Days before Admission",
+            "findings": "Hematocrit 28.4%, Hemoglobin 9.1 g/dl, White-cell count 8300 per mm3, Neutrophils 77%, Lymphocytes 14%, Monocytes 6%, Eosinophils 3%",
+            "changes_over_time": "Hematocrit decreased from 28.4% to 27.4% on admission; Hemoglobin decreased from 9.1 g/dl to 8.7 g/dl on admission."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "16 Days before Admission",
+            "findings": "Hematocrit 27.8%, Hemoglobin 8.5 g/dl, White-cell count 8120 per mm3, Neutrophils 83%, Lymphocytes 7%, Monocytes 8%, Eosinophils 1%",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "On Admission",
+            "findings": "Hematocrit 27.4%, Hemoglobin 8.7 g/dl, White-cell count 8700 per mm3, Neutrophils 83%, Lymphocytes 7%, Monocytes 8%, Eosinophils 1%",
+            "changes_over_time": "Hematocrit decreased from 27.8% to 27.4% from the previous test on 16 days before admission."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "17 Days before Admission",
+            "findings": "Sodium 127 mmol/liter (low)",
+            "changes_over_time": "Sodium increased from 127 mmol/liter to 134 mmol/liter 16 days before admission, and then to 131 mmol/liter on admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "17 Days before Admission",
+            "findings": "Creatinine 3.52 mg/dl (high)",
+            "changes_over_time": "Creatinine decreased from 3.52 mg/dl to 2.25 mg/dl 16 days before admission, then increased to 3.43 mg/dl on admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "17 Days before Admission",
+            "findings": "Glucose 104 mg/dl (normal)",
+            "changes_over_time": "Glucose increased from 104 mg/dl to 143 mg/dl 16 days before admission, then decreased to 103 mg/dl on admission."
+        },
+        {
+            "procedure_name": "Peritoneal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "White-cell count 1240 per mm3, Differential count: Neutrophils 14%, Lymphocytes 44%, Monocytes 29%",
+            "changes_over_time": "White-cell count increased from 1240 to 1500 per mm3 on second sample."
+        },
+        {
+            "procedure_name": "Adenosine Deaminase (ADA)",
+            "date": "Not specified",
+            "findings": "ADA level 23.6 U per liter (high, reference range 0 to 7.6)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

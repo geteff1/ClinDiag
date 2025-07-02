@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "113/61 mm Hg",
+                "pulse": "53 bpm",
+                "temperature": "36.3°C",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, appeared chronically ill with bitemporal wasting.",
+                "mucous_membranes": "Dry.",
+                "lymphadenopathy": "Prominent submandibular lymphadenopathy and inguinal lymphadenopathy.",
+                "jugular_venous_pressure": "15 cm of water with C-V waves observed.",
+                "lung_examination": "Diffuse crackles at lung bases.",
+                "cardiac_findings": "Slow regular rhythm, augmented second heart sound, multiple systolic murmurs at the left lower sternum and apical region, right ventricular heave, and pulsatile liver.",
+                "edema": "3+ pitting edema in both legs, with multiple healing ulcerations on lower legs."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

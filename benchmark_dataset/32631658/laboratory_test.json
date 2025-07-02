@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leucocytes: 14,090 cells/mm³; Neutrophils: 10,470 cells/mm³; Lymphocytes: 2,560 cells/mm³; C-reactive protein (CRP) value of 5.45 mg/L.",
+            "changes_over_time": "CRP increased until POD 12 up to 11.36 mg/L."
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Test",
+            "date": "Not specified",
+            "findings": "Decreased blood pH and inversion between O2 and CO2 partial pressures.",
+            "changes_over_time": "Worsening hypoxemia noted on POD 7."
+        },
+        {
+            "procedure_name": "RT-PCR for SARS-CoV-2",
+            "date": "POD 13",
+            "findings": "Confirmed COVID-19.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "POD 8 and POD 16",
+            "findings": "POD 8 showed multiple pulmonary consolidations; POD 16 showed a sole remaining opacity in the upper third of the right lung.",
+            "changes_over_time": "Reduction of pulmonary consolidations from POD 8 to POD 16."
+        }
+    ]
+}

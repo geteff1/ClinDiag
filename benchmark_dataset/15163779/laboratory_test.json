@@ -1,0 +1,63 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "136 mmol/liter",
+                "Potassium": "4.1 mmol/liter",
+                "Chloride": "104 mmol/liter",
+                "Carbon dioxide": "16.6 mmol/liter",
+                "Blood urea nitrogen": "16 mg/dl",
+                "Creatinine": "1.7 mg/dl",
+                "Glucose": "660 mg/dl",
+                "Bilirubin": {
+                    "Direct": "0 mg/dl",
+                    "Total": "0.1 mg/dl"
+                },
+                "Aspartate aminotransferase": "69 U/liter",
+                "Creatine kinase isoenzymes": "1.2 ng/ml",
+                "Troponin T": "<0.01 ng/ml",
+                "White cells": "13,700 per mm3",
+                "Hematocrit": "33.3%",
+                "Platelets": "306,000 per mm3",
+                "Prothrombin time": "17.6 sec",
+                "Partial-thromboplastin time": "60.1 sec",
+                "International normalized ratio": "2.1",
+                "Arterial pH": "6.67",
+                "Partial pressure of arterial carbon dioxide": "105 mm Hg",
+                "Partial pressure of arterial oxygen": "32 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Homocysteine evaluation",
+            "date": "Third hospital day",
+            "findings": {
+                "Homocysteine": "14.3 µmol per liter (normal, 0 to 12)",
+                "IgG anticardiolipin antibody": "17.8 IgG phospholipid units (reference range, <15)",
+                "Functional protein C": "52% of normal (normal, 70 to 140%)",
+                "Protein C antigen": "56% of normal (normal, 70 to 140%)",
+                "Activated protein C resistance": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Not specified",
+            "findings": {
+                "Creatinine peak levels": "10.7 mg/dl (945.9 µmol per liter)"
+            },
+            "changes_over_time": "Initial levels were 1.7 mg/dl, peaked at 10.7 mg/dl during hospital stay"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Coronary care unit",
+            "findings": {
+                "Right ventricle": "Marked enlargement and hypokinesis with moderate tricuspid insufficiency",
+                "Left ventricle": "Size and function were normal"
+            },
+            "changes_over_time": "Follow-up study 10 days after initial showed improvement in right ventricular size and function"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging (CMR)",
+            "date": "48 hours after PCI",
+            "findings": "Evidence of septal mid-wall late gadolinium enhancement compatible with the septal perforation and a chronic inferior wall subendocardial infarct.",
+            "changes_over_time": "Follow-up CMR scan performed 8 weeks after PCI showed a small area of focal fibrosis in the mid septum at the site of previous intervention, which is less prominent than seen on the previous scan, likely representing infarct resorption and a reduction in associated inflammatory changes."
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging (CMR)",
+            "date": "8 weeks after PCI",
+            "findings": "A very small focus of residual fibrosis in the mid septum at the site of previous intervention; signal due to the known inferior subendocardial infarct.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Before and after PCI",
+            "findings": "The baseline and post-procedure ECGs did not show any significant differences.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stress Perfusion Scan",
+            "date": "After PCI",
+            "findings": "No inducible ischemia on the stress perfusion scan images.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

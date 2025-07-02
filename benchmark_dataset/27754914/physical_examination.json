@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "low-grade",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "left homonymous hemianopsia (L-HH)",
+                    "short stature"
+                ],
+                "other_findings": [
+                    "generalized tonic-clonic seizures"
+                ],
+                "seizure_activity": "right greater than left periodic lateralized epileptiform discharges"
+            },
+            "changes_over_time": "Developed further visual disturbance to the point of being cortically blind and new left upper extremity paresthesias."
+        },
+        {
+            "date": "6 weeks after presentation",
+            "vital_signs": {
+                "fever": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "relevant_findings": [
+                    "mild residual left homonymous hemianopsia",
+                    "mild encephalopathy",
+                    "mild optic ataxia"
+                ],
+                "imaging_results": "Repeat CT showed some improvement in low attenuation of the bilateral occipito-parietal regions."
+            },
+            "changes_over_time": "Initial cortical blindness resolved; residual visual field deficit and cognitive changes noted."
+        }
+    ]
+}

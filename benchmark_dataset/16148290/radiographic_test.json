@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse cerebral volume loss with ventricular prominence and periventricular hypodensity, an old lacunar infarct in the left caudate head, and atherosclerotic calcification of the major intracranial vessels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Three weeks before admission",
+            "findings": "Hyperintensity of the white matter and small lacunar infarcts in the right side of the thalamus, right pons, and left caudate, with normal results on magnetic resonance angiography.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "During first admission (exact date not specified)",
+            "findings": "Parenchymal tissue loss with widening of sulci and ventricles, multifocal signal abnormalities in the white matter, multifocal areas of reduced diffusion involving the basal ganglia and the cortical mantle.",
+            "changes_over_time": "During the first month, MRI showed reduced diffusion in frontal, right parietal, and temporal cortexes and in the right caudate nucleus, indicating progression."
+        }
+    ]
+}

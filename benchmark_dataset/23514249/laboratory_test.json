@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 8400 (normal range: 4500–11,000); Platelet count: 386,000 (normal range: 150,000–350,000); Differential count shows 75% Neutrophils (normal range: 40–70), 17% Lymphocytes (normal range: 22–44), 5% Monocytes (normal range: 4–11), 2% Eosinophils (normal range: 0–8), 1% Basophils (normal range: 0–3); Erythrocyte sedimentation rate: 22 mm/hr (normal range: 0–17).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase: 133 U/liter (normal range: 10–40); Alanine aminotransferase: 190 U/liter (normal range: 10–55).",
+            "changes_over_time": "Levels rose dramatically to alanine aminotransferase 3566 U/liter and aspartate aminotransferase 2022 U/liter on hospital day 16."
+        },
+        {
+            "procedure_name": "HBV Testing",
+            "date": "Not specified",
+            "findings": "HBV DNA: >380,000,000 IU/mL; HBsAg: positive; Anti-HBs: negative; HBeAg: reactive; Anti-HBe: nonreactive; HBc IgM: reactive.",
+            "changes_over_time": "By day 30, aminotransferase levels had normalized; By day 65, HBV DNA level declined to less than 60 IU."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Diffusely heterogenous liver parenchymal enhancement without ductal dilatation, duodenitis, and diffuse colonic thickening concerning pancolitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Centrilobular ground glass opacities bilaterally with mild pulmonary edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal enhancement and thickening of the pituitary infundibulum and stalk.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance cholangiopancreatography",
+            "date": "Not specified",
+            "findings": "Multifocal nodular hepatic steatosis and hepatomegaly without any focal liver abnormality; multiple indeterminate bony lesions read as non-specific focal sclerosis and cystic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

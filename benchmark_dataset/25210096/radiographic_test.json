@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Mild pulmonary edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Left Ventriculogram",
+            "date": "Not specified",
+            "findings": "Moderate systolic dysfunction and a left ventricular (LV) ejection fraction of 40% with midanterior wall and apical wall hypokinesis and inferior wall akinesis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Ejection fraction of 30% with multiple wall motion abnormalities, most notable inferiorly.",
+            "changes_over_time": "Progressive decline in ejection fraction from 30% to 15%-20%."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scan",
+            "date": "Not specified",
+            "findings": "Negative for pulmonary emboli or any arterial filling defects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Not specified",
+            "findings": "Mildly dilated LV, severe biventricular systolic dysfunction (LV ejection fraction, 20%; RV ejection fraction, 19%), diffuse myocardial edema with patchy subendocardial perfusion defects, and diffuse late gadolinium enhancement consistent with myocarditis, microvascular obstruction, or vasculitis.",
+            "changes_over_time": "Demonstrated worsening systolic dysfunction over time."
+        }
+    ]
+}

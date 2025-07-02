@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "400 erythrocytes per cubic millimeter and no leukocytes; staining for bacteria, mycobacteria, and fungi was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest tube pleural fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "93 mg per deciliter (5.2 mmol per liter)",
+                "total_protein": "4.0 g per deciliter",
+                "lactate_dehydrogenase": "901 U per liter",
+                "white_cell_count": "211 per cubic millimeter (79% polymorphonuclear cells, 12% mononuclear cells, and 9% eosinophils)",
+                "red_cell_count": "1210 red cells per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematologic laboratory tests",
+            "date": "Day of Admission to U.S.N.S. Mercy",
+            "findings": {
+                "hematocrit": "50.3%",
+                "hemoglobin": "17.3 g/dL",
+                "white_cell_count": "6300 per mm³",
+                "differential_count": {
+                    "neutrophils": "45%",
+                    "lymphocytes": "45%",
+                    "monocytes": "4%",
+                    "eosinophils": "5%",
+                    "basophils": "1%"
+                },
+                "platelet_count": "163,000 per mm³",
+                "mean_corpuscular_volume": "83.0 µm³"
+            },
+            "changes_over_time": {
+                "third_hospital_day": {
+                    "hematocrit": "25.4%",
+                    "hemoglobin": "8.8 g/dL",
+                    "white_cell_count": "8200 per mm³",
+                    "differential_count": {
+                        "neutrophils": "61%",
+                        "lymphocytes": "27%",
+                        "monocytes": "4%",
+                        "eosinophils": "7%"
+                    },
+                    "platelet_count": "382,000 per mm³"
+                }
+            }
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Large, left-sided pneumothorax with left apical cavity measuring 2.7 cm by 2.4 cm and air-space infiltrates in the lingula and right upper lobes.",
+            "changes_over_time": "A repeated chest radiograph showed a decrease in the size of the pneumothorax, with nearly full expansion of the left lung."
+        }
+    ]
+}

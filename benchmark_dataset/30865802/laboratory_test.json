@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood tests",
+            "date": "21 months before admission",
+            "findings": {
+                "Hematocrit": "43.2%",
+                "Hemoglobin": "14.0 g/dL",
+                "White-cell count": "10,410 per mm3",
+                "Neutrophils": "89.7%",
+                "Lymphocytes": "7.9%",
+                "Monocytes": "1.4%",
+                "Platelet count": "276,000 per mm3",
+                "Erythrocyte-sedimentation rate": "2 mm/hr",
+                "C-reactive protein": "1.1 mg/liter",
+                "C3": "127 mg/dL",
+                "C4": "33 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "9 days before admission",
+            "findings": {
+                "Hematocrit": "44.7%",
+                "Hemoglobin": "15.7 g/dL",
+                "White-cell count": "15,490 per mm3",
+                "Neutrophils": "88.0%",
+                "Lymphocytes": "3.8%",
+                "Monocytes": "6.8%",
+                "Platelet count": "248,000 per mm3",
+                "Erythrocyte-sedimentation rate": "2 mm/hr",
+                "C-reactive protein": "0.9 mg/liter",
+                "C3": "Not specified",
+                "C4": "Not specified"
+            },
+            "changes_over_time": "Increasing white-cell count from 10,410 to 15,490 per mm3"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Days after admission",
+            "findings": {
+                "Opening pressure": "22 cm of water",
+                "Glucose": "60 mg/dL",
+                "Total protein": "160 mg/dL",
+                "Nucleated cells": "64 per mm3 (63% neutrophils, 16% lymphocytes, 21% monocytes)"
+            },
+            "changes_over_time": "At follow-up after treatment, total protein was 83 mg/dL and nucleated cells were 3 per mm3, indicating improvement."
+        },
+        {
+            "procedure_name": "RPR test",
+            "date": "After treatment",
+            "findings": {
+                "RPR titers": {
+                    "Initial": "1:16",
+                    "Post-treatment": "1:8"
+                }
+            },
+            "changes_over_time": "Decreased RPR titer from 1:16 to 1:8 post-treatment."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": {
+                "Histology": "Confirms diagnosis of syphilis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "108/75 mm Hg, heart rate 130 bpm irregular",
+            "relevant_findings": "ECG showed new atrial fibrillation with a rapid ventricular response.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "140/60 mm Hg, heart rate 60 bpm regular",
+            "relevant_findings": "ECG showed normal sinus rhythm with a slightly prolonged QTc interval, measuring 466 msec.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "112/67 mm Hg, heart rate 64 bpm regular",
+            "relevant_findings": "Patient was well groomed, alert, oriented, and cooperative; mood was sad and dysphoric, affect was flat.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks after this presentation",
+            "vital_signs": "36.6°C, blood pressure 163/92 mm Hg, heart rate 120 bpm irregular",
+            "relevant_findings": "Patient appeared well; ECG showed atrial fibrillation with a rapid ventricular response and nonspecific ST-segment changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 days after discharge",
+            "vital_signs": "124/82 mm Hg, heart rate 69 bpm regular",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Metoprolol was discontinued because of fatigue."
+        },
+        {
+            "date": "Several days later, after aripiprazole dose increased",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient reported weakness in legs, restlessness, and difficulty breathing associated with anxiety symptoms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One month after initiation of sotalol",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient had multiple episodes of breakthrough atrial fibrillation.",
+            "changes_over_time": "Mood continued to improve, with no recurrence of depression or physical symptoms related to anxiety."
+        }
+    ]
+}

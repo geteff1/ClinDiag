@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient 1 had significant findings including short stature, mild central hypothyroidism, severe GH deficiency, and structural abnormalities on MRI revealing anterior pituitary hypoplasia and an absent pituitary stalk.",
+            "changes_over_time": "Patient 1's growth velocity improved from baseline after the initiation of growth hormone therapy."
+        },
+        {
+            "date": "At 2 months of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRI revealed a thin corpus callosum and cavum septum pellucidum. Patient 2 experienced growth and developmental delay.",
+            "changes_over_time": "By 20 months of age, MRI indicated a small anterior pituitary and an absent pituitary stalk with an ectopic posterior pituitary."
+        }
+    ]
+}

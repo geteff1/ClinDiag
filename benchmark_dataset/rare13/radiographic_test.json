@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatomegaly confirmed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal computed tomography enhanced scan",
+            "date": "Not specified",
+            "findings": "Hepatomegaly confirmed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electrocardiogram",
+            "date": "Not specified",
+            "findings": "Cardiomyopathy ruled out",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "Not specified",
+            "findings": "Cardiomyopathy ruled out",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electromyography",
+            "date": "Not specified",
+            "findings": "Myopathy excluded",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

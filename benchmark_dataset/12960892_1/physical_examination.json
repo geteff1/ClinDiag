@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "age": "64 years",
+                "cocaine_use": "10 years",
+                "increased_usage": "3 times a day for 2 years",
+                "physical_examination": {
+                    "hardpalate": "6/H110037-mm fistula",
+                    "softpalate": "intact",
+                    "posteriorpharynx": "normal",
+                    "nasal_examination": "large septal perforation, no saddle nose deformity",
+                    "speech_evaluation": "severe and consistent hypernasality with nasal air emission"
+                }
+            },
+            "changes_over_time": "Speech improved immediately after the operation and was considered normal; no fluid emission through the nose."
+        },
+        {
+            "date": "1 year follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "fistula": "No evidence of fistula",
+                "speech": "Normal"
+            },
+            "changes_over_time": "No specified changes; patient reported no more cocaine use."
+        }
+    ]
+}

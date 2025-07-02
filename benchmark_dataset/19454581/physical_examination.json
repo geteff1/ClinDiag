@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Pulsation rate 100/min; tachycardia present",
+            "relevant_findings": "Visible goiter and exophthalmia, small anterior fontanel without craniosynostosis",
+            "changes_over_time": "Goiter continued to grow, requiring thyroidectomy at the age of 10.5 years"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum FT4 (FT4 > 100 pmol/liter), Serum FT3 (FT3 > 35 pmol/liter), Serum TSH (< 0.05 mU/liter)",
+            "relevant_findings": "Undetectable TSH levels during hyperthyroid state",
+            "changes_over_time": "After treatment, serum TSH concentrations increased and reached the normal range after surgical intervention"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Levels of thyroid hormones within normal range post-treatment",
+            "relevant_findings": "Post-surgical hypothyroidism requiring L-T4 substitution",
+            "changes_over_time": "Following radioiodine therapy, TSH levels normalizing; from low (hypothyroid) back to normal range"
+        }
+    ]
+}

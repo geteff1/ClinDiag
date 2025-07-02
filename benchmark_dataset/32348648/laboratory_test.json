@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "77 mm/hr (reference range, 0 to 11)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "58 mg/L (reference value, <8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibodies",
+            "date": "Not specified",
+            "findings": "Positive at titers of 1:40 and 1:160 with a speckled pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ blood, 1+ protein, 50-100 red cells/high-power field, and 5-10 white cells/high-power field",
+            "changes_over_time": "Dysmorphic red cells and red-cell casts were revealed on examination of urine sediment"
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "22 months before presentation",
+            "findings": "Mild elevations, 33 U/L (reference range 10-55)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "67 U/L (reference range 10-40), elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ANCA Testing",
+            "date": "Not specified",
+            "findings": "PR3-ANCA titer of 31,744 units (reference value, <20)",
+            "changes_over_time": "Declined to 13,312 units after 8 days of treatment, eventually became negative over the course of 22 months"
+        }
+    ]
+}

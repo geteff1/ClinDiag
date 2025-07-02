@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "7710 per cubic millimeter",
+                "hematocrit": "41.5%",
+                "mean_corpusal_volume": "60 μm3",
+                "platelet_count": "233,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "blood_urea_nitrogen": "15 mg per deciliter (5.4 mmol per liter)",
+                "creatinine": "1.1 mg per deciliter (97 μmol per liter)",
+                "calcium": "8.8 mg per deciliter (2.2 mmol per liter)",
+                "albumin": "4.5 g per deciliter",
+                "phosphate": "3.6 mg per deciliter (1.2 mmol per liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate_amino_transferase": "53 U per liter (normal range, 7 to 52)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin D Level",
+            "date": "Not specified",
+            "findings": {
+                "25_hydroxyvitamin_d": "35 ng per milliliter (87 nmol per liter) (normal range, 25 to 80 ng per milliliter [62 to 200 nmol per liter])"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parathyroid Hormone Level",
+            "date": "Not specified",
+            "findings": {
+                "parathyroid_hormone": "56 pg per milliliter (normal range, 11 to 80)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testosterone Level",
+            "date": "Initial Measurement Not Specified; Repeat Measurement Not Specified",
+            "findings": {
+                "initial_testosterone": "1569 pg per milliliter (5440 pmol per liter) (normal range, 2220 to 6650 pg per milliliter [7697 to 23,056 pmol per liter])",
+                "repeat_testosterone": "3356 pg per milliliter (11,635 pmol per liter)"
+            },
+            "changes_over_time": "Initial testosterone level was low, repeat measurement was normal."
+        },
+        {
+            "procedure_name": "Dual-energy X-ray Absorptiometry",
+            "date": "Post-surgery",
+            "findings": {
+                "t_score_spine": "-4.4",
+                "t_score_hip": "-2.7",
+                "t_score_femoral_neck": "-3.1"
+            },
+            "changes_over_time": "No significant change in spine, femoral neck, or total hip but a 4.3% improvement in the trochanter after 10 months of bisphosphonate treatment."
+        }
+    ]
+}

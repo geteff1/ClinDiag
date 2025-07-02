@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "no acute cardiopulmonary process",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "no evidence of gallbladder disease, pancreas appeared normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "no evidence of pancreatic fat stranding; jejunal mesenteric adenopathy, normal-appearing colon and small bowel",
+            "changes_over_time": "Six months after initiation of gluten-free diet, a follow-up CT scan showed a reduction in the size of the lymph nodes."
+        },
+        {
+            "procedure_name": "CT enteroclysis",
+            "date": "Not specified",
+            "findings": "no fistulae or small-bowel masses",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

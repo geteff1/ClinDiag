@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia at a rate of 134 beats per minute.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Three hours after arrival",
+            "findings": "Restricted diffusion involving the cortex of the right temporal lobe, right occipital lobe, right superior and inferior parietal lobule, and right cingulate gyrus; fluid-attenuated inversion recovery images showed hyperintense signal and mild mass effect related to gyral swelling.",
+            "changes_over_time": "Repeat MRI performed 5 days after admission revealed improvement in the cortical swelling and FLAIR hyperintensities."
+        },
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "Not specified",
+            "findings": "Continuous generalized background slowing in the delta and theta ranges, frequent intermittent focal delta-range slowing over the right hemisphere, and frequent sharp waves in the right frontotemporal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Seven hours after arrival",
+            "findings": "Clear, colorless cerebrospinal fluid with a glucose level of 92 mg/dL, total protein level of 33 mg/dL, 5 red cells, no white cells, and no organisms from Gram staining.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

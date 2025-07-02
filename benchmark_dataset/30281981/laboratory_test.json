@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "Not specified",
+            "findings": "1.4 mmol per liter (normal value, <2.1 mmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Day 4 after admission",
+            "findings": "Hemoglobin level was 13.0 g per deciliter; white-cell count of 8900 per cubic millimeter, with 44% neutrophils, 21% bands, and 1246 (14%) eosinophils per cubic millimeter; platelet count of 133,000 per cubic millimeter.",
+            "changes_over_time": "Hemoglobin decreased from 14.4 g per deciliter to 13.0 g per deciliter. Eosinophils increased from 459 (5.1%) per cubic millimeter to 1246 (14%) per cubic millimeter."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Admission",
+            "findings": "2.02 ng per milliliter (normal value, <0.10)",
+            "changes_over_time": "Decreased to 1.32 ng per milliliter on days 2 and 3 after admission."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "1 week after discharge",
+            "findings": "<0.10 ng per milliliter",
+            "changes_over_time": "Decreased from 2.02 ng per milliliter at admission to <0.10 ng per milliliter 1 week after discharge."
+        },
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "1 week after discharge",
+            "findings": "2.64 mmol per liter",
+            "changes_over_time": "Increased from 1.4 mmol per liter at admission to 2.64 mmol per liter 1 week after discharge."
+        }
+    ]
+}

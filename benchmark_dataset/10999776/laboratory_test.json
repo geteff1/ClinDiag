@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "Estradiol was 17 pmol/L (normal range, 37–92 pmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LH",
+            "date": "Not specified",
+            "findings": "Basal serum LH was 0.44 IU/L (normal ranges, 5–12 IU/L); During GnRH stimulation at 0 minutes LH was <0.5 IU/L, at 30 minutes it was 4.7 IU/L, at 60 minutes it was 4.5 IU/L, at 90 minutes it was 3.6 IU/L, and at 120 minutes it was 2.1 IU/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FSH",
+            "date": "Not specified",
+            "findings": "FSH was 0.50 IU/L (normal range, 2–6 IU/L); During GnRH stimulation at 0 minutes FSH was 2.1 IU/L, at 30 minutes it was 4.2 IU/L, at 60 minutes it was 5.8 IU/L, at 90 minutes it was 5.6 IU/L, and at 120 minutes it was 5.3 IU/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FAS",
+            "date": "Not specified",
+            "findings": "FAS levels remained low with mean plasma levels recorded at 0.35 IU/L (Chronic estrogen treatment decreased from 0.426 IU/L; P<0.01).",
+            "changes_over_time": "With estrogen treatment, FAS release decreased in frequency (1 vs. 3) and amplitude."
+        },
+        {
+            "procedure_name": "Inhibin B",
+            "date": "Not specified",
+            "findings": "Inhibin B concentration remained below the normal values (<15 pg/mL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

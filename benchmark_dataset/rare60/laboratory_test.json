@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood count and lymphocyte subset",
+            "date": "Not specified",
+            "findings": "Specific values not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunological investigation",
+            "date": "Not specified",
+            "findings": {
+                "IgG": "2,117 mg/dl (elevated; normal range: 380–1,400 mg/dl)",
+                "IgM": "69 mg/dl (normal; normal range: 37–225 mg/dl)",
+                "IgE": "53 IU/ml (normal; normal range up to 155 IU/ml)",
+                "IgA": "19 mg/dl (low; normal range: 30–250 mg/dl)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dihydrorhodamine reduction (DHR) test",
+            "date": "Not specified",
+            "findings": "Normal oxidative burst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest x-ray",
+            "date": "Not specified",
+            "findings": "Bilateral prominent hilar lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound scan",
+            "date": "Not specified",
+            "findings": "Minimal intra-abdominal fluid and mesenteric and para-aortic lymph node adenitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR for TB infection",
+            "date": "Not specified",
+            "findings": "Confirmed TB infection using IS6110 and mtp40 primers on blood and sputum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Primary immunodeficiency genetic testing",
+            "date": "Not specified",
+            "findings": "Two pathogenic homozygous variants in IL12RB1 gene at Exon 9, c.913A>T (p. Lys305*); father's genotype showed the same pathogenic variants; mother a carrier.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

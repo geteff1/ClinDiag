@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram monitoring",
+            "date": "Not specified",
+            "findings": "Episodes of sinus bradycardia with peripheral apnea/hypopnea, suggesting vagal hypertonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polysomnography",
+            "date": "Not specified",
+            "findings": "Episodes of sinus bradycardia with peripheral apnea/hypopnea, suggesting vagal hypertonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal assessment",
+            "date": "Not specified",
+            "findings": "Isolated hypergonadotropic hypogonadism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Multiple occurrences, date not specified",
+            "findings": "Extremely pathological; showing slow, symmetrical, alternating delta and theta activity with numerous episodes of multifocal, asynchronous, abundant, and diffuse spikes and spikes-waves predominantly in the central and occipital regions.",
+            "changes_over_time": "An almost total absence of stimuli response indicative of severe epileptic encephalopathy."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Normal at birth and repeated at 5 months",
+            "findings": "Normal.",
+            "changes_over_time": "Remained normal at 5 months."
+        },
+        {
+            "procedure_name": "22 gene-panel",
+            "date": "Not specified",
+            "findings": "Revealed two likely pathogenic variants in TSPYL1 in compound heterozygous state.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of two pathogenic variants in TSPYL1.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "Did not return any additional candidate variants that could explain the epileptic phenotype.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

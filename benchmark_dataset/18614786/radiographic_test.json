@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral pulmonary infiltrates.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "On admission",
+            "findings": "Nodular areas of consolidation throughout both lungs, some with calcification. Larger opacities in the upper lobes, up to 2.6 cm by 1.7 cm by 1.9 cm; soft-tissue fullness in the mediastinum, hila, and left axilla suggesting lymphadenopathy.",
+            "changes_over_time": "One week later, CT with contrast showed mild prominence of hilar lymph nodes and large nodules with ill-defined and spiculated margins, some calcified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "5 days later",
+            "findings": "Ill-defined nodular infiltrates, predominantly in the middle- and upper-lung zones, and ill-defined hilar markings.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

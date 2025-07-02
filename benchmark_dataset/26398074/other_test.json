@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 40%",
+            "changes_over_time": "Left ventricular ejection fraction declined to 15% with severe diffuse hypokinesis, regional wall-motion abnormalities, and moderate mitral regurgitation upon later examination."
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "Generalized slowing with near-complete suppression of cerebral activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Brief-duration, low-amplitude, polyphasic motor-unit potentials.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing for Myotonic Dystrophy",
+            "date": "Not specified",
+            "findings": "Expansion of unstable CTG repeats in the DMPK gene, with 306 CTG repeats.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Severe myopathic changes with atrophy of predominantly type I fibers; features indicative of myotonic dystrophy type 1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

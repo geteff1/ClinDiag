@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Initially showed normal sinus rhythm and no abnormalities. Two years later revealed new development of negative T waves in leads II, III, aVF, V5, and V6.",
+            "changes_over_time": "New negative T waves developed after 2 years."
+        },
+        {
+            "procedure_name": "Myocardial perfusion imaging (SPECT)",
+            "date": "Not specified (initial evaluation 2 years ago; repeat performed 2 years later)",
+            "findings": "Initial SPECT showed normal perfusion at stress and rest. Repeat SPECT revealed a large irreversible defect in the inferolateral wall, with partial reversibility in the inferior wall.",
+            "changes_over_time": "Transition from normal perfusion to a large irreversible defect over 2 years."
+        },
+        {
+            "procedure_name": "Resting echocardiography",
+            "date": "Not specified",
+            "findings": "Showed hypokinesia in the inferolateral regions with moderate (grade 2) mitral regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced MRI",
+            "date": "Not specified",
+            "findings": "Revealed subendocardial infarction in the inferolateral wall.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium scoring",
+            "date": "Not specified",
+            "findings": "Total coronary calcium score 0; no calcified plaques observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Revealed a proximal occlusion of the right coronary artery with retrograde filling from the left anterior descending coronary artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

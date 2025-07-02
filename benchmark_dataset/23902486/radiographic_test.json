@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Moderate centrilobular emphysema but no residual thymic tissue, masses, or lymphadenopathy.",
+            "changes_over_time": "Reduction in the size of the precarinal and right hilar lymph nodes."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal, nonenhancing, bright signal along both hippocampi on T2-weighted images.",
+            "changes_over_time": "Persistent changes consistent with limbic encephalitis but no signs of metastasis."
+        },
+        {
+            "procedure_name": "Whole-body PET–CT",
+            "date": "Not specified",
+            "findings": "Right precarinal lymph node, 1.9 cm in diameter, and right hilar lymph node, 1 cm in diameter, with hypermetabolic activity noted.",
+            "changes_over_time": "A focus of hypermetabolic activity in the medial left temporal lobe of the brain."
+        }
+    ]
+}

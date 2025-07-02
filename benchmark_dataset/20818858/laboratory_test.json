@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "pH: 6.83 (reference range: 7.35 to 7.45), partial pressure of oxygen: 156 mm Hg, partial pressure of carbon dioxide: 43 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Test",
+            "date": "Not specified",
+            "findings": "Antinuclear-antibody titer: 1:640; testing for antibodies to double-stranded DNA, Jo-1, La, Ro, Sm, Scl-70, and RNP was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": "85% stenosis of the proximal right coronary artery and 70% stenosis in the middle segment.",
+            "changes_over_time": "The patient had increasing symptoms which led to the exam."
+        },
+        {
+            "procedure_name": "Cytologic Examination of Pleural Fluid",
+            "date": "Not specified",
+            "findings": "Cytologic examination revealed inflammatory cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Stress Test",
+            "date": "At 38 years of age",
+            "findings": "Normal results.",
+            "changes_over_time": "Two cardiac stress tests conducted after at 55 years of age were nondiagnostic."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Between 46 and 55 years of age",
+            "findings": "Thickening of aortic valve leaflets with mild insufficiency.",
+            "changes_over_time": "Progressive thickening and calcification were noted over the years."
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "When patient was 51 years of age",
+            "findings": "Forced expiratory volume in 1 second: 36% of predicted; vital capacity: 48%; total lung capacity: 64%; carbon monoxide diffusing capacity: 67%.",
+            "changes_over_time": "A gradual decrease in lung function was noted over time."
+        }
+    ]
+}

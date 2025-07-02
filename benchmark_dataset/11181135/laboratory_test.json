@@ -1,0 +1,68 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "13.7 g/dL",
+                "WBC_count": "8.5 cells/mm3",
+                "platelets": "185 cells/mm3",
+                "erythrocyte_sedimentation_rate": "45 mm/h"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": {
+                "result": "Positive for Nocardia asteroides"
+            },
+            "changes_over_time": "Cultures of blood samples were repeated after initiation of antibiotic therapy and yielded negative results."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": {
+                "transthoracic": {
+                    "description": "Echodense aortic valve with a definite echodense lesion",
+                    "size": "0.9 cm x 0.9 cm",
+                    "jet_of_regurgitation": "Visible on Doppler sonography"
+                },
+                "transesophageal": {
+                    "description": "Perforated left coronary cusp and an aortic root abscess"
+                }
+            },
+            "changes_over_time": "Transesophageal echocardiography was repeated and revealed further complications."
+        },
+        {
+            "procedure_name": "Cultures of valve specimens",
+            "date": "Seventeen days after initiation of antibiotic therapy",
+            "findings": {
+                "result": "Positive for Nocardia asteroides"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MICs for key antibiotics",
+            "date": "Not specified",
+            "findings": {
+                "cefotaxime": {
+                    "original_isolate": "0.5 mg/mL",
+                    "valve_tissue": "1.0 mg/mL"
+                },
+                "amikacin": {
+                    "original_isolate": "0.5 mg/mL",
+                    "valve_tissue": "0.5 mg/mL"
+                },
+                "TMP-SMZ": {
+                    "original_isolate": "8 mg/mL",
+                    "valve_tissue": "0.032 mg/mL"
+                },
+                "imipenem": {
+                    "valve_tissue": "0.064 mg/mL"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

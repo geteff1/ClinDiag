@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "HIV antibody test",
+            "date": "Not specified",
+            "findings": "Positive HIV antibody.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CD4 count",
+            "date": "Not specified",
+            "findings": "CD4 count 100 cells/mm3 (11%).",
+            "changes_over_time": "Achieved CD4 counts in excess of 600 cells/mm3 on HAART."
+        },
+        {
+            "procedure_name": "Viral load test",
+            "date": "Not specified",
+            "findings": "Viral load 59,974 copies/mL.",
+            "changes_over_time": "Achieved virological suppression (viral load <50 RNA copies/ml) on HAART."
+        },
+        {
+            "procedure_name": "Duplex Doppler ultrasound scan",
+            "date": "Not specified",
+            "findings": "Patency of the right posterior tibial and peroneal arteries from origin to proximal segment; no flow distally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Abrupt arterial occlusion at the upper peroneal and distal posterior tibial arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour ECG monitoring",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

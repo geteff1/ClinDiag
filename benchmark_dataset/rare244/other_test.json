@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Initial ultrasound",
+            "date": "Not specified",
+            "findings": "Thickened NT of 3.4 mm, absence of nasal bones, poor ossifications in the cranium and vertebrae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up ultrasound",
+            "date": "Not specified",
+            "findings": "Mild improvement in cranium ossification with hypo-mineralization, persistent lack of nasal bones, poorly ossified vertebrae, femur and humerus length below the tenth percentile, and bowing of the tibia and fibula.",
+            "changes_over_time": "Improved cranium ossification; nasal bones remained unidentifiable."
+        },
+        {
+            "procedure_name": "Fetal echocardiography",
+            "date": "Not specified",
+            "findings": "Negative findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amniocentesis and Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Identification of a frame shift deletion in RUNX2 on chromosome 6p21.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

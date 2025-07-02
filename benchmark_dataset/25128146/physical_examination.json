@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lesions": "Multiple tender subcutaneous nodules of the left hallux with background violaceous discoloration and edema limited to the toe.",
+                "pulses": "Intact pulses in the feet.",
+                "sensation": "Intact sensation in the feet."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "lesions": "Pruritic, erythematous, confluent, maculopapular skin lesions located on the trunk, inframammary fold, groin, and genital and perianal areas.",
+                "biopsy": "Histology revealed a mononuclear cell infiltrate consistent with LCH."
+            },
+            "changes_over_time": "Worsening of disease with severe new flare of multiple papulonodular lesions requiring new treatment."
+        }
+    ]
+}

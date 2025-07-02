@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/90 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Stable vital signs except for elevated blood pressure. Evidence of Stanford type B thoracic aortic dissection indicated by echocardiography.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Postoperative (1 day later)",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Postoperative CT angiography showed the distal part of the endograft located in the false lumen. Mild back pain reported.",
+            "changes_over_time": "Back pain disappeared the day after the procedure."
+        },
+        {
+            "date": "1 week postprocedure",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Aortic CT angiography showed good positioning of the stent graft, bare stents, and coils with normal blood flow to the aorta.",
+            "changes_over_time": "False lumen vanished."
+        },
+        {
+            "date": "18 months postprocedure",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Complete disappearance of the false lumen without clinical or surgical complications.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

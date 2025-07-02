@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "150 mU/liter",
+                "Total T4": "48 nmol/liter",
+                "Serum TG": "12.3 pmol/liter",
+                "Anti-TG antibodies": "Negative",
+                "Anti-TPO antibodies": "Negative"
+            },
+            "relevant_findings": {
+                "thyroid_gland": {
+                    "location": "Normally located",
+                    "size": "Hypoplastic",
+                    "volume": "Between 1.1 - 1.7 ml (normal, 3 - 5 ml)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 31 years (mother)",
+            "vital_signs": {
+                "TSH": "14.8 mU/liter",
+                "Free T4": "6.4 pmol/liter",
+                "Anti-TPO antibodies": "Positive (201 U/ml)"
+            },
+            "relevant_findings": {
+                "thyroid_condition": "Mild autoimmune hypothyroidism",
+                "ultrasonography": {
+                    "findings": "Normal location and size of the gland with discrete irregularities"
+                }
+            },
+            "changes_over_time": "Initially euthyroid, then developed mild hypothyroidism at age 31"
+        }
+    ]
+}

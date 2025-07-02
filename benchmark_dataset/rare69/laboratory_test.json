@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood lactate",
+            "date": "Not specified",
+            "findings": "Blood lactic acid was 24.8mM. During the 13-day hospital stay, blood lactate levels were consistently elevated.",
+            "changes_over_time": "Consistently elevated during the hospital stay."
+        },
+        {
+            "procedure_name": "Blood ammonia",
+            "date": "Not specified",
+            "findings": "Blood ammonia was 294.4mM.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood bilirubin",
+            "date": "Not specified",
+            "findings": "Blood bilirubin increased progressively with a peak of 269.8µM.",
+            "changes_over_time": "Progressively increased."
+        },
+        {
+            "procedure_name": "Blood creatine kinase",
+            "date": "Not specified",
+            "findings": "Creatine kinase at 973U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood creatine kinase-MB",
+            "date": "Not specified",
+            "findings": "Creatine kinase-MB at 145U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "Lactate dehydrogenase at 769U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood α-hydroxybutyrate dehydrogenase",
+            "date": "Not specified",
+            "findings": "α-hydroxybutyrate dehydrogenase at 581U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "3-beta-hydroxybutyrate",
+            "date": "Not specified",
+            "findings": "3-beta-hydroxybutyrate was 0.37mM.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine organic acids determination",
+            "date": "Not specified",
+            "findings": "Urinary lactic acid (7262nmol/mg creatinine), 2-hydroxybutyric acid (310.9nmol/mg creatinine), pyruvate (1416.8nmol/mg creatinine), 3-hydroxybutyric acid (1725.3nmol/mg creatinine), and 4-hydroxyphenyllactic acid (979.6nmol/mg creatinine) were severely increased.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Inherited metabolic disease determination",
+            "date": "Not specified",
+            "findings": "Significant increase in blood citrulline (109.4mM) and mild elevations of tyrosine (223.4mM) and alanine (408.5mM).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Metabolic acidosis with pH of 7.24 and HCO3 - of 5.2mM.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

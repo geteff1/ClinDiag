@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "155/97 mm Hg",
+                "pulse_rate": "70 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "35.5 °C (95.8 °F)"
+            },
+            "relevant_findings": {
+                "general_condition": "appeared generally well but somewhat uncomfortable",
+                "heart_exam": "regular rate and rhythm without murmurs, rubs, or gallops",
+                "lung_exam": "clear breath sounds bilaterally, no respiratory distress",
+                "abdominal_exam": "normal bowel sounds; no tenderness, guarding, or rebound; no organomegaly",
+                "skin_exam": "no rash or hypoesthesia",
+                "neurologic_exam": "nonfocal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "8 hours later",
+            "vital_signs": {
+                "blood_pressure": "102/48 mm Hg",
+                "creatinine_kinase_peak": "814 U/L",
+                "troponin_I_peak": "15 ng/mL"
+            },
+            "relevant_findings": {
+                "cardiac_exam": "normal coronary arteries on cardiac catheterization",
+                "ECG": "demonstrated partial resolution of ST-segment elevations"
+            },
+            "changes_over_time": "Blood pressure decreased from 155/97 mm Hg to 102/48 mm Hg and ST-segment elevations showed partial resolution"
+        },
+        {
+            "date": "2 days after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "MRI_findings": "subendocardial resting perfusion defect and a small region of delayed hypoenhancement along the inferior wall, indicative of myocardial infarction"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "6 months later",
+            "vital_signs": {
+                "blood_pressure": "110/80 mm Hg"
+            },
+            "relevant_findings": "denied any further episodes of chest pain, shortness of breath, or exercise limitation",
+            "changes_over_time": "Symptoms resolved since the initiation of treatment; no episodes of chest pain recorded"
+        }
+    ]
+}

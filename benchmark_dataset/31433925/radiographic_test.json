@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening and trace perihepatic fluid, no evidence of pneumo-peritoneum or of a radiopaque foreign body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lateral image of the right elbow",
+            "date": "Not specified",
+            "findings": "Posterior dislocation of the elbow with impaction of the olecranon process of the ulna into the distal humerus outside the olecranon fossa.",
+            "changes_over_time": "Subsequent images confirmed normal alignment after closed reduction and splinting."
+        },
+        {
+            "procedure_name": "Anteroposterior image of the right elbow",
+            "date": "Not specified",
+            "findings": "Dislocation of the elbow with malalignment of the ulnotrochlear and radiocapitellar joints.",
+            "changes_over_time": "Subsequent images confirmed normal alignment after closed reduction and splinting."
+        },
+        {
+            "procedure_name": "Lateral image of the left elbow",
+            "date": "Not specified",
+            "findings": "Posterior dislocation of the left elbow with a fragment from a displaced fracture of the trochlea.",
+            "changes_over_time": "Initial findings showed dislocation, later reduced and casted."
+        },
+        {
+            "procedure_name": "Lateral image of the left elbow after closed reduction",
+            "date": "Not specified",
+            "findings": "Normal alignment with the presence of a cast.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

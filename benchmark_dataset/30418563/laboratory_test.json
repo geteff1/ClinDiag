@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcium, Phosphate, and PTH Levels",
+            "date": "Not specified",
+            "findings": "At age 4: Calcium 7.6 mg/dL (hypocalcemia), Phosphate 7 mg/dL (elevated), Creatinine 77 mmol/L (mild increase), PTH 997 pg/mL (markedly elevated). At age 7: PTH 458 pg/mL (high), Calcium 7.9 mg/dL (hypocalcemia), Phosphate 9.2 mg/dL (hyperphosphatemia). At 4 months after kidney transplantation: PTH 23 pg/mL, normal Calcium and Phosphate levels.",
+            "changes_over_time": "PTH levels decreased from 458 pg/mL at age 7 to 23 pg/mL 4 months after transplantation. Calcium and Phosphate levels normalized post-transplantation."
+        },
+        {
+            "procedure_name": "TSH and Free T4 Levels",
+            "date": "Not specified",
+            "findings": "At age 4: TSH 5.66 mU/mL (increased), Free T4 at lower limit of normal. At age 7: TSH 4.40 mIU/mL (despite levothyroxine treatment).",
+            "changes_over_time": "TSH remained at the upper limit of the normal range over time."
+        }
+    ]
+}

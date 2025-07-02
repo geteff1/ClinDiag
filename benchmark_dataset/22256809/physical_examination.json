@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "119/56 mm Hg",
+                "pulse": "58 bpm",
+                "temperature": "35.6 °C",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "93% on 3L oxygen"
+            },
+            "relevant_findings": {
+                "lung": "Fine inspiratory crackles bilaterally",
+                "breast": "Well-healed scars at right chest wall and breast; no erythema, tenderness, fluctuance, or crepitance"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "The day before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Dyspnea worsened",
+            "changes_over_time": "Progressive respiratory failure noted"
+        },
+        {
+            "date": "During the hospital stay",
+            "vital_signs": {
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "87%"
+            },
+            "relevant_findings": {
+                "lung": "Diffuse crackles on auscultation",
+                "sputum": "Thick, bloody sputum"
+            },
+            "changes_over_time": "Worsening dyspnea and oxygenation issues"
+        }
+    ]
+}

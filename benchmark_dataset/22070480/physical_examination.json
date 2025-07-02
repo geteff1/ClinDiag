@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/84 mm Hg",
+                "pulse": "64 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Normal general physical examination, decreased hearing bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "188/96 mm Hg",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Non-invasive carotid testing revealed bilateral minimal stenosis (1 to 19%) of the internal carotid arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/90 mm Hg",
+                "pulse": "84 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Decreased hearing bilaterally and 1+ ankle reflexes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/60 mm Hg",
+                "pulse": "64 bpm, occasionally irregular",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Results of the examination were unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Witnessed two paroxysmal episodes of speech arrest lasting 10-15 seconds, accompanied by subtle twitching on the right side of the face and transient emotional outbursts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

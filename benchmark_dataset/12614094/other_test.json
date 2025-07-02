@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Geriatric Depression Scale",
+            "date": "Not specified",
+            "findings": "Score of 5 out of 15, indicating depressive symptoms.",
+            "changes_over_time": "At the 6-week follow-up, the Geriatric Depression Scale score improved to 3 out of 15."
+        },
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE)",
+            "date": "Not specified",
+            "findings": "Initial MMSE score showed cognitive impairments with specific difficulties in delayed recall and reversals.",
+            "changes_over_time": "At the 6-week follow-up, the MMSE score improved to 26 out of 30 with fewer errors."
+        },
+        {
+            "procedure_name": "Clock Drawing Test",
+            "date": "Not specified",
+            "findings": "Clock drawing was performed with slight malposition of hour hand, requiring more effort than expected.",
+            "changes_over_time": "At the 6-week follow-up, the patient made no errors in clock drawing."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Mild atrophy consistent with age, periventricular white-matter hyperintensities, and one lacuna in the centrum semiovale.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

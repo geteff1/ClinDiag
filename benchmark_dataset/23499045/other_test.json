@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Gastric lavage",
+            "date": "Not specified",
+            "findings": "No evidence of upper gastrointestinal bleeding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "Haematocrit concentration reduction from 25% to 20%, and haemoglobin of 69 g/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sonography of the abdomen",
+            "date": "Not specified",
+            "findings": "A large amount of free abdominal fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided paracentesis",
+            "date": "Not specified",
+            "findings": "Confirmed a diagnosis of haemoperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast echocardiography",
+            "date": "Not specified",
+            "findings": "Confirmed the absence of pulmonary fistula.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal hematocrit (39.9%), white cells (7,100/mm³), neutrophils (59%), and platelets (229,000/mm³). Hemoglobin was 10.7 g/dl.",
+            "changes_over_time": "Hematocrit decreased from 39.9% to 33.1% and 33.3% leading up to admission."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Initially revealed turbid urine with 6 to 8 white cells per high-power field.",
+            "changes_over_time": "Follow-up urinalysis showed 2 to 4 white cells per high-power field."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Five days before admission",
+            "findings": "Electrolyte levels and liver-function tests were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Tests for Leptospira, Salmonella typhi, Toxoplasma, HIV, Hepatitis B, and Hepatitis C",
+            "date": "Five days before admission",
+            "findings": "All negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Showed chronic lymphocytic inflammation with no granulomas. Warthin–Starry stain revealed extracellular bacilli.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing for Bartonella",
+            "date": "After admission",
+            "findings": "IgG titers to B. henselae and B. quintana exceeded 1:1024; IgM titers for both were less than 1:20.",
+            "changes_over_time": "Follow-up two months later showed continued IgG positivity and a B. henselae IgM titer of 1:80."
+        }
+    ]
+}

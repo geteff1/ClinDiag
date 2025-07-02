@@ -1,0 +1,71 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": {
+                "initial": {
+                    "pH": 7.43,
+                    "PaO2": "210 mmHg",
+                    "PaCO2": "36.9 mmHg",
+                    "lactate": "1.45 mM",
+                    "HCO3": "25.1 mM",
+                    "base excess": "1.6 mM",
+                    "glucose": "113 mg/dl",
+                    "hemoglobin": "13.0 g/dl"
+                },
+                "subsequent": [
+                    {
+                        "pH": 7.28,
+                        "PaO2": "177 mmHg",
+                        "PaCO2": "43.5 mmHg",
+                        "lactate": "6.99 mM",
+                        "HCO3": "20.8 mM",
+                        "base excess": "-5.1 mM",
+                        "glucose": "136 mg/dl",
+                        "hemoglobin": "12.1 g/dl"
+                    },
+                    {
+                        "pH": 7.26,
+                        "PaO2": "155 mmHg",
+                        "PaCO2": "41.9 mmHg",
+                        "lactate": "8.2 mM",
+                        "HCO3": "19.1 mM",
+                        "base excess": "-6.9 mM",
+                        "glucose": "125 mg/dl",
+                        "hemoglobin": "10.7 g/dl"
+                    },
+                    {
+                        "pH": 7.28,
+                        "PaO2": "162 mmHg",
+                        "PaCO2": "39.6 mmHg",
+                        "lactate": "8.57 mM",
+                        "HCO3": "18.9 mM",
+                        "base excess": "-6.7 mM",
+                        "glucose": "129 mg/dl",
+                        "hemoglobin": "10.7 g/dl"
+                    }
+                ]
+            },
+            "changes_over_time": "Progressive metabolic acidosis observed over several hours despite fluid administration."
+        },
+        {
+            "procedure_name": "Erythrocyte catalase activity measurement",
+            "date": "Not specified",
+            "findings": {
+                "catalase_activity": "28 U/g hemoglobin",
+                "normal_range": "129,000 – 177,000 U/g hemoglobin"
+            },
+            "changes_over_time": "Significantly decreased catalase activity indicating acatalasemia."
+        },
+        {
+            "procedure_name": "Methemoglobin concentration measurement",
+            "date": "Not specified",
+            "findings": {
+                "initial_methemoglobin": "11%",
+                "postoperative_day_3_methemoglobin": "0.5%"
+            },
+            "changes_over_time": "Initial increase in methemoglobin concentration decreased to normal by postoperative day 3."
+        }
+    ]
+}

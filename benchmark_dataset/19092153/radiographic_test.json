@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "2001",
+            "findings": "A para-aortic mass was discovered and confirmed as a solid, encapsulated, red-brown tumor, 3.5 by 3.5 cm.",
+            "changes_over_time": "The tumor, which was histologically similar to the previous one, recurred in 2003 and was completely resected during a second operation."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "2001",
+            "findings": "Confirmed the presence of the para-aortic mass discovered on the CT.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "2004",
+            "findings": "Repeated CT did not detect tumor recurrence.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "131I-metaiodobenzylguanidine scintigraphy",
+            "date": "2004",
+            "findings": "Substantiated suspicion of tumor recurrence.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

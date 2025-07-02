@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with a rapid ventricular response.",
+            "changes_over_time": "Nonspecific ST-segment changes noted during an admission for near syncope."
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "18 months before presentation",
+            "findings": "Left atrial and left ventricular dilatation, low-normal left ventricular ejection fraction, mild left ventricular hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Average heart rate of 65 beats per minute, maximum heart rate of 84 beats per minute, no episodes of atrial fibrillation detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrograms (from pacemaker interrogation)",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation correlated with symptoms reported by the patient.",
+            "changes_over_time": "Indicated a close temporal correlation between reported episodes of anxiety and atrial fibrillation."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Consistent with complete remission, with no evidence of recurrent leukemia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided Lung Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed hyphae with septations, consistent with invasive aspergillus infection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopic Examination",
+            "date": "Not specified",
+            "findings": "Thin, foamy secretions in the left and right bronchi, with mild, diffuse airway erythema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Immunofluorescence Assay",
+            "date": "Not specified",
+            "findings": "Positive for adenovirus antigen",
+            "changes_over_time": "Positive results received late on the first hospital day"
+        },
+        {
+            "procedure_name": "PCR Testing for Adenovirus",
+            "date": "Approximately 24 hours after antigen tests",
+            "findings": "Viral load of 450,000 adenovirus DNA copies per milliliter",
+            "changes_over_time": "After treatment with cidofovir, subsequent levels showed a reduction to less than 190 copies per milliliter"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C",
+                "pulse": "110 bpm",
+                "respiratory_rate": "26",
+                "blood_pressure": "135/80 mm Hg"
+            },
+            "relevant_findings": {
+                "general_appearance": "Well but fatigued",
+                "skin": "Raised, erythematous, tender lesions on the eyelids, face, chest, and abdomen with areas of central clearing",
+                "lymphadenopathy": "None",
+                "chest": "Clear lungs, tenderness of the chest wall over a round area about 5 cm to the right of the upper sternum",
+                "abdominal": "Mild tenderness in the right lower quadrant",
+                "sacroiliac": "Marked tenderness over the right sacroiliac region",
+                "neurological": "No abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

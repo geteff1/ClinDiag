@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Argininosuccinate synthetase activity was extremely low (3.6% of control).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Bilateral diffuse slowing of the delta range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "diffusion-weighted MRI (DWI)",
+            "date": "Not specified",
+            "findings": "Hyperintense signal of the basal ganglia, hippocampus, and cerebral cortex bilaterally.",
+            "changes_over_time": "Hyperintense signal was noted, more than on fluid-attenuated inversion recovery and T2-weighted sequences."
+        }
+    ]
+}

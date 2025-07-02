@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "splenomegaly with prominent mesenteric vasculature, stranding of mesenteric fat, a small amount of ascites, and gallstones without evidence of cholecystitis or pancreatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonogram of the abdomen",
+            "date": "Not specified",
+            "findings": "diffusely echogenic liver, consistent with mild fatty infiltration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Approximately 3 months before admission",
+            "findings": "mild hepatosplenomegaly and minimal ascites, diffuse fatty infiltration of the liver, and calcified gallstones with no evidence of cholecystitis.",
+            "changes_over_time": "Suspicion of celiac-axis stenosis."
+        },
+        {
+            "procedure_name": "FAST (Focused Assessment with Sonography for Trauma)",
+            "date": "Not specified",
+            "findings": "large amount of intraperitoneal fluid.",
+            "changes_over_time": "Fluid likely represented blood as compared to previous examinations showing minimal ascites."
+        },
+        {
+            "procedure_name": "Abdominal aortogram",
+            "date": "Not specified",
+            "findings": "high-grade stenosis of the celiac axis, with retrograde filling of the common hepatic and splenic arteries through the pancreaticoduodenal arcade.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Selective superior mesenteric arteriogram",
+            "date": "Not specified",
+            "findings": "enlarged anterior and posterior inferior pancreaticoduodenal arteries with aneurysms.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

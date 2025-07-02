@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5 °C",
+                "pulse_rate": "185 bpm",
+                "respiratory_rate": "35 breaths/min",
+                "SpO2": "96%",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "initial_examination": "Well-appearing, afebrile infant. No murmurs, retractions, irregular breathing, or adventitial lung sounds.",
+                "chest_radiograph": "Right upper lobe infiltrate consistent with pneumonia."
+            },
+            "changes_over_time": "The patient became lethargic and had a witnessed apneic episode with SpO2 decreasing to 80% on room air, improved with tactile stimulation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse_rate": ">200 bpm",
+                "respiratory_rate": "45 to 55 breaths/min",
+                "SpO2": "Decreased to 65% during intubation attempt.",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "gastric_distention": "Taut abdomen noted due to gastric insufflation."
+            },
+            "changes_over_time": "After placement of supraglottic airway, SpO2 improved to 100% post-gastric decompression."
+        }
+    ]
+}

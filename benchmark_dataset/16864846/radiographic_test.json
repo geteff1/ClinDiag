@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cranial CT",
+            "date": "Not specified",
+            "findings": "Hypointense region in the left basal ganglia suggestive of an ischemic stroke.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of an acute infarct in the left caudate head, internal capsule, and putamen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRA",
+            "date": "Not specified",
+            "findings": "Absent basilar artery with vertebral arteries terminating in the posterior inferior cerebellar arteries; occlusion of the first segment of the left middle cerebral artery; stenoses at the origins of the brachiocephalic, anterior cerebral, and middle cerebral arteries; extreme tortuosity of the carotid and vertebral arteries.",
+            "changes_over_time": "Confirmed by arteriogram."
+        },
+        {
+            "procedure_name": "Pelvic MRI",
+            "date": "Not specified",
+            "findings": "3-cm soft tissue mass inferior to the right ischial tuberosity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Occlusion of the horizontal portion of the right middle cerebral artery; right anterior cerebral artery intact.",
+            "changes_over_time": "Thrombus formation during the procedure."
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI",
+            "date": "Not specified",
+            "findings": "Hyperintense lesions in the right MCA and ACA territories.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "81 kg",
+                "body_mass_index": "28.36 kg/m2"
+            },
+            "relevant_findings": {
+                "breast_development": "Tanner V",
+                "genital_development": "Tanner V",
+                "ultrasound_findings": {
+                    "uterus": "Normal",
+                    "right_ovary": {
+                        "size": "12 mm",
+                        "volume": "1.28 ml"
+                    },
+                    "left_ovary": {
+                        "size": "18 mm",
+                        "volume": "2.21 ml"
+                    },
+                    "antral_follicle_count": 0
+                },
+                "AMH_level": "0.20 ng/ml"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Cycle 1 Day 1 (ED1)",
+            "vital_signs": {
+                "AMH_level": "0.20 ng/ml",
+                "AFC": 0
+            },
+            "relevant_findings": {
+                "follicular_development": "Minimal response observed",
+                "weights": {
+                    "weight": "81 kg",
+                    "BMI": "28.36 kg/m2"
+                }
+            },
+            "changes_over_time": "AMH increased from 0.20 ng/ml to 1.26 ng/ml throughout cycles"
+        },
+        {
+            "date": "Cycle 1 Day 35 (ED35)",
+            "vital_signs": {
+                "AMH_level": "0.77 ng/ml",
+                "AFC": 2
+            },
+            "relevant_findings": {
+                "follicular_measures": "Observed four follicles measuring 10, 10, 11, and 12 mm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Cycle 2 Day 68 (ED68)",
+            "vital_signs": {
+                "AMH_level": "0.51 ng/ml",
+                "AFC": 2
+            },
+            "relevant_findings": {
+                "hMG_dose": "Increased to 112.5 IU"
+            },
+            "changes_over_time": "AMH increased to 1.02 ng/ml after treatment, peaking at 1.26 ng/ml"
+        },
+        {
+            "date": "Cycle 3 Day 129 (ED129)",
+            "vital_signs": {
+                "AFC": 6
+            },
+            "relevant_findings": {
+                "follicular_development": "Three follicles measuring 11, 12, and 15 mm observed"
+            },
+            "changes_over_time": "Successful conception was achieved by the end of this cycle."
+        }
+    ]
+}

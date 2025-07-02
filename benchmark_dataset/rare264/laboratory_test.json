@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Initial CK levels were 26,372 IU/L; subsequent levels showed a decrease from 28,457 IU/L to 21,671 IU/L.",
+            "changes_over_time": "CK levels persisted above 20,000 IU/L despite cessation of sports."
+        },
+        {
+            "procedure_name": "Muscle Biopsy",
+            "date": "Not specified",
+            "findings": "Muscle biopsy from the right quadriceps showed necrosis, endomysial and perivascular lymphocytic infiltrates, with no fibrosis or fatty infiltration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electromyography (EMG) and Nerve Conduction Studies",
+            "date": "Not specified",
+            "findings": "Initially normal; later revealed a myopathic pattern.",
+            "changes_over_time": "Initial tests were normal; a new EMG showed a myopathic pattern."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "125/71 mm Hg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "lung_examination": "Crackles in the left lower lung field",
+                "other_findings": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "135/60 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "heart_sounds": "Regular, with a systolic murmur (2/6) at the right upper sternal border",
+                "edema": "Leg edema",
+                "urinalysis": "3+ blood and 2+ protein",
+                "microscopic_findings": "10 to 20 red cells per high-power field, including acanthocytes",
+                "ultrasonography": "Echogenic kidneys, no evidence of hydronephrosis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "140/70 mm Hg",
+                "respiratory_rate": "54 breaths per minute",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "oral_ulcerations": "Numerous shallow ulcerations on the tongue and lips",
+                "lung_examination": "Diffuse wheezing with inspiratory crackles",
+                "edema": "Marked edema in the legs"
+            },
+            "changes_over_time": "The patient appeared ill and in respiratory distress compared to previous examinations."
+        }
+    ]
+}

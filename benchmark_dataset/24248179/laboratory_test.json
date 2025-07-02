@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "TSH level": "275 mU/L (normal range: 1.5–4.5 mU/L)",
+                "T4 level": "0.45 µg/dL (normal range: 4.5–12.5 µg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "7 years of age",
+            "findings": "Indicated heterogeneous structures with cystic malformations and hypoplastic thyroid gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid scintigraphy",
+            "date": "12 years of age",
+            "findings": {
+                "uptake": "No uptake detected",
+                "TSH level": "218 mU/L (normal range: 1.5–4.5 mU/L)",
+                "T4 level": "1.93 µg/dL (normal range: 5.1–14.1 µg/dL)",
+                "fT4 level": "0.23 ng/dL (normal range: 0.93–1.7 ng/dL)"
+            },
+            "changes_over_time": "Structural integrity was affected by the age of 7 years; no iodine accumulation occurred observed by age 12."
+        }
+    ]
+}

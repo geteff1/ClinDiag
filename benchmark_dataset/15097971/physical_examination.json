@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7 °F (oral)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin": "Erythematous pseudovesicular papules and arcuate plaques in photodistributed areas of the upper aspect of her back, shoulders, back of her forearms, knees, upper aspect of thighs, and malar cheeks. 1- to 4-mm petechial papules of the legs.",
+                "cardiac": "Grade 3 systolic ejection murmur at the ventricular apex."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "January 2002",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "nodular_lesions": "Numerous nodular lesions present on arms and thighs, some isolated on breast and back. Physical examination otherwise unremarkable."
+            },
+            "changes_over_time": "Nodules persisted, new ones appeared, and deep atrophic scars developed on them."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "TSH: 2.61 mIU/L, FT4: 9.52 pmol/L",
+            "relevant_findings": "Patient is overweight (BMI: 20.4 kg/m²) and has normal stature (122 cm; -0.58 standard deviation). Hormonal tests reveal mild hypothyroidism (FT4 below normal range). No symptoms of hypothyroidism presented. Normal TSH response to TRH.",
+            "changes_over_time": "Retrospective analysis shows hyperthyrotropinemia at age 6. At age 10, TSH was elevated with decreased FT4 after 1 month off L-T4 treatment, indicating changes in thyroid function."
+        },
+        {
+            "date": "Age 10 years",
+            "vital_signs": "TSH: Elevated, FT4: Decreased",
+            "relevant_findings": "Normal TSH and PRL responses to a second TRH test after 1 month off L-T4 treatment. FT4 increase was below normal after TRH administration.",
+            "changes_over_time": "Hyperthyrotropinemia was intermittent among family members, with the patient showing changes in thyroid function over time."
+        }
+    ]
+}

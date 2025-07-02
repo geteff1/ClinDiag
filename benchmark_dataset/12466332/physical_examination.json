@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/80 mm Hg",
+                "heart_rate": "80 bpm",
+                "body_mass_index": "29.3 kg/m²"
+            },
+            "relevant_findings": [
+                "Height: 193 cm (1.64 sd score for the Dutch 1980 nationwide references)",
+                "Sitting height: 91 cm (P25)",
+                "Leg length: 102 cm (3 cm above the 97th percentile)",
+                "Arm span: 200 cm",
+                "Weight: 109 kg",
+                "High-pitched voice",
+                "Tanner stage P1G1",
+                "Physical exam findings: Thoracic kyphoscoliosis and flat feet",
+                "No abnormalities of heart, lungs, or abdomen"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

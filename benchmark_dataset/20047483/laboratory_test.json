@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Direct Fluorescent Antibody (DFA)",
+            "date": "Not specified",
+            "findings": "Negative for nasopharyngeal swab samples on day 3 and day 4; positive for Bronchoalveolar lavage (BAL) on day 6.",
+            "changes_over_time": "Initial nasopharyngeal swab was negative for DFA; BAL specimen on day 6 was positive."
+        },
+        {
+            "procedure_name": "Viral Culture",
+            "date": "Not specified",
+            "findings": "Positive for BAL on day 6; negative for nasopharyngeal swab on day 3 and day 4; negative for endotracheal aspirate on day 8.",
+            "changes_over_time": "Nasopharyngeal swab specimens were negative throughout; BAL was the only source with positive culture on day 6."
+        },
+        {
+            "procedure_name": "Real-time, Reverse-transcriptase Polymerase Chain Reaction (rRT-PCR)",
+            "date": "Not specified",
+            "findings": "Positive for nasopharyngeal swab on day 3; positive for BAL on day 6; confirmed 2009 A(H1N1) virus.",
+            "changes_over_time": "Initial nasopharyngeal specimen on day 3 was positive but subsequent tests were negative; consistently positive results for BAL until day 25."
+        }
+    ]
+}

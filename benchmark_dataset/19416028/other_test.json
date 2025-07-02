@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Inverted T waves over the precordial leads (V4 to V6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcutaneous biopsy",
+            "date": "Not specified",
+            "findings": "Revealed small cell lung cancer",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Both yielded S. sonnei growth",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCV core antigen test",
+            "date": "Not specified",
+            "findings": "Positive for HCV core antigen; serum HCV RNA level was 20,700,000 IU/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

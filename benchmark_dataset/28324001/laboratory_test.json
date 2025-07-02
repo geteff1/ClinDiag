@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "Prior to treatment: elevated (12.8 mg/dL). After treatment (case 1): Normalized to 9.6 mg/dL after rifampin.",
+            "changes_over_time": "Serum calcium declined from 10.7 mg/dL to 9.8 mg/dL in case 2."
+        },
+        {
+            "procedure_name": "Serum phosphorus",
+            "date": "Not specified",
+            "findings": "Prior to treatment (case 1): 3.6 mg/dL; after treatment: 4.1 mg/dL. (case 2): Baseline 4.2 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intact PTH",
+            "date": "Not specified",
+            "findings": "Case 1: Suppressed prior to treatment at 2 pg/mL; normalized to 16 pg/mL after 1 month of rifampin. Case 2: Suppressed at 4 pg/mL; increased to 31 pg/mL after treatment.",
+            "changes_over_time": "In case 1, serum PTH increased from 2 pg/mL to 16 pg/mL; in case 2, it rose from 3 pg/mL to 31 pg/mL."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "Case 1: Increased to 1.4 mg/dL prior to treatment; improved to 1.1 mg/dL after rifampin. Case 2: Baseline level was 0.59 mg/dL.",
+            "changes_over_time": "Case 1 improved from 1.4 mg/dL to 1.1 mg/dL after treatment."
+        },
+        {
+            "procedure_name": "Vitamin D metabolites",
+            "date": "Not specified",
+            "findings": "Case 1: High levels of 1,25-dihydroxyvitamin D3 (elevated) before rifampin; improved to normal after treatment. Case 2: Inappropriately normal at 49 pg/mL before treatment, declined but stabilized post-treatment.",
+            "changes_over_time": "1,25-dihydroxyvitamin D3 did not significantly decrease during treatment but showed physiological levels after rifampin."
+        },
+        {
+            "procedure_name": "Urinary calcium",
+            "date": "Not specified",
+            "findings": "Declined after rifampin treatment, exact values not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "25-hydroxyvitamin D3",
+            "date": "Not specified",
+            "findings": "Case 1: Decreased from values not specified to 65 ng/mL; case 2 decreased from 16 to 35 ng/mL post-treatment.",
+            "changes_over_time": "In case 2, levels rose from 58 to 90 pg/mL after discontinuation of rifampin."
+        }
+    ]
+}

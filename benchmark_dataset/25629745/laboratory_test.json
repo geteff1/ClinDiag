@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Capillary Blood Glucose",
+            "date": "Not specified",
+            "findings": "108 mg/dL (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "QTc interval showed prolongation from 461 msec on first ECG to 501 msec after 4 hours."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urine pH 5.5, specific gravity 1.008; dipstick negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Toxicology Screening",
+            "date": "Not specified",
+            "findings": "Trazodone 1826 μg/L (therapeutic range 800 to 1600), MCPP, and venlafaxine detected; urine negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Anion Gap Measurements",
+            "date": "On Presentation",
+            "findings": {
+                "Sodium": "141 mmol/L (normal)",
+                "Potassium": "4.2 mmol/L (normal)",
+                "Chloride": "96 mmol/L (low)",
+                "Carbon Dioxide": "23.9 mmol/L (normal)",
+                "Anion Gap": "21 mmol/L (elevated)"
+            },
+            "changes_over_time": [
+                {
+                    "time": "7.5 hours",
+                    "findings": {
+                        "Anion Gap": "34 mmol/L (increased)",
+                        "Bicarbonate": "8.3 mmol/L (decreased)"
+                    }
+                },
+                {
+                    "time": "10 hours",
+                    "findings": {
+                        "Anion Gap": "35 mmol/L (slight increase)",
+                        "Bicarbonate": "5.7 mmol/L (further decreased)"
+                    }
+                }
+            ]
+        },
+        {
+            "procedure_name": "Plasma Lactic Acid",
+            "date": "10 hours after presentation",
+            "findings": "9.0 mmol/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ethylene Glycol Level",
+            "date": "10 hours after presentation",
+            "findings": "351 mg/dL (toxic value ≥20 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

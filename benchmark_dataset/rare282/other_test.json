@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "4 months prior to admission",
+            "findings": "Normocellular marrow with erythroid hypoplasia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal structure and function.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bidirectional endoscopy",
+            "date": "Not specified",
+            "findings": "No evidence of active bleeding but with evidence of hemorrhoids.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Quantitative viral polymerase chain reaction testing",
+            "date": "Not specified",
+            "findings": "Negative for Parvovirus B19.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Pathogenic variant in RPL11 c. 158-2_158-1 del AG ins CC, consistent with Diamond-Blackfan anemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

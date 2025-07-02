@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "3910 g",
+                "body_mass_index": "12.0 kg/m²",
+                "length": "57 cm",
+                "hyponatremia": "127 mmol/liter",
+                "hyperkalemia": "5.8 mmol/liter",
+                "plasma_aldosterone": "1.73 ng/ml",
+                "plasma_renin_activity": "20.5 ng/ml"
+            },
+            "relevant_findings": "Failure to thrive noticed at 4 months of age; elevated plasma aldosterone and plasma renin activity. Other steroids normal.",
+            "changes_over_time": "After treatment with iv saline and fludrocortisone, the infant showed marked catch-up growth. Plasma aldosterone and PRA have normalized; no clinical deterioration after stopping fludrocortisone."
+        }
+    ]
+}

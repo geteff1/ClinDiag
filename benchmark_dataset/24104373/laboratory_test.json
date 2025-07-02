@@ -1,0 +1,57 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "August 6, 2008",
+            "findings": {
+                "peak_gradient": "67 mm Hg (normal peak gradient, <15 mm Hg)",
+                "aortic_valve_area": "0.7 cm2 (normal aortic valve area, >3.0 cm2)",
+                "left_ventricular_hypertrophy": "Mild concentric LV hypertrophy",
+                "ejection_fraction": ">60% (normal ejection fraction, 55%-70%)",
+                "mitral_regurgitation": "Mild mitral regurgitation",
+                "aortic_regurgitation": "None"
+            },
+            "changes_over_time": "Increased peak gradient from 67 mm Hg in 2008 to 97 mm Hg in January 2009."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "January 21, 2009",
+            "findings": {
+                "peak_gradient": "97 mm Hg (normal peak gradient, <15 mm Hg)",
+                "aortic_valve_area": "0.7 cm2",
+                "ejection_fraction": ">60%"
+            },
+            "changes_over_time": "Peak gradient increased from 67 mm Hg in 2008 to 97 mm Hg in January 2009."
+        },
+        {
+            "procedure_name": "Stress Nuclear Study",
+            "date": "Not specified",
+            "findings": {
+                "duration": "Stopped after 6.75 minutes of modified Bruce protocol",
+                "blood_pressure_change": "Reduced from 148/84 mm Hg to 122/68 mm Hg",
+                "ST_segment_depression": "2 to 2.5 mm of upsloping-horizontal ST segment depression suggestive of ischemia"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "March 18, 2003",
+            "findings": {
+                "peak_gradient": "46 mm Hg",
+                "aortic_valve_area": "1.0 cm2",
+                "ejection_fraction": "Not specified"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "September 19, 2005",
+            "findings": {
+                "peak_gradient": "44 mm Hg",
+                "aortic_valve_area": "0.9 cm2",
+                "ejection_fraction": "Not specified"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

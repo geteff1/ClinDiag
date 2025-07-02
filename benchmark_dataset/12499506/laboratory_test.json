@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Prolonged distal motor latencies, marked uniform and symmetric slowing of conduction velocities, reduced amplitude of the distal compound muscle action potentials (CMAP) and sensory nerve action potentials (SNAP) in the upper and lower extremities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematology and Biochemistry",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "Not specified",
+            "findings": "Normal CSF results (cells, protein, and lactate).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "First MRI: Not specified, Repeat MRI: Two months later",
+            "findings": "First MRI showed confluent hyperintense lesions in the parieto-occipital region and the splenium of the corpus callosum on T2-weighted images. The repeat MRI was completely normal.",
+            "changes_over_time": "Confluent cerebral white matter lesions on the first MRI resolved completely by the time of the repeat MRI two months later."
+        },
+        {
+            "procedure_name": "DNA Analysis",
+            "date": "Not specified",
+            "findings": "C-to-T missense mutation (Arg 164 Trp) in the extracellular domain of connexin 32.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neurophysiologic Examination",
+            "date": "Not specified",
+            "findings": "Low right radial nerve compound motor action potential (0.5 mV) with normal NCV, extensive spontaneous activity of the extensor carpi brevis muscle on the right; considerable slowing of the motor and sensory NCV of the left median nerve with prolonged distal motor latency.",
+            "changes_over_time": "Recovery of the patient's radial nerve palsy occurred completely in 2 months."
+        },
+        {
+            "procedure_name": "DNA Analysis (Mother and Son)",
+            "date": "Not specified",
+            "findings": "Both showed the same deletion in the 17p11.2 region.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

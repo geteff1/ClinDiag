@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "July 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Recurrent breakdown of the surgical scalp wound requiring debridement. Underlying bone appeared normal at the time of surgery. Debrided material revealed moderate polymorphonuclear leukocytes and a few gram-positive cocci, with MRSA cultured.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Purulent drainage from the scalp wound with MRSA cultured, identical susceptibility profile to previous isolate.",
+            "changes_over_time": "Clindamycin prescribed but drainage and breakdown progressed."
+        },
+        {
+            "date": "Day 10 of clindamycin therapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Readmitted for surgical debridement. Softening of the underlying bone noted, consistent with osteomyelitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-surgical debridement",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Received a 6-week course of vancomycin and rifampin therapy. No recurrence of infection or inflammation observed over the following year.",
+            "changes_over_time": "Improvement noted with resolution of inflammation and no recurrences."
+        }
+    ]
+}

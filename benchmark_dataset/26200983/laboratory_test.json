@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": {
+                    "value": 23.1,
+                    "reference_range": "36.0–46.0"
+                },
+                "Hemoglobin": {
+                    "value": 7.1,
+                    "reference_range": "12.0–16.0"
+                },
+                "White-cell count": {
+                    "value": 6700,
+                    "reference_range": "4500–11,000"
+                },
+                "Mean corpuscular volume": {
+                    "value": 70,
+                    "reference_range": "80–100"
+                },
+                "Mean corpuscular hemoglobin": {
+                    "value": 22.1,
+                    "reference_range": "26.0–34.0"
+                },
+                "Mean corpuscular hemoglobin concentration": {
+                    "value": 29.9,
+                    "reference_range": "31.0–37.0"
+                },
+                "Red-cell distribution width": {
+                    "value": 17.8,
+                    "reference_range": "11.5–14.5"
+                },
+                "Transferrin saturation": {
+                    "value": 3,
+                    "reference_range": "15–50"
+                },
+                "Ferritin": {
+                    "value": 6,
+                    "reference_range": "10–200"
+                },
+                "Iron": {
+                    "value": 32,
+                    "reference_range": "30–160"
+                },
+                "Iron-binding capacity": {
+                    "value": 362,
+                    "reference_range": "230–404"
+                }
+            },
+            "changes_over_time": {
+                "Hematocrit": {
+                    "initial_value": 23.1,
+                    "post_transfusion_value": 31.1
+                },
+                "Hemoglobin": {
+                    "initial_value": 7.1,
+                    "post_transfusion_value": 9.6
+                }
+            }
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "No evidence of primary cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT chest",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "A large, enhancing mass in the medial right frontal lobe with extensive vasogenic edema.",
+            "changes_over_time": "Improved resolution of abnormal enhancement over 16 weeks post-treatment."
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "Substantial 18F-FDG uptake in the enhancing mass.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "200/100 mmHg",
+                "serum_potassium": "3.4 mmol/L",
+                "plasma_renin": "2.9 pg/ml",
+                "plasma_aldosterone": "65 pmol/L"
+            },
+            "relevant_findings": "Severe hypertension, left ventricular hypertrophy (LVH).",
+            "changes_over_time": "Blood pressure normalized with treatment; headaches, cramps resolved; LVH improved."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/120 mmHg",
+                "serum_potassium": "2 mmol/L",
+                "plasma_renin": "Not specified",
+                "plasma_aldosterone": "Not specified"
+            },
+            "relevant_findings": "Mild LVH, nephrocalcinosis.",
+            "changes_over_time": "Blood pressure normalized with salt restriction and hydrochlorothiazide."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mmHg",
+                "serum_potassium": "1.4 mmol/L",
+                "plasma_renin": "Not specified",
+                "plasma_aldosterone": "Not specified"
+            },
+            "relevant_findings": "Severe dehydration, polyuria, polydipsia, nephrocalcinosis, moderate LVH.",
+            "changes_over_time": "Blood pressure normalized with salt restriction."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/100 mmHg",
+                "serum_potassium": "3.6 mmol/L",
+                "plasma_renin": "Not specified",
+                "plasma_aldosterone": "Not specified"
+            },
+            "relevant_findings": "Low birth weight, LVH.",
+            "changes_over_time": "Blood pressure remains normal with dietary salt restriction."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/100 mmHg",
+                "serum_potassium": "2.9 mmol/L",
+                "plasma_renin": "2 pg/ml",
+                "plasma_aldosterone": "15 pmol/L"
+            },
+            "relevant_findings": "Proteinuria, LVH.",
+            "changes_over_time": "Blood pressure controlled with medication but later required combination therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/60 mmHg",
+                "serum_potassium": "2.1 mmol/L",
+                "plasma_renin": "Not specified",
+                "plasma_aldosterone": "Not specified"
+            },
+            "relevant_findings": "Kidney calcifications, metabolic alkalosis.",
+            "changes_over_time": "Hypertension managed with fluid control alone during hemodialysis."
+        }
+    ]
+}

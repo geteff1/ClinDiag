@@ -1,0 +1,86 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Continuous focal slowing in the right hemisphere over the posterior regions, with no epileptic activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "11 cm of water (reference range, 6 to 20)",
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "red_cells": {
+                    "tube_1": 0,
+                    "tube_4": 0
+                },
+                "white_cells": {
+                    "tube_1": 3,
+                    "tube_4": 2
+                },
+                "differential_count": {
+                    "neutrophils": 0,
+                    "lymphocytes": 68,
+                    "monocytes": 4
+                },
+                "protein": "47 mg/dL",
+                "glucose": "73 mg/dL",
+                "venereal_disease": "Nonreactive",
+                "gram_stain": "No organisms",
+                "cultures": "No growth"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis (follow-up)",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "25 cm of water",
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "red_cells": {
+                    "tube_1": 1667,
+                    "tube_4": 1244
+                },
+                "white_cells": {
+                    "tube_1": 1,
+                    "tube_4": 0
+                },
+                "differential_count": {
+                    "neutrophils": 28,
+                    "lymphocytes": 72,
+                    "monocytes": 28
+                },
+                "protein": "32 mg/dL",
+                "glucose": "69 mg/dL",
+                "venereal_disease": "Nonreactive",
+                "gram_stain": "No organisms",
+                "cultures": "No growth"
+            },
+            "changes_over_time": "Increased opening pressure from 11 cm of water to 25 cm of water."
+        },
+        {
+            "procedure_name": "Serum Prolactin Level",
+            "date": "Not specified",
+            "findings": "25.6 ng/mL (reference range, 0.0 to 15.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC) and Serum Levels",
+            "date": "Not specified",
+            "findings": "Normal levels of electrolytes, magnesium, free thyroxine, thyrotropin, prolactin, insulin-like growth factor 1, norepinephrine, dopamine, epinephrine, normetanephrine, metanephrine, and 5-hydroxyindoleacetic acid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "MRI of the brain was normal; MRI of the spine was ordered but not performed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

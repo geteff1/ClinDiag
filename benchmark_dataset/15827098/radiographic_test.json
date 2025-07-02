@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Heterogeneous echogenicity of the thyroid tissue with multiple calcified areas and multiple enlarged lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Two and a half years after thyroidectomy",
+            "findings": "4.0 cm hypodense, nonenhancing mass anterior to the superior portion of the left kidney contiguous with the left adrenal fossa.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "A few months after resection of the tumor",
+            "findings": "No gross recurrence on CT imaging.",
+            "changes_over_time": "Eighteen months after resection, there has been no gross recurrence on CT imaging."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Hypodense, 7.4-cm mass with coarse foci of calcification in the right suprarenal fossa.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "[131I]MIBG study",
+            "date": "Not specified",
+            "findings": "Uptake within the adrenal mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

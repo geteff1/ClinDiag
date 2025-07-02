@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Tumor in the lower part of the stomach.",
+            "changes_over_time": "Tumor removed; postoperatively clear of any observed malignancies for 3 years."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "August 2001",
+            "findings": "Confirmed recurrence of primary cancer.",
+            "changes_over_time": "Follow-up in January 2002 showed a decrease in previous metastases and no new lesions."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "August 2001",
+            "findings": "Raised suspicions about metastatic disease; showed three visible tumors.",
+            "changes_over_time": "Demonstrated new metastases to the liver after progressive weight loss and refused hospitalization."
+        }
+    ]
+}

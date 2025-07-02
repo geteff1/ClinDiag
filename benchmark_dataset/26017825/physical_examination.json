@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "142/80 mm Hg",
+                "pulse": "76 bpm",
+                "temperature": "36.2°C",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "decreased_breath_sounds": "Right lung base",
+                "dullness_on_percussion": "Right lung base",
+                "focal_tenderness": "Right thoracic para-spinal area and posterior chest wall"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

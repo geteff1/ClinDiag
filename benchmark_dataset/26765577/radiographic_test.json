@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Bilateral adrenal masses with increased tracer accumulation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "Thyroid nodule with a diameter of 5 mm.",
+            "changes_over_time": "Nodule observed at age 37 years, indicating progression from previous normal results."
+        },
+        {
+            "procedure_name": "I-131 meta-iodobezylguanidine positron emission tomography–computed tomography",
+            "date": "Not specified",
+            "findings": "Increased tracer accumulation suggesting bilateral pheochromocytoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

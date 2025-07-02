@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Serum Calcium (mg/dl)": 15.3,
+                "Temperature (°C)": "Not specified",
+                "Heart Rate (bpm)": "Not specified",
+                "Blood Pressure (mmHg)": "Not specified",
+                "Respiratory Rate (breaths/min)": "Not specified"
+            },
+            "relevant_findings": "Presented with a serum calcium level of 15.3 mg/dl, severe hypercalciuria, and bilateral nephrocalcinosis. No significant past medical history. Mild irritability, increased urination, and refusal of solid foods.",
+            "changes_over_time": "Gradual improvement of hypercalcemia after management with fluids and diuretics, and low-calcium formula."
+        },
+        {
+            "date": "10 months",
+            "vital_signs": {
+                "Serum Calcium (mg/dl)": 16.3,
+                "Temperature (°C)": "Not specified",
+                "Heart Rate (bpm)": "Not specified",
+                "Blood Pressure (mmHg)": "Not specified",
+                "Respiratory Rate (breaths/min)": "Not specified"
+            },
+            "relevant_findings": "Serum calcium confirmed at 16.3 mg/dl upon admission. Severe hypercalciuria and nephrocalcinosis were noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "21 months",
+            "vital_signs": {
+                "Serum Calcium (mg/dl)": 10.6,
+                "Temperature (°C)": "Not specified",
+                "Heart Rate (bpm)": "Not specified",
+                "Blood Pressure (mmHg)": "Not specified",
+                "Respiratory Rate (breaths/min)": "Not specified"
+            },
+            "relevant_findings": "Started on a supplement of 400 IU of vitamin D daily.",
+            "changes_over_time": "Improvement noted with serum calcium dropping to 10.6 mg/dl."
+        },
+        {
+            "date": "31 months",
+            "vital_signs": {
+                "Serum Calcium (mg/dl)": 10.4,
+                "Temperature (°C)": "Not specified",
+                "Heart Rate (bpm)": "Not specified",
+                "Blood Pressure (mmHg)": "Not specified",
+                "Respiratory Rate (breaths/min)": "Not specified"
+            },
+            "relevant_findings": "Normalization of calcium levels with serum calcium now at 10.4 mg/dl.",
+            "changes_over_time": "Continued improvement with a declining trend in serum calcium levels."
+        },
+        {
+            "date": "39 months",
+            "vital_signs": {
+                "Serum Calcium (mg/dl)": 10.2,
+                "Temperature (°C)": "Not specified",
+                "Heart Rate (bpm)": "Not specified",
+                "Blood Pressure (mmHg)": "Not specified",
+                "Respiratory Rate (breaths/min)": "Not specified"
+            },
+            "relevant_findings": "24,25(OH)2D undetectable at this age while 25-hydroxyvitamin D is normal.",
+            "changes_over_time": "No change in 24,25(OH)2D levels noted, suggesting persistence of metabolic impairment despite stable calcium levels."
+        }
+    ]
+}

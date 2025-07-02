@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "TRH test",
+            "date": "Not specified",
+            "findings": "Increased response of TSH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid function investigation",
+            "date": "Age 50",
+            "findings": "Free T4 (FT4) was 11.0 ng/L, free T3 (FT3) was 1.7 ng/L, TSH was 6.8 mU/L.",
+            "changes_over_time": "After 6 months on l-T4 substitutive therapy, TSH returned in the normal range."
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Homozygous mutation identified (Arg to Cys substitution at position 310).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Functional studies of the mutant TSH-R",
+            "date": "Not specified",
+            "findings": "The Cys310 TSH-R mutant showed marked reduction in TSH binding capacity and increased cAMP production in absence of TSH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

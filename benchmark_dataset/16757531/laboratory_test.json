@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma IGF-I",
+            "date": "Not specified",
+            "findings": "239 ng/ml (1.6 SDS) for Patient A; 145 ng/ml (2.9 SDS) after refeeding for Patient B.",
+            "changes_over_time": "In Patient B, IGF-I level increased from -0.1 SDS to 2.9 SDS after restoration of nutritional state."
+        },
+        {
+            "procedure_name": "IGFBP-1",
+            "date": "Not specified",
+            "findings": "Low for both patients compared to normal ranges; 21 ng/ml observed in Patient B.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Growth Hormone (GH) testing",
+            "date": "1975 for Patient A (5.7 years old), 1981 (exercise test)",
+            "findings": "Maximal GH response of 62 mU/liter after arginine stimulation; peak GH concentration was 109 mU/liter in 1981.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD)",
+            "date": "Not specified",
+            "findings": "BMD at the lumbar spine (L2–L4) was 1.07 g/cm2 (-0.5 SDS).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Oral Glucose Tolerance Test (OGTT)",
+            "date": "Not specified",
+            "findings": "Fasting glucose was 4.8 mmol/liter; 2-h glucose was 8.5 mmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HOMA-IR",
+            "date": "Not specified",
+            "findings": "Index of 3.1, indicating mild insulin resistance.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

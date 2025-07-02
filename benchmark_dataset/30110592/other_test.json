@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Horizontal ST-segment depressions of 1 mm in the inferior leads.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "Normal left ventricular ejection fraction; subtle hypokinesis of the inferior wall; mild hypertrophy in the left ventricle; two masses with heterogeneous echotexture compressing the tricuspid annulus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Hospital day 3",
+            "findings": "Two aneurysmal segments of the underlying graft, one measuring 4.4 cm and the other 4.0 cm, compressing the right atrioventricular groove, tricuspid annulus, and right ventricle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intraoperative transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Presence of two masses compressing the tricuspid annulus and right atrium.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

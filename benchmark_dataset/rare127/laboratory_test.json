@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "86 g/l",
+                "MCV": "72.6 fl",
+                "MCH": "25.3 pg",
+                "erythrocytes": "3.4 × 10^12/l",
+                "leukocytes": "10.6 × 10^9/l",
+                "platelets": "442 × 10^9/l",
+                "C-reactive protein": "293 mg/l",
+                "fibrinogen": "606 mg/dl",
+                "fecal calprotectin": "417 mcg/g",
+                "erythrocyte sedimentation rate (ESR)": "51 mm/h",
+                "H. pylori serology": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Non-epithelioid granuloma and patch mixed lymphocyte infiltration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex scanning of the arteries",
+            "date": "Not specified",
+            "findings": "Signs of angiopathy in both lower limbs and hemodynamically significant stenosis of 32% at the right posterior tibial artery. Thrombosis of the sural vein of the right leg and insufficiency of the valves of the great saphenous vein.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

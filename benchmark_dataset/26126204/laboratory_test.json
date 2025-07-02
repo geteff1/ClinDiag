@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Pressure Measurement",
+            "date": "Not specified",
+            "findings": "BP values ranged from 160/110 to 180/120 mm Hg",
+            "changes_over_time": "Initially normal BP values were reported 1 year earlier; BP normalized after treatment"
+        },
+        {
+            "procedure_name": "Biochemical Profile",
+            "date": "Not specified",
+            "findings": "Hypokalemia: 2.6 mmol/L, Low renin: 5.4 pg/mL, Undetectable aldosterone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary THFs to THE Ratio",
+            "date": "Not specified",
+            "findings": "Ratio: 8.91",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical Profile (Younger Brother)",
+            "date": "Not specified",
+            "findings": "Hypokalemia: 3.28 mmol/L, Low renin, Undetectable aldosterone, THFs to THE ratio: 6.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Biochemical Measurements (1-year follow-up)",
+            "date": "Not specified",
+            "findings": "Normal BP and normal serum potassium concentrations",
+            "changes_over_time": "Partial regression of LVH at echocardiography"
+        },
+        {
+            "procedure_name": "HSD11B2 Promoter Methylation",
+            "date": "Not specified",
+            "findings": "Mean methylation index: 2.85% at region 1 and 7.37% at region 2",
+            "changes_over_time": "Hypertensive heterozygous subjects showed higher methylation than those without hypertension"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine urine analysis",
+            "date": "Not specified",
+            "findings": "Protein level 1+ at 3.3 g/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxicology studies",
+            "date": "Not specified",
+            "findings": "Mercury concentration 876 mg/kg in herbs taken (normal limit <0.5 mg/kg), serum concentration 23.2 ng/mL (normal <2.5 ng/mL), urine concentration 14.8 ng/mL (normal limit <10 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine analysis",
+            "date": "Not specified",
+            "findings": "Protein level 3+ at 6.0 g/L, urinary N-acetyl b-D glucosamine (NAG) level at 27.5 U/24 hours",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-treatment serum analysis",
+            "date": "Not specified",
+            "findings": "Serum mercury level dropped to 3.1 ng/mL, urinary level dropped to 3.9 ng/mL",
+            "changes_over_time": "Serum and urinary mercury levels decreased significantly after 60 days of chelation therapy."
+        },
+        {
+            "procedure_name": "Follow-up urine analysis",
+            "date": "One month after discharge",
+            "findings": "Protein level 1+ at 2.5 g/L, urinary NAG level 14.5 U/24 hours",
+            "changes_over_time": "Residual proteinuria remained one month after discharge."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Increased theta activity and decreased alpha activity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Bilateral decrease in peroneal nerve compound motor action potential amplitude",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "Findings suggestive of congenital lobar emphysema of the right upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "contrast-enhanced computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Hyperinflation of the lungs with severe confluent emphysema and multiple apical bullae; normal postsurgical findings including a stump from right upper lobectomy and coil from embolization of a patent ductus arteriosus; enlarged main pulmonary artery measuring 3.8 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Dilatation of the right atrium, right ventricle, and inferior vena cava; estimated right ventricular systolic pressure of 65 mm Hg; aortic valve abnormality with moderate aortic regurgitation not present on past echocardiograms.",
+            "changes_over_time": "Findings suggestive of constrictive pericarditis, including a septal bounce and respiratory variation across the mitral valve, were observed."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "8 days old",
+            "vital_signs": {
+                "weight": "3.4 kg",
+                "length": "49 cm",
+                "head_circumference": "35 cm"
+            },
+            "relevant_findings": {
+                "jaundice": "Moderate jaundice present on chest and extremities",
+                "fontanels": "Both anterior and posterior fontanels are large for a newborn",
+                "sutures": "Sutures are easily palpable",
+                "general_exam": "No dysmorphic features; otherwise unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 weeks into treatment",
+            "vital_signs": {
+                "free_T4": "2.2 ng/dl",
+                "TSH": "18 mU/liter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Improvement in free T4 level and reduction in TSH from initial screening results."
+        },
+        {
+            "date": "4 weeks into treatment",
+            "vital_signs": {
+                "free_T4": "2.8 ng/dl",
+                "TSH": "0.30 mU/liter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Further improvement in free T4 and normalization of TSH level; dose of L-T4 was reduced."
+        },
+        {
+            "date": "1 month post-reduction in L-T4 dosage",
+            "vital_signs": {
+                "free_T4": "2.0 ng/dl",
+                "TSH": "1.9 mU/liter"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Maintained stable free T4 and TSH levels following adjustment in dosage."
+        }
+    ]
+}

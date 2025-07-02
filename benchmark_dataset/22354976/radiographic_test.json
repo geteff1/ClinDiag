@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "24-hour ambulatory monitor",
+            "date": "Not specified",
+            "findings": "Documents multiple episodes of non-sustained ventricular tachycardia (NSVT) lasting as long as 26 beats and records 4665 premature ventricular contractions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, incomplete right bundle branch block, and multiple T-wave abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal left ventricular function and chamber size, normal right ventricular function with its size at the upper limits of normal, and no valvular or pericardial abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Normal coronary arteries and a normal left ventricular ejection fraction of >65%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiovascular MRI",
+            "date": "Not specified",
+            "findings": "Borderline dilated left ventricle with normal LV mass and systolic function, right ventricle dilated with normal global right ventricular systolic function, distal one-third of the right ventricle is akinetic, with subendocardial delayed enhancement of the distal one-third of the right ventricle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Signal-averaged ECG",
+            "date": "Not specified",
+            "findings": "Positive for late potentials.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

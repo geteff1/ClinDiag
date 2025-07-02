@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Minimal nonspecific S-T changes preoperatively; marked ST depression in the inferolateral leads post-ondansetron administration.",
+            "changes_over_time": "ECG abnormalities disappeared within 1 hour post-treatment and subsequent ECGs were unchanged from the preoperative tracings."
+        },
+        {
+            "procedure_name": "Transbronchial biopsy",
+            "date": "Not specified",
+            "findings": "Diagnosis of well-differentiated adenocarcinoma with bronchioloalveolar features.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac stress testing",
+            "date": "Not specified",
+            "findings": "Patient exercised 7 min achieving a maximum heart rate of 150 beats/min without chest pain or ECG changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal left ventricular systolic function with mild tricuspid and mitral insufficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Holter ECG monitoring",
+            "date": "Not specified",
+            "findings": "Rare premature ventricular contractions and premature atrial contractions with three nonsustained runs of asymptomatic supraventricular tachycardia; no evidence of significant ischemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

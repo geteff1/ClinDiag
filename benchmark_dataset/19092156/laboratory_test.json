@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "21.1% (1st Admission), 29.2% (At Oncology Clinic), 20.3% (2nd Admission), 21.4% (Admission to This Hospital), 20.3% (2nd Hospital Day)",
+            "changes_over_time": "Increased from 21.1% to 29.2% then decreased to 20.3%, then slightly increased to 21.4%, and stabilized at 20.3%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "6.1 g/dL (1st Admission), 8.9 g/dL (At Oncology Clinic), 5.7 g/dL (2nd Admission), 7.2 g/dL (Admission to This Hospital), 6.8 g/dL (2nd Hospital Day)",
+            "changes_over_time": "Increased from 6.1 g/dL to 8.9 g/dL, then decreased to 5.7 g/dL, increased to 7.2 g/dL, and finally decreased to 6.8 g/dL."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "4700 (1st Admission), 4700 (At Oncology Clinic), 4500 (2nd Admission), 4600 (Admission to This Hospital), 3800 (2nd Hospital Day)",
+            "changes_over_time": "Remained stable at 4700, then decreased to 4500, increased to 4600, and finally decreased to 3800."
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "64.6 sec (1st Admission), not corrected with normal plasma.",
+            "changes_over_time": "Prolonged and did not correct with normal plasma, returned to normal after treatments."
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "Not specified",
+            "findings": "IgM kappa paraprotein detected, marked decrease in normal immunoglobulin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "530 (1st Admission), 1030 (At Oncology Clinic), 1540 (2nd Admission), 1574 (Admission to This Hospital)",
+            "changes_over_time": "Progressively increased from 530 to 1574."
+        },
+        {
+            "procedure_name": "Bilirubin, total",
+            "date": "Not specified",
+            "findings": "1.1 mg/dL (1st Admission), 0.7 mg/dL (At Oncology Clinic), 1.5 mg/dL (2nd Admission), 2.4 mg/dL (Admission to This Hospital), 2.3 mg/dL (2nd Hospital Day)",
+            "changes_over_time": "Increased from 1.1 mg/dL to 2.4 mg/dL, then slightly decreased to 2.3 mg/dL."
+        },
+        {
+            "procedure_name": "Bilirubin, direct",
+            "date": "Not specified",
+            "findings": "0.2 mg/dL (1st Admission), 0.5 mg/dL (At Oncology Clinic), 0.7 mg/dL (2nd Admission), 0.6 mg/dL (Admission to This Hospital)",
+            "changes_over_time": "Increased from 0.2 mg/dL to 0.7 mg/dL then slightly decreased to 0.6 mg/dL."
+        },
+        {
+            "procedure_name": "Iron",
+            "date": "Not specified",
+            "findings": "18 μg/dL (1st Admission), 57 μg/dL (At Oncology Clinic)",
+            "changes_over_time": "Increased from 18 μg/dL to 57 μg/dL."
+        },
+        {
+            "procedure_name": "Anticardiolipin IgM",
+            "date": "Not specified",
+            "findings": ">100 (1st Admission), >150.0 (At Oncology Clinic)",
+            "changes_over_time": "Increased from >100 to >150."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1988",
+            "vital_signs": {
+                "hematocrit": "61.6%",
+                "hemoglobin": "20.2 g/dl",
+                "erythrocytes": "6,200,000 per mm3",
+                "leukocytes": "6800 per mm3",
+                "platelets": "162,000 per mm3",
+                "O2 saturation": "96.5%",
+                "erythropoietin": "18 mU/ml"
+            },
+            "relevant_findings": "Auto-erythropoietin-dependent in vitro growth of erythroid colonies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A para-aortic mass was discovered on CT and confirmed on MRI, revealing a solid, encapsulated, red-brown tumor, 3.5 by 3.5 cm.",
+            "changes_over_time": "Tumor resected, showed typical features of a paraganglioma."
+        },
+        {
+            "date": "2003",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Urinary excretion of metanephrines was in the upper end of the normal range, and the hematocrit value rose.",
+            "changes_over_time": "Raised suspicion of tumor recurrence."
+        },
+        {
+            "date": "2004",
+            "vital_signs": {
+                "erythropoietin_before_resection": "48 mU/ml",
+                "erythropoietin_after_resection": "32 mU/ml"
+            },
+            "relevant_findings": "Complete resection of the second tumor, which was histologically similar to the previous one.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Post-2004",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Slight elevation of hematocrit and blood pressure requiring treatment with phlebotomy and antihypertensive drugs.",
+            "changes_over_time": "Clinical status remained unchanged with twice the upper limit metanephrines."
+        }
+    ]
+}

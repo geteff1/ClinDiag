@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm; ST-segment elevations of 1 to 2 mm in leads V2 to V4, with a biphasic T wave in V3; and deep, symmetric T-wave inversions in leads V4 to V6.",
+            "changes_over_time": "Persistent ST-segment elevation and T-wave inversions on repeat electrocardiogram."
+        },
+        {
+            "procedure_name": "Cardiac biomarkers",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "11.1 g/dL",
+                "platelet_count": "190,000/mm³",
+                "white_cell_count": "10,300/mm³",
+                "serum_creatinine": "0.7 mg/dL",
+                "blood_urea_nitrogen": "17 mg/dL",
+                "blood_glucose": "106 mg/dL",
+                "creatine_kinase": "135 IU/L (normal range, 26 to 180)",
+                "creatine_kinase_MB": "14.1 ng/mL (normal range, 0 to 4.9)",
+                "serum_troponin_I": "4.23 ng/mL (normal value, <0.30)"
+            },
+            "changes_over_time": "The cardiac biomarker levels decreased from the peak values noted at admission."
+        },
+        {
+            "procedure_name": "Left heart catheterization",
+            "date": "Not specified",
+            "findings": {
+                "left_ventricular_end_diastolic_pressure": "30 mm Hg (normal range, 5 to 15)",
+                "left_ventricular_systolic_pressure": "123 mm Hg",
+                "gradient_between_aortic_and_left_ventricular_pressure": "49 mm Hg"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "ejection_fraction": "35%",
+                "mitral_regurgitation": "Moderate",
+                "ventricular_systolic_function": "Mild ventricular systolic dysfunction with akinesis of the apex, mid anterior wall, mid anteroseptum, mid septum, and mid posterior wall."
+            },
+            "changes_over_time": "A repeat echocardiogram showed left ventricular hypertrophy with normal left ventricular function, estimated ejection fraction of 75%, and resolution of the mitral regurgitation."
+        }
+    ]
+}

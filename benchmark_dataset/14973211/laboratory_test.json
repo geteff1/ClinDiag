@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Carboxyhemoglobin level",
+            "date": "Not specified",
+            "findings": "28 percent",
+            "changes_over_time": "Decreased to 7.0 percent on Day 2, 3.2 percent on Day 3, and 1.3 percent at the end of operation."
+        },
+        {
+            "procedure_name": "Arterial-Blood Gas Analysis",
+            "date": "Day 1 (various times)",
+            "findings": {
+                "pH": "7.1",
+                "PCO2 (mm Hg)": "36",
+                "PO2 (mm Hg)": "274",
+                "Bicarbonate (mmol/liter)": "12",
+                "Oxygen saturation (%)": "98.9"
+            },
+            "changes_over_time": "Noted that the pH improved to 7.35 by Day 3."
+        },
+        {
+            "procedure_name": "Hematologic Laboratory Data",
+            "date": "Day 1",
+            "findings": {
+                "Hematocrit (%)": "44.0",
+                "Hemoglobin (g/dl)": "15.0",
+                "White cells (per mm3)": "19,200",
+                "Platelets (per mm3)": "359,000"
+            },
+            "changes_over_time": {
+                "Hematocrit (%)": "Decreased to 43.5 on Day 3, 31.4 on Day 5, and 26.9 on Day 6.",
+                "Hemoglobin (g/dl)": "Decreased to 14.9 on Day 3, 10.5 on Day 5, and 9.1 on Day 6.",
+                "White cells (per mm3)": "Increased to 28,100 on Day 3, then decreased to 16,500 on Day 5 and 9,800 on Day 6.",
+                "Platelets (per mm3)": "Decreased to 209,000 on Day 3, 125,000 on Day 5, and 59,000 on Day 6."
+            }
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Day 1",
+            "findings": {
+                "Glucose (mg/dl)": "246",
+                "Bilirubin (mg/dl)": "Total 1.0, Direct 1.1",
+                "Sodium (mmol/liter)": "135",
+                "Potassium (mmol/liter)": "4.2",
+                "Creatinine (mg/dl)": "1.5"
+            },
+            "changes_over_time": {
+                "Glucose": "Decreased to 105 by Day 26.",
+                "Bilirubin": "Total peaked at 2.9 on Day 26, then decreased to 0.8 on Day 47.",
+                "Creatinine": "Decreased to 1.0 on Day 26 and 0.4 on Day 47."
+            }
+        }
+    ]
+}

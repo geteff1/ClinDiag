@@ -1,0 +1,69 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal evaluation",
+            "date": "23 days",
+            "findings": {
+                "Twin A": {
+                    "FSH": "2.34 mIU/ml (normal)",
+                    "LH": "8.8 mIU/ml (normal)",
+                    "Testosterone": "1.6 ng/ml (normal)"
+                },
+                "Twin B": {
+                    "FSH": "8.2 mIU/ml (high)",
+                    "LH": "15 mIU/ml (high)",
+                    "Testosterone": "0.12 ng/ml (low)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsies",
+            "date": "1 month",
+            "findings": {
+                "Twin A": "Bilateral testes",
+                "Twin B": "Right testis (crossed ectopia) and small left ovotestis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gonadotropin stimulation test",
+            "date": "5 months",
+            "findings": {
+                "Twin A": {
+                    "Testosterone": {
+                        "before": "0.54 ng/ml",
+                        "after": "1.14 ng/ml"
+                    },
+                    "Estradiol": {
+                        "before": "13.1 pg/ml",
+                        "after": "12.65 pg/ml"
+                    }
+                },
+                "Twin B": {
+                    "Testosterone": {
+                        "before": "0.02 ng/ml",
+                        "after": "0.02 ng/ml"
+                    },
+                    "Estradiol": {
+                        "before": "12.53 pg/ml",
+                        "after": "11.76 pg/ml"
+                    }
+                }
+            },
+            "changes_over_time": "Testosterone levels increased in Twin A but not in Twin B"
+        },
+        {
+            "procedure_name": "SRY gene analysis",
+            "date": "Not specified",
+            "findings": "SRY gene was absent in both peripheral leukocytes and gonadal tissue samples",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SOX9 gene analysis",
+            "date": "Not specified",
+            "findings": "No evidence for a SOX9 dosage effect; both twins presented an amplification pattern similar to normal male control",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

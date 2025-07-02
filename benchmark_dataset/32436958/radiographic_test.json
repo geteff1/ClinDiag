@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Whole Genome Sequencing",
+            "date": "Not specified",
+            "findings": "Identified two novel heterozygous GNAS deletions: a 6.4-Kb deletion that includes exon 2 associated with normal methylation (57%) of exon A/B DMR; and a 1,438-bp deletion encompassing the promoter region and 5’UTR of Gsα transcripts associated with reduced methylation (32%) of exon A/B DMR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation Analysis",
+            "date": "Not specified",
+            "findings": "Patient 1 had normal methylation at 57% of exon A/B DMR. Patient 2 had reduced methylation at 34%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

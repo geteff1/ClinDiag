@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the cervical, thoracic, and lumbar spine",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Six months after initial evaluation",
+            "findings": "Slightly low-lying cerebellar tonsils; otherwise normal",
+            "changes_over_time": "No changes over time are specified"
+        },
+        {
+            "procedure_name": "MRI of the brain after administration of gadolinium",
+            "date": "One month after the onset of anarthria",
+            "findings": "Unchanged",
+            "changes_over_time": "Unchanged from previous MRI"
+        },
+        {
+            "procedure_name": "Positron-emission tomography (PET) scans of the brain",
+            "date": "Not specified",
+            "findings": "Mildly decreased metabolism in the bilateral thalamus and cerebellum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Barium swallow examination and fluoroscopy with videography",
+            "date": "Not specified",
+            "findings": "Significant oropharyngeal dysmotility",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

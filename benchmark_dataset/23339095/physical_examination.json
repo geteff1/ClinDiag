@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "blood_pressure": "130/85 mmHg",
+                "heart_rate": "130 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "14 cm H2O",
+                "carotid_upstrokes": "brisk without bruits",
+                "heart_rhythm": "rapid and irregular with variation in intensity of first heart sound",
+                "extremities": "mild pitting edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_ventricular_ejection_fraction": "10%",
+                "left_ventricular_internal_diameter": "5.4 cm",
+                "valvular_insufficiency": "mild mitral, tricuspid, and aortic",
+                "left_atrial_diameter": "4.2 cm"
+            },
+            "changes_over_time": "Subsequent echocardiogram showed recovery of 'systolic function' with left ventricular ejection fraction of 60%"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ECG": "demonstrated atrial flutter with average ventricular rate of 115 bpm"
+            },
+            "changes_over_time": "Patient had initially reverted to sinus rhythm after ablation and remained asymptomatic for 2 years before experiencing flutter."
+        }
+    ]
+}

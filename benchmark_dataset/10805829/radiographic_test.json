@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "One area of consolidation in the left lower lobe, another area in the right upper lobe, and a small left pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Diffuse air-space disease in the right upper lung zone and in the left lung except for the apex. A left pleural effusion was present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomographic (CT) scan of the chest",
+            "date": "Not specified",
+            "findings": "A mass, 2 cm in diameter, in the right upper lobe, with air bronchograms; ground-glass opacification in the right upper and right lower lobes; air-space consolidation in the left lower lobe; and volume loss in both lower lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "11th hospital day",
+            "findings": "Improvement in the air-space opacities and in the pleural effusion.",
+            "changes_over_time": "Decreased opacity in the left lower and right upper lung zones and a small, residual, left pleural effusion just before discharge."
+        }
+    ]
+}

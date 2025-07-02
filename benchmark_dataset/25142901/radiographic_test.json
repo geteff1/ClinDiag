@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Mild left hemisphere atrophy.",
+            "changes_over_time": "Progressive atrophy of the affected hemisphere."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffuse atrophy of the left hemisphere, more prominent over the parieto-occipital region.",
+            "changes_over_time": "Progressive atrophy of the affected hemisphere."
+        },
+        {
+            "procedure_name": "Brain CT scan",
+            "date": "At age 3 years 9 months",
+            "findings": "Extensive left frontal cortical atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "1 month following presentation",
+            "findings": "Left frontotemporal atrophy and T2 hypersignal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At age 9 years",
+            "findings": "Area of abnormal signal in the left frontal lobe that involved both gray matter and the underlying white matter, consistent with focal encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "At age 14 years",
+            "findings": "Left hemispheric atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Left frontal hyperintensity changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Consistent with Rasmussen encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "At age 28 years",
+            "findings": "Confirmed diagnosis of Rasmussen encephalitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

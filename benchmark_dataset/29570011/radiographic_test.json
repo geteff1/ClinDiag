@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Digital Subtraction Angiography (DSA)",
+            "date": "Not specified",
+            "findings": "Contrast agent inside and around the device; basilar aneurysm showed no signs of recanalization.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "No recanalization of the ACoA aneurysm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Indocyanine Green (ICG) Angiography",
+            "date": "Not specified",
+            "findings": "Confirmed patency of both A2 segments and Heubner arteries; complete aneurysm occlusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

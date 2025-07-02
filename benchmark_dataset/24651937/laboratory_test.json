@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasonographic imaging",
+            "date": "Not specified",
+            "findings": "Showed a soft-tissue mass associated with the right carotid artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic scan with contrast",
+            "date": "Not specified",
+            "findings": "Showed a large, intensely enhancing mass measuring 2.6 × 2.6 × 4.6 cm at the right carotid bifurcation and a slightly smaller mass measuring 2.0 × 2.5 × 3.9 cm on the left side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood and urine studies",
+            "date": "Not specified",
+            "findings": "Revealed no signs of catecholamine or dopamine production.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Did not show any signs of cardiac ischemia or primary heart blockage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Telemetry monitoring",
+            "date": "Not specified",
+            "findings": "Heart rate dropped from approximately 60 bpm to approximately 30 bpm; noted hypotension with systolic blood pressure in the 70s to 80s.",
+            "changes_over_time": "Episodes of bradycardia and hypotension noted during the night, but resolved spontaneously."
+        }
+    ]
+}

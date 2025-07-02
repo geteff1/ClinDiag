@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "Not specified",
+            "findings": "DNA from the fetus demonstrated the same banding pattern as the affected father and firstborn infant, confirming the presence of the mutated PAX6 allele.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR-based Ava1 restriction analysis",
+            "date": "Not specified",
+            "findings": "An additional band was present in the lanes containing DNA from the father, son, and the amniocentesis sample, indicating the presence of the aniridia mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Single-Strand Conformational Polymorphism (SSCP) analysis",
+            "date": "Not specified",
+            "findings": "The lane containing DNA from the mother shows the normal allelic banding pattern, while the lanes containing DNA from the father, son, and amniocentesis sample showed an additional band shift, indicating a heterozygous PAX6 mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmic examination",
+            "date": "1 week after birth",
+            "findings": "Confirmed the diagnosis of aniridia in the newborn.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

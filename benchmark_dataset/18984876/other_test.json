@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Left temporal and left central slow wave activity suggestive of localized cortical injury and rare left temporal interictal epileptiform discharges suggestive of an area of cortical irritability.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetoencephalogram (MEG)",
+            "date": "Not specified",
+            "findings": "Captured a seizure at onset, showing low-voltage fast and ultrafast activity over the left anterior-mesial-frontal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inpatient EEG telemetry",
+            "date": "Not specified",
+            "findings": "Captured multiple seizures showing bicentral high-amplitude spike and wave discharge, followed by bicentral attenuation of EEG activity and then higher-amplitude rhythmic activity associated with the clinical behavior.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal MRI results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-Resolution MRI",
+            "date": "Not specified",
+            "findings": "Found mild diffuse cerebellar atrophy and a slightly enlarged right temporal horn.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Spectroscopy (MRS)",
+            "date": "Not specified",
+            "findings": "Slight decreases in N-acetylaspartate concentrations in the left mesial temporal region, suggestive of loss of neuronal elements.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron Emission Tomography (PET)",
+            "date": "Not specified",
+            "findings": "Decreased right temporal lobe use of fluorodeoxyglucose, suggestive of decreased metabolic activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Invasive EEG Evaluation",
+            "date": "Not specified",
+            "findings": "Seizure onset localized to the more posterior aspects of the supplementary motor cortex region on the left.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

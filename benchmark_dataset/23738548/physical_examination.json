@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "76 bpm",
+                "blood_pressure": "140/88 mm Hg",
+                "temperature": "Afebrile",
+                "body_mass_index": "27.1"
+            },
+            "relevant_findings": {
+                "cardiac": "Fourth heart sound, no murmurs or rubs",
+                "muscle_strength": {
+                    "proximal_arms": "Normal",
+                    "wrists": "4/5 bilaterally",
+                    "fingers": {
+                        "left_hand": "2/5",
+                        "right_hand": "4/5"
+                    },
+                    "right_hip": "4/5 on flexion",
+                    "right_foot": "0/5 on dorsiflexion",
+                    "great_toes": "Bilateral weakness"
+                },
+                "muscle_wasting": "Interosseous muscle wasting in left hand",
+                "calf_circumference": "Right calf less than left calf",
+                "deep_tendon_reflexes": "Symmetric in arms, absent at knees and ankles",
+                "sensation": {
+                    "hands": "Diminished, ulnar-nerve (right) and median-nerve (left)",
+                    "feet": "Diminished vibration sense and nociception"
+                },
+                "ambulation": "Profound foot drop on right side"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

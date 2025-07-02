@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "First Hospital Day",
+            "findings": "17.0%",
+            "changes_over_time": "Increased to 19.6% by Second Hospital Day."
+        },
+        {
+            "procedure_name": "White cells",
+            "date": "First Hospital Day",
+            "findings": "9,000 per mm³",
+            "changes_over_time": "Decreased to 8,500 per mm³ by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "First Hospital Day",
+            "findings": "504,000 per mm³",
+            "changes_over_time": "Decreased to 492,000 per mm³ by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "First Hospital Day",
+            "findings": "113 mm/hr",
+            "changes_over_time": "Normal after surgery."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "First Hospital Day",
+            "findings": "141 mmol/liter",
+            "changes_over_time": "Increased to 142 mmol/liter by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "First Hospital Day",
+            "findings": "4.5 mmol/liter",
+            "changes_over_time": "Decreased to 4.3 mmol/liter by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "First Hospital Day",
+            "findings": "114 mmol/liter",
+            "changes_over_time": "Decreased to 103 mmol/liter by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "First Hospital Day",
+            "findings": "20.7 mmol/liter",
+            "changes_over_time": "Increased to 22.5 mmol/liter by Second Hospital Day."
+        },
+        {
+            "procedure_name": "Creatine kinase MB isoenzyme",
+            "date": "First Hospital Day",
+            "findings": "Normal",
+            "changes_over_time": "Remained normal on Second Hospital Day."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "First Hospital Day",
+            "findings": "Normal",
+            "changes_over_time": "Remained normal on Second Hospital Day."
+        }
+    ]
+}

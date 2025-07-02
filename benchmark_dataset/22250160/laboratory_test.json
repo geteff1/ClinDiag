@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified.",
+            "findings": "Elevated Troponin I level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified.",
+            "findings": "Reduced ejection fraction of 0.40, with akinesis of the anterolateral wall and hypokinesis of the apex.",
+            "changes_over_time": "Follow-up echocardiogram 8 weeks later found normal left ventricular systolic function."
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified.",
+            "findings": "Angiographically normal coronary arteries.",
+            "changes_over_time": "Previous cardiac catheterization showed normal coronary anatomy and preserved left ventricular function."
+        }
+    ]
+}

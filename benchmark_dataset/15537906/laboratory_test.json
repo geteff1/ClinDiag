@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Lactate Level",
+            "date": "Not specified",
+            "findings": "17.1 mmol per liter (normal <2.1 mmol per liter); lactate:pyruvate ratio 38 (normal 12 to 18)",
+            "changes_over_time": "Profound metabolic acidosis was evident from day 10 of life."
+        },
+        {
+            "procedure_name": "Direct Bilirubin Measurement",
+            "date": "From day 7 of life",
+            "findings": "Elevation of direct bilirubin observed, progressed to full liver failure by day 12.",
+            "changes_over_time": "Progressed to full liver failure by day 12 and death on day 27."
+        },
+        {
+            "procedure_name": "Activities of Oxidative Phosphorylation Complexes in Fibroblasts",
+            "date": "Not specified",
+            "findings": "Complex I: 40% of the lowest control value; Complex III: 69% of the lowest control value; Complex IV: 18% of the lowest control value.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Activities of Oxidative Phosphorylation Complexes in Muscle",
+            "date": "Not specified",
+            "findings": "Complex I activity: 52% of the lowest control value; Complex IV activity: 54% of the lowest control value.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Maximal Blood Lactate Level",
+            "date": "At week 7",
+            "findings": "Maximum blood lactate level was 9.3 mmol per liter, lactate:pyruvate ratio of 84.",
+            "changes_over_time": "Signs of liver failure were present at week 7, leading to death at five months of age."
+        },
+        {
+            "procedure_name": "Activities of Complex I and IV in Fibroblasts of Male Sibling",
+            "date": "Not specified",
+            "findings": "Complex I: 13% of the lowest control value; Complex IV: 31% of the lowest control value.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mitochondrial Translation Measurement",
+            "date": "Not specified",
+            "findings": "Overall mitochondrial translation decreased to about 20% of controls; Complex IV subunits reduced to about 15% of control equivalents.",
+            "changes_over_time": "Overexpression of EFG1 partially rectified the translation to about 40% of control equivalents."
+        },
+        {
+            "procedure_name": "Complex IV Activity after EFG1 Overexpression",
+            "date": "Not specified",
+            "findings": "Complex IV activity increased from 20% to 72% of control levels.",
+            "changes_over_time": "Increase in the amount of fully assembled complexes I, III, IV, and V observed."
+        }
+    ]
+}

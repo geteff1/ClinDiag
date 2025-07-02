@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Sertraline Level",
+            "date": "Not specified",
+            "findings": "2,930 µg/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Desmethylsertraline Level",
+            "date": "Not specified",
+            "findings": "1,678 µg/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Toxicology (Norpropoxyphene)",
+            "date": "Not specified",
+            "findings": "268 µg/L (therapeutic range 100 to 500 µg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Toxicology (Nortriptyline)",
+            "date": "Not specified",
+            "findings": "26 µg/L (therapeutic range 50 to 150 µg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatine Kinase (CK)",
+            "date": "Hospital Day 1",
+            "findings": "1,465 µg/L (MB fraction <1%)",
+            "changes_over_time": "Increased to 9,458 µg/L on Hospital Day 3"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Hospital Day 1",
+            "findings": "107 U/L",
+            "changes_over_time": "Increased to 434 U/L on Hospital Day 3"
+        },
+        {
+            "procedure_name": "Lactic Dehydrogenase",
+            "date": "Hospital Day 1",
+            "findings": "250 U/L",
+            "changes_over_time": "Increased to 561 U/L on Hospital Day 3"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Hospital Day 1",
+            "findings": "Normal, QT interval of 510 ms",
+            "changes_over_time": "Diminished to 470 ms later that day"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Hospital Day 1",
+            "findings": "10,700 /mm3 (88% neutrophils, 5% lymphocytes, 7% monocytes)",
+            "changes_over_time": "Decreased to 9,900 /mm3 on Hospital Day 3"
+        },
+        {
+            "procedure_name": "Serum Sertraline Level",
+            "date": "Hospital Day 4",
+            "findings": "453 µg/L",
+            "changes_over_time": "Decreased to 305 µg/L on Hospital Day 5"
+        },
+        {
+            "procedure_name": "Desmethylsertraline Level",
+            "date": "Hospital Day 4",
+            "findings": "1,132 µg/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

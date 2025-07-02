@@ -1,0 +1,164 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "No xanthelasmas, xanthomas or acanthosis nigricans",
+                        "date": "25 days postpartum"
+                    },
+                    {
+                        "description": "Height 1.47 m, Weight 48.4 kg, BMI 22.4 kg/m²",
+                        "date": "25 days postpartum"
+                    }
+                ],
+                "changes": "Not specified"
+            },
+            "changes_over_time": "The patient's serum triglyceride (TG) levels were monitored over a period of 35 years with recurrent episodes of extreme hypertriglyceridemia exceeding 2000 mg/dL, mostly attributable to lapses in dietary and medication compliance. After adherence to a low fat diet and fibrates, serum TG levels remained mostly below 500 mg/dL."
+        },
+        {
+            "date": "6 months later",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Total cholesterol decreased to 478 mg/dL and TG to 1660 mg/dL",
+                        "date": "6 months later"
+                    }
+                ],
+                "changes": "Improvement"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 months later",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Total cholesterol dropped to 303 mg/dL and triglycerides to 346 mg/dL",
+                        "date": "3 months later"
+                    }
+                ],
+                "changes": "Improvement"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Pregnancy (age 30)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Serum TG level ranged from 250–730 mg/dL",
+                        "date": "During pregnancy"
+                    },
+                    {
+                        "description": "Hepatic ultrasound was normal",
+                        "date": "Age 30"
+                    }
+                ],
+                "changes": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 52",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Serum TG was 2992 mg/dL attributed to cessation of exercise and nonadherence to low fat diet",
+                        "date": "Age 52"
+                    }
+                ],
+                "changes": "Worsening"
+            },
+            "changes_over_time": "The patient's TG levels increased due to lack of adherence to diet following her mother's death."
+        },
+        {
+            "date": "Age 56",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Serum TG level was 2981 mg/dL when medications were discontinued",
+                        "date": "Age 56"
+                    }
+                ],
+                "changes": "Worsening"
+            },
+            "changes_over_time": "The patient displayed a TG rise due to temporary cessation of medication."
+        },
+        {
+            "date": "Age 57",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "Serum TG level of 2335 mg/dL attributed to lack of dietary compliance after husband's death",
+                        "date": "Age 57"
+                    }
+                ],
+                "changes": "Worsening"
+            },
+            "changes_over_time": "The increase in serum TG levels was noted following a lack of compliance to dietary guidelines."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    {
+                        "description": "After diet compliance and switching medications, TG levels dropped to 1548 mg/dL",
+                        "date": "Not specified"
+                    }
+                ],
+                "changes": "Improvement"
+            },
+            "changes_over_time": "Reduction in TG levels observed after returning to a low fat diet and medication adherence."
+        }
+    ]
+}

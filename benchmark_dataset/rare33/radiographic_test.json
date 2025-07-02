@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Cirrhosis, splenomegaly, and a large cystic mass in the right ovary.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "A large cystic mass measuring 30 mm × 148 mm on the right ovary, indicative of a serous cystadenoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Splenomegaly (114 mm × 100 mm × 163 mm), cirrhosis, portal hypertension, and an ovarian cystic mass measuring 236 mm × 143 mm × 255 mm on the right side.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "85 beats/minute",
+                "blood_pressure": "116/74 mm Hg",
+                "respiratory_rate": "24-26 breaths/minute"
+            },
+            "relevant_findings": {
+                "perioral_cyanosis": "present",
+                "jugular_venous_distention": "absent",
+                "lung_exam": "clear",
+                "cardiac_murmurs": "absent",
+                "electrocardiogram": "sinus tachycardia"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

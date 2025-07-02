@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Phenytoin Blood Level",
+            "date": "Not specified",
+            "findings": "Initial level was 25 µg/ml (normal = 10-20), repeat level on discharge was 9 µg/ml.",
+            "changes_over_time": "The phenytoin level decreased from 25 µg/ml to 9 µg/ml after dosage reduction."
+        },
+        {
+            "procedure_name": "Primidone Blood Level",
+            "date": "Not specified",
+            "findings": "Initial level was 36 µg/ml (normal = 15-30), repeat level on discharge was 16 µg/ml.",
+            "changes_over_time": "The primidone level decreased from 36 µg/ml to 16 µg/ml after dosage reduction."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Moderate slow wave activity without evidence of an epileptic focus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Phenytoin Blood Level (Case 3)",
+            "date": "Not specified",
+            "findings": "Initial level was 9 µg/ml; repeat level was 43 µg/ml upon worsening of psychosis.",
+            "changes_over_time": "The phenytoin level increased from 9 µg/ml to 43 µg/ml before the dosage was decreased."
+        },
+        {
+            "procedure_name": "Primidone Blood Level (Case 3)",
+            "date": "Not specified",
+            "findings": "Initial level was 6 µg/ml; repeat level was 6 µg/ml.",
+            "changes_over_time": "The primidone level remained stable at 6 µg/ml."
+        }
+    ]
+}

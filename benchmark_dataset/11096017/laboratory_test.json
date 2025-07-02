@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV Viral Load",
+            "date": "October 1998",
+            "findings": "Undetectable ( !146 copies/mL)",
+            "changes_over_time": "Viral load was initially 98,982 copies/mL before treatment."
+        },
+        {
+            "procedure_name": "CD4 Lymphocyte Count",
+            "date": "October 1998",
+            "findings": "Not specified",
+            "changes_over_time": "CD4 count was initially 177 cells/mm3 before treatment."
+        },
+        {
+            "procedure_name": "HIV Viral Load",
+            "date": "November 1996",
+            "findings": "288 copies/mL",
+            "changes_over_time": "CD4 lymphocyte count increased to 396 cells/mm3 within 3 months of initiating antiretroviral therapy."
+        },
+        {
+            "procedure_name": "HIV Viral Load",
+            "date": "August 1998",
+            "findings": "150,000 copies/mL",
+            "changes_over_time": "Reduced to undetectable levels after antiretroviral therapy."
+        },
+        {
+            "procedure_name": "CD4 Lymphocyte Count",
+            "date": "August 1998",
+            "findings": "Not specified",
+            "changes_over_time": "Increased to 352 cells/mm3 after therapy."
+        },
+        {
+            "procedure_name": "CD4 Lymphocyte Count",
+            "date": "October 1998",
+            "findings": "174 cells/mm3",
+            "changes_over_time": "Dropped from 374 cells/mm3 initially."
+        },
+        {
+            "procedure_name": "HIV Viral Load",
+            "date": "January 1999",
+            "findings": "513,623 copies/mL",
+            "changes_over_time": "Increased from 36,717 copies/mL in September 1998."
+        },
+        {
+            "procedure_name": "HIV Viral Load",
+            "date": "One month after August 1998",
+            "findings": "1143 copies/mL",
+            "changes_over_time": "Decreased from 96,639 copies/mL before therapy."
+        },
+        {
+            "procedure_name": "CD4 Lymphocyte Count",
+            "date": "One month after August 1998",
+            "findings": "79 cells/mm3",
+            "changes_over_time": "Increased from 25 cells/mm3 before therapy."
+        }
+    ]
+}

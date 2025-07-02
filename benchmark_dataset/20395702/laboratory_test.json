@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "SPECT Brain Imaging",
+            "date": "Day 3 of hospitalization",
+            "findings": "Relative hypoperfusion throughout the left cerebral hemisphere.",
+            "changes_over_time": "Repeat SPECT imaging after treatment showed significant improvement with some normalization of relative perfusion to both hemispheres one month after discharge."
+        },
+        {
+            "procedure_name": "Carotid Doppler Examination",
+            "date": "Day 6 of hospitalization",
+            "findings": "27% decrease in flow rate due to stenosis in the region of the left carotid bifurcation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Ammonia Level Test",
+            "date": "Not specified",
+            "findings": "Elevated serum ammonia levels of 295 g/dL, decreased to 135 g/dL after treatment.",
+            "changes_over_time": "Treatment of hyperammonemia resulted in a decrease of serum ammonia from 295 to 135 g/dL."
+        }
+    ]
+}

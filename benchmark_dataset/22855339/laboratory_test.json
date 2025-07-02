@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Baseline results: Patient 1: 48 nmol/liter; Patient 2: 44 nmol/liter. After treatment: Patient 1: 23 nmol/liter; Patient 2: 28 nmol/liter.",
+            "changes_over_time": "Serum levels of 25-hydroxyvitamin D remained low at baseline but increased upon treatment, indicating an improvement in both patients."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified",
+            "findings": "Baseline results: Patient 1: 46 pmol/liter; Patient 2: 28 pmol/liter. After treatment: Patient 1: 5.7 pmol/liter; Patient 2: 16.7 pmol/liter.",
+            "changes_over_time": "PTH levels decreased after treatment in both patients, indicating a reduction in secondary hyperparathyroidism."
+        },
+        {
+            "procedure_name": "Serum total calcium",
+            "date": "Not specified",
+            "findings": "Baseline results: Patient 1: 1.4 mmol/liter (low); Patient 2: 1.6 mmol/liter (within normal range). After treatment: Patient 1: 2.3 mmol/liter; Patient 2: 1.8 mmol/liter.",
+            "changes_over_time": "Calcium levels increased in Patient 1 after treatment but fluctuated in Patient 2."
+        },
+        {
+            "procedure_name": "Serum phosphate",
+            "date": "Not specified",
+            "findings": "Baseline results: Patient 1: 1.4 mmol/liter; Patient 2: 1.61 mmol/liter. After treatment: Patient 1: 1.58 mmol/liter; Patient 2: 1.6 mmol/liter.",
+            "changes_over_time": "Phosphate levels were stable with slight variation after treatment."
+        },
+        {
+            "procedure_name": "Serum alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "Baseline results: Patient 1: 445 U/liter; Patient 2: 1145 U/liter. After treatment: Patient 1: 288 U/liter; Patient 2: 293 U/liter.",
+            "changes_over_time": "Alkaline phosphatase levels decreased after treatment in both patients."
+        }
+    ]
+}
