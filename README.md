@@ -100,9 +100,9 @@ To test out the 2-agent *ClinDiag-Framework*, run:
 
 ### ClinDiag-Benchmark (n=4,421) <a name="benchmark"></a>
 
-`./benchmark_dataset.zip`
+`./benchmark_dataset.rar`
 
-(To uncompress, run `unzip benchmark_dataset.zip` in the root directory)
+(To uncompress, run `tar -xf benchmark_dataset.rar` in the root directory)
 
 A comprehensive clinical dataset comprising 4,421 real-world cases, encompassing both rare and common diseases across 32 specialties.
 
@@ -147,7 +147,7 @@ The multi-turn chat dataset used for fine-tuning a chat model. Each conversation
 
 ## Usage <a name="usage"></a>
 
-Below are instructions to run experiments on the full [benchmark dataset](#benchmark). Remember to `unzip benchmark_dataset.zip` first.
+Below are instructions to run experiments on the full [benchmark dataset](#benchmark). Remember to `tar -xf benchmark_dataset.rar` first.
 
 ### Human+LLM <a name="human-llm"></a>
 
