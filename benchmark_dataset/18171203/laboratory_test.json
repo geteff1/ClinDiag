@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "April 2005",
+            "findings": "26 U/L",
+            "changes_over_time": "Increased to 245 U/L on 18 January 2006, 940 U/L on 3 March 2006, then decreased to 369 U/L on 16 March 2006, and further decreased to 226 U/L on 21 March 2006."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "April 2005",
+            "findings": "0.3 mg/dL",
+            "changes_over_time": "Increased to 0.4 mg/dL on 18 January 2006, 2.1 mg/dL on 3 March 2006, peaked at 17.9 mg/dL on 21 March 2006, and decreased to 2 mg/dL on 21 April 2006."
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA)",
+            "date": "Not specified",
+            "findings": "1:160",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-Smooth Muscle Antibody",
+            "date": "Not specified",
+            "findings": "1:160",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG Level",
+            "date": "Not specified",
+            "findings": "2640 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "1.5",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Viral typing for HPV",
+            "date": "Not specified",
+            "findings": "Positive for HPV types 5 and 8.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Viral load testing for Epstein-Barr virus (EBV)",
+            "date": "Not specified",
+            "findings": "EBV present in plasma with a load of 10,000 IU/mL.",
+            "changes_over_time": "High EBV load in plasma remains consistent between both patients."
+        },
+        {
+            "procedure_name": "Fluorescence-activated cell sorting for NK T cells",
+            "date": "Not specified",
+            "findings": "Reduced percentage of NK T cells (CD3+ TCR-Vα24+ and TCR-Vβ11+) in patients (<0.02%) compared to healthy controls (0.36% and 0.42%).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T-cell proliferation assay",
+            "date": "Not specified",
+            "findings": "PHA-treated cells capable of expanding and forming colonies, no differences compared to control cells.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

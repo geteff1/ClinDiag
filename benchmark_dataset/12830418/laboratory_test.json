@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Cell Count",
+            "date": "Not specified",
+            "findings": "WBC count of 18,700 cells/mm3 (39% polymorphonuclear cells and 6% bands), platelet count of 545,000 platelets/mm3, erythrocyte sedimentation rate (ESR) 130 mm/first hour.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Alanine aminotransferase level of 169 IU/L, aspartate aminotransferase level of 69 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Positive for ceftriaxone-susceptible group D Salmonella species.",
+            "changes_over_time": "Blood culture was also positive for group D Salmonella species one week after completion of initial treatment and remained positive during subsequent episodes."
+        },
+        {
+            "procedure_name": "Follow-up Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative at the end of treatment after pericardiocentesis.",
+            "changes_over_time": "Previous cultures were positive; however, later cultures were negative after treatment."
+        },
+        {
+            "procedure_name": "Immunologic Studies",
+            "date": "Not specified",
+            "findings": "Normal complete blood cell count, normal immunoglobulin levels, normal complement components (C3 and C4), normal lymphocyte subpopulations, and negative PPD skin test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Response to IL-12 Stimulation",
+            "date": "Not specified",
+            "findings": "IFN-g was not elevated after stimulation with IL-12 compared to controls.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Histological examination of the spleen",
+            "date": "Not specified",
+            "findings": "Cells of moderate size with oval-shaped nuclei, exhibiting abnormalities in their nuclear structure and small nucleoli.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry of the spleen",
+            "date": "Not specified",
+            "findings": "CD2-, CD3+, CD5-, CD7+, CD20- PAX5-, CD79α-, CD23-, TIA-1+, CD56-, granzyme B-, CD4-, CD8-, CD30-, CD138-, ALK-, Ki-67 + 60%. Cells were positive for TCRγ rearrangement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometry analysis of the spleen",
+            "date": "Not specified",
+            "findings": "Abnormal T cells accounting for ~22.94% of total cells with characteristics: CD7++, CD16++, CD33-, CD13-, CD38-, CD117-, CD19-, CD34-, HLA-DR dim, CD56-, CD5-, CD25-, CD3++, CD99dim, CD2 minimal expression, CD4++, CD8-, TCRαβ-, TCRγδ+, CD335-, CD28dim, CD24, CD57-, CD94+, CD337-, CD158a,h-, CD158f-, CD158e1/e2-, CD158b1/b2j+, CD158i (46.00%).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT scan",
+            "date": "After chemotherapy and later in the course of treatment",
+            "findings": "Substantially reduced number of lesions compared to prior scans.",
+            "changes_over_time": "Significant reduction in lesions observed over time."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "13 October 1997",
+            "vital_signs": {
+                "blood_pressure": "128/78 mm Hg",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "76%"
+            },
+            "relevant_findings": {
+                "general": "cachectic appearance",
+                "neurological": "dense left hemiparesis, hyperreflexia, left Babinski's sign",
+                "abdominal": "enlarged liver (14 cm along right midclavicular line), palpable spleen 4 cm below left subcostal margin, minimal ascites",
+                "extremities": "atrophy of arms and legs, digital clubbing, spider telangiectases on anterior chest"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation": "90%-94% while breathing 5-6 L/min via nasal cannula"
+            },
+            "relevant_findings": {
+                "neurological": "decrease in hemiparesis after 2 days",
+                "oxygenation": "orthodeoxia noted; saturation decreased to 80% when standing"
+            },
+            "changes_over_time": "Improvement in hemiparesis and reduced severity of orthodeoxia."
+        },
+        {
+            "date": "1 week after discharge",
+            "vital_signs": {
+                "oxygen_saturation": {
+                    "while_breathing_room_air": "48-52 mm H2O",
+                    "with_nasal_cannula": "95%-86% while breathing 6 L/min"
+                }
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Less hypoxic compared to previous measurements."
+        },
+        {
+            "date": "4 weeks after treatment initiation",
+            "vital_signs": {
+                "oxygen_saturation": "95% while breathing room air"
+            },
+            "relevant_findings": {
+                "oxygenation": "resolution of orthodeoxia and improved general activity"
+            },
+            "changes_over_time": "Significant improvement in oxygenation; able to perform regular activities without supplemental oxygen."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cytopathological specimens of breast tissue contained individual moderately enlarged atypical epithelial cells and clusters of such cells compatible with primary breast cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroconvulsive Therapy (ECT)",
+            "date": "Not specified",
+            "findings": "Moderate improvement in mood after six treatments during hospitalization.",
+            "changes_over_time": "Patient's mood improved."
+        },
+        {
+            "procedure_name": "Lumpectomy with Sentinel-Lymph-Node Biopsy",
+            "date": "Not specified",
+            "findings": "Presence of moderately differentiated invasive ductal carcinoma with closely approximated ductal carcinoma in situ.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

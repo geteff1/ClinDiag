@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Multiple signal alterations on T2-weighted images without contrast enhancement.",
+            "changes_over_time": "MRI lesions were widely unchanged."
+        },
+        {
+            "procedure_name": "FLAIR MRI",
+            "date": "Performed when the patient was aged 25 years",
+            "findings": "Diffuse hyperintense white matter with multiple foci of decreased signal intensity affecting the deep portions bilaterally.",
+            "changes_over_time": "At age 27 years, marked increase of the deep hypointense areas, which are now merging, consistent with progressive cystic degeneration."
+        }
+    ]
+}

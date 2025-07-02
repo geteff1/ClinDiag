@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "A heterozygous nonsense mutation c3055C > T (R947X) in exon 9 of the MR gene, leading to a premature stop codon and a truncated protein with no aldosterone binding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Electrolytes Measurement",
+            "date": "Not specified",
+            "findings": "On admission, the index patient had hyponatremia (129 mmol/liter) and hyperkalemia (6.4 mmol/liter); subsequent plasma sodium levels remained normal (135 mmol/liter) and potassium was not specified.",
+            "changes_over_time": "Plasma sodium remained unchanged after treatment."
+        },
+        {
+            "procedure_name": "Plasma Aldosterone Measurement",
+            "date": "Not specified",
+            "findings": "Plasma aldosterone was elevated (2554 pg/ml) at initial assessment.",
+            "changes_over_time": "Plasma aldosterone levels were still elevated after stopping NaCl treatment (1395 pg/ml)."
+        },
+        {
+            "procedure_name": "Plasma Renin Activity Measurement",
+            "date": "Not specified",
+            "findings": "Plasma renin activity was elevated on initial assessment.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Steroid Analysis",
+            "date": "Not specified",
+            "findings": "Excretion of typical aldosterone metabolites (tetrahydroaldosterone and 18-hydroxy-tetrahydroaldosterone) in a 24-h urinary sample was normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

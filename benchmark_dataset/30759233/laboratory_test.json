@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Testosterone",
+            "date": "Not specified",
+            "findings": "153 ng/dL [normal < 45 ng/dL]",
+            "changes_over_time": "After GnRH analogue: 10 ng/dL [normal < 45 ng/dL]"
+        },
+        {
+            "procedure_name": "Free Testosterone",
+            "date": "Not specified",
+            "findings": "26.5 pg/mL [normal < 6.4 pg/mL]",
+            "changes_over_time": "After GnRH analogue: 1.4 pg/mL [normal < 6.4 pg/mL]"
+        },
+        {
+            "procedure_name": "17a-Hydroxyprogesterone",
+            "date": "Not specified",
+            "findings": "131 ng/dL [normal < 200 ng/dL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone Sulfate",
+            "date": "Not specified",
+            "findings": "1730 ng/mL [normal 400 to 3600 ng/mL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Cholesterol",
+            "date": "Not specified",
+            "findings": "177 mg/dL [normal < 200 mg/dL]",
+            "changes_over_time": "Increased to 237 mg/dL [normal < 200 mg/dL] over 2 years"
+        },
+        {
+            "procedure_name": "Low-Density Lipoprotein (LDL)",
+            "date": "Not specified",
+            "findings": "110 mg/dL [normal < 130 mg/dL]",
+            "changes_over_time": "Increased to 130 mg/dL [normal < 130 mg/dL] over 2 years"
+        },
+        {
+            "procedure_name": "High-Density Lipoprotein (HDL)",
+            "date": "Not specified",
+            "findings": "27 mg/dL [normal > 50 mg/dL]",
+            "changes_over_time": "Increased to 29 mg/dL [normal > 50 mg/dL] over 2 years"
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "197 mg/dL [normal < 150 mg/dL]",
+            "changes_over_time": "Increased to 388 mg/dL [normal < 150 mg/dL] over 2 years"
+        },
+        {
+            "procedure_name": "Fasting Plasma Glucose",
+            "date": "Not specified",
+            "findings": "91 mg/dL [normal < 100 mg/dL]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Insulin",
+            "date": "Not specified",
+            "findings": "61 mU/mL [normal < 25 mU/mL]",
+            "changes_over_time": "Increased to 598 mU/mL [normal < 41 mU/mL] over 2 years"
+        },
+        {
+            "procedure_name": "Serum Aspartate Aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "23 U/L [normal < 36 U/L]",
+            "changes_over_time": "Increased to 162 U/L [normal < 36 U/L] over 2 years"
+        },
+        {
+            "procedure_name": "Serum Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "33 U/L [normal < 45 U/L]",
+            "changes_over_time": "Increased to 339 U/L [normal < 45 U/L] over 2 years"
+        }
+    ]
+}

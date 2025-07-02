@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/78 mm Hg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "95%",
+                "temperature": "36°C"
+            },
+            "relevant_findings": {
+                "neurologic_examination": [
+                    "ptosis of the left eyelid",
+                    "facial weakness on the left side",
+                    "hypoesthesia on the left posterior of the scalp",
+                    "strength 0/5 in right upper arm deltoid and biceps",
+                    "strength 4+/5 in right upper arm triceps",
+                    "strength 4/5 in left arm finger flexors, extensors, and intrinsic muscles",
+                    "strength 4−/5 in right leg hip flexion",
+                    "strength 4−/5 in left leg hip flexion, 4+/5 in knee extension, 4−/5 in knee flexion, 4+/5 in ankle dorsiflexion, 4/5 in plantarflexion",
+                    "absent Achilles and brachioradialis reflexes",
+                    "right patellar reflex 2+/4, left patellar reflex 1+/4",
+                    "right triceps reflex 2+/4, left triceps reflex 1+/4",
+                    "both biceps reflexes 1+/4",
+                    "plantar responses flexor",
+                    "decreased sensation to pinprick and light touch in various regions"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Neurologic examination revealed complete palsy in cranial nerve III on the right side, with a fixed, dilated pupil, and weakness increased in all limbs compared to the earlier examination."
+        }
+    ]
+}

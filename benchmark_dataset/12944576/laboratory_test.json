@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase Test",
+            "date": "Not specified",
+            "findings": "349 U per liter (normal, 25 to 115)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase Test",
+            "date": "Not specified",
+            "findings": "355 U per liter",
+            "changes_over_time": "Increasing from 349 U per liter to 355 U per liter"
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "79.6 U per liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Creatinine Test",
+            "date": "Not specified",
+            "findings": "3.36 mg per milliliter (297 µmol per liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Amylase Test",
+            "date": "Not specified",
+            "findings": "4258 U per liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit Test",
+            "date": "Not specified",
+            "findings": "41.5%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "Not specified",
+            "findings": "10,700 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "382,000 per cubic millimeter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatographic Examination",
+            "date": "Sixteen weeks before admission",
+            "findings": "Diffuse attenuation of the common bile duct and a smooth stricture, 3 mm in length, in the distal third of the duct.",
+            "changes_over_time": "Stricture appeared to have resolved in follow-up nine weeks later"
+        },
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatographic Examination",
+            "date": "Nine weeks after initial examination",
+            "findings": "Resolution of the stricture in the common bile duct, but persistent irregularity of the pancreatic duct and complete obstruction at the neck of the pancreas.",
+            "changes_over_time": "Resolution of the stricture compared to the previous examination."
+        }
+    ]
+}

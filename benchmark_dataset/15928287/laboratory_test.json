@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PSA",
+            "date": "Not specified",
+            "findings": "Prostate-specific antigen (PSA) level of 4.2 ng/mL (normal range: 0.0-4.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "12-core biopsy confirmed the diagnosis of adenocarcinoma with a Gleason score of 6; cancer involved 80% of a single core from the right base region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SHIM score",
+            "date": "Not specified",
+            "findings": "Score of 25 (range: 0-25) indicating full erectile function pre-surgery",
+            "changes_over_time": "12-month postoperative SHIM score was 18"
+        },
+        {
+            "procedure_name": "PSA measurement",
+            "date": "Every 3 months since surgery",
+            "findings": "Confirmed undetectable levels",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

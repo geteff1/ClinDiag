@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Reduced hemoglobin (11.4 g/dL; normal, 12.0–15.5 g/dL), increased red blood cell distribution width (18.9%; normal, 11.9%–15.5%), and mild thrombocytopenia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Special Coagulation Testing",
+            "date": "Not specified",
+            "findings": "Reduced plasma antithrombin activity (46%; normal, 80%–130%) and antigen (41%; normal, 80%–130%) consistent with inherited type I antithrombin deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Increased TSH (6.6 mIU/L; normal, 0.3–5.5 mIU/L) and thyroid peroxidase antibodies (469 mIU/mL; normal, <9 mIU/mL), consistent with incipient hypothyroidism from Hashimoto thyroiditis.",
+            "changes_over_time": "Repeat plasma homocysteine and TSH were normal after treatment with B12 and thyroid replacement."
+        },
+        {
+            "procedure_name": "Plasma Homocysteine",
+            "date": "Not specified",
+            "findings": "Increased plasma homocysteine (99 μmol/L; normal, ≤ 13 μmol/L).",
+            "changes_over_time": "Repeat plasma homocysteine was normal after treatment."
+        },
+        {
+            "procedure_name": "Methylmalonic Acid",
+            "date": "Not specified",
+            "findings": "Increased methylmalonic acid (19 nmol/mL; normal, ≤ 0.4 nmol/mL), consistent with vitamin B12 deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antiparietal Cell Antibodies",
+            "date": "Not specified",
+            "findings": "Increased antiparietal cell antibodies (84.4 U; normal, <20 U), consistent with vitamin B12 deficiency due to pernicious anemia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Holter Monitor",
+            "date": "Not specified",
+            "findings": "No abnormal rhythms were revealed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Admission",
+            "findings": "A large, circumferential pericardial effusion with right atrial inversion, diastolic inversion of the right ventricular wall, and respiratory variation in the intracardiac flows.",
+            "changes_over_time": "No reaccumulation of the pericardial effusion was observed on the second hospital day."
+        },
+        {
+            "procedure_name": "Pericardiocentesis",
+            "date": "Not specified",
+            "findings": "370 ml of bloody fluid was removed; pericardial pressure decreased from 7 to 0 mm Hg.",
+            "changes_over_time": "Fluid drained decreasing amounts during the next 48 hours and was removed."
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Performed during hospitalization",
+            "findings": "16 mm of induration developed two days after discharge.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Two months after discharge",
+            "findings": "Decreased size of anterior mediastinal lymph nodes, new right pleural effusion, and nodular opacities in the right upper lobe with one decreased in size.",
+            "changes_over_time": "A new right pleural effusion developed."
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Widening of the carina; normal mucosa.",
+            "changes_over_time": "Biopsy specimens showed necrotizing granulomas with caseation."
+        }
+    ]
+}

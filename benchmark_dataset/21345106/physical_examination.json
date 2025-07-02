@@ -1,0 +1,82 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "blood_pressure": "160/90 mmHg",
+                "pulse": "96 bpm",
+                "respiratory_rate": "40 breaths/min",
+                "oxygen_saturation": "90-91%"
+            },
+            "relevant_findings": {
+                "skin": "cool and pale",
+                "speech": "short sentences",
+                "respiratory_muscle_usage": "accessory muscles",
+                "lung_fields": "basilar rales (third to half up both lung fields)",
+                "abdomen": "distended"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "152/79 mmHg",
+                "pulse": "93 bpm (irregularly irregular)",
+                "respiratory_rate": "24 to 30 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "lung": "coarse rales bilaterally",
+                "skin": "cool and diaphoretic"
+            },
+            "changes_over_time": "Transient improvement after respiratory support"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "90/54 mmHg",
+                "pulse": "85 bpm (atrial fibrillation with paced beats)",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "jugular_veins": "distended to the angle of the jaw",
+                "lung_sounds": "diminished with faint bibasilar rales"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "133/77 mmHg",
+                "pulse": "80 to 90 bpm",
+                "respiratory_rate": "36 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "skin": "cool and clammy",
+                "breath_sounds": "coarse, no rales or wheezing"
+            },
+            "changes_over_time": "Increased somnolence noted"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "blood_pressure": "69/41 mmHg",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "87%"
+            },
+            "relevant_findings": {
+                "status": "unresponsive",
+                "trachea": "intubated"
+            },
+            "changes_over_time": "Progression to shock"
+        }
+    ]
+}

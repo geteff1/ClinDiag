@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "blood_pressure": "130/70 mm Hg",
+                "pulse": "78 bpm",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no distress.",
+                "head_and_neck": "Normal, no tenderness or lymphadenopathy.",
+                "respiratory": "Inspiratory crackles heard at both lung bases.",
+                "cardiovascular": "Normal heart sounds, no murmurs.",
+                "abdominal": "Soft and nontender, no masses or organomegaly.",
+                "extremities": "Pitting edema (+) of the legs, extending proximally to 3 cm below the knees.",
+                "muscle_strength": "Motor strength rated 5 out of 5 in all muscle groups."
+            },
+            "changes_over_time": "Symptoms improved over the next two days while receiving prednisone."
+        },
+        {
+            "date": "11 days before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "muscle_strength": "Motor strength rated 4+ out of 5+ in all muscle groups of the arms and legs, tenderness with shoulder abduction.",
+                "other": "Normal range of motion of all joints."
+            },
+            "changes_over_time": "Increased proximal muscle weakness documented four days before admission."
+        }
+    ]
+}

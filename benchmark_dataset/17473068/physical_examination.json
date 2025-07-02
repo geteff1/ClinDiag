@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "total_calcium": "2.92 mmol/liter",
+                "ionized_calcium": "1.55 mmol/liter",
+                "serum_phosphate": "Not specified",
+                "serum_magnesium": "Not specified",
+                "serum_creatinine": "Not specified",
+                "serum_PTH": "151.8 ng/liter",
+                "25(OH)D": "8.8 nmol/liter"
+            },
+            "relevant_findings": {
+                "physical_examination": "The proband demonstrated frankly elevated serum PTH levels, low calcium to creatinine clearance ratio indicative of FHH.",
+                "imaging": "Kidney ultrasound showed no signs of kidney stones or nephrocalcinosis; imaging techniques did not show enlarged parathyroid glands."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Birth",
+            "vital_signs": {
+                "calcium": "slightly elevated",
+                "PTH": "markedly elevated",
+                "25(OH)D": "26.2 nmol/liter",
+                "phosphate": "within normal range",
+                "osteocalcin": "elevated"
+            },
+            "relevant_findings": {
+                "newborn": "The infant presented with mildly elevated calcium and markedly elevated PTH levels. Initialization of vitamin D supplementation at 600 IU/d.",
+                "weight": "3650 g",
+                "length": "52 cm"
+            },
+            "changes_over_time": "Serum PTH levels decreased and normalized by day 70 after birth; serum calcium rose slightly to a moderately elevated steady-state level."
+        }
+    ]
+}

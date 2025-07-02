@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "VP shunt insertion",
+            "date": "Not specified",
+            "findings": "Opening pressure was 25 cm H2O by manometry at the time of surgery. CSF was slightly traumatic (10 leukocytes and 700/mm3 erythrocytes), but protein, glucose, gram stain, and cultures were normal.",
+            "changes_over_time": "Postoperative CT revealed no change in ventricle size. The patient’s headaches did not change with the initial shunt."
+        },
+        {
+            "procedure_name": "CT head scan",
+            "date": "Four months after VP shunt insertion",
+            "findings": "Revealed ventricular enlargement slightly less than that which preceded her shunt.",
+            "changes_over_time": "The patient's headaches began increasing a few days after the head injury."
+        },
+        {
+            "procedure_name": "Emergency ventriculostomy",
+            "date": "Fifteen days after head injury",
+            "findings": "The initial pressure was only 5 cm CSF. CSF was slightly traumatic (8 leukocytes and 9,850/mm3 erythrocytes), but glucose, protein, gram stain, and cultures were normal.",
+            "changes_over_time": "Her clinical condition did not improve unless CSF was siphoned at negative pressures."
+        },
+        {
+            "procedure_name": "Revision of VP shunt",
+            "date": "Not specified",
+            "findings": "An adjustable PS Strata II valve was placed on the lowest possible resistance (performance level 0.5: opening pressure 1.5 cm H2O supine, 3 cm H2O standing).",
+            "changes_over_time": "With this treatment, she recovered consciousness and was discharged home with no neurologic deficit. However, her chronic headaches continued as before."
+        },
+        {
+            "procedure_name": "Fiberoptic intraparenchymal monitor",
+            "date": "Five years after placement of the valveless shunt",
+            "findings": "Revealed normal pressures.",
+            "changes_over_time": "Her chronic headaches persisted and were treated as migraine."
+        }
+    ]
+}

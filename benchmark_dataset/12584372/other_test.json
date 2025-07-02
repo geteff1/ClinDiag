@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "The histologic examination revealed a superficial perivascular infiltrate, predominantly neutrophilic, associated with leukocytoclasis and no evidence of vasculitis. Mild vacuolar changes at the dermoepidermal junction were also noted.",
+            "changes_over_time": "The patient showed improvement after treatment but experienced a rash recurrence two weeks after discharge, with lesions on follow-up suggesting changes indicative of systemic lupus erythematosus."
+        },
+        {
+            "procedure_name": "Antinuclear antibodies test",
+            "date": "26 days before admission",
+            "findings": "Positive at a titer of 1:2560 with a homogeneous pattern.",
+            "changes_over_time": "Titer increased to 1:1280 during hospital admission."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT perfusion imaging",
+            "date": "Not specified",
+            "findings": "No evidence of ischemia, masses, hemorrhage, or cranial-artery occlusion or stenosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Peripheral-blood white-cell count",
+            "date": "Not specified",
+            "findings": "12.7×10^9 per liter (91% neutrophils, 6% lymphocytes, 2% monocytes, and 1% immature granulocytes).",
+            "changes_over_time": "Leukocytosis can occur in acute stroke but is also consistent with an inflammatory or infectious process."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Clear CSF with a white-cell count of 20 per cubic millimeter (85% neutrophils, 6% lymphocytes, 9% monocytes), red-cell count of 16 per cubic millimeter, glucose level of 68 mg/dL (3.8 mmol/L), protein level of 44 mg/dL.",
+            "changes_over_time": "Mild pleocytosis supports diagnosis of an infectious or inflammatory process."
+        },
+        {
+            "procedure_name": "Repeat CSF analysis",
+            "date": "6 days after initial presentation",
+            "findings": "Clear CSF with a white-cell count of 17 per cubic millimeter (70% lymphocytes), red-cell count of 303 per cubic millimeter, glucose level of 60 mg/dL (3.3 mmol/L), protein level of 102 mg/dL.",
+            "changes_over_time": "Predominance of lymphocytes indicates a shift from initial neutrophilic predominance."
+        },
+        {
+            "procedure_name": "Gram's staining of CSF",
+            "date": "Not specified",
+            "findings": "No organisms found.",
+            "changes_over_time": "Negative again upon repeat testing."
+        },
+        {
+            "procedure_name": "Latex agglutination test for bacterial antigens",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Negative again upon repeat testing."
+        },
+        {
+            "procedure_name": "qPCR assay of CSF for HSV",
+            "date": "Not specified",
+            "findings": "Negative for HSV-1 and HSV-2, VZV, and enterovirus.",
+            "changes_over_time": "Negative again upon repeat testing after further CSF samples."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Day 16",
+            "findings": "Lymphocytic inflammatory process with presence of HSV-infected cells.",
+            "changes_over_time": "Positive for HSV-1 after several negative PCR results."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Day 8",
+            "findings": "Substantial extension of signal abnormality in the left temporal and frontal lobes, with mild local mass effect.",
+            "changes_over_time": "Progression of signal abnormality observed."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Day 11",
+            "findings": "Further progression of signal abnormality, with mass effect on the lateral ventricle and 4 mm of midline shift.",
+            "changes_over_time": "Continued clinical deterioration despite initial treatment."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Days 20 and 23",
+            "findings": "Reduction in mass effect, but no change in temporal-lobe signal abnormality.",
+            "changes_over_time": "Decrease in mass effect but ongoing signal abnormality observed."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Day 80",
+            "findings": "Extensive necrosis of the left temporal lobe.",
+            "changes_over_time": "Indicates long-term effects of the disease."
+        }
+    ]
+}

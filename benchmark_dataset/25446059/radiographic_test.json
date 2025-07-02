@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest roentgenography",
+            "date": "Not specified",
+            "findings": "Enlargement of the right atrial and right ventricular silhouettes; proximal pulmonary arterial branches appear enlarged.",
+            "changes_over_time": "Progressive enlargement of the right atrial and pulmonary vessels compared to a previous roentgenograph from 3 years earlier."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography (TTE)",
+            "date": "Not specified",
+            "findings": "Normal size of the left side of the heart and normal left ventricular function; right atrial and right ventricular dilatation with moderate global right ventricular hypokinesis.",
+            "changes_over_time": "Indicated progression of right-sided heart failure."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography (TEE)",
+            "date": "Not specified",
+            "findings": "Communication between the left atrium and the superior vena cava; identification of an anomalous right superior pulmonary vein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Defined the course of the anomalous right superior pulmonary vein and confirmed the superior sinus venosus defect.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography (TTE)",
+            "date": "6 days postoperatively",
+            "findings": "Decreased right ventricular size; Dacron patch visible in the posterior right atrium.",
+            "changes_over_time": "Reduction in right ventricular dimensions post-surgery."
+        }
+    ]
+}

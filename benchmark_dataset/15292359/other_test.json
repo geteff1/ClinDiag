@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Age at diagnosis (25 days)",
+            "findings": "Decreased fT4 serum levels of 0.20 ng/dl and fT3 of 0.072 ng/dl, low serum TSH concentration of 0.23 U/ml.",
+            "changes_over_time": "After treatment with thyroid hormone replacement, patient remained euthyroid."
+        },
+        {
+            "procedure_name": "TRH stimulation test",
+            "date": "Not specified",
+            "findings": "Inadequate increase of the TSH concentration (maximum TSH concentration of 0.35 U/ml after 45 min).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Clonidine stimulation test",
+            "date": "Not specified",
+            "findings": "GH increase was weak, from 6.4 ng/ml at 0 min to maximum GH concentration of 8.9 ng/ml at 45 min.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cranial magnetic resonance imaging",
+            "date": "6 weeks of age",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH testing using two monoclonal antibodies",
+            "date": "Not specified",
+            "findings": "TSH detected in serum at low concentrations (0.047 and 0.043 U/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Haplotype analysis",
+            "date": "Not specified",
+            "findings": "Common haplotype shared among all affected individuals indicating a founder mutation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

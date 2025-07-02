@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": "10.6-11.3 mg/dL",
+                "PTH": "4.4-18.9 pmol/L (0.7-5.6 pmol/L)",
+                "urinary_calcium_to_creatinine_ratio": "0.89 to 1.03",
+                "sodium": "136 mmol/L (low)",
+                "potassium": "2.6 mmol/L (low)",
+                "chloride": "96 mmol/L",
+                "bicarbonate": "29 mmol/L (elevated)",
+                "magnesium": "1.4 mEq/L (slightly reduced)"
+            },
+            "relevant_findings": {
+                "medical_history": [
+                    "poor feeding",
+                    "gastroesophageal reflux disease",
+                    "recurrent upper respiratory tract infections",
+                    "polyuria",
+                    "nephrocalcinosis",
+                    "radio opaque kidney stones"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "40 months of age",
+            "vital_signs": {
+                "serum_sodium": "136 mmol/L",
+                "serum_potassium": "2.6 mmol/L",
+                "serum_chloride": "96 mmol/L",
+                "serum_bicarbonate": "29 mmol/L",
+                "serum_magnesium": "1.4 mEq/L"
+            },
+            "relevant_findings": {
+                "electrolyte_changes": [
+                    "low serum sodium (133 mmol/L)",
+                    "mildly increased serum creatinine",
+                    "mild primary hyperparathyroidism"
+                ]
+            },
+            "changes_over_time": "Serum sodium and potassium levels were low, and serum bicarbonate was elevated; progressively continuous hypercalciuria and elevated serum PTH levels noted over the years."
+        },
+        {
+            "date": "9 years old",
+            "vital_signs": {
+                "electrolytes": {
+                    "sodium": "133 mmol/L (mildly depressed)",
+                    "creatinine": "slightly increased",
+                    "PTH": "elevated (exact value not specified)"
+                }
+            },
+            "relevant_findings": {
+                "continuation": "Continuous hypercalciuria and elevated serum PTH levels with normal bone mineral density."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

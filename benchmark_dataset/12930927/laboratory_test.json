@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Human chorionic gonadotropin, β subunit",
+            "date": "8 weeks",
+            "findings": "60,429 U/liter",
+            "changes_over_time": "Decreased to 5,841 U/liter at 30 weeks followed by an increase to 15,486 U/liter at 40 weeks."
+        },
+        {
+            "procedure_name": "Inhibin B",
+            "date": "8 weeks",
+            "findings": "401 ng/liter",
+            "changes_over_time": "Declined to 8 ng/liter by 26 weeks and then increased to 80 ng/liter at 40 weeks."
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone",
+            "date": "8 weeks",
+            "findings": "0.025 U/liter",
+            "changes_over_time": "Remained low, increased to 0.080 U/liter at 40 weeks."
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "8 weeks",
+            "findings": "3,510 ng/liter",
+            "changes_over_time": "Increased during the first trimester and stabilized in the second trimester, reaching 13,870 ng/liter at 40 weeks."
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "8 weeks",
+            "findings": "2 µg/liter",
+            "changes_over_time": "Increased to 50 µg/liter by 30 weeks."
+        },
+        {
+            "procedure_name": "Sex hormone–binding globulin",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Increased from 411 nmol/liter at 12 weeks to 600 nmol/liter at 40 weeks."
+        }
+    ]
+}

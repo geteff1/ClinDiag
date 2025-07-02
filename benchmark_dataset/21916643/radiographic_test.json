@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Multiple ill-defined coalescing pulmonary nodules, bilaterally but primarily in the peripheral right lower lobe. The lesions are of varying sizes, up to approximately 3 cm in diameter, with air bronchograms and no evidence of calcification or cavitation.",
+            "changes_over_time": "At follow-up CT scan 2 months after antifungal therapy, the nodular lesions had not resolved."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Marked FDG avidity of the nodules in both lower lobes and increased metabolic activity of the pleura of the right lung.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

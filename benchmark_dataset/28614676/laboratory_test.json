@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Specific gravity higher than 1.030, pH of 6.0, 4+ ketones, and 1+ protein by dipstick.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia at a rate of 110 beats per minute, PR interval of 116 msec, corrected QT interval of 422 msec, evidence of incomplete right bundle-branch block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Data",
+            "date": "On Admission",
+            "findings": {
+                "White-cell count (per mm3)": "9200 (normal range: 4500–13,500)",
+                "Neutrophils (%)": "74.8 (normal range: 40–59)",
+                "Lymphocytes (%)": "18.7 (normal range: 33–48)",
+                "Monocytes (%)": "5.5 (normal range: 4–11)",
+                "Eosinophils (%)": "0.4 (normal range: 0–8)",
+                "Basophils (%)": "0.4 (normal range: 0–3)",
+                "Sodium (mmol/liter)": "136 (normal range: 135–145)",
+                "Potassium (mmol/liter)": "5.2 (normal range: 3.4–4.8)",
+                "Chloride (mmol/liter)": "100 (normal range: 100–108)",
+                "Carbon dioxide (mmol/liter)": "21.0 (normal range: 23.0–31.9)",
+                "Plasma anion gap (mmol/liter)": "15 (normal range: 3–15)",
+                "Albumin (g/dl)": "5.5 (normal range: 3.3–5.0)",
+                "Phosphorus (mg/dl)": "4.4 (normal range: 4.5–5.5)"
+            },
+            "changes_over_time": "Mild hyperkalemia was initially noted but was likely a laboratory error (hemolysis), as a second sample revealed a normal potassium level."
+        }
+    ]
+}

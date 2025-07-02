@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "109/74 mm Hg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "description": "The patient was well groomed, alert, cooperative, oriented, and lucid, with coherent speech. He was described as fidgeting, anxious, and irritable. The remainder of the cardiovascular, pulmonary, abdominal, and musculoskeletal examination was normal.",
+                "urine_toxicology": {
+                    "positive": [
+                        "cannabinoids"
+                    ],
+                    "negative": [
+                        "amphetamines",
+                        "barbiturates",
+                        "benzodiazepines",
+                        "cocaine",
+                        "opiates",
+                        "phencyclidine"
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

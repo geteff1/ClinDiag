@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Weight: 74.4 kg; Vital signs: Normal",
+            "relevant_findings": "Lips dry; Capillary blood glucose level: 314 mg/dL (17.4 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 days before admission",
+            "vital_signs": "Blood pressure: 128/76 mm Hg; Pulse: 100 bpm; Weight: 73.8 kg",
+            "relevant_findings": "Lungs were clear; Trace edema of the legs; Pedal pulses 2+ bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day of admission",
+            "vital_signs": "Blood pressure: 153/80 mm Hg; Pulse: 120 bpm; Respiratory rate: 20 breaths/min; Oxygen saturation: 96%; Temperature: 37.4°C, rose to 38.2°C",
+            "relevant_findings": "Remainder of examination: normal; Chest radiograph showed patchy opacities at lung bases consistent with pneumonia; Nodular opacity in right upper lobe increased in size.",
+            "changes_over_time": "Increased temperature and abnormal findings noted on chest radiograph."
+        },
+        {
+            "date": "3 months after discharge",
+            "vital_signs": "Weight: 64.9 kg; Blood pressure: low",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Marked fatigue and rising blood-sugar levels noted."
+        },
+        {
+            "date": "5 months after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Persistent fatigue, thinning hair, worsening edema in legs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Before wedge resection",
+            "vital_signs": "Morning cortisol level: 5.2 μg/dL (140 nmol/L); Corticotropin level: 13 pg/mL (2.9 pmol/L)",
+            "relevant_findings": "Improved glycemic control; Weight stable; Hypertension, tremor, and bloating resolved; Some leg weakness persists.",
+            "changes_over_time": "Symptoms improved markedly after wedge resection."
+        }
+    ]
+}

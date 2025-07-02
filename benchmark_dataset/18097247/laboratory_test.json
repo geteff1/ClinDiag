@@ -1,0 +1,29 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "FDG Positron Emission Tomography",
+            "date": "Not specified",
+            "findings": {
+                "areas": [
+                    {
+                        "location": "Right upper lung mass",
+                        "maximum_suv": 13.2
+                    },
+                    {
+                        "location": "Right lower lung mass",
+                        "maximum_suv": 11.2
+                    }
+                ],
+                "normal_suv_range": "Kaolin nodules with SUVs ranging from 1 to 3.7",
+                "malignancy_indicator": "SUVs of 2.5 or greater indicate malignancy"
+            },
+            "changes_over_time": "The right upper and right lower lung mass gradually increased in size over 2 years."
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "Not specified",
+            "findings": "Demonstrated restrictive lung dysfunction with decreased FVC and FEV1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

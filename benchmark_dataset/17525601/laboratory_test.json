@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.24",
+                "PaO2": "83 mmHg",
+                "PaCO2": "59 mmHg",
+                "Bicarbonate": "23 mM",
+                "Base excess": "Not specified",
+                "SaO2": "96%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "After 12 hours of prone positioning",
+            "findings": {
+                "pH": "7.43",
+                "PaO2": "82 mmHg",
+                "PaCO2": "50 mmHg",
+                "Bicarbonate": "34 mM",
+                "Base excess": "7 mM",
+                "SaO2": "97%"
+            },
+            "changes_over_time": "Improvement in arterial blood gas values after prone positioning."
+        },
+        {
+            "procedure_name": "Lung Computed Tomography",
+            "date": "Day 7",
+            "findings": "Bilateral posterior alveolar consolidation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiography",
+            "date": "Not specified",
+            "findings": "Acute cor pulmonale.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Respiratory Mechanics Measurements",
+            "date": "Day 7",
+            "findings": {
+                "PEEPi": "12 cm H2O",
+                "Lower inflection point": "14 cm H2O"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Respiratory Mechanics Measurements",
+            "date": "After 12 hours of prone positioning",
+            "findings": {
+                "PEEPi": "2 cm H2O",
+                "Lower inflection point": "3 cm H2O"
+            },
+            "changes_over_time": "Decrease in PEEPi and lower inflection point after prone positioning."
+        }
+    ]
+}

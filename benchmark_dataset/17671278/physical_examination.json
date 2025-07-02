@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "117 bpm",
+                "blood_pressure": "144/90 mm Hg",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "distress_level": "mildly distressed and anxious",
+                "orientation": "oriented to person, place, and time",
+                "visible lesions": "multiple scabs, no bugs or parasites visible"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day Two",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dermatological_examination": "lichenified, excoriated, ecthymatous crusts over legs, arms, hands, chest, shoulders, and scalp without burrows or webspace involvement"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day Three",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dermatological_examination": "continuation of complaints regarding the sensation of bugs on the skin"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day Four",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dermatological_examination": "patient lying in bed complaining of itching, seeing bugs and worms on arms, neck, torso, and legs"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Six days postdischarge",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dermatological_examination": "multiple ulcers appreciated on scalp and extremities with blood at the bases, no burrows or other signs of scabies"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two months after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "dermatological_examination": "well oriented and picking at sores, reported considerable itching despite treatment"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

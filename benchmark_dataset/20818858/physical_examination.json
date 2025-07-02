@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36°C",
+                "heart_rate": "40 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100% (on 100% oxygen)"
+            },
+            "relevant_findings": "The patient was alert, oriented, uncomfortable, with perioral and acral cyanosis. Coarse breath sounds were noted. Electrocardiogram showed ST-segment elevation in inferior leads, consistent with acute myocardial infarction, and third-degree atrioventricular block with a ventricular rate of 40 bpm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

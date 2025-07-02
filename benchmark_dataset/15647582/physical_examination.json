@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/84 mm Hg",
+                "pulse": "80 bpm",
+                "temperature": "37.2°C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared well.",
+                "neurologic": [
+                    "Left pronator drift when holding arms out in front.",
+                    "Ataxia of the left arm on finger-to-nose testing.",
+                    "Unable to keep balance while sitting unsupported.",
+                    "Unable to stand on her own.",
+                    "Mild clumsiness in left arm and leg during finger tapping and heel-to-shin testing.",
+                    "Deep tendon reflexes: 2+ in both arms and 3+ at both knees.",
+                    "Several beats of clonus at both ankles.",
+                    "Plantar responses: flexor bilaterally."
+                ]
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

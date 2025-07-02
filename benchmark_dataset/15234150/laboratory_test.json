@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Profile",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the Brain",
+            "date": "Not specified",
+            "findings": "Acute left subdural hematoma in patient 1; simple parietal skull fracture and small acute subdural hemorrhage in patient 2; small acute subdural hematoma over the convexities and falx in patient 3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skeletal Survey",
+            "date": "Not specified",
+            "findings": "Abnormalities consistent with OI and a healing nondisplaced oblique fracture of the distal left tibia and each ulna for patient 1; generalized osteopenia, a healed left posterior rib, and femur fractures for patient 2; normal for patient 3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

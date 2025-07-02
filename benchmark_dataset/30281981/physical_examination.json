@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Mid-January 2018",
+            "vital_signs": {
+                "blood_pressure": "133/88 mm Hg",
+                "heart_rate": "109 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "temperature": "38.5°C (101.3°F)",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "appearance": "Diaphoretic and dyspneic",
+                "inspiration": "Used accessory muscles",
+                "edema": "Mild edema of both lower legs and feet",
+                "pulmonary": "Bibasilar crackles",
+                "cardiac": "No jugular venous distention, no murmur or rub"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Days 2 and 3 after admission",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "persistent_symptoms": "Chest pain and marked dyspnea"
+            },
+            "changes_over_time": "Treponin I level decreased to 1.32 ng per milliliter"
+        },
+        {
+            "date": "1 week after discharge",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "22 breaths per minute",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": "1+ pitting edema of the ankle",
+                "appearance": "Periorbital edema",
+                "inspiration": "Used accessory muscles",
+                "pulmonary": "Bibasilar crackles"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

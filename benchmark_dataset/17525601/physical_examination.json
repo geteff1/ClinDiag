@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Arterial oxygen saturation: 92% on 15 l/min oxygen; pH: 7.24; arterial partial pressure of oxygen: 83 mmHg; arterial partial pressure of carbon dioxide: 59 mmHg; bicarbonate: 23 mM; base excess: Not specified; arterial oxygen saturation: 96%",
+            "relevant_findings": "The patient was conscious, hemodynamically stable, with bilateral crackles predominantly on the left side.",
+            "changes_over_time": "On day 2, dyspnea worsened leading to tracheal intubation, deep sedation, and paralysis. Improvements were noted after 12 hours of prone positioning with PEEPi reducing from 12 cm H2O to 2 cm H2O and lower inflection point improving from 14 cm H2O to 3 cm H2O."
+        },
+        {
+            "date": "Day 2",
+            "vital_signs": "pH: 7.24; arterial partial pressure of oxygen: 83 mmHg; arterial partial pressure of carbon dioxide: 59 mmHg; bicarbonate: 23 mM; arterial oxygen saturation: 96%",
+            "relevant_findings": "Dyspnea increased requiring tracheal intubation.",
+            "changes_over_time": "Worsening of respiratory distress and implementation of mechanical ventilation."
+        },
+        {
+            "date": "Day 7",
+            "vital_signs": "PEEPi: 12 cm H2O; lower inflection point: 14 cm H2O",
+            "relevant_findings": "Chest radiograph showed bilateral alveolointerstitial infiltrates. ARDS persisted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Day 19",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient successfully weaned from the ventilator.",
+            "changes_over_time": "Improvement noted."
+        },
+        {
+            "date": "Day 24",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient discharged from the intensive care unit.",
+            "changes_over_time": "Patient continued to improve."
+        }
+    ]
+}

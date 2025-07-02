@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neonatal TSH screening",
+            "date": "Not specified",
+            "findings": "TSH was 0.15 mU/liter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T3 (fT3)",
+            "date": "Not specified",
+            "findings": "Low at 0.83 pmol/liter (age-related normal range, 2.2 –8.8 pmol/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4 (fT4)",
+            "date": "Not specified",
+            "findings": "Undetectable (age-related normal range, 15 –30 ng/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid hormone investigation",
+            "date": "Not specified",
+            "findings": "Total T3 diminished at 0.56 /H9262g/liter (age-related normal range, 1.32 –3.71/H9262g/liter) and 24 /H9262g/liter (age-related normal range, 89 –236/H9262g/liter). TSH was low (0.06 mU/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total T3",
+            "date": "Not specified",
+            "findings": "Very low at 0.29 /H9262g/liter (age-related normal range, 1.05–2.45 /H9262g/liter).",
+            "changes_over_time": "Under T4 substitution, T3 normalized to 1.93 /H9262g/liter."
+        },
+        {
+            "procedure_name": "Total T4",
+            "date": "Not specified",
+            "findings": "Very low at 5 /H9262g/liter (age-related normal range, 59 –163 /H9262g/liter).",
+            "changes_over_time": "Under T4 substitution, T4 normalized to 117 /H9262g/liter."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Initially low at 0.3 mU/liter.",
+            "changes_over_time": "Under T4 substitution, TSH was still low with 0.07 mU/liter."
+        },
+        {
+            "procedure_name": "Free T4 (fT4)",
+            "date": "Not specified",
+            "findings": "2 ng/liter (age-related normal range, 15 –30 ng/liter).",
+            "changes_over_time": "Under therapy with 50 /H9262g/d T4, physical and mental development was normal."
+        }
+    ]
+}

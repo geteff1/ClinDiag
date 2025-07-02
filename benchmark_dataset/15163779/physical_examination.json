@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.5°C",
+                "blood_pressure": "170/123 mm Hg",
+                "heart_rate": "154 bpm",
+                "oxygen_saturation": "78-85%"
+            },
+            "relevant_findings": {
+                "pupils": "4 mm, sluggishly reactive to light",
+                "trachea": "midline",
+                "oropharynx": "clear",
+                "carotid_pulses": "palpable",
+                "lung_exam": "normal on auscultation",
+                "abdomen": "soft, not distended, normal bowel sounds",
+                "left_lower_leg": "in a cast",
+                "skin": "cool with peripheral cyanosis",
+                "neurological": "no spontaneous movement of eyes, arms, or legs; no gag reflex"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "60-70 mm Hg"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The systolic blood pressure increased to 130-140 mm Hg after treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "80/40 mm Hg",
+                "oxygen_saturation": "70-72%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure improved to 140 mm Hg following thrombolytic therapy."
+        }
+    ]
+}

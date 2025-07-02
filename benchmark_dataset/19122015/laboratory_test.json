@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Albumin",
+            "date": "Not specified",
+            "findings": "Low serum albumin (3.6 g/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pre-albumin",
+            "date": "Not specified",
+            "findings": "Low pre-albumin (17.0 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Mild anemia (hemoglobin 10.6 g/dl; hematocrit=33%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Inverted T waves in inferior leads and pronounced P waves in lead 2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate aortic regurgitation and ejection fraction of approximately 55%",
+            "changes_over_time": "Ejection fraction previously noted at 50% two years prior to admission"
+        },
+        {
+            "procedure_name": "DEXA Bone Densitometry",
+            "date": "25 years old",
+            "findings": "T score consistent with both disordered eating and William’s syndrome-associated hypercalcemia (T score of -1.5 indicating osteopenia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastric Emptying Study",
+            "date": "Not specified",
+            "findings": "Markedly delayed and prolonged gastric emptying but no specific outlet obstruction",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

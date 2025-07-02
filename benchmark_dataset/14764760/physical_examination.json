@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 21, 2001",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "other": {
+                    "serum_sodium": "124 milliequivalents/liter, nl. 136-145",
+                    "potassium": "5.9 milliequivalents/liter, nl. 3.5-5",
+                    "total_calcium": "8.0 mg/dl, nl. 8.8-10.5",
+                    "ionized_calcium": "1.0 mmol/liter, nl. 1.13-1.32",
+                    "albumin": "4.4 mg/dl, nl. 3.7-5.4",
+                    "phosphorus": "4.0 mg/dl, nl. 2.5-4.5",
+                    "serum_magnesium": "1.5 mg/dl, nl. 1.8-2.5"
+                }
+            },
+            "relevant_findings": {
+                "hypotension": "Not specified",
+                "hyperpigmentation": "Not specified",
+                "other": "Unremarkable physical examination except for hypotension and marked hyperpigmentation."
+            },
+            "changes_over_time": "Serum total calcium concentrations were 9.2 and 9.7 mg/dl (2.3 and 2.43 mmol/liter) three and 13 months after discharge."
+        },
+        {
+            "date": "At age 25",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "other": {
+                    "serum_calcium": "7.8 mg/dl, nl. 8.2-10.2",
+                    "PTH": "0.34 ng/ml [nl. 10.4]"
+                }
+            },
+            "relevant_findings": "Histological examination of parathyroid gland was normal, showing no lymphocytic infiltration.",
+            "changes_over_time": "Over 9 years of treatment, the patient had fluctuating hypo- and hyperthyroidism leading to subtotal thyroidectomy."
+        }
+    ]
+}

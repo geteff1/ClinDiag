@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3 °C",
+                "pulse_rate": "101 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "systolic_blood_pressure": "80 mmHg after spiking fever",
+                "baseline_systolic_blood_pressure": "∼160 mmHg"
+            },
+            "relevant_findings": {
+                "examination": "Alert but appeared chronically ill. Icteric sclerae and hepatomegaly noted.",
+                "WBC_count": "4920 cells/mL",
+                "hemoglobin": "11.5 g/dL",
+                "platelet_count": "129,000 cells/mL",
+                "bilirubin": "17.8/11.2 mg/dL",
+                "ALT": "363 mg/dL",
+                "AST": "359 mg/dL",
+                "creatinine": "1.8 mg/dL",
+                "chest_radiography": "Right hilar mass and pleural effusion observed."
+            },
+            "changes_over_time": {
+                "initial_condition": "Stable with non-specific signs of illness.",
+                "after_second_day_of_chemotherapy": "Developed chest tightness, elevated creatine kinase, and non-ST-segment elevation myocardial infarction.",
+                "spiking_fever": "High spiking fever (40 °C) and loss of consciousness occurred 10 hours later, with profound shock noted."
+            }
+        }
+    ]
+}

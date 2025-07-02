@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/80 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "cardiovascular_exam": "Normal without murmurs; soft central systolic abdominal bruit radiating to both flank regions.",
+                "MRA": "Severe stenosis at the origin of the main left renal artery with a patent accessory renal artery."
+            },
+            "changes_over_time": "Blood pressure was difficult to control with previous medications but improved with adjustment to atenolol, chlorthalidone, and felodipine."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "138/78 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "cardiovascular_exam": "Exam findings indicate improvement in blood pressure control.",
+                "MRA": "One previous examination showed severe stenosis, but no intervention was performed."
+            },
+            "changes_over_time": "There has been overall improvement in blood pressure control with the new medication regimen."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/80 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "cardiovascular_exam": "No new significant findings disturbed by the medication adjustments; blood tests revealed normal electrolyte and renal function.",
+                "laboratory_tests": "Normal complete blood cell count and electrolytes."
+            },
+            "changes_over_time": "With this regimen, subjective symptoms have improved and blood pressure has been reasonably well controlled."
+        }
+    ]
+}

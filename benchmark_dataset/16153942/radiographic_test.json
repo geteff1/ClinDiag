@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thallium scan",
+            "date": "Not specified",
+            "findings": "Abnormal uptake suggestive of malignancy in the base of the heart.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Soft tissue mass on top of the atrioventricular groove encasing the right coronary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Completely normal cardiac and valve function; however, a large right ventricular mass was seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Angiogram (MRA)",
+            "date": "Not specified",
+            "findings": "No ischemic insult, no cerebral mass, and normal carotid arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron Emission Tomographic (PET) scan",
+            "date": "Not specified",
+            "findings": "Area of increased uptake in the anterior mediastinum with a standardized uptake value of 2.8, within the malignant range but not typical for high-grade sarcoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

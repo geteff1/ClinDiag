@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prolactin (PRL) Test",
+            "date": "Not specified",
+            "findings": "Elevated to 1600 ng/mL (normal range, 1–11 ng/mL). On therapy with bromocriptine, values ranged from 105–435 ng/mL. Post-surgery, levels declined by approximately 50% but then increased gradually back to preoperative levels. On cabergoline treatment, PRL levels were less than 100 ng/mL.",
+            "changes_over_time": "PRL levels elevated to 1600 ng/mL initially; post-surgery levels declined but increased back to preoperative levels; then levels decreased to less than 100 ng/mL with cabergoline."
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor I (IGF-I) Test",
+            "date": "Not specified",
+            "findings": "Levels were 84 nmol/L (650 ng/mL; normal range, 51–288 ng/mL). After treatment, IGF-I levels decreased to 9.9 nmol/L (76 ng/mL; normal range, 2–118 ng/mL).",
+            "changes_over_time": "IGF-I levels initially 84 nmol/L, decreased to 9.9 nmol/L after treatment."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "Thyroid-stimulating hormone (TSH) was 0.14 uIU/mL (normal range, 0.4–4.6 uIU/mL); free T4 was 0.9 ng/mL (normal range, 1–1.9 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Growth Hormone (GH) Tests",
+            "date": "Not specified",
+            "findings": "Average levels of GH were 5.6 ng/mL, showing complete loss of pulsatility and were not suppressible by oral glucose tolerance testing.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IGF-binding Protein-3 Test",
+            "date": "Not specified",
+            "findings": "Levels were normal at 3.3 mg/L (normal range, 1.5–3.4 mg/L). After treatment, levels remained in the normal range at 3.5 mg/L.",
+            "changes_over_time": "Normal throughout, not specified."
+        },
+        {
+            "procedure_name": "Pituitary Function Tests",
+            "date": "Not specified",
+            "findings": "Secondary hypothyroidism indicated by abnormal thyroid-stimulating hormone and free T4 levels.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

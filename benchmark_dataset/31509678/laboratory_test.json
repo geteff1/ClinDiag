@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pulmonary-function testing",
+            "date": "Not specified",
+            "findings": {
+                "FEV1": "23% of the predicted value",
+                "FVC": "45% of the predicted value",
+                "FEV1/FVC_ratio": "44%",
+                "total_lung_capacity": "108% of the predicted value",
+                "residual_volume_to_total_lung_capacity": "65%",
+                "diffusing_capacity": "26% of the predicted value"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": {
+                "right_atrial_dilatation": "Present",
+                "right_ventricular_dilatation": "Present",
+                "inferior_vena_cava_dilatation": "Present",
+                "right_ventricular_systolic_pressure": "65 mm Hg",
+                "aortic_root": "Not enlarged",
+                "aortic_valve": "Thickened and prolapsed",
+                "aortic_regurgitation": "Moderate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": {
+                "hyperinflation": "Severe confluent emphysema",
+                "apical_bullae": "Multiple",
+                "bronchial_wall_thickening": "Present",
+                "bronchiectasis": "Absent",
+                "main_pulmonary_artery_diameter": "3.8 cm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for FLNA mutation",
+            "date": "Not specified",
+            "findings": {
+                "mutation": "c.6830_6831delTT (p.Phe2277Ter)",
+                "result": "Heterozygous"
+            },
+            "changes_over_time": "No mutations were identified during the initial genetic screening at age 6"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Confirmed the solitary liver mass, with contrast enhancement suggestive of hepatocellular carcinoma.",
+            "changes_over_time": "In a subsequent MRI, further tumor expansion was detected."
+        },
+        {
+            "procedure_name": "Gallium-68 Dotatate PET-CT",
+            "date": "One year after the initial diagnosis",
+            "findings": "Showed radiotracer uptake in a 1.8-cm mass adjacent to the previously treated hepatic lesion; suggested recurrent or residual disease.",
+            "changes_over_time": "Revealed no intestinal uptake but indicated metastatic disease in a 1.5-cm periportal lymph node and in the right anterior iliac bone."
+        }
+    ]
+}

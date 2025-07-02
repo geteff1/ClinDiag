@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CA125 level test",
+            "date": "Not specified",
+            "findings": "CA125 level was 239.9 U/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Detected no abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastroscopy biopsy",
+            "date": "Not specified",
+            "findings": "Indicated mild chronic inflammation of the gastric mucosa.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Detected no abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic contrast-enhanced CT",
+            "date": "Not specified",
+            "findings": "Showed multiple cystic masses on both ovaries, with the largest measuring 9.0 cm × 8.7 cm × 7.4 cm and containing solid papillary nodules.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

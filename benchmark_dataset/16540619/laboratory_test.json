@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "94 white cells, with 32% lymphocytes, 8% neutrophils, 40% monocytes, and 19% large cells with nucleoli and basophilic cytoplasm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Large atypical lymphocytes found, similar to the nodal lymphoma cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": {
+                "Sodium (mmol/liter)": "131 (Normal Range: 135–145)",
+                "Potassium (mmol/liter)": "3.4 (Normal Range: 3.4–4.2)",
+                "Alanine aminotransferase (U/liter)": "45 (Normal Range: 7–30)",
+                "Aspartate aminotransferase (U/liter)": "36 (Normal Range: 9–32)",
+                "Lactic dehydrogenase (U/liter)": "290 (Normal Range: 110–210)",
+                "Alkaline phosphatase (U/liter)": "41 (Normal Range: 30–100)",
+                "Amylase (U/liter)": "53 (Normal Range: 3–100)",
+                "Hematocrit (%)": "36.9 (Normal Range: 36.0–46.0)",
+                "White cells (per mm³)": "6,800 (Normal Range: 4,500–11,000)",
+                "Platelets (per mm³)": "187,000 (Normal Range: 150,000–350,000)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

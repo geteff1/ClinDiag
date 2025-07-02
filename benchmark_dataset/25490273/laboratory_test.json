@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcitonin",
+            "date": "Not specified",
+            "findings": "/H110212pg/mL, undetectable after 1:100 dilution",
+            "changes_over_time": "Postoperatively, serum calcitonin has remained undetectable."
+        },
+        {
+            "procedure_name": "Serum CEA",
+            "date": "Not specified",
+            "findings": "3.1 ng/mL (normal reference range)",
+            "changes_over_time": "CEA has remained within the reference range."
+        },
+        {
+            "procedure_name": "Procalcitonin",
+            "date": "Not specified",
+            "findings": "0.21 ng/mL (elevated)",
+            "changes_over_time": "Procalcitonin has become undetectable postoperatively."
+        },
+        {
+            "procedure_name": "Chromogranin A",
+            "date": "Not specified",
+            "findings": "6.2 ng/mL (normal range 2.0–14.9 ng/mL)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

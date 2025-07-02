@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "stage 3 fibrosis, no steatohepatitis or other types of liver injury",
+            "changes_over_time": "Fibrosis is progressive and does not spontaneously resolve after the primary HCV infection period."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "4 months after diagnosis of primary HCV infection",
+            "findings": "grade 2 inflammation and stage 2 fibrosis, with concomitant grade 2 steatohepatitis",
+            "changes_over_time": "Liver transaminases peaked at the time of liver biopsy and remained in the 200-300 U/L range subsequently."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "28 months after diagnosis of primary HCV infection",
+            "findings": "grade 4 inflammation and stage 3 fibrosis",
+            "changes_over_time": "Repeated liver biopsy showed grade 3 inflammation and stage 4 fibrosis characteristic of HCV-induced liver disease."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "3.5 years after diagnosis of primary HCV infection",
+            "findings": "grade 2 inflammation and stage 3 fibrosis, with concomitant grade 1 steatohepatitis",
+            "changes_over_time": "Repeat liver biopsy 1 year later showed grade 3 inflammation and stage 4 fibrosis, but no change in grade 1 steatohepatitis."
+        }
+    ]
+}

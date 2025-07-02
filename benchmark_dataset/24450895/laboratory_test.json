@@ -1,0 +1,92 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": {
+                    "2 months before admission": "39.5%",
+                    "2 weeks before admission": "33.0%",
+                    "1 day before admission": "26.5%",
+                    "1st admission": "28.7%",
+                    "2nd admission": "33.3%"
+                },
+                "hemoglobin": {
+                    "2 months before admission": "13.4 g/dl",
+                    "2 weeks before admission": "11.4 g/dl",
+                    "1 day before admission": "8.9 g/dl",
+                    "1st admission": "10.0 g/dl",
+                    "2nd admission": "11.8 g/dl"
+                },
+                "white-cell count": {
+                    "2 months before admission": "4500/mm3",
+                    "2 weeks before admission": "6700/mm3",
+                    "1 day before admission": "3900/mm3",
+                    "1st admission": "5800/mm3",
+                    "2nd admission": "8800/mm3"
+                }
+            },
+            "changes_over_time": "Progressive anemia was observed with a hematocrit falling from 39.5% to 26.5% and hemoglobin from 13.4 g/dl to 8.9 g/dl before the first admission."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "alkaline phosphatase": {
+                    "2 months before admission": "72 U/liter",
+                    "2 weeks before admission": "76 U/liter",
+                    "1 day before admission": "84 U/liter",
+                    "1st admission": "156 U/liter"
+                },
+                "alanine aminotransferase": {
+                    "2 months before admission": "21 U/liter",
+                    "2 weeks before admission": "21 U/liter",
+                    "1 day before admission": "22 U/liter",
+                    "1st admission": "45 U/liter"
+                },
+                "aspartate aminotransferase": {
+                    "2 months before admission": "21 U/liter",
+                    "2 weeks before admission": "26 U/liter",
+                    "1 day before admission": "26 U/liter",
+                    "1st admission": "39 U/liter"
+                }
+            },
+            "changes_over_time": "Elevated liver enzymes were noted with alkaline phosphatase increasing from 72 to 156 U/liter and alanine aminotransferase from 21 to 45 U/liter by the first admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": {
+                    "2 months before admission": "0.88 mg/dl",
+                    "2 weeks before admission": "0.91 mg/dl",
+                    "1 day before admission": "0.98 mg/dl",
+                    "1st admission": "1.66 mg/dl",
+                    "2nd admission": "2.4 mg/dl"
+                }
+            },
+            "changes_over_time": "Creatinine levels rose progressively from 0.88 mg/dl to 1.66 mg/dl before the first admission and further increased to 2.4 mg/dl by the second admission."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "color": "Cloudy",
+                "albumin": "3+",
+                "blood": ">100 red cells/hpf",
+                "hyaline casts": ">100",
+                "red cell casts": "Present"
+            },
+            "changes_over_time": "Urinalysis showed red cell casts and significant proteinuria indicated renal involvement at the second admission, compared to normal findings previously."
+        },
+        {
+            "procedure_name": "Cryoglobulin Testing",
+            "date": "Not specified",
+            "findings": {
+                "cryocrit": "3%",
+                "immunofixation": "IgM kappa bands and polyclonal IgG"
+            },
+            "changes_over_time": "The cryocrit increased to 8% after initial treatment, indicating an exacerbation of symptoms and underlying cryoglobulinemia."
+        }
+    ]
+}

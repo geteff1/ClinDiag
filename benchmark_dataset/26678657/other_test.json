@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Ultrasound Guided Fine Needle Aspiration (EUS-guided FNA)",
+            "date": "Not specified",
+            "findings": "Cytopathological features consistent with a tumor of neuroendocrine cell origin, positive immunohistochemical staining for chromogranin A and synaptophysin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exploratory Laparotomy",
+            "date": "Not specified",
+            "findings": "Planned Whipple procedure was not feasible; debulking of tumor was performed with involved margins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor Ablation by NanoKnife Technique",
+            "date": "Not specified",
+            "findings": "Not successful.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Sequencing (Tumor DNA)",
+            "date": "Not specified",
+            "findings": "No LOH or copy number changes, no other deleterious genetic alterations identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-Throughput Transcriptome Analysis by RNA-seq",
+            "date": "Not specified",
+            "findings": "Did not reveal any missed genetic alterations, aberrant splicing variants, gene fusions, or gene expression alterations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological Evaluation",
+            "date": "Not specified",
+            "findings": "Well-differentiated, WHO grade 1 NET with Ki-67 index of 12%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry for PTEN",
+            "date": "Not specified",
+            "findings": "Abnormal, uniformly strong cytoplasmic staining of tumor cells with virtually absent nuclear staining.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

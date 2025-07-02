@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "pulse": "110 bpm",
+                "temperature": "38.9°C"
+            },
+            "relevant_findings": {
+                "pupils": "3 mm, minimally reactive to light",
+                "oral_mucosa": "dry",
+                "breath_sounds": "diminished over right lung fields",
+                "extremities": "cold and cyanotic"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "105/70 mm Hg",
+                "pulse": "115 bpm",
+                "temperature": "38.1°C",
+                "respiratory_rate": "Not specified (mechanical ventilation)"
+            },
+            "relevant_findings": {
+                "pupils": "4 mm, constrictive to 3 mm on light exposure",
+                "neck": "supple",
+                "breath_sounds": "coarse",
+                "extremities": "cold, mottled"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia with nonspecific T-wave changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Small right pleural effusion with right lower-lobe infiltrate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Evaluation",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "Blood Urea Nitrogen",
+                    "result": "12 mg/dL (4.3 mmol/L)",
+                    "normal_range": "Not specified."
+                },
+                {
+                    "test": "Creatinine",
+                    "result": "0.97 mg/dL (85.7 μmol/L)",
+                    "normal_range": "Not specified."
+                },
+                {
+                    "test": "Alanine Aminotransferase (ALT)",
+                    "result": "24 U/L (reference range, 7 to 52)",
+                    "normal_range": "Within normal limits."
+                },
+                {
+                    "test": "Aspartate Aminotransferase (AST)",
+                    "result": "23 U/L (reference range, 9 to 30)",
+                    "normal_range": "Within normal limits."
+                },
+                {
+                    "test": "Alkaline Phosphatase",
+                    "result": "410 U/L (reference range, 36 to 118)",
+                    "normal_range": "Outside normal limits."
+                },
+                {
+                    "test": "Total Bilirubin",
+                    "result": "0.2 mg/dL (3.4 μmol/L; reference range, 0.2 to 1.2)",
+                    "normal_range": "Within normal limits."
+                },
+                {
+                    "test": "Albumin",
+                    "result": "2.1 g/dL (reference range, 3.7 to 5.4)",
+                    "normal_range": "Outside normal limits."
+                },
+                {
+                    "test": "Total Protein",
+                    "result": "6.3 g/dL (reference range, 6.0 to 8.0)",
+                    "normal_range": "Within normal limits."
+                },
+                {
+                    "test": "White-Cell Count",
+                    "result": "6290 per mm³ with 52% neutrophils",
+                    "normal_range": "Not specified."
+                },
+                {
+                    "test": "D-Dimer",
+                    "result": "3418 ng/mL (reference range, <500)",
+                    "normal_range": "Outside normal limits."
+                }
+            ],
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ protein, 2+ blood, no glucosuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "Not specified",
+            "findings": "10,975 mg of protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cholesterol Level Measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "test": "Total Cholesterol",
+                    "result": "273 mg/dL (7.1 mmol/L)",
+                    "normal_range": "Not specified."
+                },
+                {
+                    "test": "Low-Density Lipoprotein Cholesterol (LDL)",
+                    "result": "207 mg/dL (5.4 mmol/L)",
+                    "normal_range": "Not specified."
+                }
+            ],
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ANCA Testing",
+            "date": "Not specified",
+            "findings": "ANCA titer 1:640 with atypical staining pattern.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "γ-Glutamyltransferase level was elevated at 418 U/L (normal range, 14 to 62).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

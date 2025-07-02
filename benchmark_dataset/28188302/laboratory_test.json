@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "The proband was homozygous for SLC18A3 c.1078G.C, p.Gly360Arg, which is not reported in world populations but has a carrier frequency of 1:30 in healthy Yemeni Jews.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "Not specified",
+            "findings": "Demonstrated delayed myelination with normal size and structure of ventricles and corpus callosum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Head ultrasound",
+            "date": "First 3 months of life",
+            "findings": "Normal head ultrasounds were observed at the first 3 months of life. Brain atrophy was first noticed at 3 months.",
+            "changes_over_time": "Normal at 1, 2, and 3 months, with subsequent brain atrophy noted at 3 months."
+        },
+        {
+            "procedure_name": "Hearing test (Brainstem evoked response audiometry)",
+            "date": "Not specified",
+            "findings": "Hearing threshold of 60 dB in the right ear and 80 dB in the left ear, with prolonged absolute latencies and interpeak interval for waves I to VI.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

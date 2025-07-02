@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "102 bpm",
+                "temperature": "Afeverile",
+                "respiratory_rate": "Normal",
+                "weight": "13.2 kg (75th percentile)"
+            },
+            "relevant_findings": {
+                "malignant_tumors": "A firm, oval, nontender, slightly mobile subcutaneous nodule, approximately 10 by 20 mm in the left postauricular area.",
+                "nodules": "Three nodules ranging from 8 to 15 mm in diameter on the midanterior tibial regions; another nodule approximately 10 mm in diameter on the dorsum of the right hand; no discomfort on palpation."
+            },
+            "changes_over_time": "The nodule on the left index finger was no longer evident."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Radiographs of the chest showed mild prominence of the pulmonary interstitium without focal consolidation or pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

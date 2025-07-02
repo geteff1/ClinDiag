@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "16 months before admission",
+            "findings": "Mild scattered periventricular white-matter hyperintensities and a few chronic microhemorrhages.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "12 days before admission",
+            "findings": "More extensive white-matter changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "On admission",
+            "findings": "Progression of white-matter abnormalities and development of white-matter edema, more pronounced in the temporal lobes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "7 days after initial admission",
+            "findings": "No evidence of acute infarct or new hemorrhage.",
+            "changes_over_time": "Edema progressively resolved."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "On last admission (12 days after discharge)",
+            "findings": "New punctate acute infarcts in the right temporal and left occipital lobes; partial resolution of previously described extensive abnormalities seen on T2-weighted imaging.",
+            "changes_over_time": "Increased number of microhemorrhages predominately in the occipital, posterior temporal, and parietal lobes."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "At the time of initial admission",
+            "findings": "Rounded opacity in the right apex measuring approximately 1.0 cm by 0.6 cm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT angiography",
+            "date": "At the time of initial admission",
+            "findings": "More extensive patchy white-matter hypoattenuation in the cerebral hemispheres, most pronounced in the temporal lobes.",
+            "changes_over_time": "Other findings were unchanged."
+        }
+    ]
+}

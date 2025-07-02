@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "blood_pressure": "126/72 mm Hg",
+                "pulse": "54 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Mild distress due to headache, but alert and oriented.",
+                "neurological": "Left homonymous hemianopia; other cranial-nerve functions normal. Strength, sensation to light touch, and deep-tendon reflexes of arms and legs were normal.",
+                "blood_smear": "0 to 2 schistocytes per high-power field, teardrop and pencil cells, occasional large platelets, normal-appearing white cells.",
+                "urinalysis": "1+ ketones, 2+ blood, 1+ protein, 1+ urobilinogen, specific gravity > 1.040, pH 5, microscopic examination revealed no red cells and 3 to 5 white cells per high-power field."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

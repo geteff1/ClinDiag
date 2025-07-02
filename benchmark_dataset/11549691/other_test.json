@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR and sequencing",
+            "date": "Not specified",
+            "findings": "Detected a chimeric gene composed of the promoter and exons 1 through 4 of CYP11B2 and intron 4 through exon 9 of CYP11B1. Heterozygosity was revealed at positions in exon 3, intron 3, and exon 4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Southern blot",
+            "date": "Not specified",
+            "findings": "Demonstrated the presence of a deletion chimera with a characteristic band at 6.5 kb, showing a quantitation ratio of CYP11B1:chimera:CYP11B2 of 1:1:1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Minigene expression",
+            "date": "Not specified",
+            "findings": "Identified an insertion of 14 bases in intron 3 causing incorrect splicing, resulting in a premature translation stop.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

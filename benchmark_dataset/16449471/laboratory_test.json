@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.3 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "10.6 x 10^9/L",
+            "changes_over_time": "Increased to 11.4 x 10^9/L"
+        },
+        {
+            "procedure_name": "Valproic acid level",
+            "date": "Not specified",
+            "findings": "42.2 µg/mL (subtherapeutic)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "4.9 ng/mL (initially <0.3 ng/mL upon admission), peaked at 38.6 ng/mL",
+            "changes_over_time": "Decreased to 0.5 ng/mL over the next week"
+        },
+        {
+            "procedure_name": "Ejection fraction",
+            "date": "Not specified",
+            "findings": "Initial echocardiogram normal; later showed decreased ejection fraction of 45% and then recovered to 55%",
+            "changes_over_time": "Decreased to 30% after catheterization, then recovered to 55%"
+        },
+        {
+            "procedure_name": "Eosiniophil percentage",
+            "date": "Not specified",
+            "findings": "0% to 4% increase, later reached 13%",
+            "changes_over_time": "Increased from baseline to 13%"
+        }
+    ]
+}

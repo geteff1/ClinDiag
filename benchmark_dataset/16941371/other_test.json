@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Quantitative EBV PCR",
+            "date": "Day 25",
+            "findings": "Highly positive results (123,000 copies/mL in blood and 1344 copies/mL in nasopharyngeal secretions)",
+            "changes_over_time": "Progressive increase in EBV PCR from day 11"
+        },
+        {
+            "procedure_name": "Immunophenotyping of peripheral lymphocytes",
+            "date": "Day 26",
+            "findings": "Reconstitution was essentially a reconstitution of natural killer cells with activated T cells (94% of HLA-DR–positive cells)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoalveolar lavage (BAL)",
+            "date": "Day 40",
+            "findings": "Alveolar fluid contained 150,000 cells/mL with 69% lymphocytes, 28% macrophages, 2% neutrophils; no RBCs detected",
+            "changes_over_time": "EBV identified by PCR (13,338 copies/mL) in alveolar fluid despite negative results in blood"
+        },
+        {
+            "procedure_name": "Lymphocyte analysis",
+            "date": "Day 24",
+            "findings": "Confirmed 100% donor chimerism",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the lungs",
+            "date": "Days 4 months and 6 months after transplantation",
+            "findings": "Development of bronchectasis and hypoattenuated lung areas, indicating small airways disease",
+            "changes_over_time": "Mild decrease in forced expiratory volume (to 70% of predicted value) and increase in airflow resistance and residual volume (to 156% and 143% of predicted values, respectively)"
+        }
+    ]
+}

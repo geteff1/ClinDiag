@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "234/139 mm Hg",
+                "pulse_rate": "140/min",
+                "respiration_rate": "24/min",
+                "peripheral_oxygen_saturation": "87%"
+            },
+            "relevant_findings": "Bilateral papilledema; elevated hematocrit of 57%; chest X-ray compatible with bilateral pulmonary edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

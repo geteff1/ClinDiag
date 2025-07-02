@@ -1,0 +1,91 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "platelet_count": {
+                    "value": 295000,
+                    "unit": "per mm3",
+                    "reference_range": "150,000–400,000"
+                },
+                "white_cell_count": {
+                    "value": 12500,
+                    "unit": "per mm3",
+                    "reference_range": "4500–11,000"
+                },
+                "hemoglobin": {
+                    "value": 12.4,
+                    "unit": "g/dl",
+                    "reference_range": "12.0–16.0"
+                },
+                "hematocrit": {
+                    "value": 37.5,
+                    "unit": "%",
+                    "reference_range": "36.0–46.0"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": {
+                    "value": 0.95,
+                    "unit": "mg/dl",
+                    "reference_range": "0.60–1.50"
+                },
+                "albumin": {
+                    "value": 1.4,
+                    "unit": "g/dl",
+                    "reference_range": "3.3–5.0"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer test",
+            "date": "Not specified",
+            "findings": {
+                "d_dimer": {
+                    "value": ">20",
+                    "unit": "μg/ml",
+                    "reference_range": "0.27–20"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": {
+                    "value": "3+",
+                    "status": "Detected"
+                },
+                "blood": {
+                    "value": "1+",
+                    "status": "Detected"
+                },
+                "glucose": {
+                    "value": "Negative",
+                    "status": "Not detected"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-PLA2R Antibodies Testing",
+            "date": "Not specified",
+            "findings": {
+                "antibodies": {
+                    "titer": 424.5,
+                    "unit": "RU/ml",
+                    "status": "Positive (≥20)"
+                }
+            },
+            "changes_over_time": "Five months later, testing was negative (<2 RU/ml) and seven months later, testing also remained negative (<2 RU/ml)."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "200 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Patient appeared well, afebrile. Cardiac examination revealed regular heart rate of 53 bpm, blood pressure 128/90 mm Hg, and an audible fourth heart sound, with a diffuse and laterally displaced apical impulse.",
+            "changes_over_time": "The heart rate of 200 bpm indicates a change from the 53 bpm noted later in examination."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "53 bpm",
+                "blood_pressure": "128/90 mm Hg",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Audible fourth heart sound and prominent second heart sound noted, with clear lungs on auscultation and no hepatosplenomegaly.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "After electrical cardioversion",
+            "vital_signs": {
+                "heart_rate": "Asymptomatic at up to 150 bpm (during telemetry)",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Electrocardiogram showed sinus rhythm with multifocal atrial ectopic depolarizations and significant abnormalities including a short PR interval.",
+            "changes_over_time": "The initial 200 bpm heart rate was treated with electrical cardioversion, resulting in a stable sinus rhythm thereafter."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/70 mm Hg",
+                "serum_total_calcium": "11.2 mg/dl (2.8 mmol/liter)",
+                "serum_ionized_calcium": "6.24 mg/dl (1.56 mmol/liter)",
+                "serum_phosphate": "3.38 mg/dl (1.09 mmol/liter)",
+                "serum_PTH": "46 pg/ml",
+                "serum_alkaline_phosphatase": "90 IU/liter",
+                "serum_calcitonin": "48 pg/ml",
+                "25_hydroxyvitamin_D3": "42 ng/ml",
+                "creatinine": "60/H9262 mol/liter"
+            },
+            "relevant_findings": {
+                "skeleton": "Focal decalcification of wrist bones and small periarticular cysts and erosions of finger phalanges without decreased total bone mineral density (1.008 g/cm2; Z score -0.07)",
+                "ultrasound": "Hypoechogenic structure 5 mm in diameter behind the inferior pole of the left thyroid gland"
+            },
+            "changes_over_time": {
+                "surgical_outcome": "Normocalcemia obtained post-surgery, but serum calcium returned to elevated levels two weeks later",
+                "diagnosis_change": "Initially diagnosed with primary hyperparathyroidism, later diagnosed with benign hypocalciuric hypercalcemia after further assessment"
+            }
+        }
+    ]
+}

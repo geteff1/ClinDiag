@@ -1,0 +1,61 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "1.5 mg/dL (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "185 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Heart Catheterization",
+            "date": "Not specified",
+            "findings": {
+                "right atrial pressure": "16 mm Hg",
+                "right ventricular pressure": "53/12 mm Hg",
+                "pulmonary artery pressure": "53/16 mm Hg (mean 30 mm Hg)",
+                "pulmonary capillary wedge pressure": "13 mm Hg",
+                "cardiac output": "9.25 L/min"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Test",
+            "date": "2 months previously",
+            "findings": "Moderate obstructive ventilatory defect (forced expiratory volume at 1 second, 59% predicted) with preserved diffusing capacity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram (TTE)",
+            "date": "12 years earlier",
+            "findings": "Normal size of the left side of the heart and normal LV function; estimated RV systolic pressure of 52 mm Hg, RA dilatation, RV dilation, and moderate global RV hypokinesis.",
+            "changes_over_time": "Comparison with this and a TTE from 4 years previously noted progressive enlargement."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram (TEE)",
+            "date": "4 years before consultation",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram Post Op",
+            "date": "6 days postoperatively",
+            "findings": "Decreased RV size with the Dacron patch visible in the posterior RA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": {
+                "interatrial communication": "Superior SVD",
+                "anomalous right superior pulmonary vein": "RSPV anastomosed to the SVC"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

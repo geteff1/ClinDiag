@@ -1,0 +1,61 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "109/66 mm Hg",
+                "pulse": "112 bpm",
+                "temperature": "37.0 °C",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "description": "Hypotension, flaccid paralysis of the right side, diminished breath sounds over the lower right lung field, dry mucous membranes, right-sided facial droop, brisk reflexes on the right side, prolonged capillary refill of 4 to 5 seconds.",
+                "serological_parameters": {
+                    "cerebrospinal_fluid": "400 erythrocytes per cubic millimeter, no leukocytes",
+                    "pleural_fluid_analysis": {
+                        "glucose": "93 mg/dL",
+                        "total_protein": "4.0 g/dL",
+                        "lactate_dehydrogenase": "901 U/L",
+                        "white_cell_count": "211 cells/mm3"
+                    }
+                }
+            },
+            "changes_over_time": "Weakness progressively increased leading to further paralysis and respiratory distress before the physical examination."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Right arm and leg were flaccid; reflexes were more brisk on the right side than on the left side.",
+                "serological_parameters": {
+                    "cerebrospinal_fluid": "Not specified"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Facial droop and flaccid paralysis resolved over time, allowing the patient to stand unassisted.",
+                "serological_parameters": {
+                    "cerebrospinal_fluid": "Not specified"
+                }
+            },
+            "changes_over_time": "Gradual improvement with regained strength and ability to walk after discharge."
+        }
+    ]
+}

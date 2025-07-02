@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": {
+                    "result": "15.3 g/dL",
+                    "normal_range": "13.5–17.5 g/dL"
+                },
+                "hematocrit": {
+                    "result": "42.8%",
+                    "normal_range": "41.0–53.0%"
+                },
+                "white_cell_count": {
+                    "result": "11,900 per mm³",
+                    "normal_range": "4500–11,000 per mm³"
+                },
+                "eosinophils": {
+                    "result": "32%",
+                    "normal_range": "0–8%"
+                },
+                "IgE": {
+                    "result": "1900 IU/ml",
+                    "normal_range": "0–100 IU/ml"
+                },
+                "platelet_count": {
+                    "result": "319,000 per mm³",
+                    "normal_range": "150,000–400,000 per mm³"
+                },
+                "antibodies_to_strongyloides": {
+                    "result": "Positive",
+                    "normal_range": "Negative"
+                }
+            },
+            "changes_over_time": {
+                "eosinophils": {
+                    "initial": "3800-4550 per mm³",
+                    "later": "32% (approximately equivalent to 3200-3206 per mm³)",
+                    "change": "Elevated"
+                },
+                "white_cell_count": {
+                    "initial": "11,900 per mm³",
+                    "later": "13,800 per mm³",
+                    "change": "Increasing"
+                },
+                "hemoglobin": {
+                    "initial": "15.3 g/dL",
+                    "later": "14.8 g/dL",
+                    "change": "Decreasing"
+                },
+                "hematocrit": {
+                    "initial": "42.8%",
+                    "later": "40.2%",
+                    "change": "Decreasing"
+                }
+            }
+        },
+        {
+            "procedure_name": "Tuberculin Skin Test",
+            "date": "Not specified",
+            "findings": "Negative for induration",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, left ventricular hypertrophy, and T-wave inversions in leads I, aVL, V4, V5, and V6",
+            "changes_over_time": "No changes from previous tracings"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs and slightly enlarged heart, unchanged from 1 year earlier",
+            "changes_over_time": "No changes from previous study"
+        },
+        {
+            "procedure_name": "Trans-thoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "left_ventricular_ejection_fraction": "60%",
+                "maximum_wall_thickness": "16 mm",
+                "systolic_outflow_gradient": "16 mm Hg"
+            },
+            "changes_over_time": "Unchanged from 9 months earlier"
+        }
+    ]
+}

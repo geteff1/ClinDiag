@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "pulse": "109 bpm",
+                "blood pressure": "122/90 mm Hg",
+                "weight": "46 kg (101 lb)",
+                "height": "152 cm (60 in.)"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Nondistended, soft abdomen with mild tenderness in right upper quadrant; no rebound or guarding; Murphy’s sign absent; liver palpable 3-4 cm below costal margin with span of 14 cm at midclavicular line; spleen not palpable; no ascites.",
+                "skin_exam": "Scaly plaques on scalp, ears, and extensor surfaces of arms and legs; no vesicular lesions, palmar erythema, leg edema, or spider angiomata.",
+                "neurologic_exam": "Normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prostate-specific antigen (PSA) test",
+            "date": "Not specified",
+            "findings": "PSA level was 7.6 ng/mL (reference range: 0 to 4 ng/mL) at initial diagnosis, 0.6 ng/mL twenty-two months after brachytherapy, and <0.1 ng/mL five years after the procedure.",
+            "changes_over_time": "PSA levels decreased from 7.6 ng/mL to <0.1 ng/mL over ten years."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Approximately 6 months before this evaluation",
+            "findings": "Revealed microscopic hematuria. PSA level was reportedly <0.2 ng/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytologic examination of urine",
+            "date": "Approximately 6 months before this evaluation",
+            "findings": "Reportedly showed malignant cells suggestive of adenocarcinoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cystoscopy",
+            "date": "Not specified",
+            "findings": "Revealed a benign-appearing bladder with some irregularities of the prostatic urethra.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the prostate",
+            "date": "Three months before this evaluation",
+            "findings": "Showed abnormal signal in the prostate and right seminal vesicle, consistent with postradiation changes; prostate cancer could not be ruled out.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cystoscopy with transurethral biopsies",
+            "date": "Two months before this evaluation",
+            "findings": "Examination of the bladder was normal, prostatic urethra was narrow and rigid; tissue revealed invasive adenocarcinoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

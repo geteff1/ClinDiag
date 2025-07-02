@@ -1,0 +1,33 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopy",
+            "date": "Not specified",
+            "findings": "Moderate amount of ascitic fluid (approximately 1 liter) and huge polycystic ovaries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "Bilateral multilocular ovarian masses and ascites during the first pregnancy and enlarged multilocular ovaries measuring 14 cm in length during the fifth pregnancy.",
+            "changes_over_time": "The size of the ovaries remained enlarged throughout the pregnancy."
+        },
+        {
+            "procedure_name": "Laparotomy",
+            "date": "Not specified",
+            "findings": "Enlarged ovaries and ascites during the fourth pregnancy.",
+            "changes_over_time": "Despite a resection of a large ovarian wedge (500 g) bilaterally during the first laparotomy, enlarged ovaries (15 cm in length) were found on laparotomy during the subsequent pregnancy."
+        },
+        {
+            "procedure_name": "Hormone assays",
+            "date": "During fifth pregnancy",
+            "findings": {
+                "estradiol": "Exceeded the upper limit of normal range during the first trimester, stabilized within normal range during the second trimester, and increased further during the third trimester.",
+                "inhibin B": "Markedly and inappropriately elevated, later declined in parallel with the chorionic gonadotropin level.",
+                "follicle-stimulating hormone": "Suppressed during pregnancy.",
+                "total testosterone": "Moderate increase due to increase in sex hormone-binding globulin, free testosterone was normal."
+            },
+            "changes_over_time": "The level of inhibin B declined in parallel with the chorionic gonadotropin level, while estradiol levels changed significantly over trimesters."
+        }
+    ]
+}

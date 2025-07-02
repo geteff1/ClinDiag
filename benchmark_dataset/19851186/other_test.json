@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PET/CT Scan",
+            "date": "Not specified",
+            "findings": "Avid F-18 FDG uptake in the pulmonary lesions (max SUV 26.85) and a large abdominal mass (5 /H110036 cm, SUV 24.91) with multiple smaller mesenteric nodules showing significant metabolic activity.",
+            "changes_over_time": "All lesions showed regression on follow-up PET/CT scan performed 2 months after presentation; only the large abdominal lesion took up F-18 FDG, yet in a much lower intensity (SUV 3.57)."
+        },
+        {
+            "procedure_name": "CT-guided needle aspiration",
+            "date": "Not specified",
+            "findings": "Pathology showed inflammation and no malignant cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a tumor in the left main bronchus; cytologic examination showed no malignancy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

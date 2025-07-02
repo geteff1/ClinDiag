@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "40.3°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "The right periorbital region and cheek erythematous, cervical lymph node enlarged on the left side. Appeared in respiratory distress.",
+                "changes": "Cervical lymphadenopathy decreased but cough and shortness of breath worsened."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.6°C",
+                "blood_pressure": "110/64 mmHg",
+                "pulse": "109 bpm",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "description": "Conjunctival injection with edema, mild erythema of the right upper cheek and left tympanic membrane. Mildly enlarged, mobile, nontender anterior cervical lymph node. Mild intercostal and subcostal retractions.",
+                "changes": "Air entry was good but poor inspiratory effort due to chest pain; coarse breath sounds were noted."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

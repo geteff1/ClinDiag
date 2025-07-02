@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "23.5 mg/dL (normal range, 4.0 to 16.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyruvate",
+            "date": "Not specified",
+            "findings": "57 μmol/L (normal range, 34 to 102 μmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Xylose Absorption Test",
+            "date": "Not specified",
+            "findings": "8.6 g (normal range, 5.0 to 8.0 g)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Hemoglobin level of 137 g/L, leukocyte count of 5.8 x 10^9 cells/L, platelet count of 5.0 x 10^9 cells/L",
+            "changes_over_time": "Platelet count improved to 298.0 x 10^9 cells/L within 1 week on treatment"
+        }
+    ]
+}

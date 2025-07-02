@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histological findings demonstrated a low-grade neoplasia (grade-I chondrosarcoma).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "A novel heterozygous mutation in the EXT1 gene (c.848T>A) changing a leucine codon into a stop codon (p.L283X) was identified.",
+            "changes_over_time": "The same heterozygous nonsense mutation was detected in the patient's mother."
+        }
+    ]
+}

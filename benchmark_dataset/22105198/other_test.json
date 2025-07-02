@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "sinus tachycardia, normal QRS axis, low voltages, antero-septal Q waves with diffuse ST-segment and T-wave abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "small left ventricle with hyperdynamic function (ejection fraction, 70%), severe right atrial enlargement, severely enlarged right ventricle with normal wall thickness and severely reduced systolic function, flattening of the interventricular septum throughout systole and diastole, severe tricuspid regurgitation, pulmonary artery systolic pressure estimated at 75 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "mean right atrial pressure of 9 mm Hg, RV systolic pressure of 75 mm Hg, pulmonary artery pressure of 75/37 mm Hg (mean, 49 mm Hg), elevated pulmonary capillary wedge pressure (PCWP) of 35 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

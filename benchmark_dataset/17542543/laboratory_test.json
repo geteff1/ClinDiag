@@ -1,0 +1,120 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "May 1, 1999",
+            "findings": {
+                "WBC": 12800,
+                "Platelet Count": "Not available"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "May 26, 1999",
+            "findings": {
+                "WBC": 8400,
+                "Platelet Count": "Not available"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "July 23, 1999",
+            "findings": {
+                "WBC": 4000,
+                "Platelet Count": "Not available"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "July 25, 1999",
+            "findings": {
+                "WBC": 3600,
+                "Platelet Count": "Not available"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "July 26, 1999",
+            "findings": {
+                "WBC": "Not available",
+                "Platelet Count": 206000,
+                "Differential": {
+                    "Atypical Lymphocytes": "50%",
+                    "Lymphocytes": "77%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "August 16, 1999",
+            "findings": {
+                "WBC": 13700,
+                "Platelet Count": "Not available",
+                "Lymphocytes": "84%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "August 23, 1999",
+            "findings": {
+                "WBC": 13400,
+                "Platelet Count": "Not available"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "August 30, 1999",
+            "findings": {
+                "WBC": 11900,
+                "Platelet Count": "Not available",
+                "Lymphocytes": "86%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "September 7, 1999",
+            "findings": {
+                "WBC": 10700,
+                "Platelet Count": "Not available",
+                "Lymphocytes": "73%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "September 13, 1999",
+            "findings": {
+                "WBC": 6600,
+                "Platelet Count": "Not available",
+                "Lymphocytes": "91%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "September 27, 1999",
+            "findings": {
+                "WBC": 10000,
+                "Platelet Count": "Not available",
+                "Lymphocytes": "68%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR for EBV DNA",
+            "date": "September 1999",
+            "findings": {
+                "Viral DNA": "Detected"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

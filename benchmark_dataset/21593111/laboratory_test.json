@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D (25OHD)",
+            "date": "Not specified",
+            "findings": "Below 10 ng/ml",
+            "changes_over_time": "After 8 weeks of ergocalciferol treatment, serum 25OHD was 11 ng/ml. Five months after referral, serum 25OHD level was 62 ng/ml."
+        },
+        {
+            "procedure_name": "Serum Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "169 pg/ml and 196 pg/ml [Normal: 10–65 pg/ml]",
+            "changes_over_time": "Remained elevated at 196 pg/ml after 5 months of treatment."
+        },
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "9.0 mg/dl [Normal: 8.9–10.3 mg/dl]",
+            "changes_over_time": "Total calcium was 9.2 mg/dl five months later."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "288 IU/liter [Normal: 32–91 IU/liter]",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone-specific alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "96 g/liter [Normal: 4.5–16.9 g/liter]",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Osteocalcin",
+            "date": "Not specified",
+            "findings": "309 ng/ml [Normal: 11–50 ng/ml]",
+            "changes_over_time": "Downward trend from 309 ng/ml to 266 ng/ml over five months."
+        },
+        {
+            "procedure_name": "Urine N-telopeptide of type I collagen",
+            "date": "Not specified",
+            "findings": "519 nM bone collagen equivalents/mM creatinine [Normal: 21–83 nM]",
+            "changes_over_time": "Decreased from 519 to 495 nM over five months."
+        },
+        {
+            "procedure_name": "Serum fluoride",
+            "date": "Not specified",
+            "findings": "220 µg/liter [Normal: 20–80 µg/liter]",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine fluoride",
+            "date": "Not specified",
+            "findings": "3.5 mg/liter [Normal: 0.2–3.2 mg/liter] and 12.3 mg F/d [Normal: < 3 mg/g creatinine]",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone mineral density (DXA)",
+            "date": "Not specified",
+            "findings": "BMD Z-score of -9.9 in the spine and -5.0 in total femurs",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fingernail fluoride level",
+            "date": "Not specified",
+            "findings": "11.78 mg/kg",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Toenail fluoride level",
+            "date": "Not specified",
+            "findings": "2.76 mg/kg",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

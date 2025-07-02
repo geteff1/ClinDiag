@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Ictal recording during v-EEG showed right focal to bilateral clonic seizures with hemifacial clonic movements spreading to the superior and inferior right limbs, ending with an opisthotonic posture. Interictal v-EEG revealed normal background activity with rare spike and wave discharges in the left frontocentral brain regions. Ophthalmological examination showed no abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "total serum calcium": "5.94 mg/dL",
+                "serum magnesium": "1.41 mg/dL",
+                "serum phosphate": "10.48 mg/dL",
+                "PTH": "2.3 pg/mL",
+                "ECG": "prolonged QT interval secondary to hypocalcemia"
+            },
+            "relevant_findings": "Routine blood tests revealed hypocalcemia, hypomagnesemia, and hyperphosphatemia. Liver and kidney function tests were normal, with hypercalciuria and hypophosphaturia present.",
+            "changes_over_time": "Serum magnesium, phosphate, alkaline phosphatase, and calcium levels normalized during hospitalization."
+        }
+    ]
+}

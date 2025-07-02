@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum testosterone",
+            "date": "Not specified",
+            "findings": "Testosterone levels were in the pubertal range, 6.5 ng/ml, 5.6 ng/ml, 1.5 ng/ml, 7.4 ng/ml, and 4.6 ng/ml for patients F, P1, M1, M2 respectively at clinical onset.",
+            "changes_over_time": "Testosterone levels decreased to less than 0.4 ng/ml during ketoconazole treatment but later increased again after cessation of treatment."
+        },
+        {
+            "procedure_name": "Anti-Mullerian hormone (AMH)",
+            "date": "Not specified",
+            "findings": "Low AMH levels at diagnosis, elevated after testosterone suppression.",
+            "changes_over_time": "AMH levels increased to prepubertal range during ketoconazole administration."
+        },
+        {
+            "procedure_name": "Inhibin B",
+            "date": "Not specified",
+            "findings": "High inhibin B levels were observed throughout the observation period.",
+            "changes_over_time": "Inhibin B levels remained elevated from clinical onset to adolescence, irrespective of testosterone levels."
+        },
+        {
+            "procedure_name": "Pan-/H9251C-inhibin",
+            "date": "Not specified",
+            "findings": "Pan-/H9251C-inhibin levels were also in the pubertal range.",
+            "changes_over_time": "Levels remained high throughout follow-up, unaffected by testosterone fluctuations."
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone (FSH)",
+            "date": "Not specified",
+            "findings": "FSH levels were undetectable or less than 0.2 IU/liter, indicating suppression.",
+            "changes_over_time": "Responses to LHRH provocative tests were low."
+        },
+        {
+            "procedure_name": "Luteinizing hormone (LH)",
+            "date": "Not specified",
+            "findings": "LH levels were also low.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

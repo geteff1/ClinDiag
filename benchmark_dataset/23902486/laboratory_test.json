@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatine kinase level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Conventional nerve-conduction studies",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle-electromyographic examination",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repetitive nerve stimulation",
+            "date": "Not specified",
+            "findings": "Abnormal decrement (>10%) in the compound muscle action potential (CMAP) amplitude",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repetitive nerve stimulation (after exercise)",
+            "date": "Not specified",
+            "findings": "CMAP amplitude increased by 94% after 1 minute of exercise; decrement was 37% after 2 minutes",
+            "changes_over_time": "This finding is diagnostic of a presynaptic neuromuscular-junction condition"
+        },
+        {
+            "procedure_name": "Paraneoplastic-autoantibody panel",
+            "date": "Not specified",
+            "findings": "Anti-Hu antibodies at a titer of 1:1920; P/Q-type calcium-channel antibody level of 0.45 nmol per liter (normal level, <0.02)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-body PET–CT",
+            "date": "Not specified",
+            "findings": "Right precarinal lymph node 1.9 cm in diameter (max standardized uptake value of 7.7) and right hilar lymph node 1 cm in diameter (max standardized uptake value of 2.6)",
+            "changes_over_time": "Reduction in the size of the precarinal and right hilar lymph nodes at the 6-month follow-up"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Persistent changes consistent with limbic encephalitis but no signs of metastasis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

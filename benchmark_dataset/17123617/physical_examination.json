@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Intraocular Pressure (IOP)": {
+                    "lowest": "8 mmHg",
+                    "highest": "29 mmHg",
+                    "average range": "13.5–17.9 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "Tilted Discs": "75.0% present",
+                "Peripapillary Atrophy": "81.3% present",
+                "Cup-to-Disc Ratios": "Range from 0.20 to 0.95, average 0.56",
+                "High Myopia": "43.8% of eyes",
+                "Visual Field Defects": "Arcuate defect in 31.3% of patients"
+            },
+            "changes_over_time": "No progression of optic nerve or visual field defects noted during the follow-up period."
+        },
+        {
+            "date": "1997",
+            "vital_signs": {
+                "Intraocular Pressure (IOP)": {
+                    "right_eye": "15 mmHg",
+                    "left_eye": "16 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "Visual Acuity": "20/20 in both eyes",
+                "Fundus Examination": "Tilted nerves with thin temporal rims and peripapillary atrophy, cup-to-disc ratio 0.6 in both eyes",
+                "Visual Field Defects": "Superior nasal step in right eye and dense superior arcuate defect in left eye"
+            },
+            "changes_over_time": "No change in optic nerve appearance or visual field defects over 8 years; stable findings."
+        },
+        {
+            "date": "1999",
+            "vital_signs": {
+                "Intraocular Pressure (IOP)": {
+                    "both_eyes": "14 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "Visual Acuity": "20/30 in both eyes",
+                "Fundus Examination": "Tilted nerves, cup-to-disc ratios 0.7 in the right eye and 0.6 in the left",
+                "Visual Field Defects": "Dense superior defect in right eye and early arcuate defect in left"
+            },
+            "changes_over_time": "Visual field defects showed no significant change relative to presentation over follow-up."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "Mildly elevated at 45 mm/hour",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic Workup",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Profile",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thrombophilia Screen",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B Screening",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis C Screening",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculosis Screening",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTPA",
+            "date": "Not specified",
+            "findings": "Multiple areas of focal dilatation within segmental branches of the left pulmonary arterial tree representing uni-lateral peripheral pulmonary artery aneurysms; adjacent focal soft-tissue attenuation suggestive of perianeurysmal inflammation or mural thrombus. No evidence of current pulmonary embolism.",
+            "changes_over_time": "Repeat CTPA after six months showed persistence of old aneurysms but no new aneurysm formation or radiographic progression."
+        }
+    ]
+}

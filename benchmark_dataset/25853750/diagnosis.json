@@ -1,0 +1,20 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Invasive Neisseria meningitidis infection and primary C8 deficiency",
+        "differential_diagnosis": [
+            "Bacterial meningitis due to Streptococcus pneumoniae",
+            "Haemophilus influenzae",
+            "Staphylococcus aureus",
+            "N. gonorrhoeae",
+            "Capnocytophaga canimorsus",
+            "Streptococcus pyogenes",
+            "Rickettsia rickettsii",
+            "Anthrax",
+            "Kingella kingae",
+            "Other gram-negative bacilli (e.g., Pseudomonas aeruginosa)",
+            "Viral causes of meningitis (e.g., enteroviral infections, EBV, CMV)",
+            "Noninfectious causes (e.g., systemic lupus erythematosus, drug-induced meningitis)"
+        ],
+        "diagnostic_reasoning": "The patient's clinical presentation, laboratory findings, and positive blood cultures for Neisseria meningitidis strongly suggest meningococcemia with associated meningitis. The evolving petechial rash, severe headache, and neutrophilic pleocytosis in the CSF, as well as her previous history of meningitis at a young age, support the diagnosis. The suspicion of C8 deficiency arose from the recurrent nature of her meningococcal infections, confirmed by complement activity tests."
+    }
+}

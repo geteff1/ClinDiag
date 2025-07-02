@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Barium swallow examination",
+            "date": "Not specified",
+            "findings": "Annular constriction (3 to 4 cm in length) with irregular mucosal contours involving the distal esophagus and gastroesophageal junction, suggestive of esophageal cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan and PET scan",
+            "date": "Not specified",
+            "findings": "Intense 18F-fluorodeoxyglucose (FDG) uptake involving the distal esophagus and gastroesophageal junction, as well as lymphadenopathy with intense FDG uptake in mediastinal, retrocrural, and retroperitoneal regions.",
+            "changes_over_time": "Initial findings suggest intense FDG uptake, which later showed evidence of disease progression with similar intense uptake after treatment with FOLFOX and radiation therapy."
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "After treatment with FOLFOX and radiation therapy",
+            "findings": "Decreased thickening of the esophageal wall and diminishing mediastinal and retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Suggestive of a response to treatment."
+        },
+        {
+            "procedure_name": "Follow-up PET-CT",
+            "date": "Three months later",
+            "findings": "Evidence of disease progression, including multiple hepatic, pulmonary, and adrenal metastases with intense FDG uptake.",
+            "changes_over_time": "Indicated worsening disease after initial improvement."
+        },
+        {
+            "procedure_name": "Follow-up PET-CT after therapy with MET inhibitor",
+            "date": "Not specified",
+            "findings": "Marked response to treatment indicated by resolution of hepatic, adrenal, pulmonary, and nodal metastases.",
+            "changes_over_time": "Showed a radiographic complete response since the eighth month of treatment."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG Stress Test",
+            "date": "March 2006",
+            "findings": "Positive for myocardial ischemia.",
+            "changes_over_time": "At 10 months, the ECG stress test was again positive for myocardial ischemia."
+        },
+        {
+            "procedure_name": "Coronary Angiogram",
+            "date": "Not specified",
+            "findings": "Severe atherosclerosis in 2 vessels; 95% stenosis in the mid portion of the right coronary artery with 75% stenosis at the crux and 95% stenosis in the proximal portion of the left anterior descending coronary artery.",
+            "changes_over_time": "Nine months later, there was restenosis in the paclitaxel-eluting stent in the proximal left anterior descending coronary artery, treated with a rapamycin-eluting stent."
+        },
+        {
+            "procedure_name": "Percutaneous Coronary Angioplasty and Stenting",
+            "date": "Ten days after initial angiogram",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Two-Dimensional Lipoprotein Electrophoresis",
+            "date": "Not specified",
+            "findings": "Virtual absence of HDL lipoproteins.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

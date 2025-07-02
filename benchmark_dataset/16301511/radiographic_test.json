@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Multiple T2-hyperintense lesions in the pons, paraventricular region, and corpus callosum without gadolinium enhancement.",
+            "changes_over_time": "At 3-year follow-up, increased T2-lesion load and one Gd-enhancing lesion in the pons."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Right-sided edema with diffuse contrast enhancement.",
+            "changes_over_time": "During the next 2 days, the patient’s level of consciousness decreased and tentorial herniation was observed."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "2 days after craniotomy",
+            "findings": "Typical features of herpes simplex encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "EEG recordings showed right mid to posterior temporal spikes correlated with seizures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SPECT",
+            "date": "Not specified",
+            "findings": "Increased perfusion in the right temporo-parieto-occipital area during seizure.",
+            "changes_over_time": "Comparison with interictal SPECT scans showed localized hypoperfusion."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Tachycardia to the 130s and ejection fraction of 42% with segmental left ventricular dysfunction.",
+            "changes_over_time": "Heart rate normalized approximately 2 hours after the onset of tachycardia."
+        }
+    ]
+}

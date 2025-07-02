@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Multiple tiny infarcts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Study",
+            "date": "2003",
+            "findings": "Total hip T score: -0.7; spine T score (L1-L4): -1.9",
+            "changes_over_time": "Decreased from -0.6 in 2003 to -1.0 in 2005 (total hip); from -1.4 to -2.3 (spine)"
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Study",
+            "date": "2005",
+            "findings": "Total hip T score: -1.0; spine T score (L1-L4): -2.3; femoral neck T score: -1.9",
+            "changes_over_time": "Decline observed in both total hip and spine from previous measurements"
+        }
+    ]
+}

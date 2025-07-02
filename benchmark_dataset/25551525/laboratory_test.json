@@ -1,0 +1,238 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leptin measurement",
+            "date": "Not specified",
+            "findings": "Leptin levels were high at 42.6 ng/ml.",
+            "changes_over_time": [
+                {
+                    "date": "Week -120",
+                    "finding": "Leptin levels: 32.5 ng/ml"
+                },
+                {
+                    "date": "Week -25",
+                    "finding": "Leptin levels: 42.6 ng/ml"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "Leptin levels: 48.7 ng/ml"
+                },
+                {
+                    "date": "Week 1",
+                    "finding": "Leptin levels: 59.6 ng/ml"
+                },
+                {
+                    "date": "Week 3",
+                    "finding": "Leptin levels: 32.8 ng/ml"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Leptin levels: 20.0 ng/ml"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "Leptin levels: 14.5 ng/ml"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Insulin measurement",
+            "date": "Not specified",
+            "findings": "Insulin levels were 19.2 mU/l when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week 0",
+                    "finding": "Insulin levels: 19.2 mU/l"
+                },
+                {
+                    "date": "Week 1",
+                    "finding": "Insulin levels: 10.6 mU/l"
+                },
+                {
+                    "date": "Week 3",
+                    "finding": "Insulin levels: 9.7 mU/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Insulin levels: 10.8 mU/l"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "Insulin levels: 4.8 mU/l"
+                }
+            ]
+        },
+        {
+            "procedure_name": "C-peptide measurement",
+            "date": "Not specified",
+            "findings": "C-peptide levels were 3.7 ng/ml when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week 0",
+                    "finding": "C-peptide levels: 3.7 ng/ml"
+                },
+                {
+                    "date": "Week 1",
+                    "finding": "C-peptide levels: 3.0 ng/ml"
+                },
+                {
+                    "date": "Week 3",
+                    "finding": "C-peptide levels: 2.9 ng/ml"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "C-peptide levels: 2.7 ng/ml"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "C-peptide levels: 1.7 ng/ml"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Triglycerides measurement",
+            "date": "Not specified",
+            "findings": "Triglyceride levels were 2.0 mmol/l in Week -25.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "Triglycerides: 2.0 mmol/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Triglycerides: 0.7 mmol/l"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "Triglycerides: 0.4 mmol/l"
+                }
+            ]
+        },
+        {
+            "procedure_name": "IGF-1 measurement",
+            "date": "Not specified",
+            "findings": "IGF-1 levels were <25 ng/ml when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "IGF-1 levels: <25 ng/ml"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "IGF-1 levels: 36 ng/ml"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "IGF-1 levels: 47 ng/ml"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "IGF-1 levels: 57 ng/ml"
+                }
+            ]
+        },
+        {
+            "procedure_name": "IGFBP-3 measurement",
+            "date": "Not specified",
+            "findings": "IGFBP-3 levels were 1600 ng/ml when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "IGFBP-3 levels: 1600 ng/ml"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "IGFBP-3 levels: 2360 ng/ml"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "IGFBP-3 levels: 3050 ng/ml"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "IGFBP-3 levels: 2530 ng/ml"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Luteinizing hormone measurement",
+            "date": "Not specified",
+            "findings": "Luteinizing hormone levels were <0.10 U/l when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "Luteinizing hormone: <0.10 U/l"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "Luteinizing hormone: <0.10 U/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Luteinizing hormone: 0.14 U/l"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone measurement",
+            "date": "Not specified",
+            "findings": "Follicle-stimulating hormone levels were 0.93 U/l when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "Follicle-stimulating hormone: 0.93 U/l"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "Follicle-stimulating hormone: 0.79 U/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Follicle-stimulating hormone: 1.39 U/l"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase measurement",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase levels were 70 U/l when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "Aspartate aminotransferase: 70 U/l"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "Aspartate aminotransferase: 110 U/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Aspartate aminotransferase: 43 U/l"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Alanine aminotransferase measurement",
+            "date": "Not specified",
+            "findings": "Alanine aminotransferase levels were 107 U/l when first measured.",
+            "changes_over_time": [
+                {
+                    "date": "Week -25",
+                    "finding": "Alanine aminotransferase: 107 U/l"
+                },
+                {
+                    "date": "Week 0",
+                    "finding": "Alanine aminotransferase: 130 U/l"
+                },
+                {
+                    "date": "Week 9",
+                    "finding": "Alanine aminotransferase: 148 U/l"
+                },
+                {
+                    "date": "Week 18",
+                    "finding": "Alanine aminotransferase: 36 U/l"
+                }
+            ]
+        }
+    ]
+}

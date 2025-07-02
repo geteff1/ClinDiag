@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "The biopsy specimen contained a single subpleural lung nodule, measuring 1 cm in greatest diameter, with a central focus of necrobiosis surrounded by spindle-shaped histiocytes forming a palisading granuloma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary-Function Testing",
+            "date": "On admission and multiple follow-ups",
+            "findings": "On admission, mild restrictive lung defect with decreased carbon monoxide diffusing capacity. Improved after 1 month of prednisone therapy but declined after prednisone was stopped.",
+            "changes_over_time": "Initially had normal pulmonary function nine months before admission; showed improvement after 1 month of prednisone, but declined after it was discontinued. Improved again after infliximab therapy."
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "On the second hospital day and on the fourth hospital day",
+            "findings": "CT on the second day revealed mild thickening of the terminal ileum and ascending colon consistent with ileocolitis, and multiple subpleural lung nodules with central hypoattenuation. The fourth day scan showed additional bilateral pulmonary nodules.",
+            "changes_over_time": "Four weeks after discharge, showed some nodules increased in size while others shrank, suggesting a non-malignant process."
+        }
+    ]
+}

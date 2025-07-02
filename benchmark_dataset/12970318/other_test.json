@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hemithyroidectomy",
+            "date": "Not specified",
+            "findings": "Multifocal papillary thyroid cancer with characteristic papillary configuration, follicular cells with clear nuclei, nuclear grooves, and intranuclear inclusions.",
+            "changes_over_time": "Initially scheduled craniofacial surgery was delayed, and the remaining thyroid lobe was excised during a second neck operation 2.5 months later. There was no evidence of carcinoma in the specimen from the completion thyroidectomy."
+        },
+        {
+            "procedure_name": "Diagnostic Whole-Body Scan (131I)",
+            "date": "6 weeks after completion thyroidectomy",
+            "findings": "Uptake in the thyroid bed only; serum thyroglobulin (Tg) at that time was 3.7 ng/ml.",
+            "changes_over_time": "A posttherapy WBS showed the same focus of uptake noted in the diagnostic WBS."
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Findings suspicious for a carcinoma with clear cell features.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Completion Thyroidectomy",
+            "date": "4 months after initial right hemithyroidectomy",
+            "findings": "Negative for evidence of cancer but showed evidence of lymphocytic thyroiditis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Diagnostic Whole-Body Scan (131I)",
+            "date": "6 weeks after completion thyroidectomy",
+            "findings": "Only 131I uptake was in the thyroid bed; serum Tg at that time was 6.8 ng/ml.",
+            "changes_over_time": "A post-therapy WBS again revealed uptake in the thyroid bed area only."
+        }
+    ]
+}

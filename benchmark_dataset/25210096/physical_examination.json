@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 101°F; Heart rate: 107 bpm; Blood pressure: 105/74 mmHg; Respiratory rate: 24 breaths per minute; Oxygen saturation: 97% on 2 L oxygen.",
+            "relevant_findings": "Mild dyspnea, flushed, mildly diaphoretic, jugular venous pressure 12 cm H2O, bibasilar rales, tachycardia with normal S1, narrowly split S2, I/VI systolic murmur radiating from apex to base, abdomen obese without ascites/hepatomegaly/bruit, slightly cool distal lower extremities with 1+ symmetrical pulses and trace bipedal edema.",
+            "changes_over_time": "Initial ECG was normal; subsequent ECG showed new ST-segment elevations in inferior and apical leads. Troponin I levels increased from 19 ng/mL to 26 ng/mL. Echocardiogram showed ejection fraction decline from 40% to 30%."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Heart rate: 105 bpm; Blood pressure: 100/70 mmHg; Respiratory rate: 22 breaths per minute; Oxygen saturation: 95% on 4 L oxygen.",
+            "relevant_findings": "Cyanotic left distal index finger and mild cyanosis of the third to fifth fingers; neurological examination normal.",
+            "changes_over_time": "Continued clinical decline with persistent tachycardia, dyspnea, and worsened ejection fraction (from 30% to 15%-20%)."
+        }
+    ]
+}

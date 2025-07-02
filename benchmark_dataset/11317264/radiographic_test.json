@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "13 October 1997",
+            "findings": "appeared unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ventilation-perfusion scan",
+            "date": "Not specified",
+            "findings": "demonstrated a low probability for pulmonary embolism",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "revealed a lesion suggestive of an abscess in the right parietal region of the motor cortex",
+            "changes_over_time": "showed a new intracerebral hemorrhage and further documented almost complete resolution of the previous abscess"
+        },
+        {
+            "procedure_name": "chest CT scan",
+            "date": "Not specified",
+            "findings": "failed to demonstrate any abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "contrast-enhanced, 2-dimensional transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "revealed the presence of an extracardiac shunt",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lung scanning with technetium Tc 99m macroaggregated albumin",
+            "date": "Not specified",
+            "findings": "showed increased uptake in the brain, salivary glands, thyroid, enlarged spleen, kidneys, and intestines; findings further confirmed the presence of a pulmonary shunt",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "pulmonary angiography",
+            "date": "Not specified",
+            "findings": "failed to show any macroscopic anatomic shunt-producing lesions",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

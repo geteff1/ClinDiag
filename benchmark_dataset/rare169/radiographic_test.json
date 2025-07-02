@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal lung fields with no signs of pneumonia; multiple subtle irregularities involving the bilateral inferior ribs suggestive of inferior rib notching.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography Angiography (CT-A)",
+            "date": "Not specified",
+            "findings": "Large collateral vessels all over the chest wall with tortuously dilated internal mammary arteries, posterior and anterior intercostal arteries, and large paravertebral and parascapular collateral vessels; complete discontinuity between the aortic arch and descending thoracic aorta with a 1.5 cm gap; distinct outline of the aortic arch interruption with only collateral vessels supplying flow to the distal segment.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

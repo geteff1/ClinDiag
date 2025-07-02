@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Infective left mid-zone pulmonary lesion; old tuberculosis; resolving left mid zone lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the spinal cord",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Repeat MRI of spinal cord/brain was unremarkable."
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole body PET",
+            "date": "Not specified",
+            "findings": "No malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI during deep brain stimulation surgery",
+            "date": "Not specified",
+            "findings": "Used for stereotactic guidance and preparation of STN target coordinates.",
+            "changes_over_time": "Approximately 4 weeks after surgery, repeat interrogation of each contact up to 7 V did not elicit eyelid apraxia."
+        }
+    ]
+}

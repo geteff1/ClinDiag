@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "The central cardiac shadow with visible methyl methacrylate struts.",
+            "changes_over_time": "At age 11 years, radiographs show incorporation of struts in the anterior chest wall without migration or fracture."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Age 14 months",
+            "findings": "Four struts of methyl methacrylate covered with Marlex mesh, wired to the ribs to reconstruct the sternal defect.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Age 11 years",
+            "findings": "The four methyl methacrylate struts are less visible.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bismuth neurotoxicity causing rapidly progressive dementia, myoclonus, and ataxia",
+        "differential_diagnosis": [
+            "Prion disease (e.g., Creutzfeldt-Jakob disease)",
+            "Autoimmune/paraneoplastic encephalopathy",
+            "Toxic/metabolic encephalopathy (e.g., medication-induced, electrolyte disturbance, serotonin syndrome, heavy metal toxicity)",
+            "Neoplasm (e.g., gliomatosis cerebri, neoplastic meningitis, intravascular lymphoma)",
+            "Infectious etiologies (e.g., HIV, syphilis, Whipple)",
+            "Vascular disorders (e.g., CNS vasculitis, b-amyloid-related angiitis)",
+            "Other neurodegenerative etiologies (e.g., early-onset Alzheimer disease)",
+            "Other systemic or extraneurologic autoimmunity that can be accompanied by neurologic manifestations (e.g., celiac disease)"
+        ],
+        "diagnostic_reasoning": "The patient's presentation of rapidly progressive dementia, myoclonus, and ataxia, along with the background of collagenous colitis and use of bismuth subsalicylate, pointed towards bismuth neurotoxicity. Initial lab tests indicated significant bismuth levels in the toxic range, correlating with the neurological symptoms. Imaging findings did not support alternative diagnoses such as primary neoplasm or autoimmune encephalopathy. The diagnosis was confirmed through normal CSF analysis and significant comparison of blood bismuth levels with her clinical improvement after discontinuation of bismuth."
+    }
+}

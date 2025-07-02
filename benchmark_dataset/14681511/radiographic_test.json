@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Hepatic Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Areas of signal loss with irregular contours consistent with the presence of fatty infiltration predominantly affecting the right lobe. No focal hepatic lesions or abnormal enhancement seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal pelvic computed tomographic (CT) examination",
+            "date": "Not specified",
+            "findings": "Kidneys and ureters normal, no renal, ureteral, or bladder stones, presence of heterogeneous, mixed-attenuation, nonenhancing debris in both dependent and nondependent portions of the bladder, mass in the dome of the bladder found to be 3 to 4 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MRI scan",
+            "date": "Not specified",
+            "findings": "Small (8-mm) area of residual tumor.",
+            "changes_over_time": "Subsequently excised completely by partial cystectomy."
+        }
+    ]
+}

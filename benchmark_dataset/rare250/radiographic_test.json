@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "brain MRI",
+            "date": "Not specified",
+            "findings": "No significant abnormalities.",
+            "changes_over_time": "Follow-up brain MRI at 9 years showed mild atrophy of the bilateral cerebellum. Another follow-up brain MRI at 19 years of age showed no significant changes compared to the previous MRI."
+        },
+        {
+            "procedure_name": "brain MRI",
+            "date": "9 years old",
+            "findings": "Mild atrophy of the bilateral cerebellum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "brain MRI",
+            "date": "19 years old",
+            "findings": "No significant changes compared to the previous MRI.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "Blood glucose decreased to 2.3 mmol/liter after 12 h of fasting at 21 months of age. Hypoglycemia was present at 2.2 mmol/liter after a 15-h fast at 5.5 years of age.",
+            "changes_over_time": "The blood glucose values were 2.3 mmol/liter at 21 months and 2.2 mmol/liter at 5.5 years, illustrating persistent hypoglycemia."
+        },
+        {
+            "procedure_name": "Ketonuria test",
+            "date": "Not specified",
+            "findings": "Pronounced ketonuria was observed during both the 12-h fasting tolerance test and the 15-h fast.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "/H9252-hydroxybutyrate level test",
+            "date": "Not specified",
+            "findings": "At 6 years old, the /H9252-hydroxybutyrate level was 1.7 mmol/liter in the KH twin and 0.1 mmol/liter in the healthy twin after 12 h of fasting. During an infusion test, it peaked at 16.6 mmol/liter in the KH twin initially and later at 5.0 mmol/liter in a follow-up test 7 months later.",
+            "changes_over_time": "The maximum increase in /H9252-hydroxybutyrate levels decreased from 16.6 mmol/liter during the initial test to 5.0 mmol/liter during the follow-up test."
+        },
+        {
+            "procedure_name": "Glucose production rate test",
+            "date": "Not specified",
+            "findings": "Normal glucose production rates, observed at 21.7 and 23.3 /H9262mol/kg body weight per minute in the KH and healthy twin, respectively.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glycerol production rate test",
+            "date": "Not specified",
+            "findings": "Rates were similar, 6.8 and 5.8 /H9262mol/kg body weight per minute in the KH and healthy twin, respectively.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

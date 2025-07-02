@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "DNA analysis",
+            "date": "Not specified",
+            "findings": "Identification of a nonsense mutation in the SHH gene (GAG to TAG) leading to Glu256stop.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal analysis",
+            "date": "Not specified",
+            "findings": "Normal results for peripheral-blood lymphocytes from parents and affected child.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preimplantation genetic diagnosis",
+            "date": "First cycle: Not specified; Second cycle: Not specified",
+            "findings": "First cycle identified 12 embryos with 8 suitable for analysis; 7 contained mutant allele, 1 was mutation-free. Second cycle analyzed 10 embryos; 9 had data available, 8 were mutation-free.",
+            "changes_over_time": "First cycle yielded no clinical pregnancy; the second cycle resulted in the birth of a mutation-free girl."
+        },
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "Not specified",
+            "findings": "Confirmed mutation-free status of the fetus born after the second preimplantation genetic diagnosis cycle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

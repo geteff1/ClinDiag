@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basal GH Measurement",
+            "date": "Not specified",
+            "findings": "High basal GH concentration",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peak GH Measurement after Provocation Test",
+            "date": "Not specified",
+            "findings": "High peak GH level",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I Generation Test (first)",
+            "date": "Not specified",
+            "findings": "Subnormal IGF-I response (124 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I Generation Test (second)",
+            "date": "Age 16 yr",
+            "findings": "IGF-I response increased from 189 ng/ml to 317 ng/ml, which is within normal limits.",
+            "changes_over_time": "Initial value was subnormal (189 ng/ml), which increased significantly after treatment."
+        },
+        {
+            "procedure_name": "Basal IGF-I Measurement",
+            "date": "Age 7 yr",
+            "findings": "Subnormal IGF-I value of 124 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GHBP Measurement",
+            "date": "Not specified",
+            "findings": "GHBP levels decreased compared to normal controls.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

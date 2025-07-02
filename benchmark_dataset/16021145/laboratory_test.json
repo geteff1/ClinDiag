@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Eczema Area and Severity Index (EASI)",
+            "date": "Not specified",
+            "findings": "Patient 1 EASI scores: 30.5 (pre-treatment), 35.1 (6 weeks), 20.8 (8 weeks), 26.9 (4 weeks post-treatment); Patient 2 EASI scores: 11.7 (pre-treatment), 10.9 (3 weeks), 32.4 (post-treatment)",
+            "changes_over_time": "Patient 1 showed improvement from 30.5 to 20.8 at 8 weeks but an increase to 26.9 at 4 weeks post-treatment; Patient 2 showed an initial decrease from 11.7 to 10.9 at 3 weeks, then an increase to 32.4 post-treatment."
+        },
+        {
+            "procedure_name": "Genetic testing for PTEN mutation",
+            "date": "Not specified",
+            "findings": "Sequencing analysis confirmed a point mutation in the 39 splice site of intron 6 (IVS6-1 G [C]) for all three patients.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

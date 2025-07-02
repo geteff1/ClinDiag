@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal, with no free air under the diaphragm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomographic scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Irregularity in the wall of the rectum but otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiographic survey of the skeleton",
+            "date": "Not specified",
+            "findings": "No lytic or blastic lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up renal biopsy",
+            "date": "Approximately 17 months after initial diagnosis",
+            "findings": "Chronic, active tubulointerstitial nephritis with increased fibrosis (approximately 80% of the interstitium).",
+            "changes_over_time": "Progression in interstitial fibrosis."
+        }
+    ]
+}

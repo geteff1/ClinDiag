@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Heterozygosity for a novel PRKAR1 frame shift mutation resulting in a premature stop codon and a heterozygous p53 polymorphic substitution.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology Review",
+            "date": "Not specified",
+            "findings": "The tumor exhibited a solid growth pattern with areas of geographic necrosis and high mitotic activity. MIB-1 labeling index was 20%. P53 expressed in 20% of tumor. Nontumorous adrenal cortex revealed characteristic features of primary pigmented nodular adrenocortical disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Imaging",
+            "date": "29 months after initial surgery",
+            "findings": "No evidence of disease in the abdomen, including left adrenal or chest.",
+            "changes_over_time": "Imaging 29 months post-surgery showed no disease; however, new disease was discovered in the liver later."
+        },
+        {
+            "procedure_name": "Open Right Radical Nephrectomy",
+            "date": "5 months after initial surgery",
+            "findings": "Pathology confirmed metastatic adrenocortical carcinoma with resection margins negative for malignancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemotherapy",
+            "date": "Not specified",
+            "findings": "Patients underwent chemotherapy with cisplatin, etoposide, and doxorubicin due to disease progression.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

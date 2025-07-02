@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Skeletal x-rays",
+            "date": "Not specified",
+            "findings": "No evidence of rickets; mild genu varum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone mineral density (BMD) measured by dual-energy x-ray absorptiometry",
+            "date": "At age 20 years for Case 1",
+            "findings": "High (L1–L4 T-score, 5.45; femoral neck T-score, 3.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone mineral density (BMD) measured at age 25 years for Case 2",
+            "date": "At age 25 years for Case 2",
+            "findings": "High (L1–L4 T-score, 7.19; femoral neck T-score, 4.50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transiliac bone biopsy",
+            "date": "Not specified",
+            "findings": "Bone with normal lamellar structure, normal turnover, small areas with increased osteoid thickness, and diffuse tetracycline uptake, consistent with focal osteomalacia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

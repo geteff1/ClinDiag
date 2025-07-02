@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Peak value of 657 U/L, CK-MB value of 63 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiographic Measurements",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "time_frame": "Baseline",
+                    "reference_diameter": "3.09±0.42 mm",
+                    "minimal_lumen_diameter": "0.75±0.32 mm",
+                    "lesion_length": "13.8±9.5 mm"
+                },
+                {
+                    "time_frame": "After Procedure",
+                    "minimal_lumen_diameter": "3.02±0.44 mm",
+                    "acute_gain": "2.27±0.43 mm"
+                },
+                {
+                    "time_frame": "6-Month Follow-up",
+                    "reference_diameter": "2.97±0.97 mm",
+                    "minimal_lumen_diameter": "2.65±0.64 mm",
+                    "late_loss": "0.47±1.01 mm",
+                    "late_loss_index": "0.17±0.39",
+                    "restenosis": "2 lesions (13.3%)"
+                },
+                {
+                    "time_frame": "12-Month Follow-up",
+                    "reference_diameter": "3.24±0.29 mm",
+                    "minimal_lumen_diameter": "1.47±1.12 mm",
+                    "late_loss": "1.36±0.94 mm",
+                    "late_loss_index": "0.62±0.44",
+                    "restenosis": "8 lesions (61.5%)"
+                }
+            ],
+            "changes_over_time": "Progression noted from 6 to 12 months: 6-month restenosis rate was 13.3%, which increased to 61.5% at 12 months."
+        }
+    ]
+}

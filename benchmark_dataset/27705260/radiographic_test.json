@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal–pelvic CT scan",
+            "date": "Not specified",
+            "findings": "Enlarged, heterogeneous uterus with an ill-defined area of enhancement consistent with fibroids",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the pelvis",
+            "date": "Not specified",
+            "findings": "Enlarged uterus consistent with the presence of fibroids and a thickened endometrial stripe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Indium-111–labeled leukocyte scintigraphy",
+            "date": "Not specified",
+            "findings": "No abnormal areas of uptake",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET–CT",
+            "date": "Not specified",
+            "findings": "Large uterine mass with intense peripheral uptake and central necrosis",
+            "changes_over_time": "Progression to new perinephric mass and subcutaneous nodules consistent with recurrent leiomyosarcoma"
+        }
+    ]
+}

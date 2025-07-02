@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "30 weeks’ gestation",
+            "findings": "A complex 81 x 76-mm retroperitoneal mass (with T2 enhancement and central necrosis) near the right kidney.",
+            "changes_over_time": "Repeat MRI imaging postpartum demonstrated a second mass in the right presacral region."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "A 13-mm lesion with high signal on T2-weighted imaging in the paraaortic region near the left renal hilum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "A large retroperitoneal mass surrounding the mesenteric vessels and encasing the superior mesenteric artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "A 3.5 x 2.2-cm lesion behind the uncinate process of the pancreas, compressing the inferior vena cava.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FDG-PET",
+            "date": "Postpartum",
+            "findings": "Two lesions: one adjacent to the right carotid body and a second adjacent to the inferior vena cava posterior to the caudate lobe of the liver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FDG-PET",
+            "date": "Postpartum",
+            "findings": "Demonstrating abdominal paragangliomas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

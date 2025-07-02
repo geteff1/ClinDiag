@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Drowsy neurological status with equal and reactive pupils bilaterally; no external injury or deformity noted.",
+            "changes_over_time": "Neurological status rapidly deteriorated, necessitating endotracheal intubation and ventilatory support."
+        },
+        {
+            "date": "Postoperatively",
+            "vital_signs": {
+                "international_normalized_ratio": "1.73 (control 1.0)",
+                "prothrombin_time": "21.7 seconds (control 11.5–15 seconds)",
+                "activated_partial_thromboplastin_time": "32.2 seconds (control 25–36 seconds)",
+                "fibrinogen": "1.12 g/L (control 2.0–4.0 g/L)"
+            },
+            "relevant_findings": "Mild right upper-extremity paresis observed, which gradually improved with physical therapy.",
+            "changes_over_time": "Improvement in right upper-extremity paresis noted over time following physical therapy."
+        }
+    ]
+}

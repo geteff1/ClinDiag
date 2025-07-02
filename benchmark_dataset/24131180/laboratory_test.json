@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "8 weeks before Current Admission",
+            "findings": "30.5%",
+            "changes_over_time": "Decreasing from 30.5% to 24.1% by the second day of current admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "8 weeks before Current Admission",
+            "findings": "10.5 g/dL",
+            "changes_over_time": "Decreasing from 10.5 g/dL to 8.5 g/dL by the second day of current admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "8 weeks before Current Admission",
+            "findings": "2000 per mm3",
+            "changes_over_time": "Increasing from 2000 to 8300 per mm3 by the first day of current admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "8 weeks before Current Admission",
+            "findings": "28,000 per mm3",
+            "changes_over_time": "Decreasing from 28,000 to 27,000 per mm3 by the second day of current admission."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "8 weeks before Current Admission",
+            "findings": "16.2 seconds (icteric)",
+            "changes_over_time": "Increasing from 16.2 to 18.9 seconds by the second day of current admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "8 weeks before Current Admission",
+            "findings": "164 mg/dL",
+            "changes_over_time": "Increasing from 164 mg/dL to 393 mg/dL by the second day of current admission."
+        },
+        {
+            "procedure_name": "Bilirubin - Total",
+            "date": "Current Admission",
+            "findings": "6.0 mg/dL",
+            "changes_over_time": "Increasing from 6.0 to 13.1 mg/dL by the second day of current admission."
+        },
+        {
+            "procedure_name": "Ammonia",
+            "date": "8 weeks before Current Admission",
+            "findings": "79 μmol/liter",
+            "changes_over_time": "Decreasing from 79 to 61 μmol/liter by the second day of current admission."
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "8 weeks before Current Admission",
+            "findings": "3.6 mmol/liter",
+            "changes_over_time": "Decreasing from 3.6 to 2.7 mmol/liter by the second day of current admission."
+        },
+        {
+            "procedure_name": "Thyrotropin (TSH)",
+            "date": "8 weeks before Current Admission",
+            "findings": "6.17 μU per milliliter",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

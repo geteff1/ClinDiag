@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "54.5 cm",
+                "weight": "58.4 kg",
+                "BMI": "Not specified"
+            },
+            "relevant_findings": {
+                "FSH": "2.2 mIU/ml (5-20 mIU/ml)",
+                "LH": "2.5 mIU/ml (2-30 mIU/ml)",
+                "T4": "11.3 µg/dl (4.5-12.5)",
+                "prolactin": "11.3 ng/ml (2-20 ng/ml)",
+                "bone age": "14.7 yr"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 20",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ovulation_induction": {
+                    "HMG dose": "20 ampoules of 75 IU",
+                    "hCG": "given",
+                    "peak total urinary estrogens": "201 µg",
+                    "conception": "did not conceive"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 22 years",
+            "vital_signs": {
+                "height": "167 cm",
+                "weight": "60 kg",
+                "BMI": "21.5"
+            },
+            "relevant_findings": {
+                "testosterone": "51 ng/dl",
+                "LH": "0.2 mIU/ml",
+                "FSH": "<0.7 mIU/ml",
+                "serum cortisol": "12.3 µg/dl (8.7-22.4 µg/dl)",
+                "prolactin": "3 ng/ml",
+                "TSH": "0.4 µIU/ml",
+                "thyroxine": "8.1 µg/dl (4.6-12.4 µg/dl)",
+                "MRI": "negative for tumor"
+            },
+            "changes_over_time": "Progression of symptoms indicated with no voice change, facial hair, or anosmia."
+        },
+        {
+            "date": "At age 14 for III-2",
+            "vital_signs": {
+                "height": "156.2 cm",
+                "weight": "61.1 kg",
+                "BMI": "25.4"
+            },
+            "relevant_findings": {
+                "serum estradiol": "<20 pg/ml",
+                "FSH": "0.7 mIU/ml",
+                "LH": "<0.2 mIU/ml",
+                "prolactin": "3 ng/ml",
+                "TSH": "1.28 µIU/ml"
+            },
+            "changes_over_time": "At 15 years, had Tanner IV breasts with vaginal bleeding, switched to oral contraceptives."
+        }
+    ]
+}

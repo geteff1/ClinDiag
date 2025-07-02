@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fasting blood test",
+            "date": "Not specified",
+            "findings": "Serum calcium level: 10.1 mg/dl (2.53 mmol/liter), phosphorus level: 2.5 mg/dl (0.81 mmol/liter), alkaline phosphatase: 1875 IU/liter (normal range for children: 110-219 IU/liter), 1,25-dihydroxyvitamin D3: 57.4 pg/dl (137.8 pmol/liter) (normal range for children: 20–70 pg/dl), intact PTH: 44 pg/ml (4.6 pmol/liter) (normal range: 10–68 pg/ml), tubular maximum reabsorption of phosphate per glomerular filtration rate: 2.3 mg/dl (0.92 mmol/liter) (normal range for children: 4.36–5.53 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting blood test",
+            "date": "1 month of age",
+            "findings": "Serum calcium level: 11.0 mg/dl (2.75 mmol/liter), phosphorus level: 7.3 mg/dl (2.36 mmol/liter), alkaline phosphatase: 971 IU/liter, percent tubular reabsorption of phosphate: 99%",
+            "changes_over_time": "Similar laboratory findings in a repeat evaluation after 2 weeks"
+        },
+        {
+            "procedure_name": "Fasting blood test",
+            "date": "At the time of the study (age 35)",
+            "findings": "Serum calcium level: 9.6 mg/dl (2.40 mmol/liter), phosphorus level: 1.7 mg/dl (0.55 mmol/liter), alkaline phosphatase level: 215 IU/liter",
+            "changes_over_time": "Treatment with 1-alpha-hydroxyvitamin D3 and sodium phosphate was interrupted from 15 to 25 years of age"
+        }
+    ]
+}

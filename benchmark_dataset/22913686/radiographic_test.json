@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiographs of the thoracic and lumbosacral spine",
+            "date": "Not specified",
+            "findings": "Mild degenerative changes without evidence of fracture, compression deformity, or subluxation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "Not specified",
+            "findings": "Elevation of the right hemidiaphragm, which was new in comparison with studies performed 6 days earlier.",
+            "changes_over_time": "New findings of right hemidiaphragm elevation compared to previous studies."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Degenerative changes of the spine, most prominent at the L5–S1 level, and scattered subcutaneous calcifications. No evidence of infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Hyperintense signal and enhancement involving the end plates adjacent to the L5–S1 disk space, with fluid in the disk space, enhancement in the paravertebral soft tissues, and severe right foraminal stenosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Multiple non-calcified pulmonary nodules (≤4 mm), calcified subcarinal lymph nodes, consistent with previous granulomatous infection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

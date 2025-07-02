@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "platelet_count": "46,000 giga/l",
+                "international_normalized_ratio": "1.0"
+            },
+            "relevant_findings": "The patient presented with severe thrombocytopenia during pregnancy, with a historical platelet count of 20,000 giga/l at the time of previous delivery.",
+            "changes_over_time": "Initial platelet count at consultation was 46,000 giga/l; fell to 36,000 giga/l on the day of delivery, and subsequently decreased to 30,000 giga/l before a planned spinal anesthetic was changed to a general anesthetic. After transfusion and treatment, platelet counts progressively increased to 53,000 giga/l at discharge."
+        },
+        {
+            "date": "Postoperative day 4",
+            "vital_signs": {
+                "platelet_count": "53,000 giga/l",
+                "vWF_Ristocetin_cofactor_activity": "454%",
+                "factor_VIII_concentration": "258%"
+            },
+            "relevant_findings": "No postpartum hemorrhagic complications occurred and no additional thrombogenic products were needed.",
+            "changes_over_time": "Serial platelet counts increased from 20,000 giga/l at 6 hours post-delivery to 53,000 giga/l at discharge on postoperative day four."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Initial presentation with a history of clopidogrel use, with platelet count on the second postoperative day at 161 /H1100310^9/l.",
+            "changes_over_time": "The platelet count was at the lower limit of the normal range before the surgery at 161 /H1100310^9/l."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "contrast-enhanced MR imaging of the head",
+            "date": "Not specified",
+            "findings": "Extra-axial peripherally enhancing soft-tissue lesion extending through the diploic space and showing mass effect in the right frontal lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Ill-defined heterogeneous hypoechoic lesions with internal echoes, and heterogeneous rim surrounding some of the lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "contrast-enhanced CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Multiple complex low-attenuation lesions throughout the liver and a complex low-attenuation lesion in the spleen; no lung or breast mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "dynamic contrast-enhanced CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Large heterogeneous T2 hyperintense lesion in the spleen and multiple heterogeneous T2 hyperintense lesions throughout the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Did not show abnormal FDG uptake in the lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "unenhanced CT of the head",
+            "date": "Not specified",
+            "findings": "Acute subdural and epidural hemorrhage causing mass effect in the brain and subfalcine herniation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

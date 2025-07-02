@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Purulent fluid which grew Streptococcus viridans and anaerobic Gram-negative rods.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MRI",
+            "date": "5 months later",
+            "findings": "Improvement in the brain abscess; also noted increased MRI signal on T1-weighted sequences from the globus pallidus to the substantia nigra.",
+            "changes_over_time": "Increased pallidal signal noted, suggesting possible manganese deposition."
+        },
+        {
+            "procedure_name": "Serum manganese test",
+            "date": "Not specified",
+            "findings": "Elevated at 2.6 ng/mL (normal: 0.4–0.85 ng/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Multiple telangiectasia involving the gastroduodenal mucosa and colonic polyps.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colectomy",
+            "date": "Not specified",
+            "findings": "Multiple tubulovillous adenomas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

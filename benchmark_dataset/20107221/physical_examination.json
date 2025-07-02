@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Abrasions over the left frontal scalp, with minimal soft-tissue swelling and no ecchymoses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4 months of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Irritability, decreased interaction and smiling; length 55 cm (<3rd percentile), weight 5.0 kg (<3rd percentile), increased muscle tone, perirectal abscess.",
+            "changes_over_time": "Worsening signs of irritability and decreased interaction noted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "rectal_temperature": "36.4°C",
+                "blood_pressure": "124/93 mmHg",
+                "pulse": "84 bpm",
+                "respiratory_rate": "36 breaths/min"
+            },
+            "relevant_findings": "Somnolent but easily aroused, irritable but consolable. Fluctuant mass consistent with abscess on medial left gluteus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "9 days after hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lumbar puncture showed light pink and slightly turbid cerebrospinal fluid (CSF), 3090 red cells, 1 white cell per cubic millimeter; high protein level, normal glucose.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

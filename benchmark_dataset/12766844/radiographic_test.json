@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "plasma HIV-1 RNA level determination",
+            "date": "Not specified",
+            "findings": "Plasma HIV-1 RNA levels before therapy began ranged from approximately 100,000 to several million copies/mL.",
+            "changes_over_time": "After 6 months of STI-based treatment, there was a several-log-fold reduction in the plasma HIV-1 RNA level. After 14 months, these values remained less than pretreatment levels in 2 of the 3 children."
+        },
+        {
+            "procedure_name": "CD4 T cell quantification",
+            "date": "Not specified",
+            "findings": "CD4 T lymphocyte counts were low before treatment.",
+            "changes_over_time": "A sustained increase of 18 CD4+ T lymphocytes/mL per month was observed during the therapy."
+        }
+    ]
+}

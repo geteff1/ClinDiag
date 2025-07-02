@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "AChR-Ab test",
+            "date": "Day 5",
+            "findings": "AChR-Ab positive (13.72 nmol/L, normal<0.40).",
+            "changes_over_time": "AChR-Ab decreased from 13.72 nmol/L to 5.80 nmol/L after treatment."
+        },
+        {
+            "procedure_name": "Prostigmine test",
+            "date": "Not specified",
+            "findings": "Prostigmine test result was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": " CK test",
+            "date": "Follow-up within one week",
+            "findings": "CK normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid antibody tests (MuSK-Ab, Titin-Ab, LRP-4)",
+            "date": "Not specified",
+            "findings": "Tests performed but no details provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thorax CT",
+            "date": "By 25 days of age",
+            "findings": "Swollen thymus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

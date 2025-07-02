@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "other": {
+                    "left_ventricular_outflow_tract_gradient": "68 mmHg"
+                }
+            },
+            "relevant_findings": "A murmur was noted during the physical examination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

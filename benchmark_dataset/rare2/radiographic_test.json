@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "multiple cysts in the liver and hepatosplenomegaly, with no obvious renal cysts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "prominent dilation of the intrahepatic bile ducts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "multifocal dilatation of the intrahepatic bile ducts associated with hepatomegaly; obvious 'central spot sign'",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

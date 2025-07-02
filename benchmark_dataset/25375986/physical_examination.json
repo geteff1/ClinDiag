@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "calcium": "15.4 mg/dL",
+                "creatinine": "2 mg/dL",
+                "after_stopping_supplements": {
+                    "calcium": "10.6 mg/dL",
+                    "creatinine": "1.4 mg/dL",
+                    "bicarbonate": "26 mEq/L",
+                    "phosphorus": "3.3 mg/dL",
+                    "PTH": "8 pg/mL",
+                    "PTHrP": "2.4 pmol/L",
+                    "25OHD": "43.9 ng/mL",
+                    "1,25(OH)2D": "46 pg/mL",
+                    "24,25(OH)2D": "Undetectable",
+                    "urinary_calcium": "203 mg/24 h",
+                    "creatinine_level": "1950 mg/24 h"
+                }
+            },
+            "relevant_findings": "Bilateral nephrolithiasis, renal insufficiency, hypercalcemia, nephrocalcinosis, episodes of nausea, vomiting, and polyuria.",
+            "changes_over_time": "Initial hypercalcemia of 15.4 mg/dL improved to mild hypercalcemia of 10.6 mg/dL after stopping vitamin D supplements."
+        }
+    ]
+}

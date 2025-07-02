@@ -1,0 +1,48 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "21.5 cm of water",
+                "color": "Pink (tube 1) to faint yellow (tube 4)",
+                "turbidity": "Slight to clear",
+                "xanthochromia": "Present",
+                "red_cells": {
+                    "tube_1": "1660",
+                    "tube_4": "116"
+                },
+                "total_nucleated_cells": {
+                    "tube_1": "159",
+                    "tube_4": "170"
+                },
+                "neutrophils": "47%",
+                "lymphocytes": "40%",
+                "reactive_lymphocytes": "3%",
+                "monocytes": "10%",
+                "protein": "130 mg/dl",
+                "glucose": "56 mg/dl",
+                "gram_stain": "Abundant polymorpho-nuclear leukocytes, no organisms"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Ventricular bigeminy at a rate of approximately 100 beats per minute, but a true ventricular rate of 55 beats per minute; narrow native QRS complex without a prolonged PR interval.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of prostate gland",
+            "date": "Not specified",
+            "findings": "Hypertrophy and inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Analysis consistent with possible viral infection, evidenced by the presence of xanthochromia and elevated protein.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

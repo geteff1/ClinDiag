@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed lymphoid aggregates comprising approximately 10% of marrow cellularity and increased interstitial lymphoid cells. Flow cytometry showed kappa light chain–restricted B cells that expressed CD19 but not CD5, CD23, CD10, or CD103.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Studies",
+            "date": "Not specified",
+            "findings": "Prolonged partial-thromboplastin time that did not correct with mixing with normal plasma and remained prolonged after 2 hours; lupus anticoagulant detected.",
+            "changes_over_time": "Partial-thromboplastin time returned to normal after splenectomy."
+        },
+        {
+            "procedure_name": "Splenectomy",
+            "date": "Not specified",
+            "findings": "Post-operative course showed hematocrit and hemoglobin levels returning to normal within 6 weeks; lactate dehydrogenase level remained high; haptoglobin low suggesting ongoing hemolysis; anticardiolipin IgM remained elevated.",
+            "changes_over_time": "15 months after splenectomy, patient experienced recurrence of fatigue and anemia, with elevated IgM paraprotein and anticardiolipin antibody."
+        },
+        {
+            "procedure_name": "CT-guided needle biopsy of retroperitoneal lymph node",
+            "date": "Not specified",
+            "findings": "Disclosed recurrent marginal-zone lymphoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

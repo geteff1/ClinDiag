@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Blood Chemistry",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 Level",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE)",
+            "date": "6 weeks after initial evaluation",
+            "findings": "Score of 26 out of 30, with three errors in delayed recall and one error on reverse spelling of 'world'.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Geriatric Depression Scale",
+            "date": "6 weeks after initial evaluation",
+            "findings": "Score of 3 out of 15, indicating improvement in mood.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Mild atrophy consistent with age, periventricular white-matter hyperintensities, and one lacuna in the centrum semiovale.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

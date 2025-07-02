@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "systolic 110-220 mmHg, diastolic 110-110 mmHg",
+                "other": "Not specified"
+            },
+            "relevant_findings": "Episodic headaches, truncal sweating, palpitations, and pallor suggestive of a catecholamine-secreting tumor.",
+            "changes_over_time": "Patient II.8 experienced worsening symptoms with lower back pain, recurrent episodes of headaches, sweating, and palpitations, indicative of disease progression."
+        },
+        {
+            "date": "At age 25",
+            "vital_signs": {
+                "blood_pressure": "systolic 110-220 mmHg, diastolic 110-110 mmHg",
+                "other": "Urinary excretion of norepinephrine increased during hypertensive attack."
+            },
+            "relevant_findings": "Preoperative abdominal ultrasound and CT revealed a left-sided abdominal mass. An extraadrenal paraganglioma with local lymph node metastasis was surgically removed.",
+            "changes_over_time": "Postoperatively, urinary excretion of norepinephrine normalized, but at age 42, elevated levels were noted again indicating recurrent PGL."
+        },
+        {
+            "date": "At age 52",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "other": "Not specified"
+            },
+            "relevant_findings": "Attacks of sweating, pallor, weight loss, and psychiatric disorders including anxiety, nervousness, and panic. Confirmed diagnosis of extraadrenal PGL secreting norepinephrine.",
+            "changes_over_time": "Six years post-operation, intraabdominal and bone metastases were detected, indicating disease progression."
+        }
+    ]
+}

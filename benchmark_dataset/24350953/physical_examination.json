@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Normal"
+            },
+            "relevant_findings": {
+                "oral_erosions": "Erosions on the inner lips and buccal mucosa, edema of the lips",
+                "skin_lesions": "Erythematous plaques with dusky centers on the abdomen; coalescent, erythematous, mildly scaly symmetric plaques on the back; small oval erosions in the perianal area and vagina",
+                "joint_involvement": "Tenderness in wrist, metacarpal, and proximal interphalangeal joints without swelling or erythema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "18 days later",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_lesions": "Erythematous scaly plaques with central erosions on the back, chest, thighs, and buttocks, persistent and increasingly painful erosive, pruritic rash",
+                "oral_anogenital_lesions": "Resolved"
+            },
+            "changes_over_time": "Skin lesions persisted; oral and anogenital lesions resolved"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_lesions": "Multiple flaccid bullous lesions and superficial erosions, with crusting and mild oozing on the chest, back, abdomen, and both arms and shoulders"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "hs-CRP",
+            "date": "Not specified",
+            "findings": "55 mg/L during the first stage, 55 mg/L after relapse",
+            "changes_over_time": "No change over time"
+        },
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "58 mm/h during the first stage, 71 mm/h after relapse",
+            "changes_over_time": "Increased from 58 mm/h to 71 mm/h"
+        },
+        {
+            "procedure_name": "Urinary protein level",
+            "date": "Not specified",
+            "findings": "1+ during both stages",
+            "changes_over_time": "No change over time"
+        },
+        {
+            "procedure_name": "Urinary erythrocyte count",
+            "date": "Not specified",
+            "findings": "66.7/µL during the first stage, 89.0/µL after relapse",
+            "changes_over_time": "Increased from 66.7/µL to 89.0/µL"
+        },
+        {
+            "procedure_name": "24-h total protein excretion rate",
+            "date": "Not specified",
+            "findings": "284 mg/L during the first stage, 373 mg/L after relapse",
+            "changes_over_time": "Increased from 284 mg/L to 373 mg/L"
+        },
+        {
+            "procedure_name": "c-ANCA",
+            "date": "Not specified",
+            "findings": "Negative during the first stage, positive after relapse",
+            "changes_over_time": "Changed from negative to positive"
+        },
+        {
+            "procedure_name": "PR3",
+            "date": "Not specified",
+            "findings": "Not specified during the first stage, 100.8 RU/mL after relapse",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "p-ANCA",
+            "date": "Not specified",
+            "findings": "Negative during both stages",
+            "changes_over_time": "No change over time"
+        },
+        {
+            "procedure_name": "MPO",
+            "date": "Not specified",
+            "findings": "Negative during both stages",
+            "changes_over_time": "No change over time"
+        }
+    ]
+}

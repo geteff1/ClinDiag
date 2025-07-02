@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Creatinine",
+            "date": "15 days before this admission",
+            "findings": "0.8 mg/dL (normal range: 0.6 to 1.5 mg/dL)",
+            "changes_over_time": "Increased to 1.7 mg/dL one week later, then to 13.2 mg/dL five days before admission, and 3.57 mg/dL on admission."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "15 days before this admission",
+            "findings": "7 mg/dL (normal range: 8 to 25 mg/dL)",
+            "changes_over_time": "Increased to 86 mg/dL five days before admission, and decreased to 18 mg/dL on admission."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "15 days before this admission",
+            "findings": "44.9% (normal range: 36.0–46.0%)",
+            "changes_over_time": "Decreased to 30.1% five days before admission, and stabilized at 31.9% on admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "15 days before this admission",
+            "findings": "15.8 g/dL (normal range: 12.0–16.0 g/dL)",
+            "changes_over_time": "Decreased to 10.8 g/dL five days before admission, and further to 10.7 g/dL on admission."
+        },
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "15 days before this admission",
+            "findings": "15,700 per mm³ (normal range: 4500–11,000 per mm³)",
+            "changes_over_time": "Decreased to 8,630 per mm³ on admission."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "On admission",
+            "findings": "Cloudy, yellow urine with 3+ glucose, 2+ protein, and 1+ blood; urinary creatinine level 47 mg/dL with total protein 368.5 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "2.8 g/dL (normal range: 3.3–5.0 g/dL)",
+            "changes_over_time": "Decreased to 1.7 g/dL five days before admission."
+        },
+        {
+            "procedure_name": "Proteinuria Test",
+            "date": "Not specified",
+            "findings": "Protein level higher than 2500 mg/dL in random urine sample (normal range: 5 to 25).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CD4 Cell Count",
+            "date": "On admission to this hospital",
+            "findings": "703 per cubic millimeter.",
+            "changes_over_time": "Increased to 1349 per cubic millimeter after therapy workup."
+        },
+        {
+            "procedure_name": "HIV RNA Viral Load",
+            "date": "On admission to this hospital",
+            "findings": "80,679 copies per milliliter.",
+            "changes_over_time": "Increased to 300,000 copies per milliliter seven days later, and decreased to 533 copies per milliliter after therapy."
+        }
+    ]
+}

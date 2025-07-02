@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "skeletal survey",
+            "date": "Not specified",
+            "findings": "Markedly abnormal bones with typical JMC features.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "renal ultrasound",
+            "date": "8 months of age",
+            "findings": "Nephrocalcinosis.",
+            "changes_over_time": "Persistent hypertension resolved without treatment."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Marked bilateral renal calcifications with staghorn calculi.",
+            "changes_over_time": "Progressive decline in renal function noted since late 30s."
+        }
+    ]
+}

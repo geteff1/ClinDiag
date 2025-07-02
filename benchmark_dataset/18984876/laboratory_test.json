@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit Test",
+            "date": "Not specified",
+            "findings": "Hematocrit of 33%, indicative of mild normocytic anemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Left temporal and left central slow wave activity suggestive of localized cortical injury, rare left temporal interictal epileptiform discharges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetoencephalogram (MEG)",
+            "date": "Not specified",
+            "findings": "Captured a seizure at onset showing low-voltage fast and ultrafast activity over the left anterior-mesial-frontal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inpatient EEG Telemetry",
+            "date": "Not specified",
+            "findings": "Captured multiple seizures showing bicentral high-amplitude spike and wave discharge.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal in 1.5-T MRI; Mild diffuse cerebellar atrophy and slightly enlarged right temporal horn found in 3.0-T MRI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Spectroscopy (MRS)",
+            "date": "Not specified",
+            "findings": "Slight decreases in N-acetylaspartate concentrations in the left mesial temporal region, suggestive of loss of neuronal elements.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron Emission Tomography (PET)",
+            "date": "Not specified",
+            "findings": "Decrease in right temporal lobe use of fluorodeoxyglucose, suggestive of decreased metabolic activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical Neuropsychological Testing",
+            "date": "Not specified",
+            "findings": "Moderate difficulty with frontal lobe executive functioning (right greater than left).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

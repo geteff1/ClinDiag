@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "High-definition optical coherence tomography (HD-OCT)",
+            "date": "Not specified",
+            "findings": "Thinning of the entire cornea and a heterogeneous and mildly elevated stromal layer density.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pentacam anterior segment tomography",
+            "date": "Not specified",
+            "findings": "Increased corneal curvature in both eyes; maximum keratometric power of 50.5 D in the right eye and 50.60 D in the left eye. Minimum corneal thickness: right eye 285 µm, left eye 280 µm, with astigmatism (-4.4D at 174 degrees for right eye, -3.9 D at 11 degrees for left eye). White to white value: 11.6 mm (right eye) and 11.7 mm (left eye).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Corneal densitometry",
+            "date": "Not specified",
+            "findings": "Significant increase in optical density in the 2-mm central area of the cornea; 29.3 grayscale units (GSU) for the right eye and 30.6 GSU for the left eye.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "In vivo confocal microscopy (IVCM)",
+            "date": "Not specified",
+            "findings": "Corneal epithelial cell morphology in the central cornea zone was disturbed. Nerve fibers under the basal cells were disordered with visible and highly reflective fibrotic structures. The number of stromal cells in the anterior part of the cornea was significantly reduced, difficult to distinguish cell structure with visible highly reflective fibrotic structures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-throughput sequencing",
+            "date": "Not specified",
+            "findings": "Homozygous mutation in PRDM5; NM_018699.2:c.247C > T(p.Arg83Cys) detected.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

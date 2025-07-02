@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD3+CD4+ lymphocytes",
+            "date": "7 Years Earlier",
+            "findings": "786 cells/mm3",
+            "changes_over_time": "Decreased to 454 cells/mm3 at the evaluation."
+        },
+        {
+            "procedure_name": "HIV RNA",
+            "date": "7 Years Earlier",
+            "findings": "300 copies/ml",
+            "changes_over_time": "Increased to 6810 copies/ml at the evaluation."
+        },
+        {
+            "procedure_name": "Cytomegalovirus antibody",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Toxoplasma antibody",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Rapid plasma reagin",
+            "date": "Not specified",
+            "findings": "Nonreactive",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis B surface antigen",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis C antibody",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV-resistance genotype",
+            "date": "Not specified",
+            "findings": "Reverse transcriptase None, Protease L63P",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV RNA",
+            "date": "35 weeks' gestation",
+            "findings": "Less than 50 copies/ml",
+            "changes_over_time": "Decreased from 6810 copies/ml at evaluation."
+        },
+        {
+            "procedure_name": "CD3+CD4+ lymphocytes",
+            "date": "35 weeks' gestation",
+            "findings": "482 cells/mm3",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "At delivery",
+            "findings": "Positive for group B streptococcus",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Infant's HIV RNA",
+            "date": "Discharge",
+            "findings": "Less than 50 copies/ml",
+            "changes_over_time": "Remained undetectable at six months."
+        }
+    ]
+}

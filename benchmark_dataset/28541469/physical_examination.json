@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2015",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Hemoglobin nadired at 6.6 g/dl, with undetectable haptoglobin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "June 2015",
+            "vital_signs": "Parasitemia 0.3% detected via peripheral blood smear.",
+            "relevant_findings": "Positive peripheral blood smear for intra-erythrocytic inclusions consistent with Babesia microti.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "September 2015",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Worsening hemolytic anemia with Babesia parasitemia of 0.3%; blood transfusion required.",
+            "changes_over_time": "From a previously resolved status to worsening anemia and parasitemia."
+        },
+        {
+            "date": "January 2017",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No blood smear or PCR evidence of Babesia microti infection; IgG and IgM remained negative.",
+            "changes_over_time": "Patient improved with resolution of infection after treatment."
+        }
+    ]
+}

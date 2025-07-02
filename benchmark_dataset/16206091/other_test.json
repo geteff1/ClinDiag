@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CD4 cell count test",
+            "date": "Not specified",
+            "findings": "Initial CD4 cell count was 20 cells/mL; later CD4 cell count rebounded to 1300 cells/mL after treatment; 318 cells/mL in September 2004; 26 cells/mL on admission.",
+            "changes_over_time": "Decreased from 318 cells/mL to 26 cells/mL after stopping antiretroviral therapy; rebounded to 294 cells/mL after resuming treatment."
+        },
+        {
+            "procedure_name": "HIV RNA level test",
+            "date": "Not specified",
+            "findings": "HIV RNA level was 1100,000 copies/mL at hospitalization in 1999; stably suppressed below detectable levels (!75 copies/mL) for 11 years; 1500,000 copies/mL on admission.",
+            "changes_over_time": "Increased from !75 copies/mL to 1500,000 copies/mL after stopping therapy; returned to !75 copies/mL after resuming therapy."
+        },
+        {
+            "procedure_name": "Lactate level test",
+            "date": "Not specified",
+            "findings": "Lactate level was 2.8 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LDH level test",
+            "date": "Not specified",
+            "findings": "Lactate dehydrogenase level was 299 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hypercoagulability workup",
+            "date": "Not specified",
+            "findings": "Presence of anticardiolipin antibody and a low protein S level (56%; normal range is 70%-134%).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

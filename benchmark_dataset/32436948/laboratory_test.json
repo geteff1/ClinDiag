@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "February 21st",
+            "findings": "Normal thyroid function; FT4: 15.4 nmol/L, FT3: 5.5 pmol/L, TSH: 2.1 mIU/L, TgAb: < 30 IU/mL, TPOAb: < 10 IU/mL, TRAb: < 1.5 IU/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "March 19th",
+            "findings": "FT4: 27.2 nmol/L (high), FT3: 8.7 pmol/L (high), TSH: < 0.04 mIU/L (undetectable), TgAb: 120.2 IU/mL (positive), TPOAb: < 10 IU/mL (negative), TRAb: < 1.5 IU/mL (negative). White cell count: 11,200 per L (elevated), ESR: 90 mm/h (elevated), CRP: 6.9 mg/L (elevated).",
+            "changes_over_time": "From February 21st to March 19th, there was a marked increase in FT4, FT3, and a significant decrease in TSH, as well as increased markers of inflammation (ESR, CRP)."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "April 1st",
+            "findings": "FT4: 21.7 nmol/L (upper normal range), TSH: 0.2 mIU/L (low), ESR: 28 mm/h (slightly elevated), white cell count: 6,900 per L (normal), CRP: 1.2 mg/L (normal).",
+            "changes_over_time": "FT4 concentration decreased from March 19th to April 1st, and TSH increased towards normal levels. ESR slightly elevated but improved from prior measurement."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "April 27th",
+            "findings": "Thyroid functional tests and inflammatory markers were normal; patient asymptomatic.",
+            "changes_over_time": "Normalization of thyroid function and inflammatory markers from April 1st to April 27th."
+        }
+    ]
+}

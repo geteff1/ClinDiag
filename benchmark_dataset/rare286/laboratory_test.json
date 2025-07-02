@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood biochemistry",
+            "date": "Not specified",
+            "findings": "Severe hypoproteinemia (22.0 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "30 weeks of gestation",
+            "findings": "Fetal pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Persistent pulmonary hypertension with no structural heart defects",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural fluid analysis",
+            "date": "Not specified",
+            "findings": "Favoring celiac disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "'White lung' with a marked decrease in translucency of both lungs and significant bilateral pleural effusions",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

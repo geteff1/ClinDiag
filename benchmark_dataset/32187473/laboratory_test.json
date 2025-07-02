@@ -1,0 +1,68 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "33.3% (low)",
+                "hemoglobin": "11.3 g/dl (low)",
+                "white_cell_count": "10,180 per µl (within normal range)",
+                "neutrophils": "80.6% (high)",
+                "lymphocytes": "8.1% (low)",
+                "monocytes": "8.5% (within normal range)",
+                "eosinophils": "2.0% (within normal range)",
+                "basophils": "0.6% (within normal range)",
+                "platelet_count": "320,000 per µl (within normal range)",
+                "red_cell_count": "3,750,000 per µl (low)",
+                "mean_corpuscular_volume": "90.1 fl (within normal range)"
+            },
+            "changes_over_time": {
+                "hematocrit": "33.3% to 39.2% (increased)",
+                "hemoglobin": "11.3 g/dl to 13.9 g/dl (increased)",
+                "white_cell_count": "10,180 to 6,490 (decreased)",
+                "neutrophils": "80.6% to 90.4% (increased)",
+                "lymphocytes": "8.1% to 7.0% (decreased)",
+                "monocytes": "8.5% to 2.6% (decreased)",
+                "eosinophils": "2.0% to 0% (decreased)",
+                "basophils": "0.6% to 0% (decreased)",
+                "platelet_count": "320,000 to 292,000 (decreased)",
+                "red_cell_count": "3,750,000 to 4,730,000 (increased)",
+                "mean_corpuscular_volume": "90.1 to 82.9 (decreased)"
+            }
+        },
+        {
+            "procedure_name": "Renal and Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nucleic acid testing for viruses",
+            "date": "Not specified",
+            "findings": "Negative for influenza A and B, adenovirus, metapneumovirus, respiratory syncytial virus, parainfluenza virus types 1, 2, and 3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum culture and smear",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests for fungal markers",
+            "date": "18th hospital day",
+            "findings": {
+                "1,3-β-d-glucan": "191 pg/ml (elevated, normal <60)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures from lung biopsy",
+            "date": "Autopsy day",
+            "findings": {
+                "Aspergillus": "Aspergillus flavus and Aspergillus terreus identified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

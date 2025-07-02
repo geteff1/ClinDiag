@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fine Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Medullary thyroid carcinoma (MTC) and two hyperplastic parathyroid glands.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dexamethasone Suppression Test",
+            "date": "3/7/96 (2 mg dex)",
+            "findings": "Plasma ACTH decreased to 75 pg/ml and serum cortisol decreased to 12.9 /H9262g/dl.",
+            "changes_over_time": "After 8 mg dexamethasone, ACTH decreased to 24 pg/ml and cortisol to 4.5 /H9262g/dl."
+        },
+        {
+            "procedure_name": "Bilateral Adrenalectomy",
+            "date": "8/96",
+            "findings": "Histopathology demonstrated two adjacent pheochromocytomas, urinary cortisol, epinephrine, and calcium were normal.",
+            "changes_over_time": "Postoperatively, urinary cortisol decreased to 30 /H9262g/d."
+        },
+        {
+            "procedure_name": "Neck Dissection",
+            "date": "9/20/96",
+            "findings": "Calcitonin decreased by 96% (5300 to 120 pg/ml) and ACTH by 91% (125 to 11 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "In Situ Hybridization (ISH) for Proopiomelanocortin (POMC) mRNA",
+            "date": "Not specified",
+            "findings": "POMC mRNA was positive in the MTC but not in the pheochromocytoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pituitary MRI Scan",
+            "date": "Not specified",
+            "findings": "Prominent homogeneous pituitary enlargement.",
+            "changes_over_time": "Follow-up MRI showed a less prominent gland post-surgery."
+        }
+    ]
+}

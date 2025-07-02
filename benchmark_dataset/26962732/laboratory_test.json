@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "67 mm per hour (reference range, 0 to 13)",
+            "changes_over_time": "Increased from 67 mm/hr, 90 mm/hr, 96 mm/hr, to 65 mm/hr over time."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "55.5 mg per liter (reference value, <8.0)",
+            "changes_over_time": "Increased from 52.5 mg/L to 220.6 mg/L, then decreased to 73.6 mg/L and 119.2 mg/L."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.9 g/dL (reference range, 13.5–17.5)",
+            "changes_over_time": "Decreased from 12.9 g/dL, 9.7 g/dL, 10.9 g/dL, 9.9 g/dL, to 8.8 g/dL."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "40.4% (reference range, 41.0–53.0)",
+            "changes_over_time": "Decreased from 40.4%, 32.5%, 36.8%, 32.9%, to 27.9%."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "10.9 per mm3 (reference range, 4500–13000)",
+            "changes_over_time": "Decreased from 10.9, 9.6, increased to 14.4, decreased to 8.11, 11.44, to 11.46."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "8.09 mg/dL (reference range, 0.60–1.50)",
+            "changes_over_time": "Decreased from 8.09 mg/dL, 4.61 mg/dL, increased to 4.13 mg/dL, 4.24 mg/dL, and then increased to 7.08 mg/dL."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.3 mmol/L (reference range, 3.4–5.0)",
+            "changes_over_time": "Increased from 5.3 mmol/L, 5.5 mmol/L, 4.6 mmol/L, 4.1 mmol/L, to 5.3 mmol/L."
+        },
+        {
+            "procedure_name": "Phosphorus",
+            "date": "Not specified",
+            "findings": "6.5 mg/dL (reference range, 2.6–4.5)",
+            "changes_over_time": "Decreased from 6.5 mg/dL, 3.9 mg/dL, 4.0 mg/dL, decreased to 2.1 mg/dL and then increased to 5.6 mg/dL."
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (reference range, 0.5–2.2)",
+            "changes_over_time": "Increased to 4.4 mmol/L."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "123 mg/dL (reference range, 70–110)",
+            "changes_over_time": "Decreased from 123 mg/dL to 110 mg/dL, 99 mg/dL, increased to 120 mg/dL, and then increased to 130 mg/dL."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "1446 ng/ml (reference range, 30–300)",
+            "changes_over_time": "Increased from 1446 ng/ml, 1743 ng/ml, to 1521 ng/ml."
+        },
+        {
+            "procedure_name": "Creatine kinase isoenzymes",
+            "date": "Not specified",
+            "findings": "2.6 ng/ml (reference range, 0.0–6.9)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "0.23 ng/ml (reference range, <0.03)",
+            "changes_over_time": "Increased to 0.62 ng/ml, 0.33 ng/ml, and then to 0.95 ng/ml."
+        }
+    ]
+}

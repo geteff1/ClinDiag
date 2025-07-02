@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "2.69 mmol/liter (normal range, 2.12–2.61 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTH midfraction",
+            "date": "Not specified",
+            "findings": "2,000 ng/liter (normal value, 600 ng/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastrin level",
+            "date": "Not specified",
+            "findings": "290 pg/ml (normal value, 200 pg/ml) - Mild elevation in one relative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RT-PCR MEN1 mRNA",
+            "date": "Not specified",
+            "findings": "Abnormal mRNA of greater size (829 bp) in mutated MEN1 gene than normal transcript (629 bp). Confirmed existence of unspliced intron 9 in mature mRNA.",
+            "changes_over_time": "Normal fragment (629 bp) and an additional fragment (829 bp) in an affected subject (II-5)."
+        }
+    ]
+}

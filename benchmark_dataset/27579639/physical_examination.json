@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "68 bpm",
+                "blood_pressure": "134/78 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general_appearance": "Well",
+                "oral_examination": "No oral thrush",
+                "pulmonary_examination": "Decreased breath sounds in the lower right hemithorax, dullness to percussion, increased tactile fremitus in the same area",
+                "cardiac_examination": "Regular rate and rhythm without murmurs, absence of jugular venous distention",
+                "abdominal_examination": "Soft abdomen",
+                "lower_extremity_examination": "No edema",
+                "cranial_nerve_examination": "Deviation of the tongue to the left without fasciculations or atrophy, no oculomotor abnormalities",
+                "neurologic_examination": "Dysarthria, slowed speech, decreased prosody, unsteady gait on tandem toe walking"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

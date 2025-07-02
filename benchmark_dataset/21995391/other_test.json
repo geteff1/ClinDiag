@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided fine-needle aspiration",
+            "date": "Not specified",
+            "findings": "Cytologic examination revealed poorly differentiated adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "After contrast: a rim-enhancing lesion, 2.6 cm in diameter, in the right thalamus with surrounding mass effect. A smaller enhancing lesion in the left cerebral hemisphere.",
+            "changes_over_time": "Follow-up MRI showed a hypointense lesion in the right thalamus that appears hyperintense on T2-weighted imaging."
+        },
+        {
+            "procedure_name": "Genetic testing (EGFR sequencing)",
+            "date": "Not specified",
+            "findings": "Presence of a frameshift deletion in exon 19 (2235_2249del.).",
+            "changes_over_time": "T790M mutation was identified at the time of recurrence."
+        }
+    ]
+}

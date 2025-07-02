@@ -1,0 +1,86 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "pulse": "166 bpm",
+                "respiratory_rate": "40 breaths per minute",
+                "oxygen_saturation": "100%",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "erythematous_pharynx": "slight",
+                "inguinal_lymph_node": "palpable left, 1 cm in diameter",
+                "femoral_pulses": "normal",
+                "posterior_oropharynx": "unable to visualize",
+                "general_condition": "Alert, flushed cheeks, mild to moderate illness"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "40.0°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "pharyngeal_injection": "present without exudate",
+                "inguinal_lymph_node": "palpable left",
+                "femoral_pulses": "normal",
+                "general_examination": "unchanged from previous exam"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.2°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "irritability": "present",
+                "groin": "palpable diffuse fullness",
+                "left_leg": "externally rotated, no kicking",
+                "hip_and_knee": "flexed with limited range of motion"
+            },
+            "changes_over_time": "Discernible shift from moderate illness to severe irritability and inability to move the left leg."
+        },
+        {
+            "date": "At 19 months of age",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "radiographs": "show resorption of ossification center of left femoral head, mildly widened joint space",
+                "associated_findings": "shortened, widened, sclerotic left femoral neck"
+            },
+            "changes_over_time": "Progressive ossification along the superior margin of the proximal left femur noted compared to earlier findings."
+        },
+        {
+            "date": "At 3 years 10 months of age",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "gait": "painless Trendelenburg gait noted",
+                "left_leg": "externally rotated, limited internal rotation"
+            },
+            "changes_over_time": "Persistent issues with left leg giving out, indicating ongoing orthopedic concerns."
+        }
+    ]
+}

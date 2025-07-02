@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the brain",
+            "date": "Not specified",
+            "findings": "No evidence of an acute intracranial process; mild, nonspecific periventricular hypoattenuation; extraaxial mass (9 mm in greatest dimension) consistent with a meningioma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Moderate bilateral hydronephrosis and hydroureter",
+            "changes_over_time": "Findings were not changed from studies 2 months earlier"
+        },
+        {
+            "procedure_name": "MRI and magnetic resonance angiography",
+            "date": "Not specified",
+            "findings": "Small amount of material with restricted diffusion in the occipital horns; mass visualized with no evidence of infarction or intracranial hemorrhage",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

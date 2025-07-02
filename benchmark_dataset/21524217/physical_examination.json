@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/80 mm Hg",
+                "weight": "92.7 kg",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": "Physical examination was normal, stool guaiac-positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/90 mm Hg",
+                "pulse": "68 bpm",
+                "temperature": "36.0°C",
+                "respiratory_rate": "Not specified",
+                "weight": "93.0 kg"
+            },
+            "relevant_findings": {
+                "mild_epididymal_tenderness": "Right side",
+                "rectal_mass": "Palpable approximately 10 cm from the anal verge",
+                "other_findings": "No testicular tenderness, inguinal hernias, penile discharge, or lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

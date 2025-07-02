@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "June 2015",
+            "findings": "Sinus rhythm, heart rate 103 bpm, AQRS +120, deep S in D1, late R in AVR, and the presence of qR waves in V1. Asymmetrical inversion of ST segment and T wave from V1 to V4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "June 2015",
+            "findings": "Pulmonary artery systolic pressure of 120 mm Hg, a dilated right ventricle, and paradoxical movement of the septum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "Pulmonary artery pressure 95 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "TAPSE of 13 mm, interatrial communication of 17 mm diameter upper venous sinus type, and right to left shunt. Both pulmonary right veins drained to the lower vena cava in a supradiaphagmatic portion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Second right heart catheterization",
+            "date": "Not specified",
+            "findings": "Confirmed the previous diagnosis of severe pulmonary hypertension that is not responsive to vasodilator challenge.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

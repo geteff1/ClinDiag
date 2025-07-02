@@ -1,0 +1,75 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "124/74 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "neck_mass": {
+                    "description": "Nontender, nonerythematous, nonmobile mass",
+                    "size": "6 cm by 4 cm"
+                },
+                "pulmonary": {
+                    "jugular_venous_pulse": "5 cm of water with normal contour",
+                    "carotid_pulses": "2+ without bruits",
+                    "systolic_murmur": "grade 1/6 at the left upper sternal border"
+                },
+                "neurological": {
+                    "sensation": "Symmetric in left and right arms"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks after discharge (Not specified exact date)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neck_swelling": {
+                    "description": "Greatly reduced",
+                    "numbness": "Residual numbness in tips of left third, fourth, and fifth digits"
+                }
+            },
+            "changes_over_time": "Neck swelling greatly reduced"
+        },
+        {
+            "date": "Five days after the evaluation in the electrophysiology clinic (Not specified exact date)",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "symptoms": {
+                    "description": "Recurrent swelling and pain in neck and supraclavicular region on left side; numbness and tingling in the face, shoulder, and arm on the left side; mild dysphagia; feeling of hotter left side face."
+                },
+                "neurological": {
+                    "working_description": "Reduced sensation in left trigeminal-nerve distribution and dysesthesia"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hemoglobin": "12.2 g/dL",
+                "hematocrit": "34.9%",
+                "plasma_creatinine": "1.65 mg/dL"
+            },
+            "relevant_findings": "Ultrasonography of the left side of the neck revealed no substantial change in the complex mass in the left supraclavicular region.",
+            "changes_over_time": "No substantial change noted"
+        }
+    ]
+}

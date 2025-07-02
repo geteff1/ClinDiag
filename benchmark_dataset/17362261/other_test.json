@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin Prick Test",
+            "date": "Not specified",
+            "findings": "Positive responses to kiwi (3 mm), pear (4 mm), banana (5 mm), watermelon (6 mm), cherry (5 mm), passion fruit (5 mm), walnut (4 mm), pistachio (3 mm), and latex (12 mm); positive control 8 mm and negative control 0 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specific Serum IgE Testing",
+            "date": "Not specified",
+            "findings": "Total serum IgE level was 34 IU/l; serum-specific IgE to latex was 3.2 KU/l; specific serum IgE to turnip was 0.64 KU/l and to zucchini was <0.35 KU/l.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cross-reactivity Inhibition Study",
+            "date": "Not specified",
+            "findings": "Inhibition of turnip ImmunoCAPs reaction by 99.3% and latex ImmunoCAP reaction inhibited by both zucchini and turnip extracts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Monoclonal Anti-IgE Antibody Treatment (Omalizumab)",
+            "date": "1998 (enrollment date for the study)",
+            "findings": "Twin receiving omalizumab reduced long-term treatment with fluticasone to 500 µg/day with clinical improvement; the other required 1250 µg/day and regular courses of oral corticosteroids.",
+            "changes_over_time": "Improvement in respiratory function over 6 years with absence of hospitalizations for severe attacks and disappearance of pollen-induced rhinitis."
+        }
+    ]
+}

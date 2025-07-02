@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma CD4 count",
+            "date": "Not specified",
+            "findings": "724 cells/mL (normal range > 400 cells/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma HIV RNA viral load",
+            "date": "Not specified",
+            "findings": "406 copies/mL (slightly above expected range for patients on stable antiretroviral therapy)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF HIV RNA PCR",
+            "date": "Not specified",
+            "findings": "2,520 copies/mL (confirming HIV CSF viral escape syndrome)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Lymphocytic pleocytosis and elevated protein",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

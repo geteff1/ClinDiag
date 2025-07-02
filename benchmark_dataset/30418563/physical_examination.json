@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 116 cm, Weight: 40.5 kg, BMI: 30.1 kg/m², Serum creatinine: 0.84 mg/dL, PTH: 458 pg/mL, Calcium: 7.9 mg/dL, Phosphorus: 9.2 mg/dL, TSH: 4.40 mIU/mL",
+            "relevant_findings": "Mild chronic kidney failure, high PTH levels, hypocalcemia, hyperphosphatemia, bilateral valgus of the knees, shortening of the fourth and/or fifth metacarpal bones, multiple subcutaneous ossifications, severe sleep apnea requiring mechanical ventilation.",
+            "changes_over_time": "Kidney function slowly deteriorated, leading to dialysis started at age 14 years. After renal transplantation at age 16 years, calcium and phosphate levels normalized and PTH values rapidly decreased."
+        },
+        {
+            "date": "At age 4 years",
+            "vital_signs": "Calcium: 7.6 mg/dL, Plasma phosphorus: 7 mg/dL, Plasma creatinine: 77 mmol/L, PTH: 997 pg/mL",
+            "relevant_findings": "Mild hypothyroidism (TSH: 5.66 mU/mL), free T4 at the lower limit of normal, absence of anti-thyroid antibodies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "After transplantation (4 months later)",
+            "vital_signs": "PTH: 23 pg/mL, Normal serum calcium and phosphate levels.",
+            "relevant_findings": "Normalization of biochemical parameters post-transplant.",
+            "changes_over_time": "Improved renal function and normalization of calcium, phosphate, and PTH levels after kidney transplantation."
+        }
+    ]
+}

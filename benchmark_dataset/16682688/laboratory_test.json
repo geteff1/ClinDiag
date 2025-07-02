@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "CSF was sterile and acellular. Protein was 358 mg/L, glucose 2.9 mmol/L (plasma 4.8 mmol/L); oligoclonal bands were absent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Mild diffuse axonal degeneration of myelinated and unmyelinated fibers; no inflammation or amyloid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematological examination",
+            "date": "Not specified",
+            "findings": "Macrocytic anemia (MCV 102 fl, hemoglobin 11.4 g/dL), lymphopenia (1.3 x 10^9/L), white cell count (4.9 x 10^9/L) and platelet count (239 x 10^9/L) within normal limits.",
+            "changes_over_time": "Hematologic abnormalities persisted."
+        },
+        {
+            "procedure_name": "Serum vitamin B12 test",
+            "date": "Not specified",
+            "findings": "Serum vitamin B12 was 1,500 ng/L; normal plasma homocysteine and absent urine methylmalonic acid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Copper levels",
+            "date": "Not specified",
+            "findings": "Serum copper was 2 µmol/L (normal range 11 to 20 µmol/L), ceruloplasmin was 0.04 mg/L (normal range 0.2 to 0.6 mg/L).",
+            "changes_over_time": "Copper deficiency was confirmed; serum levels normalized after treatment."
+        },
+        {
+            "procedure_name": "Zinc levels",
+            "date": "Not specified",
+            "findings": "Serum zinc was 7.4 µmol/L (normal range 11 to 24 µmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary copper test",
+            "date": "Not specified",
+            "findings": "Twenty-four-hour urinary copper was 1.11 µmol/24h (normal range 0 to 0.9 µmol/24h).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat MRI of spinal cord/brain",
+            "date": "Approximately 4 weeks after surgery",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

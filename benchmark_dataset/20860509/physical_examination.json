@@ -1,0 +1,72 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5°C",
+                "blood_pressure": "119/63 mm Hg",
+                "heart_rate": "108 bpm",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Mild tenderness of the sternum reproduced with deep inspiration",
+                    "Tenderness of the left costovertebral angle",
+                    "Soft abdomen with tenderness on the left side, most severe in the left lower quadrant",
+                    "No rebound or guarding",
+                    "Radial pulses were 2+"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission day",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Pain rated as 8 out of 10 continued",
+                    "Nausea and vomiting recurred but lessened with prochlorperazine"
+                ]
+            },
+            "changes_over_time": "Pain persisted at 8 out of 10"
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": {
+                "temperature": "38.5°C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Urinalysis revealed leukocytes (>100 white cells per high-power field)",
+                    "Urine culture grew Proteus mirabilis and Escherichia coli",
+                    "Blood cultures remained sterile"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Fifth hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Persistent mild splenomegaly",
+                    "Peripheral wedge-shaped areas of hypoattenuation consistent with infarcts"
+                ]
+            },
+            "changes_over_time": "Splenomegaly persisted; infarcts noted"
+        }
+    ]
+}

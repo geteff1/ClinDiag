@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Mild interstitial pulmonary edema, with surgical clips in the mediastinum and a tortuous aorta with atherosclerotic calcification.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Periventricular and subcortical microangiopathic changes and atherosclerosis in the carotid siphons, with no evidence of intracranial hemorrhage, mass lesion, or territorial infarct.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography of the transplanted kidney",
+            "date": "Date of admission",
+            "findings": "Resistive indexes of the arcuate arteries of 0.84 to 1.00.",
+            "changes_over_time": "Increased resistive indexes compared with a study from 5 months previously, which showed indexes of 0.74 to 0.83."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 64% and an estimated right ventricular systolic pressure of 68 mm Hg.",
+            "changes_over_time": "Unchanged from a previous study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "resting-state functional MRI (rsfMRI)",
+            "date": "Not specified",
+            "findings": "Increased functional connectivity between the medial prefrontal cortex and superior frontal gyrus at baseline; significant differences in connectivity between the patient's measurements and those of a depression control group.",
+            "changes_over_time": "Increased coupling between the DMN and the frontal pole 200 minutes after infusion; differences were no longer detectable 200 minutes and 1 day after ketamine infusion, but altered SAN-precuneus connectivity was evident again after 7 days."
+        },
+        {
+            "procedure_name": "positional emission tomography (PET) study",
+            "date": "10 years ago",
+            "findings": "Significantly decreased expression of serotonin (5-HT2A) receptors throughout the patient's brain.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

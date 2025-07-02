@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "11 months before admission",
+            "findings": "3+ proteinuria, an increase from 1+ one year earlier.",
+            "changes_over_time": "Increased proteinuria noted; 1+ one year earlier."
+        },
+        {
+            "procedure_name": "Stress Test",
+            "date": "Five months before admission",
+            "findings": "Reduced exercise capacity with no evidence of ischemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Ultrasonography",
+            "date": "Five months before admission",
+            "findings": "Incomplete closure of the mitral valve, moderate mitral regurgitation, left atrium dilated, estimated left ventricular ejection fraction of 44 percent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-Hour Urine Collection",
+            "date": "Three months before admission",
+            "findings": "Moderate amount of lambda Bence Jones protein, large amount of albumin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiography",
+            "date": "Two months before admission",
+            "findings": "Moderate biventricular failure and mitral regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Two months before admission",
+            "findings": "Congo red stain for amyloid was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endomyocardial Biopsy",
+            "date": "Not specified",
+            "findings": "Deposits of amorphous extracellular material with classic apple-green birefringence indicating amyloid.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

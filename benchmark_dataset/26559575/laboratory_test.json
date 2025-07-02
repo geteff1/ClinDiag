@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count and Iron Studies",
+            "date": "Not specified",
+            "findings": "Normal counts. Hemoglobin: 11.0 g/dl (normal range 12.0–16.0), Hematocrit: 36.2% (normal range 36.0–46.0), White cell count: 7030 per mm3 (normal range 4500–11,000), Platelet count: 247,000 per mm3 (normal range 150,000–400,000).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Clear, yellow urine, specific gravity: 1.008, pH: 7.0, 1+ occult blood, 3+ albumin, 5–10 red cells and 0–2 white cells per high-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Creatinine",
+            "date": "Not specified",
+            "findings": "1.62 mg/dl (normal range 0.60–1.50).",
+            "changes_over_time": "Remained near the patient's baseline level."
+        },
+        {
+            "procedure_name": "Urine Albumin/Creatinine Ratio",
+            "date": "Three months before consultation",
+            "findings": "1.0 g of albumin per gram of creatinine.",
+            "changes_over_time": "Increased to 5.3 g of albumin per gram of creatinine at the current evaluation."
+        },
+        {
+            "procedure_name": "Urine Total Protein",
+            "date": "Not specified",
+            "findings": "6.6 g (determined with urine total protein:creatinine ratio), urine albumin level was significantly elevated.",
+            "changes_over_time": "Increased from previous measurements."
+        },
+        {
+            "procedure_name": "PLA2R Antibody Test",
+            "date": "Not specified",
+            "findings": "Positive for circulating antibodies to PLA2R, quantified at 55.6 RU per milliliter (positive value >20).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

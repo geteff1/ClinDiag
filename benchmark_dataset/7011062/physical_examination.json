@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Case 1": "Physical and neurologic findings were essentially within normal limits, but the patient had difficulty following commands and poor tandem gait.",
+                "Case 2": "Physical and neurological examinations were within normal limits, although coordination and gait were mildly impaired.",
+                "Case 3": "Physical examination was normal, but mild graphesthesia, lack of peripheral cerebral dominance, choreoathetotic movements, and errors on reverse tandem gait were found."
+            },
+            "changes_over_time": {
+                "Case 1": "Not specified",
+                "Case 2": "Jeff's temper tantrums and 'catastrophic rage reactions' decreased markedly, and his peer interactions increased after treatment.",
+                "Case 3": "Joe's eccentric manner of relating and 'odd' speech were present at an attenuated level after treatment."
+            }
+        }
+    ]
+}

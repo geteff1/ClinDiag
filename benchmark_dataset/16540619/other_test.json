@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fine-needle aspiration",
+            "date": "10 days before admission",
+            "findings": "necrosis, heterogeneous lymphoid cells, and epithelioid histiocytes suggestive of granulomatous inflammation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Incisional biopsy",
+            "date": "Third hospital day",
+            "findings": "Granulomatous tissue; diagnosis of diffuse large-B-cell lymphoma, EBV-positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "94 white cells, with 32% lymphocytes, 8% neutrophils, 40% monocytes, and 19% large cells with nucleoli and basophilic cytoplasm; results pending for flow cytometry, cytologic examination, and cultures",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

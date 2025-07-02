@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocyte GLA activity",
+            "date": "At age 37",
+            "findings": "0.2 nmol/h/mg protein (normal range: 49.8–116.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated glomerular filtration rate (eGFR)",
+            "date": "At the time of ERT introduction (age 38) to levels indicating end-stage renal failure",
+            "findings": "Gradually declined from 65.2 ml/min/1.73 m2",
+            "changes_over_time": "Declined to levels indicating end-stage renal failure"
+        },
+        {
+            "procedure_name": "Cognitive function tests (HDS-R and MMSE)",
+            "date": "Ages 49, 50, and 51",
+            "findings": "HDS-R scores: 6, 4, and 4 points; MMSE scores: 15, 17, and 10 points",
+            "changes_over_time": "Indicating progression to severe dementia"
+        },
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "At age 37",
+            "findings": "Lamellated myelin-like inclusions in the cytoplasm of glomerular and tubular cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "At age 42 and age 48",
+            "findings": "At age 42, revealed multiple asymptomatic brain infarctions; at age 48, demonstrated new infarctions at the left pons and bilateral cerebral cortex.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "COGNISTAT examination",
+            "date": "At age 48",
+            "findings": "Remarkable declines in Orientation, Language (Comprehension, Naming), Construction, Memory, Calculations and Reasoning, with relatively good scores for Attention and Language Repetition.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Voxel-based Specific Regional Analysis System for Alzheimer's Disease",
+            "date": "Not specified",
+            "findings": "Z-score of 0.49, indicating no specific loss of gray matter selectivity in bilateral hippocampal regions. Whole brain gray matter volume reduced by 6.02%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

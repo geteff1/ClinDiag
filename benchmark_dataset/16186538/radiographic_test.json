@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Exercise test",
+            "date": "Not specified",
+            "findings": "Reduced maximum workload of 80 W and reduced maximal oxygen uptake of 18 mL/kg/min.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Widespread subsarcolemmal accumulation of mitochondria in muscle with more than 5% of the fibers affected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

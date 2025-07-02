@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 10th",
+            "vital_signs": "Temperature: 39.2 °C",
+            "relevant_findings": "Nervous system examination showed acupuncture-induced hypersensitivity in the right postauricular occipital nerve distribution area. Other findings were normal.",
+            "changes_over_time": "Initial examination findings were normal; however, the patient's condition rapidly deteriorated, leading to high fever, respiratory failure, and multiple organ failure."
+        },
+        {
+            "date": "June 14th",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Pulmonary CT showed inflammation in the right lower lung. Subsequent chest X-ray re-examination indicated significantly worsening bilateral lung infection.",
+            "changes_over_time": "Chest X-ray re-examination showed that bilateral lung infection was significantly worse than the previous day's chest film."
+        },
+        {
+            "date": "June 13th",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Routine blood analysis showed neutrophils: 84.6%, ESR: 25 mm/h, sodium: 131.0 mmol/L. Other blood biochemical indicators were generally normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

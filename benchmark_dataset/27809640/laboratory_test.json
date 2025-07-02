@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone turnover markers",
+            "date": "Not specified",
+            "findings": {
+                "osteoprotegerin": "< 0.4 pmol/L",
+                "RANKL": "9.1 – 23.2 pmol/L",
+                "RANKL/OPG ratio": "13 – 33.3",
+                "TRAP-5b": "elevated",
+                "Osteocalcin": "upper normal range",
+                "Deoxypyridinoline (DPD)": "elevated in patient 1 and 2"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Growth hormone stimulation test",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "maximum GH level": "6.27 ng/ml",
+                    "summary": "insufficient growth hormone levels after stimulation"
+                },
+                "Patient 2": {
+                    "maximum GH level": "6.08 ng/ml",
+                    "summary": "consistent with growth hormone deficiency"
+                },
+                "Patient 3": {
+                    "IGF-1 level": "Normal",
+                    "summary": "did not undergo growth hormone stimulation test"
+                }
+            },
+            "changes_over_time": "Growth hormone therapy resulted in initial catch-up growth in Patient 1 but was discontinued due to low serum levels of IGF-1 and IGFBP-3."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Abnormal lymphocytes accounting for approximately 2% and abnormal plasma cells occupying 0.37% of nucleated cells.",
+            "changes_over_time": "In the most recent follow-up (July 2023), abnormal lymphocytes accounted for approximately 4.07%, and abnormal plasma cells occupied 0.10% of nucleated cells."
+        },
+        {
+            "procedure_name": "renal biopsy",
+            "date": "Not specified",
+            "findings": "MPGN with suspected cryoglobulinemic renal damage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "Not specified",
+            "findings": "Suggested leukocytoclastic vasculitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "nerve biopsy",
+            "date": "Not specified",
+            "findings": "Chronic axonal damage with massive perivascular infiltration of numerous mononuclear cells.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

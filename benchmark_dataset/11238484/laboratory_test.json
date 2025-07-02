@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Prolactin (PRL)",
+            "date": "Not specified",
+            "findings": "77 mg/L (normal, <27 mg/L); increased to 423 mg/L after TRH administration.",
+            "changes_over_time": "Postoperatively, PRL levels normalized to 27 mg/L, 17 mg/L, and 10 mg/L on the first, second, and third postoperative days."
+        },
+        {
+            "procedure_name": "Insulin-induced hypoglycemia",
+            "date": "Not specified",
+            "findings": "GH peak: 7.5 mg/L; cortisol peak: 568 nmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endocrine laboratory investigations",
+            "date": "Not specified",
+            "findings": "PRL: 84 mg/L; plasma cortisol: 35 nmol/L; LH, FSH (<1 mIU/L); GH (0.1 mg/L).",
+            "changes_over_time": "Postoperative MRI showed significant resolution of the lesion; persistent anterior pituitary failure requiring hormone replacement."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "1.9 cm sellar mass with suprasellar extension.",
+            "changes_over_time": "MRI 3 months after steroid treatment showed complete resolution of the pituitary lesion."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "1 cm inhomogeneous lesion, bright on T1 and T2-weighted images.",
+            "changes_over_time": "Two years later, the lesion size did not regress on repeat MRI."
+        },
+        {
+            "procedure_name": "Serum Prolactin (PRL)",
+            "date": "Not specified",
+            "findings": "Postoperatively normalized to 11 mg/L.",
+            "changes_over_time": "Two years later, normal levels (10 mg/L) and regular menstrual function maintained."
+        }
+    ]
+}

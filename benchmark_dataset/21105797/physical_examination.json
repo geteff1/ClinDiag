@@ -1,0 +1,72 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "152/72 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "left_ear": {
+                    "ear_canal": "Erythematous, contained white debris",
+                    "tympanic_membrane": "Serous effusion present"
+                },
+                "right_ear": "Normal",
+                "Rinne_test": "Better hearing by air conduction than bone conduction bilaterally",
+                "Weber_test": "Sound lateralized to the left",
+                "other_findings": "Remaining examination normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_ear": {
+                    "tympanic_membrane": "Dried serous material covering it",
+                    "granulation_tissue": "Present, obstructing the tube lumen"
+                },
+                "speech_reception_threshold": "35 dB",
+                "other_findings": "Unchanged"
+            },
+            "changes_over_time": "The patient reported improved hearing and no pain"
+        },
+        {
+            "date": "2 Days before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_auricle": "Tender on manipulation",
+                "ear_canal": {
+                    "contents": "Wet, white debris",
+                    "effusion": "Not present",
+                    "perforation": "Not present"
+                },
+                "other_findings": "Unchanged"
+            },
+            "changes_over_time": "Pain recurred after exposure to water while jet-skiing"
+        },
+        {
+            "date": "1 week after return to emergency department",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_external_auditory_canal": "Narrowed by edematous skin",
+                "tympanic_membrane": "Appeared normal"
+            },
+            "changes_over_time": "Otalgia resolved, but fullness and decreased hearing persisted"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "left_ear": {
+                    "tympanic_membrane": "Retracted with effusion but without perforation",
+                    "subcutaneous_mass": "Ballottable mass emerging from the posterior superior quadrant"
+                },
+                "other_findings": "Unchanged"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Transmitted Evoked Otoacoustic Emission (TEOAE) testing",
+            "date": "Not specified",
+            "findings": "Did not pass the hearing screening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES) genetic analysis",
+            "date": "12 days old",
+            "findings": "A heterozygous de novo variant c.1498A>G (p.Ile500Val) in SMAD4 was identified, interpreted as pathogenic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Auditory Brainstem Response (ABR)",
+            "date": "By 23 months",
+            "findings": "Normal hearing was shown despite initial hearing screening failing.",
+            "changes_over_time": "Evaluation for hearing loss performed at 23 months."
+        },
+        {
+            "procedure_name": "Cardiac structure and function evaluation by electrocardiography (ECG) and color Doppler echocardiography",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

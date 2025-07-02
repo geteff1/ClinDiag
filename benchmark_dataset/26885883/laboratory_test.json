@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary C-peptide immunoreactivity excretion",
+            "date": "Not specified",
+            "findings": "Pre-treatment: 4.3 mcg/day (control: 29–167); After 1 day: 17.2 mcg/day; After 6 months: 30.2 mcg/day; After cessation: 4.0 mcg/day (below normal range)",
+            "changes_over_time": "Improved from 4.3 to 17.2 mcg/day after 1 day and to 30.2 mcg/day after 6 months of pyruvate therapy; decreased to 4.0 mcg/day after cessation of oral administration."
+        },
+        {
+            "procedure_name": "Total daily insulin dose (TDD)",
+            "date": "Not specified",
+            "findings": "Pre-treatment: 33 U/day; After 2 months: 29 U/day; After 6 months: 20 U/day",
+            "changes_over_time": "Decreased from 33 U/day to 29 U/day after 2 months and to 20 U/day after 6 months of pyruvate therapy."
+        },
+        {
+            "procedure_name": "Glycated Hemoglobin (HbA1c)",
+            "date": "Not specified",
+            "findings": "Pre-treatment: 6.5%; After 2 months: 5.6%; After 6 months: 5.9%; After cessation: increased.",
+            "changes_over_time": "Levels improved from 6.5% to 5.6% after 2 months; increased after cessation of oral administration."
+        },
+        {
+            "procedure_name": "Serum Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "Pre-treatment: 440 U/L; Post-treatment: 441 U/L, 713 U/L at 1 month, 570 U/L at 4 and 6 months; 381 U/L after cessation.",
+            "changes_over_time": "Remained stable at 440 U/L pre-treatment and 441 U/L during therapy; increased to 713 U/L at 1 month but subsequently decreased."
+        }
+    ]
+}

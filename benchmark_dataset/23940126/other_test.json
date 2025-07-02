@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroxine Therapy",
+            "date": "Not specified",
+            "findings": "Improved alertness and constipation; suppressed TSH levels; raised BMR; normalized elevated muscle CK levels.",
+            "changes_over_time": "Cardiac parameters (heart rate, contractility) remained relatively refractory despite treatment."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Bilateral theta waves during hyperventilation, supporting a diagnosis of epilepsy.",
+            "changes_over_time": "Seizures recurred at age 20 years after sodium valproate treatment was discontinued; reduced seizure frequency upon restarting sodium valproate."
+        },
+        {
+            "procedure_name": "Echocardiographic Indices",
+            "date": "Not specified",
+            "findings": "Baseline parameters in the hypothyroid range; after thyroxine treatment, most parameters were within hypothyroid or control ranges.",
+            "changes_over_time": "Some indices (heart rate, systolic and diastolic parameters) did not reach the thyrotoxic range, indicating blunted cardiac responsiveness to TH."
+        },
+        {
+            "procedure_name": "Bone Turnover Markers",
+            "date": "Not specified",
+            "findings": "Normal baseline levels; markers rose progressively after thyroxine treatment.",
+            "changes_over_time": "Some markers became high-normal while others became elevated indicating changes in bone metabolism."
+        },
+        {
+            "procedure_name": "Molecular Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Heterozygosity for a nucleotide deletion in THRA, shifting the reading frame and introducing a premature stop codon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Copper and Selenium Levels Analysis",
+            "date": "Not specified",
+            "findings": "Copper levels rose with treatment; selenium levels remained unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

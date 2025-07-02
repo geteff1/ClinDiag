@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG monitoring",
+            "date": "Not specified",
+            "findings": "QTc, 435 ms (before cisapride); QTc, 480 ms (after cisapride); QTc, 731 ms (post-pacing); QTc, 594 ms (after drug withdrawal); QTc, 417 ms (six days drug-free equivalent to baseline)",
+            "changes_over_time": "QT interval prolonged from 435 ms to 480 ms after cisapride; further prolonged to 731 ms during pacing; shortened to 594 ms after drug withdrawal and normalized to 417 ms after six days."
+        },
+        {
+            "procedure_name": "Serum electrolytes test",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

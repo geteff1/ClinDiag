@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium test",
+            "date": "Not specified",
+            "findings": "Hypercalcemia: 3.1 mmol/L (reference values, 2.0 –2.7 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum parathyroid hormone test",
+            "date": "Not specified",
+            "findings": "High serum parathyroid hormone level: 1288.0 pg/mL (reference values, 17.3 –72.9 pg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood calcium level test",
+            "date": "Not specified",
+            "findings": "Post-parathyroidectomy calcium level: 2.0 mmol/L",
+            "changes_over_time": "Decreased from 3.1 mmol/L before parathyroidectomy"
+        },
+        {
+            "procedure_name": "Blood parathyroid hormone level test",
+            "date": "Not specified",
+            "findings": "Post-parathyroidectomy parathyroid hormone level: 304.0 pg/mL",
+            "changes_over_time": "Decreased from 1288.0 pg/mL before parathyroidectomy"
+        },
+        {
+            "procedure_name": "99mTc-MIBI parathyroid imaging",
+            "date": "Not specified",
+            "findings": "Early imaging showed increased MIBI uptake in the hyperplastic lesion; delayed imaging showed no extinction of uptake",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

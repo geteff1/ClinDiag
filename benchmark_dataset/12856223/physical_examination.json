@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "fever",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "moderate respiratory distress"
+            },
+            "relevant_findings": [
+                "diffuse symmetric rales during chest auscultation",
+                "leukocytosis",
+                "neutrophilia",
+                "C-reactive protein level of 30 mg/dL",
+                "enlarged mediastinum with cardiomegaly",
+                "narrowing of the trachea",
+                "diffuse pattern of fine nodules in both lungs"
+            ],
+            "changes_over_time": [
+                {
+                    "time_frame": "5 days after the initiation of treatment",
+                    "description": "Fever subsided and the patient's symptoms improved rapidly."
+                },
+                {
+                    "time_frame": "8 weeks later",
+                    "description": "Treatment regimen was reduced and findings of chest CT scan were normal 9 months after initiation of treatment."
+                },
+                {
+                    "time_frame": "4 months after the discontinuation of treatment",
+                    "description": "Patient remained asymptomatic."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gases",
+            "date": "Not specified",
+            "findings": {
+                "arterial_base_excess": {
+                    "initial": -29.0,
+                    "1_hr_17_min": -20.0,
+                    "3_hr_45_min": -16.0,
+                    "30_min": -20.1,
+                    "1_hr_15_min": -21.1,
+                    "3_hr": -19.0,
+                    "6.5_hr": -20.1,
+                    "7.5_hr": -20.4
+                },
+                "arterial_pH": {
+                    "initial": 6.88,
+                    "1_hr_17_min": 6.97,
+                    "3_hr_45_min": 6.95,
+                    "30_min": 6.98,
+                    "1_hr_15_min": 6.93,
+                    "3_hr": 6.98
+                },
+                "partial_pressure_ofarterial_CO2": {
+                    "initial": 87.7,
+                    "1_hr_17_min": 30.3,
+                    "3_hr_45_min": 31.8,
+                    "30_min": 52,
+                    "1_hr_15_min": 51,
+                    "3_hr": 55,
+                    "6.5_hr": 61,
+                    "7.5_hr": 47
+                },
+                "partial_pressure_ofarterial_O2": {
+                    "initial": 78.0,
+                    "1_hr_17_min": 113.0,
+                    "3_hr_45_min": 57.0,
+                    "30_min": 66,
+                    "1_hr_15_min": 55,
+                    "3_hr": 47,
+                    "6.5_hr": 46,
+                    "7.5_hr": 32
+                },
+                "bicarbonate": {
+                    "initial": 10.3,
+                    "1_hr_17_min": 8.7,
+                    "3_hr_45_min": 11.7,
+                    "30_min": 12,
+                    "1_hr_15_min": 11
+                },
+                "oxygen_saturation": {
+                    "initial": 70.0,
+                    "1_hr_17_min": 96.0,
+                    "3_hr_45_min": 82.0,
+                    "30_min": 80
+                }
+            },
+            "changes_over_time": "Progression of metabolic and respiratory acidosis; initial severe acidosis gradually improved at later time points, but overall insufficient oxygenation persisted."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": {
+                    "initial": 13.5,
+                    "1_hr_17_min": 13.8,
+                    "3_hr_45_min": 13.6,
+                    "30_min": 13.7
+                },
+                "white_cell_count": {
+                    "initial": 3700,
+                    "1_hr_17_min": 2500,
+                    "3_hr_45_min": 3900
+                },
+                "platelets": {
+                    "initial": 162000,
+                    "1_hr_17_min": 136000,
+                    "3_hr_45_min": 57000
+                }
+            },
+            "changes_over_time": "WBC count decreased initially and then increased, while platelets decreased significantly over time."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "aspartate_aminotransferase": {
+                    "initial": 135,
+                    "1_hr_17_min": 46,
+                    "3_hr_45_min": 401
+                },
+                "alanine_aminotransferase": {
+                    "initial": 767,
+                    "1_hr_17_min": 46,
+                    "3_hr_45_min": 401
+                },
+                "international_normalized_ratio": {
+                    "initial": 1.4,
+                    "1_hr_17_min": 1.5,
+                    "3_hr_45_min": 2.2
+                }
+            },
+            "changes_over_time": "Elevated liver enzymes were observed with significant increases over time indicating worsening liver function."
+        },
+        {
+            "procedure_name": "Renal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": {
+                    "initial": 2.4,
+                    "1_hr_17_min": 2.3,
+                    "3_hr_45_min": 2.5
+                },
+                "urea_nitrogen": {
+                    "initial": 50,
+                    "1_hr_17_min": 63,
+                    "3_hr_45_min": 56
+                }
+            },
+            "changes_over_time": "Creatinine levels fluctuated slightly while urea nitrogen levels increased."
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "glucose": {
+                    "initial": 177,
+                    "1_hr_17_min": 130,
+                    "3_hr_45_min": 163,
+                    "30_min": 122,
+                    "1_hr_15_min": 87,
+                    "3_hr": 57
+                },
+                "sodium": {
+                    "initial": 141,
+                    "1_hr_17_min": 139,
+                    "3_hr_45_min": 141,
+                    "30_min": 144,
+                    "1_hr_15_min": 142,
+                    "3_hr": 140
+                },
+                "potassium": {
+                    "initial": 2.9,
+                    "1_hr_17_min": 4.4,
+                    "3_hr_45_min": 3.8,
+                    "30_min": 3.8,
+                    "1_hr_15_min": 4.5,
+                    "3_hr": 7.1
+                },
+                "calcium": {
+                    "initial": 6.1,
+                    "1_hr_17_min": 6.9
+                }
+            },
+            "changes_over_time": "Glucose levels initially high decreased significantly, potassium levels showed an increase to critical levels."
+        }
+    ]
+}

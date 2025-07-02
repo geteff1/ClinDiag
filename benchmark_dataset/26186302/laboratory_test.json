@@ -1,0 +1,81 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biochemical profile",
+            "date": "Not specified",
+            "findings": {
+                "calcium": "2.44 (2.3–2.70) mmol/L",
+                "inorganic phosphate": "0.63 (1.1–1.95) mmol/L",
+                "alkaline phosphatase (ALP)": "731 (200–600) U/L",
+                "intact PTH": "37.3 (10–55) pg/mL",
+                "25-hydroxy-Vitamin D [25(OH)D]": "139.2 (>250) nmol/L",
+                "1,25(OH)2D": "18.1 (20.2–46.2) pg/mL",
+                "TRP": "75.6% (85–97%)",
+                "TmP/GFR": "0.48 (1.2–2.6) mmol/L",
+                "hemoglobin": "122 g/L",
+                "serum ferritin": "5 µg/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical profile",
+            "date": "At age 5.6 years",
+            "findings": {
+                "calcium": "2.32 mmol/L",
+                "inorganic phosphate": "0.68 mmol/L",
+                "alkaline phosphatase (ALP)": "356 U/L",
+                "intact PTH": "28.0 pg/mL",
+                "25-hydroxy-Vitamin D [25(OH)D]": "24.4 nmol/L",
+                "1,25(OH)2D": "42 pg/mL",
+                "TRP": "77.3%",
+                "TmP/GFR": "0.53 mmol/L"
+            },
+            "changes_over_time": "At 5.6 years of age, the patient's biochemistry indicated improvements, but no changes in height or weight were observed."
+        },
+        {
+            "procedure_name": "Phosphate and iron status",
+            "date": "Age 8.3 years",
+            "findings": {
+                "phosphate": "0.85 mmol/L",
+                "calcium": "2.33 mmol/L",
+                "ALP": "347 U/L",
+                "TRP": "88%",
+                "TmP/GFR": "0.75 mmol/L",
+                "1,25(OH)2D": "49.7 pg/mL",
+                "serum iron": "10.5 µmol/L",
+                "ferritin": "26 µg/L"
+            },
+            "changes_over_time": "During iron supplementation, phosphate and iron metabolism normalized."
+        },
+        {
+            "procedure_name": "Phosphate and iron status",
+            "date": "Age 9.3 years",
+            "findings": {
+                "phosphate": "0.94 mmol/L",
+                "calcium": "2.34 mmol/L",
+                "ALP": "271 U/L",
+                "TRP": "91.9%",
+                "TmP/GFR": "0.86 mmol/L",
+                "1,25(OH)2D": "42 pg/mL",
+                "serum iron": "31.5 µmol/L",
+                "ferritin": "19 µg/L"
+            },
+            "changes_over_time": "Iron supplementation continued to show improvements."
+        },
+        {
+            "procedure_name": "Phosphate and iron status",
+            "date": "Age 11.5 years",
+            "findings": {
+                "phosphate": "1.11 mmol/L",
+                "calcium": "2.30 mmol/L",
+                "ALP": "221 U/L",
+                "TRP": "90.8%",
+                "TmP/GFR": "1.01 mmol/L",
+                "1,25(OH)2D": "27.3 pg/mL",
+                "serum iron": "29.1 µmol/L",
+                "ferritin": "25 µg/L"
+            },
+            "changes_over_time": "Following cessation of iron supplementation, her phosphate reabsorption and other profiles indicated stability."
+        }
+    ]
+}

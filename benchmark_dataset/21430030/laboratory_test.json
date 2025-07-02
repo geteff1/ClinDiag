@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D3",
+            "date": "Not specified",
+            "findings": "Low; initial level 12.9 ng/ml, increased to normal range (31–44 ng/ml) after 2 months of vitamin D supplementation.",
+            "changes_over_time": "Increased from 12.9 ng/ml to normal range over 2 months."
+        },
+        {
+            "procedure_name": "Bone-specific alkaline phosphatase (BSAP)",
+            "date": "Not specified",
+            "findings": "Slightly increased",
+            "changes_over_time": "Initially increased, then declined to mid-normal range after starting teriparatide."
+        },
+        {
+            "procedure_name": "Serum carboxyterminal cross-linking telopeptide of bone collagen (CTX)",
+            "date": "Not specified",
+            "findings": "Lower limits of normal",
+            "changes_over_time": "Increased to 6-fold above baseline after 1 year of teriparatide."
+        },
+        {
+            "procedure_name": "Serum osteocalcin (OC)",
+            "date": "Not specified",
+            "findings": "Initially low (1.1 ng/ml), increased slightly to 20 ng/ml after starting teriparatide.",
+            "changes_over_time": "Increased slightly after starting teriparatide."
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry (BMD)",
+            "date": "Not specified",
+            "findings": "Osteopenic vertebral bone mineral density; low vertebral BMD with T-score of -2.7 and hip T-score of -2.5.",
+            "changes_over_time": "1.9% increase in vertebral BMD after 1 year of teriparatide, but a 4.0% decrease in femoral neck BMD."
+        },
+        {
+            "procedure_name": "1,25-dihydroxyvitamin D3",
+            "date": "Not specified",
+            "findings": "Increased into the upper limits of normal with teriparatide therapy.",
+            "changes_over_time": "Increased as expected with teriparatide therapy."
+        }
+    ]
+}

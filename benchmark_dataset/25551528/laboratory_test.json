@@ -1,0 +1,98 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "9600 per cubic millimeter",
+                "granulocytes": "82%",
+                "lymphocytes": "9%",
+                "monocytes": "8%",
+                "eosinophils": "1%",
+                "hemoglobin": "14.4 g per deciliter",
+                "hematocrit": "41.7%",
+                "platelet_count": "448000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "thyrotropin": "10.5 mU per liter (reference range, 0.30 to 5.50)",
+                "free_thyroxine": "0.85 ng per deciliter (11 pmol per liter; reference range, 0.76 to 1.70 ng per deciliter [10 to 22 pmol per liter])"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 level",
+            "date": "Not specified",
+            "findings": {
+                "vitamin_B12": "817 pg per milliliter (reference range, 211 to 911 pg per milliliter [160 to 670 pmol per liter])"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": {
+                "ESR": "33 mm per hour (reference range, 0 to 20)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": {
+                "sural_nerve_sensor": "Absent",
+                "tibial_motor": "Absent",
+                "peroneal_motor": "Absent",
+                "median_nerve_motor": {
+                    "wrist": "9.3 mV",
+                    "elbow": "8.5 mV"
+                },
+                "ulnar_nerve_motor": {
+                    "wrist": "7.7 mV",
+                    "below_elbow": "6.7 mV"
+                },
+                "median_F_response": "44.3 msec",
+                "ulnar_F_response": "42.3 msec"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "M_protein_level": "0.3 g per deciliter",
+                "IgG_level": "1000 mg per deciliter (reference range, 620 to 1520)",
+                "IgA_level": "360 mg per deciliter (reference range, 40 to 350)",
+                "IgM_level": "87 mg per deciliter (reference range, 50 to 370)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "25 cm of water",
+                "glucose": "100 mg per deciliter",
+                "protein": "127 mg per deciliter (reference range, 15 to 45)",
+                "red_cells": "127 per cubic millimeter",
+                "white_cells": "2 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma VEGF level",
+            "date": "Not specified",
+            "findings": {
+                "VEGF": "2023 pg per milliliter (reference range, 31 to 86)"
+            },
+            "changes_over_time": {
+                "initial": "2023 pg per milliliter",
+                "two_months_after_transplant": "133 pg per milliliter"
+            }
+        }
+    ]
+}

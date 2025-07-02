@@ -1,0 +1,39 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": {
+                "pH": 7.2,
+                "bicarbonate": "8.8 mmol/L",
+                "partial pressure of carbon dioxide": "26 mm Hg",
+                "anion gap": "15.4 mmol/L",
+                "lactate": "6.9 mmol/L",
+                "creatinine": "1.8 mg/dL"
+            },
+            "changes_over_time": {
+                "four_days_later": {
+                    "pH": 6.9,
+                    "bicarbonate": "6.2 mmol/L",
+                    "anion_gap": "17.8 mmol/L",
+                    "lactate": "4.5 mmol/L",
+                    "creatinine": "1.7 mg/dL"
+                }
+            }
+        },
+        {
+            "procedure_name": "Serum osmolality measurement",
+            "date": "Not specified",
+            "findings": {
+                "serum_osmolality": "462 mOsm/L",
+                "osmolal_gap": "165 mOsm/L"
+            },
+            "changes_over_time": {
+                "after_hemodialysis": {
+                    "serum_osmolality": "Not specified",
+                    "osmolal_gap": "40 mOsm/L"
+                }
+            }
+        }
+    ]
+}

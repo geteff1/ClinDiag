@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Substantial mass located in the bladder and two small stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Lobulated tumor located in the bladder’s posterior wall with a size of approximately 3.5 × 2.4 × 2.1 cm; significant enhancement of the tumor was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative pathological examination",
+            "date": "Not specified",
+            "findings": "Tumor cells were epithelioid, spindle-shaped, with vacuoles in the nucleus; features included visible nucleolus, transparent nuclear membrane, karyolysis, focal necrosis, rich blood vessels, and interstitial inflammatory cell infiltration. Immunohistochemical results: positive for S100 (++), CD27 (++), CD1a (++), Ki67 (35%), CD68 (++), and CD163 (++); negative for several other markers.",
+            "changes_over_time": "No tumor invasion of muscular bladder tissue detected."
+        }
+    ]
+}

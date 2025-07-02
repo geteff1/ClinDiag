@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "151/87 mm Hg",
+                "blood_glucose": "56 mg/dL",
+                "oxygen_saturation": "Normal",
+                "other_vital_signs": "Normal"
+            },
+            "relevant_findings": {
+                "hearing": "Decreased, with hearing aide noted in right ear",
+                "masses": {
+                    "right_groin": "6 cm",
+                    "right_medial_thigh": "5 cm"
+                },
+                "erythema_swelling": "Mild erythema and swelling of the right thigh",
+                "scar": "Well-healed scar on right calf",
+                "adenopathy": "No palpable cervical, supraclavicular, submental, occipital, or axillary adenopathy",
+                "lab_findings": "Complete blood count, prothrombin time, renal and liver function tests normal; electrolytes, total protein, albumin, and globulin normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

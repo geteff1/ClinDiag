@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "18.7%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "17,000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "631,000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "1.3 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "1.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial Thromboplastin Time (PTT)",
+            "date": "Not specified",
+            "findings": "34.9 seconds",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

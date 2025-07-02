@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary Protein Test",
+            "date": "Not specified",
+            "findings": "Heavy proteinuria (urinary protein 7,552 mg/dL, 6.62 g/day)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Albumin Test",
+            "date": "Not specified",
+            "findings": "Hypoproteinemia (albumin 0.2 g/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Initial Test Results",
+            "findings": "Leukocytosis (41,600/µL), elevated C-reactive protein (CRP) level (13.03 mg/dL)",
+            "changes_over_time": "White blood cell count improved after treatment"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase Test",
+            "date": "Around Day 7",
+            "findings": "LDH peaked at 535 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "Around Day 7",
+            "findings": "Creatinine increased to 0.55 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "10th Day",
+            "findings": "Thrombocytopenia (platelets 30,000/µL), anemia (hemoglobin 8.4 g/dL) with schistocytes, decreased haptoglobin (4.0 mg/dL), hypocomplementemia (C3 19 mg/dL, C4 7 mg/dL, CH50 < 14.0/mL)",
+            "changes_over_time": "Platelet counts began to decrease on Day 8"
+        },
+        {
+            "procedure_name": "Coagulation Tests",
+            "date": "10th Day",
+            "findings": "Prothrombin time (PT)-ratio was 1.60, antithrombin (AT) III was 17%, fibrinogen was less than 35 mg/dL, fibrinogen/fibrin degradation products (FDP) was 44.1 µg/mL, elevated D-dimer was 42.8 µg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Examination",
+            "date": "Not specified",
+            "findings": "No pleocytosis and CSF culture was negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Detected Streptococcus pneumoniae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Bilateral symmetric areas of increased intensity in the basal ganglia on T2 and diffusion-weighted imaging",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

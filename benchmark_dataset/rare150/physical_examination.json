@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure": {
+                    "right_eye": "14 mmHg",
+                    "left_eye": "15 mmHg"
+                },
+                "not_specified": "Not specified"
+            },
+            "relevant_findings": {
+                "external_examination": "mild telecanthus",
+                "anterior_segment_examination": "normal in both eyes",
+                "optic_nerves": "normal without evidence of optic nerve hypoplasia"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

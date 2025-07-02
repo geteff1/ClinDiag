@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "3.2 mg/dl (283 μmol/L) on the day before admission, elevated from baseline 1.4 mg/dl (124 μmol/L).",
+            "changes_over_time": "Creatinine decreased to 2.9 mg/dl (256 μmol/L) on admission and then slightly increased to 3.0 mg/dl (265 μmol/L) on the third hospital day."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "34.4% on day before admission, 29.5% upon admission, and 29.3% on the third hospital day.",
+            "changes_over_time": "Decreased progressively from 34.4% to 29.3%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.7 g/dL on the day before admission, 9.4 g/dL on admission, and 9.0 g/dL on the third hospital day.",
+            "changes_over_time": "Decreased progressively from 10.7 g/dL to 9.0 g/dL."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "8,900 per mm³ on day before admission, 10,100 per mm³ on admission, and 10,800 per mm³ on the third hospital day.",
+            "changes_over_time": "Increased from 8,900 to 10,800 per mm³ over the course of three days."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.8 mmol/L on the day before admission, 5.0 mmol/L on admission, and 4.6 mmol/L on the third hospital day (normal range 3.4–4.8 mmol/L).",
+            "changes_over_time": "Decreased from 5.8 mmol/L to 4.6 mmol/L."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "679 mg/dL on the day before admission, 171 mg/dL on admission, and 65 mg/dL on the third hospital day.",
+            "changes_over_time": "Decreased dramatically from 679 mg/dL to 65 mg/dL."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "36.6 ng/mL, indicating a positive result (reference <0.1 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "2.4 mmol/L on the day before admission, normalizing to 0.5 mmol/L upon admission.",
+            "changes_over_time": "Decreased from 2.4 mmol/L to 0.5 mmol/L."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Glucose level was 119 mg/dL and protein level was 87 mg/dL (reference ranges: glucose 50–75 mg/dL, protein 5–55 mg/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

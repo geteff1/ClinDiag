@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiographs",
+            "date": "16 February 2006",
+            "findings": "cardiomegaly, a left upper-lobe opacity, and a small right lower-lobe opacity. Bilateral pleural effusions were noted with evidence of loculation on the left.",
+            "changes_over_time": "Less-prominent infiltrates were observed in chest radiographs from 25 February to 1 March, and a post-discharge chest radiograph revealed minimal residual bilateral pulmonary opacities in the right upper lobe."
+        },
+        {
+            "procedure_name": "CT scan (with contrast)",
+            "date": "17 February 2006",
+            "findings": "large amount of mediastinal fluid accumulation extending from the great vessels to the heart, loculated left pleural effusion, and simple right pleural effusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest CT",
+            "date": "24 February 2006",
+            "findings": "bilateral pulmonary opacities with prominent ground glass appearance consistent with acute respiratory distress syndrome.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

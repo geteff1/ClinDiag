@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/105 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "sexual_hair": "Absent",
+                "genitalia": "Infantile",
+                "abdominal_ct": {
+                    "uterus": "Small (29 mm x 13 mm)",
+                    "ovaries": "Enlarged with multiple cysts (largest: 4 cm)",
+                    "adrenal": "Bilateral hyperplasia"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "155/110 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "sexual_hair": "Absent",
+                "breast_development": "Absent",
+                "abdominal_ct": {
+                    "adrenal": "Bilateral hyperplasia",
+                    "muellerian_structures": "Absent"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

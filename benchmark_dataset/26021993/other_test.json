@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm without peaked T waves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EBOV RT-PCR",
+            "date": "Illness day 6",
+            "findings": "Positive (Ct value 34).",
+            "changes_over_time": "Subsequent EBOV RT-PCR tests on blood were negative on illness days 13 and 15."
+        }
+    ]
+}

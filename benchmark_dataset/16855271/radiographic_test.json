@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Mild, diffuse nonspecific white-matter changes and a small lacune in the right caudate",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Abdominal aortic aneurysm, 4.7 by 4.6 cm, without evidence of bleeding",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Old lacunar infarct in the right caudate head and a possible old infarct in the right cerebellum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiogram of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Aneurysm of the infrarenal aorta, extending into the right common iliac artery",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "Not specified",
+            "findings": "Multilevel degenerative disease of the cervical spine, with mild canal stenosis and moderate narrowing of the right neural foramen; multilevel degenerative disk disease and osteoarthritis in the lumbar spine",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

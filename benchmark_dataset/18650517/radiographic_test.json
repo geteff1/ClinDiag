@@ -1,0 +1,64 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph of the abdomen",
+            "date": "Not specified",
+            "findings": "No bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the spine",
+            "date": "5 days before admission",
+            "findings": "Pathologic T9 vertebral fracture with soft-tissue extension beyond the vertebral body, chronic anterior wedge-compression fracture of the L1 vertebra, degenerative changes in the L5–S1 intervertebral joint, and a large pleural effusion on the left side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Large pleural effusion on the left side and elevation of the left hemidiaphragm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Suprahilar mass, 4.0 cm by 3.5 cm, with extension into the left hilum and mediastinum; increased interstitial markings in the upper lobe of the left lung; a large pleural effusion on the left side; and a destructive lesion in the T9 vertebra.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the thorax",
+            "date": "Not specified",
+            "findings": "Loculation of the pleural effusion on the left side, irregular left pleural thickening, a new, tiny pleural effusion on the right side, and multiple fracture lines in T9 with a nearly circumferential soft-tissue mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Technetium-99m–labeled methylene diphosphonate bone scan",
+            "date": "3 days after admission",
+            "findings": "Diffusely increased uptake in T9 and normal uptake throughout the remainder of the osseous skeleton.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "5 months after diagnosis",
+            "findings": "Marked decrease in size of mass in the left lung to 2 cm in diameter, with resultant re-aeration of the left upper lobe, reduced mediastinal involvement, and near resolution of pleural fluid.",
+            "changes_over_time": "Progressive disease with new, predominantly pleural and subpleural nodules at 8 months of gefitinib therapy."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "10 months after diagnosis",
+            "findings": "Primary lesion in the left upper lobe and mediastinal involvement remained suppressed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI scan of the brain",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18Fluorodeoxyglucose positron-emission tomography",
+            "date": "4 days after admission",
+            "findings": "18fluorodeoxyglucose avidity of the left lung mass, left pleural surface, subcarinal space, and T9 vertebral body.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

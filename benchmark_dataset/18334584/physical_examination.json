@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "104 bpm",
+                "weight": "25 kg",
+                "height": "142 cm",
+                "body_mass_index": "12.4 kg/m²",
+                "testicular_size": "4 ml",
+                "pubic_hair_stage": "Tanner stage P1"
+            },
+            "relevant_findings": {
+                "hypotonia": "Severe hypotonia with no possibility of sitting or standing",
+                "strabismus": "Divergent strabismus",
+                "cleft_palate": "Present",
+                "tachycardia": "Permanent tachycardia (104 beats/min)",
+                "elevated_FT3": "Elevated FT3 level (11.3 pmol/liter)",
+                "high_SHBG": "High SHBG level (261 nmol/liter)"
+            },
+            "changes_over_time": "Tachycardia abated to 84 bpm after treatment; weight gained 3 kg in one year."
+        },
+        {
+            "date": "After 12-24 weeks of PTU treatment",
+            "vital_signs": {
+                "heart_rate": "84 bpm",
+                "weight": "Not specified",
+                "height": "Not specified",
+                "body_mass_index": "Not specified"
+            },
+            "relevant_findings": {
+                "FT3": "Reduced to 3.1 pmol/L after PTU treatment",
+                "SHBG": "Reduced to 72 nmol/L after PTU treatment",
+                "TSH": "High levels (up to 50.1 mU/L) during PTU treatment",
+                "FT4": "Undetectable levels during PTU treatment"
+            },
+            "changes_over_time": "FT3 levels normalized but remained slightly high (6.6 pmol/l) after additional LT4 treatment; weight gain improved from 200 g/yr to 3 kg/yr."
+        }
+    ]
+}

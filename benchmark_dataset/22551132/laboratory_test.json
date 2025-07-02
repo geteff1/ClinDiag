@@ -1,0 +1,39 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pulmonary-function testing",
+            "date": "Not specified",
+            "findings": {
+                "forced_vital_capacity": {
+                    "value": "3.62 liters",
+                    "percentage": "91% of the predicted value"
+                },
+                "forced_expiratory_volume_1_sec": {
+                    "value": "2.67 liters",
+                    "percentage": "83% of the predicted value"
+                },
+                "FEV1_FVC_ratio": "0.73",
+                "total_lung_capacity": {
+                    "value": "6.03 liters",
+                    "percentage": "102% of the predicted value"
+                },
+                "residual_volume": {
+                    "value": "2.41 liters",
+                    "percentage": "122% of the predicted value"
+                },
+                "flow_volume_loop": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fiberoptic bronchoscopy",
+            "date": "Not specified",
+            "findings": {
+                "vocal_cord_movement": "Normal",
+                "trachea": "Narrowed dramatically during exhalation, particularly when coughing",
+                "expiratory_narrowing": "Present in both main-stem bronchi"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

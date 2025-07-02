@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Skin prick test",
+            "date": "Not specified",
+            "findings": "Positive for grass and arizonic pollens, Dermatophagoides pteronyssinus and D. farinae, dog, and cat dander, meats, whole milk and fractions, bovine serum albumin, with specific IgE to various proteins such as veal (23.1 kU/L), pork (<0.35 kU/L), and dog dander (>100 kU/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CAP System - Pharmaciatechnique (Total IgE and IgE antibodies)",
+            "date": "Not specified",
+            "findings": "Total IgE Patient 1: 234 kU/L, Patient 2: 534 kU/L. Specific IgE to whole milk, lactoalbumin, lactoglobulin, casein, veal, bovine, lamb, pork, rabbit, dog dander and cat dander were noted with varying concentrations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium-dodecylsulfate-polyacrylamide gel electrophoresis (SDS-PAGE)",
+            "date": "Not specified",
+            "findings": "Patient 1 showed a large number of IgE-binding protein bands between 25 and 95 kDa for veal and bovine meat extracts, and one protein band of approximately 65 kDa for lamb. Patient 2 produced an intense protein band of around 60 kDa against cat dander.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin prick testing (SPT) and oral challenge tests",
+            "date": "Not specified",
+            "findings": "Negative for commonly tested allergens, with notable lease IgE response observed in repeated oral challenges with caffeine: severe pruritus occurred after a challenge with 150 mg caffeine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total serum IgE and tryptase level measurement",
+            "date": "Not specified",
+            "findings": "Total serum IgE was 34 kU/L; tryptase level was 12.2 µg/L after the reaction (normal values <10 µg/L). Serum complement levels showed C3: 42 mg/dL (normal 83–177 mg/dL) and C4: 7 mg/dL (normal 15–45 mg/dL).",
+            "changes_over_time": "Before operation, C3 was 167 mg/dL and C4 was 26 mg/dL."
+        },
+        {
+            "procedure_name": "Skin prick tests and patch testing",
+            "date": "Not specified",
+            "findings": "Patch testing with 20% nebivolol in vaseline and saline resulted in positive reactions after 72 and 96 hours. All patch tests with timolol, labetalol, carvedilol, metoprolol were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin prick tests for snail reactivity",
+            "date": "Not specified",
+            "findings": "No significant positivity to H. pomatia or H. aperta in a group of children on SIT for Derp.",
+            "changes_over_time": "It was noted that children not undergoing SIT were more sensitized."
+        },
+        {
+            "procedure_name": "RAST for Galleria mellonella",
+            "date": "Not specified",
+            "findings": "RAST for Galleria mellonella resulted positive with 15.3 RAST units (class 3).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

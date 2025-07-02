@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "118/84 mm Hg",
+                "heart_rate": "72/min",
+                "weight": "197 lb (88.7 kg)",
+                "height": "70 in (178 cm)",
+                "waistline": "33 in (84 cm)"
+            },
+            "relevant_findings": {
+                "facial_wasting": "Bilateral facial wasting",
+                "fat_deposition": "Increased fat deposition on the back of the neck and in the chest and abdominal regions",
+                "normal_findings": "The remainder of the examination results were normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

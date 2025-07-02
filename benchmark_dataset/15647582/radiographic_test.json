@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan and MRI of the brain",
+            "date": "Not specified",
+            "findings": "Two enhancing brain masses, one expanding and infiltrating the splenium of the corpus callosum and spreading into the parietal white matter bilaterally; a smaller mass in the right temporal and parietal lobes connecting with the main mass.",
+            "changes_over_time": "Initially isodense on CT; after contrast, intensely and uniformly enhanced with linear structures indicating spread through the Virchow–Robin spaces; significant reduction in size, enhancement, and mass effect observed after treatment with high-dose methotrexate, with complete radiographic response six months later."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Two weeks after treatment initiation",
+            "findings": "Marked decrease in size, enhancement, and mass effect of the splenial mass; adjacent edema and mass effect diminished.",
+            "changes_over_time": "Complete radiographic response after six months where earlier abnormal signals completely resolved."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Four and a half years after initial presentation",
+            "findings": "New mass in the splenium of the corpus callosum that is mildly hyperintense and enhances after contrast administration.",
+            "changes_over_time": "Recurrence of primary CNS lymphoma identified."
+        }
+    ]
+}

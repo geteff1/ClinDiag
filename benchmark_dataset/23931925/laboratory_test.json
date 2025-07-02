@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "Normal white cell count of 7.4×10⁹/L (normal range 4–11×10⁹/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "Raised CRP concentration of 1086 nmol/L (normal range 0–38 nmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "Raised at 29 μkat/L (serum range 4–8 μkat/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural Fluid Protein Concentration",
+            "date": "Not specified",
+            "findings": "Protein concentration suggested an exudate at 50 g/L (exudates >29 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglyceride Measurement",
+            "date": "Not specified",
+            "findings": "Substantially raised at 12.71 mmol/L (<1.24 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

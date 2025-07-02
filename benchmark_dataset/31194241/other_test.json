@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Blood pressure was normal, no symptoms reported.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head and neck",
+            "date": "Not specified",
+            "findings": "Normal results at initial diagnosis.",
+            "changes_over_time": "Follow-up MRI scans did not reveal residual disease until 8 years after surgery."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "7 years after first diagnosis",
+            "findings": "Incidental adrenal tumor with a maximum diameter of 14 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-FDG PET/CT imaging",
+            "date": "4 months postoperatively",
+            "findings": "Metabolically active enlarged mediastinal and infrahilar lymph nodes, suspected for metastatic disease.",
+            "changes_over_time": "Thoracic lesions remained stable for 3 years."
+        },
+        {
+            "procedure_name": "68Ga-DOTA0-Tyr3-octreotate scan",
+            "date": "Not specified",
+            "findings": "Showed multiple bone metastases in the ribs, spine, and pelvis, confirmed by biopsy.",
+            "changes_over_time": "No increase detected in serum catecholamine metabolites."
+        },
+        {
+            "procedure_name": "Follow-up MRI",
+            "date": "2 years after recurrence",
+            "findings": "Slight growth of both HNPGLs.",
+            "changes_over_time": "Stable disease observed in subsequent imaging."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Confirmed the diagnosis of metastatic PGL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

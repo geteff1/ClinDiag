@@ -1,0 +1,57 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hormonal Evaluation",
+            "date": "Not specified",
+            "findings": {
+                "testosterone": "3.1 nmol/L (reference range 10–35)",
+                "estradiol": "<73 pmol/L (normal <180)",
+                "luteinizing hormone (LH)": "3.5 IU/L (3.3 to 25)",
+                "FSH": "2.4 IU/L (1.6 to 16.8)",
+                "inhibin B": "352 pg/mL (150 to 400)"
+            },
+            "changes_over_time": "After hCG therapy, testosterone levels increased to 13 nmol/L after 2 months, with a sperm count of 89 million/mL."
+        },
+        {
+            "procedure_name": "Neuroendocrine Assessment",
+            "date": "Six weeks after discontinuing hCG",
+            "findings": {
+                "LH": "Increased to 7.1 IU/L",
+                "FSH": "3.9 IU/L",
+                "Testosterone": "12.5 nmol/L",
+                "Sperm count": "91.4 million/mL"
+            },
+            "changes_over_time": "Pulsatile LH secretion normalized with 5 pulses/12 h, and testosterone levels remained increased compared to baseline."
+        },
+        {
+            "procedure_name": "Repeat Neuroendocrine Assessment",
+            "date": "Six months after discontinuing hCG",
+            "findings": {
+                "LH": "6.1 IU/L",
+                "FSH": "3.9 IU/L",
+                "Testosterone": "7 nmol/L",
+                "Sperm count": "42 million/mL"
+            },
+            "changes_over_time": "Testosterone levels decreased but remained in the lower range of normal; sperm count was lower compared to the assessment six weeks post-therapy."
+        },
+        {
+            "procedure_name": "Standard GnRH Test",
+            "date": "Not specified",
+            "findings": {
+                "LH response": "Increased from 6.2 to 14.5 IU/L",
+                "FSH response": "Increased from 3.4 to 4.6 IU/L"
+            },
+            "changes_over_time": "Responses post-hCG therapy indicated improved gonadotropin levels."
+        },
+        {
+            "procedure_name": "Physiologic GnRH Administration",
+            "date": "Not specified",
+            "findings": {
+                "LH": "Pulsatile secretion with mean amplitude of 3.8 IU/L",
+                "Testosterone": "Ranged from 11 to 15 nmol/L during the study",
+                "FSH response": "Flat during the 7 days of treatment"
+            },
+            "changes_over_time": "Indicated continued LH responsiveness despite the variation in FSH."
+        }
+    ]
+}

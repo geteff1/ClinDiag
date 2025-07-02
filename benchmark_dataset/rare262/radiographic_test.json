@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Inhomogeneous opacity in the left hemithorax and right lower zone.",
+            "changes_over_time": "Increased size of cavitary lesions and right-sided pleural collection noted on repeat X-rays."
+        },
+        {
+            "procedure_name": "CT thorax",
+            "date": "Day 10",
+            "findings": "Multiple thin-wall cavitary lesions suggestive of pneumatoceles.",
+            "changes_over_time": "CT thorax after death revealed loculated right hydropneumothorax with no evidence of an air-fluid level in the cavitary lesion."
+        },
+        {
+            "procedure_name": "repeat chest X-ray",
+            "date": "Not specified",
+            "findings": "Cavitary lesions and right-sided pleural collection had increased in size.",
+            "changes_over_time": "Post-thoracentesis X-ray revealed right hydropneumothorax which increased remarkably over the next 4 days without mediastinal shift."
+        }
+    ]
+}

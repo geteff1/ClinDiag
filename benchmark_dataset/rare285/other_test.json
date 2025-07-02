@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hearing screening",
+            "date": "3 months",
+            "findings": "Hearing screening otoacoustic emissions failed in both ears.",
+            "changes_over_time": "Confirmed the presence of hearing impairment."
+        },
+        {
+            "procedure_name": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+            "date": "23rd day after birth",
+            "findings": "RV nucleic acid was detected in throat swabs, urine, and tears.",
+            "changes_over_time": "Results were all negative."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyrotropin test",
+            "date": "Not specified",
+            "findings": "Thyrotropin level was highly elevated at 144.10 μU per milliliter.",
+            "changes_over_time": "Initially, the patient had profound hypothyroidism due to not taking his prescribed thyroid hormone–replacement therapy. After reinitiating treatment, his thyrotropin level returned to normal after 4 months."
+        },
+        {
+            "procedure_name": "Creatine kinase level test",
+            "date": "Not specified",
+            "findings": "Persistently elevated creatine kinase levels, as well as aspartate aminotransferase (AST) and alanine aminotransferase (ALT).",
+            "changes_over_time": "After stopping atorvastatin and reinitiating thyroid hormone therapy, the creatine kinase level remained elevated, indicating ongoing muscle inflammation."
+        },
+        {
+            "procedure_name": "Follow-up appointment for repeat blood tests",
+            "date": "9 days after presentation",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up testing",
+            "date": "1 week after initial follow-up testing",
+            "findings": "Creatine kinase level remained elevated, indicating possible myopathy.",
+            "changes_over_time": "After treatment compliance was ensured, there was marked improvement in fatigue and dyspnea within 1 month."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Continuous video EEG monitoring",
+            "date": "Not specified",
+            "findings": "No epileptiform activity was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Family Assessment and Treatment",
+            "date": "Not specified",
+            "findings": {
+                "session_1": {
+                    "problem_solving": "Adequate, MCRS score 3",
+                    "roles": "Overwhelmed mother, MCRS score 3",
+                    "communication": "Clear but limited, MCRS score 3",
+                    "affective_responsiveness": "Distressed, MCRS score 2",
+                    "affective_involvement": "Empathic, MCRS score 4",
+                    "behavior_control_rules": "Struggles in enforcement, MCRS score 3",
+                    "dysfunctional_transactional_pattern": "Cycle of emotional avoidance, MCRS score 3"
+                },
+                "overall": "MCRS score 3 indicating unhealthy family functioning."
+            },
+            "changes_over_time": {
+                "session_6": "Communication improved and they agreed on their goals. MCRS score reflects a healthier dynamic post-therapy."
+            }
+        }
+    ]
+}

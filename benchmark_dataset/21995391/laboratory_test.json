@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "38.4% (low; reference range: 41.0 to 53.0)",
+                "hemoglobin": "13.4 g/dL (low; reference range: 13.5 to 17.5)",
+                "white_cell_count": "Normal",
+                "platelet_count": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes, Glucose, Protein, Albumin, Globulin, and Bilirubin tests",
+            "date": "Not specified",
+            "findings": "All results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided Fine-Needle Aspiration",
+            "date": "Not specified",
+            "findings": "Cytologic examination revealed poorly differentiated adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Epidermal Growth Factor Receptor (EGFR) Sequencing",
+            "date": "Not specified",
+            "findings": "Frameshift deletion in exon 19.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Nine months after right lower lobectomy",
+            "findings": "New nodule 1.3 cm in the middle lobe of the right lung and multiple bilateral lung nodules (consistent with recurrent NSCLC).",
+            "changes_over_time": "Disease in the lung was stable after chemotherapy, but new metastatic disease developed nine months later."
+        },
+        {
+            "procedure_name": "Repeat CT and Genetic Testing",
+            "date": "Not specified",
+            "findings": {
+                "EGFR_mutation": "E746_A750del and T790M mutation (conferring resistance to available tyrosine kinase inhibitors).",
+                "tumor_suppressor_gene": "TP53 mutation."
+            },
+            "changes_over_time": "Resistance mutation T790M developed at the time of acquired drug resistance."
+        }
+    ]
+}

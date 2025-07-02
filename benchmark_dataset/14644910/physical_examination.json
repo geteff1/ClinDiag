@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "183/94 mm Hg",
+                "pulse": "102 bpm",
+                "oxygen_saturation": "80%"
+            },
+            "relevant_findings": {
+                "lung_fields": "occasional crackles",
+                "neck_veins": "not distended",
+                "lower_extremity_edema": "absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "EEG": "generalized spike, polyspike, and slow waves consistent with atypical absence status",
+                "clock_face_drawing": "unable initially, successful after treatment"
+            },
+            "changes_over_time": "Mental status improved rapidly after treatment with intravenous lorazepam."
+        }
+    ]
+}

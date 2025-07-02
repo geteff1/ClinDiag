@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Lymphadenopathy in mediastinum, bilateral neck, axillary area, enterocoelia, retroperitoneal and pelvic cavity, splenomegaly, and partial thickening in the small intestine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT enterography",
+            "date": "Not specified",
+            "findings": "Thickening in the small intestinal wall, together with multiple lymphadenopathies in the abdominal cavity and retroperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Three polyps with sizes of 0.8 cm, 0.7 cm, and 0.4 cm, respectively, diagnosed as tubular adenoma with low-grade dysplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

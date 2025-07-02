@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC of 23.9 with 46% bands",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Platelet count of 126",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International normalized ratio (INR)",
+            "date": "Not specified",
+            "findings": "INR of 1.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "Not specified",
+            "findings": "Lactic acid of 10.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine of 1.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin of 12.7",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

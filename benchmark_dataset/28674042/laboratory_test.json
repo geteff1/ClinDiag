@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Magnesium",
+            "date": "Not specified",
+            "findings": "Normal range (0.98 mmol/L) reported once. It increased to 1.22 mmol/L at several occasions during re-evaluation.",
+            "changes_over_time": "Persistently normal to even increased levels noted; specific increases during re-evaluation not detailed."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Upper normal to high range noted, specifically ranging from 2.54 to 2.59 mmol/L.",
+            "changes_over_time": "Persistent hypocalciuria and high serum calcium levels noted at re-evaluation."
+        },
+        {
+            "procedure_name": "Urinary Electrolytes",
+            "date": "Not specified",
+            "findings": "Hypocalciuria indicated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Concentration Tests (DDAVP Response Testing)",
+            "date": "Not specified",
+            "findings": "Blunted urine concentrating response to thirsting and DDAVP administration.",
+            "changes_over_time": "Response on two separate occasions showed a similar blunted reaction."
+        },
+        {
+            "procedure_name": "Thiazide Responsiveness Test",
+            "date": "Not specified",
+            "findings": "Exaggerated response observed.",
+            "changes_over_time": "Response consistent with diagnosis not changing over time."
+        },
+        {
+            "procedure_name": "Furosemide Responsiveness Test",
+            "date": "Not specified",
+            "findings": "Exaggerated response noted.",
+            "changes_over_time": "Response remained exaggerated during testing."
+        },
+        {
+            "procedure_name": "Whole-Exome Sequencing",
+            "date": "Not specified",
+            "findings": "Compound heterozygous CLDN10 sequence variants found.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

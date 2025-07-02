@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "182 cm",
+                "weight": "55 kg",
+                "body_mass_index": "Not specified"
+            },
+            "relevant_findings": {
+                "breast_development": "Tanner stage 2",
+                "estradiol": "11.8 pg/mL",
+                "LH": "4.5 IU/L",
+                "FSH": "6.6 IU/L",
+                "prolactin": "Normal",
+                "AMH": "1.18 ng/mL",
+                "inhibin_B": "<10 pg/mL",
+                "thyroid_function": "Normal",
+                "pelvic_sonography": {
+                    "uterus": "45 x 33 x 20 mm (small)",
+                    "right_ovary": "20 x 11 mm with follicles",
+                    "left_ovary": "atrophic without follicles"
+                },
+                "karyotype": "46 XX"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "LH_levels": {
+                    "baseline": "9 IU/L",
+                    "surge": {
+                        "mean": "29.00 ± 6.31 IU/L",
+                        "range": "22.90 to 35.30 IU/L"
+                    }
+                }
+            },
+            "relevant_findings": {
+                "endometrial_thickness": "< 3 mm during treatment",
+                "endometrial_response": "Poor to estradiol and progesterone"
+            },
+            "changes_over_time": "Endometrial thickness reached 5.4 mm after additional treatment, leading to LH surge and ovulation"
+        }
+    ]
+}

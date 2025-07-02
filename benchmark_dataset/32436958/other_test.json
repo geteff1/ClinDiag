@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Methylation analysis of exon A/B DMR",
+            "date": "Not specified",
+            "findings": "Patient 1: normal methylation at 57%; Patient 2: reduced methylation at 34%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole genome sequencing",
+            "date": "Not specified",
+            "findings": "Identified a 6.4-Kb deletion in Patient 1 and a 1,438-bp deletion in Patient 2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyrosequencing",
+            "date": "Not specified",
+            "findings": "Patient 2 showed a reduced average methylation level (32%) at CpGs within exon A/B of GNAS compared to normal subjects.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

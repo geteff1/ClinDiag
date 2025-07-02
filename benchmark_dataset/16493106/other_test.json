@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone density test",
+            "date": "Not specified",
+            "findings": "T score of -3.2 at the femoral neck",
+            "changes_over_time": "Evaluation looking for secondary causes of osteoporosis was negative, indicating stability in osteoporosis diagnosis."
+        }
+    ]
+}

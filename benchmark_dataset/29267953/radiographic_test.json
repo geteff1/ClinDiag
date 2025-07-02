@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal cardiac function with mild mitral and aortic regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatosplenomegaly with severe hepatic steatosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 13 years",
+            "findings": "Possible noncompaction cardiomyopathy without valvular abnormalities.",
+            "changes_over_time": "Improved hemoglobin A1c from 10.4% to 5.7% after 1 year of metreleptin therapy."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 6 years",
+            "findings": "Revealed pulmonary hypertension with pulmonary artery pressure of 36 mm Hg.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal imaging study",
+            "date": "Not specified",
+            "findings": "Revealed nephromegaly and bilateral kidney cysts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 33 years",
+            "findings": "Left ventricular ejection fraction declined to 15%.",
+            "changes_over_time": "Received cardiac transplantation at age 33."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Four days before admission",
+            "vital_signs": {
+                "blood_pressure": "112/70 mm Hg",
+                "pulse": "70 bpm"
+            },
+            "relevant_findings": "Anorexia, constipation, depressed mood, hair loss.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "On admission",
+            "vital_signs": {
+                "blood_pressure": "93/45 mm Hg",
+                "pulse": "43 bpm",
+                "temperature": "36.0°C",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Somnolent but arousable, trace erythema over inferior sternal incision, healing laceration over right parietal scalp, minimal crackles in lung fields, diffuse muscle wasting.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Five weeks before admission",
+            "vital_signs": {
+                "pulse": "64 bpm"
+            },
+            "relevant_findings": "Electrocardiogram showed sinus rhythm decreased to 44 bpm at admission, new nonspecific T-wave abnormalities appeared compared to previous study.",
+            "changes_over_time": "Pulse decreased from 64 bpm to 43 bpm; new T-wave abnormalities appeared."
+        },
+        {
+            "date": "Five months before admission",
+            "vital_signs": {
+                "resistive_indexes": "0.74 to 0.83"
+            },
+            "relevant_findings": "Ultrasonography of transplanted kidney showed resistive indexes of arcuate arteries increased to 0.84 to 1.00 at admission.",
+            "changes_over_time": "Resistive indexes increased from 0.74-0.83 to 0.84-1.00, indicating possible transplant rejection."
+        }
+    ]
+}

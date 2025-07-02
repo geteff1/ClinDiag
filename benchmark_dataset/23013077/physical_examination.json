@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient was in mild distress. Oxygen saturation was normal. There were mild crackles in the lung bases. Facial atrophy was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "ECG showed sinus rhythm at a rate of 60 beats per minute initially, then 54 beats per minute after recurrence of pain.",
+            "relevant_findings": "Initial ECG showed premature atrial complexes and nonspecific ST-segment and T-wave changes. Repeated ECG showed ST-segment elevation in leads II, III, aVF, V5, and V6 and ST-segment depression in leads I, aVR, aVL, V1, V2, and V3.",
+            "changes_over_time": "ECG changes progressed from nonspecific changes to ST-segment elevation and depression."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Initial levels of troponin I and CK-MB were negative for myocardial injury. On the second hospital day, CK level was 140 IU per liter, and CK-MB was positive.",
+            "changes_over_time": "Initially negative cardiac markers became positive on the second hospital day."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Pancytopenia observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "Unconjugated hyperbilirubinemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reticulocyte Count",
+            "date": "Not specified",
+            "findings": "Decreased reticulocyte count.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct Coombs Test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral Blood Smear",
+            "date": "Not specified",
+            "findings": "Suggested a hemolytic picture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Osmotic Fragility Test",
+            "date": "Not specified",
+            "findings": "Showed decreased fragility.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Aspiration and Biopsy",
+            "date": "Not specified",
+            "findings": "Grade 4 iron stores on Perl's stain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the Abdomen",
+            "date": "Not specified",
+            "findings": "Multiple hypointense lesions in the spleen, likely splenic infarcts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Electrophoresis",
+            "date": "Not specified",
+            "findings": "79% HbA2 + E.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Capillary Electrophoresis",
+            "date": "Not specified",
+            "findings": "Revealed a band at the HbE zone.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

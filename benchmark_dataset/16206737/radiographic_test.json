@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Cerebral edema associated with abnormal deep white matter signal changes that extended through the cerebral peduncles, more so on the left side, with pontine and cerebellar involvement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gadolinium-enhanced MR imaging",
+            "date": "Not specified",
+            "findings": "A large enhancing lesion in the left cerebellar peduncle, vermis, and medulla oblongata. Effacement of the fourth ventricle and obstructive hydrocephalus without evidence of supratentorial enhancement.",
+            "changes_over_time": "Progression from initial images showing no abnormal enhancement to later images demonstrating a bulky enhancing mass."
+        },
+        {
+            "procedure_name": "Computerized tomography scans",
+            "date": "Not specified",
+            "findings": "Cerebellar patchy enhancement and abnormally enhancing foci bilaterally in the frontal and parietal subcortical white matter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Single-voxel MR spectroscopy",
+            "date": "Not specified",
+            "findings": "Nonspecific findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

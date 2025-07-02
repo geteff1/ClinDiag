@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the brain and temporal bones",
+            "date": "Not specified",
+            "findings": "Fluid in the right middle ear and mastoid air cells, hemorrhage within the right external auditory canal, no associated bony destruction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Opacification of the right mastoid air cells and middle ear, no abnormality evident in the brain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat MRI of the brain with gadolinium",
+            "date": "Second day of hospitalization",
+            "findings": "Unchanged opacification in the right mastoid air cells and middle ear, no extraaxial fluid collection or acute infarction.",
+            "changes_over_time": "No changes noted in measurements or findings."
+        },
+        {
+            "procedure_name": "CT scan of the skull base after contrast",
+            "date": "Not specified",
+            "findings": "Opacification of the right middle ear and mastoid air cells, no destruction of bony mastoid septa.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

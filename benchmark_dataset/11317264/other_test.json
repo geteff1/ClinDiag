@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Extensive piecemeal necrosis consistent with chronic hepatitis, confirming the diagnosis of cirrhosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture of Brain Abscess",
+            "date": "Not specified",
+            "findings": "Yielded Streptococcus intermedius.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Angiography",
+            "date": "Not specified",
+            "findings": "Failed to show any macroscopic anatomic shunt-producing lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-Enhanced 2D Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Revealed the presence of an extracardiac shunt.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lung Scanning with Technetium Tc 99m Macroaggregated Albumin",
+            "date": "Not specified",
+            "findings": "Showed increased uptake in the brain, salivary glands, thyroid, the enlarged spleen, kidneys, and intestines, confirming the presence of a pulmonary shunt.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

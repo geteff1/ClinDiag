@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "systolic_blood_pressure": "79 to 96 mmHg",
+                "diastolic_blood_pressure": "46 to 57 mmHg",
+                "mean_arterial_pressure": "50 to 60 mmHg",
+                "heart_rate": "120 to 140 bpm",
+                "respiratory_rate": "20 to 50 breaths per minute"
+            },
+            "relevant_findings": {
+                "weight": "3.18 kg (below the first percentile for age)",
+                "length": "48.25 cm",
+                "head_circumference": "37 cm",
+                "facial_appearance": "Not dysmorphic",
+                "hair": "thin (scalp and eyebrows)",
+                "natal_tooth": "present",
+                "eyes": "widely spaced, grey–blue sclera",
+                "lung_exam": {
+                    "fine_crackles": "bilateral, more in right lung",
+                    "retractions": "mild subcostal and suprasternal",
+                    "other": "no stridor, wheezing, grunting, or nasal flaring"
+                },
+                "abdominal_exam": "soft with bowel sounds",
+                "muscle_tone": "poor",
+                "visual_tracking": "poor"
+            },
+            "changes_over_time": {
+                "oxygen_saturation": {
+                    "when_asleep": "decreased to between 80 and 89%",
+                    "when_on_CPAP": "rose to greater than 95% with Fio2 increased to 0.4"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "155/79 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "inguinal_hernia": {
+                    "description": "larger on the left side than on the right side, easily reducible, minimal tenderness",
+                    "size": "left: 3.8 cm, right: 1.8 cm"
+                },
+                "lymphadenopathy": {
+                    "location": "left inguinal region",
+                    "size": "three large lymph nodes, maximum diameter 3 cm",
+                    "tenderness": "slightly tender"
+                },
+                "abdominal_examination": "soft, without tenderness or distention"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C (previous night)"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient reported increase in pain and noted hard lumps next to the hernia over the past 3 weeks."
+        }
+    ]
+}

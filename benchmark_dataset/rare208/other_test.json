@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Markedly hypercellular marrow (85%) diffusely involved by small lymphocytic infiltration (80%), with numerous small lymphocytes and scattered paraimmunoblasts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT enterography",
+            "date": "Not specified",
+            "findings": "Thickening in the small intestinal wall, with multiple lymphadenopathies in the abdominal cavity and retroperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry of the intestinal mass",
+            "date": "Not specified",
+            "findings": "Tumor cells positive for CD3, CD7, CD8, CD43, CD56, TIA1, Granzyme B, and Bcl-2; negative for CD20, CD79a, CD10, Bcl-6, MUM-1, CD23, cyclin D1, CD2, CD4, CD5, and CD30. Ki-67 index 70%-80% near blood vessels and 5%-10% in tumor mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR-based TCR assay",
+            "date": "Not specified",
+            "findings": "Revealed a small monoclonal T-cell population in a background of oligoclonal T-cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS)",
+            "date": "Not specified",
+            "findings": "Pathogenic hotspot mutations of STAT5B and DNMT3A, along with likely pathogenic mutations and variants of uncertain clinical significance.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

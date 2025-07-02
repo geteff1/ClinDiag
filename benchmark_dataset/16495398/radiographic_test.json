@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral hydronephrosis, bilateral solid ovarian masses (right ovary: 4.4 cm by 2.5 cm, left ovary: 5.6 cm by 4.5 cm), enlarged aortocaval lymph node (1.4 cm in diameter), and asymmetrically thickened bladder wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic ultrasonographic study",
+            "date": "Not specified",
+            "findings": "Heterogeneous myometrium, possible fibroid on the left side, and solid bilateral adnexal masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the pelvis",
+            "date": "Not specified",
+            "findings": "Solid left adnexal mass (4.2 cm by 4.8 cm) with invasion into the uterus, smaller right adnexal mass, and thickening of the bladder wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "No evidence of metastasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans of the abdomen and pelvis",
+            "date": "Three months after treatment initiation",
+            "findings": "Marked shrinkage of the pelvic masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "Six months after beginning tamoxifen treatment",
+            "findings": "Unchanged from earlier studies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeated CT scans",
+            "date": "Slightly more than three years after beginning treatment",
+            "findings": "Stable disease without progression.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

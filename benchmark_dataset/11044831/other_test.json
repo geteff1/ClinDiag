@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histology of tumor showed a diffuse infiltrate of lymphocytes in dermis and subcutis with moderate epidermotropism. The infiltrate consisted of small-to-medium-sized, pleomorphic lymphocytes and eosinophils.",
+            "changes_over_time": "During the culture period, the percentage of tumor cells increased and then decreased, while CD8+ cells propagated, indicating they had cytotoxic activity against the malignant T cells."
+        },
+        {
+            "procedure_name": "Flow Cytometry",
+            "date": "1/21/1998",
+            "findings": "CD4+ cancer cells were determined to be CD3–CD7–, comprising 27.3% of total lymphocytes.",
+            "changes_over_time": "No significant changes over time are specified, but repeated tests showed varying percentages of CD4+CD7– and CD3–CD4+ cells."
+        },
+        {
+            "procedure_name": "Bone Marrow Aspiration",
+            "date": "Not specified",
+            "findings": "Normal cellularity with no invasion of atypical cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Smear",
+            "date": "Not specified",
+            "findings": "Approximately 30% lymphocytes exhibited a relatively large, irregularly shaped nucleus without prominent nucleoli or azurophilic intracytoplasmic granules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histology of Tumor",
+            "date": "Not specified",
+            "findings": "Tumor infiltrating lymphocytes showed CD4+ and CD20+ populations with high infiltrate, including CD3–CD4+ tumor cells.",
+            "changes_over_time": "The percentage of CD3–CD4+ tumor cells increased in culture but decreased later, while the number of CD8+ cells increased."
+        }
+    ]
+}

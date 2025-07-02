@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Fever and peripheral muscle wasting; scattered rales on chest auscultation; diffuse lymphadenopathy in the cervical, axillary, and inguinal areas.",
+            "changes_over_time": "Initially CD4 count was 45 cells/mL, improved from a nadir of 7 cells/mL; clinically improved during antibiotic therapy for pneumonia, but 5 months later CD4 count dropped to 8 cells/mL."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "CD4 count increased to 121 cells/mL after starting antiretroviral therapy; serum HIV RNA levels decreased to undetectable levels.",
+            "changes_over_time": "Serum EBV DNA level became undetectable 2 months after starting antiretroviral therapy, and symptoms resolved; CT scan showed significant shrinkage of lymphadenopathy."
+        }
+    ]
+}

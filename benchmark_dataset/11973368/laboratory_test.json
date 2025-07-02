@@ -1,0 +1,55 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "31.6%",
+                "white_cell_count": "6500/mm³ (73% neutrophils, 18% lymphocytes, 6% monocytes, 3% eosinophils)",
+                "platelet_count": "487,000/mm³",
+                "mean_corp_volume": "80µm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "0.6 mg/dL (10.3 µmol/L)",
+                "total_protein": "6.0 g/dL (albumin 2.5 g/dL, globulin 3.5 g/dL)",
+                "alkaline_phosphatase": "234 U/L"
+            },
+            "changes_over_time": "Seventh hospital day: conjugated bilirubin 1.2 mg/dL, total bilirubin 1.5 mg/dL, AST 63 U/L, ALT 62 U/L, alkaline phosphatase 300 U/L."
+        },
+        {
+            "procedure_name": "Pleural Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "2467/mm³ (5% neutrophils, 6% lymphocytes, 5% monocytes, 4% eosinophils, 80% nonhematologic cells)",
+                "glucose": "115 mg/dL",
+                "total_protein": "4.8 g/dL",
+                "LDH": "259 U/L",
+                "cytology": "Benign mesothelial cells, no malignant cells."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Abdomen",
+            "date": "Seventh hospital day",
+            "findings": "Mass in the right hepatic lobe, 6.0 cm, heterogeneous configuration, suspected metastases.",
+            "changes_over_time": "New focal lesions developed in the left hepatic lobe, each 8.0 to 9.0 mm diameter, suspected to be metastases."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Left pleural effusion, air-space disease visible in left upper lobe.",
+            "changes_over_time": "Second CT scan two weeks later showed progression with bilateral nodular and patchy opacities."
+        },
+        {
+            "procedure_name": "Bronchoscopy/BAL",
+            "date": "Not specified",
+            "findings": "A few acid-fast bacilli, cultures negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

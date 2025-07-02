@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "twin_A": {
+                    "phallus_size": "1 cm",
+                    "conditions": [
+                        "chordee",
+                        "penoscrotal hypospadias"
+                    ],
+                    "gonads": "palpable bilaterally"
+                },
+                "twin_B": {
+                    "phallus_size": "0.5 cm",
+                    "conditions": [
+                        "perineal hypospadias",
+                        "left inguinal hernia"
+                    ],
+                    "gonads": "no palpable gonad on the right"
+                }
+            },
+            "changes_over_time": {
+                "twin_A": {
+                    "hormonal_evaluation": {
+                        "age": "23 days",
+                        "FSH": "2.34 mIU/ml",
+                        "LH": "8.8 mIU/ml",
+                        "testosterone": "1.6 ng/ml"
+                    },
+                    "biopsy_results": "bilateral testes at 1 month"
+                },
+                "twin_B": {
+                    "hormonal_evaluation": {
+                        "age": "23 days",
+                        "FSH": "8.2 mIU/ml",
+                        "LH": "15 mIU/ml",
+                        "testosterone": "0.12 ng/ml"
+                    },
+                    "herniotomy_results": {
+                        "gonads_found": [
+                            "right testis (crossed ectopia)",
+                            "small left ovotestis"
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

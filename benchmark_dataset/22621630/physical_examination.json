@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "body_mass_index": "20.7",
+                "temperature": "Normal",
+                "heart_rate": "Normal",
+                "blood_pressure": "Normal",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "mass": {
+                    "size": "6 to 7 cm",
+                    "location": "upper outer quadrant of the right breast",
+                    "skin_changes": "peau d’orange changes, without erythema"
+                },
+                "white_cell_count": "3800 per cubic millimeter (reference range, 4500 to 11,000)",
+                "other_exam_findings": "No bone tenderness, including in the left scapula; the remainder of the examination was normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One week after the initial examination",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ct_findings": {
+                    "enlargement_right_breast": "Marked",
+                    "skin_thickening": "Present",
+                    "axillary_lymph_nodes": "<1 cm in diameter",
+                    "lung_nodule": "2 mm in diameter in the lower lobe of the left lung",
+                    "scapula": "Mixed lucency and patchy sclerosis in the inferior tip"
+                }
+            },
+            "changes_over_time": "Marked enlargement of the right breast and thickening of the overlying skin noted compared to a previous examination"
+        },
+        {
+            "date": "14 months after diagnosis",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "physical_examination": {
+                    "residual_mass": "2-cm suspicious mass in the right breast",
+                    "imaging_findings": {
+                        "mammogram": "Extensive pleomorphic calcifications with a vague mass in the upper outer quadrant",
+                        "ultrasound": "Small residual mass",
+                        "MRI": "Irregular area of enhancement, up to 5.4 cm"
+                    }
+                }
+            },
+            "changes_over_time": "Despite a remarkable response to therapy with resolution of liver metastases, residual disease in the right breast was noted"
+        }
+    ]
+}

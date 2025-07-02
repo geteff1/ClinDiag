@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "144/75 mm Hg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "decreased_sensation": "Posterior and anterior trunk and abdomen.",
+                "abdominal_distension": "Present.",
+                "weight": "74.8 kg",
+                "body_mass_index": "25.8",
+                "blood_glucose_level": "291 mg/dL (16.2 mmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "blood_pressure": "106/67 mm Hg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "strength": {
+                    "left_wrist": "4/5 during flexion",
+                    "left_foot": "4/5 during dorsiflexion",
+                    "left_toes": "4/5 during extension",
+                    "grip_strength": "5/5 while gripping the examiner’s fingers"
+                },
+                "abdominal_wall": "Diminished tone, unable to rise from supine without assistance.",
+                "sensation": "Diminished in a bandlike distribution around the T6 to T12 dermatomes.",
+                "deep_tendon_reflexes": "Absent at the biceps on the left and at the ankles bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4 months after treatment",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdominal_wall_strength": "Improved; able to contract rectus abdominis while standing.",
+                "walking": "Still had difficulty walking on the heel.",
+                "sensation": "Improved but specific details not provided."
+            },
+            "changes_over_time": "The patient’s sensation and strength improved, but she continued to have difficulty sitting up from a supine position."
+        }
+    ]
+}

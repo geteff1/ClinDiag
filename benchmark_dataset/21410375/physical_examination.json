@@ -1,0 +1,72 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "pulse": "Normal",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general_exam": "Normal, no cutaneous pigmented lesions, hepatosplenomegaly, or bone abnormalities.",
+                "neurologic_exam": {
+                    "consciousness": "Alert and oriented",
+                    "speech": "Slow, hesitant speech with occasional paraphasic errors",
+                    "attention": "Decreased",
+                    "memory": "Deficits in short-term memory",
+                    "motor": {
+                        "initiation": "Slow",
+                        "tone": "Normal, without dystonia",
+                        "tremor": "None",
+                        "myoclonic_jerks": "Occasional, no atonic postural loss"
+                    },
+                    "ocular": {
+                        "movements": {
+                            "horizontal": "Full",
+                            "vertical": "Not full"
+                        },
+                        "visual_acuity": "Normal",
+                        "retinal_abnormalities": "None"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "skin_biopsy": "No evidence of lysosomal storage disease. Genetic and metabolic tests normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eighteen months after initial evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "cerebral_atrophy": "Mild cerebral and cerebellar atrophy",
+                "periventricular_hyperintensities": "Mild periventricular hyperintensities",
+                "neurologic_exam": {
+                    "speech": "Stuttering",
+                    "motor": {
+                        "rigidity": "Marked cogwheel rigidity",
+                        "alternating_movements": "Decreased rapid alternating movements",
+                        "dysmetria": "Mild on finger-to-nose testing"
+                    },
+                    "seizures": "No myoclonus noted",
+                    "EEG": "Generalized slowing during brief wakefulness, bifrontal spikes during sleep"
+                }
+            },
+            "changes_over_time": "Progressive cognitive decline observed with slower mentation and increasing difficulties with memory."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "hospitalization": "Second- and third-degree burns to face, neck, chest, and shoulders due to fire incident. Hospitalization for pneumonia."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

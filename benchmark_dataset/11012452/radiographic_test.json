@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Mammography",
+            "date": "Not specified",
+            "findings": "New bilateral diffuse, scattered, and occasionally clustered microcalcifications in regional distributions in both breasts, predominantly in the left lower inner quadrant; no associated masses, breast edema, architectural distortion, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast material-enhanced Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Patchy heterogeneous abnormal enhancement throughout both breasts, most prominent in the lower inner and upper outer quadrants of the left breast; slow initial enhancement and continued progressive enhancement over time.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (US)",
+            "date": "Not specified",
+            "findings": "Numerous bilateral simple fluid-filled cavities, representing cysts and dilated ducts, without discrete solid masses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography",
+            "date": "September 1999",
+            "findings": "Right orbital and maxillary sinus involvement with basal cell carcinoma, as well as calcification of the falx cerebri.",
+            "changes_over_time": "Reduction in the size of the orbital mass."
+        },
+        {
+            "procedure_name": "Panoramic X-ray",
+            "date": "1993",
+            "findings": "Multiple cysts in the lower mandible that were later confirmed to be a parakeratotic odontogenic keratocyst.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "1973",
+            "findings": "Bifid fourth left rib identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Results of cultures of blood samples obtained prior to receipt of antibiotics were sterile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitreous cultures",
+            "date": "Not specified",
+            "findings": "Vitreous cultures revealed branching fungal hyphae, confirmed to be Aspergillus fumigatus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures from affected prosthesis",
+            "date": "Not specified",
+            "findings": "Cultures of specimens obtained from the affected prosthesis grew A. fumigatus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures during embolectomy",
+            "date": "Not specified",
+            "findings": "Cultures of specimens obtained during this procedure grew A. fumigatus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures of resected vessel specimens",
+            "date": "Not specified",
+            "findings": "Results of culture of the resected vessel specimens were again positive for A. fumigatus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "2 months after discharge",
+            "findings": "Demonstrated complete dehiscence of the valve in the absence of vegetations.",
+            "changes_over_time": "Initial echocardiogram showed new prosthetic valve vegetation with abscess formation; later demonstrated resolution."
+        }
+    ]
+}

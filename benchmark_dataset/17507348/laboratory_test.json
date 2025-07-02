@@ -1,0 +1,67 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "hematocrit": "33% (suggestive of anemia of chronic disease)",
+                "platelet_count": "157,000/µL",
+                "white_blood_cell_count": "7900/µL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Levels",
+            "date": "Not specified",
+            "findings": "Normal electrolyte levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "15 mg/dL (5.35 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "1.1 mg/dL (97.24 µmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Albumin",
+            "date": "Not specified",
+            "findings": "4.1 g/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carcinoembryonic Antigen",
+            "date": "Not specified",
+            "findings": "11 ng/mL (normal values 0-4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "September 14, 2004 and January 24, 2006",
+            "findings": {
+                "FEV1": {
+                    "2004": "1.30 L (44% predicted)",
+                    "2006": "1.34 L (47% predicted)"
+                },
+                "FVC": {
+                    "2004": "3.90 L (91%)",
+                    "2006": "4.22 L (101%)"
+                },
+                "MMF": {
+                    "2004": "0.43 L/sec (15%)",
+                    "2006": "0.33 L/sec (12%)"
+                },
+                "FEV1/FVC_ratio": {
+                    "2004": "33",
+                    "2006": "32"
+                }
+            },
+            "changes_over_time": "Fluctuated minimally without significant trends"
+        }
+    ]
+}

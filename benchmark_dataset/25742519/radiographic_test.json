@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple thyroid nodules reported.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Avoided repeated x-ray or computed tomography imaging."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Recurrent intra-abdominal metastases.",
+            "changes_over_time": "Tumor progression under imatinib and sunitinib treatment."
+        }
+    ]
+}

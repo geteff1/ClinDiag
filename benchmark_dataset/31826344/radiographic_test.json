@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Nodular consolidation in the right lower lung that was suggestive of pneumonia.",
+            "changes_over_time": "Persistent, nodular opacities in the right mid lung; new hazy pulmonary opacities developed in both lungs."
+        },
+        {
+            "procedure_name": "chest CT scan",
+            "date": "Two weeks later",
+            "findings": "Faint ground-glass nodular opacities, most prominent in the lower lungs; no mediastinal or hilar lymphadenopathy; normal heart size and pulmonary arteries.",
+            "changes_over_time": "Increase in the size, attenuation, and number of ground-glass nodular opacities, with areas of confluence in a peribronchovascular distribution."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Six weeks before presentation",
+            "findings": "Marked increase in ground-glass nodular opacities that were most prominent in the lower lungs; areas of confluence developed in a peribronchovascular distribution.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "high-resolution CT scan",
+            "date": "Two months after presentation",
+            "findings": "Marked progression of ground-glass nodular opacities in both lungs; many opacities became confluent with prominent clustering around the bronchovascular bundles; no primary airway disease or fibrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

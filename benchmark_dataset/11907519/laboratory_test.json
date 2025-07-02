@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White blood cell count was only 0.1 × 10^9/L initially, and later increased to 7.2 × 10^9/L by day 20 after transplantation.",
+            "changes_over_time": "White blood cell count increased from 0.1 × 10^9/L to 7.2 × 10^9/L over a period of 20 days."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Day 21 after transplantation",
+            "findings": "Complete engraftment observed with all cells corresponding to the female donor; no evidence of residual myeloma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "2 months after BMT",
+            "findings": "No evidence of myeloma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Showed Klebsiella species.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "125/72 mm Hg",
+                "heart_rate": "60/min",
+                "weight": "49 kg"
+            },
+            "relevant_findings": {
+                "appearance": "pale",
+                "skin_findings": "no abnormal findings",
+                "lung_examination": "clear to auscultation bilaterally",
+                "cardiac_examination": {
+                    "heart_rate": "normal",
+                    "rhythm": "normal",
+                    "sounds": "normal S1 and S2",
+                    "systolic_murmur": "2/6 ejection murmur heard at left sternal border"
+                },
+                "abdominal_examination": {
+                    "bowel_sounds": "normal",
+                    "tenderness": "none",
+                    "masses": "none"
+                },
+                "costovertebral_angle_tenderness": "none",
+                "extremities": "without edema",
+                "asterixis": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

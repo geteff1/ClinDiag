@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Presence of 310–390 CTG repeats and a new SCN4A mutation in exon 19 (c.3473C.T, p.Pro1158Leu).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Continuous repetitive myotonic discharges in absence of myopathic changes.",
+            "changes_over_time": "No significant compound muscle action potential amplitude changes were observed upon 3-Hz repetitive nerve stimulation."
+        },
+        {
+            "procedure_name": "Drug therapy initiation (mexiletine)",
+            "date": "Not specified",
+            "findings": "Started on 100 mg mexiletine 2 times a day; experienced gastrointestinal pain and poor improvement of stiffness.",
+            "changes_over_time": "Discontinued after 15 days due to side effects and lack of efficacy."
+        },
+        {
+            "procedure_name": "Drug therapy initiation (flecainide)",
+            "date": "Not specified",
+            "findings": "Started on 35 mg flecainide 2 times a day, with both drugs reducing tongue and eye myotonia.",
+            "changes_over_time": "Patient claimed a striking improvement of myotonia with flecainide compared to mexiletine."
+        },
+        {
+            "procedure_name": "Patch-clamp studies",
+            "date": "Not specified",
+            "findings": "P1158L channels show a slower current decay and a rightward shift of the voltage dependence of fast inactivation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

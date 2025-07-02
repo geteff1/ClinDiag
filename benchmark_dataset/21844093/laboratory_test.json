@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Peak troponin of 4.5 ng/mL (Patient 1), Peak troponin of 30 ng/mL (Patient 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Patient 1: Ejection fraction calculated at 56%, anterior and anteroseptal area of late gadolinium enhancement, T2-weighted imaging shows myocardial edema. Patient 2: Ejection fraction calculated at 45%, two discrete areas of late gadolinium enhancement.",
+            "changes_over_time": "Patient 1's MRI performed 72 hours after emergent revascularization shows chronic myocardial changes, while Patient 2's MRI indicates acute myocardial edema in the inferior wall."
+        }
+    ]
+}

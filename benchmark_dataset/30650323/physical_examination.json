@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "pulse": "66 bpm",
+                "blood_pressure": "132/82 mm Hg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on ambient air",
+                "weight": "76.2 kg"
+            },
+            "relevant_findings": {
+                "chronic_conditions": [
+                    {
+                        "condition": "Lymphadenopathy",
+                        "description": "Enlarged posterior cervical lymph node (2 cm), mildly tender and mobile."
+                    },
+                    {
+                        "condition": "Rash",
+                        "description": "Erythematous follicular papules and hyperpigmented nodules, some with central erosion and ulceration, distributed on trunk, arms, legs, face, and scalp."
+                    },
+                    {
+                        "condition": "Abdominal Examination",
+                        "description": "Abdomen soft with tenderness on palpation of the right upper quadrant, no distension, bowel sounds present."
+                    }
+                ]
+            },
+            "changes_over_time": "Lymphadenopathy detected in the neck 4 years ago and now presented in axillary regions, rash evolving over 2 years with persistent and varying characteristics."
+        },
+        {
+            "date": "Six weeks before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "skin_biopsy": {
+                    "description": "Revealed acute neutrophilic folliculitis with follicular rupture and inflammation."
+                }
+            },
+            "changes_over_time": "The skin condition worsened over time, with ongoing symptoms despite treatment."
+        },
+        {
+            "date": "One day before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdominal_pain": {
+                    "description": "Acute right upper quadrant pain, sharp and constant, worsened by movement; no gastrointestinal symptoms noted."
+                }
+            },
+            "changes_over_time": "Progressive worsening of abdominal pain noted over 24 hours leading to emergency presentation."
+        }
+    ]
+}

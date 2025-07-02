@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid Stimulating Hormone (TSH) Level",
+            "date": "Not specified",
+            "findings": "Normal level of 0.29 uIU/mL (reference range: 0.27 - 4.2).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium Level",
+            "date": "Not specified",
+            "findings": "Normal level of 9.5 mg/dL (reference range: 8.6 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intact Parathyroid Hormone (PTH) Level",
+            "date": "Not specified",
+            "findings": "Significantly elevated level of 199 pg/mL (reference range: 15 - 65).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Methylation Analysis of Exon A/B DMR",
+            "date": "Not specified",
+            "findings": "Patient 1: normal methylation at 45% (normal > 43%); Patient 2: reduced methylation at 34% (normal > 43%).",
+            "changes_over_time": "Patient 1 showed normal methylation (57%) at exon A/B, while Patient 2 showed a decrease to 32% at exon A/B."
+        },
+        {
+            "procedure_name": "Calcium, Phosphorus, and Intact PTH Level",
+            "date": "At age 2.5 years",
+            "findings": "PTH increased to 218 pg/mL; calcium 8.8 mg/dL; phosphorus 7.6 mg/dL.",
+            "changes_over_time": "Normal levels until age 2.5 years."
+        }
+    ]
+}

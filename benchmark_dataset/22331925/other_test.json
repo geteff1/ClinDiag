@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "2008",
+            "findings": "Bicuspid aortic valve with moderate regurgitation; mildly to moderately dilated and hypertrophied left ventricle; ejection fraction of 50%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Carotid Doppler ultrasound",
+            "date": "2009",
+            "findings": "High-velocity retrograde flow in the left vertebral artery, which reduced on exertion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arteriogram",
+            "date": "2010",
+            "findings": "Stenosis of the subclavian artery ruled out.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "2011",
+            "findings": "Worsening (moderate to severe) aortic insufficiency; asymmetrical diastolic flow jet; mild decrease of left ventricular ejection fraction; patent aortic bypass conduit.",
+            "changes_over_time": "Worsening aortic insufficiency correlates with progression of symptoms."
+        },
+        {
+            "procedure_name": "Flow-sensitive 4D MRI",
+            "date": "2011",
+            "findings": "High flow in both the native aorta and bypass graft; substantial diastolic retrograde flow throughout the system.",
+            "changes_over_time": "Retrograde fractions consistently reduced after administration of atropine."
+        }
+    ]
+}

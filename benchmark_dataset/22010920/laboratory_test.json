@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "41.0% (reference range: 41.0–53.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "14.5 g/dL (reference range: 13.5–17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "16,200 per mm³ (normal range: 4500–13,000)",
+            "changes_over_time": "Decreased to 4700 per mm³"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "74 U/L (reference range: 13–60)",
+            "changes_over_time": "Increased to 440 U/L during hospitalization, then decreased to 256 U/L"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "99 U/L (reference range: 3–100)",
+            "changes_over_time": "Increased to 246 U/L during hospitalization, then decreased to 54 U/L"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "31 U/L (reference range: 10–55)",
+            "changes_over_time": "Increased to 92 U/L, then decreased to 29 U/L"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "1+ bilirubin, 1+ ketones, trace albumin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "14.4 seconds (reference range: 10.3 to 13.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid profile",
+            "date": "Not specified",
+            "findings": "High-density lipoprotein cholesterol: 21 mg/dL (reference range: 35–100)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (cholangiopancreatography)",
+            "date": "Not specified",
+            "findings": "Normal pancreas and pancreatic duct; normal common bile duct without calculi.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "CFTR mutations: ΔF508 and R31C; SPINK1 mutation present; PRSS1 gene normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

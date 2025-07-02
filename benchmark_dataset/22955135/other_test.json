@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT myelography",
+            "date": "Not specified",
+            "findings": "Opening pressure of 8 cm H2O and an extensive thoracic CSF leak.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "lumbar epidural blood patch",
+            "date": "Not specified",
+            "findings": "No improvement noted; postprocedural back pain resolved over a 10-day period.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI follow-up",
+            "date": "6 months later",
+            "findings": "Diffuse pachymeningeal enhancement.",
+            "changes_over_time": "Gradual resolution of the pachymeningeal enhancement observed in MRIs performed at 6 and 12 months later."
+        },
+        {
+            "procedure_name": "carotid ultrasonography",
+            "date": "Not specified",
+            "findings": "90% ipsilateral extracranial internal carotid artery stenosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A hypodense lesion in the pancreatic head on arterial phase imaging, not seen on portal venous phase imaging.",
+            "changes_over_time": "The lesion was difficult to identify on initial review due to its proximity to the duodenum."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Hypointense lesion on T1-weighted imaging, hyperintense on T2-weighted imaging, and hyperintense on diffusion-weighted imaging, but no lesion seen on images obtained after contrast administration.",
+            "changes_over_time": "No significant changes described over time."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Revealed a hypoechoic, homogeneous, well-defined, nearly spherical lesion (1.6 cm) located in the head of the pancreas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

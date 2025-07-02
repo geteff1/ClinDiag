@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "73/55 to 45/37 mmHg",
+                "heart_rate": "102 to 133 bpm"
+            },
+            "relevant_findings": {
+                "urinary_osmolality": "235 to 229 mosmol/kg H2O",
+                "serum_sodium": "158 mmol/L",
+                "polyuria": "8.2 ml/kg body wt per h"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "After treatment start",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "urinary_volumes": "Decreased by approximately one third"
+            },
+            "changes_over_time": "After administration of indomethacin and hydrochlorothiazide, the urinary volume was reduced."
+        }
+    ]
+}

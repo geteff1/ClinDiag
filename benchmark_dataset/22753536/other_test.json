@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "New regional wall motion abnormalities with inferoapical dyskinesis and anteroapical akinesis; incomplete closure of the mitral valve with apical tenting and severe mitral regurgitation.",
+            "changes_over_time": "Follow-up echocardiogram after 1 month showed only mild MR with LV ejection fraction improved to 80% and normal apical wall motion."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "New T-wave inversions suggestive of anteroseptal ischemia.",
+            "changes_over_time": "These changes were not present on a previous ECG done 6 months before."
+        },
+        {
+            "procedure_name": "Stress adenosine SPECT",
+            "date": "Not specified",
+            "findings": "Severe reversible apical defect.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "90% mid-left anterior descending artery (LAD) lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

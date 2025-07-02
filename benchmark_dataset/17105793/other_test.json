@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Gleason 8 prostate adenocarcinoma in 6 out of 6 cores (80% involvement). Immunohistochemistry showed abundant androgen receptor expression in all cancer cells, but no estrogen or progesterone receptor expression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transrectal ultrasound-guided biopsy",
+            "date": "Not specified",
+            "findings": "Gleason 8 prostate adenocarcinoma in 6 out of 6 cores (80% involvement).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antiandrogen treatment",
+            "date": "Not specified",
+            "findings": "PSA level decreased by 68% to 77 ng/mL after 6 weeks.",
+            "changes_over_time": "After completing antiandrogen treatment in week 35, PSA level was 0.4 ng/mL."
+        },
+        {
+            "procedure_name": "Radiation treatment",
+            "date": "Weeks 8 to 16",
+            "findings": "PSA level decreased to 4.6 ng/mL after radiation.",
+            "changes_over_time": "Before radiation, PSA was 77 ng/mL; after radiation, it further decreased to 0.4 ng/mL."
+        }
+    ]
+}

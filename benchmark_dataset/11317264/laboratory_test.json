@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hemoglobin level of 17.5 g/dL; otherwise normal WBC and platelet counts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "Initial PaO2 of 38 mm H2O while breathing 3 L of O2; oxygen saturation increased to 88% while breathing 50% O2.",
+            "changes_over_time": "During hospitalization, PaO2 level noted to be 48–52 mm H2O while breathing room air."
+        },
+        {
+            "procedure_name": "Lung Scanning",
+            "date": "Not specified",
+            "findings": "Increased uptake in the brain, salivary glands, thyroid, enlarged spleen, kidneys, and intestines; confirmed presence of pulmonary shunt.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serological Testing",
+            "date": "Not specified",
+            "findings": "Confirmed hepatitis C virus infection; negative for HIV, cryptococcal, and toxoplasma infections.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Extensive piecemeal necrosis consistent with chronic hepatitis; confirmed diagnosis of cirrhosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up After Norfloxacin Treatment",
+            "date": "Four months after initiation of treatment",
+            "findings": "Baseline oxygen saturation increased to 95% while breathing room air; resolution of platypnea and orthodeoxia.",
+            "changes_over_time": "Oxygen saturation did not appreciably change (94%–97%) during moderate exercise."
+        }
+    ]
+}

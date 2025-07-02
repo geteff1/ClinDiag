@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure 180/120 mmHg",
+            "relevant_findings": "Evidence of specific IgE antibodies to wheat, barley and rye flour allergens. FEV1 was 87% of predictive value.",
+            "changes_over_time": "The patient reported an improvement in symptoms after the successful removal of a carcinoid tumor."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient had recurrent acute episodes of generalized urticaria after ingestion of cola drinks. The skin prick tests were negative for the cola and cereal flour.",
+            "changes_over_time": "The patient developed urticaria within 10 minutes after ingestion of a cola drink during oral challenges."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Total serum IgE 221 kU/l.",
+            "relevant_findings": "IgE antibodies detected for linseed (flax) with a reaction causing anaphylaxis upon ingestion.",
+            "changes_over_time": "After identification of sensitivity, the patient avoided linseed thereafter."
+        }
+    ]
+}

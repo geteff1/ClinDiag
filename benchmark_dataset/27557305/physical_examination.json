@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "142/84 mmHg",
+                "pulse": "105 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Normal",
+                "oxygen_saturation": "Normal"
+            },
+            "relevant_findings": {
+                "general": "Patient in mild distress, walked with a limp.",
+                "tenderness": "Tenderness in left ilium and left lower lumbar spine.",
+                "leg_comparison": "Left foot cooler than right; pedal pulses present.",
+                "strength_testing": {
+                    "right_side": "5/5 (normal) strength",
+                    "left_side": {
+                        "iliopsoas": "4+/5 strength",
+                        "hamstrings": "4+/5 strength",
+                        "hip_abduction": "4/5 strength"
+                    },
+                    "bilateral": {
+                        "quadriceps": "5/5",
+                        "tibialis_anterior": "5/5",
+                        "extensor_hallucis_longus": "5/5",
+                        "gastrocnemius_and_soleus": "5/5"
+                    }
+                },
+                "sensation": "Decreased sensation in left leg, especially along lateral thigh, medial and lateral calf, dorsal and plantar aspects of foot.",
+                "reflexes": "Patellar and Achilles reflexes 1+ bilaterally; Babinski sign not present; no clonus.",
+                "functional_testing": {
+                    "toe_heel_walking": "Limited due to pain.",
+                    "straight_leg_raising": "Induced radicular pain."
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

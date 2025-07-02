@@ -1,0 +1,61 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "34 cm of water",
+                "red_cell_count": "255 per cubic millimeter",
+                "glucose_level": "125 mg per deciliter",
+                "total_protein_level": "26 mg per deciliter",
+                "nucleated_cell_count": "28 per cubic millimeter (90% lymphocytes)",
+                "culture": "sterile",
+                "nucleic_acid_testing": "negative for herpes simplex virus"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": {
+                "FLAIR_images": "subtle hyperintensity in the occipital sulci bilaterally",
+                "enhancement": "subtle enhancement in some of the occipital sulci",
+                "hippocampi": "appeared normal",
+                "non_specific_hyperintense_focus": "in the right corona radiata",
+                "acute_ischemia": "not present",
+                "intracranial_hemorrhage": "not present",
+                "mass_lesion": "not present",
+                "cortical_abnormality": "not present",
+                "brain_swelling": "not present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "diffuse slowing of the theta waveform frequency, predominantly in the frontal area, but no epileptiform discharges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (re-attempt)",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": "17 cm of water",
+                "red_cell_count": "81 per cubic millimeter",
+                "nucleated_cell_count": "0-5 per cubic millimeter",
+                "lymphocytes_percentage": "97%",
+                "protein": "76 mg/dl",
+                "glucose": "62 mg/dl",
+                "nucleic_acid_testing": {
+                    "herpes_simplex_virus": "negative",
+                    "cytomegalovirus": "negative",
+                    "varicella_zoster_virus": "negative",
+                    "JC_virus": "negative",
+                    "West_Nile_virus": "negative",
+                    "enterovirus": "negative"
+                }
+            },
+            "changes_over_time": "Positive CSF PCR test for HHV-6 confirmed diagnosis of HHV-6 related encephalitis after lumbar puncture."
+        }
+    ]
+}

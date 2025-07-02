@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid-stimulating hormone (TSH)",
+            "date": "Not specified",
+            "findings": "Elevated at 70 mU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "N-terminal pro-hormone B-type natriuretic peptide (NT-proBNP)",
+            "date": "Not specified",
+            "findings": "5340 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "Initial LVEF of 20%, repeat LVEF of 30%, LVEF of 17% with severe mitral valve regurgitation during readmission, recent LVEF improved to 33%.",
+            "changes_over_time": "LVEF increased from 20% to 33% over time."
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Non-specific non-ischaemic cardiomyopathy with LVEF of 32% without infiltration or inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac endomyocardial biopsy",
+            "date": "Not specified",
+            "findings": "No histopathological abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiomyopathy comprehensive panel",
+            "date": "Not specified",
+            "findings": "Positive for one likely pathogenic variant (AGL, c294-aA>T, splice receptor), heterozygous.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole genome sequencing",
+            "date": "Not specified",
+            "findings": "Compound heterozygous pathogenic variant in RNU4ATAC [NR_023343.1:n.118T>C, autosomal recessive (AR) inheritance, heterozygous].",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum TSH measurement",
+            "date": "75 days before L-T4 treatment",
+            "findings": "TSH: 3.74 mU/L (normal range: 0.3–5.0 mU/L)",
+            "changes_over_time": "TSH levels decreased to 0.30 mU/L at 21 months of age, 1.18 mU/L at 7 years, and 1.16 mU/L at 8 years."
+        },
+        {
+            "procedure_name": "Free T4 measurement",
+            "date": "75 days before L-T4 treatment",
+            "findings": "FT4: 2.6 pmol/L (normal range: 9.0–20.0 pmol/L)",
+            "changes_over_time": "FT4 increased to 12.9 pmol/L at 21 months, 14.1 pmol/L at 7 years, and decreased to 2.1 pmol/L at 8 years after L-T4 withdrawal."
+        },
+        {
+            "procedure_name": "Free T3 measurement",
+            "date": "75 days before L-T4 treatment",
+            "findings": "FT3: 1.1 pmol/L (normal range: 4.0–8.0 pmol/L)",
+            "changes_over_time": "FT3 increased to 6.4 pmol/L at 21 months, decreased to 4.6 pmol/L at 7 years, and dropped to 1.5 pmol/L at 8 years."
+        },
+        {
+            "procedure_name": "Circulating free glycoprotein a-subunit measurement",
+            "date": "Not specified",
+            "findings": "a-GSU: 4.9 mg/L (normal range: 0.1–1.0 mg/L) at 75 days; increased to 9.4 mg/L at 21 months; further increased to 22.5 mg/L at 7 years.",
+            "changes_over_time": "Significantly elevated a-GSU levels were noted over time, indicating inadequate L-T4 therapy."
+        },
+        {
+            "procedure_name": "Prolactin (PRL) measurement",
+            "date": "Not specified",
+            "findings": "Basal PRL: 294 mU/L (normal range: 100–500 mU/L) at 21 months.",
+            "changes_over_time": "PRL reached 508 mU/L (normal range: 100–500 mU/L) at age 8, indicating increased levels."
+        }
+    ]
+}

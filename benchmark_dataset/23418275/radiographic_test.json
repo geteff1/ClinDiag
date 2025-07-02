@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Left pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest computed tomography",
+            "date": "Not specified",
+            "findings": "Septic pulmonary emboli and cavitations",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography (TEE)",
+            "date": "Not specified",
+            "findings": "2 vegetations on the anterior leaflet of the tricuspid valve, the larger measuring 2.0 × 1.8 cm",
+            "changes_over_time": "Resolution of vegetations on the tricuspid valve after several weeks of antibiotic therapy"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography (TEE)",
+            "date": "Not specified",
+            "findings": "Multiple vegetations on the tricuspid leaflets, the largest 2.5 cm × 1.5 cm, likely perforating the leaflet",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Pericarditis",
+            "changes_over_time": "Resolution of the ST segment changes seen on initial presentation after intravenous antibiotic treatment"
+        }
+    ]
+}

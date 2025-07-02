@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Asymptomatic arteriovenous malformation (AVM) of the spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MR imaging of the brain",
+            "date": "Not specified",
+            "findings": "Small low-flow pial AVMs in the right posterior medial frontal lobe and right occipital lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spinal MR imaging",
+            "date": "Not specified",
+            "findings": "Intramedullary varix with surrounding spinal cord edema.",
+            "changes_over_time": "Reduction in size of the venous varix and partial resolution of associated spinal cord edema after embolization."
+        },
+        {
+            "procedure_name": "Postembolization selective angiography",
+            "date": "Not specified",
+            "findings": "Complete obliteration of the macro-arteriovenous fistula (MA VF) with no residual filling via previously identified feeding vessels.",
+            "changes_over_time": "No loss of neurological function detected; venous congestion resolved."
+        },
+        {
+            "procedure_name": "Postembolization MR imaging",
+            "date": "10 months after the embolization",
+            "findings": "Complete resolution of T2 hyperintensity in the spinal cord; no abnormal perimedullary flow voids.",
+            "changes_over_time": "Hemorrhagic deposits evident within the residual cavity of the venous varix."
+        }
+    ]
+}

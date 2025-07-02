@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 2000",
+            "vital_signs": {
+                "leukocyte_count": "9 cells/L",
+                "neutrophil_count": "918 cells/L",
+                "platelet_count": "9 platelets/L"
+            },
+            "relevant_findings": {
+                "abdominal_CT": "right subphrenic collection, 500 mL of sterile fluid drained",
+                "blood_culture": "Escherichia coli isolated"
+            },
+            "changes_over_time": "Initially febrile and unhealthy, gradually improved towards the end of the hospital stay."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "not_available": "Not specified"
+            },
+            "relevant_findings": {
+                "blood_culture": "Methicillin-resistant Staphylococcus aureus (MRSA) isolated on day 8"
+            },
+            "changes_over_time": "Despite initial treatment, the patient showed worsening clinical status and developed diskitis."
+        },
+        {
+            "date": "February 2000",
+            "vital_signs": {
+                "not_available": "Not specified"
+            },
+            "relevant_findings": {
+                "blood_culture": "Pseudomonas aeruginosa isolated"
+            },
+            "changes_over_time": "Condition continued to deteriorate with repeated episodes of bacteremia."
+        }
+    ]
+}

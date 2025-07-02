@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Platelet transfusions",
+            "date": "5th and 7th postnatal days",
+            "findings": "Platelet transfusions were administered.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Compound heterozygous variants in the FREM1 gene (c.247 C>T; p.His83Tyr and g.14,769,868 InsA) on chromosome 9p22.3. The missense variant in exon 4 and splice site variant in intron 27 were predicted to be damaging. Both variants were absent in all public databases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed perfect segregation of the identified variant within the family.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

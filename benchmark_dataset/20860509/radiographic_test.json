@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Malrotation of the left extrarenal pelvis, multiple cortical defects in the left kidney consistent with scarring, mildly enlarged spleen (14.8 cm), prominent periportal, mesenteric, inguinal, and retroperitoneal lymph nodes (up to 1.4 cm), trace free fluid in the pelvis.",
+            "changes_over_time": "Persistent mild splenomegaly with peripheral wedge-shaped areas of hypoattenuation consistent with infarcts; other findings unchanged."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes with no opacities suggestive of pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonography of kidneys and venous system",
+            "date": "Not specified",
+            "findings": "Normal with no evidence of hydronephrosis or deep venous thrombosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat CT scan of the abdomen and pelvis",
+            "date": "Day 5 of hospitalization",
+            "findings": "Persistent splenomegaly with wedge-shaped areas of hypoenhancement in the spleen consistent with splenic infarcts; other findings unchanged from the CT performed on admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan three months after discharge",
+            "date": "Three months after discharge",
+            "findings": "Spleen returned to normal size with almost complete resolution of all focal defects.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

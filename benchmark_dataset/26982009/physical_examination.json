@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "129 cm",
+                "weight": "35 kg",
+                "height Z-score": "Not specified",
+                "weight Z-score": "Not specified"
+            },
+            "relevant_findings": "The patient appeared older than his stated age, was prepubertal and had coarse facial features. His height and weight were significantly above the percentiles for his age.",
+            "changes_over_time": "Growth continued at an accelerated pace post-surgery, leading to significant increases in height as the patient grew."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_prolactin": "185 g/L (normal <118 g/L)",
+                "insulin_like_growth_factor_1": "745 g/L (normal 64–369 g/L)",
+                "fasting_growth_hormone": "235 g/L (suppressed to 29 g/L following glucose load)",
+                "bone_age": "5 years"
+            },
+            "relevant_findings": "Elevated serum concentrations of prolactin, insulin-like growth factor-1 and growth hormone indicating pituitary gigantism with hyperprolactinaemia.",
+            "changes_over_time": "Following surgery, hormone concentrations remained elevated, with hyperplastic tissue re-expanding rapidly leading to continued accelerated growth."
+        },
+        {
+            "date": "Postoperative period",
+            "vital_signs": {
+                "GH": "Normalized with pegvisomant treatment",
+                "IGF-1": "Normalized",
+                "pituitary_volume": "Stable"
+            },
+            "relevant_findings": "Growth velocity normalized and IGF-1 remained within the normal range after treatment with cabergoline, octreotide, and pegvisomant.",
+            "changes_over_time": "Originally elevated hormone levels post-surgery improved with the addition of GH receptor antagonist resulting in stable pituitary volume."
+        }
+    ]
+}

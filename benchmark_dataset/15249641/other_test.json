@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "USPIO-enhanced MRI",
+            "date": "4.5 months after initial symptoms",
+            "findings": "Eccentric plaque containing a large lipid core with a thin fibrous cap in the left internal carotid artery; focal area of signal reduction within the plaque indicating the presence of USPIO.",
+            "changes_over_time": "Histologic analysis revealed ongoing plaque inflammation with established and recently recruited macrophages despite symptom resolution."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "High signal in the pons, basal ganglia, thalami, and cerebral peduncles.",
+            "changes_over_time": "Unchanged MRI despite the patient's decline in condition."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Excess slow activity with superimposed sharp frontoparietal delta activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma exchange",
+            "date": "During patient's stay following increased clinical symptoms.",
+            "findings": "Pristanate decreased during plasma exchange.",
+            "changes_over_time": "Pristanate levels increased again after returning to oral feeding, but there was no clinical response initially."
+        }
+    ]
+}

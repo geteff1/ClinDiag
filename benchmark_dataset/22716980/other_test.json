@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Normal cardiac structures, normal ventricular function and thickness (LVEF, 69%), a patent ductus arteriosus (2.3 mm) with left-to-right shunting, estimated right ventricular systolic pressure of 55 mm Hg.",
+            "changes_over_time": "Biventricular hypertrophy developed over 3 days, with preserved systolic function (LVEF, 61% on the sixth day), and no evidence of shunting across patent ductus arteriosus."
+        },
+        {
+            "procedure_name": "Brain ultrasonography",
+            "date": "On the third day of life",
+            "findings": "Grade 1 hemorrhage into the germinal matrix bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "On admission",
+            "findings": "Sterile.",
+            "changes_over_time": "Antibiotics were stopped due to this finding."
+        },
+        {
+            "procedure_name": "Blood gas analysis",
+            "date": "Not specified",
+            "findings": "pH 7.35, partial pressure of carbon dioxide 47 mm Hg.",
+            "changes_over_time": "pH fluctuated, with subsequent values showing acidosis (7.24 on sixth day and 7.11 before death)."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Diagnostic of systemic HSV infection involving lungs, liver, and adrenal glands.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

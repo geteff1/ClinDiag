@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Initial chest X-ray displayed a right upper lobe opacification. A repeat chest X-ray 24 hours after admission revealed complete right upper lobe, right lower and left mid-basal opacification, with diffuse thickening of the bilateral lower-middle lung.",
+            "changes_over_time": "Progression from right upper lobe opacification to complete opacification of the right upper lobe, right lower lobe, and left mid-basal region over 24 hours."
+        },
+        {
+            "procedure_name": "CT angiography",
+            "date": "Not specified",
+            "findings": "Confirmed the right upper lobe opacification with a suspected air bubble inside, excluding pulmonary embolism or aortic dissection.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

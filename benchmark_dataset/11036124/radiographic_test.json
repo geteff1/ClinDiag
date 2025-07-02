@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph of the spine",
+            "date": "Not specified",
+            "findings": "Considerable demineralization, with compression fractures of T11, L1, L3, and L4.",
+            "changes_over_time": "Compression fractures confirmed on MRI performed one month before admission, showing uniform signal intensity in the marrow throughout the spine."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the spine",
+            "date": "Not specified",
+            "findings": "Compression fractures of the same vertebrae (T11, L1, L3, and L4), uniform signal intensity in the marrow throughout the spine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skeletal survey",
+            "date": "Not specified",
+            "findings": "Diffuse osteopenia of the thoracic and lumbar spine, with multiple compression deformities of the vertebral bodies; a periosteal reaction along the ulnar side of the midportion of the radius.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lateral radiograph of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Diffuse osteopenia and compression fractures.",
+            "changes_over_time": "No further progression of the vertebral compression fractures post-treatment."
+        },
+        {
+            "procedure_name": "Densitometry",
+            "date": "Not specified",
+            "findings": "Improvement in bone density despite treatment.",
+            "changes_over_time": "Showed improvement over time."
+        }
+    ]
+}

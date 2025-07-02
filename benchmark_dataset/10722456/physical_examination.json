@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.9 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "other": "Not specified"
+            },
+            "relevant_findings": {
+                "oral_thrush": "Present",
+                "new_murmur": "2/6 diastolic murmur",
+                "aortic_insufficiency": "Mild",
+                "vegetations": "Not visible on initial echocardiography but present weeks later"
+            },
+            "changes_over_time": "Initially, there were no vegetations detected on echocardiography; however, three weeks later, peduncular vegetations were observed on the aortic valve."
+        }
+    ]
+}

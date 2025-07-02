@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "Baseline creatinine level of 1.8 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum urea nitrogen",
+            "date": "Not specified",
+            "findings": "Serum urea nitrogen level of 68 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool studies for C difficile toxin",
+            "date": "Not specified",
+            "findings": "Initial sample positive for C difficile toxin A; subsequent samples negative.",
+            "changes_over_time": "Initial hospitalization showed positive results, later results were negative during symptomatic recurrences."
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Recent urine culture showed resolution of previous Pseudomonas infection.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

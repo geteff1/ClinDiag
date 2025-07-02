@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "T1-weighted non-contrasted magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Normal anatomy without mass, midline-shift, hemorrhage, or infarction. The ventricular system and calvarium were unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal cardiac profile, hyper-inflated lung volumes with flattened diaphragms, large left-sided pleural effusion, mild thoracic scoliosis, pectus excavatum, evidence of prior sternotomy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate aortic regurgitation and an ejection fraction of approximately 55%.",
+            "changes_over_time": "Evidence of moderate aortic regurgitation noticed 2 years before admission, previously stable cardiac function."
+        },
+        {
+            "procedure_name": "Computerized tomography scan",
+            "date": "Not specified",
+            "findings": "Paucity of intra-abdominal fat and ureteral diverticulum, but no structural anatomic variant of the upper abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper gastrointestinal series",
+            "date": "Not specified",
+            "findings": "No stricture, hiatal hernia, or inflammatory changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastric emptying study",
+            "date": "Not specified",
+            "findings": "Markedly delayed and prolonged gastric emptying but no specific outlet obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DEXA bone densitometry",
+            "date": "Not specified",
+            "findings": "T score of -1.5, indicating osteopenia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

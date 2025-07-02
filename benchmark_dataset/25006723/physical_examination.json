@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "139/91 mm Hg",
+                "pulse": "91 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "ptosis": "mild left-sided",
+                "pupils": "normal",
+                "extraocular_movements": "normal",
+                "diplopia": "subjective in primary gaze",
+                "facial_weakness": "left-sided upper and lower",
+                "soft_palate_elevation": "diminished on left side",
+                "tongue_protrusion": "normal",
+                "voice": "normal",
+                "hearing": "normal",
+                "left_hand_strength": {
+                    "wrist_extensors": "4/5 (mildly decreased)",
+                    "finger_abductors": "4/5"
+                },
+                "right_arm_strength": "normal",
+                "dysdiadochokinesia": "left arm",
+                "fasciculations": "left calf",
+                "plantar_responses": "flexor"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 5",
+            "vital_signs": {
+                "temperature": "38.8°C",
+                "pulse": "90 to 99 bpm",
+                "respiratory_rate": "40 breaths per minute",
+                "oxygen_saturation": "92 to 94%"
+            },
+            "relevant_findings": {
+                "neurologic_status": "unable to speak",
+                "gaze": "impaired upward"
+            },
+            "changes_over_time": "Progression to unresponsiveness, mutism, and impaired upward gaze."
+        },
+        {
+            "date": "Day 8",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurologic_status": "remained unresponsive"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

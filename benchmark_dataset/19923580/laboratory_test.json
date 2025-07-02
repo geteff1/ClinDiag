@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "294 U per liter (reference range, 27 to 110) - outside normal range",
+            "changes_over_time": "Decreased to 253 U per liter (reference range, 45 to 115) - still outside normal range"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "545 U per liter (reference range, 110 to 225) - outside normal range",
+            "changes_over_time": "Increased to 616 U per liter (reference range, 110 to 210) - outside normal range"
+        },
+        {
+            "procedure_name": "Complete Blood Count (Platelet Count)",
+            "date": "Not specified",
+            "findings": "521,000 per cubic millimeter (reference range, 135,000 to 400,000) - outside normal range",
+            "changes_over_time": "Increased to 644,000 per cubic millimeter (reference range, 150,000 to 400,000) - still outside normal range"
+        },
+        {
+            "procedure_name": "Activated Partial-Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "41.5 seconds (reference range, 23.3 to 34.5) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "16.8 seconds (reference range, 12.8 to 15.0) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio",
+            "date": "Not specified",
+            "findings": "1.3 (reference range, 0.9 to 1.1) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Sterile",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Grew rare staphylococcus species",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

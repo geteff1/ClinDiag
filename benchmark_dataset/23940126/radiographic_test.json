@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "skull radiograph",
+            "date": "Not specified",
+            "findings": "Thickened skull vault and prominent frontal bone.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "pelvic radiograph",
+            "date": "Not specified",
+            "findings": "Normal femoral epiphyses; cortical thickening in long bones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Colonic dilatation with faecal loading.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

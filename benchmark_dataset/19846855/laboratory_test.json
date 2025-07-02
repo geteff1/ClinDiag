@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "3rd Postpartum Day",
+            "findings": "32.6% (Normal Range: 36.0–46.0)",
+            "changes_over_time": "Decreased from 35.4% on admission to 32.6%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "3rd Postpartum Day",
+            "findings": "11.6 g/dl (Normal Range: 12.0–16.0)",
+            "changes_over_time": "Decreased from 12.4 g/dl on admission to 11.6 g/dl."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "3rd Postpartum Day",
+            "findings": "800 per mm3 (Normal Range: 4,500–11,000)",
+            "changes_over_time": "Decreased from 10,100 per mm3 on admission to 800 per mm3."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "3rd Postpartum Day",
+            "findings": "In clumps (Normal Range: 150,000–350,000)",
+            "changes_over_time": "Decreased from 257,000 per mm3 on admission to 186,000 per mm3."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "3rd Postpartum Day",
+            "findings": "16.1 sec (Normal Range: 10.3–13.2)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "International normalized ratio",
+            "date": "3rd Postpartum Day",
+            "findings": "1.5",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "d-Dimer",
+            "date": "3rd Postpartum Day",
+            "findings": "9041 ng/ml (Normal Range: <500)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "3rd Postpartum Day",
+            "findings": "2.8 mg/dl (Normal Range: 0.6–1.5)",
+            "changes_over_time": "Increased from 2.6 mg/dl on admission to 2.8 mg/dl."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "ICU Admission",
+            "findings": "7.9 mmol/liter (Normal Range: 0.5–2.2)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas",
+            "date": "ICU Admission",
+            "findings": "pH 7.19, pCO2 35 mm Hg, pO2 182 mm Hg, base excess -8.9 mmol per liter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

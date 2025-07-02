@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cardiac stress test with radionuclide imaging",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 33% and a reversible anterolateral defect.",
+            "changes_over_time": "Worsened to 22% on echocardiography 7 months before current admission."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "7 months before current admission",
+            "findings": "Left ventricular ejection fraction of 22%, mild mitral and tricuspid regurgitation.",
+            "changes_over_time": "Decreased from 33% to 22%."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "11 weeks before current admission",
+            "findings": "Left ventricular ejection fraction of 23%, dilatation of left atrium and left ventricle, diffuse hypokinesis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Current admission",
+            "findings": "Sinus rhythm at a rate of 66 beats per minute, new ST-segment elevations in ECG leads II, III, aVF, V3, and V4.",
+            "changes_over_time": "New ST-segment elevations compared to an earlier tracing."
+        },
+        {
+            "procedure_name": "Cardiac ultrasonography",
+            "date": "Current admission",
+            "findings": "Trace pericardial effusion and decreased ventricular contractile function.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Device interrogation",
+            "date": "Morning after ICD implantation",
+            "findings": "All lead measurements were within normal limits.",
+            "changes_over_time": "Subsequent interrogation showed abnormal measurements, indicating lead migration."
+        },
+        {
+            "procedure_name": "Repeat device interrogation",
+            "date": "Current admission",
+            "findings": "Voltage of cardiac electrogram significantly decreased, failure to capture with pacing.",
+            "changes_over_time": "Voltage fell from 11.2 mV to 1.5 mV, lead impedance decreased from 640 ohms to 240 ohms."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Current admission",
+            "findings": "A high-density left pleural effusion and ICD lead perforating the pericardium.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

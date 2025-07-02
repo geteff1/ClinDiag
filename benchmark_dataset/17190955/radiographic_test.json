@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PET imaging",
+            "date": "Not specified",
+            "findings": "Normal PET imaging of the dopamine transporter indicating no dopaminergic neuronal loss.",
+            "changes_over_time": "Striatal binding of [11C]raclopride increased by 25% vs control values."
+        },
+        {
+            "procedure_name": "PET study",
+            "date": "At age 29",
+            "findings": "Striatal binding of [11C]PE2I was similar to values obtained from healthy volunteers, indicating no dopaminergic neuronal loss.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

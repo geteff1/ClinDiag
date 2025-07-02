@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV serologic test",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 T lymphocyte count",
+            "date": "Not specified",
+            "findings": "109 cells/mm3",
+            "changes_over_time": "Rose to 170 cells/mm3 after follow-up; increased to 412 cells/mm3 after approximately 1 year; last recorded count was 144 cells/mm3."
+        },
+        {
+            "procedure_name": "Virus burden test",
+            "date": "Not specified",
+            "findings": "324,000 copies/mL",
+            "changes_over_time": "Fell to <10,000 copies/mL after initial treatment; last recorded was 150,000 copies/mL."
+        }
+    ]
+}

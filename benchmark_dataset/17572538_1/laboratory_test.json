@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Homocysteine Level",
+            "date": "Not specified",
+            "findings": "63.6 /H9262M/liter (normal level, 4 to 12 /H9262M/liter), consistent with moderate homocystinuria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Workup",
+            "date": "Not specified",
+            "findings": {
+                "Antiphospholipid antibodies": "Negative",
+                "Antithrombin III (%)": "97",
+                "Activated protein C resistance": "1.03 (normal 0.85)",
+                "Cardiolipin antibody": "Negative",
+                "Factor V Leiden mutation": "Negative",
+                "Factor 10 (%)": "146",
+                "Fibrinogen (mg/dl)": "303",
+                "Folate (ng/ml)": "10.6",
+                "Heparin-induced platelet antibody": "Negative",
+                "Homocysteine (/H9262M/liter)": "63.6",
+                "Partial thromboplastin time (sec)": "30.3",
+                "Platelet count (1000/cc)": "230",
+                "Protein C (%)": "91",
+                "Protein S (%)": "114",
+                "Prothrombin 20210 mutation": "Negative",
+                "Prothrombin time (sec)": "13.8",
+                "Thrombin": "Normal",
+                "Vitamin B6 (ng/ml)": "10.8",
+                "Vitamin B12 (pg/ml)": "281"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

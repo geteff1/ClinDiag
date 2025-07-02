@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "88/50 mm Hg",
+                "temperature": "39.5°C",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general_physical_examination": "Normal findings including examination of the external genitalia.",
+                "urinalysis": {
+                    "specific_gravity": "1.018",
+                    "pH": "6.0",
+                    "leukocytes": "Negative",
+                    "nitrites": "Negative",
+                    "protein": "Negative",
+                    "blood": "Negative",
+                    "glucose": "Negative",
+                    "ketones": "Negative",
+                    "urobilinogen": "Negative",
+                    "sediment": {
+                        "bacteria": "No",
+                        "white_cells": "0 to 1",
+                        "red_cells": "No",
+                        "casts": "No"
+                    }
+                },
+                "imaging_findings": {
+                    "radionuclide_voiding_cystourethrogram": "Bilateral grade III reflux",
+                    "renal_ultrasound": "Normal kidney size",
+                    "radionuclide_renal_scan": "Normal"
+                }
+            },
+            "changes_over_time": "Bilateral grade III vesicoureteral reflux persisted over time with no noted improvement or worsening in urinary tract health."
+        }
+    ]
+}

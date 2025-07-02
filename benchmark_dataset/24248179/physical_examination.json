@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "40 days after birth",
+            "vital_signs": {
+                "TSH": "275 mU/L",
+                "T4": "0.45 µg/dl"
+            },
+            "relevant_findings": "Diagnosis of congenital hypothyroidism based on thyroid function analysis showing elevated TSH and low T4 levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Ultrasound showed thyroid structures measuring 22 mm and 19 mm on both sides of the trachea.",
+            "changes_over_time": "Thyroid structures were found to be heterogeneous with cystic malformations in follow-up examinations."
+        },
+        {
+            "date": "12 years",
+            "vital_signs": {
+                "TSH": "218 mU/L",
+                "T4": "1.93 µg/dl",
+                "fT4": "0.23 ng/dl"
+            },
+            "relevant_findings": "No uptake on thyroid scintigraphy indicating further deterioration of thyroid function.",
+            "changes_over_time": "Continued decline in thyroid function evidenced by no uptake on scintigraphy compared to earlier assessments."
+        },
+        {
+            "date": "18 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Hearing test was performed and was normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Panel-based exome sequencing",
+            "date": "Not specified",
+            "findings": "Revealed a heterozygous variant in TNFRSF13B (c.290C>G, p.Pro97Arg).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological examination",
+            "date": "Not specified",
+            "findings": "Confirmed nodular regenerative hyperplasia (NRH).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Non-invasive liver assessments",
+            "date": "Not specified",
+            "findings": "Performed initially.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiological assessments",
+            "date": "Not specified",
+            "findings": "Conducted to monitor ascites.",
+            "changes_over_time": "Indicated a sustained decrease in portal hypertension over up to 5 years post-treatment."
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "Not specified",
+            "findings": "Performed to assess lung function.",
+            "changes_over_time": "Pulmonary findings were stable over a 5-year follow-up period, yet without significant radiological or spirometric improvement."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Unknown dates (multiple)",
+            "findings": "Lentigo maligna diagnosed",
+            "changes_over_time": "Transformed into lentigo maligna melanoma in 1995"
+        },
+        {
+            "procedure_name": "Mohs surgery",
+            "date": "1988, 1995, 2000",
+            "findings": "1995: Lentigo maligna with possible early invasion; 2000: Lentigo maligna arising in a seborrheic keratosis",
+            "changes_over_time": "1995 showed early invasion; 2000 there was re-excision confirming diagnosis of LM"
+        }
+    ]
+}

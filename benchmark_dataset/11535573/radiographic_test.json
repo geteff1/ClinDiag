@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Prolonged QTc interval of 600 ms and polymorphic ventricular tachyarrhythmias documented.",
+            "changes_over_time": "Initially, sinus rhythm with normal QTc interval of 410 ms was noted on day 1, followed by marked QTc prolongation on day 5."
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Documented T-wave alternans and increased QT dispersion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Home monitor recording",
+            "date": "9 weeks",
+            "findings": "Recorded fatal nonterminating tachyarrhythmia with heart rate of 300 bpm.",
+            "changes_over_time": "Recurrent bradycardias with heart rate of 60 bpm were documented before the lethal event."
+        }
+    ]
+}

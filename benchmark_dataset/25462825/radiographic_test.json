@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "marked cardiomegaly",
+            "changes_over_time": "marked improvement of cardiomegaly and pleural effusion after partial ligation"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "marked concentric hypertrophy of the left ventricle with severe tricuspid valve regurgitation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "dynamic computed tomography",
+            "date": "Not specified",
+            "findings": "anomalous left upper pulmonary vein draining into the left subclavian vein and left atrium",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

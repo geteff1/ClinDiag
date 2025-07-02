@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukopenia (WBC count: 2460/μL) with neutropenia (neutrophil count: 220/μL).",
+            "changes_over_time": "Neutrophil count increased to 2810/μL."
+        },
+        {
+            "procedure_name": "HIV Type 1 Viral Load Test",
+            "date": "Not specified",
+            "findings": "Viral load was higher than 7.0 log10 copies/mL.",
+            "changes_over_time": "Viral load reduced to 2403 copies/mL (3.38 log10 copies/mL) after six weeks of highly active antiretroviral therapy."
+        },
+        {
+            "procedure_name": "CD4+ Cell Count",
+            "date": "Not specified",
+            "findings": "CD4+ cell count: 4770/μL.",
+            "changes_over_time": "CD4+ cell count was reduced to 1191/μL after six weeks of antiretroviral therapy."
+        },
+        {
+            "procedure_name": "Immunoglobulin Levels",
+            "date": "Not specified",
+            "findings": "IgG: 735 mg/dL, IgA: 37 mg/dL, IgM: 55 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Necrotizing vasculitis with hemorrhage and surrounding edema, suggestive of ecthyma gangrenosum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Showed Pseudomonas aeruginosa.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

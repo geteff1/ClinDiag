@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "134/98 mm Hg",
+                "pulse": "86 bpm",
+                "height": "175 cm",
+                "weight": "76 kg",
+                "body_mass_index": "24.9"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared in mild discomfort from his fracture.",
+                "neck": "No significant findings.",
+                "cardiac": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "lung": "Clear on auscultation.",
+                "abdominal": "Soft, nontender, normal bowel sounds, no hepatosplenomegaly.",
+                "skin": "Pale, multiple nevi, and ecchymoses over the left shoulder.",
+                "musculoskeletal": "Evidence of kyphoscoliosis and multiple areas of tenderness over the posterior left ribs.",
+                "neurological": "Reflexes normal, no proximal muscle weakness."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "height": "Not specified",
+                "weight": "Not specified",
+                "body_mass_index": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Multiple compression fractures of the thoracic spine without any lytic lesions.",
+                "skeletal": "Evidence of severe osteoporosis on dual-energy x-ray absorptiometry."
+            },
+            "changes_over_time": "Repeat dual-energy x-ray absorptiometry showed no significant change in spine, femoral neck, or total hip but a 4.3% improvement in the trochanter."
+        }
+    ]
+}

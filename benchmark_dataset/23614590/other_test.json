@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "A diffuse proliferation of monotonous cells consistent with primitive hematopoietic cells; positive for B-cell marker PAX5 and markers of lymphoid blasts (TdT and CD10).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": "Extensive involvement by the same population of lymphoid blasts.",
+            "changes_over_time": "At the end of four weeks of therapy, there were 4% leukemic blasts remaining in the bone marrow."
+        },
+        {
+            "procedure_name": "Flow cytometric analysis",
+            "date": "Not specified",
+            "findings": "Positive for B-cell marker CD19, CD10, TdT; weakly positive for CD45; negative for mature B-cell marker CD20 and primordial stem-cell marker CD34.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "To establish whether central nervous system disease is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Normal results; no hepatomegaly seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse fatty liver and hepatomegaly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Head computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

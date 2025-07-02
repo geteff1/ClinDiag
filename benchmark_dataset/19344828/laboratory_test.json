@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Folate and Cystathionine Serum Analysis",
+            "date": "9 days old",
+            "findings": "Folate: 16.7 nmol/L (decreased), Cystathionine: 0.41 /H9262mol/L (decreased), Methionine: 24.2 /H9262mol/L (increased), Vitamin B12: 322 pmol/L (normal), Fasting total homocysteine (FtHcy): 6.9 /H9262mol/L (normal)",
+            "changes_over_time": "After methionine load test, abnormal elevation of homocysteine occurred (408% increase from baseline)."
+        },
+        {
+            "procedure_name": "DNA Genotyping",
+            "date": "Not specified",
+            "findings": "Two heterozygous mutations were identified: MTHFR C677T and CBS T833C/844ins68.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

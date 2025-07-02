@@ -1,0 +1,85 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "2500 per cubic millimeter",
+                "neutrophils": "62% (1540)",
+                "lymphocytes": "22% (560)",
+                "monocytes": "15% (380)",
+                "basophils": "<1%",
+                "eosinophils": "<1%",
+                "hemoglobin": "11.5 g per deciliter",
+                "platelet_count": "107,000 per cubic millimeter",
+                "reticulocyte_count": "0.3%",
+                "prothrombin_time": "14.2 seconds",
+                "activated_partial_thromboplastin_time": "75.4 seconds",
+                "serum_sodium": "127 mmol per liter",
+                "potassium": "3.9 mmol per liter",
+                "blood_urea_nitrogen": "8.1 mg per deciliter",
+                "creatinine": "1.2 mg per deciliter",
+                "erythrocyte_sedimentation_rate": "88 mm in the first hour",
+                "C_reactive_protein": "0.8 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Test",
+            "date": "Not specified",
+            "findings": {
+                "antinuclear_antibodies": "Positive",
+                "anti_dsDNA_antibodies": "Positive at titer of 1:320",
+                "anti_Sm": "Negative",
+                "anti_Ro": "Negative",
+                "anti_La": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement Levels Test",
+            "date": "Not specified",
+            "findings": {
+                "C3_level": "0.54 g per liter",
+                "C4_level": "0.07 g per liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Ferritin Level",
+            "date": "Not specified",
+            "findings": "105,506 μg per liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting Triglycerides Test",
+            "date": "Not specified",
+            "findings": "494 mg per deciliter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrinogen Level Test",
+            "date": "Not specified",
+            "findings": "0.98 g per liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood and Urine Cultures",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymerase Chain Reaction Assays",
+            "date": "Not specified",
+            "findings": "Negative for multiple viruses",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ophthalmoscopic evaluation",
+            "date": "Not specified",
+            "findings": "HCMV retinitis documented in patient 2.",
+            "changes_over_time": "Second episode of HCMV retinitis associated with high levels of HCMV load in blood followed ganciclovir treatment."
+        },
+        {
+            "procedure_name": "Quantification of HCMV DNA",
+            "date": "Not specified",
+            "findings": "Presence of mutations in UL97 associated with ganciclovir resistance in patient 2.",
+            "changes_over_time": "Presence of multiple ganciclovir-resistant virus variants suggested at second episode."
+        },
+        {
+            "procedure_name": "Monitoring of HCMV infection",
+            "date": "Not specified",
+            "findings": "Emergence of drug-resistant HCMV variants documented.",
+            "changes_over_time": "Identification of mixed peaks in sequencing, indicating multiple drug-resistant HCMV variants over time."
+        }
+    ]
+}

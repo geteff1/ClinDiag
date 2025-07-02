@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "applanation_tonometry": {
+                    "right_eye": "14 mmHg",
+                    "left_eye": "12 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "visual_acuity": {
+                    "right_eye": "20/160",
+                    "left_eye": "20/125"
+                },
+                "pupil_condition": "Mildly eccentric and miosis",
+                "corneal_condition": "Bilateral diffuse corneal haze and thinning, corneal guttae present, advanced steepening of both corneas"
+            },
+            "changes_over_time": "Gradual decrease in visual acuity noted in the left eye over several years"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pachymetry": {
+                    "right_eye": "335 /H9262m",
+                    "left_eye": "330 /H9262m"
+                }
+            },
+            "relevant_findings": {
+                "visual_acuity_testing": {
+                    "potential_acuity_meter": {
+                        "right_eye": "20/60",
+                        "left_eye": "20/30"
+                    }
+                },
+                "motility_examination": "Right exotropia of 60 prism diopters",
+                "slit_lamp_exam": "Normal conjunctival appearance"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "motion": {
+                    "right_eye": "52.75 D",
+                    "left_eye": "57.37 D"
+                },
+                "central_corneal_thickness": {
+                    "right_eye": "335 /H9262m",
+                    "left_eye": "330 /H9262m"
+                }
+            },
+            "relevant_findings": "Bilateral small pupils with focal areas of iris stromal atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": {
+                    "patient_D1": "98 cm",
+                    "patient_D2": "111 cm"
+                },
+                "weight": {
+                    "patient_D1": "18 kg",
+                    "patient_D2": "21 kg"
+                }
+            },
+            "relevant_findings": {
+                "genu_valgum": "Significant",
+                "metaphyseal_widening": "Obvious widening of the metaphyseal areas of the larger long bones",
+                "osteopenia": "Generalized osteopenia",
+                "bowing_of_long_bones": "Symmetric bowing of the long bones mainly affecting lower limbs",
+                "hypotonia": "Patient D1 was hypotonic at birth",
+                "kidney_stones": {
+                    "patient_D1": "Presented with painful gross hematuria and findings compatible with nephrolithiasis at age 7.5 yr",
+                    "patient_D2": "Developed kidney stones at age 7 yr"
+                }
+            },
+            "changes_over_time": {
+                "patient_D1": "Worsening with age, particularly with symptomatic nephrolithiasis",
+                "patient_D2": "Emergence of kidney stones at age 7 yr suggests progression over time"
+            }
+        }
+    ]
+}

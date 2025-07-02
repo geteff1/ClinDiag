@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "85 bpm",
+                "blood_pressure": "140/70 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Normal sinus rhythm with a rate of 55 beats/min; normal QRS duration; normal QT interval.",
+            "changes_over_time": "During surgery, heart rate increased to 150 bpm with decreased blood pressure (<50 mmHg) during ventricular tachycardia (VT)."
+        },
+        {
+            "date": "During surgery",
+            "vital_signs": {
+                "heart_rate": "60 bpm (after VT)",
+                "blood_pressure": "115 mmHg (after treatment for VT)"
+            },
+            "relevant_findings": "ECG showed peaked T-waves and a wide QRS complex, indicating hyperkalemia.",
+            "changes_over_time": "Potassium concentration dropped from 6.8 mM during VT to 5.0 mM at the end of surgery."
+        },
+        {
+            "date": "Postoperative day 1",
+            "vital_signs": {
+                "potassium_concentration": "4.9 mM"
+            },
+            "relevant_findings": "No changes demonstrated compared to preoperative electrocardiography; full recovery observed.",
+            "changes_over_time": "The patient's potassium levels stabilized postoperatively, dropping from problematic levels."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "March 2021",
+            "findings": "Enlarged hilar shadow and widened pulmonary arteries, but no parenchymal lesions were discerned.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "June 2022",
+            "findings": "PASP estimated at 47 mmHg.",
+            "changes_over_time": "PASP decreased from 55 mmHg in March 2021 to 45 mmHg in February 2023."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "February 2023",
+            "findings": "PASP estimated at 45 mmHg.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

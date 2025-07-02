@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/90 mmHg",
+                "pulse": "120 bpm",
+                "respirations": "32 breaths/min",
+                "rectal_temperature": "38.7°C (101.6°F)",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "WBC": "23.9",
+                "bands_percentage": "46%",
+                "platelet_count": "126",
+                "INR": "1.9",
+                "lactic_acid": "10.2",
+                "creatinine": "1.9",
+                "troponin": "12.7",
+                "CT_scan_findings": "2 separate intraparenchymal hemorrhages at the grey white junction in the right frontal lobe and left frontoparietal junction"
+            },
+            "changes_over_time": "On day 2, the patient suffered a large territory ischemic stroke on the opposite side of the catheter insertion."
+        }
+    ]
+}

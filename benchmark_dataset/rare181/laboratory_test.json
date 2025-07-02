@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bloodwork",
+            "date": "Not specified",
+            "findings": "Unremarkable liver/kidney function, electrolytes, cardiomyopathy markers, and urine/stool analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trio whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Sequenced reads were aligned to the human reference genome; candidate variants were verified by Sanger sequencing, and various online analysis tools were used to predict potentially harmful biological variants.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

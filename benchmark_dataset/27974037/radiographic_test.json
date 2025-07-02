@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "An expansile, nonenhancing lesion in the anterior left frontal lobe with T2-weighted hyperintensity, without abnormal enhancement or restricted diffusion.",
+            "changes_over_time": "Evidence of little or no progression consistent with an indolent lesion such as a low-grade primary CNS neoplasm. Gradual development of abnormal, nonenhancing, mildly expansile tissue along the posterior margin of the resection cavity and infiltrating adjacent brain parenchyma was noted over time."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "17 years earlier",
+            "findings": "A corresponding hypodense lesion in the same region of the anterior left frontal lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postoperative MRI",
+            "date": "Not specified",
+            "findings": "Residual T2-weighted hyperintensity along the margin of the resection cavity.",
+            "changes_over_time": "Stable appearance and extent of signal abnormality in adjacent structures after second resection, followed by a decrease in the degree of infiltration and extent of the abnormal tissue after chemotherapy."
+        },
+        {
+            "procedure_name": "Follow-up MRI (after chemotherapy)",
+            "date": "18 months after second resection",
+            "findings": "Decreased abnormal tissue along the posterior margin of the resection cavity and in the left insula and anterior left temporal lobe.",
+            "changes_over_time": "Progressive decrease in abnormal tissue post-chemotherapy."
+        }
+    ]
+}

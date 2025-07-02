@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Shortened PR interval",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Multiple intracardiac masses involving the right ventricle, right atrium, septum, and possibly the left ventricle, consistent with rhabdomyomas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Attenuation of the background amplitude and slowing in the left hemisphere, with focal spikes in the right temporal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "At 4 months of age",
+            "findings": "Enlarged kidneys with multiple simple cysts, larger than normal for the patient’s age.",
+            "changes_over_time": "Repeat renal ultrasonography revealed enlarging, multicystic kidneys at 6 months of age (right kidney, 14.8 cm; left kidney, 15.7 cm)."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "At 4 months of age",
+            "findings": "Multiple subependymal nodules along the lateral ventricular margins and cortical tubers",
+            "changes_over_time": "Serial MRI revealed stable cerebral tubers over time."
+        },
+        {
+            "procedure_name": "MRI of the kidneys",
+            "date": "At 5 years 7 months of age",
+            "findings": "Numerous cysts throughout both kidneys; largest cyst approximately 10.5 cm; a slightly complex cyst in the lower pole of the left kidney had a thin septation.",
+            "changes_over_time": "At 6 years 8 months of age, the complex cyst showed an irregular solid enhancing component and increased in size."
+        },
+        {
+            "procedure_name": "Fine-needle aspirate",
+            "date": "Not specified",
+            "findings": "Diagnosis of renal-cell carcinoma with papillary and oncocytic features.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Core biopsy",
+            "date": "Not specified",
+            "findings": "Diagnosis of renal-cell carcinoma with papillary and oncocytic features.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

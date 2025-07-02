@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "patient_1": {
+                    "sodium": "130 mmol/liter (normal range: 135-145)",
+                    "potassium": "2.1 mmol/liter (normal range: 3.6-4.5)",
+                    "chloride": "81 mmol/liter (normal range: 98-109)"
+                },
+                "patient_2": {
+                    "sodium": "123 mmol/liter (normal range: 135-145)",
+                    "potassium": "1.8 mmol/liter (normal range: 3.6-4.5)",
+                    "chloride": "68 mmol/liter (normal range: 98-109)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Calcium to Creatinine Molar Ratio",
+            "date": "Not specified",
+            "findings": {
+                "patient_1": "0.07 (normal range: 0.2-0.6)",
+                "patient_2": "0.02 (normal range: 0.2-0.6)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic Panel (Including pH and Bicarbonate)",
+            "date": "Not specified",
+            "findings": {
+                "patient_1": {
+                    "pH": "7.51 (normal range: 7.35-7.45)",
+                    "bicarbonate": "32.2 mmol/liter (normal range: 23-27)"
+                },
+                "patient_2": {
+                    "pH": "7.54 (normal range: 7.35-7.45)",
+                    "bicarbonate": "29.6 mmol/liter (normal range: 23-27)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

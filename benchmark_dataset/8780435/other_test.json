@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Clinical Institute Withdrawal Assessment",
+            "date": "Not specified",
+            "findings": "Initial score of 16, dropped to 0 within 72 hours after treatment.",
+            "changes_over_time": "Significant reduction in withdrawal symptoms noted."
+        },
+        {
+            "procedure_name": "Yale-Brown Obsessive Compulsive Scale",
+            "date": "Not specified",
+            "findings": "Total score was 23 at admission; during initial treatment, score averaged 27.",
+            "changes_over_time": "Score improved from 27 to 15 after increasing dose to 300mg/day, indicating a 44% improvement. Time spent on obsessions decreased by 87.5%."
+        },
+        {
+            "procedure_name": "Lithium Serum Level Measurement",
+            "date": "Not specified",
+            "findings": "Admission lithium serum level was 1.36 meq/liter, decreased to 0.41 meq/liter after medication withdrawal.",
+            "changes_over_time": "Delirium symptoms persisted despite decrease in lithium levels, improving as treatment was managed more effectively."
+        }
+    ]
+}

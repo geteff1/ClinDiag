@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cycloplegic refraction",
+            "date": "5 years of age",
+            "findings": "Right eye: -3.50 + 4.50 × 095; Left eye: -3.25 + 3.75 × 080.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intraocular pressure measurement",
+            "date": "5 years of age",
+            "findings": "14 mmHg in the right eye; 15 mmHg in the left eye.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical Coherence Tomography (OCT)",
+            "date": "5 years of age",
+            "findings": "Outer retinal atrophy, disruption of the ellipsoid zone (EZ), yellow drusen-like deposits in the macula, and peripheral retinal pigment epithelial (RPE) changes in both eyes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fundus autofluorescence (FAF)",
+            "date": "5 years of age",
+            "findings": "Staining in areas of atrophy in both eyes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microarray analysis",
+            "date": "Not specified.",
+            "findings": "Likely pathogenic 150 kilobase deletion of chromosome Xq28 containing 6 genes, including FAM58A.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

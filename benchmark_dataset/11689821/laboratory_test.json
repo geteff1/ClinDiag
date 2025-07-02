@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "New Q wave noted on the electrocardiogram after myocardial infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase MB",
+            "date": "Not specified",
+            "findings": "Elevated to 110 IU/L after myocardial infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Postoperative day 7 and day 42",
+            "findings": "Postoperative echocardiogram showed satisfactory LVEF (56%). Readmission echocardiogram showed severe left ventricular dysfunction with LVEF of 35%.",
+            "changes_over_time": "LVEF declined from 56% to 35% over 42 days."
+        },
+        {
+            "procedure_name": "Coronary Angiogram",
+            "date": "Postoperative day 42",
+            "findings": "Both grafts were patent, but new tight stenoses were found upstream and downstream from the LITA-LAD anastomosis and upstream from the RSV-RCA anastomosis; also a 30% stenosis downstream.",
+            "changes_over_time": "New tight stenoses developed 42 days after the initial surgery."
+        }
+    ]
+}

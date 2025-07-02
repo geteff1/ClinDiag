@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight_28_months": {
+                    "weight": "11 kg",
+                    "percentile": "fifth"
+                },
+                "height_28_months": {
+                    "height": "80 cm",
+                    "percentile": "fifth"
+                },
+                "head_circumference_28_months": {
+                    "head_circumference": "50 cm",
+                    "percentile": "75th"
+                },
+                "weight_40_days": {
+                    "weight": "3850 g",
+                    "percentile": "fifth"
+                },
+                "length_40_days": {
+                    "length": "53 cm",
+                    "percentile": "fifth"
+                },
+                "head_circumference_40_days": {
+                    "head_circumference": "37 cm",
+                    "percentile": "10th"
+                },
+                "weight_4_years": {
+                    "weight": "11.2 kg",
+                    "percentile": "Not specified"
+                },
+                "height_4_years": {
+                    "height": "97.5 cm",
+                    "percentile": "Not specified"
+                },
+                "total_calcium_4_years": {
+                    "total_calcium": "11.2 mg/dl",
+                    "reference_range": "8.8–10.5"
+                }
+            },
+            "relevant_findings": {
+                "patient_1": "Progressive bowing of both legs, broad forehead, proptosis, widely spread eyes, high-arched narrow palate, microretrognathia, bilateral bowing of the femur, and waddling gait.",
+                "patient_2": "Severe short stature, bowing of the legs and waddling gait, macrocephaly.",
+                "patient_3": "Hypertelorism, proptosis, high-arched palate, microretrognathia."
+            },
+            "changes_over_time": {
+                "patient_1": "Bowing of the legs worsened over time.",
+                "patient_2": "Developed bowing of the legs and waddling gait by age 2.5 years.",
+                "patient_3": "Bowing of femurs and marked changes in the ends of tubular bones at 40 days."
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cat scratch disease (encephalopathy associated with Bartonella henselae)",
+        "differential_diagnosis": [
+            "HSV encephalitis",
+            "bacterial meningitis",
+            "neurocysticercosis",
+            "eosinophilic meningitis",
+            "primary amebic meningoencephalitis",
+            "West Nile virus encephalitis",
+            "dengue",
+            "tuberculosis",
+            "toxoplasmosis",
+            "autoimmune encephalitis",
+            "para-neoplastic encephalitis",
+            "metabolic disorders including MELAS"
+        ],
+        "diagnostic_reasoning": "The diagnosis was based on the patient's acute encephalopathy following recent exposure to stray kittens, presence of inguinal lymphadenopathy, seizures, and characteristic findings on MRI indicating a localized process in the right hemisphere associated with Bartonella henselae infection. The serological testing confirmed high titers of IgG antibodies against Bartonella henselae, aligning with the clinical findings."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Stage 3 precirrhotic disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychiatric evaluation",
+            "date": "February 2002",
+            "findings": "Psychotic mania characterized by elation, irritability, grandiosity, impulsive generosity, insomnia, hypersexuality, delusions of external control, excessive religiousness",
+            "changes_over_time": "Symptoms evolved to euphoria, impulsive generosity, increased libido, excessive religiousness, thought disorder, grandiose delusions, and delusions of external control."
+        },
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE)",
+            "date": "Not specified",
+            "findings": "Unable to answer questions",
+            "changes_over_time": "A follow-up exam later showed a score of 30/30 indicating return to baseline cognitive function."
+        },
+        {
+            "procedure_name": "Lithium treatment",
+            "date": "Not specified",
+            "findings": "Initial dose of 150 mg twice daily; increased to 300 mg twice daily",
+            "changes_over_time": "Treatment aimed to stabilize the patient post-mania; lithium was eventually discontinued after several months at the patient's request."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "125/80 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Physical examination was unremarkable; body mass index was 22 kg/m².",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two years after the index evaluation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "ECG revealed new development of negative T waves in leads II, III, aVF, V5, and V6; resting echocardiography showed hypokinesia in the inferolateral regions with moderate (grade 2) mitral regurgitation.",
+            "changes_over_time": "New negative T waves developed two years later; resting echocardiography showed changes in hypokinesia in the inferolateral regions."
+        }
+    ]
+}

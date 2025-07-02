@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR test",
+            "date": "Not specified",
+            "findings": "Nonvariola orthopoxvirus detected in vesicular scrapings and viral culture supernatant from the patient’s skin lesions using PCR tests.",
+            "changes_over_time": "Vaccinia virus DNA load showed a decreasing trend from day 7 onward and was undetectable at day 18."
+        },
+        {
+            "procedure_name": "Vaccinia Immune Globulin Intravenous (VIGIV) administration",
+            "date": "Hospital day 6",
+            "findings": "Initial dose of 6000 IU/kg was administered.",
+            "changes_over_time": "Total cumulative dose reached 24,000 IU/kg over the course of treatment."
+        },
+        {
+            "procedure_name": "Cidofovir administration",
+            "date": "Hospital day 8",
+            "findings": "5 mg/kg of cidofovir was administered after deterioration of the patient's condition.",
+            "changes_over_time": "Subsequent doses were not required due to improving clinical condition."
+        },
+        {
+            "procedure_name": "ST-246 administration",
+            "date": "Hospital day 9",
+            "findings": "ST-246, an investigational agent, was administered at a dose of 5 mg/kg.",
+            "changes_over_time": "Treatment was discontinued after 14 days as the patient's clinical situation improved with decreasing viral load."
+        },
+        {
+            "procedure_name": "Complete blood count with differential",
+            "date": "Not specified",
+            "findings": "Hematologic complications including neutropenia, anemia, and thrombocytopenia; all complications resolved.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

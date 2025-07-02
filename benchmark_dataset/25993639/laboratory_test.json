@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Calcium",
+            "date": "Not specified",
+            "findings": "Constantly elevated plasma calcium concentrations.",
+            "changes_over_time": "At various ages, the calcium levels decreased during treatment with cinacalcet but returned to high pretreatment levels after discontinuation."
+        },
+        {
+            "procedure_name": "Parathyroid Hormone (PTH) Measurement",
+            "date": "Not specified",
+            "findings": "PTH levels were in the normal range but were inappropriately high for hypercalcemia.",
+            "changes_over_time": "PTH levels decreased slightly during treatment with cinacalcet."
+        },
+        {
+            "procedure_name": "Urinary Calcium Excretion Measurement",
+            "date": "Not specified",
+            "findings": "Low calcium/creatinine ratio.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum 25-Hydroxyvitamin D (25OHD) Measurement",
+            "date": "Not specified",
+            "findings": "Low levels of 25OHD.",
+            "changes_over_time": "Vitamin D supplementation was started based on low levels, but this had no effect on serum calcium."
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D3 (1,25(OH)2D3) Measurement",
+            "date": "Not specified",
+            "findings": "Normal levels of 1,25(OH)2D3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical Parameters Before Treatment",
+            "date": "Before treatment (various ages)",
+            "findings": "P-Ca 2.99 mmol/L, P-Ca ion 1.39 mmol/L, P-Pi 0.72 mmol/L, P-PTH 386 ng/L, P-ALP 446 U/L.",
+            "changes_over_time": "Biochemical parameters varied with age but showed high calcium and PTH before the initiation of cinacalcet treatment."
+        },
+        {
+            "procedure_name": "Biochemical Parameters During Treatment",
+            "date": "During treatment (various ages)",
+            "findings": "Calcium levels typically decreased with cinacalcet: e.g., at 10 y, 3 mo, P-Ca 2.66 mmol/L, P-PTH 43 ng/L.",
+            "changes_over_time": "The patient's symptoms improved with normalized plasma calcium levels during treatment."
+        },
+        {
+            "procedure_name": "Biochemical Parameters After Treatment",
+            "date": "After treatment (various ages)",
+            "findings": "Returned to levels seen before cinacalcet treatment, e.g., P-Ca 2.87 mmol/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

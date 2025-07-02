@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Changes compatible with EDS Type IV, with findings of fragmented elastic fibers and disarrangement of collagen. The small arteries exhibited disruption of internal elastic membranes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Left carotid artery angiography revealed a dissecting aneurysm with severe stenosis located in the common carotid artery.",
+            "changes_over_time": "Follow-up angiography 1 month after the event revealed aggravation of the dissecting aneurysm, with severe stenosis of the left common carotid artery of more than 90%."
+        },
+        {
+            "procedure_name": "123I-IMP SPECT study",
+            "date": "1 month after event",
+            "findings": "Demonstrated a decrease in cerebral blood flow beyond the infarction, indicating a high risk of reinfarction.",
+            "changes_over_time": "A 123I-IMP SPECT study performed 9 days post-treatment demonstrated an improvement in cerebral blood flow in the left temporal lobe."
+        },
+        {
+            "procedure_name": "Echogram",
+            "date": "3 months after procedure",
+            "findings": "Demonstrated good blood flow with no stenosis of the artery, and the aneurysm had disappeared.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MR angiography",
+            "date": "6 months post-treatment",
+            "findings": "Demonstrated artifacts at the proximal and distal ends of the stent in the left common carotid artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Digital subtraction angiography",
+            "date": "7 months after stent placement",
+            "findings": "Demonstrated good blood flow through the left common carotid artery, with no dissecting aneurysm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

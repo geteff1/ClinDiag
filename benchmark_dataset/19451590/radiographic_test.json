@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, left atrial enlargement, Q waves in V1 and V2, diffuse T-wave abnormalities, QT interval of 508 ms, corrected QT interval of 545 ms.",
+            "changes_over_time": "Normalization of QTc was contemporaneous with administration of lipid emulsion and recovery of normal vital signs."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Apical akinesis with an ejection fraction of 30% to 35%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "30% mid–left anterior descending tubular stenosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "One hour after cardiac arrest",
+            "findings": "Sinus tachycardia at 107 beats/min, QT interval of 288 ms, and corrected QT interval of 385 ms.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

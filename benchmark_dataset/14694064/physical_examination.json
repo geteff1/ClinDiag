@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 10",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Intubated due to respiratory deterioration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "March 14",
+            "vital_signs": "Temperature: 39.1 °C",
+            "relevant_findings": "Chest X-ray showed increased infiltration in the right lower lobe.",
+            "changes_over_time": "Respiratory status deteriorated gradually."
+        },
+        {
+            "date": "March 17",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Intubated due to further respiratory decline.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "March 26",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was extubated; developed severe weakness and numbness in both legs.",
+            "changes_over_time": "Weakness and numbness started to disappear."
+        },
+        {
+            "date": "10 days after extubation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cranial nerves intact; muscle power examination showed weakness in lower limbs: 4/5 hip flexion and extension, 3-4/5 knee extension, 2/5 knee flexion, 1/5 ankle dorsiflexion, 2/5 ankle plantar flexion, and mild weakness in hands. Ankle jerks absent; other tendon reflexes preserved.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Follow-up showed minimal weakness in knee flexion and mild weakness in foot dorsiflexion and plantar flexion. Normal sensations except for mild numbness in right toes.",
+            "changes_over_time": "Significant improvement observed in neurologic status."
+        }
+    ]
+}

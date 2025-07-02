@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "75/40 mmHg",
+                "heart_rate": "Tachycardic",
+                "respiratory_rate": "Shallow respirations",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": [
+                    "Well-developed man in no acute distress",
+                    "Palpable lymphadenopathy in supraclavicular and right inguinal regions",
+                    "Decreased breath sounds over the entire right hemithorax",
+                    "Distended abdomen, nontender and without hepatosplenomegaly",
+                    "Trace edema in both lower extremities"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

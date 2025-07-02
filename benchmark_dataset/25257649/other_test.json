@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Smell Identification Test",
+            "date": "Not specified",
+            "findings": "The patient placed in the first percentile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alcohol Smell Test",
+            "date": "Not specified",
+            "findings": "The patient failed the 12-in alcohol smell test.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anterior Rhinoscopy",
+            "date": "Not specified",
+            "findings": "Revealed septal deviation but no other abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flexible Fiber-Optic Examination",
+            "date": "Not specified",
+            "findings": "No masses, polyps, or cysts, with a minimal adenoid pad.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Absent right olfactory bulb, minimal left olfactory bulb, and blunted olfactory sulci bilaterally.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

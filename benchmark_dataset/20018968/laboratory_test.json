@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2 Days before Admission",
+            "findings": "28.6% (Reference Range: 36.0–46.0)",
+            "changes_over_time": "Increased to 29.0% on Admission, 33.3% on 15th Day, 33.0% on 7th Day, and 33.1% on Admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "2 Days before Admission",
+            "findings": "9.8 g/dL (Reference Range: 12.0–16.0)",
+            "changes_over_time": "Remained the same at 9.8 g/dL on Admission, increased to 11.3 g/dL on 15th Day, decreased to 10.7 g/dL on 7th Day, and decreased further to 10.5 g/dL on Admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 Days before Admission",
+            "findings": "9,900/mm3 (Reference Range: 4,500–11,000)",
+            "changes_over_time": "Increased to 10,100/mm3 on Admission, 15,700/mm3 on 15th Day, 19,300/mm3 on 7th Day, and further increased to 44,700/mm3 on Admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "2 Days before Admission",
+            "findings": "365,000/mm3 (Reference Range: 150,000–400,000)",
+            "changes_over_time": "Decreased to 370,000/mm3 on Admission, 284,000/mm3 on 15th Day, decreased to 209,000/mm3 on 7th Day, and further decreased to 86,000/mm3 on Admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "2 Days before Admission",
+            "findings": "0.80 mg/dL (Reference Range: 0.60–1.50)",
+            "changes_over_time": "Increased to 1.10 mg/dL on Admission, decreased to 0.93 mg/dL on 15th Day, increased to 2.51 mg/dL on 7th Day."
+        },
+        {
+            "procedure_name": "Urea Nitrogen",
+            "date": "2 Days before Admission",
+            "findings": "4 mg/dL (Reference Range: 8–25)",
+            "changes_over_time": "Increased to 38 mg/dL on Admission, 44 mg/dL on 15th Day, and 117 mg/dL on 7th Day."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "2 Days before Admission",
+            "findings": "172 U/L (Reference Range: 9–32)",
+            "changes_over_time": "Decreased to 134 U/L on Admission, increased to 875 U/L on 15th Day, decreased to 257 U/L on 7th Day, and decreased further to 70 U/L on Admission."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "2 Days before Admission",
+            "findings": "290 U/L (Reference Range: 7–30)",
+            "changes_over_time": "Increased to 295 U/L on Admission, further increased to 1275 U/L on 15th Day, decreased to 743 U/L on 7th Day, and decreased further to 108 U/L on Admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "2 Days before Admission",
+            "findings": "120 mg/dL (Reference Range: 70–110)",
+            "changes_over_time": "Increased to 197 mg/dL on Admission."
+        },
+        {
+            "procedure_name": "d-Dimer",
+            "date": "Not specified",
+            "findings": "> 2,797 ng/mL (Reference Range: <500)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Trans thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "LVEF estimated at 40% before procedure, rose to 65-70% after the procedure.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

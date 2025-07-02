@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "103/min",
+                "blood_pressure": "108/68 mm Hg"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "No abnormalities",
+                "rectal_exam": "Melena",
+                "ECG": "Normal sinus rhythm with a heart rate of 102/min"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "12 hours after stabilization",
+            "vital_signs": {
+                "hemoglobin": "100 g/L",
+                "INR": "1.4"
+            },
+            "relevant_findings": "Endoscopy revealed an anterior wall duodenal cap ulcer with a visible vessel.",
+            "changes_over_time": "Initially, hemoglobin was 7.6 g/dL (76 g/L); it increased to 100 g/L after treatment."
+        }
+    ]
+}

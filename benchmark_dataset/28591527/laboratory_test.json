@@ -1,0 +1,69 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Initial Laboratory Studies",
+            "date": "Not specified",
+            "findings": {
+                "calcium (mg/dL)": 5.4,
+                "phosphorus (mg/dL)": 10.6,
+                "other findings": "Normal levels of alanine aminotransferase, aspartate aminotransferase, amylase, and lipase; elevated parathyroid hormone level at 310 pg/mL."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "rhythm": "Normal sinus rhythm",
+                "QT interval": "Mildly prolonged at 471 msec"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Tests During ICU Stay",
+            "date": "1 Hr after Initial Testing",
+            "findings": {
+                "sodium (mmol/L)": 136,
+                "potassium (mmol/L)": 4.0,
+                "chloride (mmol/L)": 94,
+                "carbon dioxide (mmol/L)": 25.9,
+                "anion gap (mmol/L)": 16,
+                "urea nitrogen (mg/dL)": 10,
+                "creatinine (mg/dL)": 0.7,
+                "glucose (mg/dL)": 82,
+                "ionic calcium (mmol/L)": 0.57,
+                "magnesium (mg/dL)": 1.9,
+                "alkaline phosphatase (U/L)": 325,
+                "total bilirubin (mg/dL)": 1.2,
+                "thyrotropin (μU/mL)": 7.69,
+                "free thyroxine (ng/dL)": 1.4
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Tests During ICU Stay",
+            "date": "3 Hr after Initial Testing",
+            "findings": {
+                "sodium (mmol/L)": 139,
+                "potassium (mmol/L)": 3.4,
+                "chloride (mmol/L)": 98,
+                "carbon dioxide (mmol/L)": 24.4,
+                "anion gap (mmol/L)": 17,
+                "urea nitrogen (mg/dL)": 10,
+                "creatinine (mg/dL)": 0.65,
+                "glucose (mg/dL)": 81,
+                "ionic calcium (mmol/L)": "Not specified.",
+                "magnesium (mg/dL)": 1.8
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase Level",
+            "date": "During treatment",
+            "findings": {
+                "alkaline phosphatase (U/L)": "Progressively normalized with therapy."
+            },
+            "changes_over_time": "Initial level was elevated."
+        }
+    ]
+}

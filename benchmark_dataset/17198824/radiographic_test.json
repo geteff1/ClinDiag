@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "February 2004",
+            "findings": "Aortic annulus, sinus portion of the ascending aorta, sinotubular junction, and ascending aorta measured 25, 38, 27, and 30 mm, respectively.",
+            "changes_over_time": "Progressive dilation was observed in the sinus portion and sinotubular junction (44 mm and 29 mm, respectively) by January 2005."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "March 2005",
+            "findings": "Further aortic sinus dilation, from 44 to 48 mm, with moderate aortic valve incompetence.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aortic angiography",
+            "date": "March 2005",
+            "findings": "Confirmed echocardiographic data.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "March 2005",
+            "findings": "Dilation of the aortic sinus tract and aneurysm of the right pulmonary artery; narrowing of the descending aorta.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "One year after surgery (exact date not specified)",
+            "findings": "Aortic valve function is perfect.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler ultrasonography",
+            "date": "March 2005",
+            "findings": "Extreme narrowing and tortuosity of the arteries observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

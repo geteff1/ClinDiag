@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Opacity in the left lung.",
+            "changes_over_time": "Lesion persisted on repeat imaging."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "2.7 x 2.7 x 2-cm solid nodular opacity in the left upper lobe; an ectatic bronchus passing through the superior aspect of the lesion and multiple small vessels coursing through the periphery.",
+            "changes_over_time": "Repeat imaging showed an enlarging mass."
+        },
+        {
+            "procedure_name": "CT",
+            "date": "6-month follow-up",
+            "findings": "No evidence of recurrent tumor.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

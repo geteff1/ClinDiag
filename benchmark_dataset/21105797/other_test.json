@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": "Conductive hearing loss in the left ear, with a speech-reception threshold of 20 dB. Mixed hearing loss in the left ear: purely conductive below 4000 Hz and mostly sensorineural above that frequency.",
+            "changes_over_time": "On follow-up 3 weeks later, speech-reception threshold was in the 35-dB range; other findings were unchanged."
+        },
+        {
+            "procedure_name": "Tympanogram",
+            "date": "Not specified",
+            "findings": "Flat tympanogram indicating decreased mobility of the ear drum, consistent with the presence of fluid in the middle ear.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Myringotomy with tube placement",
+            "date": "Not specified",
+            "findings": "Described as a procedure; specific findings not detailed.",
+            "changes_over_time": "On follow-up 3 weeks later, abundant debris was found and removed from the left ear canal; dried serous material covered the left tympanic membrane."
+        },
+        {
+            "procedure_name": "CT of the temporal bone",
+            "date": "Not specified",
+            "findings": "Hyperdense soft-tissue mass, 3.2 cm by 2.5 cm by 4 cm, against the lateral aspect of the left mastoid bone, narrowing the lumen of the external auditory canal.",
+            "changes_over_time": "One month later, MRI showed the mass had increased in size, now entirely filling and obliterating the lumen."
+        },
+        {
+            "procedure_name": "MRI of the brain and temporal bone",
+            "date": "Not specified",
+            "findings": "Enhancing soft-tissue mass, 4.5 cm by 2.8 cm by 4.5 cm, in the periauricular region, with opacification of the left mastoid air cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy of postauricular mass",
+            "date": "Not specified",
+            "findings": "Cellular neoplasm composed of large dyshesive myeloid cells, confirming diagnosis of myeloid sarcoma.",
+            "changes_over_time": "The mass recurred 3 months later."
+        }
+    ]
+}

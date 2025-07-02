@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "3.44 kg",
+                "length": "53 cm",
+                "head_circumference": "39 cm",
+                "Apgar_score": "9/10/10"
+            },
+            "relevant_findings": {
+                "TSH_initial": "58 mU/liter",
+                "thyroid_gland_enlargement": "6.2 ml"
+            },
+            "changes_over_time": "At 14 days of age, TSH persisted at 151 mU/liter; treatment reduced TSH to 7.0 mU/liter within 1 week. After 1 month of L-T4 withdrawal at 2 years, TSH rose to 5.3 mU/liter while free T4 remained within the reference range."
+        },
+        {
+            "date": "14 days of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "serum_TSH": "151 mU/liter",
+                "total_T4": "5.2 /H9262g/dl"
+            },
+            "changes_over_time": "TSH levels decreased significantly following L-T4 treatment."
+        },
+        {
+            "date": "2 years",
+            "vital_signs": {
+                "serum_TSH": "5.3 mU/liter",
+                "free_T4": "1.4 ng/dl"
+            },
+            "relevant_findings": {
+                "TSH": "5.3 mU/liter",
+                "free_T4": "1.4 ng/dl"
+            },
+            "changes_over_time": "The child's TSH levels were noted to have increased again after L-T4 withdrawal but he remained clinically euthyroid."
+        },
+        {
+            "date": "3, 6, and 12 months (after 2 years of age)",
+            "vital_signs": {
+                "TSH_levels": [
+                    "4.2 mU/liter",
+                    "3.2 mU/liter",
+                    "3.4 mU/liter"
+                ],
+                "free_T4_levels": [
+                    "1.4 ng/dl",
+                    "1.5 ng/dl",
+                    "1.4 ng/dl"
+                ]
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "TSH levels remained stable and within normal limits at each of these follow-up visits."
+        }
+    ]
+}

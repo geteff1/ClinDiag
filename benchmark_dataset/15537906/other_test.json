@@ -1,0 +1,58 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood lactate level measurement",
+            "date": "Not specified",
+            "findings": "Profound metabolic acidosis with blood lactate level of 17.1 mmol per liter (normal <2.1 mmol per liter); lactate:pyruvate ratio of 38 (normal 12 to 18)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Elevation of direct bilirubin observed from day 7, progressing to full liver failure by day 12",
+            "changes_over_time": "Progressed to full liver failure on day 12"
+        },
+        {
+            "procedure_name": "Postmortem examination of liver",
+            "date": "Not specified",
+            "findings": "Cholestasis and extensive necrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological examination of skeletal muscle",
+            "date": "Not specified",
+            "findings": "Normal mitochondrial morphology and no ragged-red fibers identified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oxidative phosphorylation complex activity measurement in fibroblasts",
+            "date": "Not specified",
+            "findings": "Activities of complexes I, III, and IV were 40%, 69%, and 18% of the lowest control value, respectively",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complex I and IV activity measurement in muscle",
+            "date": "Not specified",
+            "findings": "Complex I activity was 52% and complex IV activity was 54% of the lowest control value",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination of the brain",
+            "date": "Not specified",
+            "findings": "Generalized atrophy and a small corpus callosum observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Analysis of mtDNA by Southern blotting",
+            "date": "Not specified",
+            "findings": "No rearrangements or reduction in mtDNA levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulse-labeling of mitochondrial translation products",
+            "date": "Not specified",
+            "findings": "Decreased overall mitochondrial translation to about 20% of controls; for specific complex IV subunits, expression reduced to ~15% of control",
+            "changes_over_time": "With overexpression of EFG1, overall mitochondrial translation improved to about 40% of controls and complex IV activity increased from 20% to 72%."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "No evidence of metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the abdomen and pelvis",
+            "date": "16 months before evaluation",
+            "findings": "Smooth narrowing of a short segment of the distal left ureter at the ureterovesical junction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "10 months before evaluation",
+            "findings": "Circumferential thickening and small irregular filling defects in the midportion of the left ureter, with ureteral dilatation, suggesting the presence of a tumor.",
+            "changes_over_time": "Slight enlargement of the circumferential mass noted three months before evaluation."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Three months before evaluation",
+            "findings": "No evidence of metastases.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "At the time of current evaluation",
+            "findings": "Progressive thickening and enhancement of the left proximal ureter, with intraluminal filling defects extending to the ureteropelvic junction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

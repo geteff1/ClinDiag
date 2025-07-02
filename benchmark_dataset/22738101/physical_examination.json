@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 156/90 mm Hg, Pulse: 70 bpm (irregularly irregular rhythm), Temperature: Not specified, Respiratory rate: Not specified",
+            "relevant_findings": "3+ lower-leg edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 146/80 mm Hg, Pulse: Not specified, Temperature: Not specified, Respiratory rate: Not specified",
+            "relevant_findings": "Slight improvement in dyspnea, weight decreased by 3.6 kg",
+            "changes_over_time": "Improvement in dyspnea"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 141/85 mm Hg, Pulse: 80 bpm (irregular), Temperature: 36.7°C, Respiratory rate: 22 breaths per minute, Oxygen saturation: 98%",
+            "relevant_findings": "Fine crackles at the base of the left lung, papular rash on legs, without pretibial edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 135/85 mm Hg, Pulse: 85 bpm (irregular), Temperature: Not specified, Respiratory rate: Not specified, Oxygen saturation: Not specified",
+            "relevant_findings": "Faint crackles in both lungs, 3+ pitting edema to knees, nonpalpable pink blanching macular rash on both medial malleoli",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 2.7 mg/dl (creatinine level)",
+            "relevant_findings": "Previous year creatinine level was 1.4 mg/dl",
+            "changes_over_time": "Worsening of renal function (creatinine level doubled)"
+        }
+    ]
+}

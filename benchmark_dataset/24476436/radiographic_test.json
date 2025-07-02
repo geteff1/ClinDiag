@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Multiple rounded, hypoechoic areas in the spleen, which was not enlarged; no evidence of cholelithiasis or cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Numerous ill-defined, hypoattenuating lesions, 1 to 2 cm in diameter, in the spleen; bilateral, dependent atelectasis in the lungs; a hypoattenuating lesion in the liver, measuring less than 1 cm in diameter; small, nonspecific retroperitoneal and mesenteric lymph nodes.",
+            "changes_over_time": "The hypoattenuating lesion in the liver was slightly increased in size from a study 8 years earlier."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Ill-defined opacity in the left apex, overlying the end of the first rib, and a rounded opacity in the left hilar region.",
+            "changes_over_time": "A follow-up chest radiograph obtained a year after the initial presentation showed resolution of the opacities in the left upper lobe and persistent mild hilar lymphadenopathy."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "2 days after discharge",
+            "findings": "Mediastinal lymphadenopathy, bilateral hilar lymphadenopathy, enlarged anterior diaphragmatic lymph node (1.2 cm in diameter), clustered nodular opacities within the lung in a perilymphatic distribution, multiple splenic lesions, a hypervascular lesion in the posterior right lobe of the liver, and a hypodense lesion (0.6 cm) in the left lobe of the liver thought to represent a hepatic cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

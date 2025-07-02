@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Twelve-lead ECG",
+            "date": "Not specified",
+            "findings": "Negative delta wave in inferior leads, positive delta wave in precordial leads V1 to V5, QT prolongation (QTm 600 ms, QTc 577 ms)",
+            "changes_over_time": "QT prolongation in ECG after ablation (QTm 640 ms, QTc 604 ms) but no delta wave visible"
+        },
+        {
+            "procedure_name": "Holter monitoring",
+            "date": "Not specified",
+            "findings": "Polymorphic ventricular tachycardia (torsade de pointes) lasting 50 seconds, self-terminating",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

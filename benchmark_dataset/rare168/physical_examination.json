@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100-110/60-70 mmHg",
+                "heart_rate": "110-115 bpm",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "holosystolic_murmur": "4/6 heard loudest at the right left sternal border",
+                "jugular_turgescence": "prominent bilateral",
+                "peripheral_oedema": "moderate lower",
+                "hepatomegaly": "present",
+                "lung_sounds": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 3-month follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiogram": {
+                    "prosthesis": "normal functioning",
+                    "peri-prosthetic_regurgitation": "absence",
+                    "transvalvular_gradients": "similar to those measured post-surgery",
+                    "RV_function": {
+                        "TAPSE": "12 mm",
+                        "fractional_area_change": "35%"
+                    }
+                }
+            },
+            "changes_over_time": "Partial recovery of RV function noted compared to early post-operative evaluation."
+        }
+    ]
+}

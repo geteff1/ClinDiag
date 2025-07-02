@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "0.6 mmol/L (normal range [NR], 3.0–5.4 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "560 nmol/L (NR, 138–635 nmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "125 mmol/L (NR, 134–146 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "4.7 mmol/L (NR, 3.4–5.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose (second measurement)",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L",
+            "changes_over_time": "Increased from 0.6 mmol/L to 1.4 mmol/L"
+        },
+        {
+            "procedure_name": "Cortisol (second measurement)",
+            "date": "Not specified",
+            "findings": "30 nmol/L (low cortisol levels)",
+            "changes_over_time": "Decreased from 560 nmol/L to 30 nmol/L"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "Not specified",
+            "findings": "492 pmol/L (NR, 2.2–13.3 pmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH (second measurement)",
+            "date": "Not specified",
+            "findings": "517 pmol/L (NR, 2.0–10 pmol/L)",
+            "changes_over_time": "Increased from 492 pmol/L to 517 pmol/L"
+        },
+        {
+            "procedure_name": "Short Synacthen test",
+            "date": "8 months of age",
+            "findings": "Peak cortisol level of 130 nmol/L; ACTH at 517 pmol/L (NR, 2.0–10 pmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Sinus bradycardia, with a rate of 41 beats per minute.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "8 days before admission",
+            "findings": "Areas of decreased attenuation in the occipital, posterior temporal, and parietal lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "8 days before admission",
+            "findings": "Bilateral cortical and subcortical areas of hyperintensity in the occipital, posterior temporal, and parietal lobes on T2-weighted images.",
+            "changes_over_time": "Resolution of the abnormalities noted on the previous MRI."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "No new abnormalities.",
+            "changes_over_time": "The adrenal lesions were unchanged."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "7th day of hospitalization",
+            "findings": "Glucose level of 98 mg/dl, protein level of 40 mg/dl, with 1 white cell per high-power field. No cells or organisms were seen on Gram's staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography and nerve-conduction studies",
+            "date": "7th day of hospitalization",
+            "findings": "Changes suggestive of an acute generalized, predominantly motor neuropathy.",
+            "changes_over_time": "Worsening sensorimotor polyneuropathy was noted on the 11th day."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Severe axonal neuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastrocnemius muscle biopsy",
+            "date": "Not specified",
+            "findings": "Mild neurogenic changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeated lumbar puncture",
+            "date": "14th day of hospitalization",
+            "findings": "Glucose level of 117 mg/dl and a protein level of 53 mg/dl; negative for varicella–zoster virus and Epstein–Barr virus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

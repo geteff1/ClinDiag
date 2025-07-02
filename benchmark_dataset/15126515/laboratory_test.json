@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Renin Activity (PRA)",
+            "date": "Not specified",
+            "findings": "Suppressed PRA of 0.26 ng/ml (normal, 0.3–3.0)",
+            "changes_over_time": "Increased from 0.34 to 0.96 ng/ml after dietary salt restriction; increased to 2.30 ng/ml after treatment with spironolactone."
+        },
+        {
+            "procedure_name": "Aldosterone level",
+            "date": "Not specified",
+            "findings": "Undetectable aldosterone (normal, 5–20 µg/d)",
+            "changes_over_time": "Suppressed aldosterone with otherwise normal steroid response during ACTH stimulation test."
+        },
+        {
+            "procedure_name": "Cortisol secretion rate",
+            "date": "Not specified",
+            "findings": "Cortisol secretion rate of 0.43 mg/d (normal, 5–25 mg/d)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary steroid metabolite ratio",
+            "date": "Not specified",
+            "findings": "Elevated tetrahydrocortisol and 5/THF/tetrahydrocortisone ratio of 28 (normal, 0.66–2.44)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bicarbonate level",
+            "date": "Not specified",
+            "findings": "Bicarbonate of 33 mmol/liter (normal, 22–32)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium level",
+            "date": "Not specified",
+            "findings": "Potassium of 2.4 mmol/liter (normal, 3.2–5.2)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

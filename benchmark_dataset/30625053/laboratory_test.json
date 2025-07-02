@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "13 Mo before Current Evaluation",
+            "findings": "Hemoglobin: 16.7 g/dl (Normal: 13.7–17.5), Hematocrit: 49.3% (Normal: 40.1–51.0), White-cell count: 7200 per mm3 (Normal: 4060–9400), Platelet count: 307,000 per mm3 (Normal: 124,000–335,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "1 Mo before Current Evaluation",
+            "findings": "Hemoglobin: 16.6 g/dl (Normal: 13.7–17.5), Hematocrit: 48.7% (Normal: 40.1–51.0), White-cell count: 10,500 per mm3 (Normal: 4060–9400), Platelet count: 338,000 per mm3 (Normal: 124,000–335,000)",
+            "changes_over_time": "White-cell count increased from 7200 to 10,500 per mm3"
+        },
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "13 Mo before Current Evaluation",
+            "findings": "Sodium: 138 mmol/liter (Normal: 135–145), Potassium: 4.5 mmol/liter (Normal: 3.5–5.0), Chloride: 103 mmol/liter (Normal: 100–110), Carbon dioxide: 26 mmol/liter (Normal: 20–30), Urea nitrogen: 12 mg/dl (Normal: 7–25), Creatinine: 1.1 mg/dl (Normal: 0.5–1.5), Glucose: 97 mg/dl (Normal: 65–100), Albumin: 4.9 g/dl (Normal: 3.5–5.0)",
+            "changes_over_time": "Creatinine decreased from 1.1 to 0.9 mg/dl; Urea nitrogen decreased from 12 to 11 mg/dl; Glucose decreased from 97 to 91 mg/dl"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "13 Mo before Current Evaluation",
+            "findings": "Aspartate aminotransferase: 27 U/liter (Normal: 5–34), Alanine aminotransferase: 62 U/liter (Normal: 7–52), Alkaline phosphatase: 57 U/liter (Normal: 40–150)",
+            "changes_over_time": "Alanine aminotransferase decreased from 62 to 21 U/liter"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "1 Mo before Current Evaluation",
+            "findings": "Aspartate aminotransferase: 17 U/liter (Normal: 5–34), Alanine aminotransferase: 21 U/liter (Normal: 7–52), Alkaline phosphatase: 58 U/liter (Normal: 40–150)",
+            "changes_over_time": "Aspartate aminotransferase decreased from 27 to 17 U/liter; Alkaline phosphatase remained stable"
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "1 Mo before Current Evaluation",
+            "findings": "Thyrotropin: 0.91 μIU/ml (Normal: 0.35–5.00)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "1 Mo before Current Evaluation",
+            "findings": "Total cholesterol: 236 mg/dl (Normal: <199), HDL: 36 mg/dl (Normal: >40), LDL: 123 mg/dl (Normal: 0–129), Triglycerides: 386 mg/dl (Normal: <149)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

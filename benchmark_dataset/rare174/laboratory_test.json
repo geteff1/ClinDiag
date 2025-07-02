@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Eosinophilia Test",
+            "date": "Not specified",
+            "findings": "Eosinophilia persisted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein test",
+            "date": "Not specified",
+            "findings": "Elevated C-reactive protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate test",
+            "date": "Not specified",
+            "findings": "Elevated erythrocyte sedimentation rate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complement levels (C3 and C4)",
+            "date": "Not specified",
+            "findings": "Low complement levels C3 and C4.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-C1q antibody test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Positive for leukocytoclastic vasculitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

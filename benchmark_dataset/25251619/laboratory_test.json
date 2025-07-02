@@ -1,0 +1,282 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white-cell count": {
+                    "value": 10300,
+                    "normal_range": "4500–11000"
+                },
+                "neutrophils": {
+                    "percentage": 60.6,
+                    "normal_range": "40–70"
+                },
+                "lymphocytes": {
+                    "percentage": 17.4,
+                    "normal_range": "22–44"
+                },
+                "monocytes": {
+                    "percentage": 10.7,
+                    "normal_range": "4–11"
+                },
+                "eosinophils": {
+                    "percentage": 8.9,
+                    "normal_range": "0–8"
+                },
+                "basophils": {
+                    "percentage": 2.0,
+                    "normal_range": "0–3"
+                }
+            },
+            "changes_over_time": {
+                "white-cell count": [
+                    {
+                        "day": 0,
+                        "value": 10300
+                    },
+                    {
+                        "day": 1,
+                        "value": 8200
+                    },
+                    {
+                        "day": 21,
+                        "value": 7400
+                    },
+                    {
+                        "day": 21,
+                        "value": 7800
+                    }
+                ],
+                "neutrophils": [
+                    {
+                        "day": 0,
+                        "percentage": 60.6
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 52.1
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 53.4
+                    }
+                ],
+                "lymphocytes": [
+                    {
+                        "day": 0,
+                        "percentage": 17.4
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 24.4
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 30.1
+                    }
+                ],
+                "monocytes": [
+                    {
+                        "day": 0,
+                        "percentage": 10.7
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 10.8
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 8.4
+                    }
+                ],
+                "eosinophils": [
+                    {
+                        "day": 0,
+                        "percentage": 8.9
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 10.7
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 6.8
+                    }
+                ],
+                "basophils": [
+                    {
+                        "day": 0,
+                        "percentage": 2.0
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 1.6
+                    },
+                    {
+                        "day": 21,
+                        "percentage": 1.2
+                    }
+                ]
+            }
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "alanine aminotransferase (ALT)": {
+                    "value": 180,
+                    "normal_range": "10–55"
+                },
+                "aspartate aminotransferase (AST)": {
+                    "value": 167,
+                    "normal_range": "10–40"
+                },
+                "alkaline phosphatase": {
+                    "value": 111,
+                    "normal_range": "45–115"
+                },
+                "total bilirubin": {
+                    "value": 1.7,
+                    "normal_range": "0.0–1.0"
+                },
+                "prothrombin time": {
+                    "value": 17.7,
+                    "normal_range": "11.0–14.0"
+                },
+                "international normalized ratio": {
+                    "value": 1.5,
+                    "normal_range": "0.9–1.1"
+                }
+            },
+            "changes_over_time": {
+                "ALT": [
+                    {
+                        "day": 0,
+                        "value": 180
+                    },
+                    {
+                        "day": 1,
+                        "value": 176
+                    },
+                    {
+                        "day": 21,
+                        "value": 131
+                    },
+                    {
+                        "day": 42,
+                        "value": 142
+                    },
+                    {
+                        "day": 44,
+                        "value": 132
+                    }
+                ],
+                "AST": [
+                    {
+                        "day": 0,
+                        "value": 167
+                    },
+                    {
+                        "day": 1,
+                        "value": 172
+                    },
+                    {
+                        "day": 21,
+                        "value": 154
+                    },
+                    {
+                        "day": 42,
+                        "value": 167
+                    },
+                    {
+                        "day": 44,
+                        "value": 143
+                    }
+                ],
+                "alkaline phosphatase": [
+                    {
+                        "day": 0,
+                        "value": 111
+                    },
+                    {
+                        "day": 1,
+                        "value": 102
+                    },
+                    {
+                        "day": 21,
+                        "value": 98
+                    },
+                    {
+                        "day": 42,
+                        "value": 68
+                    },
+                    {
+                        "day": 44,
+                        "value": 114
+                    }
+                ],
+                "total bilirubin": [
+                    {
+                        "day": 0,
+                        "value": 1.7
+                    },
+                    {
+                        "day": 1,
+                        "value": 2.0
+                    },
+                    {
+                        "day": 21,
+                        "value": 1.4
+                    },
+                    {
+                        "day": 42,
+                        "value": 2.8
+                    },
+                    {
+                        "day": 44,
+                        "value": 1.6
+                    }
+                ],
+                "prothrombin time": [
+                    {
+                        "day": 0,
+                        "value": 17.7
+                    },
+                    {
+                        "day": 1,
+                        "value": 16.8
+                    }
+                ],
+                "international normalized ratio": [
+                    {
+                        "day": 0,
+                        "value": 1.5
+                    },
+                    {
+                        "day": 1,
+                        "value": 1.4
+                    }
+                ]
+            }
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "serum proteins": "Normal pattern"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Copper Quantitation",
+            "date": "Not specified",
+            "findings": {
+                "value": 1369,
+                "unit": "μg per gram of dry weight",
+                "normal_range": "10 to 35"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

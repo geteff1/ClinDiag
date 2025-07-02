@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "acromegalic_features": true,
+                "right_upper_limb_hemiparesis": true,
+                "divergent_strabismus": true,
+                "pigmented_eyelid_spots": true,
+                "left_thumb_myxoma": true,
+                "right_wrist_myxoma": true,
+                "goiter": true,
+                "palpable_bilateral_testicular_nodules": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 175 cm; Midparental height: 165.5 cm",
+            "relevant_findings": {
+                "elevated_IGF_1": true,
+                "nonsuppressed_GH": true,
+                "secondary_adrenal_insufficiency": true,
+                "low_morning_ACTH": true,
+                "low_cortisol": true,
+                "low_DHEA_S": true,
+                "primary_hypogonadism": true,
+                "prolactin_within_normal_limits": true,
+                "pituitary_macroadenoma": true,
+                "nodular_goiter_thyroid_volume": "32 mL",
+                "bilateral_testicular_tumors_with_calcifications": true
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "acromegalic_features": true,
+                "goiter": true,
+                "skin_and_mucosal_pigmented_spots": true,
+                "mild_hirsutism": true,
+                "acne": true,
+                "nipple_lesions": true,
+                "hard_palate_myxomas": true,
+                "elevated_IGF_1": true,
+                "nonsuppressed_GH": true,
+                "mildly_elevated_prolactin": true,
+                "pituitary_microadenoma": true,
+                "polycystic_ovaries": true,
+                "nodular_goiter_thyroid_volume": "22 mL",
+                "normal_24_hour_UFC": true,
+                "lack_of_dexamethasone_suppression": true
+            },
+            "changes_over_time": "Following treatment, normalization of GH, prolactin, and IGF-1."
+        }
+    ]
+}

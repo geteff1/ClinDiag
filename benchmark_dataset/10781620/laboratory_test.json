@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool culture",
+            "date": "Not specified",
+            "findings": "Isolate of Salmonella enterica serotype typhimurium, found to be resistant to ampicillin, chloramphenicol, tetracycline, sulfisoxazole, kanamycin, and streptomycin as well as to both broad-spectrum and expanded-spectrum cephalosporins including ceftriaxone and ceftiofur.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antibiotic susceptibility testing",
+            "date": "Not specified",
+            "findings": "The isolate from the child and one cattle isolate both had resistance to ceftriaxone with a minimal inhibitory concentration of greater than 64 µg/mL and to ceftiofur with a minimal inhibitory concentration of greater than 16 µg/mL. The other three cattle isolates were resistant to ampicillin, tetracycline, kanamycin, streptomycin, and sulfisoxazole, but not to ceftriaxone or ceftiofur.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulsed-field gel electrophoresis (PFGE)",
+            "date": "Not specified",
+            "findings": "The isolate from the child was nearly indistinguishable from the cattle isolate 1, with similar restriction-fragment patterns, including a unique band (band I) indicative of ceftriaxone resistance, present only in ceftriaxone-resistant isolates.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

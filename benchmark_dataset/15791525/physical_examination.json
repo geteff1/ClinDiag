@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.2°C",
+                "blood_pressure": "100/50 mm Hg",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "24 breaths/min"
+            },
+            "relevant_findings": [
+                "Icteric sclerae and skin",
+                "Harsh systolic murmur",
+                "Diffuse abdominal tenderness",
+                "Intact peripherally inserted central catheter (PICC)"
+            ],
+            "changes_over_time": "Progression of multiorgan dysfunction reflected by worsening anemia, thrombocytopenia, anuric renal failure, deteriorating hepatic function, and severe metabolic acidosis."
+        }
+    ]
+}

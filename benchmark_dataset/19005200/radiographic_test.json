@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Hyperinflation of the lungs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Minimal atrophic changes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Second hospital day",
+            "findings": "Changes in the medial temporal lobe bilaterally that did not enhance, with no evidence of a mass, infarct, or ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest and abdomen",
+            "date": "Eighth hospital day",
+            "findings": "An anterior mediastinal mass (4.1 cm by 2.0 cm), calcified pleural plaques in the left middle chest, a tiny subpleural nodule in the posterior right middle lung, three hepatic cysts, calcified gallstones, and a round nodule of low density in the right adrenal gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FLAIR MRI of the brain",
+            "date": "Not specified",
+            "findings": "Symmetric hyperintensity involving the medial temporal lobes, left basal forebrain, and bilateral insular regions, more on the left side.",
+            "changes_over_time": "Decreases in signal hyperintensity on FLAIR images and volume loss within the temporal lobes were noted on a subsequent MRI."
+        }
+    ]
+}

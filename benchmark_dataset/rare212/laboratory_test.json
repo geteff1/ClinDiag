@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Variants were called and annotated using the human reference genome (hg19). Pathogenicity of candidate variants was evaluated using Genome Aggregation Database and ClinVar.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Variant validation was performed for the proband and the parents by amplifying the PMM2 region (rs80338708). PCR products were evaluated using a 2% agarose gel electrophoresis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

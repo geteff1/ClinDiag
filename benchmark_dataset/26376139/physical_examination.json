@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 35.9°C, Blood pressure: 117/68 mm Hg, Pulse: 104 bpm, Respiratory rate: 18 breaths per minute",
+            "relevant_findings": "The abdomen was gravid, soft, and nontender, with active fetal movements. Fetal heart-rate tracing was reassuring. No peripheral edema or abdominal tenderness; reflexes were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 Days before Admission",
+            "vital_signs": "Temperature: 38.9°C, Vital signs normal on follow-up examination",
+            "relevant_findings": "Patient had neck and back pain, occipital headache, and vomiting. Back tenderness was noted. Urinalysis was abnormal with yellow, cloudy urine.",
+            "changes_over_time": "Headache improved spontaneously after 3 days."
+        },
+        {
+            "date": "On Admission",
+            "vital_signs": "Capillary glucose: 111 mg per deciliter (6.2 mmol per liter)",
+            "relevant_findings": "MRI of the head showed multiple small hyperintense lesions consistent with infarcts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital Day 3",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Occipital headache rated 9 out of 10; no acute change in vision, but presence of floaters and binocular horizontal diplopia.",
+            "changes_over_time": "The headache resolved by Day 3."
+        },
+        {
+            "date": "Day 5",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Echocardiography showed hyperkinetic left ventricle and aneurysmal right ventricular apex.",
+            "changes_over_time": "New findings compared to previous echocardiogram."
+        }
+    ]
+}

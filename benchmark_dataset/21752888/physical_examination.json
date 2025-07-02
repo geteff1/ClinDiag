@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "116 bpm",
+                "respiratory_rate": "52 rpm",
+                "blood_pressure": "93/55 mm Hg",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Wasted, ill baby with diffusely hyperpigmented skin; no dysmorphic features; normal cardiac, respiratory, and abdominal examinations; normal female external genitalia; swollen left knee held in flexion.",
+                "additional_findings": {
+                    "blood_glucose": "0.8 mmol/liter",
+                    "plasma_sodium": "135 mmol/liter",
+                    "plasma_potassium": "6.1 mmol/liter",
+                    "mixed_hyperbilirubinemia": {
+                        "total": "up to 135 mmol/liter",
+                        "conjugated": "54 mmol/liter"
+                    },
+                    "liver_transaminases": {
+                        "AST": "up to 100 U/liter",
+                        "ALT": "up to 30 U/liter"
+                    }
+                }
+            },
+            "changes_over_time": "Initial hypoglycemia, continued recurrent episodes noted until treatment with hydrocortisone. No further hypoglycemia occurred after starting GH replacement therapy."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "65 mm Hg",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "description": "Marked hypotonia; normal genitalia; low-grade fever; jaundice; cardiac findings consistent with known abnormalities.",
+                "additional_findings": {
+                    "plasma_cortisol": "undetectable",
+                    "plasma_ACTH": "undetectable post glucocorticoid therapy initiation",
+                    "jaundice": {
+                        "total_bilirubin": "up to 115 mmol/liter",
+                        "conjugated": "40 mmol/liter"
+                    },
+                    "liver_transaminases": {
+                        "AST": "20 U/liter",
+                        "ALT": "53 U/liter"
+                    }
+                }
+            },
+            "changes_over_time": "Hypoglycemia recurred after attempts to decrease glucocorticoid dose; significant clinical improvement seen with glucocorticoid therapy initiation."
+        }
+    ]
+}

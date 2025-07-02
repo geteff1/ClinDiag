@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "4-cm osteolytic lesion in the right frontoparietal skull, a hyperdense epidural fluid collection, and a low-density lesion within the right frontal lobe surrounded by vasogenic edema.",
+            "changes_over_time": "Subsequent CT scan obtained 6 months after surgery showed no recurrence of the disease."
+        },
+        {
+            "procedure_name": "MR imaging",
+            "date": "Not specified",
+            "findings": "Right frontal lobe lesion involving the scalp and skull, with intracranial extension.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiography and CT scanning",
+            "date": "Not specified",
+            "findings": "Right lower lobe cavitary lesion with hilar adenopathy.",
+            "changes_over_time": "Serial CT scanning was performed to monitor the status of the lung lesion, which had nearly resolved at 9 months."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "3 days after surgery",
+            "findings": "Complete resection of the lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "6 months after initial surgery",
+            "findings": "Repair of the cranial defect with custom-fabricated implant and no recurrence of contrast-enhancing lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

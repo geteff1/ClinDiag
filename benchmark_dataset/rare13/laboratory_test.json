@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "Nocturnal fasting hypoglycemia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid profile",
+            "date": "Not specified",
+            "findings": "Hyperlipidemia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test (transaminases)",
+            "date": "Not specified",
+            "findings": "Significantly elevated levels of transaminases",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Confirmed hepatomegaly",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

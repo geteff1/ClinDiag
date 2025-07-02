@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prostate-Specific Antigen (PSA)",
+            "date": "5 days after the second cystoscopy, 1 month before this evaluation",
+            "findings": "PSA level was 13.0 ng per milliliter (reference range, ≤4.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Potassium Level",
+            "date": "Not specified",
+            "findings": "3.3 mmol per liter (reference range, 3.4 to 4.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "1.3 mg per deciliter (reference range, 0.6 to 1.5 mg per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urea Nitrogen Level",
+            "date": "Not specified",
+            "findings": "15 mg per deciliter (reference range, 8 to 25 mg per deciliter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated Glomerular Filtration Rate (eGFR)",
+            "date": "Not specified",
+            "findings": "59 ml per minute per 1.73 m² of body-surface area (reference range, ≥60)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat Imaging Studies (PSA)",
+            "date": "24 months after surgery",
+            "findings": "PSA level has remained below 0.1 ng per milliliter",
+            "changes_over_time": "PSA levels have been undetectable since surgery"
+        }
+    ]
+}

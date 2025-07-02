@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "No mutations in the OTC gene; two novel heterozygous mutations c.649G>A (p.Gly217Arg) and c.706A>G (p.Arg236Gly) in the SLC25A15 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytokine production analysis",
+            "date": "Not specified",
+            "findings": "Significantly reduced levels of IFNγ, IL-17A, and TNFα, and higher levels of IL-10 in the patient's PBMC culture supernatants.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometry analysis",
+            "date": "Not specified",
+            "findings": "Normal counts of NK and B cells; significantly higher counts of T cells, mainly due to an increase in the CD4+ T cell subset. Alterations in the distribution of naïve, central memory, effector memory, and terminally differentiated effector memory cells in both CD4+ and CD8+ T cell compartments.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B cell subset analysis",
+            "date": "Not specified",
+            "findings": "Significantly reduced frequencies of plasmablasts, immature and memory B cells, and higher frequencies of mature B cells in the patient compared to controls.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

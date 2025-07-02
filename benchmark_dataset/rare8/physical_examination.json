@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "65 breaths/min",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "head": "No abnormalities",
+                "neck": "No abnormalities",
+                "heart": "No abnormalities",
+                "abdomen": "No abnormalities",
+                "genitalia": "No abnormalities",
+                "skeletal": {
+                    "deformities": [
+                        "Brachycephaly without unusual facies",
+                        "Oligodactyly of the right hand (three fingers)",
+                        "Shorter right lower limb than left due to abnormal tibial angulation with overlying skin dimple",
+                        "Ectrodactyly in the right foot (syndactyly between medial toes)"
+                    ]
+                },
+                "chest": "Bilateral decreased air entry with mild intercostal and subcostal retractions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 3 of life",
+            "vital_signs": {
+                "respiratory_rate": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "apnea": "Repeated apnea attacks mostly due to early onset sepsis"
+            },
+            "changes_over_time": "Condition continued to deteriorate leading to death at seven days of life"
+        }
+    ]
+}

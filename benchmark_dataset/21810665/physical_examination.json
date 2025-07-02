@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 170/106 mm Hg, 147/101 mm Hg; Heart rate: 140-150 bpm",
+            "relevant_findings": "Notable for pedal edema, positive notching sign in uterine Doppler with umbilico-placental resistance above 95th percentile.",
+            "changes_over_time": "On hospital day 4, blood pressure averaged 186/110 mm Hg, urine protein-to-creatinine ratio was 4.5, and sFlt-1 levels were 18,755 pg/mL."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 186/110 mm Hg; Heart rate: 130-160 bpm",
+            "relevant_findings": "Notable for hypertension and edema; 24-hour urine collection revealed 6.4 g of protein.",
+            "changes_over_time": "Blood pressure remained stable with values of 175/100 mm Hg; urine protein-to-creatinine ratio decreased after treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 177/95 mm Hg; Heart rate: 140-160 bpm",
+            "relevant_findings": "Notable for hypertension and pedal edema. Estimated fetal weight was 811 g.",
+            "changes_over_time": "By hospital day 7, sFlt-1 levels and urine protein-to-creatinine ratio climbed."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 140/107 to 182/120 mm Hg; Heart rate: average 130 to 150 bpm",
+            "relevant_findings": "During treatment, fetal heart rate decreased but recovered after normal saline infusion.",
+            "changes_over_time": "No further reductions in blood pressure or fetal heart rate noted after treatment adjustments."
+        }
+    ]
+}

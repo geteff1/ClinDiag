@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "September 1998",
+            "vital_signs": {
+                "intraocular_pressure": "16 mmHg bilaterally"
+            },
+            "relevant_findings": {
+                "visual_acuity": "20/20 bilaterally",
+                "ocular_motility": "full",
+                "pain": "reported on all eye movements",
+                "conjunctival_injection": "marked injection on the nasal side of the left eye",
+                "scleral_edema": "evident after blanching the conjunctival vessels",
+                "additional_findings": "mild thickening of the sclera, episclera, and superior oblique muscle and tendon on the left"
+            },
+            "changes_over_time": "Progressed to worsening pain in the left eye and corneal epithelial defects after several therapies."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "visual_acuity_left_eye": "20/400",
+                "visual_acuity_right_eye": "20/25",
+                "pupil_reactivity": "left pupil 8 mm with minimal response"
+            },
+            "relevant_findings": {
+                "ocular_symptoms": "extreme photophobia",
+                "conjunctival_injection": "2 1 conjunctival injection in the left eye",
+                "scleral_edema": "localized inferotemporal scleral edema",
+                "abrasions": "epithelial abrasions in the lower conjunctival fornix and bulbar conjunctiva"
+            },
+            "changes_over_time": "Improved significantly after discontinuation of topical medications with no further pupillary abnormalities."
+        }
+    ]
+}

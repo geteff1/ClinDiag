@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/94 mmHg",
+                "oxygen_saturation": "94%",
+                "temperature": "36.9°C",
+                "heart_rate": "92 bpm"
+            },
+            "relevant_findings": "Sub-hepatic hematoma on the right hepatic lobe observed on upper abdomen ultrasound.",
+            "changes_over_time": "On the fourth day, laboratory studies showed no anemia and elevated hepatic enzymes. On discharge, the patient's hepatic enzymes were normalizing."
+        }
+    ]
+}

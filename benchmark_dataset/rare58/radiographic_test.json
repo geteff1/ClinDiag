@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Symmetric hyperintense changes visualized in T2-weighted images of the basal ganglia, particularly the putamen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Orbit MRI",
+            "date": "Not specified",
+            "findings": "No evidence of abnormality involving optic nerves or external compressive mass lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatic MRI",
+            "date": "Not specified",
+            "findings": "Liver cirrhosis and splenomegaly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Reduced thickness of the ganglion cell complex (GCC) and retinal nerve fiber layer (RNFL), and significantly damaged papillomacular bundle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

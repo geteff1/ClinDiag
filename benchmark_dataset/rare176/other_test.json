@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound Examination",
+            "date": "22 weeks of gestation",
+            "findings": "Generalized skin edema, bilateral pleural effusions, and peritoneal effusions in the fetus. Normal Doppler, normal placenta, and amniotic fluid without structural anomalies or signs of fetal anemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "Not specified",
+            "findings": "Normal male karyotype and no alterations in the copy number variations (CNVs) test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Revealed two homozygous variants in the GUSB gene and one in the CHD7 gene. Identification of a homozygous missense variant c.1324G > A in exon 8 of the GUSB gene, predicted to be deleterious.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger Sequencing",
+            "date": "Not specified",
+            "findings": "Revealed the presence of the GUSB gene mutation in the previous edema fetus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

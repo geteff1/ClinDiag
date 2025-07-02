@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4 °C",
+                "blood_pressure": "78 mmHg/56 mmHg",
+                "pulse": "132 bpm",
+                "respiratory_rate": "41 breaths per min",
+                "oxygen_saturation": "99% in room air",
+                "weight": "6.68 kg"
+            },
+            "relevant_findings": {
+                "general": "Awakened appropriately for age",
+                "head": "Normocephalic and atraumatic",
+                "fontanelle": "Soft and flat anterior fontanelle",
+                "sclera": "White sclera",
+                "oral_mucosa": "Moist without lesions",
+                "color": "Pink with a 2 s capillary refill time",
+                "cardiac": "Normal rate and rhythm without murmurs, 3+ peripheral pulses",
+                "respiratory": "Clear and equal breath sounds with good air entry",
+                "umbilical_stump": "Intact without redness or drainage",
+                "abdomen": "Mildly distended, slightly tender to palpation, hypoactive bowel sounds, skin without erythema or cellulitis",
+                "female_genitalia": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

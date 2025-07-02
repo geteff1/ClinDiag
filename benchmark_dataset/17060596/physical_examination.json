@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7 to 40.4°C",
+                "blood_pressure": "135 mm Hg systolic",
+                "hemoglobin": "93 g/L",
+                "platelets": "597",
+                "erythrocyte_sedimentation_rate": "135 mm/h",
+                "C-reactive_protein": "142 mg/L",
+                "ferritin": "631 g/L",
+                "alkaline_phosphatase": "256 U/L",
+                "gamma_glutamyl_transferase": "108 U/L"
+            },
+            "relevant_findings": {
+                "cardiopulmonary": "Normal",
+                "abdominal": "Normal",
+                "skin": "Normal",
+                "neurological": "Normal visual acuity, fields, fundoscopy, cranial nerves; however, self-reported weakness with normal testing of bulk, tone, strength, and reflexes",
+                "muscle_atrophy": "Severe atrophy in proximal limbs",
+                "muscle_tone": "Strongly reduced",
+                "deep_tendon_reflexes": "Diminished or absent",
+                "MRI": "Confirmed severe muscular atrophy of musculus quadriceps femoris"
+            },
+            "changes_over_time": "The patient experienced worsening symptoms during hospital admission with fevers and cough, leading to transient vision loss. After initiation of high-dose prednisone, symptoms improved dramatically within 24 hours."
+        }
+    ]
+}

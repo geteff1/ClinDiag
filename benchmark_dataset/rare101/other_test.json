@@ -1,0 +1,45 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Non-specific diffuse abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dialysis",
+            "date": "Not specified",
+            "findings": {
+                "serum urea": "45 mmol/l",
+                "creatinine": "1130 µmol/l",
+                "bicarbonate": "9 mmol/l",
+                "haemoglobin": "6 g/dl"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal studies",
+            "date": "Not specified",
+            "findings": "Normal female 46,XX karyotypes with a large heterochromatic band on chromosome 1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computerised tomography of the head",
+            "date": "At 20 years of age",
+            "findings": "Cerebral and cerebellar atrophy; total absence of the corpus callosum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound and intravenous urography",
+            "date": "Not specified",
+            "findings": "Polycystic kidneys in the patient",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computerised tomography of the mother's head",
+            "date": "Not specified",
+            "findings": "No structural abnormality of the brain",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-hour urine catecholamines",
+            "date": "2010",
+            "findings": {
+                "norepinephrine": "2770 mg/24 h [nl 0 to 140 mg/24 h]",
+                "dopamine": "3083 mg/24 h [nl 65 to 610 mg/24 h]",
+                "epinephrine": "7 mg/24 h [nl 0 to 32 mg/24 h]"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iodine-123-meta-iodobenzylguanidine (123I-MIBG) scan",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Octreoscan (111In pentetreotide)",
+            "date": "Not specified",
+            "findings": "Revealed foci of radiotracer activity within the first lumbar vertebral body and right iliac crest.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for SDHC mutation",
+            "date": "Not specified",
+            "findings": "Positive for a heterozygous SDHC c.43C.T (p.Arg15X) mutation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

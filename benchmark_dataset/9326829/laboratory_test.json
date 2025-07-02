@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MGH Hairpulling Scale",
+            "date": "Not specified",
+            "findings": "Initial score was 18, increased to 22, later decreased to 4, then fluctuated between 6 and 20 over time.",
+            "changes_over_time": "Fluctuated from 18 to 22 during a setback, then decreased to 4 with improvement, but later increased to 20 after episodes of pulling due to boredom."
+        },
+        {
+            "procedure_name": "Beck Depression Inventory",
+            "date": "Not specified",
+            "findings": "Initial score was 13, later decreased to 12 and then 0.",
+            "changes_over_time": "Fluctuated, initially at 13, decreased to 12 on one follow-up, and reported 0 during an improvement period."
+        },
+        {
+            "procedure_name": "Beck Anxiety Inventory",
+            "date": "Not specified",
+            "findings": "Initial score was 16, later decreased to 7 and then 3.",
+            "changes_over_time": "Scores decreased from 16 to 7, and then to 3, indicating improvement."
+        },
+        {
+            "procedure_name": "Paroxetine dosage",
+            "date": "Not specified",
+            "findings": "Started at 20 mg/day, increased to 40 mg/day, then decreased to 20 mg/day, followed by increases to 30 mg/day, 50 mg/day, and finally to 60 mg/day.",
+            "changes_over_time": "Doses adjusted several times based on response and side effects, with primary adjustments occurring in line with symptom severity."
+        },
+        {
+            "procedure_name": "Lorazepam",
+            "date": "Not specified",
+            "findings": "Prescribed 0.5 mg t.i.d. as needed.",
+            "changes_over_time": "Used regularly for increased anxiety when needed."
+        },
+        {
+            "procedure_name": "Haloperidol",
+            "date": "Not specified",
+            "findings": "Initial dose was 0.25 mg/day, increased to 0.5 mg/day.",
+            "changes_over_time": "Dosage adjusted following initial response to help reduce urges significantly after previous treatment attempts."
+        }
+    ]
+}

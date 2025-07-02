@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "49.1% on first admission; 43.1% on day 5; 25.7% on day 24; 35.0% on second admission.",
+            "changes_over_time": "Decreased from 49.1% to 25.7% over five days, then increased to 35.0%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "17.0 g/dl on first admission; 14.9 g/dl on day 5; 8.6 g/dl on day 24; 12.4 g/dl on second admission.",
+            "changes_over_time": "Decreased from 17.0 g/dl to 8.6 g/dl over five days, then increased to 12.4 g/dl."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "8800/mm³ on first admission; 8800/mm³ on day 5; 6100/mm³ on day 24; 5300/mm³ on second admission.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid opening pressure",
+            "date": "Not specified",
+            "findings": ">53 cm on first admission; 29 cm on day 5; Not measured on second admission.",
+            "changes_over_time": "Decreased from >53 cm to 29 cm."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid protein",
+            "date": "Not specified",
+            "findings": "419 mg/dl on first admission; 580 mg/dl on day 5; 870 mg/dl on second admission.",
+            "changes_over_time": "Increased from 419 mg/dl to 870 mg/dl."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid glucose",
+            "date": "Not specified",
+            "findings": "15 mg/dl on first admission; 18 mg/dl on day 5; 41 mg/dl on second admission.",
+            "changes_over_time": "Increased from 15 mg/dl to 41 mg/dl."
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Positive at 1:40 and 1:160 dilutions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis B surface antibody",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG levels",
+            "date": "Not specified",
+            "findings": "53.2 mg/dl on first admission; 86.3 mg/dl on day 5.",
+            "changes_over_time": "Increased from 53.2 mg/dl to 86.3 mg/dl."
+        }
+    ]
+}

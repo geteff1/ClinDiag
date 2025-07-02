@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HCV load",
+            "date": "2006",
+            "findings": "HCV load was 4.7 million IU/mL; transaminase levels were 4 times the upper limit of normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "2006",
+            "findings": "CD4 cell count was 1314/µL.",
+            "changes_over_time": "Maintained normal CD4 counts over time."
+        },
+        {
+            "procedure_name": "HIV RNA levels",
+            "date": "2006",
+            "findings": "HIV RNA levels were less than 50 copies/mL.",
+            "changes_over_time": "Maintained levels of less than 50 copies/mL since 1986."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "June 2007",
+            "findings": "Moderate portal inflammation, moderate piecemeal necrosis, and focal mild perisinusoidal fibrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count, serum chemistry, lipid profile, and C-reactive protein",
+            "date": "2009",
+            "findings": "Results are within the normal ranges.",
+            "changes_over_time": "Results have remained within normal ranges since the last visit."
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "1993, 1998, early 2000s, 2009",
+            "findings": "Normal CD4 cell counts; isolated “blip” of 1787 copies/mL noted in 1998.",
+            "changes_over_time": "Stable CD4 counts, and no significant CD4 cell decline observed."
+        },
+        {
+            "procedure_name": "HIV RNA levels",
+            "date": "1993, 1998, early 2000s, 2009",
+            "findings": "HIV RNA levels suppressed, with an isolated blip of 1787 copies/mL in 1998, otherwise below detection limits.",
+            "changes_over_time": "Stable suppressed HIV RNA levels over time."
+        },
+        {
+            "procedure_name": "Metabolic panel, cholesterol testing",
+            "date": "2009",
+            "findings": "Serum cholesterol level well controlled with atorvastatin.",
+            "changes_over_time": "Euglycemia maintained with pioglitazone; no notable prior levels provided."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "20th day",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "xanthochromia": "None",
+                "total_nucleated_cells": 1,
+                "total_protein_mg_dL": 13,
+                "glucose_mg_dL": 60,
+                "lactate_mmol_L": 2.1
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Slowing of the background rhythm, without evidence of seizure activity during an episode.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": {
+                "description": "Pontomedullary hypoplasia, diminutive corpus callosum, reduced white matter volume, and hyperintense signal abnormality consistent with hypomyelination."
+            },
+            "changes_over_time": "At 18-month follow-up, MRI revealed increased myelination but still had deficiency of the corpus callosum."
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "20th day",
+            "findings": "Cerebrospinal fluid analysis results were consistent with normal parameters.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

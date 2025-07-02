@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Treadmill stress ECG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at baseline with preexcitation in a pattern of a midseptal accessory pathway. During recovery, sinus node rhythm at 114 bpm with prolonged PR interval and right bundle-branch block morphology without preexcitation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrophysiology procedure",
+            "date": "Not specified",
+            "findings": "Ventricular preexcitation at baseline with no inducible arrhythmias. Preserved HV interval during pacing; indicates potentially a fasiculoventricular AP.",
+            "changes_over_time": "No change in the degree of preexcitation despite decremental AV node conduction."
+        },
+        {
+            "procedure_name": "Pacemaker interrogation",
+            "date": "4 months prior to last interrogation",
+            "findings": "Increased threshold of RV lead from 0.75 V to 2.0 V.",
+            "changes_over_time": "Indicated symptoms of presyncope which led to reprogramming of the pacemaker output to 4.0 V."
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Significant variability of myofiber size with disturbed intermyofibrillar network; presence of internal nuclei and eosinophilic material; no active inflammatory changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sleep study",
+            "date": "Not specified",
+            "findings": "Evidence of restrictive lung disease with diaphragm dysfunction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mm Hg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "dry_eyes": true,
+                "dry_oral_mucosa": true,
+                "overweight": false,
+                "abdominal_examination": "normal",
+                "neurological_system": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "148/75 mm Hg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "37.4 °C (99.4 °F)",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "dry_eyes": true,
+                "dry_oral_mucosa": true,
+                "new_rash": "erythematous, nonblanching, palpable papules on thighs, trunk, upper arms",
+                "abdominal_examination": "soft and nontender",
+                "rectal_examination": "visible hemorrhoid"
+            },
+            "changes_over_time": "Increased dyspnea and fatigue, new rash, worsening arthralgias, darkening of urine"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Opacity abutting the lower right border of the heart.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Cystic opacity in the major fissure, apparently attached to the pericardium; 1-cm nodule detected in the right lower lobe.",
+            "changes_over_time": "Increased size of cyst and new moderate-sized right-sided pleural effusion two months later."
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Moderate-sized right-sided pleural effusion and increase in the size of the cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

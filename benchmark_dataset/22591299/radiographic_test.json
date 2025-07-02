@@ -1,0 +1,76 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Hydrocephalus, without a midline shift or mass.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the brain after the administration of contrast material",
+            "date": "Not specified",
+            "findings": "Bilateral enlargement of the lateral, third, and fourth ventricles and effacement of the sulci.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI after the administration of gadolinium",
+            "date": "Not specified",
+            "findings": "Moderate, diffuse ventricular enlargement with an abnormally bright T2-weighted signal surrounding the ependymal surfaces; a thin-walled cystic structure, 1.8 cm in diameter, in the fourth ventricle; a nonenhancing isointense nodule, 3 mm in diameter, in the lateral aspect of the cystic structure; and enlargement of the optic-nerve sheaths.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the cervical, thoracic, and lumbar spine",
+            "date": "Not specified",
+            "findings": "A nonenhancing cystic structure, 11 mm by 4 mm, in the left lateral aspect of the spinal canal adjacent to the T7 vertebral body.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the head (next admission)",
+            "date": "Not specified",
+            "findings": "Unchanged from previous studies.",
+            "changes_over_time": "Slightly larger ventricles than were seen in studies obtained 2 years earlier."
+        },
+        {
+            "procedure_name": "MRI of the brain (next admission)",
+            "date": "Not specified",
+            "findings": "Intracranial pseudomeningocele at the craniotomy site; a round-to-oval cystic lesion, 2 cm in diameter, at the base of the resection cavity.",
+            "changes_over_time": "Enlargement of the resection cavity."
+        },
+        {
+            "procedure_name": "MRI of the spine (next admission)",
+            "date": "Not specified",
+            "findings": "Multiple extra-medullary, intradural cysts, with enhancing fine septations, posterior to the cord in the upper cervical and lumbar spine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain (routine follow-up 7 years later)",
+            "date": "Not specified",
+            "findings": "Prominent synechiae along both cerebellopontine angles, with new enhancement on the left side.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T2-weighted MRI scan of the cervical spine (second admission)",
+            "date": "Not specified",
+            "findings": "Cyst in the basal cistern ventral to the medulla with slight mass effect on that structure.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine (second admission)",
+            "date": "Not specified",
+            "findings": "Cysts, thickening and adhesions of the nerve roots, and hypointense filamentous structures suggestive of fibrotic strands.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AXIAL fluid-attenuated inversion recovery (T2-weighted, postcontrast T1-weighted images)",
+            "date": "Not specified",
+            "findings": "Filamentous, enhancing structures extending from the left ventral pons to the skull base.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI after treatment course of albendazole and prednisone",
+            "date": "Approximately 10 years after presentation",
+            "findings": "Resolution of symptoms and improvement of findings.",
+            "changes_over_time": "Stable imaging studies."
+        }
+    ]
+}

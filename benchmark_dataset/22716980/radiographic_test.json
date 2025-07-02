@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Bilateral diffuse reticular and granular opacities, normal lung volumes.",
+            "changes_over_time": "On the second day, mild increase in lung volumes, reticular and granular opacities persisted. On the third day, changes consistent with pulmonary edema and increased cardiac silhouette; atelectasis seen on follow-up X-rays. On the fifth day after extubation, new hazy opacity in the right perihilar region. On the sixth day, increased opacification of lungs; bilateral pleural effusions observed 16 hours later. Overall, progressive worsening of atelectasis and pulmonary edema."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "3rd Day of Life",
+            "findings": "Normal segmental anatomy, preserved biventricular systolic function (LVEF 69%), patent foramen ovale and ductus arteriosus with left-to-right shunting.",
+            "changes_over_time": "On the sixth day, concentric biventricular hypertrophy noted, with preserved biventricular function (LVEF 61%), small pericardial effusion, and no shunting across the ductus arteriosus."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealed an exophytic mass 15 cm from the anal verge, a polyp (0.6 cm) in the descending colon, and a second polyp (1.25 cm) in the distal rectal vault.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Moderately differentiated adenocarcinoma arising in a villous adenoma with high-grade dysplasia; the polyps were tubular adenomas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digital Rectal Examination",
+            "date": "7 days before evaluation",
+            "findings": "Palpated a mass 7 cm from the anus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transrectal Ultrasonography",
+            "date": "Not specified",
+            "findings": "Apparent invasion through the muscularis propria into the perirectal fat; several malignant-appearing lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration and Core Biopsy",
+            "date": "Not specified",
+            "findings": "Reactive lymphoid tissue with no cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat Endoscopy",
+            "date": "Not specified",
+            "findings": "Resolution of the mucosal mass.",
+            "changes_over_time": "Ink injected into an area of scarring to mark the site of the tumor."
+        },
+        {
+            "procedure_name": "Microsatellite Instability Testing",
+            "date": "Not specified",
+            "findings": "50% of the assessed markers showed instability, indicative of a mismatch-repair defect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical Analysis",
+            "date": "Not specified",
+            "findings": "Isolated loss of nuclear staining for MSH6, indicating a germline mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Showed a rectal mass causing abrupt narrowing of the rectal lumen, with several lymph nodes identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "Showed soft-tissue thickening in the rectum with associated 18F-FDG uptake, several inguinal nodes, and no significant uptake in perirectal nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Showed a rectosigmoid tumor, with extension beyond the muscularis propria and multiple perirectal and perisigmoid lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

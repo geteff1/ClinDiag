@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mmHg",
+                "heart_rate": "55 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "initial_exam": "Severe closed head injury with Glasgow Coma Scale score of 3",
+                "pvc": "No PVCs detected",
+                "condition": "Patient required tracheal intubation and mechanical ventilation"
+            },
+            "changes_over_time": "Intracranial pressure progressively increased to 25 mmHg despite treatment"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Severe brain injury with extradural hematoma, facial trauma, and fractures",
+                "cardiac_monitoring": "Electrocardiographic monitoring showed sinus rhythm with rare PVC",
+                "arrhythmias": "Frequent PVCs (5-25 per minute) during hospital course"
+            },
+            "changes_over_time": "Prolonged periods of ventricular bigeminy and short periods of VT observed during 8 days"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "neurologic_status": "Deterioration noted",
+                "arrhythmias": "Noted but hemodynamically well-tolerated"
+            },
+            "changes_over_time": "None specified"
+        }
+    ]
+}

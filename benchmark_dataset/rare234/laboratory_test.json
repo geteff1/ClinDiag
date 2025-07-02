@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Full blood count",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "7.5 g/dL (microcytic anemia)",
+                "mean corpuscular volume": "78.6 fL",
+                "platelets": "307×10^9/L",
+                "white blood cell count": {
+                    "neutrophil_count": "880/mm3 (neutropenia)",
+                    "lymphocyte_count": "140/mm3 (lymphopenia)"
+                },
+                "C-reactive protein": "268 mg/L (elevated)",
+                "serum creatinine": "Normal",
+                "liver enzymes": "Within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow examination",
+            "date": "Not specified",
+            "findings": {
+                "hemophagocytosis": "Present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Additional laboratory tests",
+            "date": "Not specified",
+            "findings": {
+                "ferritin": "11,000 ng/mL (high)",
+                "triglycerides": "0.013 mmol/L (elevated)",
+                "fibrinogen": "1.0 g/L (low)",
+                "lactate dehydrogenase": "989 U/L (elevated)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Punch biopsy",
+            "date": "Not specified",
+            "findings": {
+                "epidermis": "Atrophic",
+                "dermis": "Lobular necrosis",
+                "lymphocytic infiltrate": "Atypical lymphocytic infiltrate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

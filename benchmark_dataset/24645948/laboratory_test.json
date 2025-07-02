@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Red-cell distribution width of 18.1% (reference range, 11.5 to 14.5); otherwise normal. Peripheral-blood smear revealed 2+ anisocytosis and hypochromasia. White-cell differential count, erythrocyte sedimentation rate, coagulation tests, and liver function tests were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ blood and trace protein by dipstick, 0 to 2 red cells and few bacteria per high-power field; otherwise normal. Urine pregnancy testing was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Heart Catheterization",
+            "date": "Third hospital day",
+            "findings": "Right atrial pressure 18 mm Hg (normal range 1-6), pulmonary-artery pressure 74/33 mm Hg (mean, 52; normal range 15-25/4-12), pulmonary-capillary wedge pressure 5 mm Hg (normal range 4-12), mixed venous oxygen saturation 32%, cardiac output 2.93 liters/min (normal range 4-6), pulmonary vascular resistance 1283 dyn·sec·cm−5 (normal range <240).",
+            "changes_over_time": "Diagnostic results indicated progresses to severe pulmonary hypertension, right atrial pressure was notably elevated indicating right ventricular failure."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild-to-moderate pericardial effusion and thickening of the left ventricular walls suggestive of concentric left ventricular hypertrophy. Left ventricular function was within normal range. Color Doppler showed mild tricuspid-valve regurgitation and a right ventricular systolic pressure estimate of 91 mm Hg.",
+            "changes_over_time": "Repeat echocardiogram post-treatment showed a normal pulmonary artery and right ventricle."
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Test",
+            "date": "Not specified",
+            "findings": "Positive at >1:5120 dilution, speckled nuclear pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "14.0 mg/liter (reference range <8.0, negative for inflammation).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement Levels",
+            "date": "Not specified",
+            "findings": "C3: 45 mg/dl (reference range 86–184), C4: 5 mg/dl (reference range 16–38).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type Natriuretic Peptide (BNP)",
+            "date": "Not specified",
+            "findings": "2509 pg/ml (reference range 0–450 for age <50 yr).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Panel of Autoantibodies",
+            "date": "Not specified",
+            "findings": "Very high anti–U1-ribonucleoprotein antibody titer.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

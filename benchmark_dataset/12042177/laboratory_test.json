@@ -1,0 +1,100 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood chemistry",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver panel",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lithium serum level",
+            "date": "After second hospitalization (not specific)",
+            "findings": "0.8 meq/liter",
+            "changes_over_time": "After treatment, improved to 1.0–1.2 meq/liter over several weeks"
+        },
+        {
+            "procedure_name": "Carbamazepine serum level",
+            "date": "Not specified (after addition of treatment)",
+            "findings": "10 µg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbamazepine serum level",
+            "date": "At discharge after third hospitalization",
+            "findings": "10 µg/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Children's Depression Inventory",
+            "date": "First hospitalization",
+            "findings": "T score 95 (Clinically significant for depression)",
+            "changes_over_time": "Improved to score of 14 after treatment"
+        },
+        {
+            "procedure_name": "Children's Global Assessment Scale (GAS)",
+            "date": "First hospitalization",
+            "findings": "31",
+            "changes_over_time": "Improved to 50 at discharge"
+        },
+        {
+            "procedure_name": "Children's GAS",
+            "date": "After first hospitalization",
+            "findings": "55",
+            "changes_over_time": "Deteriorated to 20 during second hospitalization"
+        },
+        {
+            "procedure_name": "Young Mania Rating Scale",
+            "date": "Second hospitalization",
+            "findings": "36 (suggestive of mania)",
+            "changes_over_time": "Improved to score of 15 at discharge"
+        },
+        {
+            "procedure_name": "ADHD Rating Scale",
+            "date": "Before methylphenidate treatment (after first hospitalization)",
+            "findings": "36",
+            "changes_over_time": "Improved to 19 one week after starting treatment"
+        },
+        {
+            "procedure_name": "ADHD Rating Scale",
+            "date": "After second hospitalization",
+            "findings": "42",
+            "changes_over_time": "Improved to score of 25 at discharge after third hospitalization"
+        }
+    ]
+}

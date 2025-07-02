@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, ST-segment elevations of 1 to 4 mm in leads V1 through V6, hyperacute T waves in leads V4, V5, and V6, and ST-segment depressions of 1 to 1.5 mm in the inferior leads.",
+            "changes_over_time": "The ST-segment changes seen on the ECG resolved completely between episodes."
+        },
+        {
+            "procedure_name": "Troponin I Test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer level test",
+            "date": "Not specified",
+            "findings": "1166 ng per milliliter (reference range, <500).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Amylase level test",
+            "date": "Not specified",
+            "findings": "134 U per liter (reference range, 3 to 100).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac angiography",
+            "date": "Approximately 9 p.m.",
+            "findings": "35-mm-long segment of severe narrowing (90% stenosis) in the middle of the left anterior descending coronary artery, consistent with intramural hematoma, with distal haziness consistent with a dissection site, and minimal vascular disease in other coronary arteries.",
+            "changes_over_time": "Follow-up angiogram after 48 hours showed improved blood flow (TIMI grade 3), a shorter segment of stenosis (approximately 25 mm), and resolution of the distal dissection flap."
+        },
+        {
+            "procedure_name": "Follow-up coronary angiogram",
+            "date": "3 months post initial presentation",
+            "findings": "Nearly complete resolution of the dissection and normal left ventricular function.",
+            "changes_over_time": "Significant improvement from the initial angiogram."
+        }
+    ]
+}

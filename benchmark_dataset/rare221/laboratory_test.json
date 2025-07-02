@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Demonstrated a slow and irregular rhythm of background and epileptic discharges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Showed mild brain atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Revealed that the T2 signal of the bilateral posterior horn of the lateral ventricle was slightly extended.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Two novel variants, c.544_545del and c.230-3C>G, in TPP1 were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the variants found in WES; c.544_545del variant was inherited from the father, and c.230-3C>G variant was inherited from the mother.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Splicing Reporter Minigene assay",
+            "date": "Not specified",
+            "findings": "Showed that the length of the PCR product was shortened in the MT construct. Sequencing confirmed the absence of the sequence of exon 4 of 151 nt in length in the MT construct.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

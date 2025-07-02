@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Electrolytes and Calcium",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tests of Renal Function",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testing for Influenza, Parainfluenza, Adenovirus, and Respiratory Syncytial Virus",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Positive for influenza A virus antigen (H1N1 presumed) at 7.5 months; Positive for respiratory syncytial virus at 9 months."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Initial admission (5.5 months of age)",
+            "findings": "Mildly increased lung volumes, bilateral perihilar interstitial opacities, peribronchial cuffing.",
+            "changes_over_time": "Hyperinflated lungs, with peribronchial thickening noted at subsequent admission (11 days later)."
+        },
+        {
+            "procedure_name": "Chest CT Scan",
+            "date": "9 months of age",
+            "findings": "Bilateral, symmetric paramedias -ntal ground-glass opacities, with scattered regions of air trapping, areas of atelectasis in dependent portions of the lungs, and a few small parenchymal nodules.",
+            "changes_over_time": "Chest radiographs taken 2 weeks later showed hyperinflated lungs and increasing perihilar patchy opacities in the right lung."
+        }
+    ]
+}

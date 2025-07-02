@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "GSR": "73 mm/h",
+                "CRP": "39.9 g/dL",
+                "Brucella_titer": "1:320 (agglutination), 1:640 (Coombs)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "GSR": "73 mm/h",
+                "CRP": "<0.5 g/dL",
+                "Brucella_titer": "1:1280 (agglutination)",
+                "glucose_level": "13 mg/dL",
+                "synovial_fluid": "50 cells/mm3 (80% polymorphonuclear)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1 year later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "painful_lump": "Present on the prosthetic knee",
+                "no_general_fever": "Present"
+            },
+            "changes_over_time": "Presence of painful lump noted on prosthetic knee, indicating possible regression"
+        },
+        {
+            "date": "2 years later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "asymptomatic": "Patient reported being asymptomatic",
+                "prosthetic_function": "Good"
+            },
+            "changes_over_time": "Improvement noted; patient asymptomatic and good prosthetic function reported"
+        }
+    ]
+}

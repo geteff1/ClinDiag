@@ -1,0 +1,67 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "One year before admission",
+            "findings": "3+ proteinuria",
+            "changes_over_time": "Increased from 1+ one year earlier to 3+ the following year."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Two weeks before admission",
+            "findings": "3+ protein, 0 to 2 red blood cells, and 0 to 2 white blood cells per high-power field; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "Two months before admission",
+            "findings": "4311 mg of protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "Three months before admission",
+            "findings": "Moderate lambda Bence Jones protein, large amount of albumin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Admission",
+            "findings": "Within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory data",
+            "date": "Admission",
+            "findings": {
+                "Glucose (mg/dL)": 119,
+                "Sodium (mmol/L)": 130,
+                "Potassium (mmol/L)": 3.8,
+                "Chloride (mmol/L)": 93,
+                "Carbon dioxide (mmol/L)": 32,
+                "Urea nitrogen (mg/dL)": 29,
+                "Creatinine (mg/dL)": 0.9,
+                "Calcium (mg/dL)": 8.4,
+                "Phosphorus (mg/dL)": 3.5,
+                "Magnesium (mEq/L)": 1.8,
+                "Protein (g/dL)": 6.8,
+                "Albumin (g/dL)": 3.0,
+                "Globulin (g/dL)": 4.3,
+                "Bilirubin (mg/dL)": {
+                    "Direct": 0.2,
+                    "Total": 0.5
+                },
+                "Creatine kinase isoenzymes (µg/L)": 6.7,
+                "Troponin I (µg/L)": 0.05,
+                "Alkaline phosphatase (U/L)": 455,
+                "Aspartate aminotransferase (U/L)": 63,
+                "Alanine aminotransferase (U/L)": 47,
+                "Uric acid (mg/dL)": 6.9,
+                "Total urinary protein (mg/24 hr)": 5180,
+                "Urinary creatinine (mg/24 hr)": 1050,
+                "24-hr urine volume (ml)": 1000
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified.",
+            "findings": "0.06 IU/ml (normal, 0.27–4.2)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "free T4",
+            "date": "Not specified.",
+            "findings": "2.25 ng/dl (normal, 1.01–1.79)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "T3",
+            "date": "Not specified.",
+            "findings": "4.67 nmol/liter (normal, 1.3–3.10)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "thyroid-stimulating Ig",
+            "date": "Not specified.",
+            "findings": "187% (normal, ≤113)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH-binding inhibitor Ig",
+            "date": "Not specified.",
+            "findings": "48.3% (normal, ≤13)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MPO-ANCA",
+            "date": "Not specified.",
+            "findings": "273 EU/ml (normal range, <120 EU/ml)",
+            "changes_over_time": "Positive, indicating MMI-induced vasculitis."
+        },
+        {
+            "procedure_name": "radioiodine uptake",
+            "date": "Not specified.",
+            "findings": "63.4% (normal, 5–15%)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

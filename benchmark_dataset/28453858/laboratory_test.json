@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Heterozygous missense mutations in two genes (PROKR2 c.253C.T; p.R85C and WDR11 c.1306A.G; p.I436V).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cortisol Level",
+            "date": "Not specified",
+            "findings": "Low serum cortisol levels of approximately 1 to 2 mg/dL.",
+            "changes_over_time": "Hydrocortisone replacement was begun at 6 weeks of life."
+        },
+        {
+            "procedure_name": "Growth Hormone Level",
+            "date": "Not specified",
+            "findings": "Very low random growth hormone level of 0.93 ng/mL, low insulin-like growth factor-1 level of 27 ng/mL, low insulin-like growth factor-binding protein 3 level of 0.6 mg/L.",
+            "changes_over_time": "Height was below the first percentile at age 2 years; improved after starting recombinant human growth hormone therapy, increasing to the 38th percentile after approximately 15 months."
+        }
+    ]
+}

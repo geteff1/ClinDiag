@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "9.36 mg/dL (reference range: 8.5-10.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ionic Calcium",
+            "date": "Not specified",
+            "findings": "5.1 mg/dL (reference range: 4.6-5.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphorus",
+            "date": "Not specified",
+            "findings": "1.0 mg/dL (reference range: 2.5-4.5 mg/dL)",
+            "changes_over_time": "Levels fluctuated over time: 1.0 mg/dL (18 yr earlier), 2.5 mg/dL (16 yr earlier), 3.6 mg/dL (13 yr earlier), 1.6 mg/dL (9 yr earlier), 1.7 mg/dL (6 yr earlier), 1.8 mg/dL (presented while receiving treatment)"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "318-391 U/liter (reference range: 45-115 U/liter)",
+            "changes_over_time": "Fluctuations noted: 318-391 U/liter (18 yr before), 256 U/liter (16 yr before), 129 U/liter (13 yr before), 108 U/liter (9 yr before), 102 U/liter (6 yr before), not specified (presented while receiving treatment)"
+        },
+        {
+            "procedure_name": "Bone-specific Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "36.9 μg/liter (reference range: <70 μg/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parathyroid Hormone",
+            "date": "Not specified",
+            "findings": "34 pg/ml (reference range: 10-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "9 ng/ml (reference range: 33-100 ng/ml)",
+            "changes_over_time": "Fluctuated: 9 ng/ml (14 yr earlier), 55 ng/ml (13 yr earlier), 39 ng/ml (on presentation)"
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "29 pg/ml (reference range: 18-64 pg/ml)",
+            "changes_over_time": "Fluctuations noted: 29 pg/ml (14 yr earlier, repeated), 31 pg/ml (on presentation)"
+        },
+        {
+            "procedure_name": "Fibroblast Growth Factor 23 (C-terminal)",
+            "date": "Not specified",
+            "findings": "91 RU/ml (reference range: ≤180 RU/ml) at 18 yr earlier; 870 RU/ml at presentation.",
+            "changes_over_time": "Increased from 70 RU/ml (5 yr before presentation) to >800 RU/ml at presentation."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.20 mg/dL (reference range: 0.60-1.50 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Calcium",
+            "date": "Not specified",
+            "findings": "149 mg/24 hr (reference range: 2.0-2.6 mmol/24 hr)",
+            "changes_over_time": "Increased: 149 mg/24 hr (9 yr earlier), 289 mg/24 hr (6 yr earlier)"
+        },
+        {
+            "procedure_name": "Urine Phosphorus",
+            "date": "Not specified",
+            "findings": "86 mg/24 hr (reference range: 20-370 mg/24 hr)",
+            "changes_over_time": "Fluctuations noted: 86 mg/24 hr (9 yr earlier), 112.8 mg/24 hr (6 yr earlier)"
+        }
+    ]
+}

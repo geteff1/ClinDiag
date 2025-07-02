@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "128/76 mm Hg",
+                "pulse": "80 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "oral": "Blood slowly oozing from the vicinity of the lower-right second molar, no visible mucosal laceration",
+                "conjunctival": "Mild pallor noted, no scleral icterus",
+                "lymphatic": "No lymphadenopathy",
+                "lung": "Clear on auscultation and percussion",
+                "cardiac": "Mild lateral apical displacement, regular heart rate and rhythm, no murmur, rub, or gallop",
+                "abdominal": "Soft, not tender, normal bowel sounds, no hepatosplenomegaly or masses",
+                "rectal": "No masses, scant amount of brown stool negative for occult blood",
+                "extremities": "Warm, brisk capillary refill, no clubbing, cyanosis, or edema",
+                "skin": "No rashes, petechiae, ecchymoses, or telangiectasias",
+                "neurological": "Normal cranial nerves, muscle strength, sensation, deep-tendon reflexes, coordination, and gait"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

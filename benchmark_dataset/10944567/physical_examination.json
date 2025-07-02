@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "pulse": "82 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "blood_pressure": "120/80 mm Hg",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Comfortable during bed rest; can finish a sentence with a single breath.",
+                "lung_examination": "Clear lungs.",
+                "cardiac_exam": "Right ventricular heave palpated; loud P2 detected; grade 2 systolic ejection murmur present along the upper sternal border.",
+                "cyanosis": "No cyanosis, digital clubbing, or evidence of deep venous thrombosis."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

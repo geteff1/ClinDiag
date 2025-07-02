@@ -1,0 +1,82 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "blood_pressure": "110/70 mm Hg",
+                "pulse": "80 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "skin": "jaundiced and excoriated, spider angiomas on the chest, tattoos covering most skin",
+                "upper_body": "prominent wasting and mild gynecomastia",
+                "sclerae": "icteric",
+                "jugular_veins": "distended to approximately 8 cm",
+                "heart_rhythm": "regular with holosystolic murmur, grade 1/6",
+                "abdomen": "soft, nontender, distended with fluid wave, spleen tip palpable",
+                "neurologic": "asterixis",
+                "stool_analysis": "positive for blood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4th hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "6th hospital day (10th hospital day)",
+            "vital_signs": {
+                "temperature": "38.1°C"
+            },
+            "relevant_findings": {
+                "ultrasonography": "showed moderate ascites and bilateral pleural effusions, liver normal in size"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "12th hospital day",
+            "vital_signs": {
+                "temperature": "37.9°C"
+            },
+            "relevant_findings": "ambulatory and alert",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "17th hospital day",
+            "vital_signs": {
+                "temperature": "37.7°C"
+            },
+            "relevant_findings": {
+                "neurologic": "confusion, garbled speech, inability to follow commands, difficulty walking without assistance"
+            },
+            "changes_over_time": "Confusion worsened, speech became garbled"
+        },
+        {
+            "date": "19th hospital day",
+            "vital_signs": {
+                "temperature": "39.1°C"
+            },
+            "relevant_findings": {
+                "neck": "supple",
+                "chest": "clear",
+                "abdomen": "soft",
+                "neurologic": "alert and oriented to place and person, knew day of the week but not the month or year"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "20th hospital day",
+            "vital_signs": {
+                "temperature": "39.3°C"
+            },
+            "relevant_findings": {
+                "neurologic": "photophobia, neck stiffness, able to follow commands but did not answer questions, myoclonic jerks when light shined in eyes, intact sensation, diffuse hyperreflexia"
+            },
+            "changes_over_time": "More confusion than on the previous day"
+        }
+    ]
+}

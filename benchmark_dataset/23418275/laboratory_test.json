@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Anemia and thrombocytopenia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "Hyponatremia and other electrolyte disturbances.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiography (TEE)",
+            "date": "Not specified",
+            "findings": "2 vegetations on the anterior leaflet of the tricuspid valve, the larger measuring 2.0 × 1.8 cm.",
+            "changes_over_time": "Resolution of vegetations on repeat TEE after several weeks of antibiotic therapy."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Positive for methicillin-sensitive Staphylococcus aureus for 1 week after admission.",
+            "changes_over_time": "Remained positive despite appropriate antibiotic therapy."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated liver function tests.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Pericarditis evident, ST segment changes present.",
+            "changes_over_time": "Resolution of the ST segment changes seen on repeat ECG after treatment."
+        },
+        {
+            "procedure_name": "Synovial Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Synovial fluid grew MRSA.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

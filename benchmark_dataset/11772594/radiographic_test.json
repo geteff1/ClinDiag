@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Sonography",
+            "date": "Not specified",
+            "findings": "Large intraconal mass (2.9 cm²) with massive scleral thickening and enlargement of the suprachoroidal space.",
+            "changes_over_time": "Therapy resulted in rapid regression of the scleral mass and disappearance of the chorioretinal folds."
+        },
+        {
+            "procedure_name": "Contrast-enhanced axial computed tomography",
+            "date": "Not specified",
+            "findings": "Hyperdense zone confirming extensive posterior scleral thickening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echography",
+            "date": "Not specified",
+            "findings": "Rapid regression of the scleral mass.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

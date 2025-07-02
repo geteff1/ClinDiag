@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "arterial_oxygen_saturation": "88%",
+                "arterial_partial_pressure_of_oxygen": "56.3 mm Hg"
+            },
+            "relevant_findings": {
+                "telangiectases": "Scattered telangiectases on the tongue"
+            },
+            "changes_over_time": {
+                "after_procedure": {
+                    "arterial_oxygen_saturation": "Improved to 98%",
+                    "arterial_partial_pressure_of_oxygen": "Increased to 87.8 mm Hg",
+                    "shunt_ratio": "Decreased to 9.8%",
+                    "symptoms": "Symptoms immediately disappeared"
+                }
+            }
+        }
+    ]
+}

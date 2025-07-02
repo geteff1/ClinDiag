@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "120/70 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The patient appeared pale and nonicteric. The rest of her examination was reportedly unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 days later",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "heart_rate": {
+                    "supine": "89 bpm",
+                    "standing": "92 bpm"
+                },
+                "blood_pressure": {
+                    "supine": "120/80 mmHg",
+                    "standing": "84 mmHg"
+                },
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": "Mucous membranes were dry, and she had angular cheilosis. There was a nontender left cervical lymph node, 2 cm in diameter.",
+            "changes_over_time": "The patient's fever had resolved, but weakness and dizziness persisted despite increased fluid intake."
+        },
+        {
+            "date": "One week later",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Continued clinical signs of dehydration, a palpable left cervical lymph node.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The patient had transient hypotension after IV fluids were discontinued.",
+            "changes_over_time": "After high-dose dexamethasone was administered, her blood pressure returned to normal."
+        }
+    ]
+}

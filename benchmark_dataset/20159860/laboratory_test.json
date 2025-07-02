@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Wada test",
+            "date": "Not specified",
+            "findings": "Demonstrated left hemisphere dominance for language.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "12 months after subtotal resection",
+            "findings": "Showed recurrence of the mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "21 months after the second operation (January 2008)",
+            "findings": "Showed a third recurrence of the mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MIB-1 staining",
+            "date": "After resection of the third recurrence",
+            "findings": "Tumor had a proliferative fraction of 50%.",
+            "changes_over_time": "Increased from 1% to 2% following the first resection to 50% after the third resection."
+        },
+        {
+            "procedure_name": "MRI spectroscopy",
+            "date": "Before the third resection",
+            "findings": "Elevated choline/creatinine ratio indicative of malignant transformation.",
+            "changes_over_time": "Normalized after the third resection."
+        }
+    ]
+}

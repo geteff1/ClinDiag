@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Increased protein content (82 mg/dL) with normal cell count. Oligoclonal IgG bands restricted to CSF were also detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At presentation",
+            "findings": "Multiple T2-hyperintense lesions in the pons, paraventricular region, and corpus callosum without gadolinium enhancement.",
+            "changes_over_time": "Increased T2-lesion load and one Gd-enhancing lesion in the pons at 3-year follow-up."
+        },
+        {
+            "procedure_name": "VEP",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Marked prolongation of P100 wave latency noted during a follow-up assessment."
+        },
+        {
+            "procedure_name": "BAEP",
+            "date": "Not specified",
+            "findings": "Alterations bilaterally.",
+            "changes_over_time": "Unchanged during follow-up."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Tachycardia to the 130s with an ejection fraction of 42% and segmental left ventricular dysfunction.",
+            "changes_over_time": "Heart rate normalized approximately 2 hours after the onset of tachycardia."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Peak troponin T was 0.06 ng/mL (normal range 0.00 to 0.09 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Auditory examination",
+            "date": "Not specified",
+            "findings": "Normal hearing on the left side with a 30 dB loss at 8 kHz on the right side.",
+            "changes_over_time": "None specified, but hearing loss fluctuations were noted."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Moderate loss of myelinated fibers, thinly myelinated fibers, and multi-layered onion bulbs consistent with chronic inflammatory demyelinating polyneuropathy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal echocardiography during initial presentation and no significant fibrosis or myocyte disarray on histological examination.",
+            "changes_over_time": "Echocardiography has been normal during a follow-up of 10 years."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "The ECG demonstrated unusually slow atrial flutter that was conducted 1:1 to the ventricles along with prolonged QRS duration, sinus node dysfunction, high-degree atrioventricular block, and a normal QT interval post-ablation.",
+            "changes_over_time": "Prolongation of P-wave duration, PR interval, and QRS duration was progressive with age in mice with the DN allele, observed at both 3 and 12 weeks."
+        }
+    ]
+}

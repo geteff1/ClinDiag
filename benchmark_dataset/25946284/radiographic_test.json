@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "An infiltrate in the right lower lobe.",
+            "changes_over_time": "On hospital day 6, repeat chest radiography showed progression to diffuse air-space opacities. On hospital day 8, single-view chest radiography revealed worsening bilateral opacities."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Bilateral ground-glass opacities, bilateral small effusions, and right hilar and subcarinal lymphadenopathy.",
+            "changes_over_time": "On hospital day 14, repeat CT showed progression of previous areas of ground-glass opacity into areas of dense consolidation as well as worsening bilateral effusions."
+        }
+    ]
+}

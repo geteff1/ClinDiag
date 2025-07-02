@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound-guided liver biopsy",
+            "date": "Not specified",
+            "findings": "Finding of characteristic histologic features, including interface hepatitis.",
+            "changes_over_time": "Tissue copper level was slightly elevated, at 54 μg per gram, indicating no evidence of Wilson’s disease."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Orange, clear urine, with a pH of 6.5, a specific gravity of 1.010, 3+ bilirubin, 2+ blood, and 20 to 50 white cells per high-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Panlobular hepatitis, with inflammation, necrotic hepatocytes, and disarray; elevated tissue copper level.",
+            "changes_over_time": "The biopsy findings suggestive of acute autoimmune hepatitis."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

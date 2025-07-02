@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "IGF-I generation test",
+            "date": "15 yr of age",
+            "findings": "Extremely low serum concentrations of IGF-I (15 ng/ml, normal range 242–660 ng/ml), which remained abnormally low after 4 days of GH treatment.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endocrine analysis of spontaneous overnight GH secretion",
+            "date": "Not specified",
+            "findings": "Normal to high concentrations of GH, with integrated levels of 14.2 ng/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thrombocyte aggregation tests",
+            "date": "8 months of age",
+            "findings": "Negative aggregation tests with ADP, ristocetin, collagen, and epinephrine.",
+            "changes_over_time": "At 15 yr of age, repeated test indicated no aggregation with ADP, collagen, or epinephrine and weak aggregation with ristocetin."
+        },
+        {
+            "procedure_name": "Evaluation of circulating GH-binding protein (GHBP)",
+            "date": "16 yr of age",
+            "findings": "GHBP level was normal (1232 pmol/liter; normal range, 431-1892 pmol/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Circulating IGF-I, IGF-binding protein-3, and acid-labile subunit levels",
+            "date": "16 yr of age",
+            "findings": "IGF-I (7 ng/ml; normal, 242–660 ng/ml), IGFBP-3 (543 ng/ml; normal, 2500–4800 ng/ml), ALS (1.2 g/ml; normal, 5.6–16 g/ml) were markedly low.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunoblot analysis of STAT5b protein",
+            "date": "Not specified",
+            "findings": "No intact or truncated STAT5b protein detected in cell lysates from patient; normal expression in control samples.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Creatinine",
+            "date": "Not specified",
+            "findings": "1.3 mg/dL (115 μmol/L); higher than the previous level of 0.8 mg/dL (71 μmol/L) obtained 1 year earlier.",
+            "changes_over_time": "Increased to 1.8 mg/dL (159 μmol/L) on hospital day 3 and further increased to 6.9 mg/dL (610 μmol/L) by hospital day 9, then decreased to 3.6 mg/dL after initiation of hemodialysis on hospital day 15."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "17 mg/dL (reference range: 8-25 mg/dL); increased to 111 mg/dL (39.6 mmol/L) on hospital day 3 and reached 109 mg/dL (38.6 mmol/L) on hospital day 9.",
+            "changes_over_time": "Increased to 111 mg/dL on hospital day 9, then slightly decreased to 108 mg/dL by hospital day 15."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "39.8% on admission; decreased to 27.9% on hospital day 9 and further decreased to 26.3% on hospital day 15.",
+            "changes_over_time": "Decreased from 39.8% at admission to 27.9% on hospital day 9 and to 26.3% on hospital day 15."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.4 g/dL on admission; decreased to 8.6 g/dL on hospital day 9 and further decreased to 8.0 g/dL on hospital day 15.",
+            "changes_over_time": "Decreased from 12.4 g/dL at admission to 8.6 g/dL on hospital day 9 and to 8.0 g/dL on hospital day 15."
+        },
+        {
+            "procedure_name": "White Cells",
+            "date": "Not specified",
+            "findings": "10,710 cells/μL on admission; increased to 12,430 cells/μL on hospital day 9 and decreased to 11,540 cells/μL on hospital day 15.",
+            "changes_over_time": "Increased from 10,710 cells/μL at admission to 12,430 cells/μL on hospital day 9, then decreased to 11,540 cells/μL on hospital day 15."
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "1515 ng/mL at admission; increased to 8322 ng/mL on hospital day 9 and decreased to 5666 ng/mL on hospital day 15.",
+            "changes_over_time": "Increased from 1515 ng/mL at admission to 8322 ng/mL on hospital day 9, then decreased to 5666 ng/mL on hospital day 15."
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "184 U/L on admission; decreased to 57 U/L on hospital day 9 and increased to 135 U/L on hospital day 15.",
+            "changes_over_time": "Decreased from 184 U/L at admission to 57 U/L on hospital day 9, then increased to 135 U/L on hospital day 15."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "134 mmol/L on admission; increased to 143 mmol/L on hospital day 9 and further increased to 148 mmol/L on hospital day 15.",
+            "changes_over_time": "Increased from 134 mmol/L at admission to 143 mmol/L on hospital day 9 and to 148 mmol/L on hospital day 15."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.4 mmol/L on admission; decreased to 3.8 mmol/L on hospital day 9 and increased to 3.9 mmol/L on hospital day 15.",
+            "changes_over_time": "Decreased from 5.4 mmol/L at admission to 3.8 mmol/L on hospital day 9, then increased to 3.9 mmol/L on hospital day 15."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "96 mmol/L on admission; increased to 101 mmol/L on hospital day 9 and increased to 111 mmol/L on hospital day 15.",
+            "changes_over_time": "Increased from 96 mmol/L at admission to 101 mmol/L on hospital day 9 and to 111 mmol/L on hospital day 15."
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "397.5 mg/L on admission; decreased to 136.6 mg/L on hospital day 9 and decreased to 41.0 mg/L on hospital day 15.",
+            "changes_over_time": "Decreased from 397.5 mg/L at admission to 136.6 mg/L on hospital day 9, then to 41.0 mg/L on hospital day 15."
+        }
+    ]
+}

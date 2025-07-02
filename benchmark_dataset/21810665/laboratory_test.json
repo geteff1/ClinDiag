@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "sFlt-1 Measurement",
+            "date": "Not specified",
+            "findings": "sFlt-1 levels ranged from 8,028 to 18,738 pg/mL with a mean of 14,123 pg/mL in untreated women.",
+            "changes_over_time": "Untreated women had admission sFlt-1 values that did not show a specific progression over time, whereas in treated patients, sFlt-1 levels were reduced in a dose-dependent fashion with treatments."
+        },
+        {
+            "procedure_name": "sFlt-1 Measurement",
+            "date": "Not specified",
+            "findings": "Post apheresis results showed sFlt-1 levels reduced to 12,475 pg/mL after apheresis treatment.",
+            "changes_over_time": "Each apheresis treatment led to reductions in sFlt-1 levels by 17% to 34%, followed by rebounds in levels over time."
+        },
+        {
+            "procedure_name": "Protein-to-Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "Protein-to-creatinine ratios were significantly elevated prior to and decreased post apheresis treatments.",
+            "changes_over_time": "In treated patients, the protein-to-creatinine ratio fell significantly after apheresis but often rebounded over the following days."
+        },
+        {
+            "procedure_name": "Plasma Fibrinogen Measurement",
+            "date": "Not specified",
+            "findings": "Plasma fibrinogen levels reduced by approximately 20% after apheresis.",
+            "changes_over_time": "Fibrinogen levels returned to baseline within 24 hours post-treatment."
+        },
+        {
+            "procedure_name": "Hemoglobin Measurement",
+            "date": "Not specified",
+            "findings": "Hemoglobin levels ranged from 10.7 to 13.2 g/L in patients undergoing apheresis.",
+            "changes_over_time": "Hemoglobin levels appeared stable without significant changes noted."
+        },
+        {
+            "procedure_name": "Creatinine Measurement",
+            "date": "Not specified",
+            "findings": "Creatinine levels in patients ranged from 37 to 61 µmol/L.",
+            "changes_over_time": "No significant changes in creatinine levels were specified over time."
+        },
+        {
+            "procedure_name": "SGOT Measurement",
+            "date": "Not specified",
+            "findings": "SGOT levels ranged from 20 to 87 U/L.",
+            "changes_over_time": "No specific changes in SGOT levels over time were documented."
+        },
+        {
+            "procedure_name": "SGPT Measurement",
+            "date": "Not specified",
+            "findings": "SGPT levels ranged from 18 to 64 U/L.",
+            "changes_over_time": "No specific changes in SGPT levels over time were documented."
+        },
+        {
+            "procedure_name": "LDH Measurement",
+            "date": "Not specified",
+            "findings": "LDH levels ranged from 185 to 265 U/L.",
+            "changes_over_time": "No specific changes in LDH levels over time were documented."
+        }
+    ]
+}

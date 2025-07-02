@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Mild oedema of the ascending colon and caecum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histologically normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Elective Laparotomy",
+            "date": "Not specified",
+            "findings": "Postponed due to resolving symptoms and abnormalities",
+            "changes_over_time": "Follow-up CT scan done 72 hours later showed complete resolution of the abnormalities"
+        },
+        {
+            "procedure_name": "Allergy and Immunological Testing",
+            "date": "Not specified",
+            "findings": "Reduced total haemolytic complement activity (CH50), C1 inhibitor, and C4; normal concentrations of C3 and Clq",
+            "changes_over_time": "Final diagnosis of hereditary angioedema type 1 made"
+        }
+    ]
+}

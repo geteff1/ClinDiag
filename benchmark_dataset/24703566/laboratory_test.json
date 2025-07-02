@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Random Blood Glucose",
+            "date": "Not specified",
+            "findings": "19.2 mmol/L and 18.7 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Dipstick Test",
+            "date": "Not specified",
+            "findings": "Negative for ketones",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "11.9% (normal range 4.3–6.0) or 107 mmol/mol (23–42)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Glucose",
+            "date": "Not specified",
+            "findings": "19.5 mmol/L (normal range 3.0–7.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-peptide",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L (normal range 0.3–1.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "Not specified",
+            "findings": "201 pmol/L (normal range 14–160)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Albumin:Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "0.3 g/mol creatinine (normal <1.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose Follow-up",
+            "date": "November 2013",
+            "findings": "Blood glucose concentrations remained above target levels at 10–13 mmol/L",
+            "changes_over_time": "High blood glucose levels persisted despite treatment and previous results."
+        }
+    ]
+}

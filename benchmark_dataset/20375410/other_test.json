@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endometrial Biopsy",
+            "date": "2 weeks before admission",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Image-Guided Stereotactic Needle Biopsy",
+            "date": "Not specified.",
+            "findings": "Histology revealed necrotic tissue with a neutrophilic infiltrate, diagnostic of a brain abscess of bacterial origin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary Angiogram",
+            "date": "During the same admission",
+            "findings": "Two arteriovenous malformations in the right lung.",
+            "changes_over_time": "Follow-up evaluation 3 months later revealed a small pulmonary arteriovenous malformation adjacent to the original lesion."
+        }
+    ]
+}

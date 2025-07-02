@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "Negative for acute abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal hyperintense signal in the right subcortical white matter on diffusion-weighted imaging (DWI) and corresponding low signal on apparent diffusion coefficient (ADC) sequences, confined to the subcortical white matter and did not respect typical vascular territory.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

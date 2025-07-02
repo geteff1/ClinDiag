@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Carcinoembryonic antigen",
+            "date": "Not specified",
+            "findings": "6.5 ng per milliliter (reference range, <3.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Human chorionic gonadotropin",
+            "date": "Not specified",
+            "findings": "1.2 IU per liter (reference range, <0.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum electrolytes, calcium, phosphorus, magnesium, glucose, total protein, albumin, globulin, alkaline phosphatase, lactate dehydrogenase, and alpha-fetoprotein",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tests of coagulation and kidney and liver function",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH)",
+            "date": "Not specified",
+            "findings": "Positive for ALK gene rearrangement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans before treatment",
+            "date": "Before treatment with crizotinib",
+            "findings": "Mixed response with improvement in lymphadenopathy but worsening bone disease.",
+            "changes_over_time": "After treatment with crizotinib, decrease in the size of paraesophageal lymph-node mass and lung nodules."
+        },
+        {
+            "procedure_name": "Bone scans before and after treatment",
+            "date": "Before and after treatment with crizotinib",
+            "findings": "Radio-tracer uptake in the metastases in T1 and L4 vertebrae before treatment; decreased uptake after therapy.",
+            "changes_over_time": "Improvement in T1 and L4 metastases after treatment."
+        }
+    ]
+}

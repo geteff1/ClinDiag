@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "Initial level 6700 U/L, decreased to 4200 U/L after prednisone administration.",
+            "changes_over_time": "Increased after azathioprine was restarted, later normalized."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "31.0% on admission (normal range is 41.0–53.0%).",
+            "changes_over_time": "Decreased from 46.8% (24 days before admission) to 22.8% (on admission at MGH), then recovered to 27.9% (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.5 g/dL on admission (normal range is 13.5–17.5 g/dL).",
+            "changes_over_time": "Decreased from 16.3 g/dL (24 days before admission) to 7.0 g/dL (50 days after admission), then increased to 9.6 g/dL (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "24,000 per mm³ on admission (normal range is 4500–11,000 per mm³).",
+            "changes_over_time": "Decreased from 24,000 per mm³ (on admission) to 8000 per mm³ (on 14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "728,000 per mm³ on admission (normal range is 150,000–400,000 per mm³).",
+            "changes_over_time": "Decreased to 481,000 per mm³ (day 50), 415,000 per mm³ (day 50), and further to 337,000 per mm³ (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.09 mg/dL on admission (normal range is 0.60–1.50 mg/dL).",
+            "changes_over_time": "Decreased to 0.38 mg/dL (higher values not specified), then fluctuated and measured at 0.4 mg/dL and 0.3 mg/dL (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "124 mmol/L on admission (normal range is 135–145 mmol/L).",
+            "changes_over_time": "Increased to 135 mmol/L (on day 48), and remained stable at 140 mmol/L on 14 weeks after admission."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "6.0 mmol/L on admission (normal range is 3.4–4.8 mmol/L).",
+            "changes_over_time": "Decreased to 3.6 mmol/L (day 48), remained at 4.2 mmol/L on 14 weeks after admission."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "87 mmol/L on admission (normal range is 100–108 mmol/L).",
+            "changes_over_time": "Stabilized at 100 mmol/L on 14 weeks after admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "158 mg/dL on admission (normal range is 70–110 mg/dL).",
+            "changes_over_time": "Decreased to 110 mg/dL (day 50), and stabilized at 108 mg/dL (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "468 U/L on admission (normal range is 110–210 U/L).",
+            "changes_over_time": "Dropped to 283 U/L (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "128 U/L on admission (normal range is 10–55 U/L).",
+            "changes_over_time": "Decreased to 43 U/L by 50 days after admission, then increased to 101 U/L (14 weeks after admission)."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "440 U/L on admission (normal range is 10–40 U/L).",
+            "changes_over_time": "Dropped to 57 U/L by 50 days after admission, then increased to 99 U/L (14 weeks after admission)."
+        }
+    ]
+}

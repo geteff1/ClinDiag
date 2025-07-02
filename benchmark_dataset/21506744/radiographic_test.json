@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Nonspecific bowel-gas pattern, with no evidence of free air or bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the brain",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Slightly echogenic liver and pericholecystic fluid, with no evidence of intrahepatic or extrahepatic biliary-duct dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Markedly enlarged liver with diffuse hypoattenuation consistent with fatty infiltration and pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Hospital day 5",
+            "findings": "Advanced myelination of the white matter in the cerebral hemispheres with no focal abnormalities; prominent abnormal lipid peaks at 1.4 and 0.9 ppm.",
+            "changes_over_time": "Abnormal lipid peaks were no longer seen on spectroscopy performed when the patient was 15 months old."
+        }
+    ]
+}

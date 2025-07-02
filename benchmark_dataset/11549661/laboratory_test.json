@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test (Free T3 and Free T4)",
+            "date": "4 wk gestation",
+            "findings": "FT3 and FT4 slightly above elevated prepregnancy levels.",
+            "changes_over_time": "At 6-7 wk gestation, FT3 and FT4 increased in parallel with hCG levels."
+        },
+        {
+            "procedure_name": "Thyroid function test (TSH)",
+            "date": "10 and 12 wk gestation",
+            "findings": "TSH became undetectable.",
+            "changes_over_time": "TSH remained below normal limits until 28 wk gestation."
+        },
+        {
+            "procedure_name": "Thyroid function test (Free T3 and Free T4)",
+            "date": "16 wk gestation",
+            "findings": "FT3 and FT4 had declined.",
+            "changes_over_time": "Symptoms subsided and thyroid hormone levels were slightly below prepregnancy levels during the third trimester."
+        },
+        {
+            "procedure_name": "Thyroid function test (TSH, FT3, FT4)",
+            "date": "At 4 wk of age (newborn)",
+            "findings": "TSH was 4.6 mU/liter, FT3 was 10.9 pmol/liter, FT4 was 28.3 pmol/liter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

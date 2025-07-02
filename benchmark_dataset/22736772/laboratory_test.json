@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium and PTH Measurement",
+            "date": "Not specified",
+            "findings": "Before intervention: Serum Calcium: Not specified, PTH: Range 235–864 ng/liter. Postoperative (93-month follow-up): PTH levels ranged between 56 and 182 ng/liter (normal: <187 ng/liter).",
+            "changes_over_time": "Serum Calcium and PTH levels both increased over time before the intervention. Postoperatively, PTH levels decreased significantly from elevated levels."
+        },
+        {
+            "procedure_name": "Ionized Calcium Measurement",
+            "date": "Between ages 49 and 51",
+            "findings": "Ionized calcium rose from 1.29 to 1.39 mmol/liter.",
+            "changes_over_time": "Progressive rise in ionized calcium observed over the specified time."
+        },
+        {
+            "procedure_name": "Serum Phosphorus Measurement",
+            "date": "Not specified",
+            "findings": "Normal serum phosphorus at preoperative assessment: 3.5 mg/dl (1.1 mmol/liter).",
+            "changes_over_time": "Normalized serum phosphorus was maintained during the follow-up."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase Measurement",
+            "date": "Not specified",
+            "findings": "Before intervention: Alkaline phosphatase: 72 U/liter (normal: 36–115 U/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Mineral Density Measurement",
+            "date": "At 7 years postoperative",
+            "findings": "Normal bone density at the spine, hip, and radius.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Calcium and PTH Measurement",
+            "date": "Between ages 37 and 39",
+            "findings": "Mild hypercalcemia and rising PTH levels (94 to 235 ng/liter) with normal phosphorus.",
+            "changes_over_time": "Increasing PTH levels noted over the years."
+        },
+        {
+            "procedure_name": "Serum Phosphorus Measurement",
+            "date": "Postoperative day 2",
+            "findings": "Phosphorus was 5.2 mg/dl (1.7 mmol/liter).",
+            "changes_over_time": "Indicates changes with surgery and subsequent treatment."
+        },
+        {
+            "procedure_name": "Intraoperative PTH Measurement",
+            "date": "During parathyroidectomy",
+            "findings": "Intraoperative PTH fell from 236 to 156 ng/liter after gland removal.",
+            "changes_over_time": "Indicates that removal of the enlarged glands resulted in a significant drop."
+        },
+        {
+            "procedure_name": "Intraoperative PTH Measurement",
+            "date": "During parathyroidectomy",
+            "findings": "Intraoperative PTH fell from 362 to 52 ng/liter after resection.",
+            "changes_over_time": "Drop in PTH levels indicates a successful intervention."
+        },
+        {
+            "procedure_name": "Serum Calcium Measurement",
+            "date": "Postoperative day 1",
+            "findings": "Ionized calcium was 1.04 mmol/liter.",
+            "changes_over_time": "Indicates immediate postoperative changes."
+        },
+        {
+            "procedure_name": "Bone Mineral Density Measurement",
+            "date": "15 months postoperatively",
+            "findings": "Eucalcemic with elevated PTH, lower than pre-surgical levels.",
+            "changes_over_time": "Significante reduction in PTH noted post-surgery."
+        },
+        {
+            "procedure_name": "Serum Calcium and PTH Measurement",
+            "date": "Between ages 56 and 58",
+            "findings": "Increased serum calcium and PTH despite treatment changes, phosphorus normal.",
+            "changes_over_time": "Gradual increase in serum calcium and PTH."
+        },
+        {
+            "procedure_name": "PTH Measurement (cinacalcet effect)",
+            "date": "During and after cinacalcet treatment",
+            "findings": "Before cinacalcet: 372 ng/liter; after cinacalcet: 280 ng/liter (P<0.01).",
+            "changes_over_time": "Significant decrease in PTH levels noted after initiating cinacalcet."
+        }
+    ]
+}

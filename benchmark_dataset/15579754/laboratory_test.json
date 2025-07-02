@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Testosterone",
+            "date": "Not specified",
+            "findings": "Total testosterone: 1305 ng/dl (reference range: 300-1000 ng/dl); Free testosterone: 42 ng/dl (reference range: 5-20 ng/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FSH and LH",
+            "date": "Not specified",
+            "findings": "FSH: 8 mU/ml (reference range: 2-10 mU/ml); LH: 8 mU/ml (reference range: 2-10 mU/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estrone",
+            "date": "Not specified",
+            "findings": "Estrone: 23 pg/ml (below the lower normal limit; reference range: 25-65 pg/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "Serum estradiol: undetectable (< 15 pg/ml; reference range: 0-30 pg/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Osteocalcin",
+            "date": "Not specified",
+            "findings": "Osteocalcin: 132 ng/dl (reference range: 10-40 ng/dl), indicating increased rate of bone remodeling.",
+            "changes_over_time": "Osteocalcin significantly reduced to 88 ng/ml after 3 years of estrogen therapy."
+        },
+        {
+            "procedure_name": "Areal BMD (DXA)",
+            "date": "From age 17 yr and 1 month to 20 yr and 5 months",
+            "findings": "Lumbar spine: increased by 23%; Femoral neck: increased by 14%. Lumbar spine aBMD increased from -2.31 to -0.55, femoral neck aBMD from -0.46 to -0.44.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "BMAD at the spine",
+            "date": "From age 17 yr and 1 month to 20 yr and 5 months",
+            "findings": "BMAD at the spine increased from 0.120 to 0.136 g/cm³.",
+            "changes_over_time": "BMAD at the femoral neck: from 0.156 to 0.147 g/cm³."
+        },
+        {
+            "procedure_name": "pQCT at ultradistal radius",
+            "date": "Not specified",
+            "findings": "Total vBMD did not change significantly; vBMD decreased from 282 to 270 mg/cm³ during treatment.",
+            "changes_over_time": "No significant changes in trabecular or cortical vBMD."
+        },
+        {
+            "procedure_name": "Cross-sectional area of radius",
+            "date": "Not specified",
+            "findings": "Cross-sectional area increased by 46%, from 247 to 360 mm².",
+            "changes_over_time": "Cortical thickness increased by 12%."
+        }
+    ]
+}

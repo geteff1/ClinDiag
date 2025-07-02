@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "pulse": "93 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "blood_pressure": "110/60 mmHg"
+            },
+            "relevant_findings": {
+                "obesity": "Markedly obese",
+                "facial_features": "Moon facies and abdominal striae",
+                "lung_sounds": "Bilateral pulmonary crackles",
+                "heart_sounds": "Normal",
+                "peripheral_edema": "+++",
+                "urinalysis": "Positive (+) for protein; sediment contained 20 to 50 red cells and 3 to 5 white cells per high-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On the 12th hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "lung_landmarks": "Dense air-space opacities overlying the right hilar area and in the right lower lung, less dense nodular opacities in the left lung, and diffuse ground-glass opacities suggesting edema of the left lung.",
+                "bronchoscopic_exam": "Showed pus in the right upper lobe and edema of the bronchus in the right middle lobe."
+            },
+            "changes_over_time": "Progression of air-space disease requiring endotracheal intubation with enhanced ventilation."
+        }
+    ]
+}

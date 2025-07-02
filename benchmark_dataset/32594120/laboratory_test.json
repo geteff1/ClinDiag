@@ -1,0 +1,17 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests (ALT, AST, alkaline phosphatase, total bilirubin, gamma-glutamyltransferase, creatine kinase)",
+            "date": "Not specified",
+            "findings": {
+                "ALT": "1305 IU/L",
+                "AST": "1461 U/L",
+                "alkaline phosphatase": "269 U/L",
+                "total bilirubin": "8 µmol/L",
+                "gamma-glutamyltransferase": "227 U/L",
+                "creatine kinase": "103 U/L"
+            },
+            "changes_over_time": "Five days after start of remdesivir, an acute increase in ALT and AST was seen; following the discontinuation of remdesivir, ALT and AST values rapidly decreased to normal levels."
+        }
+    ]
+}

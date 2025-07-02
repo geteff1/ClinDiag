@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Doppler echocardiography",
+            "date": "Not specified",
+            "findings": "Right atrial diameter of 6.2 cm (normal diameter, 2.2-4.1 cm), right ventricle short-axis end-diastolic diameter of 5.1 cm (normal, 1.9 - 4.0 cm), right ventricle with eccentric hypertrophy and fractional area shortening of 33%",
+            "changes_over_time": "At 31 weeks' gestation, right atrial diameter increased to 6.3 cm, end-diastolic ventricular diameter increased to 5.4 cm, and fractional area shortening decreased to 25%"
+        },
+        {
+            "procedure_name": "Hemoglobin measurement",
+            "date": "31 weeks' gestation",
+            "findings": "Hemoglobin was 11.4 g/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "31 weeks' gestation",
+            "findings": "Platelet count was 177,000/~l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thromboelastography",
+            "date": "Not specified",
+            "findings": "Reaction time: 6.0 mm; clot formation time: 2.0 mm; maximal amplitude: 76 mm; clot formation rate: 74%",
+            "changes_over_time": "Mild changes post-delivery: reaction time changed from 3.5-4.0 mm, clot formation time changed from 2.0-2.5 mm, maximal amplitude changed from 63-66 mm, clot formation rate remained 74-76%, and platelet aggregation remained 65-86%"
+        },
+        {
+            "procedure_name": "Echocardiography (follow-up)",
+            "date": "6 months after delivery",
+            "findings": "Atrial diameter of 7.4 cm, end-diastolic ventricular diameter of 5.7 cm, low (20%) fractional area shortening of the right ventricle, newly patent foramen ovale with right-to-left shunt",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

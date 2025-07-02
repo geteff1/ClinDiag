@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 2014",
+            "vital_signs": "Temperature: 38.6°C",
+            "relevant_findings": "Initial examination revealed no palpable liver or spleen enlargement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "February 2015",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Splenomegaly was noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "October 2018",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination showed moderate anemia, abdominal distention, and massive splenomegaly [Line 1: 12cm; Line 2: 13cm; Line 3: +5cm].",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "February 2019",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Moderate splenomegaly was observed [Line 1: 8.5 cm; Line 2: 9 cm; Line 3: -2 cm].",
+            "changes_over_time": "Post-HSCT, the spleen size gradually reduced."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified.",
+            "findings": {
+                "Red Blood Cell Count (RBC)": "2.25×10^12/L (normal range: 3.2–4.9)",
+                "Hemoglobin (Hb)": "73 g/L (normal range: 90–140)",
+                "White Blood Cell Count (WBC)": "2.48×10^9/L (normal range: 5.0–12)",
+                "Platelets Count": "3×10^9/L (normal range: 100–378)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical Examination",
+            "date": "Not specified.",
+            "findings": {
+                "Urine Methylmalonic Acid Level": "23.87 μmol/L (normal range: 0.2–3.6)",
+                "Plasma Homocysteine Level": "21.85 μmol/L (normal range: <15)",
+                "Serum Vitamin B12": "275.60 pmol/L (normal range: 139.4–651.5)",
+                "Serum Folate": "17.86 nmol/L (normal range: 7.0–46.4)",
+                "Blood Gas Analysis": "Metabolic acidosis",
+                "Propionyl Carnitine to Acetylcarnitine Ratio": "0.319 (normal range: 0.04–0.25)"
+            },
+            "changes_over_time": "After treatment, the patient's hematologic parameters, homocysteine levels, and urine methylmalonic acid levels returned to the normal range."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified.",
+            "findings": {
+                "Variants Identified": "c.754-12C>G (intron 5) and c.1031_1032delGA (p.R344Tfs*20) in TCN2 gene."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

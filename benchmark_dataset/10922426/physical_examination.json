@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "80 bpm",
+                "blood_pressure": "120/70 mm Hg",
+                "temperature": "36.2°C"
+            },
+            "relevant_findings": "Physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "190 mm Hg",
+                "diastolic_blood_pressure": "130 mm Hg"
+            },
+            "relevant_findings": "The patient was very agitated, but other findings were normal.",
+            "changes_over_time": "Blood pressure decreased to 110/80 mm Hg after sedative administration."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "systolic_blood_pressure": "60 mm Hg",
+                "systolic_blood_pressure_after_fluid": "Not specified"
+            },
+            "relevant_findings": "Patients' blood pressure dropped to 60 mm Hg during the dilation and curettage procedure, but quickly increased after intravenous fluids.",
+            "changes_over_time": "Blood pressure ranged from 160/110 to 120/60 mm Hg when supine and decreased by more than 40 mm Hg upon standing."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "70 bpm",
+                "medication_dosage": "300 mg/day Metoprolol"
+            },
+            "relevant_findings": "Constant fatigue and nausea noticed.",
+            "changes_over_time": "The patient looked pale and had marked postural hypotension."
+        }
+    ]
+}

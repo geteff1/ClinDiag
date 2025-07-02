@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid-stimulating hormone (TSH) test",
+            "date": "Not specified",
+            "findings": "TSH at baseline was within normal limits.",
+            "changes_over_time": "After 18 months, TSH was low at 0.13 µIU/ml (range=0.35-5.50); follow-up showed normal results at 0.72 µIU/ml."
+        },
+        {
+            "procedure_name": "Free T4 test",
+            "date": "Not specified",
+            "findings": "Baseline free T4 was normal at 0.7 ng/dl (range=0.9-1.8).",
+            "changes_over_time": "Follow-up showed normal free T4 results at 1.0 ng/dl."
+        },
+        {
+            "procedure_name": "Total T3 test",
+            "date": "Not specified",
+            "findings": "Total T3 level was normal at 1.32 ng/ml (range=0.60-1.81).",
+            "changes_over_time": "Follow-up showed total T3 level at 1.16 ng/ml."
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "After 18 months",
+            "findings": "Blood pressure was measured at 200/120 mm Hg; after medication adjustment, it decreased to 193/94 mm Hg.",
+            "changes_over_time": "Blood pressure remained elevated during treatment, with repeated measurements consistently high."
+        },
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "After 18 months",
+            "findings": "Non-fasting blood glucose level was 196 mg/dl; after medication adjustment, it decreased to 147 mg/dl.",
+            "changes_over_time": "Blood glucose levels showed a decrease after administration of missed medications."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Hyperdynamic, small left ventricle (35 mm at end diastole) with ejection fraction of 81%. Asymmetrical septal hypertrophy (septal thickness 17 mm, posterior wall thickness 12 mm). Late-peaking LVOT gradient of 129 mm Hg, increasing to 185 mm Hg with Valsalva maneuver. Moderate to severe posterolaterally directed mitral regurgitation due to systolic anterior motion of the mitral valve. Tricuspid aortic valve with thickening and calcification of leaflets, resulting in restricted aortic opening (peak gradient 44 mm Hg, mean gradient 27 mm Hg, valve area 1.4 cm²). Left atrial enlargement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Right atrial pressure 8 mm Hg, right ventricular pressure 35/10 mm Hg, pulmonary artery pressure 35/15 mm Hg, and pulmonary capillary wedge pressure 15 mm Hg. Left-sided catheterization shows LV apex pressure at 160/21 mm Hg, LVOT pressure at 141/21 mm Hg, and ascending aortic pressure at 126/65 mm Hg. Peak-to-peak gradients: 19 mm Hg in LV cavity and 15 mm Hg at aortic valve. Brockenbrough sign is present.",
+            "changes_over_time": "Gradient at rest is markedly less than that seen on echocardiography, which is common due to variability in LVOT gradient."
+        }
+    ]
+}

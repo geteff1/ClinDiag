@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, with coved-type ST-segment elevations in leads V1 and V2, consistent with a type 1 Brugada pattern.",
+            "changes_over_time": "The ECG findings prompted ICD placement for primary prevention, although subsequent device interrogations showed no therapies delivered and no recorded arrhythmias."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Variant of unknown significance in SCN5A (A109S).",
+            "changes_over_time": "The results were considered uninformative for familial screening."
+        },
+        {
+            "procedure_name": "ICD placement",
+            "date": "2010",
+            "findings": "Not specified",
+            "changes_over_time": "The procedure was complicated by lead dislodgment and later indicated no arrhythmias although the patient underwent lead replacement."
+        },
+        {
+            "procedure_name": "CT Angiogram",
+            "date": "Not specified",
+            "findings": "Severe stenosis of the superior vena cava with a large filling defect suggestive of thrombus.",
+            "changes_over_time": "The patient was started on anticoagulation therapy but experienced persistent symptoms before undergoing stenting."
+        }
+    ]
+}

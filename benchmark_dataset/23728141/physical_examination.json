@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 2012",
+            "vital_signs": {
+                "temperature": "38.3°C–38.9°C",
+                "white_blood_cell_count": "3000 cells/mm3",
+                "hemoglobin_level": "12.7 g/dL",
+                "platelet_count": "117 × 10^9/L",
+                "CD4_T_cell_count": "141 cells/mm3",
+                "lymphocyte_count": "270 cells/mm3",
+                "monocyte_count": "27 cells/mm3",
+                "neutrophil_count": "64 cells/mm3"
+            },
+            "relevant_findings": {
+                "knee_effusions": "Bilateral knee effusions",
+                "nodules": "Scattered tender, erythematous, subcutaneous nodules on pretibial areas",
+                "other_findings": "Positive tuberculin skin test (20 mm); negative QuantiFERON-TB Gold In-Tube test"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

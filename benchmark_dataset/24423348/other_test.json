@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Metastatic infiltration of the bone by a well-differentiated neuroendocrine tumor, positive for chromogranin A (CGA), synaptophysin, and S100.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IHC (Immunohistochemistry)",
+            "date": "Not specified",
+            "findings": "Loss of SDHB protein expression in the malignant tumor tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyrosequencing",
+            "date": "Not specified",
+            "findings": "Loss of heterozygosity (LOH) demonstrated in the malignant PGL tissue.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

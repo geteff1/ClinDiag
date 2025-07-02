@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "December, 2013",
+            "vital_signs": {
+                "heart_rate": "tachycardic",
+                "blood_pressure": "hypotension",
+                "Glasgow_coma_score": "8",
+                "sodium": "129 mmol/L",
+                "CRP": "305 mg/L",
+                "urine_sodium": "138 mmol/L"
+            },
+            "relevant_findings": [
+                "left-sided ptosis",
+                "dilated non-reactive left pupil",
+                "hypo-natraemia",
+                "leucocytosis",
+                "neutrophilia",
+                "hyperpigmentation observed over preceding months"
+            ],
+            "changes_over_time": "Cerebral oedema resolved within 48 hours post-treatment; pupillary signs and conscious level improved over the next 2 days; ptosis resolved in 6 weeks."
+        },
+        {
+            "date": "June, 2014",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Remained well on replacement hydrocortisone and 9α-fludrocortisone.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "Diffusely, mildly heterogeneous, hypoechoic gland without nodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "radioiodine uptake",
+            "date": "Not specified",
+            "findings": "4-h radioiodine uptake was 63.4% (normal, 5–15%).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "radioiodine ablation",
+            "date": "Not specified",
+            "findings": "Administered 15.3 mCi of I-131.",
+            "changes_over_time": "Within 7 weeks post-ablation, hypothyroidism was achieved."
+        }
+    ]
+}

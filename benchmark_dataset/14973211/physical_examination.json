@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Responsive but confused and agitated; burns on face, chest, back, arms, and legs; nasal hair singed; carboxyhemoglobin level of 28 percent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hour 3 to 6",
+            "vital_signs": {
+                "blood_pressure": "154/84 mm Hg",
+                "pulse": "92 bpm",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": "Second- and third-degree burns estimated to involve 30 to 60 percent of body-surface area; cold but not edematous arms and legs; bronchoscopy shows carbonaceous material in airways and inflamed tracheobronchial mucosa.",
+            "changes_over_time": "The patient's arms and legs were cold but not edematous; bronchoscopy revealed worsening endobronchial findings."
+        },
+        {
+            "date": "Hour 11",
+            "vital_signs": {
+                "blood_pressure": "152/98 mm Hg",
+                "pulse": "98 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "temperature": "34.1°C to 35.6°C"
+            },
+            "relevant_findings": "Third- and fourth-degree burns over 40 percent of the body, normal chest and heart on auscultation, Doppler ultrasonography showed minimal or absent pulses in digits.",
+            "changes_over_time": "Burns on arms and hands became firm; skin was charred and leathery by hour 15."
+        },
+        {
+            "date": "Day 1",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "blood_pressure": "94 to 127/48 to 69 mm Hg",
+                "heart_rate": "112 to 134 bpm",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": "Developing disseminated intravascular coagulation; bleeding into airways controlled with platelet transfusion.",
+            "changes_over_time": "Signs of hypotension and the need for increased vasopressor support were noted."
+        },
+        {
+            "date": "Days 2 and 3",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed acute respiratory distress syndrome with worsening oxygen saturation and required nitric oxide therapy.",
+            "changes_over_time": "Pulmonary gas exchange deteriorated; however, signs of initial improvement were seen after nitric oxide therapy."
+        },
+        {
+            "date": "Days 4 and 5",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Positive culture for Staphylococcus aureus; copious black material suctioned from endotracheal tube.",
+            "changes_over_time": "Signs of coagulopathy developed, managed with increased doses of anticoagulants."
+        },
+        {
+            "date": "Weeks 2, 3, and 4",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Clearing of pulmonary infiltrates observed on chest radiographs; extensive burns required long-term physical rehabilitation.",
+            "changes_over_time": "Improvements noted in respiratory status and resolution of fever and coagulopathy."
+        },
+        {
+            "date": "Month 1",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Tracheostomy performed; patient engaged in multiple therapies for rehabilitation.",
+            "changes_over_time": "Patient's health status gradually improved, though significant challenges remained related to the depth of burns."
+        }
+    ]
+}

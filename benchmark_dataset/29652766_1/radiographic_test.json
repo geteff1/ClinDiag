@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Expanding, ground glass lesion involving the left mandible from parasymphysis to condyle, containing a central lytic area; associated periosteal reaction and diffuse inflammation involving the masseter and overlying soft tissues.",
+            "changes_over_time": "There was initial reduction in mandibular lesion thickness and sclerosis confirmed by follow-up CT scan, without new lytic lesions or periosteal reaction."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Additional lesions in the right acetabulum, proximal left tibial metaphysis and bilateral distal tibia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Right mandible ground-glass lesion with areas of sclerosis and osteolysis.",
+            "changes_over_time": "Marked improvement in the size of the mandibular lesion was demonstrated in follow-up CT scans."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Two months later",
+            "findings": "Dramatic improvement in right mandible with minimal cortical thickening and decreased bone expansion.",
+            "changes_over_time": "The improvement remained stable clinically and radiologically almost 3 years later."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rifampin Treatment",
+            "date": "Not specified",
+            "findings": "Normalization or improvement in all clinical and biochemical parameters including reduction in serum levels of 1,25-dihydroxyvitamin D3, calcium, and urinary calcium excretion; increase in PTH to normal range.",
+            "changes_over_time": "Marked improvement in Case 1 within 1 month with serum creatinine improving from 1.4 to 1.1 mg/dL; Case 2 showed decrease in serum albumin-adjusted calcium from 10.7 to 9.8 mg/dL and increase in PTH from 3 to 31 pg/mL during treatment. After discontinuation of rifampin, Case 2 experienced rebound hypercalcemia and suppression of PTH."
+        },
+        {
+            "procedure_name": "Biochemical Analyses",
+            "date": "Not specified",
+            "findings": "Initial hypercalcemia and hypercalciuria, suppressed serum PTH, elevated 1,25-dihydroxyvitamin D3, and low or undetectable levels of 24,25-dihydroxyvitamin D.",
+            "changes_over_time": "Improvement in serum calcium levels and urinary calcium excretion during treatment; however, increased levels after discontinuation in Case 2."
+        },
+        {
+            "procedure_name": "Serum Vitamin D Metabolites Analysis",
+            "date": "Not specified",
+            "findings": "Prior to treatment, elevated 1,25-dihydroxyvitamin D3 levels and suppressed serum PTH; after rifampin treatment, normalization of these parameters.",
+            "changes_over_time": "With rifampin treatment, despite 1,25-dihydroxyvitamin D3 levels remaining relatively unchanged, associated calcium and PTH levels normalized. Rebound in 1,25-dihydroxyvitamin D3 levels noted after rifampin was stopped."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "74 bpm",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "Progressive bradycardia during intermittent photic stimulation",
+                    "8-second asystole at 12 flashes/s",
+                    "Tachycardia at 130 bpm"
+                ],
+                "normal_findings": [
+                    "Neurologic and ophthalmologic examinations were normal",
+                    "Echocardiogram was normal"
+                ]
+            },
+            "changes_over_time": "The child has not had further episodes of loss of consciousness over 4-year follow-up with precautions."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "Normal",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "Mild right hemiparesis",
+                    "Extensive cerebral tortuosity",
+                    "Occlusion of left middle cerebral artery"
+                ],
+                "normal_findings": [
+                    "Normal strength in upper and lower extremities"
+                ]
+            },
+            "changes_over_time": "The patient manifested progressive neurologic decline after the initial incident leading to hospitalization."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "130 bpm",
+                "blood_pressure": "Not specified",
+                "temperature": "38.5 to 39 °C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "Dysarthria",
+                    "Ataxia",
+                    "Upper limb myoclonia",
+                    "Pyramidal signs",
+                    "Respiratory failure"
+                ],
+                "normal_findings": [
+                    "Routine biologic tests were normal except for creatine kinase increase."
+                ]
+            },
+            "changes_over_time": "The patient developed significant psychotic symptoms and dysautonomia after the start of treatment, indicating clinical worsening."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "Quadriparesis affecting primarily proximal muscle groups",
+                    "Severe thoracic kyphosis",
+                    "Diffuse axial bone tenderness"
+                ],
+                "normal_findings": [
+                    "Reflexes were normal"
+                ]
+            },
+            "changes_over_time": "The patient experienced progressive deterioration in muscle strength leading to total dependency."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "32.8% (low, normal range 36.0-46.0)",
+            "changes_over_time": "Decreased from 32.8% to 30.3% over 3 weeks, then increased to 32.8% 2 days before admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "11.0 g/dL (low, normal range 12.0-16.0)",
+            "changes_over_time": "Decreased from 11.0 g/dL to 10.0 g/dL over 3 weeks, then increased to 10.7 g/dL 2 days before admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "12,840 per mm3 (high, normal range 4500-11,000)",
+            "changes_over_time": "Increased from 12,840 to 19,510 per mm3 over 3 weeks, then decreased to 12,300 per mm3 2 days before admission."
+        },
+        {
+            "procedure_name": "Differential count",
+            "date": "Not specified",
+            "findings": "Neutrophils 89%, Lymphocytes 5%, Monocytes 1% (Neutrophils high, Lymphocytes low)",
+            "changes_over_time": "Neutrophils remained at 89% over 3 weeks, then dropped to 75% 2 days before admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "479,000 per mm3 (high, normal range 150,000-350,000)",
+            "changes_over_time": "Increased from 479,000 to 561,000 per mm3 over 3 weeks, then decreased to 485,000 per mm3 2 days before admission."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "69 mm/hr (high, normal range 0-17)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "32 mg/dL (high, normal range 8-25)",
+            "changes_over_time": "Decreased from 32 mg/dL to 30 mg/dL over 3 weeks before admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.5 mg/dL (high, normal range 0.6-1.5)",
+            "changes_over_time": "Increased from 1.5 to 1.8 mg/dL over 3 weeks, then slightly decreased to 1.79 mg/dL 2 days before admission."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Prostate Biopsy",
+            "date": "Not specified",
+            "findings": "Pathology revealed adenocarcinoma in the right mid apex, with a Gleason score of 6, involving 10% of a single biopsy core from among a total of 10 cores taken at biopsy. Two other cores revealed high-grade prostatic intraepithelial neoplasia and 1 focus of atypia suspicious for adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PSA Test",
+            "date": "Not specified",
+            "findings": "PSA level was found to be elevated at 5.3 ng/mL (previously 3.0 ng/mL a year earlier) and was reported as 4.5 ng/mL two months after biopsy, indicating an inconsistent rate of change.",
+            "changes_over_time": "PSA level changed from 5.3 ng/mL to 4.5 ng/mL over four months, indicating a decrease."
+        },
+        {
+            "procedure_name": "Testosterone Test",
+            "date": "Not specified",
+            "findings": "Testosterone was in the normal range at 362 ng/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

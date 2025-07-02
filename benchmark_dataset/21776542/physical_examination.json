@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "renal_function": {
+                    "blood_urea_nitrogen": "37 mg/dL",
+                    "creatinine": "2.26 mg/dL"
+                },
+                "normal_ranges": {
+                    "blood_urea_nitrogen": "7 to 20 mg/dL",
+                    "creatinine": "0.5 to 1.5 mg/dL"
+                }
+            },
+            "relevant_findings": {
+                "hip_examination": {
+                    "noise": "squeaking noise from the right hip",
+                    "pain_duration": "one year",
+                    "gait": "antalgic gait",
+                    "Harris_hip_score": 43
+                },
+                "laboratory_results": {
+                    "white_blood_cell_count": "normal",
+                    "erythrocyte_sedimentation_rate": "normal",
+                    "C_reactive_protein": "normal",
+                    "renal_insufficiency": {
+                        "blood_urea": "37 mg/dL",
+                        "creatinine": "2.26 mg/dL"
+                    }
+                }
+            },
+            "changes_over_time": {
+                "renal_function": {
+                    "blood_urea_nitrogen": {
+                        "at_10_weeks": "33 mg/dL",
+                        "at_6_months": "22 mg/dL"
+                    },
+                    "creatinine": {
+                        "preoperatively": "2.4 mg/dL",
+                        "at_6_months": "1.6 mg/dL"
+                    }
+                },
+                "Harris_hip_score": {
+                    "preoperatively": 43,
+                    "at_14_months": 88
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukopenia with WBC count of 1100 cells/μL, lymphopenia with ALC of 1089 cells/μL, neutropenia with ANC of 11 cells/μL, normocytic anemia with Hb of 7.5 g/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "High inflammatory markers with ESR of 44 mm/hour.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "CRP of 153 mg/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Elevated LDH of 444 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Abnormal liver enzymes with AST of 178 IU/L and ALT of 110 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic Workup",
+            "date": "Not specified",
+            "findings": "Low T CD3+ (141 cells/μL), low T CD4+ (119 cells/μL), low T CD8+ (22 cells/μL), normal B CD19+ (555 cells/μL) and B CD20+ (544 cells/μL), normal NK CD16+CD56+ (272 cells/μL), low IgG (83 mg/dL), normal IgA (195 mg/dL), IgM (203 mg/dL), and IgE (0.2 IU/ml). Normal NBT test, low TREC, abnormal LTT to mitogens and antigens (PHA: 1.5, BCG: 2, Candida: 1.5).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

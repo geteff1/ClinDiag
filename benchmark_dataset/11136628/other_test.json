@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pregnancy Test",
+            "date": "Not specified",
+            "findings": "Positive result indicating pregnancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychotherapy",
+            "date": "Not specified",
+            "findings": "Initial therapy focused on trust and relationship issues; later explored feelings about pregnancy.",
+            "changes_over_time": "Improved depressive symptoms with therapy, but relapsed leading to reinitiation of fluoxetine."
+        },
+        {
+            "procedure_name": "Fluoxetine Treatment",
+            "date": "Not specified",
+            "findings": "Treatment started after inadequate response to psychotherapy; fluoxetine had been effective before.",
+            "changes_over_time": "Reinitiated during pregnancy due to worsening depressive symptoms; symptoms remitted after reinitiation."
+        },
+        {
+            "procedure_name": "Ultrasound Examination",
+            "date": "Not specified",
+            "findings": "Identified the baby's sex as male.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Lobulated mass in the left lower lobe of the lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Lobulated opacity with a large feeding artery and large draining veins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary angiography",
+            "date": "Not specified",
+            "findings": "Large PAVF in the left ninth segment and a small PAVF near the main lesion.",
+            "changes_over_time": "Shunt ratio decreased from 32.7% to 9.8% after coil embolization."
+        },
+        {
+            "procedure_name": "Postembolization angiogram",
+            "date": "Not specified",
+            "findings": "Occlusion of arteriovenous shunting and preservation of normal peripheral pulmonary artery branches.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

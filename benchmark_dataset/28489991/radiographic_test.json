@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal cardiac silhouette; no consolidations or pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the tibia, fibula, and foot",
+            "date": "Not specified",
+            "findings": "Normal osseous structures without fractures or cortical erosions; diffuse nonspecific edema of the soft tissues of the ankle and proximal dorsal foot without abscesses or deep fascial thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Leukocytoclastic vasculitis confirmed by hematoxylin and eosin staining; immunofluorescence revealed positive granular perivascular immunoreactivity for IgA, C3, and fibrin.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

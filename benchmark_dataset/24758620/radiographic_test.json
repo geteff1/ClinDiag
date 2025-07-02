@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Mild pulmonary edema and small pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Patchy ground-glass opacity in the upper lungs, opacity in the right lower lobe (suggestive of atelectasis), apparent esophageal-wall thickening, mild pulmonary edema, and trace bilateral pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Changes consistent with acute retrocecal appendicitis and inflammation of the cecum, as well as hepatomegaly, splenomegaly, periportal edema, free fluid, and innumerable subcentimeter retroperitoneal lymph nodes.",
+            "changes_over_time": "No substantial change noted in a repeat CT examination on hospital day 27."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colposcopy",
+            "date": "Not specified",
+            "findings": "Chronic cervicitis with squamous metaplasia and focal reactive cytologic atypia, but no evidence of dysplasia.",
+            "changes_over_time": "Repeated Pap smears showed a low-grade squamous intraepithelial lesion with cellular changes consistent with HPV infection."
+        },
+        {
+            "procedure_name": "Pap smear",
+            "date": "Not specified",
+            "findings": "Mild dysplasia (low-grade squamous intraepithelial lesion) with cellular changes consistent with HPV infection.",
+            "changes_over_time": "Colposcopy nine months and again six months before the current evaluation showed chronic cervicitis."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cervical intraepithelial neoplasia grade 1 with changes consistent with HPV infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV Resistance Genotype Test",
+            "date": "Not specified",
+            "findings": "Reverse transcriptase None; Protease L63P.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pelvic Examination",
+            "date": "Not specified",
+            "findings": "A tender, ulcerated lesion, 1 cm in diameter, noted on the left labium, confirmed to be herpes simplex virus type 2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of herpes simplex virus type 2.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

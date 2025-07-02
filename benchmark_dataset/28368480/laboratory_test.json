@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Aldosterone-to-renin ratio",
+            "date": "Not specified",
+            "findings": "Markedly elevated aldosterone-to-renin ratio.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenal venous sampling",
+            "date": "Not specified",
+            "findings": "Lateralization ratio of 2; right adrenal gland secreting approximately twofold more aldosterone than the left when normalized for adrenal venous cortisol concentrations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma renin activity",
+            "date": "Not specified",
+            "findings": "Suppressed plasma renin activity (<0.6 ng/mL/h).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum aldosterone",
+            "date": "Not specified",
+            "findings": "Serum aldosterone of 30 ng/dL postoperatively.",
+            "changes_over_time": "Continued to have PA postoperatively."
+        },
+        {
+            "procedure_name": "Histological analysis",
+            "date": "Not specified",
+            "findings": "Five distinct adrenocortical adenomas characterized by different histologies and CYP11B2/CYP17A expression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing",
+            "date": "Not specified",
+            "findings": "Multiple distinct KCNJ5 mutations (L168R or T158A) in ZF-like tumors and a known CACNA1D mutation (G403R) in ZG-like tumor detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

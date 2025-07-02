@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Semen examination for Schistosoma haematobium eggs",
+            "date": "Not specified",
+            "findings": "Schistosoma haematobium eggs found in semen specimens from patients 1, 3, and 4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prostate biopsy",
+            "date": "Not specified",
+            "findings": "Schistosoma haematobium eggs found in a prostate biopsy specimen from patient 2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine collection for Schistosoma haematobium eggs",
+            "date": "Not specified",
+            "findings": "Positive results for Schistosoma haematobium eggs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FAST-ELISA serological testing for Schistosoma species",
+            "date": "Not specified",
+            "findings": "Positive results (for these patients, the range was 44–53 U).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the prostate",
+            "date": "Not specified",
+            "findings": "Normal findings except for patient 2, who had slight enlargement of the prostate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Eosinophil count",
+            "date": "Not specified",
+            "findings": "Patient 1 had considerable eosinophilia (8.8%, 750 eosinophils/mm3); others were within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

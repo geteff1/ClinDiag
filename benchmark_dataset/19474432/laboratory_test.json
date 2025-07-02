@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count of 13,600 cells per cubic millimeter (96% neutrophils, 3% lymphocytes, and 1% monocytes); other routine hematologic tests were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": "Opening pressure 23 cm of water; increased white cell count: Tube 1 - 131, Tube 4 - 80; differential count: Neutrophils 68%, Lymphocytes 11%, Monocytes 6%; Glucose 35 mg/dL; Protein 42 mg/dL.",
+            "changes_over_time": "CSF findings showed neutrophilic pleocytosis with a white cell count progressing from 7 to 131 (Tube 1) over 6 months prior to the last admission."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "3 weeks before admission",
+            "findings": "New white-matter changes in the internal capsule and multifocal left hemispheric changes; stable encephalomalacia of the left frontal and temporal lobes; diffuse cerebral volume loss.",
+            "changes_over_time": "MRI showed progression of previous signal abnormalities over the course of treatment."
+        },
+        {
+            "procedure_name": "Lumbar Puncture and CSF Culture",
+            "date": "Not specified",
+            "findings": "No oligoclonal bands or malignant cells; all cultures were sterile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

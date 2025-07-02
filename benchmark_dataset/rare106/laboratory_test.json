@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Proteinuria 2.9 g/gCr; Hematuria 20-29/high-power field",
+            "changes_over_time": "After treatment with oral steroids, proteinuria improved to 0.6 g/gCr."
+        },
+        {
+            "procedure_name": "Serum Creatinine Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine was 0.8 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Kidney Biopsy",
+            "date": "Not specified",
+            "findings": "Light microscopy revealed 19 glomeruli; 5 exhibited global glomerulosclerosis, 1 was a crescentic glomerulus. Two-thirds of the glomeruli had mesangial proliferation and subendothelial deposits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

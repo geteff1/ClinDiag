@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia, low-voltage, low-anterior forces, flattened T waves, and a mildly prolonged QT interval.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Systolic ejection fraction was 52%, inferolateral and inferior hypokinesis detected. Both ventricles unusually thickened and edematous. A small pericardial effusion was seen.",
+            "changes_over_time": "Repeat echocardiogram showed deterioration, with severe global systolic dysfunction of the left ventricle and an ejection fraction of 24%. A later repeat echo showed recovery of left ventricular systolic function, with no signs of myocardial edema or hypokinesis."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Large pericardial effusion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

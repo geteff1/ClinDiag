@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "1/15/14",
+            "findings": {
+                "total_cholesterol": "200 mg/dL",
+                "HDL_cholesterol": "45 mg/dL",
+                "systolic_BP": "160 mm Hg",
+                "smoker": "Yes",
+                "10_year_ASCVD_risk": "19.0%"
+            },
+            "changes_over_time": "10-year ASCVD risk decreased from 19.0% at the first visit to 8.5% at the second visit on 3/15/14, and further decreased to 7.8% at the third visit on 9/15/14."
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "3/15/14",
+            "findings": {
+                "total_cholesterol": "190 mg/dL",
+                "HDL_cholesterol": "47 mg/dL",
+                "systolic_BP": "140 mm Hg",
+                "smoker": "No",
+                "10_year_ASCVD_risk": "8.5%"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "9/15/14",
+            "findings": {
+                "total_cholesterol": "185 mg/dL",
+                "HDL_cholesterol": "48 mg/dL",
+                "systolic_BP": "130 mm Hg",
+                "smoker": "No",
+                "10_year_ASCVD_risk": "7.8%"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

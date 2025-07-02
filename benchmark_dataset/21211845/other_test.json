@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Full-field electroretinogram (ffERG)",
+            "date": "Age 10, Age 18",
+            "findings": "At age 10, no recordable rod response after standard dark adaptation, normal combined response, normal cone response. At age 18, barely recordable rod response after standard dark adaptation, normalization (increase by more than 700%) of response after prolonged dark adaptation.",
+            "changes_over_time": "At age 18, the cone 30-Hz flicker response was reduced after standard dark adaptation and increased by 250% after prolonged dark adaptation."
+        },
+        {
+            "procedure_name": "Multifocal electroretinography (mfERG)",
+            "date": "Age 18",
+            "findings": "Demonstrated reduced central and peripheral responses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Age 18",
+            "findings": "Reduced thickness of the central retina and the RPE–outer segment complex documented.",
+            "changes_over_time": "Reduction of central retinal thickness was documented at age 18."
+        },
+        {
+            "procedure_name": "Fundus autofluorescence (FAF)",
+            "date": "Age 18",
+            "findings": "Severely reduced intensity of FAF in the entire fundus.",
+            "changes_over_time": "FAF was homogenously reduced and did not change after prolonged dark adaptation."
+        }
+    ]
+}

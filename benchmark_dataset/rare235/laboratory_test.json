@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histological examination of the spleen",
+            "date": "Not specified",
+            "findings": "Cells of moderate size with oval-shaped nuclei, exhibiting abnormalities in their nuclear structure and small nucleoli.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry of the spleen",
+            "date": "Not specified",
+            "findings": "CD2-, CD3+, CD5-, CD7+, CD20- PAX5-, CD79α-, CD23-, TIA-1+, CD56-, granzyme B-, CD4-, CD8-, CD30-, CD138-, ALK-, Ki-67 + 60%. Cells were positive for TCRγ rearrangement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Splenic flow cytometry analysis",
+            "date": "Not specified",
+            "findings": "Abnormal T cells accounting for ~22.94% of total cells with various positive and negative cell markers.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT scans",
+            "date": "Not specified",
+            "findings": "A substantially reduced number of lesions compared to prior scans after chemotherapy.",
+            "changes_over_time": "Substantially reduced number of lesions after chemotherapy."
+        },
+        {
+            "procedure_name": "CMV DNA levels",
+            "date": "Post-transplantation day +46",
+            "findings": "Raised to 7.82x10^3 copies/mL.",
+            "changes_over_time": "Improved with ganciclovir antiviral treatment."
+        },
+        {
+            "procedure_name": "Graft-versus-host response assessment",
+            "date": "Post-transplantation day +85",
+            "findings": "Developed grade I/II gastrointestinal graft-versus-host response.",
+            "changes_over_time": "Improved with glucocorticoid and cyclosporine treatment."
+        },
+        {
+            "procedure_name": "Herpes zoster infection assessment",
+            "date": "Post-transplantation day +443",
+            "findings": "Developed herpes zoster infection.",
+            "changes_over_time": "Improved with valaciclovir antiviral therapy."
+        }
+    ]
+}

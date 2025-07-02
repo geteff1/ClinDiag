@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Deep Brain Stimulation (DBS)",
+            "date": "Not specified",
+            "findings": "Obsessive Compulsive Scale score was 32 prior to DBS.",
+            "changes_over_time": "After DBS, the score decreased to 10, indicating significant improvement in OCD symptoms."
+        },
+        {
+            "procedure_name": "Cognitive assessments",
+            "date": "Baseline (pre-stimulation) and 8 months after DBS began",
+            "findings": "At baseline, the stop-signal reaction time performance was impaired (z=1.0). After DBS, it changed little (post-treatment z=0.8).",
+            "changes_over_time": "Despite significant improvement in OCD symptoms, the stop-signal reaction time performance had minimal change."
+        }
+    ]
+}

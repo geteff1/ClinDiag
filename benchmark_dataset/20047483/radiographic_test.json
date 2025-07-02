@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Possible nodular opacity in the right upper lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Bilateral patchy consolidation with peripheral ground-glass opacities.",
+            "changes_over_time": "CT following extubation showed marked improvement of the areas of nodularity and ground-glass throughout the lungs, with residual opacities in the right upper lobe and left lung base."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Findings consistent with acute respiratory distress syndrome.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

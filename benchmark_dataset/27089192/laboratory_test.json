@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Rheumatoid factor test",
+            "date": "Not specified",
+            "findings": "Rheumatoid factor of 8.5 IU/mL (normal range, 0–13.9 IU/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "2 mm/hr (normal range, 0–40 mm/hr)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein test",
+            "date": "Not specified",
+            "findings": "0.4 mg/L (normal range, 0–4.9 mg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibodies test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

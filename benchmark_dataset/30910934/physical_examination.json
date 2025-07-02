@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "serum_albumin": "24 g/L",
+                "serum_cholesterol": "4.55 mmol/L",
+                "serum_creatinine": "53 mmol/L",
+                "serum_urea_nitrogen": "4.2 mmol/L"
+            },
+            "relevant_findings": {
+                "urinary_protein_excretion": "8.34 g",
+                "urinary_albumin": "3+",
+                "normal_audiometry": "Present",
+                "skin_test": "Continuous collagen IV"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

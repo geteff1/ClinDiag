@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid profile",
+            "date": "Not specified",
+            "findings": {
+                "initial_total_cholesterol": "600 mg/dL",
+                "initial_triglyceride": "160 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": {
+                "diagnosis": "Fatty liver",
+                "microscopic_findings": "Swollen hepatocytes, large lipid droplets (identified with Sudan III staining)"
+            },
+            "changes_over_time": "An increase of triglyceride was prominent among other lipids."
+        },
+        {
+            "procedure_name": "DNA sequencing",
+            "date": "Not specified",
+            "findings": {
+                "mutation": "Insertion of an extra cytosine between nucleotides 599 and 606 in exon 6"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Northern blot analysis",
+            "date": "Day 7 post-seeding (Not specified)",
+            "findings": {
+                "ARH_mRNA": "Not detected in patients' fibroblasts, faint band in the mother",
+                "LDL_receptor_mRNA": "Normal levels in patients"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": {
+                "ARH_protein": "Not detectable in patients, present in heterozygous mother"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

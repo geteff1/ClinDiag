@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39 °C",
+                "blood_pressure": "93/53 mm Hg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "Not specified",
+                "recorded_date": "Day 20 of neutropenia"
+            },
+            "relevant_findings": {
+                "findings": "Normal sinus rhythm and QTc interval within normal limits during initial therapy.",
+                "recorded_date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 9 of fever",
+            "vital_signs": {
+                "temperature": "41 °C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "recorded_date": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "New infiltrates on chest radiography; treatment was changed to liposomal amphotericin B due to adverse effects.",
+                "recorded_date": "Day 9 of fever"
+            },
+            "changes_over_time": "Condition worsened with new infiltrates."
+        },
+        {
+            "date": "Day 22 of voriconazole treatment",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "117/67 mm Hg",
+                "heart_rate": "28 bpm",
+                "respiratory_rate": "Not specified",
+                "recorded_date": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Bradycardia associated with QTc prolongation to 0.57 s; serum potassium level was 3.2 mmol/L.",
+                "recorded_date": "Day 22 of voriconazole treatment"
+            },
+            "changes_over_time": "Bradycardia worsened from previous normal heart rate."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "53 to 110 bpm",
+                "respiratory_rate": "Not specified",
+                "recorded_date": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "QTc interval normalized to 0.43 s after discontinuation of voriconazole.",
+                "recorded_date": "Post-discontinuation of voriconazole"
+            },
+            "changes_over_time": "Heart rate normalized from 28 bpm after removal of arrhythmogenic medications."
+        }
+    ]
+}

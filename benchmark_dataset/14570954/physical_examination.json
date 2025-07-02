@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 2002",
+            "vital_signs": {
+                "blood_pressure": "120/80 mm Hg",
+                "heart_rate": "100/min, irregularly irregular"
+            },
+            "relevant_findings": {
+                "ecg": "AF with a ventricular rate of approximately 100/min, nonspecific ST-T wave changes",
+                "cholesterol": "Total cholesterol 291 mg/dL (high-density lipoprotein cholesterol, 75 mg/dL)"
+            },
+            "changes_over_time": "AF progressed from paroxysmal to persistent over 2 years"
+        },
+        {
+            "date": "September 2002",
+            "vital_signs": {
+                "heart_rate": "80 to 100/min"
+            },
+            "relevant_findings": "Found to be in AF during preoperative evaluation for cataract surgery",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "May 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "AF with moderate ventricular response noted during emergency visit",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "December 2000",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Self-limited episodes of palpitations and throat tightness",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium Test",
+            "date": "Not specified",
+            "findings": "Serum calcium levels were 1.4 mmol/liter (normal range: 2.2 – 2.6 mmol/liter); serum phosphate levels were 4.1 mmol/liter (normal range: 1.0 – 1.4 mmol/liter). PTH was undetectable.",
+            "changes_over_time": "Calcium and phosphate levels normalized after treatment with calcium and vitamin D; gradual normalization of the Q-T interval."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Prolonged Q-T interval.",
+            "changes_over_time": "Gradual normalization of the Q-T interval following treatment."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "TSH: 2.8 mU/liter (normal range: 0.2 – 3.5 mU/liter); free T4: 9.2 pg/ml (normal range: 6 – 18 pg/ml); free T3: 2.7 pg/ml (normal range: 2.2 – 3.5 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Antibody Test",
+            "date": "Not specified",
+            "findings": "Thyroglobulin Ab: 973 U/ml (normal range: /H1102120 U/ml); thyroid peroxidase Ab: 1452 U/ml (normal range: /H1102115 U/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PTH Test",
+            "date": "Not specified",
+            "findings": "PTH was within normal range (28.6 pg/ml; normal range: 9 – 65 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "25-hydroxyvitamin D Test",
+            "date": "Not specified",
+            "findings": "25-hydroxyvitamin D3: 13.4 pg/ml (normal range: 16 – 74 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cortisol Test",
+            "date": "Not specified",
+            "findings": "Cortisol (0900 h): 736 nmol/liter (normal range: 179 – 690 nmol/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ACTH Test",
+            "date": "Not specified",
+            "findings": "ACTH: 2.8 pmol/liter (normal range: 2.2 – 11.7 pmol/liter).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

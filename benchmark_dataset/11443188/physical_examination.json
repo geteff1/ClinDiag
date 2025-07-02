@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/80 mm Hg",
+                "other": "Not specified"
+            },
+            "relevant_findings": {
+                "manifestations": [
+                    "Penile enlargement (9.5 cm)",
+                    "Increased growth velocity (statural age of 7 yr, 9 months)",
+                    "Advanced bone age (11 yr, 6 months)",
+                    "Elevated blood pressure for age"
+                ],
+                "hormonal_data": [
+                    "Increased 11-deoxycortisol (638 nmol/L)",
+                    "Increased androstenedione (125 nmol/L)",
+                    "Undetectable PRA",
+                    "Undetectable aldosterone"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

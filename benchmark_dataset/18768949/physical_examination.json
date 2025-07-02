@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "pulse": "118 bpm",
+                "blood_pressure": "151/92 mmHg"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared to be in pain and was lying extremely still and rigid in bed. No lymphadenopathy was noted.",
+                "abdominal": "Distant bowel sounds were present, exquisite tenderness to palpation in the right and left lower quadrants, rebound, and guarding were noted. No hepatosplenomegaly.",
+                "kidney": "Tenderness at the costovertebral angle on the right side.",
+                "rectal": "Normal tone, with guaiac-negative stool.",
+                "leg": "Mildly swollen left lower leg without erythema.",
+                "skin": "No rashes, petechiae, or bruising."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "1 week earlier",
+            "vital_signs": {
+                "creatinine_level": "1.1 mg/dL",
+                "creatinine_level_now": "1.3 mg/dL"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Creatinine level increased from 1.1 mg/dL to 1.3 mg/dL."
+        },
+        {
+            "date": "Next 24 hours after admission",
+            "vital_signs": {
+                "creatinine_level": "1.5 mg/dL"
+            },
+            "relevant_findings": {
+                "urine": "Continued to have dark, tea-colored urine."
+            },
+            "changes_over_time": "Serum creatinine level rose from 1.3 mg/dL to 1.5 mg/dL."
+        },
+        {
+            "date": "2 months follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Complete resolution of hematuria and pain symptoms.",
+            "changes_over_time": "Symptoms gradually resolved over the next several weeks."
+        }
+    ]
+}

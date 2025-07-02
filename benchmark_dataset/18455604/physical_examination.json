@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/80 mm Hg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": [
+                    "Mild kyphosis",
+                    "Normal habitus (172 cm/60 kg)",
+                    "Not diaphoretic",
+                    "Heart sounds were normal",
+                    "Symmetric peripheral pulsations",
+                    "Mild hypertelorism",
+                    "No ocular or skeletal signs of Marfan syndrome",
+                    "No skin hyperlaxity",
+                    "No increased joint mobility",
+                    "No bifid uvula"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Tumor Histopathology",
+            "date": "Not specified",
+            "findings": "The patient's tumor was a moderately cellular neoplasm formed by bland neoplastic neurons, oligodendroglial-like cells, and adipocytes. Neural rosettes were numerous. No evidence of necrosis or tumor-related vascular changes. Immunopositivity for NeuN, microtubule-associated protein 2 (MAP-2), and synaptophysin. Focal GFAP labeling. Immunonegative for IDH1-R132H. Rare p53 immunopositivity and less than 1% Ki 67 immunopositivity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ Hybridization",
+            "date": "Not specified",
+            "findings": "Showed no deletions of 1p, 19q, or TP53 and no amplification of the epidermal growth factor receptor gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor Histopathology (Mother's Tumor)",
+            "date": "1992",
+            "findings": "Moderately to densely cellular neoplasm that was well circumscribed with focal areas of vascular hyalinosis. Predominantly spindle-shaped tumor cells with long eosinophilic processes. Similar immunoprofile to the daughter's tumor without staining for p53.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

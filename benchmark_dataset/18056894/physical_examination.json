@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F (36°C)",
+                "blood_pressure": "124/70 mm Hg",
+                "heart_rate": "64/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "left_epitrochlear_lymph_node": "palpable, firm",
+                "axillary_nodes": "not palpable",
+                "heart": "no murmur or stigmata of endocarditis",
+                "left_index_finger": {
+                    "description": "erythematous, edematous area",
+                    "size": "approximately 3 cm",
+                    "location": "between MCP and PIP joints on the dorsal surface",
+                    "lymphangitic_streaking": "noted on dorsum of hand and extending to forearm",
+                    "range_of_motion": "significantly limited"
+                }
+            },
+            "changes_over_time": "Worsening of redness, pain, and swelling over a 2-day period before seeking care."
+        }
+    ]
+}

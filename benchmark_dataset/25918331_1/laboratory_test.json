@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hb 4.3 mmol/l, MCV 57.4 fl, ferritin 1 ug/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron supplementation",
+            "date": "Three months later",
+            "findings": "Anaemia completely resolved, ferritin level normalised",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron supplementation",
+            "date": "Follow-up visit",
+            "findings": "Anaemia resolved, ferritin levels remained low",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron supplementation",
+            "date": "Not specified",
+            "findings": "Hb, MCV, and ferritin-level normalised",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

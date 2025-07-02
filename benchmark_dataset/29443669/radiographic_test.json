@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Left basilar opacity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Hospital day 5 (twelve days before current admission)",
+            "findings": "Subtle hyperintensity in the occipital sulci bilaterally; subtle enhancement in some occipital sulci; non-specific hyperintense focus in the right corona radiata; no evidence of acute ischemia, intracranial hemorrhage, or mass lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "No evidence of brain swelling, edema, ischemia, hemorrhage, or other acute intracranial abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

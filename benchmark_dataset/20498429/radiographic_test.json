@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polysomnogram (PSG)",
+            "date": "Not specified",
+            "findings": "Mild obstructive sleep apnea (OSA) with significant upper airway resistance syndrome (UARS), mild periodic limb movements of sleep (PLMS) at 7/hour, and generalized spike-wave discharges in non-REM sleep and in wakefulness.",
+            "changes_over_time": "Follow-up PSG showed resolution of the OSA, improved sleep efficiency, and reduced snoring and arousal index."
+        },
+        {
+            "procedure_name": "Multiple Sleep Latency Test (MSLT)",
+            "date": "Not specified",
+            "findings": "Showed sleep onset REM (SOREM) in 2 of the 5 naps and a normal sleep latency of 18 minutes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour ambulatory EEG",
+            "date": "Not specified",
+            "findings": "Frequent 1- to 4-second bursts of 4 Hz, irregular generalized spike/polyspike and slow wave complexes potentiated by hyperventilation and associated with subtle clinical seizures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "115.3 kg",
+                "height": "160 cm"
+            },
+            "relevant_findings": {
+                "facial_features": [
+                    "intermittent left-sided convergent squint",
+                    "almond-shaped eyes with antimongoloid slant",
+                    "prominent epicanthic folds",
+                    "narrow bifrontal diameter",
+                    "cupid's-bow mouth with thin superior vermillion margin",
+                    "striking truncal obesity"
+                ],
+                "breast_development": "Tanner 4",
+                "axillary_and_pubic_hair": "sparse",
+                "menstrual_period": "never had a menstrual period",
+                "skin_conditions": "constantly picks at her skin",
+                "behavioral_observations": [
+                    "stubborn and argumentative",
+                    "uses third person singular when upset"
+                ]
+            },
+            "changes_over_time": "Skin picking habit has improved recently."
+        }
+    ]
+}

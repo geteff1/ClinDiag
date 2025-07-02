@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cortisol",
+            "date": "May 1999",
+            "findings": "70 nmol/liter (reference range, 150-700 nmol/liter)",
+            "changes_over_time": "Increased to 306 nmol/liter in October 1999, then decreased to 96 nmol/liter in October 2000."
+        },
+        {
+            "procedure_name": "ACTH",
+            "date": "May 1999",
+            "findings": "8.6 ng/liter (reference range, 0-50 ng/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aldosterone",
+            "date": "May 1999",
+            "findings": "133 pmol/liter (reference range, 170-610 pmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renin",
+            "date": "May 1999",
+            "findings": "2 ng/liter (reference range, 5-65 ng/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Androstenedione",
+            "date": "May 1999",
+            "findings": "2.4 nmol/liter (reference range, 1.7-10.0 nmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testosterone",
+            "date": "May 1999",
+            "findings": "<0.1 nmol/liter (reference range, 8.0-35.0 nmol/liter)",
+            "changes_over_time": "Increased to 10.7 nmol/liter in October 1999 and then decreased to 10.7 nmol/liter in October 2000."
+        },
+        {
+            "procedure_name": "SHBG",
+            "date": "May 1999",
+            "findings": "18 nmol/liter (reference range, 10-70 nmol/liter)",
+            "changes_over_time": "Decreased to 12 nmol/liter in October 1999, then increased to 16 nmol/liter in October 2000."
+        },
+        {
+            "procedure_name": "LH",
+            "date": "May 1999",
+            "findings": "<0.1 U/liter (reference range, 1.8-8.0 U/liter)",
+            "changes_over_time": "No changes over time described."
+        },
+        {
+            "procedure_name": "FSH",
+            "date": "May 1999",
+            "findings": "0.4 U/liter (reference range, 1.5-6.0 U/liter)",
+            "changes_over_time": "Decreased to 0.2 U/liter in October 1999 and then to 0.1 U/liter in October 2000."
+        },
+        {
+            "procedure_name": "Prolactin",
+            "date": "May 1999",
+            "findings": "290 mU/liter (reference range, 100-300 mU/liter)",
+            "changes_over_time": "Decreased to 140 mU/liter in October 1999 and then decreased to 100 mU/liter in October 2000."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "May 1999",
+            "findings": "7.35 mU/liter (reference range, 0.4-4.0 mU/liter)",
+            "changes_over_time": "Decreased to 1.6 mU/liter in October 1999 and then to 0.15 mU/liter in October 2000."
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "May 1999",
+            "findings": "6.1 pmol/liter (reference range, 10.0-21.0 pmol/liter)",
+            "changes_over_time": "Increased to 8.3 pmol/liter in October 1999 and then increased to 9.4 pmol/liter in October 2000."
+        },
+        {
+            "procedure_name": "Glucose (75g)",
+            "date": "Not specified",
+            "findings": "5.9 mmol/liter (increased to 7.0 mmol/liter, then 7.7 mmol/liter, then decreased to 5.0 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "Not specified",
+            "findings": "27.1 mU/liter (increased to 58.5 mU/liter)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "blood_pressure": "105/58 mm Hg",
+                "heart_rate": "111 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "lungs": "Scattered focal crackles",
+                "heart": "Normal heart sounds with an intermittent soft murmur at the left lower sternal border",
+                "lymphadenopathy": "Inguinal lymphadenopathy noted",
+                "intravenous_drug_use_marks": "Marks on arms, legs, and femoral regions consistent with intravenous drug administration",
+                "right_knee": {
+                    "status": "Warm",
+                    "effusion": "Small effusion on the medial aspect",
+                    "tenderness": "Mild tenderness",
+                    "motion": "Normal range of motion",
+                    "erythema": "No erythema"
+                },
+                "spine": {
+                    "tenderness": "Tender between T12 and L3 vertebrae",
+                    "paraspinal_discomfort": "No paraspinal discomfort"
+                },
+                "remainder": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Morning of hospital day 2",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "heart": "Soft murmur at the left sternal border that had not previously been documented"
+            },
+            "changes_over_time": "Soft murmur noted on hospital day 2 that was not documented previously"
+        }
+    ]
+}

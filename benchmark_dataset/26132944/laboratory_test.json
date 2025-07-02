@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "1600 per cubic millimeter",
+                "neutrophils_percentage": "70%",
+                "lymphocytes_percentage": "28%",
+                "eosinophils_percentage": "2%",
+                "absolute_neutrophil_count": "1120 cells per cubic millimeter",
+                "hemoglobin_level": "12.9 g per deciliter",
+                "platelet_count": "111,000 per cubic millimeter"
+            },
+            "changes_over_time": "Decreased slightly to 1190 per cubic millimeter, with 86% neutrophils."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "Elevated at 102.3 mg per liter (normal value, <3 mg per liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tuberculosis Tests (IGRA and Tuberculin Skin Test)",
+            "date": "Not specified",
+            "findings": "Negative for active Mycobacterium tuberculosis infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET Scan",
+            "date": "Not specified",
+            "findings": "Showed supraclavicular and mediastinal adenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Mild papillary edema and neutrophil-predominant interstitial dermatitis; no indications of leukemia cutis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Negative for Mycobacterium species initially; subsequently positive for pan-sensitive M. tuberculosis.",
+            "changes_over_time": "Negative at first, became positive during the second hospitalization."
+        }
+    ]
+}

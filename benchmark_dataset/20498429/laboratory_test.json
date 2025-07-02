@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Iron Binding Capacity",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid-Stimulating Hormone",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HLA Testing for Narcolepsy",
+            "date": "Not specified",
+            "findings": "Normal HLA subtypes (DRB1*1501, DQB1*0602, etc.)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polysomnogram (PSG)",
+            "date": "Not specified",
+            "findings": "Mild OSA with significant upper airway resistance syndrome (UARS), mild periodic limb movements of sleep at 7/hour, generalized spike-wave discharges in non-REM sleep and wakefulness.",
+            "changes_over_time": "Follow-up PSG showed resolution of the OSA, improved sleep efficiency, and reduced snoring and arousal index."
+        },
+        {
+            "procedure_name": "Multiple Sleep Latency Test (MSLT)",
+            "date": "Not specified",
+            "findings": "Sleep onset REM (SOREM) in 2 of 5 naps, normal sleep latency of 18 minutes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour ambulatory EEG",
+            "date": "Not specified",
+            "findings": "Frequent 1-4 second bursts of 4 Hz, irregular generalized spike/polyspike and slow wave complexes associated with subtle clinical seizures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

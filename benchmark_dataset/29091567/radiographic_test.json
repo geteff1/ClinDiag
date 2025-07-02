@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Normal-sized liver with mild steatosis and splenomegaly (16 cm in sagittal diameter), no gallstones, biliary-duct dilatation, or evidence of cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Sludge-filled gallbladder with wall thickening and pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance cholangiopancreatography (MRCP)",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening, irregularity, associated pericholecystic fluid, moderate amount of dependent sludge in the gallbladder, fatty infiltration of the liver and splenomegaly noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography (2 years earlier)",
+            "date": "Not specified",
+            "findings": "Hepatomegaly with fatty liver infiltration and splenomegaly (16 cm in sagittal diameter), no gallstones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral-blood smear",
+            "date": "Not specified",
+            "findings": "Showed Pappenheimer bodies (iron-containing granules), no spur cells, schistocytes, or spherocytes.",
+            "changes_over_time": "Peripheral-blood smear obtained 7 months later showed multiple spherocytes."
+        }
+    ]
+}

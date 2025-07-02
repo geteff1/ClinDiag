@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroglobulin",
+            "date": "Not specified",
+            "findings": "Thyroglobulin concentration of 3750 ng/mL, should be undetectable after thyroidectomy.",
+            "changes_over_time": "Thyroglobulin concentration decreased considerably to 17 ng/mL at last follow-up."
+        },
+        {
+            "procedure_name": "TSH concentration",
+            "date": "Not specified",
+            "findings": "Raised TSH concentration (>80 mU/L) during the fifth course of RIT.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Low serum calcium concentrations leading to treatment for postoperative hypoparathyroidism.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Parathormone",
+            "date": "Not specified",
+            "findings": "Low parathormone concentrations leading to treatment for postoperative hypoparathyroidism.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

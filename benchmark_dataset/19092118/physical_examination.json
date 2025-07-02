@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "165/95 mmHg",
+                "heart_rate": "72 bpm",
+                "weight": "155 lb",
+                "usual_weight": "140 lb",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "periorbital_edema": "Present",
+                "ankle_edema": "Present",
+                "serum_creatinine": "2.1 mg/dl",
+                "serum_albumin": "2.4 g/dl",
+                "cholesterol": "260 mg/dl",
+                "triglycerides": "240 mg/dl",
+                "hemoglobin": "10.4 g/dl",
+                "urine_protein": "Positive (4+)",
+                "red_blood_cells": "5 to 10 per high power field"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

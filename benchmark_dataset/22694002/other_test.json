@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm and a rate of 66 beats per minute, with an incomplete right-bundle-branch block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "Irregular narrowing of the cervical right internal carotid artery; presence of an intimal flap and a pseudoaneurysm at the base of the skull.",
+            "changes_over_time": "Magnetic resonance angiography at 8 months revealed a persistent pseudoaneurysm, decreased in size from the initial imaging, and apparent resolution of the narrowing of the proximal cervical internal carotid artery."
+        },
+        {
+            "procedure_name": "Neurologic Examination",
+            "date": "Two months after discharge",
+            "findings": "Horner’s syndrome had essentially resolved, mild ptosis remained; the patient could phonate normally, was no longer hoarse, and reported no dysphagia.",
+            "changes_over_time": "Five months after initial presentation, results of the neurologic examination were completely normal."
+        }
+    ]
+}

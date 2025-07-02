@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count of 11,150 per cubic millimeter with 83% polymorphonuclear leukocytes, 10% lymphocytes, 5% mononuclear cells, 1% eosinophils, and 1% basophils. Hematocrit was 30.1%, and platelet count was 339,000 per cubic millimeter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "107 mm per hour.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "25.4 mg per liter (normal range, 0 to 0.5).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Chemical Profile",
+            "date": "Not specified",
+            "findings": "Potassium level of 2.9 mmol per liter (normal range, 3.5 to 5.0), glucose level of 287 mg per deciliter (normal range, 60 to 99), albumin level of 1.9 g per deciliter (normal range, 3.5 to 5.5), and total protein level of 5.0 g per deciliter (normal range, 6.0 to 8.2).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "Patchy infiltrates and cavitary lesion in the right upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "Not specified",
+            "findings": "Confirmed cavitary lesion and multiple smaller infiltrates throughout the right lung.",
+            "changes_over_time": "Showed a reduction in the size of the lung cavity after treatment."
+        },
+        {
+            "procedure_name": "MRI of the Spine",
+            "date": "Not specified",
+            "findings": "Large paraspinal abscess.",
+            "changes_over_time": "Analysis showed improvement during the hospitalization period."
+        },
+        {
+            "procedure_name": "Analysis of Cerebrospinal Fluid (CSF)",
+            "date": "Not specified",
+            "findings": "4 white cells per cubic millimeter with normal glucose and protein levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Staining of Induced Sputum, Blood, and CSF",
+            "date": "Not specified",
+            "findings": "All negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Identification of Gram-Negative Rods",
+            "date": "Not specified",
+            "findings": "Gram-negative bacilli identified from drainage material grew and were identified as oxidase-positive.",
+            "changes_over_time": "Identified as Burkholderia pseudomallei on the ninth hospital day."
+        }
+    ]
+}

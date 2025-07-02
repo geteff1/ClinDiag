@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "TT4": "44 nmol/liter (normal range, 64–161)",
+                "TSH": "2.7 mU/liter (normal range, 0.4–5.5)"
+            },
+            "changes_over_time": "TT4 levels were variable, subsequently reported as 67 nmol/liter (normal range) and later at 135 nmol/liter, while TSH decreased to 0.05 mU/liter."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "TT4": "100 nmol/liter",
+                "TT3": "1.92 nmol/liter (normal range, 1.38–2.84)",
+                "free T4": "14 pmol/liter (normal range, 10–26)",
+                "TSH": "3.2 mU/liter",
+                "TBG": "32 mg/liter (normal range, 14–26)"
+            },
+            "changes_over_time": "Both TT4 and TT3 were normal but below expected values for the third trimester of pregnancy."
+        },
+        {
+            "procedure_name": "Thyroid function tests (3 samples)",
+            "date": "Not specified",
+            "findings": {
+                "TT4": "Ranged from 26–136 nmol/liter",
+                "TBG": "Ranged from 9–19 mg/liter (normal range, 14–26)"
+            },
+            "changes_over_time": "TT4 levels fluctuated significantly during the 15 months after delivery."
+        },
+        {
+            "procedure_name": "T4-binding analysis of TBG in serum",
+            "date": "Not specified",
+            "findings": {
+                "TBG binding capacity": "278 nM (15.0 mg/liter) in proposita, 227 nM (12.2 mg/liter) in son, 328 nM (17.7 mg/liter) in father",
+                "Affinity": "Normal"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

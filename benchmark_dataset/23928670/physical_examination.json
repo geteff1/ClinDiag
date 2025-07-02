@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 95.9 cm (SDS -3.7), Weight: 11.4 kg (SDS -3.2), Head circumference: 46.3 cm (SDS -2.7)",
+            "relevant_findings": "Neurological, cardiovascular, respiratory, and abdominal examinations were all normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 91.4 cm (SDS -4.5), Weight: 10.3 kg (SDS -3.6), Head circumference: 45.9 cm (SDS -3.2)",
+            "relevant_findings": "Neurological, cardiovascular, respiratory, and abdominal examinations were all normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 11 years of age",
+            "vital_signs": "TSH: 9.7 mU/L, Free T4: 14.4 pmol/L",
+            "relevant_findings": "Developed a mild photosensitive facial rash diagnosed as cutaneous lupus erythematosus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 16 years of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Presented with difficulty swallowing, cough, and weight loss. A chest X-ray showed a mediastinal mass.",
+            "changes_over_time": "Underlying condition progressed to a diagnosis of B cell non-Hodgkin lymphoma."
+        },
+        {
+            "date": "At 9 years of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed a photosensitive facial rash diagnosed as hemorrhagic polymorphous light eruption.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "At 7 years of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Dysmorphic features became more prominent: hypertelorism, mild down slant, pointed nose, full lips, clinodactyly.",
+            "changes_over_time": "Dysmorphic features initially subtle became more prominent over time."
+        }
+    ]
+}

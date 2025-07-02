@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "blood_pressure": "113/58 mm Hg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared diaphoretic.",
+                "lungs": "No wheezes or crackles.",
+                "heart": "Normal heart sounds.",
+                "abdomen": "Normal.",
+                "skin": "Normal.",
+                "arms_and_legs": "Normal.",
+                "blood_glucose": "128 mg/dL (7.1 mmol/L)",
+                "serum_creatinine": "1.1 mg/dL (97 μmol/L)",
+                "urea_nitrogen": "14 mg/dL (5.0 mmol/L)",
+                "white_cell_count": "5400/mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7°C",
+                "blood_pressure": "106/83 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "22 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared jaundiced, dyspneic, and delirious.",
+                "white_cell_count": "26,900/mm³ (96% neutrophils)",
+                "total_bilirubin": "11.5 mg/dL (197 μmol/L)"
+            },
+            "changes_over_time": "Clinical status deteriorated; new findings of jaundice and an elevated white blood cell count."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "bone_marrow_biopsy": "Scattered epithelioid and giant-cell granulomas; no malignant cells seen.",
+                "hepatic_biopsy": "Granulomas with central lipid vacuoles."
+            },
+            "changes_over_time": "Progressive multiorgan dysfunction observed."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A mass involving the lateral orbital musculature, with no evidence of bony erosion or invasion.",
+            "changes_over_time": "Enlarged tumor mass with areas of hypodensity, consistent with necrosis at one week after chemotherapy."
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "Not specified",
+            "findings": "Well-defined mass posterior and lateral to the globe, measuring 2.2 x 1.5 cm; displaced the optic nerve medially and involved the lateral and superior rectus and superior oblique muscles.",
+            "changes_over_time": "Densely enhancing mass has markedly decreased in size after chemotherapy."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Large mass in the right supero-lateral aspect of the orbit, indistinguishable from the superior oblique, superior rectus, and lateral rectus muscles.",
+            "changes_over_time": "Mass effect on the adjacent orbital structures has decreased, as has the proptosis after chemotherapy."
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "14 months after diagnosis",
+            "findings": "A very small residual soft-tissue mass that enhances with contrast material.",
+            "changes_over_time": "The residual mass has not changed in size and will be followed with serial imaging."
+        }
+    ]
+}

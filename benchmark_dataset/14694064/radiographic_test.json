@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "March 10",
+            "findings": "bilateral pneumonia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest X-ray",
+            "date": "March 14",
+            "findings": "increased infiltration in the right lower lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lumbosacral X-ray",
+            "date": "Not specified",
+            "findings": "excluded local lesions in the nerve roots",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "day 5",
+            "findings": "questionable nonenhancing hyperintensity in the central pons and decreased ADC values",
+            "changes_over_time": "New nonenhancing lesions appeared on MRI on day 13 in both thalami with increased T2 signal"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "day 13",
+            "findings": "increased T2 signal throughout the midbrain, pons, medulla, and cerebellar hemispheres with increased ADC values in the pons and thalami",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "day 4",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Opening Pressure Measurement",
+            "date": "Not specified",
+            "findings": "34 cm of water (normal range, 10 to 20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Red-cell count: 255 per cubic millimeter; Glucose level: 125 mg per deciliter (normal range 50 to 75); Total protein level: 26 mg per deciliter (normal range 5 to 55); Nucleated-cell count: 28 per cubic millimeter (90% lymphocytes)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "On Admission Hospital Day 3",
+            "findings": {
+                "Hemoglobin": "7.1 g/dl (reference range 13.5–17.5);",
+                "Hematocrit": "21.2% (reference range 36.0–46.0);",
+                "White-cell count": "3250 per mm3 (reference range 4500–11,000);",
+                "Platelet count": "109,000 per mm3 (reference range 150,000–400,000);",
+                "Sodium": "134 mmol/liter (reference range 135–145);",
+                "Potassium": "3.4 mmol/liter (reference range 3.4–5.0);",
+                "Calcium": "8.8 mg/dl (reference range 8.5–10.5);",
+                "Albumin": "2.6 g/dl (reference range 3.3–5.0);",
+                "Ammonia": "13 μmol/liter (reference range 12–48);",
+                "pH": "7.46 (reference range 7.30–7.40);",
+                "Prothrombin-time international normalized ratio": "1.6 (reference range 0.9–1.1);",
+                "Partial-thromboplastin time": "45.4 seconds (reference range 22–35)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Hospital Day 3",
+            "findings": {
+                "Opening Pressure": "17 cm of water;",
+                "Red-cell count": "81 per mm3;",
+                "Nucleated-cell count": "N/A;",
+                "Lymphocytes (%)": "97%;",
+                "Protein": "76 mg/dl (reference range 5–55);",
+                "Glucose": "62 mg/dl (reference range 50–75)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Toxicology Screen",
+            "date": "Not specified",
+            "findings": "Negative for salicylates, acetaminophen, ethanol, and tricyclics",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Toxicology Screen",
+            "date": "Not specified",
+            "findings": "Positive for cannabinoids; Negative for amphetamines, barbiturates, benzodiazepines, cocaine, opiates, and phencyclidine",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

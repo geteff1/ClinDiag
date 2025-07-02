@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "2008",
+            "findings": "CSF parameters normal (glucose 82 mg/dL, ADA 3 U/L, proteins 45 mg/dL, 2 cells/mm³)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CSF showed lymphocytic pleocytosis with increased proteins and ADA levels, and low glucose",
+            "changes_over_time": "Progressive improvement of CSF values over time, with a last sample showing 9 cells/mm³ and normal protein and glucose contents, 4 months after initial symptoms."
+        },
+        {
+            "procedure_name": "PCR for mumps virus",
+            "date": "Day 10 after admission",
+            "findings": "Positive (genotype G1)",
+            "changes_over_time": "Negative on sample obtained on day 18 after admission."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Diffuse slowing without paroxysmal features",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tuberculin skin test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Initial",
+            "findings": "Acute obstructive hydrocephalus with ventricular synechiae",
+            "changes_over_time": "Repeated MRI showed progressive improvement of hydrocephalus."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of thorax and abdomen",
+            "date": "Not specified",
+            "findings": "Prostatic hypertrophy and basal pleural-parenchymal hyperdensity in the left lung, interpreted as the result of an infective process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Excluded the presence of basal ganglia calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Punctiform T2 hyperintense lesions in bihemispheric white matter of probable vascular origin; basal ganglia appeared to be spared; mild bilateral hippocampal atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Hyperfixation of pulmonary bases and a few thoracic lymph nodes, interpreted as basal pneumonia; diffuse cortical hypermetabolism particularly in the basal ganglia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

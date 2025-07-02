@@ -1,0 +1,73 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/110 mmHg",
+                "pulse": "68 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "Afebrile"
+            },
+            "relevant_findings": {
+                "general": "Chronically ill appearance, alert and oriented to person, place, and time.",
+                "neurological": "No abnormal cranial nerve findings, muscle strength 5/5 bilaterally, normal deep tendon reflexes, unsteady gait, limited ambulation due to pain, decreased sensation of pinprick, light touch, and temperature in lower extremities bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "6 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological": "Needle electromyography revealed very severe axonal sensorimotor polyneuropathy in lower extremities bilaterally. Nerve conduction studies showed absent sural sensory responses and bilateral peroneal and tibial compound muscle action potentials."
+            },
+            "changes_over_time": "Progressed to very severe axonal sensorimotor polyneuropathy."
+        },
+        {
+            "date": "9 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Pruritic, violaceous plaques developed in a photodistributed manner on arms, legs, and upper chest."
+            },
+            "changes_over_time": "Eruption evolved from the absence of skin findings to development of pruritic, violaceous plaques."
+        },
+        {
+            "date": "17 months after initial presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Weakness in lower extremities, diarrhea, dehydration, rash consistent with prior rash, new leg ulcerations.",
+                "gastrointestinal": "Negative stool samples for Clostridium difficile toxin, leukocytes, ova and parasites, and occult blood."
+            },
+            "changes_over_time": "The patient experienced a new episode of weakness and diarrhea with exacerbation of rash and new leg ulcerations."
+        },
+        {
+            "date": "At discharge from nursing home",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Limited and painful ambulation, confused during hospital stays."
+            },
+            "changes_over_time": "Confusion persisted. Ambulation limitations gradually worsened due to pain, leading to wheelchair confinement."
+        },
+        {
+            "date": "2 years later",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Confused during hospital stays. Occasional loose stools.",
+            "changes_over_time": "Continued progression of leg pain, leading to wheelchair confinement."
+        },
+        {
+            "date": "13 months later (5 years after initial presentation)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Persistent diarrhea and rash, treated for cellulitis, skin biopsy showed features suggestive of psoriasis and eczema but nondiagnostic."
+            },
+            "changes_over_time": "Photodistributed rash persisted and developed into a bandlike rash around the neck."
+        },
+        {
+            "date": "3 months after starting niacin treatment",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Rashes nearly completely resolved, cognition normal, but advanced neuropathy persisted."
+            },
+            "changes_over_time": "Signs of improvement in rashes and cognition but no change in neuropathy status."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "24-hour ambulatory monitor",
+            "date": "Not specified",
+            "findings": "Documents multiple episodes of NSVT lasting as long as 26 beats; records 4665 premature ventricular contractions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Demonstrates normal sinus rhythm, incomplete right bundle branch block, and multiple T-wave abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Shows normal left ventricular function and chamber size; normal right ventricular function with its size at the upper limits of normal; no valvular or pericardial abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Reveals normal coronary arteries and normal left ventricular ejection fraction of >65%; neither a biopsy nor a right ventriculogram was performed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiovascular MRI",
+            "date": "Not specified",
+            "findings": "Shows borderline dilated left ventricle with normal LV mass and systolic function; right ventricle is dilated with normal global right ventricular systolic function and the distal one-third is akinetic; subendocardial delayed enhancement of the distal one-third of the right ventricle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Signal-averaged ECG",
+            "date": "Not specified",
+            "findings": "Positive for late potentials.",
+            "changes_over_time": "Burden of VE worsens; switching medications leads to a significant decrease in VE."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 11, 2001",
+            "vital_signs": {
+                "temperature": "39°C (102°F)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": "Upper respiratory tract infection diagnosed; symptoms included fever with chills, malaise, fatigue, cough, and vomiting.",
+                "examination": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "January 14, 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "observations": "Collapse and emergency transport to hospital; subsequently, patient died.",
+                "examination": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "March 11, 2001",
+            "vital_signs": {
+                "temperature": "39°C (102°F)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": "Physical examination did not reveal any abnormalities.",
+                "examination": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of any abnormalities; technician noted the stomach was full.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scan",
+            "date": "Not specified",
+            "findings": "Demonstrated a free-floating mass that filled the entire stomach, surrounded by a thin rim of contrast material.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Surgical Procedure",
+            "date": "Not specified",
+            "findings": "Found a trichobezoar, or hairball, measuring 45 cm long and 8 cm in diameter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound or Simple Abdominal X-rays after swallowing barium",
+            "date": "Not specified",
+            "findings": "Biannual follow-up tests to ensure no hair reaccumulation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

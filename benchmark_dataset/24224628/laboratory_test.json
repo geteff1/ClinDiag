@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "5 weeks before admission",
+            "findings": "Positive for microscopic hematuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "9 days before admission",
+            "findings": "Positive for occult blood (3+), protein (2+), and nitrites. A urine culture was sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "On admission",
+            "findings": "Positive for occult blood (2+), protein (1+), and nitrites.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "5 weeks before admission",
+            "findings": "Hemoglobin 13.2 g/dl, Hematocrit 37.7%, WBC count 9400/mm3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "5 days before admission",
+            "findings": "Hemoglobin 12.8 g/dl, Hematocrit 37.5%, WBC count 10,100/mm3.",
+            "changes_over_time": "Decreased hemoglobin and hematocrit."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "On admission",
+            "findings": "Hemoglobin 10.5 g/dl, Hematocrit 30.0%, WBC count 5700/mm3.",
+            "changes_over_time": "Continued decrease in hemoglobin and hematocrit."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "5 weeks before admission",
+            "findings": "Calcium 10.1 mg/dl.",
+            "changes_over_time": "Increased to 15.3 mg/dl on admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "5 weeks before admission",
+            "findings": "1.19 mg/dl.",
+            "changes_over_time": "Increased to 2.0 mg/dl 5 days before admission, then 1.73 mg/dl on admission."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "5 weeks before admission",
+            "findings": "110-210 U/liter, at 2820 U/liter at the hospital.",
+            "changes_over_time": "Significantly elevated."
+        },
+        {
+            "procedure_name": "Parathyroid Hormone",
+            "date": "On admission",
+            "findings": "8 pg/ml (low).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Uric Acid",
+            "date": "On admission",
+            "findings": "13.5 mg/dl.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "5 days before admission",
+            "findings": "4.4 mmol/liter.",
+            "changes_over_time": "Decreased to 3.5 mmol/liter on admission."
+        }
+    ]
+}

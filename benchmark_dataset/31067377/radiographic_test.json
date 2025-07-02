@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "ICD leads in the appropriate positions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography of the chest and abdomen",
+            "date": "Not specified",
+            "findings": "Partially visible mass in the left supraclavicular region, ruled out pulmonary embolism and aortic dissection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the neck",
+            "date": "Not specified",
+            "findings": "Complex mass measuring 4.3 cm in diameter without internal Doppler flow, suggestive of a hematoma",
+            "changes_over_time": "Repeat ultrasonography revealed heterogeneous hypoechoic lesion, measuring 4.5 cm in diameter, suggestive of an evolving hematoma"
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT of the neck",
+            "date": "Not specified",
+            "findings": "Heterogeneous mass measuring 4.0 cm, located deep to the sternocleidomastoid muscle, abutting the left common carotid artery and brachial plexus, with small calcifications and no evidence of obstruction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transbrachial arteriography",
+            "date": "Not specified",
+            "findings": "Normal subclavian arterial system, no extravasation, vascular blush near the mass",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the left side of the neck",
+            "date": "Not specified",
+            "findings": "No substantial change in the complex mass; carotid artery patent, no Doppler flow in the mass",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

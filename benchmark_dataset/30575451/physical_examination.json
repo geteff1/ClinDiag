@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.0°C",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "157/81 mm Hg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general_condition": "Ill appearance",
+                "skin": "Jaundiced",
+                "abdominal_examination": "Mild tenderness in the right upper quadrant; no abdominal distention or hepatosplenomegaly",
+                "neurological_examination": "Impaired attention; unable to spell 'world' backward; no asterixis, remainder of examination normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

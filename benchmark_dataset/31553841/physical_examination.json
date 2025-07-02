@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "heart_rate": "116 bpm",
+                "blood_pressure": "128/65 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "appearance": "cachectic",
+                "jugular_venous_pressure": "5 cm of water",
+                "heart_rhythm": "tachycardic",
+                "cardiac_murmur": "none",
+                "tenderness": "left and right lateral chest wall",
+                "breath_sounds": "diminished on left side; crackles at left apex",
+                "rash": "faint erythematous at site of radiation on left upper back",
+                "leg_examination": "no swelling or palpable cords",
+                "remainder_of_exam": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

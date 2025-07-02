@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Calcified granulomas in the right lung and calcified hilar lymph nodes on the right side.",
+            "changes_over_time": "No changes in the calcified granulomas or calcified right hilar lymph nodes."
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Calcified granulomas in the right upper lobe, liver, and spleen; calcified hilar lymph nodes on the right side; enlarged lymph nodes in multiple sites.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "5 weeks after initial treatment",
+            "findings": "Dextroscoliosis, no changes in calcified granulomas in the right lung or the calcified right hilar lymph nodes.",
+            "changes_over_time": "No changes noted from prior imaging."
+        }
+    ]
+}

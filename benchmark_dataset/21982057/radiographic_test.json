@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of hands, wrists, feet, and ankles",
+            "date": "14 months after starting methotrexate",
+            "findings": "Did not show any erosive changes",
+            "changes_over_time": "N/A; noted the patient regained all joint mobility and all cutaneous nodules had resolved"
+        },
+        {
+            "procedure_name": "Radiographs of hands and wrists",
+            "date": "February 2010",
+            "findings": "Showed carpal crowding bilaterally with increased erosive changes",
+            "changes_over_time": "Compared with previous studies"
+        },
+        {
+            "procedure_name": "Radiographs of cervical spine, hands, wrists, and feet",
+            "date": "Not specified",
+            "findings": "Highlighted mild degenerative changes, but no erosive joint disease",
+            "changes_over_time": "Patient was lost to follow-up until 1 year later, reporting resolution of all cutaneous nodules."
+        }
+    ]
+}

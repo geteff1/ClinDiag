@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BRCA1 and BRCA2 testing",
+            "date": "Not specified",
+            "findings": "Revealed a deleterious germ line BRCA2 mutation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mammogram",
+            "date": "Not specified",
+            "findings": "Detected a new 8-mm nonpalpable mass in the lower inner retroareolar region of the left breast which represented infiltrating ductal carcinoma.",
+            "changes_over_time": "New mass detected compared to previous mammographic findings."
+        },
+        {
+            "procedure_name": "Core-needle biopsy",
+            "date": "Not specified",
+            "findings": "Mass represented infiltrating ductal carcinoma with a different hormone receptor profile (first cancer was progesterone receptor positive, second was progesterone receptor negative).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mastectomy",
+            "date": "Not specified",
+            "findings": "Mastectomy of the left breast revealed no other sites of malignant disease or metastatic disease in the lymph nodes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

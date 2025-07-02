@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "8.8% (upper limit of the nondiabetic range, 6.1%)",
+            "changes_over_time": "HbA1c fell to 7.3% 5 months after initiation of CSII and rose to 9.3% 1 yr after."
+        },
+        {
+            "procedure_name": "C-peptide",
+            "date": "Not specified",
+            "findings": "0.18 nmol/liter (low)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microalbumin to creatinine ratio",
+            "date": "Not specified",
+            "findings": "32.9 mg/mmol (normal range 13.4 mg/mmol)",
+            "changes_over_time": "Stable proteinuria was documented, predating her onset of DM by 8 yr."
+        },
+        {
+            "procedure_name": "Creatinine kinase (CK)",
+            "date": "Spring 2003",
+            "findings": "Elevated",
+            "changes_over_time": "Concurrent troponin was negative, ruling out cardiac ischemia and raising suspicion of skeletal muscle breakdown."
+        },
+        {
+            "procedure_name": "Stress thallium test",
+            "date": "1 yr after CoQ10 initiation",
+            "findings": "Improvement in exercise tolerance from 7–12 min.",
+            "changes_over_time": "Only fair exercise capacity initially; 7 min maximum before CoQ10 treatment."
+        },
+        {
+            "procedure_name": "Audiometry testing",
+            "date": "1 yr after CoQ10 initiation",
+            "findings": "No change in the rate of hearing decline.",
+            "changes_over_time": "Progressive hearing loss documented since age 37."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "A cluster of cysts between the 12 o’clock position and the 1 o’clock position; a thick-walled cyst, 1.8 cm in diameter, between the 11 o’clock position and the 12 o’clock position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "3 weeks before the current evaluation",
+            "findings": "Showed a suspicious solid mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breast MRI",
+            "date": "Not specified",
+            "findings": "An ill-defined, lobulated, enhancing mass, 2.9 cm by 2.7 cm by 2.5 cm, in the upper outer quadrant of the left breast.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the thoracic spine",
+            "date": "2 days after the MRI",
+            "findings": "A lytic destructive lesion, 1.8 cm by 1.6 cm by 1.5 cm, in the right side of the T6 vertebral body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "The day after chest radiograph",
+            "findings": "A focus of increased uptake in the right aspect of the T6 vertebral body, suggesting possible metastasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Needle biopsy of the T6 vertebral lesion",
+            "date": "Twelve days after the visit to the oncologist",
+            "findings": "Pathological examination showed metastatic carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Core needle biopsy",
+            "date": "Not specified",
+            "findings": "All four tissue cores showed involvement by infiltrating ductal carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of T6 vertebral-body lesion",
+            "date": "Not specified",
+            "findings": "Contained metastatic adenocarcinoma with features similar to those in the breast-biopsy specimen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "18 months after initial presentation",
+            "findings": "Showing enlarging axillary nodes from approximately 2 cm to 5 cm in diameter.",
+            "changes_over_time": "Grew rapidly over a period of several weeks."
+        }
+    ]
+}

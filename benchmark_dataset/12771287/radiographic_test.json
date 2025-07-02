@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "September 2000",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "September 2000",
+            "findings": "A tiny focus of signal hyperintensity in the white matter of each temporal lobe.",
+            "changes_over_time": "Seven months after onset, MRI showed multiple areas of T2 hyperintensity in the cerebellum and throughout the hemispheres, with some enhanced with gadolinium."
+        }
+    ]
+}

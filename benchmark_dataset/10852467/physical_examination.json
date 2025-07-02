@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1994",
+            "vital_signs": {
+                "heart_rate": "Mildly elevated, normal after discontinuation of nortriptyline"
+            },
+            "relevant_findings": "Thyroid enlargement, elevated levels of thyroid hormone, normal MRI of pituitary gland",
+            "changes_over_time": "Heart rate normalizes after discontinuation of nortriptyline"
+        },
+        {
+            "date": "1986",
+            "vital_signs": {
+                "TSH": "64 mIU/L, then 5.8 mIU/L",
+                "FTI": "21.8"
+            },
+            "relevant_findings": "Elevated TSH suggesting THR, previous treatment with radioiodine",
+            "changes_over_time": "TSH decreased from 64 mIU/L to 5.8 mIU/L"
+        },
+        {
+            "date": "April 1986",
+            "vital_signs": {
+                "FTI": "17.5, TSH: 30 mIU/L"
+            },
+            "relevant_findings": "Previously treated for symptoms of hyperthyroidism, now hypothyroid",
+            "changes_over_time": "Signs of hypothyroidism developed after treatment for hyperthyroidism"
+        }
+    ]
+}

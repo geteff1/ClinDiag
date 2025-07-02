@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "0.17 ng/mL (normal <0.01 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase-Muscle/Brain Fraction",
+            "date": "Not specified",
+            "findings": "30 ng/mL (normal <9 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Serum Creatine Kinase",
+            "date": "Not specified",
+            "findings": "713 U/L (normal <223 U/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pacemaker Interrogation",
+            "date": "Not specified",
+            "findings": "Increased threshold of 2.0 V (previously 0.75 V 4 months prior)",
+            "changes_over_time": "Increased threshold observed over a period of 4 months"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "121.5 cm",
+                "weight": "31.0 kg",
+                "BMI": "21.0 kg/m²",
+                "bone_age": "60 months"
+            },
+            "relevant_findings": {
+                "neurological_examination": "Normal",
+                "cutaneous_stigmata": "None",
+                "radiographic_survey": "Unremarkable except for size",
+                "serum_GH": "Elevated (70–120 ng/ml)",
+                "serum_IGF_I": "Elevated (300–350 ng/ml)",
+                "serum_PRL": "Elevated (570–620 ng/ml)"
+            },
+            "changes_over_time": {
+                "GH_response_to_GHRH": "Markedly elevated, GH and PRL responded",
+                "postoperative_HGH_and_PRL_levels": "Rapid decline to low normal (GH: 1.6 ng/ml; PRL: 6 ng/ml)"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_GH": "Elevated (138 ng/ml)",
+                "serum_PRL": "Elevated (520–795 ng/ml)"
+            },
+            "relevant_findings": {
+                "growth_velocity": "Exceeded 97th percentile",
+                "facial_features": "Coarsening noted",
+                "sweating": "Increased perspiration",
+                "MRI_findings": "Symmetrical enlarged pituitary gland without adenoma"
+            },
+            "changes_over_time": {
+                "preoperative_growth_rate": "0.5–1.0 cm/week",
+                "postoperative_growth_velocity": "Normalized after surgery"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_GH": "27.2 ng/ml",
+                "serum_IGF_I": "326 ng/ml",
+                "serum_PRL": "55.5 ng/ml"
+            },
+            "relevant_findings": {
+                "MRI_findings": "Slightly enlarged pituitary gland without adenoma"
+            },
+            "changes_over_time": {
+                "growth_pattern": "Rapid and excessive growth occurred at 14 months"
+            }
+        }
+    ]
+}

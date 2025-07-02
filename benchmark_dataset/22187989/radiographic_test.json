@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Extensive periventricular white-matter hypodensities and focal occlusion of the distal right vertebral artery near the vertebrobasilar junction. A rounded soft-tissue mass (1.6 cm in diameter) in the region of the left cavernous sinus with a 4-mm enhancing focus thought to be a thrombosed aneurysm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "14th day after initial admission",
+            "findings": "Showed no change.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral small pleural effusions, bibasilar atelectasis, mild enlargement of the cardiomediastinal silhouette, tortuous and calcified thoracic aorta, and diffuse osteopenia.",
+            "changes_over_time": "Unchanged from earlier studies."
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Infiltrate in the lower lobe of the right lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral basilar opacities consistent with atelectasis, aspiration pneumonia, or both, along with changes consistent with mild interstitial edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "138/min",
+                "blood_pressure": "Normotensive",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": [
+                "Cushingoid face",
+                "Buffalo hump at the junction of shoulders and neck",
+                "Truncal obesity",
+                "Purple striae over abdomen and flanks",
+                "Medial knees displaying striae",
+                "Generalized livedo reticularis over skin (including face)",
+                "Large, well-healed scar from previous ulcer over left medial malleolus",
+                "Several active ulcerations on dorsal surfaces of feet",
+                "Significant digital pulp loss in several toes of left foot",
+                "Weakness of left foot flexors"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

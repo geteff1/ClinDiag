@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "168/86 mm Hg",
+                "heart_rate": "126 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Hypertension, tachycardia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10.5 weeks before admission",
+            "vital_signs": {
+                "blood_pressure": "110/72 mm Hg",
+                "heart_rate": "114 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Proptosis, enlarged thyroid (each lobe 4 cm in diameter), no nodules or bruit",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks before admission (other hospital)",
+            "vital_signs": {
+                "blood_pressure": "137/81 mm Hg",
+                "heart_rate": "110 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "28 breaths per minute"
+            },
+            "relevant_findings": "Superficial lacerations on wrists and stomach, tearful, sad, anxious but cooperative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "6 days after surgery",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Voice was normal post-surgery, previously had profound temporary hypocalcemia.",
+            "changes_over_time": "Hypocalcemia developed post-surgery but was temporary."
+        }
+    ]
+}

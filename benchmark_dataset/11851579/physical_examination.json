@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 1, 2001",
+            "vital_signs": {
+                "Temperature": "Not specified",
+                "Heart rate": "Not specified",
+                "Blood pressure": "Not specified",
+                "Respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "General": "Alert, afebrile, in no apparent distress",
+                "Laboratory": "Leukocytosis and hyponatremia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital Day 2",
+            "vital_signs": {
+                "Temperature": "39.2 °C",
+                "Heart rate": "Not specified",
+                "Blood pressure": "Not specified",
+                "Respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "Left Arm": "Massive, nonpitting, non-tender edema with dark red macule (2-3 cm), yellow serous drainage, and paler erythema extending across the anterior thorax to the sternum; no axillary adenopathy palpable; ultrasound revealed diffuse inflammation without abscess."
+            },
+            "changes_over_time": "On Day 2, the arm showed worsening edema and erythema."
+        },
+        {
+            "date": "Hospital Day 5",
+            "vital_signs": {
+                "Temperature": "Not specified",
+                "Heart rate": "Not specified",
+                "Blood pressure": "Not specified",
+                "Respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "Left Arm": "Edema considerably decreased, the lesion appeared as a circumscribed erythematous plaque (4.5 cm) with central eschar (<1 cm)."
+            },
+            "changes_over_time": "Improvement; significant edema resolved, and lesion appearance changed."
+        },
+        {
+            "date": "Hospital Day 12",
+            "vital_signs": {
+                "Temperature": "Not specified",
+                "Heart rate": "Not specified",
+                "Blood pressure": "130/85 mmHg",
+                "Respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "Lesion": "2-cm black eschar at the center of the cutaneous lesion."
+            },
+            "changes_over_time": "The lesion developed compositional changes, indicating disease progression."
+        },
+        {
+            "date": "Hospital Day 20",
+            "vital_signs": {
+                "Temperature": "Not specified",
+                "Heart rate": "Not specified",
+                "Blood pressure": "Not specified",
+                "Respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "General": "Clinical condition stable despite persistent mild hemolysis."
+            },
+            "changes_over_time": "Patient's clinical stability achieved after earlier complications."
+        }
+    ]
+}

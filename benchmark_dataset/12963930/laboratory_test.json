@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Iron",
+            "date": "July 1985",
+            "findings": "204 /H9262g/dL (normal range: 43-172)",
+            "changes_over_time": "Increased to 292 /H9262g/dL by July 1988 and to 298 /H9262g/dL by May 1994."
+        },
+        {
+            "procedure_name": "Serum Ferritin",
+            "date": "July 1985",
+            "findings": "Not specified",
+            "changes_over_time": "Increased to 129 ng/mL (normal range: 3-110) by July 1988, and to 192 ng/mL by May 1994."
+        },
+        {
+            "procedure_name": "Guanosine Triphosphate",
+            "date": "Not specified",
+            "findings": "304 IU/L (normal range: 0-60) in July 1985, increased to 510 IU/L by May 1994.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Uroporphyrin (Urinary HPLC)",
+            "date": "July 1985",
+            "findings": "10704.5 /H9262g/g cr (normal range: 11.7-67.3)",
+            "changes_over_time": "Decreased to 5928 /H9262g/g cr by July 1988 and increased to 12500 /H9262g/g cr by May 1994."
+        },
+        {
+            "procedure_name": "Coproporphyrin",
+            "date": "July 1985",
+            "findings": "4.07 /H9262g/dL (normal range: 0-2)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Uroporphyrinogen Decarboxylase (URO-D) Activity",
+            "date": "Not specified",
+            "findings": "0.63 nmol coproporphyrinogen/mg/h (normal range: 1.33-1.87)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

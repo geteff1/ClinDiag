@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Not specified",
+            "findings": {
+                "free T3": "elevated",
+                "free T4": "elevated",
+                "TSH": "low",
+                "thyrotropin receptor antibody": "elevated",
+                "thyroid-stimulating immunoglobulin": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

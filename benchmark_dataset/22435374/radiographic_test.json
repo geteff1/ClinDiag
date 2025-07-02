@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Uptake in a rib posteriorly on the right side, in the left side of the skull, and in the maxilla on the left side, questionable lesions in the lumbar spine, all indeterminate for cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Hyperdense lesions in the left acetabulum, sacrum, third lumbar vertebral body on the left, and the 9th and 10th ribs on the right posteriorly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of the ribs and lumbosacral spine",
+            "date": "Two months before this evaluation",
+            "findings": "No evidence of metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "Three weeks before this evaluation",
+            "findings": "No enhancement of the lesion in the L3 vertebral body, a probable bone island at the pedicle of the third lumbar vertebra, and a hemangioma at the second lumbar vertebra.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Focus of intense uptake in the left lateral frontoparietal region of the skull, with multiple foci of additional uptake unchanged from the previous study.",
+            "changes_over_time": "No change and no new uptake since the previous study."
+        },
+        {
+            "procedure_name": "TTMB (Transperineal Template-Guided Mapping Biopsy)",
+            "date": "Three months after initial evaluation",
+            "findings": "Adenocarcinoma with a Gleason score of 7 found in 3 cores taken from the anterior prostate and a focus of adenocarcinoma in one core taken from the left lateral prostate.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

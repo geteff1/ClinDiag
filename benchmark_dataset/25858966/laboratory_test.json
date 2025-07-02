@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "1.4 mg/dL (baseline 0.4 mg/dL 4 months prior), 5.8 mg/dL when treatment started, declined to a nadir of 0.9 mg/dL after treatment.",
+            "changes_over_time": "Initially increased from 0.4 mg/dL to 1.4 mg/dL, peaked at 5.8 mg/dL, then declined to 0.9 mg/dL after high-dose corticosteroid treatment."
+        },
+        {
+            "procedure_name": "eGFR",
+            "date": "Not specified",
+            "findings": "43 mL/min/1.73 m² at presentation, improved to 67 mL/min/1.73 m² after treatment.",
+            "changes_over_time": "Initially decreased to 43 mL/min/1.73 m², improved to 67 mL/min/1.73 m² after treatment."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Microscopy",
+            "date": "Not specified",
+            "findings": "Specific gravity 1.018, pH 7, small ketones, moderate proteinuria, 0-2 red blood cells/hpf, 11 white blood cells/hpf.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Na",
+            "date": "Not specified",
+            "findings": "125 mEq/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "2.6 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "317 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "1128 U/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin 9.3 g/dL, white blood cells 1.1 x 10^9/L, platelet count 653 x 10^9/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ferritin and soluble IL-2 receptor levels",
+            "date": "Not specified",
+            "findings": "Elevated and significantly above age-adjusted normal ranges.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

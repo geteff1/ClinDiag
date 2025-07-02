@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Growth Hormone (GH)",
+            "date": "Not specified",
+            "findings": "Random serum GH levels were 138 ng/ml, elevated compared to normal range.",
+            "changes_over_time": "Elevated GH levels persisted despite interventions, with a decrease to normal levels after surgical removal of pituitary gland."
+        },
+        {
+            "procedure_name": "Serum Prolactin (PRL)",
+            "date": "Not specified",
+            "findings": "Serum PRL levels were 520–795 ng/ml, elevated compared to normal range (0–11 ng/ml).",
+            "changes_over_time": "PRL levels persisted elevated until after surgery, when they decreased to low normal levels (6 ng/ml)."
+        },
+        {
+            "procedure_name": "Insulin Glucose Challenge Test",
+            "date": "Not specified",
+            "findings": "GH levels increased in response to the insulin challenge; GH levels reached up to 200 ng/ml.",
+            "changes_over_time": "GH did not suppress during the oral glucose suppression test."
+        },
+        {
+            "procedure_name": "Serum Insulin-Like Growth Factor (IGF-I)",
+            "date": "Not specified",
+            "findings": "Serum IGF-I ranged from 300–350 ng/ml, elevated compared to normal range.",
+            "changes_over_time": "Normal age-adjusted levels reached by postoperative day 3."
+        },
+        {
+            "procedure_name": "GHRH Serum Levels (Growth Hormone-Releasing Hormone)",
+            "date": "Not specified",
+            "findings": "Serum GHRH levels ranged from 21 to 23 pg/ml, below the reference range (5–18 pg/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Growth Hormone (GH) after Surgery",
+            "date": "Post-surgery",
+            "findings": "GH decreased to 1.6 ng/ml, within the normal range.",
+            "changes_over_time": "Rapid decline to low normal levels was observed by the first postoperative day."
+        },
+        {
+            "procedure_name": "Serum Prolactin (PRL) after Surgery",
+            "date": "Post-surgery",
+            "findings": "PRL decreased to 6 ng/ml, within the low normal range.",
+            "changes_over_time": "A rapid decline to low normal levels occurred by the first postoperative day."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "MRI revealed a homogeneously enlarged pituitary gland with no evidence of a tumor.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": "Histopathology showed diffuse hyperplasia of mammosomatotrophs without evidence of adenoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

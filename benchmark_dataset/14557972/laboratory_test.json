@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "D test",
+            "date": "Not specified",
+            "findings": "Demonstrated erythromycin disk induction of clindamycin resistance; presence of inducible macrolide–lincosamide–streptogramin B (iMLS) resistance in pretreatment isolate.",
+            "changes_over_time": "Erythromycin induction testing confirmed presence of iMLS in 90 (56%) of 161 erythromycin-resistant, clindamycin-susceptible clinical S. aureus isolates overall."
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Moderate number of polymorphonuclear leukocytes and a few gram-positive cocci observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture of debrided material",
+            "date": "Not specified",
+            "findings": "MRSA grown from culture; susceptible to vancomycin (MIC, 1 mg/mL), clindamycin (MIC, 0.5 mg/mL), and tetracycline (MIC, 2 mg/mL); resistant to erythromycin (MIC, 14 mg/mL) and gatifloxacin (MIC, 14 mg/mL).",
+            "changes_over_time": "Organism was susceptible to clindamycin before treatment but resistant post-clindamycin treatment."
+        },
+        {
+            "procedure_name": "Culture of intraoperative samples",
+            "date": "Not specified",
+            "findings": "MRSA with an antibiotic susceptibility profile identical to that of the previous isolate, except that they were resistant to clindamycin (MIC, 12 mg/dL).",
+            "changes_over_time": "The susceptibility profile changed with new isolate being resistant to clindamycin after treatment."
+        }
+    ]
+}

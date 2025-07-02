@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Right subphrenic collection; the TIPS stent was patent with normal-direction blood flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "No evidence to suggest reaccumulation of the subphrenic collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler ultrasound",
+            "date": "Not specified",
+            "findings": "Patent TIPS stent with normal-direction blood flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "Not specified",
+            "findings": "Revealed lumbar diskitis.",
+            "changes_over_time": "Rapid radiological and clinical improvement of diskitis after treatment."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Failed to reveal an infective focus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

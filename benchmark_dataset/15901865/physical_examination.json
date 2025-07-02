@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "80/40 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared fatigued with increased respiratory effort.",
+                "lung": "Decreased breath sounds two-thirds up the posterior chest on the right side and halfway up on the left side with dullness to percussion.",
+                "edema": "Pitting edema (+++) of the legs from the feet to the knees.",
+                "cardiac": "Irregular first and second heart sounds.",
+                "tongue": "Enlarged tongue with a whitish shallow ulceration on the right side.",
+                "jugular_venous_pressure": "7 cm of water."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

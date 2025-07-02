@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Abnormal Involuntary Movement Scale (AIMS)",
+            "date": "Not specified",
+            "findings": {
+                "week_0": 2.4,
+                "week_2": 0.9,
+                "week_4": 1.0,
+                "week_6": 1.6,
+                "week_13": 2.2,
+                "week_14": 1.1,
+                "week_19": 1.2,
+                "week_20": 1.1,
+                "week_26": 1.3,
+                "week_27": 1.2,
+                "week_28": 1.3,
+                "week_32": 1.2,
+                "week_39": 3.2
+            },
+            "changes_over_time": "The initial score of 2.4 in week 0 improved to 0.9 by week 2 but then fluctuated, reaching a peak of 3.2 by week 39, indicating a worsening of tardive dyskinesia over time."
+        }
+    ]
+}

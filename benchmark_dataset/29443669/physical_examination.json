@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "pulse": "102 bpm",
+                "blood_pressure": "142/79 mm Hg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "cachexia": true,
+                "orientation": "oriented to person but not to place or time",
+                "mental_status": {
+                    "inappropriate_comments": true,
+                    "visual_hallucinations": true,
+                    "difficulty_following_commands": true
+                },
+                "dry_mucous_membranes": true,
+                "small_amount_of_dried_blood": "above left eye and outer left ear",
+                "cardiac_exam": {
+                    "ejection_murmur": true
+                },
+                "neurological_exam": {
+                    "intention_tremor": true,
+                    "strength": {
+                        "arms": "4+/5",
+                        "legs": "4/5"
+                    },
+                    "cranial_nerves_exam": "normal"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

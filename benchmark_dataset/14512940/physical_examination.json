@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "20.2 kg (10th percentile)",
+                "height": "120.9 cm (25th percentile)",
+                "tricep_skinfold_thickness": "4.6 mm (normal: 10.4)",
+                "triglyceride_level": "440 mg/dL"
+            },
+            "relevant_findings": {
+                "findings": "Absence of subcutaneous fat on face, arms, and upper part of trunk. Livedo reticularis on legs. Erythematous alopecic area 2 cm in diameter on scalp.",
+                "biopsy_results": "Atrophic epidermis, vacuolar degeneration of basal layer, mild perivascular inflammatory infiltrate, and mucine deposits. Direct immunofluorescence positive."
+            },
+            "changes_over_time": "In 1979, all fat on the upper half of her body had disappeared; no further details on changes over time provided."
+        },
+        {
+            "date": "2000",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Significant findings included anticardiolipin antibodies positive.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

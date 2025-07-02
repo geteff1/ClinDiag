@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary and serum cortisol test",
+            "date": "2007",
+            "findings": "Elevated urinary and serum cortisol",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate test",
+            "date": "2007",
+            "findings": "Elevated dehydroepiandrosterone sulfate",
+            "changes_over_time": "Increased from 1.7 to 4.6 mmol/liter postoperatively (normal <8.7 mmol/liter)"
+        },
+        {
+            "procedure_name": "Total testosterone test",
+            "date": "2007",
+            "findings": "Total testosterone declined from 6.14 to 0.32 nmol/liter (normal <3.7 nmol/liter)",
+            "changes_over_time": "Declined significantly postoperatively"
+        },
+        {
+            "procedure_name": "Pathology examination of adrenalectomy specimen",
+            "date": "2007",
+            "findings": "8.5-cm mass with MIB-1 labeling index of 20% and unequivocal angioinvasion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Three months post-surgery",
+            "findings": "Low-attenuating lesion measuring 2.2 cm in the tumor bed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Imaging studies",
+            "date": "29 months post-surgery",
+            "findings": "Clear of disease initially",
+            "changes_over_time": "New disease found in the liver during summer of 2010"
+        },
+        {
+            "procedure_name": "Liver metastases size measurement",
+            "date": "Over three months after chemotherapy",
+            "findings": "Size of liver metastases reduced from 4.4 to 2.6 cm",
+            "changes_over_time": "Reduction in size of dominant lesion"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Prolonged F responses in both feet, normal motor and sensory responses in the distal segments of the arms, and no motor responses in the intrinsic foot muscles.",
+            "changes_over_time": "EMG and nerve-conduction studies showed decreased sensory responses, absent sural-nerve responses, prolonged F-wave latencies, and more prominent denervation in the tibialis anterior and medial gastrocnemius muscles compared to the previous study."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": {
+                "color": "Colorless",
+                "turbidity": "Clear",
+                "white-cell count": 4,
+                "differential count": {
+                    "Neutrophils": 5,
+                    "Lymphocytes": 65,
+                    "Monocytes": 30
+                },
+                "glucose": 68,
+                "protein": 112,
+                "albumin": 61.0
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal Paracentesis",
+            "date": "Not specified",
+            "findings": "2 liters of ascitic fluid were removed, and abdominal discomfort decreased.",
+            "changes_over_time": "During the next week, multiple therapeutic paracenteses were performed; no malignant cells were seen."
+        },
+        {
+            "procedure_name": "Biopsy of left retroperitoneal lymph node",
+            "date": "Not specified",
+            "findings": "Pathological examination showed reactive hyperplasia; no malignant cells were identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve Biopsy",
+            "date": "Not specified",
+            "findings": "Evidence of chronic demyelination and remyelination, with axonal degeneration affecting both myelinated and unmyelinated fibers.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT-guided Biopsy of sacral lesion",
+            "date": "Not specified",
+            "findings": "Sheets of mature-appearing plasma cells showing lambda light-chain restriction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

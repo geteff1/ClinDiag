@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C (100.6°F)",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "ECG_findings": [
+                    "High-grade atrioventricular block",
+                    "Ventricular rate of 75 beats/min",
+                    "Atrial rate of 85 beats/min",
+                    "Abnormal early repolarization",
+                    "3-mm coved ST-segment elevation",
+                    "Biphasic T wave in right precordial leads V1 and V2"
+                ]
+            },
+            "changes_over_time": "Initially observed high-grade atrioventricular block associated with Lyme carditis, with improvement in fevers and resolution of type 1 Brugada's pattern, but first-degree atrioventricular block remained."
+        },
+        {
+            "date": "After 1 week of therapy",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Continued symptomatic complete heart block with intermittent pauses.",
+            "changes_over_time": "Symptomatic complete heart block persisted despite antibiotic treatment."
+        },
+        {
+            "date": "6 months later",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Normal atrioventricular conduction observed upon pacing device removal.",
+            "changes_over_time": "Resolution of symptoms and ventricular arrhythmias per pacemaker interrogation."
+        }
+    ]
+}

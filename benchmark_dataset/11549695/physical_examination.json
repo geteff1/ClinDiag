@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "4300 g",
+                "height": "54 cm",
+                "head_circumference": "38 cm"
+            },
+            "relevant_findings": {
+                "dry_skin": "present",
+                "scaling": "present",
+                "macroglossia": "present",
+                "coarse_facial_features": "present",
+                "anterior_fontanelle": "5 cm",
+                "posterior_fontanelle": "1 cm",
+                "umbilical_hernia": "present",
+                "liver": "2 cm palpable below costal margin"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination was absolutely fine with weight and height of 26.4 kg (50 –75th percentile) and 125 cm (25 –50th percentile), respectively. Thyroid gland was not palpable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

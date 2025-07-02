@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "Not specified",
+            "findings": "Unrevealing",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Confirmed localization of a mass in the pancreas",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

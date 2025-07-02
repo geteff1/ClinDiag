@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Moderate bilateral pleural effusions, without evidence of pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "8 months before admission",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Five months before admission",
+            "findings": "Bilateral pleural effusions, hypodense lesions in the liver, and minimal ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "One month before admission",
+            "findings": "Dramatic increase in the left perinephric collection of fluid and larger left pleural effusion.",
+            "changes_over_time": "Fluid around the left kidney rapidly reaccumulated and required aspiration."
+        },
+        {
+            "procedure_name": "CT scan with positron-emission tomography",
+            "date": "Not specified",
+            "findings": "Nodule (5 mm in diameter) in the upper lobe of the left lung, hepatic hemangiomas, a large left perinephric collection of fluid with mass effect on the left renal vessels, a small right perinephric collection of fluid, and ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative CT scan",
+            "date": "Immediate postoperative period",
+            "findings": "Resolution of the left perinephric fluid; minimal fluid surrounds the right kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "7 months after surgery",
+            "findings": "Dramatic increase in ascites throughout the peritoneum.",
+            "changes_over_time": "4 liters of fluid drained with the composition identical to that seen in the past."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Initial blood tests",
+            "date": "Not specified",
+            "findings": "Normocytic anemia, neutrophilia, lymphopenia, elevated erythrocyte sedimentation rate, and elevated C-reactive protein (CRP), with a negative HLA-B27 test.",
+            "changes_over_time": "Worsening anemia, ongoing neutrophilia, and further elevation of inflammatory markers."
+        },
+        {
+            "procedure_name": "Faecal calprotectin",
+            "date": "Not specified",
+            "findings": "Mildly elevated at 73 µg/g.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tropheryma whipplei PCR",
+            "date": "Not specified",
+            "findings": "Positive in the jejunum and serum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid Tropheryma Whipplei PCR",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

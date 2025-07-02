@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histological examination of skin biopsy",
+            "date": "Not specified",
+            "findings": "Fragmented elastic fibers and disarrangement of collagen; disruption of internal elastic membranes in small arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up angiography",
+            "date": "1 month after the event",
+            "findings": "Aggravation of the dissecting aneurysm, with severe stenosis of the left CCA of more than 90%.",
+            "changes_over_time": "Aggravation of the dissecting aneurysm noted."
+        },
+        {
+            "procedure_name": "A 123I-IMP SPECT study",
+            "date": "1 month after the event",
+            "findings": "Decrease in CBF beyond the infarction; extensive decrease in CBF in the left temporal lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "A 123I-IMP SPECT study",
+            "date": "9 days post-treatment",
+            "findings": "Improvement in the CBF in the left temporal lobe.",
+            "changes_over_time": "Improvement in CBF noted."
+        },
+        {
+            "procedure_name": "Follow-up echogram",
+            "date": "3 months post-treatment",
+            "findings": "Good blood flow with no stenosis of the artery; aneurysm had disappeared.",
+            "changes_over_time": "Aneurysm disappearance noted."
+        },
+        {
+            "procedure_name": "Follow-up MR angiography",
+            "date": "6 months post-treatment",
+            "findings": "Artifacts at the proximal and distal ends of the stent in the left CCA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digital subtraction angiography",
+            "date": "7 months post-treatment",
+            "findings": "Good blood flow through the left CCA, with no dissecting aneurysm.",
+            "changes_over_time": "Disappearance of the dissecting aneurysm noted."
+        }
+    ]
+}

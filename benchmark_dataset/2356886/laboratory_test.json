@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemistry",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum vitamin B12 level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum folate level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "VDRL",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spinal fluid examination",
+            "date": "Not specified",
+            "findings": "Clear acellular fluid with normal chemistries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "During episodes of Kleine-Levin syndrome",
+            "findings": "Blood pressure as high as 200/110 mmHg compared to baseline of 120/70 mmHg",
+            "changes_over_time": "Episodes occurred 3 to 5 times daily during attacks"
+        },
+        {
+            "procedure_name": "Heart rate measurement",
+            "date": "During episodes of Kleine-Levin syndrome",
+            "findings": "Tachycardia as high as 150 bpm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

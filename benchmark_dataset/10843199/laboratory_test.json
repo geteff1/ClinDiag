@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "24-h urinary cortisol secretion was twice the upper limit of normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ACTH",
+            "date": "Not specified",
+            "findings": "Serum ACTH levels were in the higher normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1 mg overnight DEX suppression test",
+            "date": "Not specified",
+            "findings": "Insufficient cortisol suppression (323 nmol/L; N, <140 nmol/L).",
+            "changes_over_time": "Normal number of receptors per cell later, but PBMLs were insensitive to DEX."
+        },
+        {
+            "procedure_name": "Androstenedione",
+            "date": "Not specified",
+            "findings": "Increased androstenedione (24.4 nmol/L).",
+            "changes_over_time": "Normalized during DEX treatment."
+        },
+        {
+            "procedure_name": "Testosterone",
+            "date": "Not specified",
+            "findings": "Increased testosterone (3.4 nmol/L).",
+            "changes_over_time": "Normalized during DEX treatment."
+        },
+        {
+            "procedure_name": "Early morning cortisol concentration",
+            "date": "Not specified",
+            "findings": "432 nmol/L (normal).",
+            "changes_over_time": "Increased 24-h urinary cortisol excretion was 2-fold over the normal range."
+        },
+        {
+            "procedure_name": "1 mg overnight DST",
+            "date": "Not specified",
+            "findings": "Insufficient suppression of cortisol (471 nmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin administration response",
+            "date": "Not specified",
+            "findings": "Developed hypoglycemia, followed by a subnormal increase in cortisol levels (from 546 to maximally 687 nmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole cell DEX-binding assay",
+            "date": "Not specified",
+            "findings": "Normal number of GRs per cell (6659 receptors/cell), diminished affinity for DEX (K_d 22.3 nmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mitogen-induced proliferation assay",
+            "date": "Not specified",
+            "findings": "A maximal inhibition of 77% with an IC50 of 33.1 nmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole cell DEX-binding assay",
+            "date": "Not specified",
+            "findings": "Normal number of binding sites per cell (5938 receptors/cell), but with significantly lowered ligand affinity (K_d 17.4 nmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1 mg overnight DST",
+            "date": "Not specified",
+            "findings": "Insufficient cortisol suppression (857 nmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cortisol levels",
+            "date": "Not specified",
+            "findings": "Cortisol concentrations remained elevated (829 nmol/L).",
+            "changes_over_time": "Slight improvement of hirsutism after DEX treatment."
+        },
+        {
+            "procedure_name": "Androstenedione levels",
+            "date": "Not specified",
+            "findings": "Increased to (27.2) nmol/L.",
+            "changes_over_time": "Slightly decreased to 17.6 nmol/L during DEX treatment."
+        },
+        {
+            "procedure_name": "Mitogen-induced proliferation assay",
+            "date": "Not specified",
+            "findings": "Capacity to inhibit proliferation normal (IC50, 27.7 nmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "38.6%",
+                "Hemoglobin": "13.2 g/dL",
+                "White-cell count": "6720 per mm3",
+                "Differential count": {
+                    "Neutrophils": "40.9%",
+                    "Lymphocytes": "46.6%",
+                    "Monocytes": "10.3%",
+                    "Eosinophils": "1.3%",
+                    "Basophils": "0.6%"
+                },
+                "Platelet count": "112,000 per mm3",
+                "Red-cell count": "4,170,000 per mm3",
+                "Mean corpuscular volume": "92.6 fL",
+                "Mean corpuscular hemoglobin": "31.7 pg",
+                "Mean corpuscular hemoglobin concentration": "34.2 g/dL",
+                "Red-cell distribution width": "13.8%",
+                "Reticulocyte count": "2.1%",
+                "Erythrocyte sedimentation rate": "36 mm/hr",
+                "Prothrombin time": "17.6 sec",
+                "Prothrombin-time international normalized ratio": "1.4",
+                "Partial-thromboplastin time": "40.9 sec",
+                "d-dimer": "441 ng/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Homocysteine Level",
+            "date": "Not specified",
+            "findings": "365 μmol/L (reference range: 0 to 14)",
+            "changes_over_time": {
+                "Initial Homocysteine Level": "365 μmol/L",
+                "After Treatment with Betaine": "129 μmol/L"
+            }
+        },
+        {
+            "procedure_name": "Amino Acid Testing",
+            "date": "Not specified",
+            "findings": {
+                "Plasma Methionine Level": "570 nmol/mL (reference range: 4 to 44)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

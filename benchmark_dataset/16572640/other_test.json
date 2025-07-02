@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CSF glucose level of 4.7 mmol/L, protein level of 0.6 mg/L, 6 white cells to 327 red cells per high-power field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histological analysis of the biopsy specimen revealed normal brain tissue with hemorrhagic infiltration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting screen test",
+            "date": "Not specified",
+            "findings": "PT greater than 160 seconds, aPTT greater than 200 seconds.",
+            "changes_over_time": "Repeated tests showed PT of 32 seconds and aPTT of 42.9 seconds."
+        },
+        {
+            "procedure_name": "Clotting tests (repeated)",
+            "date": "Not specified",
+            "findings": "PT = 37 seconds, aPTT = 42.9 seconds, and plasma D-dimer levels were elevated.",
+            "changes_over_time": "Some improvement in PT and aPTT levels, although still abnormal."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "1 week and 6 months post-surgery",
+            "findings": "An involuting contrast-enhancing nidus in the hematoma cavity.",
+            "changes_over_time": "Involution of the contrast-enhancing nidus observed over time."
+        }
+    ]
+}

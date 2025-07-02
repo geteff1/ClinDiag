@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "blood cultures",
+            "date": "Not specified",
+            "findings": "Positive for Brucella melitensis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "rose bengal test",
+            "date": "Not specified",
+            "findings": "Positive, indicating presence of agglutinating antibodies",
+            "changes_over_time": "1993: negative results"
+        },
+        {
+            "procedure_name": "agglutinin antibody titer",
+            "date": "Not specified",
+            "findings": "Very high titers (1:320)",
+            "changes_over_time": "1993: negative results"
+        },
+        {
+            "procedure_name": "erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "123 mm/hr",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "titer for Brucella melitensis",
+            "date": "Not specified",
+            "findings": "Positive (titer, 1:80)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "joint fluid cultures",
+            "date": "Not specified",
+            "findings": "Negative after two-stage total knee arthroplasty",
+            "changes_over_time": "Negative, 4 weeks after surgery due to spontaneous drainage"
+        }
+    ]
+}

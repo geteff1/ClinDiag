@@ -1,0 +1,41 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Newborn screening",
+            "date": "Not specified",
+            "findings": {
+                "C14": "5.07 µmol/L (normal <0.70 µmol/L)",
+                "C14:1": "3.20 µmol/L (normal <0.60 µmol/L)",
+                "C14:2": "0.30 µmol/L (normal <0.10 µmol/L)",
+                "C14:1/C12:1": "9.13 µmol/L (normal <3.0 µmol/L)",
+                "C14:1/C16": "0.25 µmol/L (normal <0.20 µmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Venous blood gas analysis",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.002",
+                "base deficit": "10",
+                "potassium": ">10 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosome microarray analysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": {
+                "maternal_variant": "c.1375dup, p.R459Pfs*4 pathogenic variant",
+                "paternal_variant": "c.1678 + 3_1678 + 6del, p.? likely pathogenic variant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

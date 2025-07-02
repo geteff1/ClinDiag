@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Dense, diffuse lymphocytic infiltrate in the papillary and reticular dermis, composed predominantly of large dysplastic lymphocytes marked as B cells (CD20, /H11001). Two cases had neoplastic cells that were BCL-2 positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electron beam radiotherapy",
+            "date": "Not specified",
+            "findings": "Achieved a complete response after treatment in Case 1, but near complete response in Case 3.",
+            "changes_over_time": "Patient 1 relapsed after 12 months; Patient 2 developed new painful nodules shortly after treatment."
+        },
+        {
+            "procedure_name": "Chemotherapy",
+            "date": "Not specified",
+            "findings": "Patient 1 responded well with significant decrease in size of tumors and edema post-treatment.",
+            "changes_over_time": "Patient 1 had a complete clinical remission 28 months after diagnosis."
+        },
+        {
+            "procedure_name": "Treatment with anti-CD20 monoclonal antibody (rituximab)",
+            "date": "Not specified",
+            "findings": "Patient 1 had a complete and durable second response.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

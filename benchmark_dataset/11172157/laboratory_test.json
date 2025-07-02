@@ -1,0 +1,104 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic Laboratory Values",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": {
+                    "one_week_before_admission": 43.5,
+                    "on_admission": 35.8
+                },
+                "Mean corpuscular volume (µm³)": 90.5,
+                "Erythrocyte sedimentation rate (mm/hr)": {
+                    "one_week_before_admission": 99,
+                    "on_admission": 86
+                },
+                "White-cell count (per mm³)": {
+                    "one_week_before_admission": 14000,
+                    "on_admission": 11700
+                },
+                "Differential count (%)": {
+                    "Neutrophils": 78,
+                    "Lymphocytes": 10,
+                    "Monocytes": 64,
+                    "Eosinophils": 2
+                },
+                "Platelet count (per mm³)": {
+                    "one_week_before_admission": 305000,
+                    "on_admission": 357000
+                }
+            },
+            "changes_over_time": "Decreased hematocrit and white-cell count from one week before admission to admission."
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Not specified",
+            "findings": {
+                "Glucose (mg/dl)": {
+                    "one_week_before_admission": 440,
+                    "on_admission": 188
+                },
+                "Albumin (g/dl)": 2.4,
+                "Sodium (mmol/liter)": 134,
+                "Potassium (mmol/liter)": 3.8,
+                "Chloride (mmol/liter)": 91,
+                "Carbon dioxide (mmol/liter)": 35,
+                "Angiotensin-converting enzyme": "Normal"
+            },
+            "changes_over_time": "Significant decrease in glucose levels from one week before admission to admission."
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": {
+                "Appearance of fluid": "Clear, colorless",
+                "Cells (per mm³)": {
+                    "Red": 28,
+                    "White": 75
+                },
+                "Differential count (%)": {
+                    "Lymphocytes": 65,
+                    "Reactive lymphocytes": 19,
+                    "Monocytes": 14,
+                    "Eosinophils": 2
+                },
+                "Glucose (mg/dl)": {
+                    "at_other_hospital": 78,
+                    "on_admission": 165
+                },
+                "Protein (mg/dl)": {
+                    "at_other_hospital": 71,
+                    "on_admission": 55
+                },
+                "Albumin (mg/dl)": 28.2,
+                "IgG (mg/dl)": 5.2,
+                "Cultures": "Negative for fungi and other microorganisms"
+            },
+            "changes_over_time": "Increase in white cells and lymphocytes observed."
+        },
+        {
+            "procedure_name": "Immunologic Laboratory Findings",
+            "date": "Not specified",
+            "findings": {
+                "IgA (mg/dl)": 365,
+                "IgG": "Normal",
+                "IgM": "Normal",
+                "Kappa": "Normal",
+                "Lambda": "Normal",
+                "Kappa:lambda ratio": "Normal",
+                "Electrophoresis": "One very-low-concentration band in the slow gamma region",
+                "Immunofixation": "Two very-low-concentration IgG-kappa M components in the slow gamma region",
+                "Borrelia burgdorferi antibodies": {
+                    "second_hospital_day": "Negative",
+                    "sixth_hospital_day": "Positive"
+                },
+                "Cryptococcal antigen": "Negative",
+                "Serologic test for syphilis": "Negative",
+                "HIV test": "Negative",
+                "Antinuclear antibodies": "Negative",
+                "Rheumatoid factor": "Negative"
+            },
+            "changes_over_time": "Positive test for Borrelia burgdorferi antibodies on the sixth hospital day."
+        }
+    ]
+}

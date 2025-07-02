@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Negative, with fewer than five white blood cells per high-powered field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Final bacterial cultures",
+            "date": "Not specified",
+            "findings": "Showed no growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aerobic and anaerobic cultures of aspirate",
+            "date": "Not specified",
+            "findings": "Demonstrated no bacterial growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Final bacterial cultures (after irrigation and debridement)",
+            "date": "Not specified",
+            "findings": "Showed no growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intraoperative cultures from aspirated joint fluid",
+            "date": "Not specified",
+            "findings": "Grew methicillin-resistant Staphylococcus aureus, susceptible to vancomycin, gentamicin, clindamycin, and sulfamethoxazole-trimethoprim; resistant to nafcillin and erythromycin.",
+            "changes_over_time": "Previously negative cultures not showing growth during multiple tests."
+        },
+        {
+            "procedure_name": "Viability staining (LIVE/DEAD BacLight kit)",
+            "date": "Final operation",
+            "findings": "Presence of viable cocci ranging from single cells to large aggregates of clusters.",
+            "changes_over_time": "Distribution of biofilm was patchy, similar to that seen in tissue samples."
+        },
+        {
+            "procedure_name": "Reverse Transcriptase-Polymerase Chain Reaction",
+            "date": "Final operation",
+            "findings": "Presence of Staphylococcus aureus mRNA detected, no presence of Staphylococcus epidermidis.",
+            "changes_over_time": "Indicated viable bacteria present at the time of explant."
+        }
+    ]
+}

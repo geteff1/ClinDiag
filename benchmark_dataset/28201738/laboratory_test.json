@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Triglyceride Measurement",
+            "date": "Not specified",
+            "findings": "Triglyceride (TG) levels ranged from 700 to 4000 mg/dL, maximum 7112 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ApoC-II Measurement",
+            "date": "Not specified",
+            "findings": "ApoC-II protein was undetectable in the patient’s plasma, below the detectable limit of 1 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ApoC-II Cofactor Study",
+            "date": "Not specified",
+            "findings": "Lack of functional apoC-II activity confirmed; lipolytic activity did not enhance with exogenous rhLPL due to the absence of functional apoC-II.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Baseline Chest Radiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gynecologic Examination with Papanicolaou Smear",
+            "date": "Not specified",
+            "findings": "Abnormal Pap smear showing low-grade squamous intraepithelial lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

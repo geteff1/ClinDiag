@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Eosinophilia: 0.8 × 10^9/L",
+            "changes_over_time": "The peripheral eosinophil count returned to normal on a peanut-free diet: 0.3 × 10^9/L."
+        },
+        {
+            "procedure_name": "Skin Prick Test",
+            "date": "10 weeks of age",
+            "findings": "Negative for milk, soya, egg, and wheat; erythema with fresh peanut.",
+            "changes_over_time": "At 12 months, significant reaction to commercial peanut extract (wheal of 15 mm), still negative for milk and soya, slightly positive for egg (wheal of 4 mm)."
+        },
+        {
+            "procedure_name": "Specific Immunoglobulin E (IgE) Antibody Test",
+            "date": "Not specified",
+            "findings": "Positive for peanut: 0.47 IU/ml; not detectable for egg.",
+            "changes_over_time": "Total serum IgE was in the normal range with a level of 18 kU/L."
+        },
+        {
+            "procedure_name": "Sweat Test",
+            "date": "Not specified",
+            "findings": "Negative for cystic fibrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

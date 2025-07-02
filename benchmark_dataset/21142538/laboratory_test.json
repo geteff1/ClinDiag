@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "6 weeks before Admission",
+            "findings": "39.9%",
+            "changes_over_time": "Decreased to 23.2% on Day of Admission, decreased further to 19.7% On Admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "6 weeks before Admission",
+            "findings": "13.9 g/dL",
+            "changes_over_time": "Decreased to 7.9 g/dL on Day of Admission, decreased further to 6.8 g/dL on Admission."
+        },
+        {
+            "procedure_name": "Reticulocytes",
+            "date": "On Admission",
+            "findings": "20.8%",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "6 weeks before Admission",
+            "findings": "4600 per mm3",
+            "changes_over_time": "Increased to 9100 on Day of Admission and further increased to 10,500 On Admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "6 weeks before Admission",
+            "findings": "317,000 per mm3",
+            "changes_over_time": "Decreased to 16,000 on Day of Admission and remained at 16,000 On Admission."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "6 weeks before Admission",
+            "findings": "15 mm/hr",
+            "changes_over_time": "Increased to 45 mm/hr on Day of Admission."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "On Admission",
+            "findings": "3508 ng/ml",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "On Admission",
+            "findings": "1775 U/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Indirect Bilirubin",
+            "date": "On Admission",
+            "findings": "3.5 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On Admission",
+            "findings": "1.05 mg/dL",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

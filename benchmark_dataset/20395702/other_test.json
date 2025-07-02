@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "SPECT brain imaging",
+            "date": "Not specified",
+            "findings": "Initial SPECT images revealed decreased perfusion in the left frontal temporal lobe region.",
+            "changes_over_time": "Repeat SPECT brain images showed a normal pattern of activity after treatment."
+        },
+        {
+            "procedure_name": "Carotid Doppler study",
+            "date": "Day six of hospitalization",
+            "findings": "Left-sided carotid artery stenosis with a 27% decrease in flow rate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Outpatient follow-up",
+            "findings": "Results showed cirrhosis with chronic hepatitis consistent with chronic hepatitis C virus infection.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

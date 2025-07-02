@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal assessment",
+            "date": "Not specified",
+            "findings": {
+                "Testosterone (T)": "28 ng/dl (0.9 nmol/liter)",
+                "Dihydrotestosterone (DHT)": "3.4 ng/dl (0.12 nmol/liter)",
+                "Estradiol": "< 50 pg/ml (< 180 pmol/liter)",
+                "LH": "< 1.6 IU/liter",
+                "FSH": "3.1 IU/liter",
+                "Inhibin B": "55 pg/ml (normal range, 150-400)",
+                "TSH": "1.55 IU/ml (normal range, 0.5-5)",
+                "T4": "4.2 µg/dl (normal range, 4.5-10.9)",
+                "T3": "55 ng/dl (normal range, 60-181)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal assessment 6 months post-MI",
+            "date": "Not specified",
+            "findings": {
+                "Prednisone therapy": "20 mg",
+                "Testosterone (T)": "444 ng/dl",
+                "Dihydrotestosterone (DHT)": "Not specified",
+                "Estradiol": "150 pg/ml",
+                "LH": "19.6 IU/liter",
+                "FSH": "21 IU/liter"
+            },
+            "changes_over_time": "Elevated gonadotropin levels and T level in mid-normal range compared to acute assessment."
+        },
+        {
+            "procedure_name": "Hormonal assessment 12 years previously",
+            "date": "Not specified",
+            "findings": {
+                "Testosterone (T)": "Markedly elevated levels",
+                "Gonadotropin levels": "Markedly elevated levels"
+            },
+            "changes_over_time": "Comparison indicates prior elevated T and gonadotropin levels."
+        }
+    ]
+}

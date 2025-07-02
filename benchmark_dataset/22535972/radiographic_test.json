@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroid ultrasonography",
+            "date": "Not specified",
+            "findings": "Multinodular goiter with estimated volume of both lobes at 59 ml each.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Technetium-99m scan",
+            "date": "Not specified",
+            "findings": "Several cold nodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid ultrasound scan",
+            "date": "Not specified",
+            "findings": "Left lobe volume at 92 ml and right lobe volume at 133 ml.",
+            "changes_over_time": "Increased size of the goiter observed with a volume estimation of 235 ml for the right lobe and 224 ml for the left lobe at the last assessment."
+        },
+        {
+            "procedure_name": "123I thyroid scan",
+            "date": "Not specified",
+            "findings": "Heterogeneous uptake indicative of multinodular goiter; uptake was calculated at 43% after 3 hours.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Iodine perchlorate discharge test",
+            "date": "Not specified",
+            "findings": "Negative discharge indicating that organification was not impaired.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

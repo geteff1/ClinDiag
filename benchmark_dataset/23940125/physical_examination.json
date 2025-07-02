@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "108/64 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "growth": {
+                    "height": "145.7 cm",
+                    "BMI": "22.07 kg/m2",
+                    "pubic_hair_stage": "P3",
+                    "genital_stage": "G2",
+                    "testicular_volume": "2 mL",
+                    "bone_age": "TW20 12.8"
+                }
+            },
+            "changes_over_time": {
+                "height": "Reached a final height of 170.8 cm at age 13.2 years",
+                "blood_pressure": "Borderline increase over time",
+                "bone_age": "Accelerated bone age",
+                "hyperandrogenism": "Concentrations of 11-deoxycortisol and androgens normalized after treatment"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "124/73 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "growth": {
+                    "height": "146.3 cm",
+                    "BMI": "35.1 kg/m2",
+                    "pubic_hair_stage": "P5",
+                    "breast_stage": "B3",
+                    "bone_age": "TW20 17"
+                }
+            },
+            "changes_over_time": {
+                "hirsutism": "Achieved normal androgen levels and regular periods within a few months",
+                "height": "Achieved final height of 146.3 cm",
+                "bone_age": "Not specified"
+            }
+        }
+    ]
+}

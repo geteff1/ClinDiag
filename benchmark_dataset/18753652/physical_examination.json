@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "blood_pressure": "178/88 mm Hg",
+                "pulse": "54 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "skin": "diaphoretic",
+                "throat": "uvula absent, palate asymmetric",
+                "neck": "decreased range of motion, jugular veins distended to 7 cm",
+                "abdomen": "flat, active bowel sounds, normal tympany, tenderness on palpation in the right upper and right lower quadrants and suprapubic region, liver edge 3-4 cm below costal margin",
+                "rectal": "normal tone, no blood",
+                "reflexes": "1 out of 4 diffusely, no clonus",
+                "remainder": "normal exam"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

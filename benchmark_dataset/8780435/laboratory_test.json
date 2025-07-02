@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Valproate Serum Level",
+            "date": "Hospital Day 5",
+            "findings": "63.2 mg/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Valproate Serum Level",
+            "date": "Hospital Day 2",
+            "findings": "71.4 mg/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Mildly elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lithium Serum Level",
+            "date": "Admission",
+            "findings": "1.36 meq/liter",
+            "changes_over_time": "Decreased to 0.41 meq/liter after 1 week"
+        }
+    ]
+}

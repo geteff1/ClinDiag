@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "27 wk gestation",
+            "vital_signs": {
+                "TSH": "336 mU/liter",
+                "fT4": "<12.5 pmol/liter"
+            },
+            "relevant_findings": {
+                "goiter_size": "34/21 mm"
+            },
+            "changes_over_time": {
+                "goiter_size": "Enlargement from 34/21 mm to 30/18 mm after treatment"
+            }
+        },
+        {
+            "date": "At birth",
+            "vital_signs": {
+                "TSH": "284 mU/liter",
+                "fT4": "5.5 pmol/liter",
+                "weight": "3.290 g",
+                "Apgar_score": "10 at 1 and 5 min"
+            },
+            "relevant_findings": "No visible goiter, no clinical signs of hypothyroidism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "29 wk gestation",
+            "vital_signs": {
+                "TSH": "472 mU/liter",
+                "fT4": "6.5 pmol/liter"
+            },
+            "relevant_findings": "Goiter observed in ultrasound.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At birth (second infant)",
+            "vital_signs": {
+                "TSH": "39 mU/liter",
+                "Tg": "0.7 ng/ml",
+                "weight": "2.380 g",
+                "Apgar_score": "10 at 1 and 5 min"
+            },
+            "relevant_findings": "No palpable goiter, no clinical signs of hypothyroidism.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

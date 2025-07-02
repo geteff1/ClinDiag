@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130-140 mmHg systolic / 70-75 mmHg diastolic",
+                "cholesterol": {
+                    "total": "153 mg/dL",
+                    "HDL": "101 mg/dL",
+                    "LDL": "31 mg/dL"
+                },
+                "waist_circumference": "36 inches",
+                "BMI": "24.5"
+            },
+            "relevant_findings": {
+                "neuropathy": "No symptoms of peripheral neuropathy",
+                "ophthalmologic": "Normal findings"
+            },
+            "changes_over_time": {
+                "HbA1c": [
+                    {
+                        "value": "8.5%",
+                        "timeframe": "July 1999"
+                    },
+                    {
+                        "value": "7.4%",
+                        "timeframe": "Not specified"
+                    },
+                    {
+                        "value": "8.0%",
+                        "timeframe": "21 months after diagnosis"
+                    },
+                    {
+                        "value": "7.5%",
+                        "timeframe": "After titrating metformin"
+                    },
+                    {
+                        "value": "7.1%",
+                        "timeframe": "After diet and exercise program"
+                    },
+                    {
+                        "value": "7.8%",
+                        "timeframe": "Shortly thereafter"
+                    },
+                    {
+                        "value": "6.9%",
+                        "timeframe": "6 months after adding Rosiglitazone"
+                    }
+                ],
+                "weight": {
+                    "value": "BMI 24 to 24.5",
+                    "change": "No significant weight loss"
+                }
+            }
+        }
+    ]
+}

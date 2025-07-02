@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "urinalysis",
+            "date": "Not specified",
+            "findings": "Turbid urine with 6 to 8 white cells per high-power field; initially revealed 6 to 8 white cells per high power field, later showed 2 to 4 white cells per high power field.",
+            "changes_over_time": "Decreased white cell count from 6 to 8 to 2 to 4 white cells per high power field."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Two and a half weeks before admission",
+            "findings": "Hepatomegaly with multiple hypodense nodules in the spleen and liver.",
+            "changes_over_time": "Follow-up CT two months later showed nearly complete resolution of the lesions in the liver and spleen."
+        },
+        {
+            "procedure_name": "needle biopsy of the liver",
+            "date": "Not specified",
+            "findings": "Chronic lymphocytic inflammation extending across the limiting plate of an adjacent hepatic lobule with extracellular bacilli visualized by Warthin–Starry silver stain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "serologic testing for Bartonella antibodies",
+            "date": "Not specified",
+            "findings": "IgG titers to B. henselae and B. quintana exceeded 1:1024; IgM titers were less than the assay threshold of 1:20.",
+            "changes_over_time": "Follow-up testing showed IgG titers remained positive at greater than 1:1024, and B. henselae IgM antibody titer increased to 1:80."
+        }
+    ]
+}

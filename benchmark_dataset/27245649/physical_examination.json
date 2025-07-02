@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "105/66 mmHg",
+                "heart_rate": "101 bpm",
+                "respiratory_rate": "Normal",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "5 cm above the sternal angle",
+                "carotid_pulse": "Normal volume and contour, no audible bruits",
+                "sternotomy_scar": "Midline scar",
+                "apical_impulse": "Sustained",
+                "auscultation": "Normal S1, grade 2 late-peaking systolic ejection murmur best heard at the base with radiation to the carotid base, soft S2, no S3 or S4",
+                "lung_exam": "Clear to auscultation bilaterally",
+                "pedal_edema": "None",
+                "peripheral_pulses": "All palpable",
+                "abdomen": "Soft, nontender",
+                "ECG": "Sinus tachycardia, normal axis, normal intervals, borderline left ventricular hypertrophy"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "14 weeks gestation",
+            "vital_signs": {
+                "peak_gradient": "149 mmHg",
+                "mean_gradient": "98 mmHg",
+                "valve_area": "0.8 cm²"
+            },
+            "relevant_findings": {
+                "echocardiogram": "Severe prosthetic valve stenosis, no aortic valve regurgitation, mild concentric left ventricular hypertrophy, hyperdynamic left ventricular systolic function, no evidence of pulmonary hypertension",
+                "chest_xray": "No evidence of pulmonary edema",
+                "blood_work": "Normal troponin values, no anemia, normal thyroid function"
+            },
+            "changes_over_time": "Significantly elevated gradients observed from initial echocardiogram showing mild prosthetic valve aortic stenosis with peak/mean gradients of 41/27 mmHg."
+        }
+    ]
+}

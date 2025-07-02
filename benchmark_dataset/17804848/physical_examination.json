@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C",
+                "blood_pressure": "157/57 mmHg",
+                "pulse": "75 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "The patient appeared uncomfortable but not in acute distress.",
+                "chest_examination": "Coarse breath sounds bilaterally and scant rales at both lung bases.",
+                "jugular_venous_pressure": "15 cm of water.",
+                "cardiovascular": "Normal rate and regular rhythm; S3 and a grade 2/6 systolic crescendo–decrescendo murmur best heard at left sternal border.",
+                "abdominal": "Soft and not distended, no tenderness on palpation.",
+                "peripheral_examination": "Peripherally inserted central catheter in right antecubital fossa; site nonerythematous and nontender, no leg edema or petechiae."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Day 8 of treatment",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "new_observations": "Painful petechiae on the patient’s right foot."
+            },
+            "changes_over_time": "The appearance of painful petechiae suggests a possible graft-associated endovascular infection."
+        }
+    ]
+}

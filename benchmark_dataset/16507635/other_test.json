@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Heterozygous deletion of a cytosine (C) in the third exon, affecting nucleotide 825 (825delC).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical imaging",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychomotor evaluation",
+            "date": "Ages 5, 8, and 11 for Case 1; Age 4 for Case 2",
+            "findings": "Case 1: Poor motor skills; slight decline in verbal scale and manipulative skills within normal range. Case 2: Loss of balance, tremor, hyperreflexia, and mental retardation below normal range.",
+            "changes_over_time": "Case 1 shows slight decline over the years; Case 2 shows marked decline in various skills."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At age 7 for Case 1; At age 4 for Case 2",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

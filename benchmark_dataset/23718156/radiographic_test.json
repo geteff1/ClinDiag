@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "October 13, 2012",
+            "findings": "Bilateral hilar interstitial infiltrates.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "October 29, 2012",
+            "findings": "Coalescing patchy densities at the base of the right lung.",
+            "changes_over_time": "Worsening opacities observed on follow-up chest radiography."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "November 7, 2012",
+            "findings": "Bilateral hilar infiltrates.",
+            "changes_over_time": "Infiltrates resolved by November 11, 2012."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "November 6, 2012",
+            "findings": "Coalescing airspace densities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

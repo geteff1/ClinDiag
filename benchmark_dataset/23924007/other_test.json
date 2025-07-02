@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Psoriasiform epidermal hyperplasia with parakeratosis and a mixed inflammatory infiltrate in the superficial dermis, features suggestive of a hypersensitivity reaction.",
+            "changes_over_time": "Skin-biopsy specimens obtained later showed eczema-tous and interface dermatitis, dyskeratotic cells, and a mixed inflammatory infiltrate."
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration",
+            "date": "Not specified",
+            "findings": "Cytologic examination revealed small lymphoid cells. Flow cytometry showed no evidence of an abnormal lymphocyte population.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flow Cytometry Analysis",
+            "date": "Not specified",
+            "findings": "On initial examination, very few Sézary cells were noted; subsequent analysis showed CD4 T cells with a CD4:CD8 ratio of approximately 10.",
+            "changes_over_time": "On later examination, flow cytometric analysis of peripheral blood revealed a CD4:CD8 ratio of 9, and additional abnormalities were detected over time."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Hypercellular marrow with increased eosinophils and an atypical lympho-histiocytic infiltrate consistent with T-cell lymphoma.",
+            "changes_over_time": "The same T-cell clone was found in both the bone marrow and blood."
+        },
+        {
+            "procedure_name": "Patch Testing",
+            "date": "Not specified",
+            "findings": "No positive allergens identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Extracorporeal Photopheresis",
+            "date": "Not specified",
+            "findings": "After three cycles, erythroderma and pruritus improved, and the CD4:CD8 ratio decreased to 2.6.",
+            "changes_over_time": "After the fourth cycle, discrete annular plaques developed on the trunk and arms."
+        }
+    ]
+}

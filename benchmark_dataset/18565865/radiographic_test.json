@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A right preauricular soft-tissue mass, 1.6 cm by 2.6 cm; a mass in the right parotid gland, near the angle of the mandible, 1.4 cm by 1.4 cm; and two enlarged lymph nodes anterior to the right jugular vein, each 1.7 cm by 1.1 cm. Lymph nodes in the posterior triangle on the right side were larger than those on the left side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "An enhancing lesion, 3.0 cm by 1.5 cm by 2.3 cm, in the right preauricular region, inseparable from the superficial lobe of the parotid gland. Multiple, enlarged, abnormally enhancing lymph nodes in the right anterior cervical lymph-node chain extending to the level of C5; the largest was 1.6 cm by 2.5 cm. The left parotid gland appeared normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "CT scans of the thorax, abdomen, and pelvis were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphoscintigraphy",
+            "date": "Not specified",
+            "findings": "Showed drainage to lymph nodes in both sides of the neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "12 months after treatment",
+            "findings": "Almost complete replacement of the liver parenchyma by echogenic nodules.",
+            "changes_over_time": "Indicated progression as a percutaneous biopsy showed foci of malignant cells within the liver parenchyma."
+        }
+    ]
+}

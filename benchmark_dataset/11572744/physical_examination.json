@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Mrs C was fully dilated and saw her doctor who reported contractions at 2 1/2 minutes without her feeling them.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "25 weeks 3 days",
+            "vital_signs": {
+                "weight": "830 g"
+            },
+            "relevant_findings": "Apgar scores for baby Noelle were 1, 4, and 7 at 1, 5, and 10 minutes; severe respiratory distress syndrome confirmed by chest radiograph.",
+            "changes_over_time": "Initially intubated and given surfactant; extubated to continuous positive airway pressure on day 5."
+        },
+        {
+            "date": "Day 19",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Diagnosed with severe necrotizing enterocolitis (NEC).",
+            "changes_over_time": "Status improved sufficiently so by day 36, she was returned to enteral nutrition and slowly advanced."
+        }
+    ]
+}

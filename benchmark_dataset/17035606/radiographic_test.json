@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "Kidneys appeared normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cardiac echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular hypertrophy (LVH)",
+            "changes_over_time": "LVH has resolved after treatment"
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "Extensive nephrocalcinosis",
+            "changes_over_time": "BP normalized after treatment with salt restriction and hydrochlorothiazide"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Nephrocalcinosis",
+            "changes_over_time": "BP remains normal with salt restriction"
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "Kidneys were normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "analyzing urinary steroid profile",
+            "date": "Not specified",
+            "findings": "High urinary cortisol/cortisone ratio indicative of AME",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

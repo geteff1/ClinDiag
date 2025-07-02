@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal results on multiple occasions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry Tests",
+            "date": "Not specified",
+            "findings": "Normal results on multiple occasions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT Scan",
+            "date": "Not specified",
+            "findings": "Initial scan revealed a fluid collection extending from the electrostimulator to the left side of the rectouterine pouch.",
+            "changes_over_time": "Subsequent CT scan showed a pelvic fluid collection measuring 13x9 cm and then recurrence measuring 11.5x8x7 cm two weeks later."
+        },
+        {
+            "procedure_name": "Microbiological Culture",
+            "date": "Not specified",
+            "findings": "No bacterial growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytologic Analysis",
+            "date": "Not specified",
+            "findings": "Negative for malignancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological Analysis",
+            "date": "Not specified",
+            "findings": "Confirmed the diagnosis based on the surgical specimen, specifics were not mentioned.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

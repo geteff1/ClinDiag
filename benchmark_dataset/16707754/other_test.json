@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal Paracentesis",
+            "date": "Not specified",
+            "findings": "3.3 liters of ascitic fluid removed; serum–ascites albumin gradient was 1.2 g per deciliter.",
+            "changes_over_time": "Reaccumulation of ascites was noted three days later."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Microscopical examination showed evidence of venous outflow obstruction, suggestive of partial or incomplete cirrhosis.",
+            "changes_over_time": "Comparative analysis showed different levels of fibrosis; original biopsy revealed bridging fibrosis suggesting incomplete cirrhosis, whereas a later biopsy showed absent bridging fibrosis."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Coarse, echogenic liver with mild ascites; hepatic veins were not well visualized.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Venography",
+            "date": "Fourth hospital day",
+            "findings": "Demonstrated narrowing of the intrahepatic portion of the inferior vena cava.",
+            "changes_over_time": "Hepatic veins could not be visualized."
+        },
+        {
+            "procedure_name": "JAK2 Mutation Testing",
+            "date": "Not specified",
+            "findings": "Presence of V617F mutation in JAK2; 20 to 30 percent of peripheral-blood nucleated cells harbor the mutant allele.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Serial CSF analyses revealed ongoing inflammation (pleocytosis and elevated protein; reference range in dotted lines) and recurrent isolation of C. albicans (+), despite antifungals.",
+            "changes_over_time": "Symptom resolution and normalization of CSF parameters occurred after adjunctive GM-CSF therapy was initiated."
+        },
+        {
+            "procedure_name": "GM-CSF production measurement",
+            "date": "Not specified",
+            "findings": "Zymosan-stimulated peripheral blood mononuclear cells showed impaired GM-CSF gene expression relative to GAPDH with decreased GM-CSF production compared to healthy controls.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum voriconazole level measurement",
+            "date": "Not specified",
+            "findings": "Serum voriconazole levels ranged from 0.22 to 1.53 µg/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

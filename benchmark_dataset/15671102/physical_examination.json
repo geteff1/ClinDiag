@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1.4 yr",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Pectus excavatum, large anterior fontanel, rachitic skeletal changes (rachitic rosary), low serum alkaline phosphatase (75 U/liter; normal range, 250-1000 U/liter), high urinary phosphoethanolamine (440 μmol/liter; normal range, 0–78 μmol/liter), elevated serum inorganic phosphorus level (2.38 mmol/liter; normal range, 1.30–2.20 mmol/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "8 yr",
+            "vital_signs": "Not specified",
+            "relevant_findings": "First traumatic fracture of left metacarpal.",
+            "changes_over_time": "Since this initial fracture at age 8, subsequent fractures occurred in both tibia and left femur, leading to surgical treatment by internal fixation."
+        },
+        {
+            "date": "16.9 yr",
+            "vital_signs": {
+                "height": "163 cm",
+                "weight": "75.5 kg",
+                "body_mass_index": "28.4"
+            },
+            "relevant_findings": "No developmental delay has been observed.",
+            "changes_over_time": "Growth declined to below average during childhood."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "112 bpm",
+                "other_vital_signs": "normal"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "gravid, soft, nontender",
+                "speculum_examination": "closed cervical os, small amount of bright red blood, no pooling fluid",
+                "hematological": {
+                    "hemoglobin": "11.5 g/dl (reference range, 12.0 to 16.0)",
+                    "hematocrit": "35.0% (reference range, 36.0 to 46.0)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fetal_heart_rate": "140 bpm, moderate variability and accelerations, single deceleration with rapid return to baseline"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "gravid, soft, mild tenderness on palpation at fundus",
+                "speculum_examination": "closed cervix, approximately 5 ml of dark brown blood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "36 weeks 4 days of gestation",
+            "vital_signs": {
+                "pulse": "Not specified",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "uterine_examination": "atonic uterus, brisk vaginal bleeding from the uterus"
+            },
+            "changes_over_time": "Patient became unstable with brisk vaginal bleeding and underwent hysterectomy"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "145 bpm",
+                "respirations": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "right_ventricular_function": "evidence of acute right ventricular failure, right ventricular dilatation"
+            },
+            "changes_over_time": "Improvement in right ventricular function noted after treatment with inotropic agents and inhaled nitric oxide"
+        }
+    ]
+}

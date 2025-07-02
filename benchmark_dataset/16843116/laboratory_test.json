@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "VDRL test",
+            "date": "Not specified",
+            "findings": "Infant's VDRL titer was 1:256; mother's titer was 1:4; father's titer was 1:64.",
+            "changes_over_time": "VDRL titer decreased to 1:4 after 3 months and became 1:1 one year later."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis (WBC count 25.4 3109/L; normal, 3.9-10.6 3109/L), anemia (hemoglobin 10.5 g/dL; normal, 13.5-17.5 g/dL), thrombocytopenia (platelet count 108 3109/L; normal, 150-400 3109/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Raised aspartate aminotransferase of 75 U/L (normal, 0-34 U/L) and raised alanine aminotransferase of 474 U/L (normal, 0-36 U/L). Raised direct bilirubin of 1.7 mg/dL (normal, <0.2 mg/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

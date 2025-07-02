@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histological diagnosis of multifocal gastric GIST and impaction of paraaortic paraganglioma.",
+            "changes_over_time": "Multifocal gastric GIST and paraganglioma discovered in the second patient, but no changes over time are specified."
+        },
+        {
+            "procedure_name": "Surgical resection",
+            "date": "Multiple dates following initial diagnoses",
+            "findings": "Resection of multiple paraaortic paragangliomas and adrenal cortical adenoma in patient one; resection of chondromas in patient two.",
+            "changes_over_time": "Patient one underwent several resections at different ages, with tumors recurrently appearing, while patient two has continued to have asymptomatic pulmonary chondromas."
+        },
+        {
+            "procedure_name": "Adrenalectomy",
+            "date": "Age 29 for one patient, age 48 for another",
+            "findings": "Discovery of juxtaadrenal paragangliomas and unilateral pheochromocytoma during surgery.",
+            "changes_over_time": "Subclinical Cushing syndrome was confirmed biochemically in one patient postoperatively."
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Presence of esophageal leiomyomas, usually small and asymptomatic.",
+            "changes_over_time": "Some lesions remained asymptomatic for years, as seen in reported patients."
+        }
+    ]
+}

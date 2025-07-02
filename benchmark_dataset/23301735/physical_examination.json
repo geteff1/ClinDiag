@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "blood_pressure": "111/81 mm Hg",
+                "pulse": "97 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Intermittently very anxious and hyperventilating. Gagging sensation observed when attempting to drink water, with improvement after expectorating the liquid. Able to swallow solids. Normal findings in the remainder of the examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "blood_pressure": "171/80 mm Hg",
+                "pulse": "86 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "Ptosis of the right eyelid, mild facial twitching, postural hand tremors, and dysmetria on finger–nose–finger and heel-to-shin testing. Hyperactive deep-tendon reflexes. Rushed and fluent speech with occasional slurred words.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second day",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "blood_pressure": "240 mm Hg",
+                "pulse": "160 bpm",
+                "respiratory_rate": "40 breaths per minute",
+                "oxygen_saturation": "40 to 49%"
+            },
+            "relevant_findings": "Tremulous, agitated, confused; showing significant respiratory distress with low oxygen saturation.",
+            "changes_over_time": "Deterioration in vital signs and respiratory status observed after lumbar puncture."
+        }
+    ]
+}

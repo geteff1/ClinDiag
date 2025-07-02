@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal fluid test",
+            "date": "Not specified",
+            "findings": "6 white cells per cubic millimeter (51% lymphocytes), glucose and protein levels were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography and nerve-conduction testing",
+            "date": "Hospital day 8",
+            "findings": "Consistent with acute motor axonal neuropathy or motor neuronopathy (anterior horn-cell disease).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool culture",
+            "date": "Hospital day 74",
+            "findings": "Found to contain enterovirus.",
+            "changes_over_time": "Initial viral cultures were negative."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2 to 4 Days before Admission",
+            "findings": "41.7%",
+            "changes_over_time": "Decreased to 33.5% on Admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "2 to 4 Days before Admission",
+            "findings": "14.0 g/dL",
+            "changes_over_time": "Decreased to 12.7 g/dL on Admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 to 4 Days before Admission",
+            "findings": "9,700 per mm3",
+            "changes_over_time": "Increased to 11,600 per mm3 on Admission."
+        },
+        {
+            "procedure_name": "Differential count - Neutrophils",
+            "date": "2 to 4 Days before Admission",
+            "findings": "86%",
+            "changes_over_time": "Decreased to 78% on Admission."
+        },
+        {
+            "procedure_name": "Differential count - Lymphocytes",
+            "date": "2 to 4 Days before Admission",
+            "findings": "2%",
+            "changes_over_time": "Increased to 4% on Admission."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "2 to 4 Days before Admission",
+            "findings": "123,000 per mm3",
+            "changes_over_time": "Increased to 170,000 per mm3 on Admission."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "On Admission",
+            "findings": "52 mm/hr",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "2 to 4 Days before Admission",
+            "findings": "82.6 mg/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "2 to 4 Days before Admission",
+            "findings": "7 mg/dL",
+            "changes_over_time": "Increased to 15 mg/dL on Admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "2 to 4 Days before Admission",
+            "findings": "0.8 mg/dL",
+            "changes_over_time": "Increased to 1.18 mg/dL on Admission."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "2 to 4 Days before Admission",
+            "findings": "131 mg/dL",
+            "changes_over_time": "Decreased to 127 mg/dL on Admission."
+        },
+        {
+            "procedure_name": "Bilirubin - Total",
+            "date": "2 to 4 Days before Admission",
+            "findings": "0.9 mg/dL",
+            "changes_over_time": "Increased to 1.1 mg/dL on Admission."
+        },
+        {
+            "procedure_name": "Bilirubin - Direct",
+            "date": "On Admission",
+            "findings": "0.6 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "2 to 4 Days before Admission",
+            "findings": "93 U/liter",
+            "changes_over_time": "Increased to 190 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "2 to 4 Days before Admission",
+            "findings": "28 U/liter",
+            "changes_over_time": "Increased to 68 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "2 to 4 Days before Admission",
+            "findings": "21 U/liter",
+            "changes_over_time": "Increased to 117 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "2 to 4 Days before Admission",
+            "findings": "312 U/liter",
+            "changes_over_time": "Increased to 477 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "2 to 4 Days before Admission",
+            "findings": "383.2 ng/ml",
+            "changes_over_time": "Increased to 461 ng/ml on Admission."
+        }
+    ]
+}

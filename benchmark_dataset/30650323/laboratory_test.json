@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "3 Years before Admission",
+            "findings": "39.9% (Reference Range: 41–53%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "3 Years before Admission",
+            "findings": "13.0 g/dL (Reference Range: 13.5–17.5 g/dL)",
+            "changes_over_time": "Decreased to 9.3 g/dL on Admission"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "3 Years before Admission",
+            "findings": "7370 per mm3 (Reference Range: 4500–11,000 per mm3)",
+            "changes_over_time": "Increased to 9460 per mm3 on Admission"
+        },
+        {
+            "procedure_name": "Neutrophils (Differential Count)",
+            "date": "3 Years before Admission",
+            "findings": "63.1% (Reference Range: 40–70%)",
+            "changes_over_time": "Increased to 75.8% on Admission"
+        },
+        {
+            "procedure_name": "Lymphocytes (Differential Count)",
+            "date": "3 Years before Admission",
+            "findings": "24.4% (Reference Range: 22–44%)",
+            "changes_over_time": "Decreased to 11.2% on Admission"
+        },
+        {
+            "procedure_name": "Monocytes (Differential Count)",
+            "date": "3 Years before Admission",
+            "findings": "11.5% (Reference Range: 4–11%)",
+            "changes_over_time": "Increased to 11.7% on Admission"
+        },
+        {
+            "procedure_name": "Eosinophils (Differential Count)",
+            "date": "3 Years before Admission",
+            "findings": "0.8% (Reference Range: 0–8%)",
+            "changes_over_time": "Decreased to 0.5% on Admission"
+        },
+        {
+            "procedure_name": "Red-cell count",
+            "date": "3 Years before Admission",
+            "findings": "6,760,000 per mm3 (Reference Range: 4,500,000–5,900,000 per mm3)",
+            "changes_over_time": "Decreased to 5,510,000 per mm3 on Admission"
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "3 Years before Admission",
+            "findings": "59.0 fL (Reference Range: 80.0–100.0 fL)",
+            "changes_over_time": "Decreased to 54.8 fL on Admission"
+        },
+        {
+            "procedure_name": "Mean corpuscular hemoglobin",
+            "date": "3 Years before Admission",
+            "findings": "19.2 pg (Reference Range: 26.0–34.0 pg)",
+            "changes_over_time": "Decreased to 16.9 pg on Admission"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "3 Years before Admission",
+            "findings": "4.9 g/dL (Reference Range: 3.3–5.0 g/dL)",
+            "changes_over_time": "Decreased to 3.3 g/dL on Admission"
+        },
+        {
+            "procedure_name": "d-dimer",
+            "date": "On Admission",
+            "findings": "734 ng/mL (Reference Range: <500 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B Virus Testing",
+            "date": "On Admission",
+            "findings": "HBV surface antigen positive; antibodies to HBV core antigen positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV Testing",
+            "date": "On Admission",
+            "findings": "Negative for HIV-1 and HIV-2 antibodies and HIV-1 p24 antigen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "6 weeks before Admission",
+            "findings": "Histopathological examination revealed acute neutrophilic folliculitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mycobacterial Culture",
+            "date": "Pending from skin and lymph node.",
+            "findings": "Not yet available.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interferon-γ Release Assay",
+            "date": "On Admission",
+            "findings": "Strongly positive for M. tuberculosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

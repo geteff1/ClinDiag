@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Continuous Glucose Monitoring System (CGMS)",
+            "date": "Not specified",
+            "findings": "Continuous glucose monitoring showed normoglycemia over 72 hours after discontinuation of pump therapy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (US)",
+            "date": "At age 2 years",
+            "findings": "Asymptomatic cholelithiasis was detected.",
+            "changes_over_time": "Treatment with ursodeoxycholic acid was started with some improvement on subsequent US studies."
+        },
+        {
+            "procedure_name": "Growth Monitoring",
+            "date": "During first 2 years of somatuline treatment",
+            "findings": "A mild, transient growth deceleration was observed, with a shift of height from the 50th to the 35th percentile.",
+            "changes_over_time": "Subsequent catch-up growth occurred, and the patient resumed normal growth along the 50th percentile."
+        },
+        {
+            "procedure_name": "Glucose Monitoring",
+            "date": "Not specified",
+            "findings": "Blood glucose was stabilized after treatment with octreotide via insulin pump.",
+            "changes_over_time": "No change in growth pattern or cholelithiasis was observed after switching to lanreotide."
+        }
+    ]
+}

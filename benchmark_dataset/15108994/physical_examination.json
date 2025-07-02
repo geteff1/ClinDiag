@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/65 mmHg",
+                "heart_rate": "78 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "133/72 mmHg",
+                "heart_rate": "75 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Patient experienced transient increase in blood pressure to 145/78 mmHg and a decrease in heart rate to 48 bpm after dexmedetomidine administration. During surgery, heart rate dropped into the 30s, leading to asystole.",
+            "changes_over_time": "The significant bradycardia progressed to asystole during surgical stimulation."
+        },
+        {
+            "date": "During surgery",
+            "vital_signs": {
+                "blood_pressure": "100-105/50-55 mmHg",
+                "heart_rate": "46-50 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Heart rate dropped to the 30s leading to asystole shortly after sternal retraction, then returned to baseline following treatment."
+        }
+    ]
+}

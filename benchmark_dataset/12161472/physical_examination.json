@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "heart_rate": "Elevated",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Anxious appearance; diffusely enlarged, slightly irregular, and very firm thyroid gland estimated at 60 g.",
+            "changes_over_time": "Thyroid appeared larger and firmer (estimated weight 80 g) five months later."
+        },
+        {
+            "date": "Five months later",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Excruciating neck pain and compressive symptoms with a thyroid gland weighing 80 g.",
+            "changes_over_time": "Goiter size was unchanged at subsequent examination two months later."
+        },
+        {
+            "date": "Two months later (after unconsciousness incident)",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Unconsciousness; paresthesias and numbness in hands, feet, and face; low serum calcium at 1.4 mmol/liter; very low intact PTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Three months later",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Pain in right lobe of thyroid; progressive difficulty in breathing; computerized tomography showed massively enlarged thyroid compressing internal jugular vein and trachea.",
+            "changes_over_time": "Thyroid became woody hard and fibrotic."
+        },
+        {
+            "date": "Two months later (post-surgery)",
+            "vital_signs": {
+                "blood_pressure": "Hypotension",
+                "heart_rate": "Bradycardia",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Right Horner's syndrome with ptosis and meiosis; hoarseness; right vocal cord paralysis noted on laryngoscopy.",
+            "changes_over_time": "Horner's syndrome was resolved with treatment."
+        },
+        {
+            "date": "Six months later",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Remarkable improvement; no compressive symptoms; residual mild hoarseness.",
+            "changes_over_time": "Thyroid size markedly reduced; no compressive symptoms."
+        }
+    ]
+}

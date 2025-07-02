@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "24 breaths per minute",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Tachypneic",
+                    "Rales halfway up both hemithoraces",
+                    "Diminished breath sounds in the right upper lung field",
+                    "Third heart sound at cardiac auscultation"
+                ]
+            },
+            "changes_over_time": "Symptoms improved with treatment with digoxin, furosemide, and captopril for left-sided congestive heart failure."
+        }
+    ]
+}

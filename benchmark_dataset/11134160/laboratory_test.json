@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal measurements",
+            "date": "3-4 months of age",
+            "findings": {
+                "testosterone": "Below detection limits",
+                "inhibin B": "37 pg/mL (normal range: 193–563 pg/mL)",
+                "LH": "Undetectable (normal range: 0.65–2.69 IU/L)",
+                "FSH": "0.18 IU/L (normal range: 0.86–2.52 IU/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gonadotropin stimulation test",
+            "date": "3 years of age",
+            "findings": {
+                "LH": "Undetectable before and after stimulation",
+                "FSH": "Undetectable before and after stimulation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Human CG stimulation",
+            "date": "4 months of age",
+            "findings": {
+                "testosterone": "Increased to 8.01 nmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spontaneous serum testosterone measurements",
+            "date": "2 years of age",
+            "findings": {
+                "testosterone": "Undetectable"
+            },
+            "changes_over_time": "Increased to 3.16 nmol/L after stimulation with two weekly sc injections of 100 IU human CG/kg for 3 weeks."
+        },
+        {
+            "procedure_name": "Hormonal values measurements",
+            "date": "3.5 months of age",
+            "findings": {
+                "testosterone": "Undetectable",
+                "FSH": "0.18 IU/L",
+                "LH": "0.07 IU/L",
+                "inhibin B": "199 pg/mL"
+            },
+            "changes_over_time": "Significant effect on genital development with penile and scrotal growth after testosterone treatment (1 mg daily) was initiated at 9 months, followed by 1 mg twice daily from 11–14 months."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2012",
+            "vital_signs": {
+                "temperature": "38.5 °C",
+                "pulse": "90 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "140/80 mmHg"
+            },
+            "relevant_findings": {
+                "appearance": "ill-looking, flushed, diaphoretic, and dehydrated",
+                "conjunctivae": "clear and nonicteric",
+                "throat": "normal",
+                "neck": "supple with no palpable adenopathy",
+                "thyroid": "normal",
+                "lungs": "clear",
+                "abdomen": "soft and nontender",
+                "cardiac": "tachycardia, no murmurs",
+                "skin": "psoriatic lesions"
+            },
+            "changes_over_time": {
+                "headache": "decreased over time",
+                "fever": "remained febrile, temperatures to 39.4 °C for 3 days, afebrile on the fourth day",
+                "overall condition": "continued to feel poorly with drenching sweats and episodes of fever, resolved by follow-up"
+            }
+        },
+        {
+            "date": "June 2011",
+            "vital_signs": {
+                "temperature": "37.4 °C",
+                "pulse": "88 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "130/60 mmHg"
+            },
+            "relevant_findings": {
+                "appearance": "unsteady on his feet, short of breath with activities",
+                "skin": "no skin rashes, scattered ecchymoses",
+                "head": "unremarkable, neck supple with no neck vein distention",
+                "lungs": "clear",
+                "cardiac": "soft systolic murmur",
+                "abdomen": "soft and nontender with no organomegaly",
+                "extremities": "unremarkable",
+                "neurologic": "no focal deficits"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Amniocentesis",
+            "date": "17 weeks",
+            "findings": "Normal chromosome analysis and normal microarray results, specifically negative for Noonan's syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anatomical Ultrasound",
+            "date": "20 weeks",
+            "findings": "Early onset growth restriction with the fetus measuring 18 weeks. Multiple anomalies including shortened long bones, clenched fists, bilateral clubfeet with high suspicion of polydactyly, cerebellar hypoplasia, abnormal calvarium, micrognathia, low-set ears, single umbilical artery, and possible ventral septal defect (VSD).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Positive for heterozygous NIPBL pathogenic variant c.1713_1716delACAA, variant not found in parental DNA, likely de novo.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

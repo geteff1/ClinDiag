@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "117/58 mm Hg",
+                "pulse": "73 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "joint_examination": {
+                    "right_thumb": {
+                        "description": "erythematous and warm, pain with movement and palpation",
+                        "effusion": "present"
+                    },
+                    "ankles": {
+                        "description": "warmth present but no erythema, pain with dorsiflexion, plantar flexion, eversion, and inversion, and on palpation",
+                        "effusion": "present"
+                    },
+                    "remainder_of_joints": "normal"
+                },
+                "overall_condition": "no distress, appeared well",
+                "mouth_and_nose": "normal with no ulcers",
+                "parotid_glands": "not enlarged",
+                "heart_sounds": "normal with no murmurs",
+                "breath_sounds": "normal bilaterally, no wheezing or rhonchi",
+                "abdominal_examination": {
+                    "description": "soft, nondistended, nontender",
+                    "liver": "not palpable",
+                    "spleen": "not enlarged"
+                },
+                "rashes": "no rash or telangiectasias"
+            },
+            "changes_over_time": {
+                "thumb": "progressive limitations in flexion consistent with flexor tenosynovitis",
+                "ankles": "progressive pain and swelling"
+            }
+        }
+    ]
+}

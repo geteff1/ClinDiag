@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Specific IgE",
+            "date": "Not specified",
+            "findings": "Negative for cow’s milk; positive for apple (1.9 kU/l), birch (26.2 kU/l), Bet v 1 (29.9 kU/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Prick Test (SPT)",
+            "date": "Not specified",
+            "findings": "Positive to parietaria, cypress, birch, beech tree, hazel tree, oak, linden, pine, apple, cherry, peach, carrot, fennel, soybean, hazelnut, peanut and walnut",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total IgE",
+            "date": "Not specified",
+            "findings": "6 kU/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neutrophil Count",
+            "date": "Not specified",
+            "findings": "Elevated to 26.4 x 10^9/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "Elevated to 615 x 10^9/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "Peak 3.6 µg/l indicating myocardial injury",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "Peak 56,000 u/l indicating rhabdomyolysis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine Transaminase (ALT)",
+            "date": "Not specified",
+            "findings": "Peak 3100 iu/l indicating hepatic injury",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Eosinophil Count",
+            "date": "Not specified",
+            "findings": "High density in lamina propria with occasional clustering",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoalveolar Lavage",
+            "date": "Not specified",
+            "findings": "8% eosinophils present",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricle ejection fraction reduced to 46% with diastolic dysfunction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "Not specified",
+            "findings": "FEV1 1.94L, deterioration compared to well-controlled asthma (FEV1 2.2L)",
+            "changes_over_time": "Improved to FEV1 2.22L after increase in steroid dose"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Valproic Acid Level",
+            "date": "Not specified",
+            "findings": "86.1 µg/ml (normal range=50–125)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin Level",
+            "date": "Not specified",
+            "findings": "3.8 g/dl (normal range=3.2–5.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free Valproic Acid Level",
+            "date": "Not specified",
+            "findings": "15 µg/ml (normal range=5–10)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Parathyroid Hormone Level",
+            "date": "Three months post-operation",
+            "findings": "High level initially, recovered within normal limits after partial parathyroidectomy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Revealed a microadenoma of the anterior pituitary gland",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Low-voltage fast pattern with no paroxysmal discharges",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

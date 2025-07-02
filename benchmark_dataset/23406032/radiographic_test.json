@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "A heterogeneous, hypoechoic nodule (42 mm by 32 mm by 26 mm) in the midpole of the right lobe with lobulated margins, scattered central calcification, and mild central blood flow. A solid, hypoechoic nodule (24 mm by 19 mm by 34 mm), posterior and inferior to the first nodule, contained several foci of punctate calcifications. An enlarged lymph node in the lower cervical region (level 4) on the right side with abnormal internal architecture and microcalcifications.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Two solid, heterogeneous thyroid nodules with irregular borders in the right lobe, calcifications in the larger nodule, and cervical lymphadenopathy adjacent to the larger nodule.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "The nodule in the right lobe of the thyroid was identified; what appeared on ultrasonography to be a second nodule was recognized on CT as a markedly enlarged node in the central neck deeply infiltrating the tracheoesophageal groove. No evidence of tracheal invasion, multiple abnormal-appearing nodes in the lateral neck, and an enlarged retropharyngeal node on the right side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET and CT",
+            "date": "Four weeks postoperatively",
+            "findings": "Enlarged FDG-avid retropharyngeal and mediastinal lymph nodes and multiple FDG-avid liver lesions.",
+            "changes_over_time": "As compared with CT of the neck 2 months earlier, the nodal disease had progressed."
+        }
+    ]
+}

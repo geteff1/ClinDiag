@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/60 mm Hg",
+                "heart_rate": "60 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "breast_exam": "Left breast scar at 3-o’clock but otherwise normal breast examination findings.",
+                "pelvic_exam": "No cervical cuff and no adnexal masses.",
+                "additional_findings": "The remainder of her physical examination results were normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.8°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Chest clear, normal heart sounds, mildly tender abdomen without rebound or guarding, no organomegaly, firm and fixed nontender mass, 3 cm by 3 cm in right inguinal region, rectal tenderness on digital examination, patient alert and oriented, neurologic exam normal.",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second hospital day",
+            "vital_signs": {
+                "temperature": "38.8°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Left-sided facial droop noted, motor strength on right side normal, 4/5 on left side with left pronator drift, poor coordination of finger-to-nose and heel-to-shin movements on the left side, positive Romberg test, neck supple but headache worse with neck flexion.",
+                "date": "Second hospital day"
+            },
+            "changes_over_time": "Left-sided facial droop was not seen the following day, indicating improvement."
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": {
+                "temperature": "38.9°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Patient appeared chronically ill, small white lesion on inferior aspect of tongue, no cervical or axillary lymphadenopathy, inspiratory crackles at left lung base, normal heart sounds, soft and nontender abdomen, normal bowel sounds, right-sided inguinal mass, 3 cm by 1 cm in size with recent incision.",
+                "date": "Third hospital day"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

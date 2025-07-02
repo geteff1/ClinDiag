@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": {
+                    "confusion": true,
+                    "short_term_memory_impairment": true,
+                    "ataxia": true
+                },
+                "prostate_examination": {
+                    "size": "enlarged",
+                    "consistency": "firm",
+                    "tenderness": "non-tender"
+                },
+                "skin": {
+                    "findings": "multiple variably pigmented papules and plaques",
+                    "biopsy_result": "negative for melanoma"
+                },
+                "neurological": {
+                    "cognitive": {
+                        "dementia": "progressive"
+                    }
+                },
+                "laboratory": {
+                    "WBC_count": "3.57/mm³",
+                    "hemoglobin_level": "12.6 g/dL",
+                    "platelet_count": "158/mm³"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

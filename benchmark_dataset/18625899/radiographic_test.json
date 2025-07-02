@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Myocardial perfusion imaging",
+            "date": "Not specified",
+            "findings": "No perfusion abnormalities during stress or at rest; left ventricular ejection fraction was 68%.",
+            "changes_over_time": "Showed a large irreversible defect in the inferolateral wall, with partial reversibility in the inferior wall."
+        },
+        {
+            "procedure_name": "Calcium scoring",
+            "date": "Not specified",
+            "findings": "No coronary calcium was observed; total coronary calcium score 0.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced multislice computed tomographic coronary angiography",
+            "date": "Not specified",
+            "findings": "Presence of diffuse non-obstructive (up to 50%) luminal narrowing, noncalcified plaques.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Resting echocardiography",
+            "date": "Not specified",
+            "findings": "Hypokinesia in the inferolateral regions with moderate (grade 2) mitral regurgitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced MRI",
+            "date": "Not specified",
+            "findings": "Subendocardial infarction in the inferolateral wall.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "New development of negative T waves in leads II, III, aVF, V5, and V6.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

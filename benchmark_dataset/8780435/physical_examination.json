@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/110 mmHg",
+                "pulse": "115 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "diaphoretic": true,
+                "tremulous": true,
+                "elevated_blood_pressure": true,
+                "elevated_pulse": true,
+                "lateral_nystagmus": true,
+                "intrusive": true,
+                "agitated": true
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

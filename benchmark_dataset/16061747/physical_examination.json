@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "31 weeks gestation",
+            "vital_signs": {
+                "fetal_heart_rate": "103 bpm",
+                "maternal_heart_rate": "73 bpm",
+                "fetal_QTc": "0.58 s",
+                "maternal_QTc": "0.46 s"
+            },
+            "relevant_findings": "Fetal bradycardia observed; prolonged QTc intervals noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "34 weeks gestation",
+            "vital_signs": {
+                "fetal_heart_rate": "104 bpm",
+                "maternal_heart_rate": "69 bpm",
+                "fetal_QTc": "0.59 s",
+                "maternal_QTc": "0.46 s"
+            },
+            "relevant_findings": "Persistent fetal bradycardia and prolonged QTc intervals continued to be observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Immediately after term delivery",
+            "vital_signs": {
+                "neonate_QTc": "0.57 s"
+            },
+            "relevant_findings": "Diagnosis of Romano-Ward syndrome confirmed with initial QTc.",
+            "changes_over_time": "QTc shortened to 0.48 s one week after the introduction of β-blocker therapy."
+        }
+    ]
+}

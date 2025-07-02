@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Left basilar opacity obscuring the left hemidiaphragm and blunting of the left costophrenic angle indicative of a left pleural effusion and atelectasis or consolidation in the left lower lobe.",
+            "changes_over_time": "Persistent left pleural effusion and left basilar opacity unchanged; new bandlike opacity in the right lower lung consistent with subsegmental atelectasis."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Small loculated left pleural effusion, thickened and enhancing pleura, patchy consolidation in the left lower lobe, scattered small indeterminate lung nodules, and no pulmonary emboli.",
+            "changes_over_time": "Persistent loculated left pleural effusion with worsening patchy consolidation in the left lower lobe; stable previously noted small lung nodules; new small right pleural effusion."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "1 year earlier",
+            "findings": "No left pleural effusion or thickening.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

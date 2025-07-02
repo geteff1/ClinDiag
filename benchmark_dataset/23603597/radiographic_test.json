@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "99mTc-MDP bone scan",
+            "date": "Not specified",
+            "findings": "Increased tracer uptake in the medial aspect of the right femoral shaft (SUVmax = 13.3), suggesting a recurrent osteosarcoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Increased tracer uptake in the medial aspect of the right femoral shaft, mimicking a local recurrence.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A faintly enhancing juxtacortical mass of 5.0 x 1.7 cm in the medial aspect of the right femoral shaft.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Imaging studies failed to demonstrate the benign nature of the lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

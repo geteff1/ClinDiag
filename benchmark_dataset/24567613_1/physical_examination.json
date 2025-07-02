@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "96/55 mmHg",
+                "heart_rate": "110 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "examination": "Patient was weak and exhausted with low blood pressure and sinus tachycardia; echocardiography showed a large pericardial effusion; elevated ventricular pacing threshold (2.75 V at 1.0 ms) and reduced sensing amplitude (5.6 mV).",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Elevated pacing threshold and decreased sensing amplitude observed 2 months prior; progressive symptoms with increasing thoracic pain before emergency presentation."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "skin biopsy",
+            "date": "Not specified",
+            "findings": "Dense infiltrate of neutrophils in the dermis; no microorganisms detected.",
+            "changes_over_time": "Lesions worsened and expanded despite treatment."
+        },
+        {
+            "procedure_name": "bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Normocellular bone marrow with dysplastic megakaryocytes; no circulating blasts.",
+            "changes_over_time": "Diagnosis confirmed as myelodysplastic syndrome."
+        }
+    ]
+}

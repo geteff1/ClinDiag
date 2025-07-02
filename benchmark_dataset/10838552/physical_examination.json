@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "overall_condition": "Stable dilative cardiomyopathy",
+                "left_ventricular_ejection_fraction": "32%",
+                "forced_expiratory_volume": "66%",
+                "forced_vital_capacity": "81%",
+                "ratio_fev_to_fvc": "89%",
+                "lung_contribution": {
+                    "ventilation": "51%",
+                    "perfusion": "43%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

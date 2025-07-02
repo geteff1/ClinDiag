@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "baseline_FEV1": "59% of predicted normal value"
+            },
+            "changes_over_time": {
+                "FEV1_progression": "Increased progressively reaching reference normal values (up to 98%) after 4 months"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Skin prick test to wheat flour and alpha-amylase were highly positive.",
+            "changes_over_time": "Skin prick test repeated after 6 months revealing the absence of wheal."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Asthma Control Test (ACT) score increased from an initial value of 11 to 25 at the fourth month.",
+            "changes_over_time": "Improvement persisted without change after the fourth month."
+        }
+    ]
+}

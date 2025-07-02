@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Short-wavelength autofluorescence (SW-AF)",
+            "date": "Not specified",
+            "findings": "Macular pigmentary changes, linear pigmentary changes, subtle macular pigmentary changes, and peripheral scalloped atrophic areas.",
+            "changes_over_time": "Increased SW-AF abnormalities slightly more evident than at first visit after four years."
+        },
+        {
+            "procedure_name": "Near infrared (NIR) reflectance",
+            "date": "Not specified",
+            "findings": "Hyperpigmented lines radiating from fovea, macular atrophy.",
+            "changes_over_time": "Eighteen years later, visual acuities decreased with marked macular atrophy."
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Macular pattern dystrophy.",
+            "changes_over_time": "Visual acuities unchanged after 21 months."
+        },
+        {
+            "procedure_name": "Color fundus imaging",
+            "date": "Not specified",
+            "findings": "Foveal atrophy and pigmentary mottling of the macula.",
+            "changes_over_time": "Visual acuities recorded as 20/80 (right) and 20/200 (left) at the latest visit aged 79."
+        }
+    ]
+}

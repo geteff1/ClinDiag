@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal X-ray",
+            "date": "Not specified",
+            "findings": "Very distended abdomen, possibly hepatosplenomegaly or ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Confirmed hepatosplenomegaly and mild ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray of the swelling in the right arm",
+            "date": "Not specified",
+            "findings": "Periosteal reaction in the right radius with small cystic lesions in the proximal humerus and abnormal bone quality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skeletal survey",
+            "date": "Not specified",
+            "findings": "Normal thoracic cage, spine, and pelvic bones with areas of destruction in the proximal shaft of the left humerus and distal shaft of the right femur.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the right arm",
+            "date": "Not specified",
+            "findings": "Suspected osteomyelitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Non-contrast CT brain scan",
+            "date": "Not specified",
+            "findings": "Thin corpus callosum, no intracranial hemorrhage or infarctions, maintained gray-white matter differentiation, normal ventricles, sulci, and basal cisterns. Opacification of the pneumatized ethmoid air cells and bilateral maxillary sinuses; more marked on the left side in the mastoid air cells. Unremarkable osseous structures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal cardiac segments with a small patent foramen ovale, normal mitral and tricuspid valves, normal aortic and pulmonary valves, and normal ventricle morphology. Evidence of branch stenosis in the pulmonary arteries with a peak gradient of 28 mmHg.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

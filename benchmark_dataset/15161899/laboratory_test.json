@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ejection Fraction Measurement",
+            "date": "1991",
+            "findings": "Ejection fraction below 35%",
+            "changes_over_time": "Ejection fraction decreased to 19% one year later."
+        },
+        {
+            "procedure_name": "Ejection Fraction Measurement",
+            "date": "1999",
+            "findings": "Ejection fraction of 19%",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ejection Fraction Measurement",
+            "date": "Not specified.",
+            "findings": "Ejection fraction improved after adherence to medical regimen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "20 months",
+            "vital_signs": {
+                "blood_glucose": "2.6 mmol/liter (47 mg/dl)",
+                "ketone_body": "1.1 mmol/liter",
+                "glucagon_response": "+3.9 mmol/liter (71 mg/dl)"
+            },
+            "relevant_findings": "Inappropriately suppressed ketone bodies and inappropriate glycemic response to glucagon consistent with hyperinsulinism.",
+            "changes_over_time": "At age 6, follow-up fasting test showed complete resolution of hyperinsulinism."
+        },
+        {
+            "date": "3 months",
+            "vital_signs": {
+                "blood_glucose": "1.1 mmol/liter (20 mg/dl)",
+                "glucagon_response": "+3.3 mmol/liter (60 mg/dl)"
+            },
+            "relevant_findings": "Hypoglycemic seizure with suppressed ketone production at 3 months.",
+            "changes_over_time": "At 42 months, the evaluation showed normal adaptation to fasting, with no further evidence of hyperinsulinism."
+        },
+        {
+            "date": "4 weeks",
+            "vital_signs": {
+                "blood_glucose": "0.7 mmol/liter (13 mg/dl)",
+                "plasma_insulin": "52 pmol/liter (7.5 U/ml)",
+                "ketone_body": "0.1 mmol/liter"
+            },
+            "relevant_findings": "Hyperinsulinism requiring IV dextrose, with inappropriately suppressed ketones and an inappropriate glycemic response to glucagon.",
+            "changes_over_time": "By age 6, although clinically improved, mildly elevated liver transaminases and mild hepatomegaly were still present."
+        }
+    ]
+}

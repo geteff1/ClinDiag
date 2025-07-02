@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Multiple foci of uptake in the ribs, particularly on the left anterolaterally.",
+            "changes_over_time": "FDG-PET scan was performed 17 days after fracture. CT scans 35 days after revealed healing fractures with callus formation. Ten months later, a bone scan showed faint uptake in the three left ribs, consistent with old healing fractures."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "8 days after injury",
+            "findings": "Low-grade diffuse uptake in the left upper lobe consistent with inflammation and uptake in several ribs bilaterally.",
+            "changes_over_time": "CT scan confirmed the presence of healing fractures, with callus formation corresponding to the FDG-PET abnormality."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "8 weeks after fall",
+            "findings": "Normal findings.",
+            "changes_over_time": "Five weeks after the fall, a bone scan showed increased tracer uptake, and FDG-PET performed 8 weeks after the fall showed normal findings."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Pulmonary nodule metabolically active with low-grade activity in two foci in the lower left lateral chest wall corresponding to rib fractures.",
+            "changes_over_time": "Fractures presumably sustained during cardiopulmonary resuscitation 1 month before the PET scan."
+        }
+    ]
+}

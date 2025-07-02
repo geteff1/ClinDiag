@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "162/89 mm Hg",
+                "heart_rate": "97 bpm",
+                "respiratory_rate": "26 breaths per minute",
+                "temperature": "37.2 °C"
+            },
+            "relevant_findings": {
+                "chest": "Clear lungs with prolonged expiration, systolic ejection murmur (grade 2 to 3) at the base. Normal cardiac rhythm.",
+                "SpO2": "93% while breathing ambient air."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eight weeks later",
+            "vital_signs": {
+                "SpO2": {
+                    "ambient_air_supine": "91%",
+                    "ambient_air_standing": "91%",
+                    "exertion": "91-93%",
+                    "with_oxygen": "97-98% with 6 liters of oxygen"
+                }
+            },
+            "relevant_findings": {
+                "appearance": "Well, not in acute distress.",
+                "lungs_and_heart": "Normal on auscultation.",
+                "fingers_and_toes": "No cyanosis or clubbing.",
+                "arms_and_legs": "No edema."
+            },
+            "changes_over_time": "No episodes of shortness of breath; physical activity consistent."
+        }
+    ]
+}

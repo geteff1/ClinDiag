@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "White-cell count": "11,400 (high)",
+                "Neutrophils": "76% (high)",
+                "Lymphocytes": "14% (low)",
+                "Monocytes": "8%",
+                "Eosinophils": "1%",
+                "Basophils": "1%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": "663 ng/ml (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "19 mm/hr (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "59.7 mg/liter (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipoprotein A",
+            "date": "Not specified",
+            "findings": "11 mg/dl (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Day of admission",
+            "findings": [
+                {
+                    "culture": "S. mutans",
+                    "growth": "Positive on hospital day 4"
+                },
+                {
+                    "culture": "Methicillin-resistant Staphylococcus aureus (MRSA)",
+                    "growth": "Positive on hospital day 5"
+                }
+            ],
+            "changes_over_time": "11 out of the first 14 bottles grew S. mutans; subsequent cultures were negative except the last one which grew MRSA."
+        }
+    ]
+}

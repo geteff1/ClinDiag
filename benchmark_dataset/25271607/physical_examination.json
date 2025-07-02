@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36°C (97°F)",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "100/60 mmHg (right arm), 105/63 mmHg (left arm)",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98% on ambient air",
+                "weight": "78 kg",
+                "height": "174 cm",
+                "body_mass_index": "25.8"
+            },
+            "relevant_findings": {
+                "general": "Not in acute distress",
+                "cardiac": "Normal point of maximal impulse, normal first and second heart sounds, no murmurs, gallops, or rubs",
+                "pulmonary": "Clear bilateral lung auscultation",
+                "abdominal": "Soft and nondistended, mild tenderness in the left upper quadrant, no rebound tenderness, hepatosplenomegaly, or masses, normal bowel sounds",
+                "neurologic": "No abnormalities",
+                "skin": "No lesions observed"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

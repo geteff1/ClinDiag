@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Thickening of the wall of the cecum and appendix, multiple small nodules in the greater omentum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Upper gastrointestinal radiographic series",
+            "date": "Not specified",
+            "findings": "A large, lobular mass near the ileocecal valve, extending into the cecum, and an extrinsic mass surrounding the terminal ileum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Combined CT and PET scan",
+            "date": "One week before current evaluation",
+            "findings": "Focus of intense tracer uptake in the cecal region, multiple small omental soft-tissue nodules without 18F-FDG avidity, small volume of ascites in the pelvis, and several small pulmonary nodules (≤9 mm) with low-level tracer uptake.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-body PET-CT scan",
+            "date": "Not specified",
+            "findings": "Suspicious masslike thickening in the cecum with intense 18F-FDG uptake, numerous soft-tissue nodules scattered throughout the abdomen and pelvis, and lung nodules with low-level 18F-FDG uptake.",
+            "changes_over_time": "Findings compatible with metastatic disease in the lung, suggestive of peritoneal carcinomatosis."
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "After 6 months of treatment",
+            "findings": "No obvious evidence of metastatic disease.",
+            "changes_over_time": "Approximately 6 months later, the level of carcinoembryonic antigen began to rise, and lung nodules enlarged."
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "Not specified",
+            "findings": "New bone lesions seen.",
+            "changes_over_time": "Progression of bone lesions and development of pain."
+        }
+    ]
+}

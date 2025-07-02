@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "16 February 2006",
+            "findings": "Positive growth of gram-positive rods.",
+            "changes_over_time": "Isolates identified as Bacillus anthracis by PCR on 21 February 2006."
+        },
+        {
+            "procedure_name": "Pleural fluid analysis (thoracentesis)",
+            "date": "19 February 2006",
+            "findings": "1700 mL of serosanguineous fluid with WBC count of 110 cells/mL.",
+            "changes_over_time": "No organisms were observed on Gram staining; bacterial culture of the fluid was sterile."
+        },
+        {
+            "procedure_name": "Pleural biopsy",
+            "date": "20 February 2006",
+            "findings": "Immunohistochemical evidence of Bacillus anthracis antigens.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lethal factor (LF) and anti-protective antigen (PA) IgG level testing",
+            "date": "17 February 2006 and 18 February 2006",
+            "findings": "LF detectable in plasma (294.30 ng/mL) and serum (203.0 ng/mL).",
+            "changes_over_time": "LF levels decreased steadily from 294.30 to 0.85 ng/mL by 23 February; anti-PA IgG reached max value (311.4 mg/mL) on 28 February."
+        },
+        {
+            "procedure_name": "Administration of anthrax immune globulin (AIG)",
+            "date": "23 February 2006",
+            "findings": "Patient received liquid 5% AIG.",
+            "changes_over_time": "Initial decline in LF levels; serum LF transiently increased before declining again."
+        }
+    ]
+}

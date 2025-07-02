@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "mild bilateral infiltrates",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography scan",
+            "date": "Not specified",
+            "findings": "left pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "upper gastrointestinal series",
+            "date": "Not specified",
+            "findings": "contrast flowing from the gastro-esophageal junction into the left pleural space through the hiatus",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_creatinine": "2.4 mg/dl",
+                "potassium": "5.5 mmol/L",
+                "sodium": "136 mmol/L",
+                "hemoglobin": "10 g/dl",
+                "serum_troponin": "0.03 ng/ml",
+                "ProBNP": "234 pg/ml",
+                "eGFR": "27 ml/min"
+            },
+            "relevant_findings": {
+                "physical_examination": [
+                    "Neurologic examination revealed evidence of length-dependent sensory-predominant polyneuropathy",
+                    "Decreased perception of pinprick stocking distribution to ankles bilaterally",
+                    "Mildly decreased vibratory sensation of large toes",
+                    "Reflexes of 2/4 bilaterally",
+                    "Negative for edema, skin rash, and organomegaly"
+                ],
+                "echocardiogram": [
+                    "Moderate to severe concentric increase in left ventricular wall thickness",
+                    "Hypertrophied anterolateral papillary muscle",
+                    "Left ventricular ejection fraction of 68%",
+                    "Systolic left ventricular cavity obliteration with a mid-ventricular maximal instantaneous Doppler gradient at rest of 6 mmHg, increasing to 25 mmHg during Valsalva maneuver",
+                    "Abnormal global average left ventricular longitudinal peak systolic strain at 214%",
+                    "T-wave inversion noted in leads I and aVL, mild biphasic T waves in leads V5 and V6"
+                ]
+            },
+            "changes_over_time": "Serum creatinine gradually increased to 2.8 mg/dl over two months."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_creatinine": "2.3 mg/dl",
+                "troponin_T": "0.12 ng/ml",
+                "NT-proBNP": "4890 pg/ml",
+                "urine_protein": "0.4 g/24 hours"
+            },
+            "relevant_findings": {
+                "Gastrointestinal symptoms": [
+                    "Early satiety",
+                    "Nausea after meals",
+                    "Vomiting",
+                    "Abdominal bloating",
+                    "Dysphagia"
+                ]
+            },
+            "changes_over_time": "Patient continued to have limited activity due to symptoms of fatigue, lack of energy, and peripheral neuropathy."
+        }
+    ]
+}

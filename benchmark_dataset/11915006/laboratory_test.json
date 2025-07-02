@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV RNA quantification",
+            "date": "Not specified",
+            "findings": "Patient 1: HIV RNA level was 85,000 copies/mL in October 1995; Patient 2: HIV RNA level was 1,500,000 copies/mL in June 1996.",
+            "changes_over_time": "Patient 1: experienced fluctuations in HIV RNA load with a rebound after initial reduction. Patient 2: HIV RNA level decreased over time from 1,500,000 copies/mL to 1,000,000 copies/mL at the point of referral."
+        },
+        {
+            "procedure_name": "CD4 T cell count",
+            "date": "Not specified",
+            "findings": "Patient 1: CD4 T cell count at 55 cells/mL in October 1995, remained consistently <100 cells/mL during the study. Patient 2: CD4 T cell count at 48 cells/mL in June 1996, dropped to 8 cells/mL upon referral.",
+            "changes_over_time": "Patient 1: no increase in CD4 T cell count observed throughout the treatment. Patient 2: consistent decline in CD4 T cell count."
+        },
+        {
+            "procedure_name": "HCMV antigenemia testing",
+            "date": "Not specified",
+            "findings": "Patient 1: initially showed effective reduction in HCMV load; however, mutations indicative of drug resistance emerged. Patient 2: showed mutations in UL97 associated with ganciclovir resistance.",
+            "changes_over_time": "Patient 1: developed persistent relapses of HCMV retinitis with increasing HCMV load over time. Patient 2: developed first episode of HCMV retinitis in June 1999, with presence of mutations in UL97 noted thereafter."
+        }
+    ]
+}

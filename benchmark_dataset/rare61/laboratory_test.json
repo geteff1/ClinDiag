@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "2015",
+            "findings": "Elevated leukocyte count.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "2015",
+            "findings": "Elevated ESR.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein (CRP)",
+            "date": "2015",
+            "findings": "Elevated CRP level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum total IgE",
+            "date": "2015",
+            "findings": "Serum total IgE was 2,500 IU/ml.",
+            "changes_over_time": "Increased to >2,500 IU/ml in December 2020."
+        },
+        {
+            "procedure_name": "Eosinophil Count",
+            "date": "December 2020",
+            "findings": "Elevated eosinophil count (0.97 × 10^9/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary Function Test",
+            "date": "December 2020",
+            "findings": "Decreased FVC (2.41 L), decreased FEV1 (1.54 L), decreased FEV1/FVC (63.68%), indicating moderate obstructive pulmonary ventilation dysfunction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein (CRP)",
+            "date": "May 2021",
+            "findings": "Moderate CRP level (33.6 mg/l), normal leukocyte count and erythrocyte sedimentation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum total IgE",
+            "date": "May 2021",
+            "findings": "Elevated serum IgE (770 IU/ml).",
+            "changes_over_time": "Decreased from >2,500 IU/ml in December 2020."
+        }
+    ]
+}

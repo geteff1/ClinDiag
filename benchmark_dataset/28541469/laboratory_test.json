@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Peripheral blood smear",
+            "date": "June 2015",
+            "findings": "Positive for intra-erythrocytic inclusions consistent with Babesia and positive for B. microti DNA by PCR. Parasitemia was 0.3%.",
+            "changes_over_time": "One month later, developed worsening hemolytic anemia with a Babesia parasitemia of 0.3%."
+        },
+        {
+            "procedure_name": "Haptoglobin",
+            "date": "Not specified",
+            "findings": "Initially undetectable.",
+            "changes_over_time": "Normalized shortly before B. microti DNA was non-detectable by PCR."
+        },
+        {
+            "procedure_name": "B. microti PCR",
+            "date": "At conclusion of 6 weeks of ATV/AZ treatment",
+            "findings": "Detection of B. microti DNA.",
+            "changes_over_time": "Negative at 60 and 102 days after initiation of a four-drug regimen."
+        }
+    ]
+}

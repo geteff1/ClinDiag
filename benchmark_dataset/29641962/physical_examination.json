@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9°C",
+                "blood_pressure": "102/62 mm Hg",
+                "pulse": "96 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "weight": "48 kg",
+                "body_mass_index": "17.5",
+                "lung_exam": "Both lungs were clear.",
+                "heart_exam": "Normal first and second heart sounds, without murmurs.",
+                "vascular_exam": "Normal radial and dorsalis pedis pulses.",
+                "clubbing_or_edema": "No clubbing or edema.",
+                "remainder": "The remainder of the physical examination was normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

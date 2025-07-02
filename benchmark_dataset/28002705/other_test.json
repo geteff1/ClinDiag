@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "The biopsy specimen of the rectal tumor showed that the mucosa was replaced by a monomorphous proliferation of large cells with abundant eosinophilic cytoplasm and oval vesicular nuclei with nucleoli.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flexible sigmoidoscopy",
+            "date": "Not specified",
+            "findings": "Revealed a bulky lower rectal mass on the right side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Thirteen days after flexible sigmoidoscopy",
+            "findings": "Revealed a firm, sessile cecal polyp (1 cm in diameter), which was excised, and moderate diverticulosis on the left side.",
+            "changes_over_time": "Confirmed the presence of a bulky, malignant-appearing lower rectal mass."
+        },
+        {
+            "procedure_name": "Intensity-modulated radiation therapy",
+            "date": "Not specified",
+            "findings": "Used to limit exposure specifically to the urethra and the bowel.",
+            "changes_over_time": "The patient completed chemoradiation and has no evidence of recurrence of his anal cancer 8 years after treatment."
+        }
+    ]
+}

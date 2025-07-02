@@ -1,0 +1,118 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "24.7% (on admission), 25.0% (1st day), 21.8% (2nd day), 20.0% (3rd day)",
+            "changes_over_time": "Decreasing from 24.7% on admission to 20.0% by the 3rd day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "9.2 g/dl (on admission), 8.1 g/dl (1st day), 7.4 g/dl (2nd day)",
+            "changes_over_time": "Decreasing from 9.2 g/dl on admission to 7.4 g/dl by the 2nd day."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "19,300/mm3 (on admission), 8,200/mm3 (1st day), 3,900/mm3 (2nd day), 4,400/mm3 (3rd day)",
+            "changes_over_time": "Decreasing from 19,300/mm3 on admission to 3,900/mm3 by the 2nd day and slightly increasing to 4,400/mm3 by the 3rd day."
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "26.7 sec (on admission), 32.0 sec (1st day), 36.3 sec (2nd day)",
+            "changes_over_time": "Increasing from 26.7 sec on admission to 36.3 sec by the 2nd day."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "18.1 sec (on admission), 16.8 sec (1st day), 18.7 sec (2nd day)",
+            "changes_over_time": "Decreasing from 18.1 sec (on admission) to 16.8 sec (1st day) and then slightly increasing to 18.7 sec (3rd day)."
+        },
+        {
+            "procedure_name": "International normalized ratio",
+            "date": "Not specified",
+            "findings": "1.7 (on admission), 1.6 (1st day), 1.8 (2nd day)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": "1628 ng/ml (on admission), 2353 ng/ml (1st day)",
+            "changes_over_time": "Increasing from 1628 ng/ml on admission to 2353 ng/ml on the 1st day."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "132 mmol/liter (on admission), 138 mmol/liter (1st day), 140 mmol/liter (2nd day), 150 mmol/liter (3rd day)",
+            "changes_over_time": "Increasing from 132 mmol/liter (on admission) to 150 mmol/liter by the 3rd day."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.7 mmol/liter (on admission), 2.8 mmol/liter (1st day), 3.0 mmol/liter (2nd day), 3.3 mmol/liter (3rd day)",
+            "changes_over_time": "Decreasing from 5.7 mmol/liter (on admission) to 2.8 mmol/liter (1st day) and then gradually increasing to 3.3 mmol/liter by the 3rd day."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "18.7 mmol/liter (on admission), 24.2 mmol/liter (1st day), 24.3 mmol/liter (2nd day), 24.1 mmol/liter (3rd day)",
+            "changes_over_time": "Increasing from 18.7 mmol/liter (on admission) to 24.3 mmol/liter (2nd day) and then decreasing slightly to 24.1 mmol/liter by the 3rd day."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.64 mg/dl (on admission), 0.42 mg/dl (1st day), 0.56 mg/dl (2nd day), 0.67 mg/dl (3rd day)",
+            "changes_over_time": "Decreasing from 0.64 mg/dl (on admission) to 0.42 mg/dl on the 1st day and then gradually increasing to 0.67 mg/dl by the 3rd day."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "135 mg/dl (on admission), 95 mg/dl (1st day), 79 mg/dl (2nd day), 90 mg/dl (3rd day)",
+            "changes_over_time": "Decreasing from 135 mg/dl (on admission) to 79 mg/dl by the 2nd day and then increasing to 90 mg/dl by the 3rd day."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "0.6 mg/dl (on admission), 0.7 mg/dl (1st day), 0.7 mg/dl (2nd day), 1.3 mg/dl (3rd day)",
+            "changes_over_time": "Increasing from 0.6 mg/dl (on admission) to 1.3 mg/dl by the 3rd day."
+        },
+        {
+            "procedure_name": "Direct Bilirubin",
+            "date": "Not specified",
+            "findings": "0.5 mg/dl (on admission), 0.4 mg/dl (1st day), 0.4 mg/dl (2nd day), 1.0 mg/dl (3rd day)",
+            "changes_over_time": "Increasing from 0.5 mg/dl (on admission) to 1.0 mg/dl by the 3rd day."
+        },
+        {
+            "procedure_name": "Fibrinogen",
+            "date": "Not specified",
+            "findings": "91 mg/dl (on admission)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ammonia",
+            "date": "Not specified",
+            "findings": "46 µmol/liter (on admission), 69 µmol/liter (2nd day), 84 µmol/liter (3rd day)",
+            "changes_over_time": "Increasing from 46 µmol/liter (on admission) to 84 µmol/liter by the 3rd day."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": "1230 ng/ml (on admission)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "340 mg/dl (on admission)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "106.4 µg/dl (4 p.m. on admission)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

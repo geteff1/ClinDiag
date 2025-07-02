@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI brain without contrast",
+            "date": "Not specified",
+            "findings": "Reported as normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI brain with contrast",
+            "date": "A few days later",
+            "findings": "Showed restricted diffusion in a cortical ribboning pattern predominantly involving the right parieto-occipital lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET scan of the brain",
+            "date": "Not specified",
+            "findings": "Revealed hypometabolism in the right occipital lobe.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoalveolar lavage",
+            "date": "Day 2",
+            "findings": "Lipid-laden macrophages with oil drops on the surface of the fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nuclear magnetic resonance and infrared spectrometry",
+            "date": "Day 2",
+            "findings": "Concentration of vaseline oil in lung secretions was measured to be 44 mg/ml.",
+            "changes_over_time": "Concentration of vaseline oil decreased to 4 mg/ml by Day 51."
+        },
+        {
+            "procedure_name": "Lung lavage with polysorbate 80",
+            "date": "Day 49",
+            "findings": "Repeated lavages until the effluent solution appeared to be free of lipid, cumulative lavage volume was approximately 20 l/lung.",
+            "changes_over_time": "Marked improvement in lung aeration observed on whole-lung CT scan on Day 55."
+        },
+        {
+            "procedure_name": "Microscopic examination of fluid from bronchoalveolar lavages",
+            "date": "Day 2 to Day 40",
+            "findings": "Cycle of intracellular oil, then extracellular oil was noted.",
+            "changes_over_time": "The presence of oil was observed both intracellularly and extracellularly across several days."
+        }
+    ]
+}

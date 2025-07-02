@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ACTH stimulation test",
+            "date": "Not specified",
+            "findings": "Subnormal cortisol results in the first test; normal cortisol values in the second test.",
+            "changes_over_time": "Normal cortisol values in the second test indicate sufficient adrenal function."
+        },
+        {
+            "procedure_name": "DNA sequencing and mutational analysis",
+            "date": "Not specified",
+            "findings": "A novel tryptophan to cysteine missense mutation (W105C) in the amino-terminal region of DAX1 was identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma steroid levels assessment",
+            "date": "Not specified",
+            "findings": "Abnormal aldosterone (0.14 nmol/liter) and cortisol levels in certain age appearances; overall hormonal levels suggest adrenal functional challenges.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine collection for sodium",
+            "date": "Not specified",
+            "findings": "Below detection levels for sodium after a salt-restricted diet.",
+            "changes_over_time": "Normal sodium level preserved post-diet interventions."
+        }
+    ]
+}

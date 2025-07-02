@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Direct antiglobulin test",
+            "date": "Not specified",
+            "findings": "Positive, indicating the presence of an autoantibody.",
+            "changes_over_time": "Initial test was positive without concurrent anemia; on admission, it was positive again with anemia present."
+        },
+        {
+            "procedure_name": "Antibody screening panel",
+            "date": "Not specified",
+            "findings": "Panreactive with increased reactivity compared to previous tests.",
+            "changes_over_time": "Increased reactivity at the time of admission compared to two months prior when hemoglobin levels were normal."
+        },
+        {
+            "procedure_name": "PCR assay for parvovirus B19",
+            "date": "At the time of admission",
+            "findings": "Positive for parvovirus B19.",
+            "changes_over_time": "Remained positive throughout the patient’s course; viral load was undetectable by 24 weeks."
+        },
+        {
+            "procedure_name": "Enzyme immunoassays for IgM and IgG antibodies to parvovirus B19",
+            "date": "At the time of admission",
+            "findings": "IgM level was 14.1 (reference range, <0.9); IgG level was 1.4 (reference range, <0.9).",
+            "changes_over_time": "IgM antibody level decreased rapidly during the first month; IgG antibody level increased and plateaued."
+        }
+    ]
+}

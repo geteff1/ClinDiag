@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the cervical, thoracic, and lumbar spine",
+            "date": "Not specified",
+            "findings": "No spinal cord compression, cord signal abnormality, or epidural collection. Multi-level degenerative changes of the spine, postsurgical changes related to remote L4–L5 decompression, without associated high-grade spinal-canal stenosis or nerve-root impingement.",
+            "changes_over_time": "Stable findings compared with the previous study."
+        },
+        {
+            "procedure_name": "MRI of the thoracic spine with contrast enhancement",
+            "date": "Not specified",
+            "findings": "No evidence of abnormal cord or meningeal enhancement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "Not specified",
+            "findings": "No evidence of parenchymal opacity, pleural effusion, or lymphadenopathy. Hemidiaphragmatic movement present bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the thoracic and lumbar spine without contrast enhancement",
+            "date": "Not specified",
+            "findings": "Stable findings compared with the previous study.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

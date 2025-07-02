@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided needle biopsy",
+            "date": "Not specified",
+            "findings": "Scheduled CT-guided needle biopsy of the lung lesion was canceled because the lesion had decreased in size to 1.5 by 2.4 cm.",
+            "changes_over_time": "Lesion decreased in size from 3.8 by 2.3 cm to 1.5 by 2.4 cm."
+        },
+        {
+            "procedure_name": "Induced sputum for smears and culture",
+            "date": "Not specified",
+            "findings": "First induced-sputum specimen was negative for acid-fast organisms. Culture became positive for M. tuberculosis complex on day 14.",
+            "changes_over_time": "The smear remained negative while the culture became positive, indicating progression to confirmed diagnosis of tuberculosis."
+        },
+        {
+            "procedure_name": "PPD test",
+            "date": "Not specified",
+            "findings": "PPD result initially positive with induration of 20 mm.",
+            "changes_over_time": "Subsequent result showed induration increased to 38 mm."
+        }
+    ]
+}

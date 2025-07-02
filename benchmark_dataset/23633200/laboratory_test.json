@@ -1,0 +1,74 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid Function Test (TFT)",
+            "date": "Not specified",
+            "findings": {
+                "free_T3": "4.89 pg/mL (normal 2.57–4.43)",
+                "free_T4": "2.04 ng/dL (normal 0.9–1.8)",
+                "TSH": "2.38 IU/mL (normal 0.23–4.2)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test (TFT)",
+            "date": "Not specified",
+            "findings": {
+                "free_T3": "4.66 pg/mL (normal 2.5–3.9)",
+                "free_T4": "2.51 ng/dL (normal 0.61–1.12)",
+                "TSH": "1.52 IU/mL (normal 0.35–5.5)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test (TFT)",
+            "date": "Not specified",
+            "findings": {
+                "free_T4": "1.88 ng/dL (normal 0.74–1.79)",
+                "TSH": "12.3 IU/mL (normal 0.35–5.5)",
+                "thyroglobulin_antibodies": "95 IU/mL (normal 0–40)"
+            },
+            "changes_over_time": {
+                "free_T4": {
+                    "initial": "1.88 ng/dL",
+                    "subsequent": "1.64 ng/dL",
+                    "change": "declined"
+                },
+                "TSH": {
+                    "initial": "12.3 IU/mL",
+                    "subsequent": "3.44 IU/mL",
+                    "change": "declined"
+                }
+            }
+        },
+        {
+            "procedure_name": "Thyroid Function Test (TFT)",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "2.4 IU/mL (normal 0.4 - 3.6)",
+                "total_T4": "14.0 µg/dL (normal 7.4 - 14.0)",
+                "total_T3": "176 ng/dL (normal 90 - 180)",
+                "free_T4_index": "16.9",
+                "thyroglobulin": "26 (normal 1 - 30)",
+                "thyroperoxidase_antibodies": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test (TFT)",
+            "date": "Not specified",
+            "findings": {
+                "free_T4": "15.0",
+                "free_T3": "Not specified",
+                "TSH": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "L-T3 suppression test",
+            "date": "Not specified",
+            "findings": "Results suggestive of RTH",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

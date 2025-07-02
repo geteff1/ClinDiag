@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary Vanillylmandelic Acid (VMA)",
+            "date": "Not specified",
+            "findings": "High VMA levels.",
+            "changes_over_time": "Elevated 18 years after the initial surgery, after which the patient experienced clinical and biochemical recurrence."
+        },
+        {
+            "procedure_name": "Urinary Metanephrine-to-creatinine ratio (UETM)",
+            "date": "Not specified",
+            "findings": "High UETM levels initially, which normalized after surgery.",
+            "changes_over_time": "Increased UETM levels after surgery 2 years later, followed by further surgical resection treatment."
+        },
+        {
+            "procedure_name": "Urinary Vanillylmandelic Acid (VMA)",
+            "date": "Not specified",
+            "findings": "High concentration of urinary VMA (189 mg/L).",
+            "changes_over_time": "Three months after surgery, UETM was normal. Elevated UETM returned four years later, indicating recurrence."
+        },
+        {
+            "procedure_name": "Urinary Metanephrine-to-creatinine ratio (UETM)",
+            "date": "Not specified",
+            "findings": "Elevated UETM levels.",
+            "changes_over_time": "Decreased to normal levels after surgery, then increased after two years with symptoms; further surgery and treatment indicated."
+        },
+        {
+            "procedure_name": "Urinary Metanephrine-to-creatinine ratio (UETM)",
+            "date": "Not specified",
+            "findings": "High UETM levels.",
+            "changes_over_time": "Normal levels five months after surgery, but elevated levels were noted 16 years later with symptoms of hypertension."
+        }
+    ]
+}

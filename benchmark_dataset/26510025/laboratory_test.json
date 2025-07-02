@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "187 mg/dL (first admission), 103 mg/dL (second admission), 114 mg/dL (8 months after first admission)",
+            "changes_over_time": "Decreased from 187 mg/dL to 103 mg/dL and then to 114 mg/dL."
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "Not specified",
+            "findings": "4.0 g/dL (first admission), 4.7 g/dL (second admission), 4.9 g/dL (8 months after first admission)",
+            "changes_over_time": "Increased from 4.0 g/dL to 4.7 g/dL and then to 4.9 g/dL."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "2.2 g/dL (first admission), 2.5 g/dL (second admission)",
+            "changes_over_time": "Increased from 2.2 g/dL to 2.5 g/dL."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "26.5 U/L (first admission), 88 U/L (second admission), 303 U/L (8 months after first admission)",
+            "changes_over_time": "Increased significantly from 26.5 U/L to 88 U/L and then to 303 U/L."
+        },
+        {
+            "procedure_name": "Total nucleated-cell count",
+            "date": "Not specified",
+            "findings": "2170 per mm3 (first admission)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "30.1% (first admission), 29.8% (second admission), 29.4% (7 months after first admission), 33.2% (8 months after first admission)",
+            "changes_over_time": "Decreased from 30.1% to 29.8% to 29.4%, then increased to 33.2%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "9.9 g/dL (first admission), 9.4 g/dL (second admission), 8.9 g/dL (7 months after first admission), 9.8 g/dL (8 months after first admission)",
+            "changes_over_time": "Decreased from 9.9 g/dL to 9.4 g/dL to 8.9 g/dL, then increased to 9.8 g/dL."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "13,300 per mm3 (first admission), 11,300 per mm3 (second admission), 14,100 per mm3 (7 months after first admission), 15,400 per mm3 (8 months after first admission)",
+            "changes_over_time": "Fluctuated: decreased from 13,300 to 11,300, then increased to 14,100 and subsequently to 15,400."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "141.8 mg/L (initial), 76.7 mg/L (7 months after first admission)",
+            "changes_over_time": "Decreased from 141.8 mg/L to 76.7 mg/L."
+        }
+    ]
+}

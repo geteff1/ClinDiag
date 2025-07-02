@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Postoperative day 0",
+            "vital_signs": {
+                "blood_pressure": "80-95 mmHg",
+                "hematocrit": "22.7%",
+                "urine_output": "Low"
+            },
+            "relevant_findings": {
+                "edema": "Very edematous thigh",
+                "flap_appearance": "Cyanotic flap",
+                "drain_output": "600 cc of serosanguineous fluid"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Postoperative day 1",
+            "vital_signs": {
+                "blood_pressure": "120-130 mmHg",
+                "hematocrit": "30.6%",
+                "urine_output": "Increased"
+            },
+            "relevant_findings": {
+                "flap_appearance": "Flap congestion noted",
+                "drain_output": "Not specified"
+            },
+            "changes_over_time": "Appearance of flap did not improve, indicating venous outflow obstruction."
+        },
+        {
+            "date": "Postoperative day 2",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "flap_appearance": "Markedly improved outflow after releasing sutures."
+            },
+            "changes_over_time": "Flap appearance improved after the release of medial sutures."
+        },
+        {
+            "date": "Postoperative day 7",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "flap_appearance": "Debrided distal tip of the flap."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Postoperative day 12",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "flap_appearance": "Viable flap, healing secondarily."
+            },
+            "changes_over_time": "Medial aspect of the flap was healing with vacuum-assisted closure therapy."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal ventricular function, no evidence of valvular disease or left ventricular hypertrophy; interventricular septal wall thickness was 11 mm.",
+            "changes_over_time": "Interventricular septal wall thickness increased to 14 mm on later examination."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm and left-axis deviation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Asymmetric left ventricular septal hypertrophy (maximum wall thickness, 21 mm) and mild left ventricular enlargement; no evidence of myocardial iron overload; areas of late gadolinium enhancement in the midwall consistent with fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) angiography",
+            "date": "Not specified",
+            "findings": "Segmental and subsegmental pulmonary emboli in the right lower lobe; no evidence of strain on the right side of the heart or pulmonary infarction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "Partially calcified, enhancing nodule (1.8 cm) in the right anterior mediastinum with 18F-fluorodeoxyglucose avidity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pathological examination (surgical resection)",
+            "date": "Not specified",
+            "findings": "Well-differentiated, low-grade thymic neuroendocrine tumor with ectopic corticotropin secretion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "carbon_monoxide_level": "21 ppm",
+                "serum_nicotine_level": "28 ng/ml",
+                "serum_cotinine_level": "337 ng/ml"
+            },
+            "relevant_findings": "Patient reported smoking 30 cigarettes per day and had a carbon monoxide level of 21 ppm.",
+            "changes_over_time": "After starting nicotine patch therapy, his smoking reduced to 20 cigarettes per day with a subsequent increase in carbon monoxide to 25 ppm."
+        },
+        {
+            "date": "2001",
+            "vital_signs": {
+                "carbon_monoxide_level": "25 ppm"
+            },
+            "relevant_findings": "Patient was continuously abstinent from smoking for 7 weeks after starting the nicotine patch, before relapsing.",
+            "changes_over_time": "Initially abstinent for 7 weeks, followed by relapse to 20 cigarettes per day."
+        },
+        {
+            "date": "2006",
+            "vital_signs": {
+                "expired_carbon_monoxide_readings": "< 3 ppm"
+            },
+            "relevant_findings": "Patient achieved sustained tobacco abstinence for over 3 years.",
+            "changes_over_time": "Significant improvement in mental status and functioning; clozapine dose reduced to 300 mg/day."
+        }
+    ]
+}

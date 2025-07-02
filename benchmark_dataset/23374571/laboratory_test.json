@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Case 1 revealed a novel nucleotide substitution (c.151G/H11022A) resulting in a missense mutation (p.G51R). Case 2 revealed compound heterozygous mutations of c.142C/H11022T (p.R48C) and c.311G/H11022A (p.R104Q).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundus examination",
+            "date": "Not specified",
+            "findings": "Case 1: Retinal degeneration with cystic changes; Case 2: Diffuse mild retinal degeneration with no pigmentation.",
+            "changes_over_time": "In Case 1, clumped pigmentation has appeared over a 23-year follow-up, and cystic changes in the foveal region became ambiguous."
+        },
+        {
+            "procedure_name": "Goldmann perimetry",
+            "date": "Not specified",
+            "findings": "Case 1 showed decreased retinal sensitivity.",
+            "changes_over_time": "During the 2-decade follow-up, retinal sensitivity decreased in Case 1, while Case 2's visual field was maintained relatively well."
+        },
+        {
+            "procedure_name": "Electrophysiology (ERG)",
+            "date": "Not specified",
+            "findings": "Both cases showed nonrecordable rod responses and significantly prolonged flash ERGs.",
+            "changes_over_time": "In Case 1, the amplitude of ERG was attenuated during the follow-up; Case 2 maintained relatively stable ERG findings despite advanced age."
+        }
+    ]
+}

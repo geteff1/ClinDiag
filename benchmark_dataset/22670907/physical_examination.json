@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "blood_pressure": "125/64 mm Hg",
+                "pulse": "92 bpm"
+            },
+            "relevant_findings": {
+                "general_condition": "Patient appeared well.",
+                "chest_examination": "Heart sounds normal, chest sounds clear.",
+                "abdominal_examination": "No hepatosplenomegaly, lymphadenopathy, abdominal tenderness, or mass.",
+                "neurological_examination": "Patient was alert, oriented, with no weakness or sensory deficits.",
+                "dermatological_examination": "No rash, no joint erythema or swelling."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "white_cell_count": "2500/mm³",
+                "hemoglobin_level": "11.5 g/dL",
+                "platelet_count": "107,000/mm³",
+                "reticulocyte_count": "0.3%",
+                "prothrombin_time": "14.2 seconds",
+                "activated_partial_thromboplastin_time": "75.4 seconds",
+                "sodium_level": "127 mmol/L",
+                "potassium_level": "3.9 mmol/L",
+                "blood_urea_nitrogen": "8.1 mg/dL",
+                "creatinine": "1.2 mg/dL",
+                "erythrocyte_sedimentation_rate": "88 mm/hour",
+                "c_reactive_protein": "0.8 mg/dL"
+            },
+            "relevant_findings": "Pancytopenia with a low reticulocyte count indicates low bone marrow output.",
+            "changes_over_time": "The patient continued to have spiking fevers daily, with peak temperatures over 38.5°C. Following treatment, the fever subsided, but pancytopenia persisted initially."
+        },
+        {
+            "date": "At the time of discharge",
+            "vital_signs": {
+                "white_cell_count": "Normal",
+                "hematocrit": "Normal",
+                "platelet_count": "Mild thrombocytopenia, resolved over 6 weeks"
+            },
+            "relevant_findings": "Discharge noted with normal white-cell count, resolved thrombocytopenia.",
+            "changes_over_time": "Condition steadily improved, and immunosuppressive treatment was gradually withdrawn over 2 years."
+        }
+    ]
+}

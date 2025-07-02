@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "pulse": "70 bpm",
+                "blood_pressure": "100/68 mm Hg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Patient appeared restless; remainder of the physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three weeks before the current presentation",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "pulse": "53 bpm",
+                "blood_pressure": "104/66 mm Hg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Joints of the hands, wrists, and elbows were normal; neurologic examination was normal; remainder of the physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On presentation",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "pulse": "57 bpm",
+                "blood_pressure": "113/72 mm Hg",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": "Patient appeared jaundiced with marked scleral icterus; mucous membranes were moist. Abdomen was soft and nondistended with mild tenderness on palpation of the upper right quadrant; no hepatosplenomegaly. No gynecomastia, caput medusae, or spider angiomata; no asterixis; no rash or leg edema.",
+            "changes_over_time": "Patient's appearance of jaundice and scleral icterus is a progression from previous symptomatology."
+        }
+    ]
+}

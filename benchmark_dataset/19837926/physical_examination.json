@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "creatinine": "0.8 mg/dl at initial presentation; 1.3 mg/dl later"
+            },
+            "relevant_findings": {
+                "laboratory_studies": {
+                    "hyperphosphatemia": "7.0 mg/dl (normal 2.5–4.5)",
+                    "serum_calcium": "9.7 mg/dl (normal 8.5–10.5)",
+                    "creatinine_clearance": "88 ml/min (initial)",
+                    "impaired_renal_function": {
+                        "creatinine": "0.8 mg/dl (initial), 1.3 mg/dl (later)",
+                        "blood_urea_nitrogen": "8 mg/dl"
+                    },
+                    "other_levels": {
+                        "PTH": "0.5 ng/ml (normal range 10.5-54)",
+                        "alkaline_phosphatase": "70 U/liter (normal 36–100)",
+                        "25_hydroxyvitamin_D": "20 ng/ml (normal 14–42)",
+                        "1,25_dihydroxyvitamin_D": "44 pg/ml (normal 20–60)"
+                    },
+                    "urinary_excretion": {
+                        "calcium": "70.8 mg/d (normal 50-400)",
+                        "calcium_creatinine_ratio": "0.079 mg/mg (normal <0.2)",
+                        "tubular_threshold_of_phosphate_absorption": "8.2 mg/dl (normal 2.5–4.5)"
+                    }
+                }
+            },
+            "changes_over_time": {
+                "description": "Renal function appeared to worsen, with initial creatinine of 0.8 mg/dl progressing to 1.3 mg/dl despite treatment."
+            }
+        }
+    ]
+}

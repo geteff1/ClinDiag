@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Even distribution of radioactive seeds throughout the prostate; no evidence of metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the prostate",
+            "date": "Three months before evaluation",
+            "findings": "Abnormal signal in the prostate and right seminal vesicle, with bulging of the prostate capsule of the right lobe; features suggestive of postradiation changes.",
+            "changes_over_time": "Cancer involving the prostate and right seminal vesicle could not be ruled out."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "No evidence of metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endorectal MRI of the prostate",
+            "date": "Not specified",
+            "findings": "Heterogeneity of signal intensity within the gland; loss of normally high signal intensity in the right seminal vesicle compared to the left, raising suspicion for recurrent prostate cancer.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

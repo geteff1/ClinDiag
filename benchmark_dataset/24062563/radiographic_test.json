@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "The mass was heterogeneous with slight hyperintensity on T2-weighted images and slight hypointensity on T1-weighted images. Serpentine vessels appeared as flow voids through the mass. No central scar was observed. The rest of the liver parenchyma did not show any dysmorphic changes. The ADC of the mass varied from 0.9 to 1.8 mm2/sec.",
+            "changes_over_time": "Progressive and centripetal enhancement was observed after intravenous injection of a gadolinium chelate."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A large, well-defined isolated hepatic mass in the left lobe that measured 23 cm in diameter with marked heterogeneous enhancement.",
+            "changes_over_time": "The enhancement pattern progressed from peripheral in the arterial phase to more pronounced centripetal enhancement in the portal phase and finally to persistent and less heterogeneous enhancement in the delayed phase."
+        },
+        {
+            "procedure_name": "FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Iso-uptake of the liver mass compared with the normal liver; low FDG uptake was noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

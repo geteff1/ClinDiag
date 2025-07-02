@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.8°C",
+                "blood_pressure": "126/65 mm Hg",
+                "pulse": "55 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "No distress observed.",
+                "eyes": "No lid lag or fixed stare, sclerae anicteric.",
+                "mouth": "Mucous membranes moist, oropharynx clear.",
+                "neck": "Supple, no lymphadenopathy or thyromegaly.",
+                "carotid": "Normal pulses without bruits.",
+                "jugular_venous_pressure": "Markedly elevated.",
+                "lungs": "Dullness on percussion over right lung base, no breath sounds; otherwise clear.",
+                "heart": "Irregular rhythm, crisp mechanical S1, 2/6 holosystolic murmur at apex and lower left sternal border.",
+                "abdomen": "Distended but not tender, fluid wave present, liver enlarged extending 5 cm below costal margin and pulsatile, spleen not palpable.",
+                "edema": "Pitting edema in legs, scrotum, sacrum, abdominal wall; mild arm edema.",
+                "neurologic": "Normal exam, mild sensory neuropathy consistent with AL amyloidosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

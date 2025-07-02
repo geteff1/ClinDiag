@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "GHRH infusion test",
+            "date": "Not specified",
+            "findings": "GH peak value: less than 10.05 ng/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Basal plasma ACTH and cortisol measurements",
+            "date": "Not specified",
+            "findings": "ACTH: within normal range (10–50 pg/ml); Cortisol: within normal range (210–560 nmol/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CRH test",
+            "date": "Not specified",
+            "findings": "No responses of ACTH and cortisol.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gonadotropin axis investigation",
+            "date": "Not specified",
+            "findings": "Normal responses of LH and FSH after GnRH provocative test; Basal testosterone level: Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Basal thyroid hormone levels and TSH concentration measurement",
+            "date": "Not specified",
+            "findings": "Basal free T3: 1.24 pmol/liter (normal range 3.0–9.0 pmol/liter); Basal free T4: 8.78 pmol/liter (normal range 10–30 pmol/liter); TSH: 0.05 IU/ml (normal range 0.2–6.0 mIU/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TRH test",
+            "date": "Not specified",
+            "findings": "TSH and PRL measurements showed no responses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum basal levels of GH, PRL, and TSH measurement",
+            "date": "Not specified",
+            "findings": "All undetectable; GH: less than 10.05 ng/ml, PRL: 1.0 ng/ml, TSH: 0.05 IU/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Free T3 and Free T4 measurements",
+            "date": "Not specified",
+            "findings": "Free T3: 1.24 pmol/liter, Free T4: 8.78 pmol/liter (normal range: Free T3 3.0-9.0 pmol/liter; Free T4 10–30 pmol/liter).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

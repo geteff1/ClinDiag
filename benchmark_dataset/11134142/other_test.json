@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histology showed a pituitary adenoma invading the medial wall of the left cavernous sinus with distorted reticulin structure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescent In Situ Hybridization (FISH)",
+            "date": "Not specified",
+            "findings": "In tumor cells, one copy of the MEN1 gene was found to be deleted, demonstrating allelic loss for the MEN1 locus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Overnight serial sampling of GH",
+            "date": "Not specified",
+            "findings": "Average levels of GH showed complete loss of pulsatility, and GH was not suppressible by oral glucose tolerance testing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Visual field testing",
+            "date": "Not specified",
+            "findings": "Grossly normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transsphenoidal Surgery",
+            "date": "Not specified",
+            "findings": "Complete excision of the macroadenoma was not possible due to extensive invasion of the left cavernous sinus. PRL levels declined after surgery by approximately 50%.",
+            "changes_over_time": "PRL levels increased gradually thereafter to their preoperative levels."
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "3280 per cubic millimeter",
+                "neutrophils": "50%",
+                "lymphocytes": "25%",
+                "atypical lymphocytes": "1%",
+                "monocytes": "18%",
+                "eosinophils": "6%",
+                "hematocrit": "31.6%",
+                "platelet_count": "93,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "132 mmol per liter",
+                "potassium": "4.3 mmol per liter",
+                "chloride": "102 mmol per liter",
+                "bicarbonate": "21 mmol per liter",
+                "blood_urea_nitrogen": "16 mg per deciliter",
+                "creatinine": "1.5 mg per deciliter",
+                "glucose": "86 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol and Corticotropin Levels",
+            "date": "Not specified",
+            "findings": {
+                "cortisol_8am": "17.1 μg per deciliter",
+                "corticotropin_8am": "228 pg per milliliter",
+                "cortisol_7pm": "21.2 μg per deciliter",
+                "corticotropin_7pm": "563 pg per milliliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Histoplasma Antigen Testing",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 1,3-β-d-glucan Testing",
+            "date": "Not specified",
+            "findings": {
+                "level": "85 pg per milliliter",
+                "normal_value": "<79"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

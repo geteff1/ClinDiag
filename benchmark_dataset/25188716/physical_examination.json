@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 1996",
+            "vital_signs": "Accelerated hypertension, paroxysmal tachycardia",
+            "relevant_findings": "Urinary vanillylmandelic acid (VMA) levels were high; an area of capsular rupture was noted upon macroscopic examination.",
+            "changes_over_time": "Hypertension and vasomotor symptoms resolved after surgery, but 8 years later, clinical and biochemical recurrence occurred with multiple nodules found."
+        },
+        {
+            "date": "March 2000",
+            "vital_signs": "Accelerated hypertension",
+            "relevant_findings": "High urinary total metanephrine-to-creatinine ratio (UETM); an area of ruptured capsule was observed.",
+            "changes_over_time": "Six years post-surgery, renewed vasomotor symptoms and hypertension occurred."
+        },
+        {
+            "date": "April 1999",
+            "vital_signs": "Acute hypertension, palpitations, sweats, syncopes",
+            "relevant_findings": "High concentration of urinary VMA (189 mg/L); surgical examination revealed difficulties due to tumor size and fragmentation.",
+            "changes_over_time": "Three months after surgery, symptoms resolved and UETM was normal, but four years later, vasomotor symptoms recurred with elevated UETM."
+        },
+        {
+            "date": "2008",
+            "vital_signs": "Palpitations; diagnosed with hypertension",
+            "relevant_findings": "MRI demonstrated a 25 mm pheochromocytoma with elevated UETM; ruptured capsule was noted.",
+            "changes_over_time": "Two years post-surgery, accelerated hypertension with vasomotor symptoms developed."
+        },
+        {
+            "date": "May 1989",
+            "vital_signs": "Gradual onset of hypertension, headaches, perspiration",
+            "relevant_findings": "High VMA levels; multiple areas of necrosis identified histologically.",
+            "changes_over_time": "Five months post-surgery, no evidence of tumor persistence was observed, but sixteen years later, a mass was found adjacent to the right adrenal bed."
+        }
+    ]
+}

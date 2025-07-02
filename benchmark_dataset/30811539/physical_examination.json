@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Birthweight: 3960 g, Birth length: 50 cm, Head circumference: 36 cm, Apgar score: 9, 10, 10 at 1, 5, and 10 minutes respectively.",
+            "relevant_findings": "Bilateral anophthalmia, bilateral cleft lip and palate, micropenis, persistent hypoglycemia, hypernatremia, polyuria, and diabetes insipidus. At 6 days, hormone levels showed panhypopituitarism.",
+            "changes_over_time": "Initially, nausea and vomiting improved after hormone replacement therapy. Hypernatremia and polyuria developed by 24 days of age."
+        },
+        {
+            "date": "6 days",
+            "vital_signs": "TSH: 2.66 mU/L, Free T4: 0.6 ng/dL, GH: 0.38 ng/mL, IGF-1: 31 ng/mL, ACTH: <56 pg/mL, Cortisol: 0 mg/dL, LH: <0.1 U/L, FSH: <0.1 U/L, Testosterone: <0.1 ng/dL, Prolactin: 43.5 mg/L.",
+            "relevant_findings": "Lab assessment revealed panhypopituitarism with detectable levels of pituitary hormones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "26 days",
+            "vital_signs": "Sodium plasma: 150 mEq/L, Potassium plasma: 4.4 mEq/L, Plasma osmolality: 310 mOSM/kg H2O, Urine osmolality: 178 mOSM/kg H2O.",
+            "relevant_findings": "Confirmed diabetes insipidus, treated with oral desmopressin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "3 months",
+            "vital_signs": "Hyperthermia noted daily without signs of infection or inflammation.",
+            "relevant_findings": "Episodes of temperature instability interpreted as hypothalamic instability.",
+            "changes_over_time": "At 3 months, developed bacterial meningitis secondary to otitis media."
+        },
+        {
+            "date": "6 months",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Cleft lip and palate repaired; ear tubes inserted.",
+            "changes_over_time": "Frequent episodes of otitis media continued."
+        },
+        {
+            "date": "10 months",
+            "vital_signs": "Growth followed the 50th percentile for height, head circumference, and weight.",
+            "relevant_findings": "Could sit without support.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "1 year",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Circadian sleep rhythm not acquired; melatonin substitution started.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

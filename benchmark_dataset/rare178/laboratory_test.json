@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "NT-proBNP",
+            "date": "Not specified",
+            "findings": "Elevated levels at 10,569.0 pg/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Elevated levels at 72.2 ng/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gamma-glutamyltransferase (GGT)",
+            "date": "Not specified",
+            "findings": "First-day measurement of 1264 U/L, which gradually lowered in the following days.",
+            "changes_over_time": "Significantly elevated on the first day, lowering over time."
+        },
+        {
+            "procedure_name": "Direct bilirubin",
+            "date": "5th day",
+            "findings": "Elevated to 2.2 mg%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical examination",
+            "date": "During respiratory infection",
+            "findings": "Increased levels of inflammatory markers and microcytic anaemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

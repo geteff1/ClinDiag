@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Cachectic appearance.",
+                "neurological": {
+                    "motor_strength": {
+                        "shoulders": "3/5",
+                        "elbows": "3/5",
+                        "knees": "3/5",
+                        "hip_flexion": "2/5"
+                    }
+                },
+                "cutaneous": "Scaly macular rash on torso and limbs.",
+                "lymphatic": "Axillary adenopathy.",
+                "splenic": "Splenomegaly."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "One month later",
+            "vital_signs": {
+                "serum_calcium": "3.84 mmol/liter",
+                "serum_albumin": "29 g/liter"
+            },
+            "relevant_findings": {
+                "serum_calcium": "New hypercalcemia; previously low-normal.",
+                "serum_25_dihydroxyvitamin_D": "Normalized to 122 nmol/liter.",
+                "serum_1_25_dihydroxyvitamin_D": "High-normal at 156 pmol/liter.",
+                "serum_intact_PTH": "Suppressed at 8 ng/liter.",
+                "serum_PTHrP": "Undetectable."
+            },
+            "changes_over_time": "Hypercalcemia and hypercalciuria developed after vitamin D supplementation."
+        },
+        {
+            "date": "Two weeks after prednisone initiated",
+            "vital_signs": {
+                "serum_calcium": "2.46 mmol/liter",
+                "serum_albumin": "27 g/liter"
+            },
+            "relevant_findings": {
+                "muscle_strength": "Patient was able to walk again."
+            },
+            "changes_over_time": "Hypercalcemia rapidly decreased, and muscle strength improved."
+        }
+    ]
+}

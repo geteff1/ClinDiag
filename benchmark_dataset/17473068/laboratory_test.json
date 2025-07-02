@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum total calcium",
+            "date": "Not specified",
+            "findings": "2.92 mmol/liter (elevated, normal range: 2.20–2.60 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum ionized calcium",
+            "date": "Not specified",
+            "findings": "1.55 mmol/liter (elevated, normal range: 1.17–1.31 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified",
+            "findings": "151.8 ng/liter (elevated, normal range: 15–65 ng/liter)",
+            "changes_over_time": "PTH levels fell into the normal range after vitamin D supplementation."
+        },
+        {
+            "procedure_name": "Serum 25(OH)D",
+            "date": "Not specified",
+            "findings": "8.8 nmol/liter (deficient, <80 nmol/liter considered insufficient)",
+            "changes_over_time": "Increased to sufficient levels with vitamin D supplementation."
+        },
+        {
+            "procedure_name": "Serum total calcium (Infant III-1)",
+            "date": "Day 0 (cord blood)",
+            "findings": "Slightly elevated calcium level",
+            "changes_over_time": "Rose slightly throughout the postpartum period."
+        },
+        {
+            "procedure_name": "Serum PTH (Infant III-1)",
+            "date": "Day 0 (cord blood)",
+            "findings": "Markedly elevated PTH concentration",
+            "changes_over_time": "Fell over time: slightly elevated at day 48 and within normal range at day 70."
+        },
+        {
+            "procedure_name": "Serum 25(OH)D (Infant III-1)",
+            "date": "Day 0 (cord blood)",
+            "findings": "26.2 nmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary calcium to creatinine clearance ratio (Proband II-2)",
+            "date": "Not specified",
+            "findings": "0.0012 (low, indicating FHH)",
+            "changes_over_time": "Rose to 0.0026 with vitamin D supplementation."
+        }
+    ]
+}

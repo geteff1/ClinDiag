@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "Present",
+                "blood_oxygen_saturation": "Low",
+                "white_cell_count": "17.7 × 10^9/L",
+                "C_reactive_protein": "92 mg/L"
+            },
+            "relevant_findings": {
+                "rash": {
+                    "initial_appearance": "Papules on upper arms",
+                    "progression": "Became more widespread",
+                    "appearance": "Maculopapular",
+                    "pruritic": "Yes",
+                    "generalized": "Yes",
+                    "confluent_erythematous_areas": "Yes",
+                    "desquamating": "Yes",
+                    "plaques_with_punctum": "Some",
+                    "vesicles_or_blistering": "No"
+                },
+                "limb_oedema": "Associated during second episode"
+            },
+            "changes_over_time": {
+                "first_episode": "Rash appeared with papules, progressed to widespread generalized rash.",
+                "second_episode": "More widespread eruption with varying degrees of limb oedema.",
+                "after_treatment": "Rash improved but with persisting itch and papules, completely resolved after a month."
+            }
+        }
+    ]
+}

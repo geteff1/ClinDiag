@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Day 6",
+            "findings": "Eosinophilic spongiform edema of the lesioned skin, eosinophilic microabscesses in the focal epidermis, liquefaction of the basal layer, and eosinophilic infiltration in the superficial dermis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Routine brain MRI",
+            "date": "Day 21",
+            "findings": "Diffuse multiple cystic and lamellar abnormal signal areas in the left frontal and parietal lobes, with low signal in T1-weighted imaging and high signal in T2-weighted imaging, with speckled diffusion restriction within the lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cranial CT scan",
+            "date": "Not specified.",
+            "findings": "Diffuse hypodensity in the left cerebral hemisphere and bilateral cerebellum, with a large patchy hypodense area in the left frontoparietal lobe and multiple speckled hyperintensities within it, as well as a widened left ventricle and additional patchy hyperintensities in the left cerebellar hemisphere.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chromosomal copy number variation (CNV-Seq plus) and cytological karyotype detection",
+            "date": "Not specified.",
+            "findings": "Approximately 18.29Mb mosaicism repeats in the Yp11.31q11.222 region (16%), approximately 7.83Mb mosaicism deletions in the Yq11.222q11.23 region (17%), approximately 317.54kb repeats in the Yp11.2p11.2 region, and 3p26.3p26.3 region duplication.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole exome sequencing (WES)",
+            "date": "Not specified.",
+            "findings": "No pathogenic minor variants in the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Multiplex ligation-dependent probe amplification (MLPA) testing",
+            "date": "Not specified.",
+            "findings": "No large deletion repeat variants in large segments of the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Multiplex PCR amplification testing",
+            "date": "Not specified.",
+            "findings": "Did not find deletion variants in exons 4–10 of the IKBKG gene.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

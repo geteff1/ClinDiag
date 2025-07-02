@@ -1,0 +1,74 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "testosterone": "Low (13 ng/dL)",
+                "LH": "2.9 mIU/mL",
+                "FSH": "1.9 mIU/mL"
+            },
+            "relevant_findings": "Microphallus (<1 cm), bilateral cryptorchidism, high-arched palate, clinodactyly, atrio-septal defect.",
+            "changes_over_time": "Testicular volume increased over time from 0 cc to 20 cc by 17 years 3 months; penile length increased from <1 cm at birth to 7.3 cm by 17 years 3 months."
+        },
+        {
+            "date": "2 months",
+            "vital_signs": {
+                "testosterone": "13 ng/dL",
+                "LH": "2.9 mIU/mL",
+                "FSH": "1.9 mIU/mL"
+            },
+            "relevant_findings": "Low testosterone with normal post-hCG stimulation response.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "10 years 9 months",
+            "vital_signs": {
+                "LH pre": "< 1.0 mIU/mL",
+                "LH 30 min": "2.0 mIU/mL",
+                "LH 60 min": "2.0 mIU/mL",
+                "FSH pre": "1.0 mIU/mL",
+                "FSH 30 min": "8.0 mIU/mL",
+                "FSH 60 min": "12.0 mIU/mL"
+            },
+            "relevant_findings": "Initiation of reproductive hormone secretion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "10 years 11 months",
+            "vital_signs": {
+                "testosterone": {
+                    "pre": "21 ng/dL",
+                    "post": "700 ng/dL"
+                }
+            },
+            "relevant_findings": "Marked increase in testosterone demonstrating mature hormonal response.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "13 years 2 months",
+            "vital_signs": {
+                "testicular_volume": "10 cc"
+            },
+            "relevant_findings": "Testicular volume reached 10 cc.",
+            "changes_over_time": "Continued growth; testes were reported to be 20 cc by 17 years 3 months."
+        },
+        {
+            "date": "17 years 3 months",
+            "vital_signs": {
+                "testicular_volume": "20 cc",
+                "penile_length": "7.3 cm"
+            },
+            "relevant_findings": "Adult levels of circulating gonadotropins and testosterone.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "19 years",
+            "vital_signs": {
+                "semen_analysis_volume": "1.3 mL",
+                "sperm_count": "5.8 million sperm/mL"
+            },
+            "relevant_findings": "Semen analysis performed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

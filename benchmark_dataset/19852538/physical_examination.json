@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal visual acuity and ocular tension; however, slightly elevated ocular tension at 19 torr bilaterally noted in 1998; discrete bilateral nasal step in 2002; binasal hemianopia in 2006, with normal visual acuity and ocular tension.",
+            "changes_over_time": "Progressive visual deficits were noted over time, with stable ocular tension until 2006, when binasal hemianopia was observed. Postoperative follow-up revealed normal visual fields 4 months after surgery."
+        },
+        {
+            "date": "Postoperative (within 48 hours)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Improvement in visual field deficits within the first 48 hours post-surgery.",
+            "changes_over_time": "Progressive improvement of visual field deficits following microvascular decompression."
+        },
+        {
+            "date": "4 months postoperative",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal visual fields according to Humphrey testing, normal macula and optic disks, stable visual acuity and ocular tension.",
+            "changes_over_time": "Improvement from binasal hemianopia to normal visual fields, demonstrating significant recovery post-surgery."
+        }
+    ]
+}

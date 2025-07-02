@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation_upright": "83%",
+                "oxygen_saturation_lying_down": "91%",
+                "partial_pressure_of_oxygen": "61 mmHg",
+                "inspired_oxygen_fraction": "44%",
+                "alveolar_arteriolar_gradient": "192"
+            },
+            "relevant_findings": {
+                "clubbing": "Present in all fingers",
+                "telangiectasias": "Multiple pinpoint on the tongue and mucosal surface of the lips",
+                "auscultation": "Normal S1 and S2, normal breath sounds, loud continuous murmur over left lung base"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "After procedure",
+            "vital_signs": {
+                "oxygen_saturation": "Increased from 86% to 97%"
+            },
+            "relevant_findings": "Platypnea resolved",
+            "changes_over_time": "Oxygen saturation improved following the embolization of the pulmonary arteriovenous malformation."
+        }
+    ]
+}

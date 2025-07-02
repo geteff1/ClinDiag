@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "visual_acuity": {
+                    "right_eye": "20/400",
+                    "left_eye": "20/30"
+                },
+                "fundus_findings": "The left fundus showed large soft drusen larger than 125 µm, mild pigmentary mottling, but no evidence of subretinal fluid or hemorrhage."
+            },
+            "changes_over_time": "Dr G's visual acuity in the right eye initially showed some improvement after photodynamic therapy but has ultimately worsened to 'count fingers' vision."
+        }
+    ]
+}

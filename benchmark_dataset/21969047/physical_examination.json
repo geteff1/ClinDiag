@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/110 mmHg",
+                "heart_rate": "83 bpm",
+                "weight": "more than 350 lbs",
+                "height": "6 feet 2 inches",
+                "body_mass_index": "at least 45"
+            },
+            "relevant_findings": "Patient presents with chronic severe major depression; history of morbid obesity, poorly controlled hypertension, and type 2 diabetes.",
+            "changes_over_time": "Blood pressure remained elevated at baseline levels during follow-up. After 18 months, blood pressure measurements increased to 200/120 mmHg and heart rate to 120 bpm."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "200/120 mmHg",
+                "heart_rate": "120 bpm",
+                "blood_glucose": "196 mg/dl"
+            },
+            "relevant_findings": "On examination in the emergency department, ECG normal except for sinus tachycardia at 108 bpm.",
+            "changes_over_time": "After administration of missed medications, blood pressure decreased to 193/94 mmHg and heart rate to 92 bpm; blood glucose decreased to 147 mg/dl."
+        },
+        {
+            "date": "After 90 days of medication adjustment",
+            "vital_signs": {
+                "blood_pressure": "Normal results not specified",
+                "heart_rate": "Not specified",
+                "blood_glucose": "Normal results not specified"
+            },
+            "relevant_findings": "Follow-up thyroid function testing after 90 days showed normal results for TSH, total T3, and free T4.",
+            "changes_over_time": "Medication adherence improved with normalization of thyroid function tests and clinical response was reported as excellent."
+        }
+    ]
+}

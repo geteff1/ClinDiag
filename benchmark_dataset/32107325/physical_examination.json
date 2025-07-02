@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse_oximetry": "98.9%",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "161/89 mm Hg",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "Thin, middle-aged man in no acute distress.",
+                "neurologic": [
+                    "Binocular diplopia (worst on midline and right gaze)",
+                    "Postural tremor",
+                    "Whole body akathisia",
+                    "Multifocal and asynchronous myoclonic jerks",
+                    "Choreiform movements of the legs while in sitting position",
+                    "Exaggerated startle response",
+                    "Progressive deficits in executive function and visuospatial skills",
+                    "Involuntary chewing"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urine was ++ for protein; sediment contained 50 to 100 white cells and moderate numbers of tubular cells.",
+            "changes_over_time": "Urine was +++ for protein upon hospital admission; on the second hospital day, total urinary protein excretion was reported as 3.4 g per 24 hours."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "Initial BUN was 20 mg/dL; on admission it was 40 mg/dL and increased to 98 mg/dL by the fifth hospital day.",
+            "changes_over_time": "BUN increased progressively from 40 mg/dL to 98 mg/dL over five days."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Initially around 0.8 mg/dL; on the day of admission, it was 1.5 mg/dL; then increased from 3.7 mg/dL on admission to 7.6 mg/dL by the fifth hospital day.",
+            "changes_over_time": "Creatinine increased from 1.5 mg/dL at admission to 7.6 mg/dL over five days."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "At admission: Sodium 125 mmol/L; Potassium 3.0 mmol/L; Chloride 95 mmol/L; Carbon dioxide 24.5 mmol/L.",
+            "changes_over_time": "Sodium levels fluctuated to 120 mmol/L, Potassium levels increased to 4.3 mmol/L, and Chloride decreased to 81 mmol/L by the fifth hospital day."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit: 37.2%; White-cell count: 14,700 per mm³ (Neutrophils: 66%, Lymphocytes: 11%, Eosinophils: 14%).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

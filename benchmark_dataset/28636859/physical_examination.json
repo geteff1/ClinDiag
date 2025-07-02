@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "blood_pressure": "168/78 mm Hg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "motor_strength": {
+                    "legs": "4 out of 5",
+                    "hip_flexion": "4+ out of 5"
+                },
+                "sensation": "Markedly diminished in both legs from the toes to above the knees for vibration and temperature.",
+                "deep_tendon_reflexes": "1+ and symmetric at the patellae, absent at the soleus.",
+                "plantar_reflex": "Absent on both sides.",
+                "additional_findings": "Unable to stand without assistance. Two firm, nontender subcutaneous nodules in the left submandibular area."
+            },
+            "changes_over_time": "Progressive involvement of sensory and motor function leading to weakness in both legs."
+        }
+    ]
+}

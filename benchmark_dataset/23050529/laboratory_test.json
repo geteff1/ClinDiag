@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "8600 per cubic millimeter, with 80% granulocytes, 14% lymphocytes, and 6% monocytes (normal range)",
+            "changes_over_time": "Increased to 10,900 per cubic millimeter with 85% neutrophils, 9% lymphocytes, and 6% monocytes."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": "Tube 1: white-cell count 9 per cubic millimeter, red-cell count 10,000 per cubic millimeter, protein level 58 mg per deciliter, glucose level 62 mg per deciliter. Tube 4: white-cell count 1 per cubic millimeter, red-cell count 54 per cubic millimeter.",
+            "changes_over_time": "CSF analysis showed a decrease in white-cell count from tube 1 to tube 4."
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "After angiography",
+            "findings": "Normal levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Metabolic Panel",
+            "date": "After angiography",
+            "findings": "Normal levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation and Hypercoagulability Studies",
+            "date": "After angiography",
+            "findings": "Normal results, except for a positive lupus anticoagulant test.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Holter Monitoring",
+            "date": "After angiography",
+            "findings": "No atrial fibrillation, occasional premature ventricular contractions, and premature atrial contractions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "After angiography",
+            "findings": "Small patent foramen ovale with left-to-right shunting at rest and right-to-left shunting during Valsalva maneuver.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

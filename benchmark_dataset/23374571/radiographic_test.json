@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fundus photography",
+            "date": "April 1989",
+            "findings": "Cystic changes observed in the fovea.",
+            "changes_over_time": "Cystic changes became ambiguous 2 decades later."
+        },
+        {
+            "procedure_name": "Goldmann perimetry",
+            "date": "Not specified",
+            "findings": "Retinal sensitivity decreased.",
+            "changes_over_time": "Amplitude of electroretinography (ERG) was attenuated during the 2-decade follow-up."
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Subtle foveal schisis in the left eye, structure of retina relatively well maintained.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fundus photography and angiography",
+            "date": "After cataract surgery",
+            "findings": "Diffuse mild retinal degeneration with no pigmentation in both eyes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

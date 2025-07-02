@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Mucosal thickening in the sinuses bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Mild hyperintensity on T2-weighted images of the left mastoid air cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "Mild swelling of the left periorbital soft tissue and proptosis, no evidence of sinusitis, soft-tissue inflammatory changes involving the right pinna and external auditory canal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain and orbits",
+            "date": "Not specified",
+            "findings": "Mild bilateral proptosis with swelling of preseptal and periorbital soft tissue; partial opacification of mastoid air cells and petrous apexes bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the neck",
+            "date": "Fourth hospital day",
+            "findings": "Thickening of the right pinna, soft-tissue inflammatory changes, fatty stranding around the right external auditory meatus.",
+            "changes_over_time": "Interval increase of soft-tissue swelling extending into the postauricular region."
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "Not specified",
+            "findings": "Slightly increased uptake in the right periauricular soft tissues.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiogram",
+            "date": "Not specified",
+            "findings": "Thickening of the proximal left internal carotid artery and vertebral artery walls.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

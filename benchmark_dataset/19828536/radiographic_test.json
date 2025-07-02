@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Coarse reticular nodular opacities bilaterally and decreased lung volumes consistent with lung fibrosis and bronchiectasis, with no evidence of pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Small lung volumes, diffuse ground-glass opacification, bronchiectasis, and architectural distortion in the upper lobes with diffuse honeycombing predominantly in the subpleural location.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph on admission",
+            "date": "Not specified",
+            "findings": "Reduced lung volumes, diffuse parenchymal opacity, traction bronchiectasis in the upper zones, and bilateral hilar lymphadenopathy.",
+            "changes_over_time": "Unchanged from previous chest radiographs."
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Lymphadenopathy in the hilar, prevascular, paratracheal, and subcarinal regions, enlarged main pulmonary artery, diffuse ground-glass opacity throughout the lungs, volume loss at the lung apexes, architectural distortion, traction bronchiectasis, peripheral cicatricial emphysema, and honeycomb-like cystic changes in the lung apexes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

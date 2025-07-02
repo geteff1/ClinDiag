@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cystoscopy with resection",
+            "date": "8 days before admission",
+            "findings": "Pathological examination of the tissue revealed low-grade papillary urothelial carcinoma, associated with inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "2 weeks earlier",
+            "findings": "Wandering atrial pacemaker with occasional nonconducted P waves, ventricular rate of 91 beats per minute, first-degree atrioventricular block, and premature ventricular complexes.",
+            "changes_over_time": "Rhythm was new as compared with 2 weeks earlier."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy and aspiration",
+            "date": "6th hospital day",
+            "findings": "Extensive involvement by high-grade B-cell lymphoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of axillary lymph node",
+            "date": "6th hospital day",
+            "findings": "Extensive involvement by high-grade B-cell lymphoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Before treatment and after initial three cycles of chemotherapy",
+            "findings": "Before treatment: extensive abnormal uptake in lymph nodes, spleen, and bone marrow. After three cycles: resolution of abnormal nodal uptake, decreased bone marrow and splenic abnormalities, persistent uptake in the left humeral focus, and a new focus in the left femoral neck.",
+            "changes_over_time": "Marked progression of disease after additional three cycles."
+        }
+    ]
+}

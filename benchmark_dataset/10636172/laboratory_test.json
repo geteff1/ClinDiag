@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV-1 test",
+            "date": "Not specified",
+            "findings": "Positive for HIV-1, CD4 count of 90 cells/mm3, viral load of 366,000 copies/mL.",
+            "changes_over_time": "CD4 count increased to 500 cells/mm3 and viral load decreased to 1.6 thousand copies/mL after 8 weeks."
+        },
+        {
+            "procedure_name": "Vitamin B12 level",
+            "date": "Not specified",
+            "findings": "544 pg/mL (normal).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "No cells, normal protein content, nonreactive VDRL, Myelin basic protein was 3.0 mg/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Rectal biopsy",
+            "date": "Not specified",
+            "findings": "70% mutated mtDNA detected.",
+            "changes_over_time": "Comparison with blood showed higher mutation proportion (53% in blood)."
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Few cytochrome c oxidase (COX)–deficient fibers observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Neuroimaging studies",
+            "date": "Not specified",
+            "findings": "Bilateral calcification of the lenticular nuclei and cortical-subcortical atrophy, hypoplastic cerebellar vermis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

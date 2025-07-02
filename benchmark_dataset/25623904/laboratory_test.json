@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "Initial level was 4.82 ng/mL, peaked at 6.80 ng/mL (reference range 0.00-0.09 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Demonstrated normal left ventricular systolic function without wall motion abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "Revealed anomalous take-off of the RCA from the left coronary sinus with an interarterial course.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

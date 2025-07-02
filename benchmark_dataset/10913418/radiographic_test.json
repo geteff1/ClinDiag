@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Negative findings at the beginning of treatment and during follow-up.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Conventional radiographs",
+            "date": "August 1998",
+            "findings": "Rarefaction and erosion of tibial and femoral metaphyses of the right knee.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "August 1998",
+            "findings": "Signs of synovitis and joint effusion.",
+            "changes_over_time": "A new MRI showed altered signal areas with peripheral enhancement indicative of a colliquative abscess of the left knee."
+        },
+        {
+            "procedure_name": "Radionucleotide bone scan",
+            "date": "Not specified",
+            "findings": "Detected an increased uptake of 99mTc-MDP at the tibial and femoral metaphyses bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound and CT scan",
+            "date": "Not specified",
+            "findings": "Revealed an enlarged spleen with a single parenchymal abscess and multiple abdominal lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Control bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Revealed remission of granulomatous features.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

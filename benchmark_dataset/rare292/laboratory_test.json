@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum ethylene glycol measurement",
+            "date": "Not specified",
+            "findings": "Serum ethylene glycol levels were measured at 7 mg/dl.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine level measurement",
+            "date": "Day 5 of hospitalization",
+            "findings": "Peak creatinine level of 12.3 mg/dl.",
+            "changes_over_time": "Creatinine levels stabilized at a baseline of 3.2 mg/dl after treatment."
+        },
+        {
+            "procedure_name": "Basic metabolic panel",
+            "date": "Not specified",
+            "findings": "High anion gap, metabolic acidosis, acute kidney injury, mild hyponatremia, transaminitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine screen for toxins",
+            "date": "Not specified",
+            "findings": "Negative for common toxins, including paracetamol, salicylates, and paraquat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 39.4 °C; Day 5, Temperature: 39.9 °C; Second patient, Day 5, Temperature: 40.0 °C",
+            "relevant_findings": "First patient: extensive left lower lobe and lingular infiltrate; Second patient: right lower lobe infiltrate; Third patient: tachycardia, tachypnea, hypoxemia (oxygen saturation: 83%), left lower lobe infiltrate.",
+            "changes_over_time": "First patient’s symptoms worsened with a rise in temperature and respiratory findings over 5 days; Second patient’s condition deteriorated with fever on Day 5; Third patient had worsening symptoms and clinical findings upon admission."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Prepatellar bursa was swollen, fluid-filled, with trace local erythema. No warmth or tenderness; aspirated fluid showed 55,000 WBCs/mm3, predominantly lymphocytes.",
+            "changes_over_time": "Persisting effusion and elevated WBC counts in subsequent aspirates despite treatment with itraconazole; required surgical excision after lack of clinical improvement."
+        }
+    ]
+}

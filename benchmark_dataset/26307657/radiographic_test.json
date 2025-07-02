@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic Imaging",
+            "date": "2012",
+            "findings": "7.0-cm descending thoracic aortic aneurysm (dTAA).",
+            "changes_over_time": "New connection between the true lumen and new false lumen observed in 2014, representing an acute-on-chronic type B aortic dissection with a dTAA of 8.0 cm and an aortic arch aneurysm of 4.5 to 5 cm."
+        },
+        {
+            "procedure_name": "Computed Tomographic Angiogram",
+            "date": "Not specified",
+            "findings": "True lumen and false lumen with thrombus, new intimal tear causing contrast material to pass from true lumen to new false lumen, mediastinal hematoma observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic Aortography",
+            "date": "Not specified",
+            "findings": "Patency of the endograft confirmed without flow across the new intimal tear.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomographic Angiography",
+            "date": "Not specified",
+            "findings": "Endograft within the true lumen, flow within false lumen, and thrombus present in the false lumen.",
+            "changes_over_time": "Endograft was explanted and replaced with a 30-mm Hemashield vascular graft."
+        }
+    ]
+}

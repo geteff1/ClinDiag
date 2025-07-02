@@ -1,0 +1,123 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "serum sodium": "139 mmol/L",
+                "potassium": "3.8 mmol/L",
+                "chloride": "112 mmol/L",
+                "bicarbonate": "19 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN) and Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "blood urea nitrogen": "9 mg/dL (3.2 mmol/L)",
+                "creatinine": "0.75 mg/dL (66 μmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white cell count": "7300/mm³ (66% neutrophils, 21% lymphocytes, 11% monocytes, 2% eosinophils)",
+                "hemoglobin": "9.7 g/dL",
+                "platelet count": "73,000/mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "22 U/L",
+                "alanine aminotransferase": "11 U/L",
+                "alkaline phosphatase": "14 U/L",
+                "total bilirubin": "0.1 mg/dL (1.7 μmol/L)",
+                "albumin": "1.4 g/dL",
+                "total protein": "2.8 g/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Panel",
+            "date": "Not specified",
+            "findings": {
+                "prothrombin time": "13.4 seconds",
+                "international normalized ratio": "1.25",
+                "partial-thromboplastin time": "45.0 seconds"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic Acid",
+            "date": "Not specified",
+            "findings": {
+                "venous lactic acid": "5.5 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Biomarkers",
+            "date": "Not specified",
+            "findings": {
+                "troponin": "0.36 ng/mL",
+                "B-type natriuretic peptide (BNP)": "271 pg/mL",
+                "myoglobin": "58.9 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.24",
+                "partial pressure of carbon dioxide": "27 mm Hg",
+                "partial pressure of oxygen": "140 mm Hg",
+                "fraction of inspired oxygen": "0.5"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat CBC",
+            "date": "Not specified",
+            "findings": {
+                "white cell count": "10,100/mm³ (75% neutrophils, 14% lymphocytes, 11% monocytes)",
+                "hemoglobin": "10.6 g/dL",
+                "platelet count": "70,000/mm³"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "blood urea nitrogen": "18 mg/dL (6.4 mmol/L)",
+                "creatinine": "1.0 mg/dL (88 μmol/L)",
+                "ionized calcium": "1.06 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (Repeat)",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "1217 U/L",
+                "alanine aminotransferase": "983 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Creatine Kinase",
+            "date": "Not specified",
+            "findings": {
+                "total creatine kinase": "5883 U/L"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

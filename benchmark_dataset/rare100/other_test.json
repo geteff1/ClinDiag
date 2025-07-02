@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Antenatal ultrasound scan",
+            "date": "20 weeks' gestation",
+            "findings": "Detected an occipital meningocele sized 14 mm × 11 mm × 11 mm, which later showed interval increase in size.",
+            "changes_over_time": "Interval increase in the size of the occipital meningocele."
+        },
+        {
+            "procedure_name": "Fetal MRI",
+            "date": "36 weeks' gestation",
+            "findings": "Confirmed an occipital meningocele measuring 11 mm × 27 mm × 16 mm and noted ventriculomegaly.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI brain",
+            "date": "Postnatal",
+            "findings": "Showed a 20 mm × 18 mm × 25 mm cystic lesion at midline of occipital region.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up MRI scan",
+            "date": "1 year of age",
+            "findings": "Revealed another cystic lesion at the retrocerebellar region.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

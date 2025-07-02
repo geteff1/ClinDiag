@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "weight": "98 kg"
+            },
+            "relevant_findings": "Eastern Cooperative Oncology Group performance score 1; Karnofsky performance scale score 90; abdomen soft, no tenderness, distention, or organomegaly; skin of the right arm with scars and chronic superficial thromboses; remainder of examination normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital Day 9",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "weight": "108 kg"
+            },
+            "relevant_findings": "Oral mucosa erythematous with ulcerations; jugular vein distended; jugular venous pressure 10-12 cm of water; breath sounds decreased at right lung base; abdomen distended, slightly firm, with tenderness to percussion and guarding in right lower quadrant, and tenderness in left lower quadrant; 3+ pitting edema to the sacrum.",
+            "changes_over_time": "Weight increased from 98 kg to 108 kg; worsening of oral mucosa with ulcerations and erythema, worsening abdominal tenderness."
+        },
+        {
+            "date": "Hospital Day 27",
+            "vital_signs": {
+                "temperature": "40.6°C",
+                "blood_pressure": "139/94 mm Hg",
+                "pulse": "112 bpm",
+                "respiratory_rate": "26 breaths per minute",
+                "weight": "Not specified"
+            },
+            "relevant_findings": "Patient appeared uncomfortable and inattentive; repeat CT showed no substantial change; persistent fevers, abdominal distention continues; signs of peritonitis.",
+            "changes_over_time": "Temperature rose to 40.6°C; clinical status worsened with persistent abdominal distention and peritonitis."
+        }
+    ]
+}

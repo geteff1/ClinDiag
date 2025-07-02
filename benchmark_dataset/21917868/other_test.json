@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Microarray analysis",
+            "date": "Not specified",
+            "findings": "In the MEN1-associated pituitary adenoma, 59 genes were significantly up-regulated and 24 were down-regulated. The up-regulated genes included those involved in cell growth and maintenance, apoptosis, growth arrest, and tumorigenesis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative real-time PCR",
+            "date": "Not specified",
+            "findings": "Validation of the microarray results confirmed that genes FOS, GNAS, GADD45A, and NTS were over-expressed in the MEN1-associated pituitary adenoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Not specified",
+            "findings": "The MEN1 adenoma displayed predominantly granular, nuclear staining for cFos, while staining in the sporadic mammosomatotropinoma was negative. Gsα showed a positive cytoplasmic/membranous pattern in the MEN1-associated adenoma and was negative in the sporadic tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transsphenoidal surgery",
+            "date": "2000",
+            "findings": "Complete excision of the tumor was not possible due to extensive invasion of the left cavernous sinus.",
+            "changes_over_time": "Postoperative period managed temporarily with somatostatin analog (octreotide) and cabergoline."
+        },
+        {
+            "procedure_name": "Fractionated radiotherapy",
+            "date": "2001",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GH replacement therapy",
+            "date": "2003",
+            "findings": "GH deficiency developed two years after radiotherapy.",
+            "changes_over_time": "Further thyroid hormone replacement was initiated and is currently maintained."
+        }
+    ]
+}

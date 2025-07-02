@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiomegaly, prominence of the pulmonary artery, and curvilinear opacity that extended downward from the right pulmonary hilum, bordering the cardiac silhouette, to the cardiophrenic angle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "Partial anomalous venous drainage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "June 2015",
+            "findings": "Pulmonary artery systolic pressure of 120 mm Hg, dilated right ventricle, and paradoxical movement of the septum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "TAPSE of 13 mm, interatrial communication of 17 mm of diameter upper venous sinus type and right to left shunt. Both pulmonary right veins drained to the lower vena cava in a supradiaphragmatic portion.",
+            "changes_over_time": "Pulmonary systolic arterial pressure was 98 mm Hg."
+        }
+    ]
+}

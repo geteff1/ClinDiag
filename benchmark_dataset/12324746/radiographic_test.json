@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Area of consolidation in the right lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Nodular infiltration in the right midzone.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest computed tomography scan",
+            "date": "Not specified",
+            "findings": "Opacity in the ventral segment of the upper lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest computed tomography scan",
+            "date": "6 months after start of therapy",
+            "findings": "Significant reduction in opacity.",
+            "changes_over_time": "Opposed to the previous findings, indicating improvement."
+        }
+    ]
+}

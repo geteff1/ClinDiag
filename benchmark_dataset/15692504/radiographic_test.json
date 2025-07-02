@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "scalp biopsy",
+            "date": "1997",
+            "findings": "Histology was consistent with a diagnosis of Chronic Telogen Effluvium (CTE).",
+            "changes_over_time": "The ratio of terminal to vellus hairs (T:V) was consistent with CTE; no miniaturization was observed."
+        },
+        {
+            "procedure_name": "scalp biopsy",
+            "date": "1998",
+            "findings": "A repeated scalp biopsy specimen showed 32 follicles on horizontal section, of which none were miniaturized.",
+            "changes_over_time": "Hair shedding continued; the second biopsy maintained consistency with CTE."
+        },
+        {
+            "procedure_name": "scalp photography",
+            "date": "1999",
+            "findings": "Standardized scalp photography showed no discernible reduction in hair density over the midfrontal or vertex scalp.",
+            "changes_over_time": "Hair shedding continued; however, no loss of hair density was observed over time."
+        },
+        {
+            "procedure_name": "scalp biopsy",
+            "date": "2001",
+            "findings": "Three 4-mm punch biopsy specimens revealed T:V ratios consistent with CTE.",
+            "changes_over_time": "Continuing hair shedding; maintained diagnosis of CTE."
+        },
+        {
+            "procedure_name": "scalp photography",
+            "date": "2002",
+            "findings": "Photos showed no loss of hair volume and no biopsy was performed.",
+            "changes_over_time": "Despite continued hair shedding, hair density remained unchanged."
+        },
+        {
+            "procedure_name": "scalp biopsy",
+            "date": "2003",
+            "findings": "Repeated biopsy specimens showed no evidence of FPHL almost 10 years after initial presentation.",
+            "changes_over_time": "Hair shedding continued, but hair density remained unchanged, with no significant changes noted."
+        }
+    ]
+}

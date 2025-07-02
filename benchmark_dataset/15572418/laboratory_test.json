@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum total calcium",
+            "date": "Not specified.",
+            "findings": "10.8 mg/dl (2.7 mmol/liter) - elevated; normal range 8.8–10.4 mg/dl (2.2–2.6 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum ionized calcium",
+            "date": "Not specified.",
+            "findings": "5.64 mg/dl (1.41 mmol/liter) - elevated; normal range 4.6–5.12 mg/dl (1.15–1.28 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum phosphate",
+            "date": "Not specified.",
+            "findings": "3.38 mg/dl (1.09 mmol/liter) - normal; normal range 3.72–5.36 mg/dl (1.2–1.73 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified.",
+            "findings": "46 pg/ml - normal; normal range 10–62 pg/ml",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum alkaline phosphatase",
+            "date": "Not specified.",
+            "findings": "90 IU/liter - normal; normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum calcitonin",
+            "date": "Not specified.",
+            "findings": "48 pg/ml - normal; normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "25-hydroxyvitamin D3",
+            "date": "Not specified.",
+            "findings": "42 ng/ml - normal; normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified.",
+            "findings": "60 (Not specified) - normal; normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary calcium excretion",
+            "date": "Not specified.",
+            "findings": "Not measured at this time.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Calcium-to-creatinine clearance ratio",
+            "date": "Not specified.",
+            "findings": "Low ratio - indicative of benign hypocalciuric hypercalcemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

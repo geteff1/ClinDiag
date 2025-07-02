@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "1.53 mmol/liter (RR, 2.2–2.7 mmol/liter)",
+            "changes_over_time": "Reported levels ranged between 1.53–2.52 mmol/liter."
+        },
+        {
+            "procedure_name": "Serum phosphate",
+            "date": "Not specified",
+            "findings": "1.9 mmol/liter (RR, 1.1–1.8 mmol/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum parathyroid hormone (PTH)",
+            "date": "Not specified",
+            "findings": "Undetectable serum concentration of PTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary calcium/creatinine ratio",
+            "date": "Not specified",
+            "findings": "0.1–0.6 m m/mm (RR, 0.2–0.8)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "9.5 yr",
+            "findings": "9.8 g/dl",
+            "changes_over_time": "Anemia resolved by 16.9 yr."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "9.5 yr",
+            "findings": "75 mm/h (RR, 3–30)",
+            "changes_over_time": "Still raised at 13.2 yr (41 mm/h) and at 14.2 yr (42 mm/h)."
+        },
+        {
+            "procedure_name": "Plasma concentrations of IgG",
+            "date": "9.8 yr",
+            "findings": "46 g/liter (RR, 8.5–13)",
+            "changes_over_time": "Decreased to 31.5 g/liter at 10.2 yr and to 22.6 g/liter at 16.9 yr."
+        },
+        {
+            "procedure_name": "Plasma concentrations of IgM",
+            "date": "9.8 yr",
+            "findings": "Mildly raised",
+            "changes_over_time": "Normal at 16.9 yr."
+        },
+        {
+            "procedure_name": "Bone mineral density",
+            "date": "Not specified",
+            "findings": "Above average for age at lumbar spine, average at femoral neck.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase and osteocalcin",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-rays",
+            "date": "7.2 yr",
+            "findings": "Metaphyseal changes in all long bones; irregular, flared, radioopaque regions subjacent to growth plates.",
+            "changes_over_time": "Progressed by 9.5 yr; improvement in radiological appearance of the metaphyses at 15.3 yr."
+        },
+        {
+            "procedure_name": "Bone biopsy",
+            "date": "11.4 yr, 12.6 yr, 15.4 yr",
+            "findings": "Islands of calcified cartilage at 11.4 yr; normal with recognizable metaphyseal growth plate at 15.4 yr.",
+            "changes_over_time": "Regression noted in histopathology from 11.4 yr to 15.4 yr."
+        }
+    ]
+}

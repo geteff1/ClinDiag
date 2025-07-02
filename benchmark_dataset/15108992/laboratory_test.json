@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase Test",
+            "date": "Not specified",
+            "findings": "Elevated resting creatine kinase levels (700 U/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "In Vitro Contracture Test (IVCT)",
+            "date": "Not specified",
+            "findings": "MH-susceptible diagnosis confirmed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatine Kinase Level Test",
+            "date": "Not specified",
+            "findings": "Maximal serum creatine kinase elevation of 1655 U/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathologic Examination of Muscle Biopsy",
+            "date": "3 months after the initial symptoms",
+            "findings": "Presence of central core disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Haplotype Analysis",
+            "date": "Not specified",
+            "findings": "Segregation analysis confirmed true relationship between generations",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Screening for RYR1 Mutations",
+            "date": "Not specified",
+            "findings": "Arg2435His mutation detected in MH-susceptible family members",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

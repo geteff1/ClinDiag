@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ultrasonography",
+            "date": "14th week",
+            "findings": "Single intrauterine gestational sac containing a normal fetus with a normal heart rate, area of nuchal translucency was 3.7 mm, two cysts within the left ovary (a clear cyst, 4.1 cm, and an endometrioma, 4.5 cm).",
+            "changes_over_time": "Follow-up ultrasound demonstrated a regular fetal heartbeat and fluid within the fetal stomach, but bilateral nuchal hygromas were noted."
+        },
+        {
+            "procedure_name": "amniocentesis",
+            "date": "15 weeks of gestation",
+            "findings": "Amniotic fluid karyotype was 46,XY, add(18)(p11.2), indicating additional material on the short arm of chromosome 18 at band 11.2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ultrasonography",
+            "date": "Not specified",
+            "findings": "Intrauterine pregnancy confirmed with a fetal heart rate of 111 beats per minute and normal interval growth.",
+            "changes_over_time": "Follow-up ultrasound at eight weeks confirmed normal fetal heart rate of 153 beats per minute and observed normal growth."
+        }
+    ]
+}

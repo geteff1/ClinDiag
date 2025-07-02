@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Insulin-like growth factor 1 (IGF-1)",
+            "date": "Not specified",
+            "findings": "High IGF-1 levels found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Growth hormone (GH)",
+            "date": "Not specified",
+            "findings": "Nonsuppressed growth hormone found on glucose loading.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenocorticotropic hormone (ACTH)",
+            "date": "Not specified",
+            "findings": "Low morning ACTH level indicating secondary adrenal insufficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "Low morning cortisol levels indicated secondary adrenal insufficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHEAS)",
+            "date": "Not specified",
+            "findings": "Low morning DHEAS levels indicating secondary adrenal insufficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone (FSH)",
+            "date": "Not specified",
+            "findings": "Elevated FSH level suggesting primary hypogonadism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luteinizing hormone (LH)",
+            "date": "Not specified",
+            "findings": "Elevated LH level suggesting primary hypogonadism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "Not specified",
+            "findings": "Decreased total testosterone level suggesting primary hypogonadism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prolactin",
+            "date": "Not specified",
+            "findings": "Prolactin level was within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol (UFC)",
+            "date": "Not specified",
+            "findings": "Normal UFC measurements.",
+            "changes_over_time": "1-mg overnight dexamethasone test did not suppress cortisol."
+        },
+        {
+            "procedure_name": "Dexamethasone suppression test",
+            "date": "Not specified",
+            "findings": "1-mg overnight dexamethasone test did not suppress cortisol; paradoxical increase in UFC on high-dose dexamethasone.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

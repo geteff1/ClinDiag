@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination was unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "January 1997",
+            "vital_signs": {
+                "total_calcium": "2.88 mmol/liter",
+                "intact_PTH": "27 pg/ml"
+            },
+            "relevant_findings": "Patient presented with weight loss, anorexia, diarrhea, diffuse abdominal pain, and iron deficiency anemia. A subsequent evaluation revealed elevated serum antigliadin Ig level and the presence of antiendomyseal antibodies.",
+            "changes_over_time": "Symptoms progressed over time; patient complained of abdominal pain and muscle aches despite adherence to a gluten-free diet."
+        },
+        {
+            "date": "May 1997",
+            "vital_signs": {
+                "total_calcium": "2.63 mmol/liter",
+                "intact_PTH": "39 pg/ml"
+            },
+            "relevant_findings": "Postoperative findings included a normal-appearing left inferior parathyroid gland, but the serum calcium concentration initially decreased after surgery.",
+            "changes_over_time": "One week post-operation, serum calcium increased to 2.68 mmol/liter, indicating lack of persistent improvement."
+        },
+        {
+            "date": "January 1999",
+            "vital_signs": {
+                "total_calcium": "2.65 mmol/liter",
+                "intact_PTH": "35 pg/ml"
+            },
+            "relevant_findings": "Continued symptomatology with anxiety, depression, generalized aches, and sensations of deep bony pain. Serum calcium levels remained elevated.",
+            "changes_over_time": "Serum calcium levels exhibited fluctuation but remained elevated, with no significant improvement in symptoms."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Postnatal Day 18",
+            "vital_signs": {
+                "TSH": "186.2 mU/liter",
+                "T4": "6.5 µg/dl"
+            },
+            "relevant_findings": "Neonatal screening confirmed congenital hypothyroidism.",
+            "changes_over_time": "Initial treatment with low doses of levothyroxine was required as TSH levels normalized."
+        },
+        {
+            "date": "Postnatal Day 17",
+            "vital_signs": {
+                "TSH": "65.0 mU/liter",
+                "T4": "9.7 µg/dl"
+            },
+            "relevant_findings": "Congenital hypothyroidism was confirmed.",
+            "changes_over_time": "Treatment began at two months of age following continued high TSH levels."
+        },
+        {
+            "date": "Age 15 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The child did not walk; choreoathetotic movements were observed, indicating psychomotor delay.",
+            "changes_over_time": "Slight psychomotor delay noted at 15 months."
+        },
+        {
+            "date": "Age 4 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Loss of balance, tremor, hyperreflexia, and mental retardation were observed.",
+            "changes_over_time": "Marked decline in verbal performance and motor skills since earlier assessments."
+        },
+        {
+            "date": "Age 5 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Poor motor skills observed, particularly in balance and gross motor scale.",
+            "changes_over_time": "Slight decline in verbal scale and manipulative skills noted from ages 5 to 11 years."
+        }
+    ]
+}

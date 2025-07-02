@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "pulse": "71 bpm",
+                "blood_pressure": "143/94 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "neurological_examination": "Wide-based, unsteady gait; truncal ataxia; Romberg sign positive; dysmetria bilaterally; dysdiadochokinesia severe; no dysarthria.",
+                "antinuclear_antibodies": "Present at a titer of 1:40 with a speckled pattern."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three weeks after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological_examination": "Gait and coordination worsened; could no longer ambulate independently with a walker; new dysarthria; short-term memory loss.",
+                "cognitive_assessment": "Montreal Cognitive Assessment score of 15 (indicating cognitive impairment)."
+            },
+            "changes_over_time": "Condition declined each day; ataxia and dysarthria progressively disabling."
+        }
+    ]
+}

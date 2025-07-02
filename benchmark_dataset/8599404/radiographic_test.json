@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Reportedly normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Demonstrated intermittent asymmetry with posterior right-hemisphere background slowing, which was considered artifact.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Showed scattered 1-2 mm punctate foci of signal abnormality in the subcortical white matter predominantly in the frontal lobes; no ventricular enlargement or abnormal parenchymal or leptomeningeal enhancement noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SPECT",
+            "date": "Not specified",
+            "findings": "Revealed lower than normal blood flow in the frontotemporal regions bilaterally; no ischemic areas noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

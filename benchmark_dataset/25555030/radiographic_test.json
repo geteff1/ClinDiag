@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Head CT scan",
+            "date": "Not specified",
+            "findings": "Confirmed subarachnoid hemorrhage (SAH), Grade II on the World Federation of Neurosurgical Societies scale and Grade 1 on the Fisher scale.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography",
+            "date": "Not specified",
+            "findings": "Large complex right proximal middle cerebral artery (MCA) aneurysm and a smaller right distal MCA aneurysm, an aneurysm at the basilar tip, and another on the superior cerebellar artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-body CT angiography",
+            "date": "Not specified",
+            "findings": "Heavy calcification with 50% narrowing of both common carotid arteries just proximal to the carotid artery bulbs; common femoral, external iliac, and internal iliac arteries were patent bilaterally but reduced caliber; aortoiliac occlusion extending from below the origin of the internal mesenteric artery to the external iliac artery origins bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Follow-up over 5 years",
+            "findings": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration.",
+            "changes_over_time": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration."
+        },
+        {
+            "procedure_name": "MR angiography",
+            "date": "Follow-up over 5 years",
+            "findings": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration.",
+            "changes_over_time": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration."
+        },
+        {
+            "procedure_name": "IV Dyna-CT scanning",
+            "date": "Follow-up over 5 years",
+            "findings": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration.",
+            "changes_over_time": "The treated aneurysms are stable, and the untreated distal MCA aneurysm remains unchanged in size and configuration."
+        }
+    ]
+}

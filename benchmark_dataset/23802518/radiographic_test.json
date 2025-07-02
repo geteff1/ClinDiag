@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ultrasound examination",
+            "date": "Not specified",
+            "findings": "Mild hepatic steatosis; ultrasonography of the scrotum was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Mild upper-lobe emphysema and several pulmonary nodules in the right upper lobe, measuring 2 mm to 4 mm.",
+            "changes_over_time": "Follow-up imaging is scheduled to further assess the nodules."
+        }
+    ]
+}

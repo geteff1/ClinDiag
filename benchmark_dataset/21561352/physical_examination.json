@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100/75 mm Hg",
+                "pulse": "90 bpm",
+                "weight": "57 kg"
+            },
+            "relevant_findings": {
+                "alertness": "alert, cooperative, articulate",
+                "muscle_atrophy": "very mild atrophy of the intrinsic muscles of both hands",
+                "muscle_tone": "normal and symmetric",
+                "reflexes": {
+                    "biceps": "absent on the right side",
+                    "triceps": "absent on the right side",
+                    "brachioradialis": "absent on the right side",
+                    "finger_flexors": "absent on the right side",
+                    "patellar": {
+                        "right": "1+",
+                        "left": "absent"
+                    },
+                    "ankle": "absent bilaterally",
+                    "plantar": "flexor"
+                },
+                "gait": "normal",
+                "Romberg": {
+                    "sway": "slightly",
+                    "falter": "no"
+                },
+                "vibration_sense": {
+                    "right": "severely diminished in fingers and forearm",
+                    "left": "less severely diminished"
+                },
+                "joint_position_sense": {
+                    "right_thumb": "severely impaired",
+                    "left": "intact"
+                },
+                "pinprick_sensation": {
+                    "arms_and_legs": "diminished",
+                    "trunk": "present"
+                },
+                "facial_sensation": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "telangiectasia": "present over the bridge of the nose, lips, and fingers",
+                "oral_furrowing": "present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

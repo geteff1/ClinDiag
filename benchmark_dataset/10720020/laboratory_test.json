@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "Values between 7.5–8% at diagnosis of diabetes; between 7.1–7.3% during the previous year.",
+            "changes_over_time": "Decreased from 7.5-8% to 7.1-7.3% over time."
+        },
+        {
+            "procedure_name": "Fibrinogen Test",
+            "date": "Not specified",
+            "findings": "High fibrinogen levels (612 mg/dL), normal prothrombin, APTT, antithrombin III, and protein S.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Protein C Activity",
+            "date": "Not specified",
+            "findings": "Low activity of protein C (60% vs. 98615%), reverted to normal after a year.",
+            "changes_over_time": "Improved to normal after a year."
+        },
+        {
+            "procedure_name": "Homocysteine Test",
+            "date": "Not specified",
+            "findings": "Homocysteine concentration in the normal range.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

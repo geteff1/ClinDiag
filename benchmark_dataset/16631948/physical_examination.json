@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "examination": "Physical examination revealed a well-appearing child who was vigorously scratching throughout the evaluation. Symmetrical, indurated, well-demarcated erythematous plaques were present on her upper extremities. Red-brown papules coalescing into infiltrated plaques with some focal vesiculation were present on the back of her right foot and medial instep.",
+                "other": "The remainder of the physical examination was unremarkable."
+            },
+            "changes_over_time": "Her condition initially improved with treatment but flared once her oral steroid was tapered. The steroid course was extended with resolution of her rash, although she has continued to have episodic flares responding to symptomatic topical therapy."
+        }
+    ]
+}

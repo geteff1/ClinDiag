@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "normal",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "finding_desc": "24-hour urine analysis showed normal metanephrine and normetanephrine concentrations.",
+                "examination_desc": "MRI of the head and neck was normal. CT of the abdomen revealed an incidental adrenal tumor with a maximum diameter of 14 cm, and MRI of the neck showed an 8-mm HNPGL."
+            },
+            "changes_over_time": "The thoracic lesions remained stable for 3 years and later progressed to acute radicular syndrome due to lytic vertebral bone metastasis."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "finding_desc": "Follow-up MRI scans showed slight growth of both HNPGLs.",
+                "examination_desc": "Plasma catecholamine metabolite levels had remained normal."
+            },
+            "changes_over_time": "Two years after surgery, the patient developed fatigue and episodes of fever. Additional imaging showed multiple lesions in the liver and lungs, suggestive of metastatic disease."
+        }
+    ]
+}

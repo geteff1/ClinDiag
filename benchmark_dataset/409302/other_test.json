@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Normal CSF",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Slit-lamp examination",
+            "date": "Not specified",
+            "findings": "No Kayser-Fleischer rings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neurological examination",
+            "date": "Not specified",
+            "findings": "Findings were normal except for diaphoresis and increased pulse rate during periods of physical hyperactivity.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

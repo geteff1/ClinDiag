@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Coronary arteriography",
+            "date": "Not specified",
+            "findings": "Coronary arteries and left ventricular function were completely normal.",
+            "changes_over_time": "Symptoms continued to deteriorate over the ensuing months."
+        },
+        {
+            "procedure_name": "Thallium-201 dipyridamole testing",
+            "date": "Not specified",
+            "findings": "Transient perfusion defects were found.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dobutamine stress-echocardiogram",
+            "date": "Not specified",
+            "findings": "No regional wall motion abnormalities despite occurrence of ST-segment depression and chest pain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ambulatory monitoring (ECG)",
+            "date": "Not specified",
+            "findings": "Transient ST-segment depression and chest pain detected, usually associated with tachycardia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Exercise stress test",
+            "date": "Not specified",
+            "findings": "Exercise test was borderline positive, with up-sloping ST-segment depression but without chest pain.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "FSH",
+            "date": "Not specified",
+            "findings": "Subject 1: 19.9 IU/liter (higher than normal but not postmenopausal); Subject 2: 26.2 IU/liter; Subject 3: 20.4 IU/liter.",
+            "changes_over_time": "Subject 1: FSH increased to postmenopausal range over time; Subject 2's FSH rose to postmenopausal range 1.5 years after presentation (maximum FSH, 63.1 IU/liter); Subject 3's FSH rose to postmenopausal range 17 months after initial presentation."
+        },
+        {
+            "procedure_name": "LH",
+            "date": "Not specified",
+            "findings": "Subject 1: 42 IU/liter; Subject 2: 49.1 IU/liter; Subject 3: 92.5 IU/liter (all elevated above postmenopausal range).",
+            "changes_over_time": "LH levels were elevated throughout the observation period."
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "Subject 1: maximum of 112 pg/ml (411 pmol/liter) in cycle 1, 135 pg/ml (495 pmol/liter) in cycle 2; Subject 3: 74 pg/ml; Subject 2: below the limit of detection.",
+            "changes_over_time": "Estradiol levels did not increase in cycle 3 in Subject 1; remained low despite multiple dominant follicles."
+        },
+        {
+            "procedure_name": "Inhibin B",
+            "date": "Not specified",
+            "findings": "Subject 1: 3- to 6-fold higher than the upper normal limit (mean: 173 pg/ml) during cycles; Subject 2: 2- to 5-fold above the upper limit; Subject 3: at the upper limit.",
+            "changes_over_time": "Inhibin B levels remained elevated across cycles."
+        },
+        {
+            "procedure_name": "Inhibin A",
+            "date": "Not specified",
+            "findings": "Subjects 1 and 2: levels were in the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Androstenedione",
+            "date": "Not specified",
+            "findings": "Levels were below the lower limit of normal in all subjects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "17OH Progesterone",
+            "date": "Not specified",
+            "findings": "Subject 2: within normal limits despite multiple dominant follicles.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

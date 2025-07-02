@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography (Transthoracic)",
+            "date": "Hospital day 2",
+            "findings": "Tricuspid-valve thickening, with a large, mobile echodense mass; no vegetations on the aortic, mitral, or pulmonic valves; mild tricuspid regurgitation.",
+            "changes_over_time": "Transesophageal echocardiography on hospital day 4 confirmed two echodense masses on the tricuspid valve measuring 14 mm by 9 mm and 12 mm by 10 mm."
+        },
+        {
+            "procedure_name": "Echocardiography (Transesophageal)",
+            "date": "Hospital day 4",
+            "findings": "No aortic or mitral valve disease; confirmed presence of two separate echodense masses on the tricuspid valve.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Within 48 hours of admission",
+            "findings": "Nine of 10 blood cultures grew S. aureus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

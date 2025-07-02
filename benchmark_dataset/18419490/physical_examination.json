@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 21, 2015",
+            "vital_signs": {
+                "temperature": "up to 39°C",
+                "weight": "10 kg (<3rd percentile)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "erythema": "Over much of the face",
+                "vesicles": "Multiple areas observed, spreading to arms and face",
+                "papules": "Yellow-crusted",
+                "plaques": "Lichenoid with scattered vesicles, pustules, and erosions on neck, chest, and arms",
+                "chronic_disease": "Lichenoid plaques on lower extremities consistent with severe atopic dermatitis"
+            },
+            "changes_over_time": "The patient's condition worsened over the first few days in hospital, with new lesions appearing and spreading."
+        },
+        {
+            "date": "Hospital day 6",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "weight": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_damage": "Detection of nonvariola orthopoxvirus in skin lesions.",
+                "blood_culture": "Staphylococcus aureus isolated."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Hospital day 8",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "weight": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "acidosis": "Worsening acidosis noted.",
+                "hypoalbuminemia": "Observed.",
+                "hypothermia": "Observed.",
+                "hypotension": "Noted."
+            },
+            "changes_over_time": "The patient experienced a deteriorating clinical condition."
+        },
+        {
+            "date": "Hospital day 13",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "weight": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_changes": "Lesions began to crust; some had hemorrhagic centers."
+            },
+            "changes_over_time": "Existing lesions began to flatten and became confluent."
+        }
+    ]
+}

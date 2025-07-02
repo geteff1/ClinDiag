@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Serum glucose concentrations in phase 1, 2, and 3 were in the normal range. In phase 4, serum glucose was elevated with a value of 154 mg/dL.",
+            "changes_over_time": "During transdermal estradiol treatment, glucose levels decreased with values of 156 mg/dL in phase 6 and 144 mg/dL in phase 7."
+        },
+        {
+            "procedure_name": "Serum insulin",
+            "date": "Not specified",
+            "findings": "Insulin levels were 31 U/ml in phase 1, 56 U/ml in phase 2, 45 U/ml in phase 3, and 112 U/ml in phase 4. Phase 5 showed insulin at 94 U/ml, decreasing to 75 U/ml in phase 6 and 53 U/ml in phase 7.",
+            "changes_over_time": "Insulin levels increased during testosterone treatments in phases 2 and 4 and decreased during estradiol treatment."
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "Not measured in phases 1, 2, and 3. Phase 5 recorded 8.3%, decreasing to 8.1% in phase 6 and 7.6% in phase 7.",
+            "changes_over_time": "HbA1c levels improved during estradiol treatment."
+        },
+        {
+            "procedure_name": "Liver function test (GOT, GPT, gamma GT)",
+            "date": "Not specified",
+            "findings": "GPT levels were elevated at 225 U/L in phase 1, 218 U/L in phase 2, and 210 U/L in phase 3, decreasing to 165 U/L in phase 4 and 125 U/L in phase 6 and further to 70 U/L in phase 7. GOT levels were also elevated at 188 U/L in phase 1 and improved to 45 U/L in phase 7.",
+            "changes_over_time": "Progressive improvement noted after starting estrogen therapy."
+        },
+        {
+            "procedure_name": "Bone mineral density (BMD)",
+            "date": "Not specified",
+            "findings": "BMD at L2–L4 was 0.843 g/cm² in phase 1, increasing over time to 1.018 g/cm² in phase 7. BMD at femoral neck remained relatively unchanged across phases.",
+            "changes_over_time": "Substantial increase in BMD at L2–L4 after estradiol treatment."
+        },
+        {
+            "procedure_name": "Estradiol measurement",
+            "date": "Not specified",
+            "findings": "Serum estradiol was below the assay detection limit (<1.5 pg/ml) before estradiol treatment. After starting treatment in phase 6, levels increased with values reaching 41 pg/ml in phase 7.",
+            "changes_over_time": "Serum estradiol levels rose significantly upon administration of estradiol in phases 6 and 7."
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "Not specified",
+            "findings": "Testosterone levels were at 3.8 ng/ml in phase 1, hitting 9.1 ng/ml in phase 4, and then dropping to 2.7 ng/ml in phase 5 and further to 0.8 ng/ml by phase 7.",
+            "changes_over_time": "Testosterone levels fluctuated with treatment changes, peaking during testosterone treatments then declining after estradiol treatment."
+        },
+        {
+            "procedure_name": "Lipid profile (cholesterol, triglycerides)",
+            "date": "Not specified",
+            "findings": "Total cholesterol was 180 mg/dL in phase 1, peaking at 220 mg/dL in phase 3, and reducing to 110 mg/dL by phase 7. HDL cholesterol decreased to 28 mg/dL by phase 4 but improved to 41 mg/dL by phase 7.",
+            "changes_over_time": "Lipid profile improved significantly during estradiol treatment."
+        }
+    ]
+}

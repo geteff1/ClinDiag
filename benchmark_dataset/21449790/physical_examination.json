@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "blood_pressure": "127/63 mm Hg",
+                "pulse": "125 bpm",
+                "respiratory_rate": "25 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "sclera": "icteric",
+                "abdominal_exam": "tender without rigidity, bowel sounds present",
+                "ecchymoses": "on abdomen and legs",
+                "edema": "trace edema of the legs",
+                "asterixis": "present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.8°C",
+                "blood_pressure": "149/64 mm Hg",
+                "pulse": "126 bpm",
+                "respiratory_rate": "26 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "pupils": "right 4 mm, left 1-2 mm; minimally reactive to light",
+                "light_sensitivity": "evidence present",
+                "tongue": "petechiae",
+                "abdominal_exam": "voluntary guarding and tenderness, no palpable organomegaly",
+                "ecchymoses": "multiple (3 to 6 cm in diameter)",
+                "ulceration": "on right buttock"
+            },
+            "changes_over_time": "Agitation increased; physical exam findings showed worsening overall condition."
+        }
+    ]
+}

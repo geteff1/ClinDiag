@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Negative for brain tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "brain scan",
+            "date": "Not specified",
+            "findings": "Negative for brain tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "skull X-rays",
+            "date": "Not specified",
+            "findings": "Negative for brain tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "visual field examination",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "radio-nucleotide brain scan",
+            "date": "Not specified",
+            "findings": "Midline suprasellar uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cerebral arteriogram",
+            "date": "Not specified",
+            "findings": "Essentially normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "pneumoencephalogram",
+            "date": "Not specified",
+            "findings": "Large tumor in the midline displacing the anterior aspect and the floor of the third ventricle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

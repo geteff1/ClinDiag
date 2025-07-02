@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin Level",
+            "date": "Not specified",
+            "findings": "0.08 ng per milliliter (normal value, <0.10)",
+            "changes_over_time": "Peak troponin level was 127 ng per milliliter."
+        },
+        {
+            "procedure_name": "White-Cell Count",
+            "date": "Not specified",
+            "findings": "22,000 per cubic millimeter, with 74% neutrophils, 18% band forms, 2% lymphocytes, 4% monocytes, 1% eosinophils, and 1% basophils.",
+            "changes_over_time": "On recheck the day after cardiac catheterization, the count was 13,800 per cubic millimeter (91% neutrophils, 4% lymphocytes, and 5% monocytes)."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "771,000 per cubic millimeter.",
+            "changes_over_time": "On recheck the day after cardiac catheterization, the count was 610,000 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Hemoglobin Level",
+            "date": "Not specified",
+            "findings": "17.5 g per deciliter.",
+            "changes_over_time": "On recheck the day after cardiac catheterization, the level was 15.6 g per deciliter."
+        },
+        {
+            "procedure_name": "Fasting Serum Glucose Level",
+            "date": "Not specified",
+            "findings": "192 mg per deciliter (10.7 mmol per liter).",
+            "changes_over_time": "On repeat measurement, the level was 109 mg per deciliter (6.0 mmol per liter). Subsequent levels remained below 110 mg per deciliter (6.1 mmol per liter)."
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "14.9 seconds (normal range, 11.7 to 15.3), international normalized ratio 1.2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Partial-Thromboplastin Time",
+            "date": "Not specified",
+            "findings": "27.6 seconds (normal range, 22.7 to 35.6).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Low-Density Lipoprotein (LDL) Cholesterol Level",
+            "date": "Not specified",
+            "findings": "104 mg per deciliter (2.7 mmol per liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-Density Lipoprotein (HDL) Cholesterol Level",
+            "date": "Not specified",
+            "findings": "36 mg per deciliter (0.9 mmol per liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides Level",
+            "date": "Not specified",
+            "findings": "48 mg per deciliter (0.5 mmol per liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase Level",
+            "date": "Not specified",
+            "findings": "445 U per liter (normal value, <171).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "JAK2 V617F Mutation Test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Approximately 70% cellularity, with trilineage hematopoiesis and a slightly increased myeloid-to-erythroid ratio.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "At 6-month follow-up",
+            "findings": "Ejection fraction of 50%.",
+            "changes_over_time": "In initial assessment, ejection fraction was 40%."
+        }
+    ]
+}

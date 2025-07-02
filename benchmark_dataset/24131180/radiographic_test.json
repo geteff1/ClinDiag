@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Splenomegaly, 19 cm in maximal diameter, and patency of the TIPS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the liver",
+            "date": "Not specified",
+            "findings": "Marked morphologic features of nodular cirrhosis, signs of portal hypertension, including splenomegaly (19 cm), upper abdominal varices, and a small amount of ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the abdomen",
+            "date": "Second day of hospitalization after readmission",
+            "findings": "Cirrhosis with splenomegaly (16.2 cm), a TIPS in the proper position, diffuse wall thickening within the cecum and ascending colon, pericolonic fat stranding, and surrounding subcentimeter lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

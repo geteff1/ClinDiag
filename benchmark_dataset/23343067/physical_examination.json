@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/66 mm Hg",
+                "temperature": "37.6°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "consciousness": "Drowsy but easily aroused, answered questions slowly.",
+                "cardiac_murmurs": "Pansystolic murmur loudest at the apex; diastolic murmur along the left sternal border.",
+                "abdominal_examination": "Distended abdomen, normal bowel sounds, no tenderness or masses.",
+                "catheter_sites": "Dry, without redness, drainage, or warmth."
+            },
+            "changes_over_time": "On the second day, temperature rose to 38.3°C; the examination findings were unchanged."
+        }
+    ]
+}

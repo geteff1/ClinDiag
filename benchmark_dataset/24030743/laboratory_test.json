@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Alpha-fetoprotein (AFP) test",
+            "date": "Not specified",
+            "findings": "Post-treatment AFP level was 1.3 ng/ml (normal <7.5 ng/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein (AFP) test",
+            "date": "Not specified",
+            "findings": "Pretreatment AFP level was not obtained; however, post-treatment AFP level was 1 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein (AFP) test",
+            "date": "Not specified",
+            "findings": "Pretreatment AFP level was 4410 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein (AFP) test",
+            "date": "Not specified",
+            "findings": "Normal AFP level was recorded (1 ng/ml) post-treatment, although positive for AFP immunostaining pre-treatment.",
+            "changes_over_time": "Significant reduction of tumor volume after multimodality therapy accounted for discordance between AFP expression in pretreatment tumor tissue and normal post-treatment serum AFP level."
+        }
+    ]
+}

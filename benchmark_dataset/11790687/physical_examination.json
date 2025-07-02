@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "122/70",
+                "height": "5 ft 8 in",
+                "weight": "172 lb"
+            },
+            "relevant_findings": {
+                "cholesterol": {
+                    "total": "289 mg/dL",
+                    "triglycerides": "108 mg/dL",
+                    "LDL": "205 mg/dL",
+                    "HDL": "62 mg/dL"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "139/88",
+                "waist_circumference": "44 in"
+            },
+            "relevant_findings": {
+                "cholesterol": {
+                    "total": "256 mg/dL",
+                    "triglycerides": "380 mg/dL",
+                    "LDL": "156 mg/dL",
+                    "HDL": "32 mg/dL"
+                },
+                "fasting_glucose": "115 mg/dL"
+            },
+            "changes_over_time": "Weight loss of 3 lb, physical activity changes, and reduction of alcohol led to total cholesterol of 150 mg/dL, triglycerides of 140 mg/dL, LDL of 84 mg/dL, and HDL of 38 mg/dL."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "6 ft",
+                "weight": "135 lb"
+            },
+            "relevant_findings": {
+                "cholesterol": {
+                    "total": "149 mg/dL",
+                    "triglycerides": "120 mg/dL",
+                    "LDL": "99 mg/dL",
+                    "HDL": "33 mg/dL"
+                }
+            },
+            "changes_over_time": "After diet modification, cholesterol improved to total of 162 mg/dL, triglycerides of 110 mg/dL, LDL of 98 mg/dL, and HDL of 42 mg/dL."
+        }
+    ]
+}

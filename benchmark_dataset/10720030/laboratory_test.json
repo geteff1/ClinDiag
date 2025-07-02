@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum TSH",
+            "date": "Not specified",
+            "findings": "Serum TSH concentration was determined by RIA at 27 mU/mL (normal range, 0.5–5) and more than 80 mU/mL (normal range, 0.5–5) during various evaluations.",
+            "changes_over_time": "TSH was within normal range (2.3 mU/mL) at 6 months after treatment and undetectable by a second generation assay at 12 months."
+        },
+        {
+            "procedure_name": "Serum T4",
+            "date": "Not specified",
+            "findings": "Total T4 concentration was reported as 2.1 mg/dL (normal values, 4.2–12) and below the sensitivity of the methods at other times.",
+            "changes_over_time": "Serum total and free T4 were at the upper limits of the normal range at 12 months after treatment."
+        },
+        {
+            "procedure_name": "Serum T3",
+            "date": "Not specified",
+            "findings": "Total T3 concentration was reported as 51 ng/dL (normal values, 100–210) and below the sensitivity of the methods at other times.",
+            "changes_over_time": "T3 was within normal limits at 12 months after treatment."
+        },
+        {
+            "procedure_name": "Serum Tg",
+            "date": "Not specified",
+            "findings": "Serum Tg was undetectable (<2 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid uptake (131I)",
+            "date": "Not specified",
+            "findings": "Thyroid uptake of a tracer dose of 131I was 4% at 1 h and decreased to 4%, 3%, and 2% at 2, 3, and 24 h, respectively.",
+            "changes_over_time": "No response to bovine TSH after administration, with uptake remaining low."
+        },
+        {
+            "procedure_name": "Thyroid profile",
+            "date": "A few months before first admission",
+            "findings": "Reported low total T4 (2.1 mg/dL) and T3 (51 ng/dL), T3 resin uptake was 22%, and the free T4 index was 1.6.",
+            "changes_over_time": "Changed to upper limits of normal range after 12 months of treatment."
+        },
+        {
+            "procedure_name": "Calcium, phosphorus, and alkaline phosphatase concentrations",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary iodine excretion",
+            "date": "Not specified",
+            "findings": "Urinary iodine excretion was low (66 mg/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "31.2% (reference range 36.0–46.0)",
+            "changes_over_time": "Decreased from 31.2% to 30.1%."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.1 g/dl (reference range 12.0–16.0)",
+            "changes_over_time": "No change over time."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "4940 per mm3 (reference range 4500–11,000)",
+            "changes_over_time": "Increased from 4940 to 5940 per mm3."
+        },
+        {
+            "procedure_name": "Neutrophils",
+            "date": "Not specified",
+            "findings": "76.9% (reference range 40–70)",
+            "changes_over_time": "Decreased from 76.9% to 72.5%."
+        },
+        {
+            "procedure_name": "Lymphocytes",
+            "date": "Not specified",
+            "findings": "16.6% (reference range 22–44)",
+            "changes_over_time": "Increased from 16.6% to 19.0%."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "78 U/liter (reference range 9–32)",
+            "changes_over_time": "Decreased from 78 to 54 U/liter."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "138 U/liter (reference range 7–33)",
+            "changes_over_time": "Decreased from 138 to 37 U/liter."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "233 U/liter (reference range 30–100)",
+            "changes_over_time": "Increased from 233 to 263 U/liter."
+        },
+        {
+            "procedure_name": "Total bile acids",
+            "date": "Not specified",
+            "findings": "33 μmol/liter (reference range ≤10)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "57 mg/dl (reference range 70–110)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.97 mg/dl (reference range 0.60–1.50)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

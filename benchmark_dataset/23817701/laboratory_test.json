@@ -1,0 +1,214 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "19 August 2012",
+            "findings": {
+                "Leukocyte count": "6.5 cells/L",
+                "Platelet count": "115 cells/L (decreased by 25% overnight)",
+                "Hematocrit": "43.0%",
+                "Neutrophil count": "76% (left shift)",
+                "Bilirubin level": "22.2 µmol/L (1.3 mg/dL)",
+                "AST": "71 U/L",
+                "ALT": "73 U/L",
+                "Creatinine level": "106 µmol/L (1.2 mg/dL)"
+            },
+            "changes_over_time": {
+                "Leukocyte count": [
+                    {
+                        "date": "20 August 2012",
+                        "value": "5.8 cells/L"
+                    },
+                    {
+                        "date": "21 August 2012",
+                        "value": "4.9 cells/L"
+                    },
+                    {
+                        "date": "22 August 2012",
+                        "value": "3.6 cells/L"
+                    },
+                    {
+                        "date": "23 August 2012",
+                        "value": "4.5 cells/L"
+                    },
+                    {
+                        "date": "24 August 2012",
+                        "value": "4.7 cells/L"
+                    },
+                    {
+                        "date": "18 September 2012",
+                        "value": "11.3 cells/L"
+                    }
+                ],
+                "Platelet count": [
+                    {
+                        "date": "20 August 2012",
+                        "value": "86 cells/L"
+                    },
+                    {
+                        "date": "21 August 2012",
+                        "value": "58 cells/L"
+                    },
+                    {
+                        "date": "22 August 2012",
+                        "value": "60 cells/L"
+                    },
+                    {
+                        "date": "23 August 2012",
+                        "value": "76 cells/L"
+                    },
+                    {
+                        "date": "24 August 2012",
+                        "value": "87 cells/L"
+                    },
+                    {
+                        "date": "18 September 2012",
+                        "value": "166 cells/L"
+                    }
+                ],
+                "Hematocrit": [
+                    {
+                        "date": "20 August 2012",
+                        "value": "39.1%"
+                    },
+                    {
+                        "date": "21 August 2012",
+                        "value": "41.0%"
+                    },
+                    {
+                        "date": "22 August 2012",
+                        "value": "36.7%"
+                    },
+                    {
+                        "date": "23 August 2012",
+                        "value": "37.1%"
+                    },
+                    {
+                        "date": "24 August 2012",
+                        "value": "39.6%"
+                    },
+                    {
+                        "date": "18 September 2012",
+                        "value": "42.5%"
+                    }
+                ],
+                "AST": [
+                    {
+                        "date": "20 August 2012",
+                        "value": "73 U/L"
+                    },
+                    {
+                        "date": "21 August 2012",
+                        "value": "177 U/L"
+                    },
+                    {
+                        "date": "22 August 2012",
+                        "value": "126 U/L"
+                    },
+                    {
+                        "date": "23 August 2012",
+                        "value": "101 U/L"
+                    },
+                    {
+                        "date": "24 August 2012",
+                        "value": "105 U/L"
+                    },
+                    {
+                        "date": "18 September 2012",
+                        "value": "33 U/L"
+                    }
+                ],
+                "ALT": [
+                    {
+                        "date": "20 August 2012",
+                        "value": "72 U/L"
+                    },
+                    {
+                        "date": "21 August 2012",
+                        "value": "127 U/L"
+                    },
+                    {
+                        "date": "22 August 2012",
+                        "value": "105 U/L"
+                    },
+                    {
+                        "date": "23 August 2012",
+                        "value": "92 U/L"
+                    },
+                    {
+                        "date": "24 August 2012",
+                        "value": "97 U/L"
+                    },
+                    {
+                        "date": "18 September 2012",
+                        "value": "55 U/L"
+                    }
+                ]
+            }
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "21 June 2011",
+            "findings": {
+                "Leukocyte count": "3.9 cells/L",
+                "Platelet count": "117 cells/L",
+                "Hemoglobin": "125 g/L",
+                "AST": "126 U/L (elevated)",
+                "ALT": "103 U/L (elevated)",
+                "Creatinine": "112 µmol/L (1.27 mg/dL)"
+            },
+            "changes_over_time": {
+                "Leukocyte count": [
+                    {
+                        "date": "22 June 2011",
+                        "value": "2.8 cells/L"
+                    },
+                    {
+                        "date": "23 June 2011",
+                        "value": "3.3 cells/L"
+                    }
+                ],
+                "Platelet count": [
+                    {
+                        "date": "22 June 2011",
+                        "value": "88 cells/L"
+                    },
+                    {
+                        "date": "23 June 2011",
+                        "value": "99 cells/L"
+                    }
+                ],
+                "Hemoglobin": [
+                    {
+                        "date": "22 June 2011",
+                        "value": "121 g/L"
+                    },
+                    {
+                        "date": "23 June 2011",
+                        "value": "107 g/L"
+                    }
+                ],
+                "AST": [
+                    {
+                        "date": "22 June 2011",
+                        "value": "234 U/L"
+                    },
+                    {
+                        "date": "23 June 2011",
+                        "value": "141 U/L"
+                    }
+                ],
+                "ALT": [
+                    {
+                        "date": "22 June 2011",
+                        "value": "181 U/L"
+                    },
+                    {
+                        "date": "23 June 2011",
+                        "value": "159 U/L"
+                    }
+                ]
+            }
+        }
+    ]
+}

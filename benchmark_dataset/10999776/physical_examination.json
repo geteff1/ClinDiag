@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1991",
+            "vital_signs": {
+                "estradiol": "17 pmol/L",
+                "LH": "0.44 IU/L",
+                "FSH": "0.50 IU/L"
+            },
+            "relevant_findings": {
+                "menstruation": "primary amenorrhea",
+                "secondary_sexual_characteristics": "lack"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1998",
+            "vital_signs": {
+                "LH": "0.078 IU/L",
+                "FSH": "0.36 IU/L"
+            },
+            "relevant_findings": {
+                "uterus": "normal size",
+                "left_ovary": "11 x 6 mm, few small follicles"
+            },
+            "changes_over_time": "LH and FSH levels decreased under chronic estrogen treatment"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient presented with lethargy, malaise, and a history of fever, arthralgia, and urticarial rash. Notable facial droop indicating possible facial hemiparesis.",
+            "changes_over_time": "The rash, fever, and facial droop resolved within a week, but the patient continued to experience somnolence and malaise."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Neurological evaluation indicated intermittent asymmetry with posterior right-hemisphere background slowing on EEG. MRI revealed scattered 1-2 mm punctate foci of signal abnormality in the subcortical white matter, predominantly in the frontal lobes.",
+            "changes_over_time": "Subsequent CT and EEG findings were reportedly normal, but the initial EEG showed abnormal activity."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was noted to have markedly positive serum titers for Borrelia burgdorferi (Lyme disease). CSF was notable for normal protein and glucose content, with mild IgG reactivity.",
+            "changes_over_time": "After treatment with intravenous ceftriaxone, repeat Lyme serologies indicated higher than normal titers, and CSF revealed the presence of IgM antibodies consistent with acute Borrelia infection."
+        }
+    ]
+}

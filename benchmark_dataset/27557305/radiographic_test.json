@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiographs of the lumbosacral spine",
+            "date": "Not specified",
+            "findings": "Lytic lesion involving L5 with destruction of the left pedicle and central portions of the vertebral body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Involvement of the lamina and presence of a very large, hypervascular paraspinal mass extending into and filling the spinal canal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Indeterminate nodule (3 mm in diameter) in the left upper lobe; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radionuclide bone scan",
+            "date": "Not specified",
+            "findings": "High uptake between L5 and the first sacral vertebra (S1).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up CT scans",
+            "date": "Five months after tumor resection",
+            "findings": "Local recurrence at the tumor bed; lung metastases noted.",
+            "changes_over_time": "The mass had increased in size; lung nodules developed or grew."
+        },
+        {
+            "procedure_name": "Follow-up CT scans",
+            "date": "Five months after radiotherapy",
+            "findings": "Mass of L5–S1 decreased in size by more than 50%; duodenal metastasis reduced by more than 80%.",
+            "changes_over_time": "Chest CT revealed enlarging lung metastases."
+        },
+        {
+            "procedure_name": "Follow-up lung CT scan",
+            "date": "Six years after denosumab therapy began",
+            "findings": "Lung nodule remained stable.",
+            "changes_over_time": "No new lesions developed."
+        }
+    ]
+}

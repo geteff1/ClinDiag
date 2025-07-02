@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ventilation–perfusion scan",
+            "date": "14 months before this evaluation",
+            "findings": "High probability of pulmonary emboli suggested",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bone marrow biopsy and aspiration",
+            "date": "11 months before this evaluation",
+            "findings": "Dysplasia in erythroid precursors and megakaryocytes; no ring sideroblasts; 2% blasts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bone marrow biopsy and aspiration",
+            "date": "5 months after the initiation of lenalidomide",
+            "findings": "15% cellular, increased erythropoiesis, morphologically normal megakaryocytes; near-complete cytogenetic response",
+            "changes_over_time": "Indicates improvement from previous dysplastic findings"
+        },
+        {
+            "procedure_name": "bone marrow biopsy and aspiration",
+            "date": "5 years after the initial evaluation",
+            "findings": "Recurrent morphologic dysplasia with abnormal hypogranulated myeloid cells; 11% myeloblasts",
+            "changes_over_time": "Indicates progression to refractory anemia with excess blasts (RAEB2)"
+        },
+        {
+            "procedure_name": "bone marrow sample",
+            "date": "After signs of recurrent anemia and thrombocytopenia",
+            "findings": "32% myeloblasts, confirming evolution to acute myeloid leukemia (AML)",
+            "changes_over_time": "Indicates progression from myelodysplastic syndrome to AML"
+        }
+    ]
+}

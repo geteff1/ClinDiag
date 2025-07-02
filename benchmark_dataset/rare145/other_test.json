@@ -1,0 +1,45 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Long-leg anteroposterior radiographs",
+            "date": "Not specified",
+            "findings": "Severe genu valgum of the right knee with a hip-knee-ankle angle (HKAa) of valgus 29.0°, grade IV osteoarthritic changes in the lateral femorotibial compartment, and laterally dislocated patella.",
+            "changes_over_time": [
+                {
+                    "timeframe": "Postoperative day 21",
+                    "findings": "HKAa of valgus 16° on the right and left knees."
+                },
+                {
+                    "timeframe": "1-year follow-up",
+                    "findings": "HKAa of valgus 13° on the right and 17° on the left knees."
+                },
+                {
+                    "timeframe": "Annual follow-up",
+                    "findings": "HKAa of valgus 11° on the right and 16° on the left knees."
+                },
+                {
+                    "timeframe": "5-year follow-up",
+                    "findings": "HKAa of valgus 11° on the right and 17° on the left knees."
+                }
+            ]
+        },
+        {
+            "procedure_name": "Computed tomography of the knee",
+            "date": "Not specified",
+            "findings": "Tibial tuberosity to trochlear groove distance of 41.3 mm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Knee Society Knee score and Function score assessment",
+            "date": "Not specified",
+            "findings": "Preoperative knee score was 20/30, and functional score was 60/60 on the right and left knees, respectively; improved to 60/50 and 85/85 on the right and left knees, respectively, at 5 years.",
+            "changes_over_time": "Improved from 20/30 preoperatively to 60/50 postoperatively on the right knee and from 60/60 preoperatively to 85/85 on the left knee at the latest follow-up."
+        },
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Manual muscle testing showed grade 3/4 on both knees, range of motion (ROM) was 20°-150°, patella was laterally dislocated during knee flexion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

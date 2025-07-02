@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": {
+                "hyponatremia": "129 mmol/L",
+                "AST": "184 U/L",
+                "ALT": "124 U/L",
+                "leukopenia": "1.1 × 10^3 cells/µL",
+                "thrombocytopenia": "59.0 × 10^3 platelets/µL",
+                "hemoglobin": "16.8 g/dL",
+                "prothrombin_time": "13.7 seconds"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "thrombocytopenia_nadir": "24 × 10^3 platelets/µL on hospital day 8",
+                "hemoglobin_nadir": "8.7 g/dL on hospital day 14",
+                "WBC_count_normalization": "On hospital day 10",
+                "platelet_count_peak": "116 × 10^3 platelets/µL on hospital day 15",
+                "immature_platelet_fraction": "25.2% (normal range, 0.9% – 7.0%)"
+            },
+            "changes_over_time": "Worsening thrombocytopenia, persistent leukopenia."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "On hospital day 4",
+            "findings": {
+                "AST_peak": "626 U/L",
+                "ALT_peak": "166 U/L"
+            },
+            "changes_over_time": "Increased AST and ALT peaking on hospital day 4."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "On hospital day 5",
+            "findings": {
+                "LDH_peak": "1801 U/L"
+            },
+            "changes_over_time": "LDH elevated, peaked on hospital day 5."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On hospital day 12",
+            "findings": {
+                "creatinine_peak": "4.1 mg/dL"
+            },
+            "changes_over_time": "Creatinine elevated, peaked on hospital day 12."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "proteinuria": "Yes",
+                "microscopic_hematuria": "Yes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

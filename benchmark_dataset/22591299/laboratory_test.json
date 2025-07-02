@@ -1,0 +1,86 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "61 mm per hour (reference range for women, 0 to 25).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Protein",
+            "date": "Not specified",
+            "findings": "9.4 g per deciliter (reference range, 6.0 to 8.0).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Globulin",
+            "date": "Not specified",
+            "findings": "5.6 g per deciliter (reference range, 2.6 to 4.1).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "300 U per liter (reference range, 7 to 30).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "265 U per liter (reference range, 9 to 25).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "On Admission",
+            "findings": {
+                "Color": "Colorless",
+                "Turbidity": "Clear",
+                "Red-cell count (per mm3) Tube 1": "0",
+                "White-cell count (per mm3) Tube 1": "8",
+                "White-cell count (per mm3) Tube 4": "13",
+                "Protein (mg/dl)": "71",
+                "Glucose (mg/dl)": "<20"
+            },
+            "changes_over_time": {
+                "27 Mo Later": {
+                    "Red-cell count (per mm3) Tube 1": "191",
+                    "White-cell count (per mm3) Tube 1": "30",
+                    "White-cell count (per mm3) Tube 4": "21",
+                    "Protein (mg/dl)": "85",
+                    "Glucose (mg/dl)": "<20"
+                }
+            }
+        },
+        {
+            "procedure_name": "Testing for HBsAg",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG Level",
+            "date": "Not specified",
+            "findings": "2670 mg per deciliter (reference range, 614 to 1295).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgA Level",
+            "date": "Not specified",
+            "findings": "460 mg per deciliter (reference range, 69 to 309).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgM Level",
+            "date": "Not specified",
+            "findings": "390 mg per deciliter (reference range, 53 to 334).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Culture",
+            "date": "Not specified",
+            "findings": "No bacteria, acid-fast bacilli, or fungi seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

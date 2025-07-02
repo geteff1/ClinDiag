@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "Fecal material throughout the colon, distention of the small bowel, gaseous distention of the stomach, and no air–fluid levels.",
+            "changes_over_time": "On follow-up, abdominal radiographs showed resolution of gastric and small-bowel dilatation after disimpaction."
+        },
+        {
+            "procedure_name": "CT scan of abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Massive dilatation of the stomach and distal small bowel, abundant stool without any transition point, minimal ascites.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiograph of the left hand",
+            "date": "Two weeks after admission",
+            "findings": "Bone age of 15 years 6 months, indicating delayed skeletal maturation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Normal pituitary gland, mildly prominent ventricles and sulci suggesting loss of cerebral volume.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Three days after initial admission",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "August 15, 2017",
+            "findings": "ECG shows ST-segment elevation myocardial infarction due to proximal left anterior descending coronary artery (LAD) occlusion located before the first diagonal (D1) and first septal (S1) branches.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "August 15, 2017",
+            "findings": "Confirmed proximal left anterior descending coronary artery (LAD) occlusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous Coronary Intervention",
+            "date": "August 15, 2017",
+            "findings": "Implantation of 2 stents: 1 in the proximal LAD (Xience 3×23 mm) and the other in the mid-LAD (Xience 2.5×18 mm) with very good results.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

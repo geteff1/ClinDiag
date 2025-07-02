@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper gastrointestinal endoscopy",
+            "date": "Not specified",
+            "findings": "Fundic gland polyposis detected endoscopically, no adenomas/dysplasia or carcinomas were found in the stomach or duodenum.",
+            "changes_over_time": "High-grade dysplasia detected in a biopsy when the patient was 46 years old, prior imaging showed no dysplasia."
+        },
+        {
+            "procedure_name": "Biopsy of gastric body",
+            "date": "Not specified (diagnosed at age 46)",
+            "findings": "Two large high-grade dysplasia lesions in the gastric body, showing dysplastic epithelium covering non-neoplastic oxyntic glands.",
+            "changes_over_time": "Biopsy showed high-grade dysplasia after previous endoscopy did not indicate any dysplasia or carcinomas."
+        }
+    ]
+}

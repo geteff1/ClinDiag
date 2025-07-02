@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Tumor was a hard, yellowish mass that was entirely extradural and densely adherent to the dural surface.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological Examination",
+            "date": "Not specified",
+            "findings": "Demonstrated fragments of fibrous tissue infiltrated by large numbers of foamy histiocytes with cholesterol clefts, surrounded by multinucleated giant cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative Imaging (MRI)",
+            "date": "14 months after surgery",
+            "findings": "The mass on the left side had minimally increased in size (~0.5 cm) and the lesion remnants on the right side remained unchanged.",
+            "changes_over_time": "The mass on the left side increased in size, while the right side remained unchanged."
+        }
+    ]
+}

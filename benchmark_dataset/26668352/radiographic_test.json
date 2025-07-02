@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Concerns for metastatic disease in the liver and possible lytic lesions in the iliac bones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Multiple, rounded, enhancing lesions of varying sizes in the liver, compatible with metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided biopsy",
+            "date": "Not specified",
+            "findings": "Demonstrated fibroblastic tissue with moderate mixed inflammatory infiltrate with no evidence of malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

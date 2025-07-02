@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2 Years before Admission",
+            "findings": "47.1% (normal range: 41.0–53.0 for men)",
+            "changes_over_time": "Decreased to 29.0% six weeks before admission, increased to 34.1% on admission, and slightly increased to 34.6% four weeks after discharge."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "2 Years before Admission",
+            "findings": "16.7 g/dL (normal range: 13.5–17.5 for men)",
+            "changes_over_time": "Decreased to 10.0 g/dL six weeks before admission, increased to 11.8 g/dL on admission, and decreased to 11.5 g/dL four weeks after discharge."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 Years before Admission",
+            "findings": "7500 per mm² (normal range: 4500–11,000)",
+            "changes_over_time": "Decreased to 3900 per mm² six weeks before admission, increased to 4800 per mm² on admission, and increased to 7000 per mm² four weeks after discharge."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "2 Years before Admission",
+            "findings": "573,000 per mm³ (normal range: 150,000–400,000)",
+            "changes_over_time": "Decreased to 408,000 per mm³ six weeks before admission, increased to 447,000 per mm³ on admission, and decreased to 330,000 per mm³ four weeks after discharge."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "2 Years before Admission",
+            "findings": "1.0 mg/dL (normal range: 0.60–1.50)",
+            "changes_over_time": "Increased to 1.54 mg/dL six weeks before admission, decreased to 1.34 mg/dL on admission, and decreased to 1.25 mg/dL four weeks after discharge."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "CSF protein: 112 mg/dL (normal range: 5–55), white-cell count: 4/mm³, glucose: 68 mg/dL (normal range: 50–75), IgG: 17.4 mg/dL (normal range: 0–8.0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ascitic Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Protein: 4200 mg/dL (normal range: 5–55), glucose: 100 mg/dL, white-cell count: 106/mm³ with 18% neutrophils, 14% lymphocytes, and 15% monocytes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Vascular Endothelial Growth Factor (VEGF)",
+            "date": "Not specified",
+            "findings": "Normal level not specified; reported to be 1005 pg/ml (normal range: 31 to 86) after diagnosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Testosterone",
+            "date": "2 Years before Admission",
+            "findings": "86 ng/dL (normal range: 270–1070 for men)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

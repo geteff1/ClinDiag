@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "median_motor_conduction_velocity": "21 m/s",
+                    "ulnar_motor_conduction_velocity": "19 m/s",
+                    "peroneal_motor_response": "not evoked",
+                    "median_sensory_response": "absent",
+                    "sural_nerve_response": "absent"
+                },
+                "Patient 2": {
+                    "median_motor_conduction_velocity": "19 m/s",
+                    "ulnar_motor_conduction_velocity": "18 m/s",
+                    "peroneal_motor_response": "not evoked",
+                    "median_sensory_response": "absent",
+                    "sural_nerve_response": "not evoked"
+                },
+                "Patient 3": {
+                    "median_motor_response": "not evoked",
+                    "ulnar_motor_conduction_velocity": "18 m/s",
+                    "peroneal_motor_response": "not evoked",
+                    "median_sensory_response": "not evoked",
+                    "sural_nerve_response": "not evoked"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical examination",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "CSF_protein": "114 mg/dL"
+                },
+                "Patient 2": {
+                    "serum_IgM": "379 mg/dL",
+                    "serum_IgG": "2440 mg/dL",
+                    "CSF_protein": "73 mg/dL"
+                },
+                "Patient 3": {
+                    "serum_IgM": "274 mg/dL",
+                    "CSF_protein": "110 mg/dL"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve pathology",
+            "date": "Not specified",
+            "findings": {
+                "fiber_loss": "severe",
+                "myelin_folding": "irregular",
+                "large_myelinated_fiber_density": {
+                    "Patient 1": "560/mm2",
+                    "Patient 2": "444/mm2",
+                    "Patient 3": "738/mm2"
+                },
+                "small_myelinated_fiber_density": {
+                    "Patient 1": "106/mm2",
+                    "Patient 2": "597/mm2",
+                    "Patient 3": "513/mm2"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

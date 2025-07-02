@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "FT4: 37.6 pmol/L (normal range 12.0–25.0); FT3: 2.60 pmol/L (normal range 3.6–8.5); TSH: 1.4 mU/L (normal).",
+            "changes_over_time": "Thyroid function test abnormalities (high serum T4 and low T3 concentrations in the presence of a normal serum TSH level) were persistent during the initial 7-month period of observation."
+        },
+        {
+            "procedure_name": "Blood selenium",
+            "date": "Not specified",
+            "findings": "Low serum selenium levels.",
+            "changes_over_time": "No changes in serum selenium levels observed despite treatment with sodium selenite for 6 months and later selenomethionine for 4 months."
+        },
+        {
+            "procedure_name": "Growth hormone test",
+            "date": "Not specified",
+            "findings": "Peak GH response: 11.2 mU/L; Cortisol: 668 nmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glutathione peroxidase (GPx) activity",
+            "date": "Not specified",
+            "findings": "Proband: Serum GPx: 7 mU/mL; Leukocytes GPx: 0.61 mU/mg protein. Both parents were normal with significantly higher values.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

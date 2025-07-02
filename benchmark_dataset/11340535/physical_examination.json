@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "July 1996",
+            "vital_signs": {
+                "plasma HIV-1 RNA level": "<500 copies/mL",
+                "CD4 T cell count": "474 cells/mm3"
+            },
+            "relevant_findings": "History of high-frequency hearing loss; tinnitus; declining hearing documented from 1986 to 1995.",
+            "changes_over_time": "Hearing continued to decline with severe bilateral sensorineural hearing loss noted over time; marked decline in hearing reported in the following months."
+        },
+        {
+            "date": "December 1996",
+            "vital_signs": {
+                "HIV-1 RNA level": "Well controlled",
+                "CD4 T cell count": "1400 cells/mm3"
+            },
+            "relevant_findings": "Developed deep venous thrombosis leading to change in antiretroviral therapy.",
+            "changes_over_time": "Overall progression of hearing loss evident with fluctuations in audiology testing over the next 2 years."
+        },
+        {
+            "date": "May 1998",
+            "vital_signs": {
+                "HIV-1 RNA level": "Undetectable",
+                "CD4 T cell count": "1300 cells/mm3"
+            },
+            "relevant_findings": "Reported stable, mild hearing loss and tinnitus since 1966; audiologic testing revealed moderately severe bilateral hearing loss.",
+            "changes_over_time": "Severe tinnitus developed along with deterioration of hearing noted."
+        },
+        {
+            "date": "January 1999",
+            "vital_signs": {
+                "HIV-1 RNA level": "Undetectable",
+                "CD4 T cell count": "Not specified"
+            },
+            "relevant_findings": "Simultaneous onset of burning pain in feet and severe tinnitus.",
+            "changes_over_time": "Peripheral neuropathy and tinnitus improved upon stopping antiretroviral medications."
+        },
+        {
+            "date": "April 1999",
+            "vital_signs": {
+                "HIV-1 RNA level": "Undetectable",
+                "CD4 T cell count": "Not specified"
+            },
+            "relevant_findings": "Neuropathy and tinnitus worsened after resuming antiretroviral therapy.",
+            "changes_over_time": "No significant progression in severe hearing loss noted over past 2 years based on audiology testing."
+        },
+        {
+            "date": "October 1998",
+            "vital_signs": {
+                "CD4 T cell count": "225 cells/mm3",
+                "CD4 percentage": "13%",
+                "HIV-1 RNA level": "4604 copies/mL"
+            },
+            "relevant_findings": "History of stable hearing loss in left ear since early 1970s.",
+            "changes_over_time": "New onset of tinnitus and worsening hearing noted approximately 4 months after starting antiretroviral therapy; slight improvement after changing medications."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Mild hearing loss in right ear and moderately severe in left ear.",
+            "changes_over_time": "Unchanged hearing loss documented during a 2-month assessment period."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "42.6% (normal range 41.0–53.0%)",
+            "changes_over_time": "Decreased from 42.6% to 39.0%"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "14.6 g/dL (normal range 13.5–17.5 g/dL)",
+            "changes_over_time": "Decreased from 14.6 g/dL to 13.5 g/dL"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "5900 per mm³ (normal range 4500–11,000 per mm³)",
+            "changes_over_time": "Increased from 5900 to 12,000 per mm³"
+        },
+        {
+            "procedure_name": "Neutrophils",
+            "date": "Not specified",
+            "findings": "69.5% (normal range 40–70%)",
+            "changes_over_time": "Increased from 69.5% to 73.8%"
+        },
+        {
+            "procedure_name": "Lymphocytes",
+            "date": "Not specified",
+            "findings": "17.0% (normal range 22–44%)",
+            "changes_over_time": "Decreased from 17.0% to 13.5%"
+        },
+        {
+            "procedure_name": "Monocytes",
+            "date": "Not specified",
+            "findings": "8.5% (normal range 4–11%)",
+            "changes_over_time": "Decreased from 8.5% to 8.4%"
+        },
+        {
+            "procedure_name": "Eosinophils",
+            "date": "Not specified",
+            "findings": "4.6% (normal range 0–8%)",
+            "changes_over_time": "Decreased from 4.6% to 3.6%"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "134,000 per mm³ (normal range 150,000–400,000 per mm³)",
+            "changes_over_time": "Increased from 134,000 to 192,000 per mm³"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "14.2 sec (normal range 11.0–14.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.97 mg/dL (normal range 0.60–1.50 mg/dL)",
+            "changes_over_time": "Increased from 0.97 mg/dL to 1.36 mg/dL"
+        },
+        {
+            "procedure_name": "Estimated glomerular filtration rate",
+            "date": "Not specified",
+            "findings": ">60 ml/min/1.73 m2",
+            "changes_over_time": "Decreased from >60 to 52 ml/min/1.73 m2"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "139 mg/dL (normal range 70–110 mg/dL)",
+            "changes_over_time": "Increased from 139 mg/dL to 290 mg/dL"
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL (normal range 1.7–2.4 mg/dL)",
+            "changes_over_time": "Decreased from 1.7 mg/dL to 1.6 mg/dL"
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "<0.01 ng/ml (normal range <0.03 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac electrogram",
+            "date": "Not specified",
+            "findings": "1.5 mV (normal value >4 mV)",
+            "changes_over_time": "Decreased from 11.2 mV to 1.5 mV"
+        },
+        {
+            "procedure_name": "Lead impedance",
+            "date": "Not specified",
+            "findings": "240 ohms (normal range 300–1200 ohms)",
+            "changes_over_time": "Decreased from 640 ohms to 240 ohms"
+        },
+        {
+            "procedure_name": "Capture threshold",
+            "date": "Not specified",
+            "findings": "Failure to capture (output 10 V; pulse width 1.5 msec)",
+            "changes_over_time": "Failed to capture compared to normal capture on previous tests"
+        }
+    ]
+}

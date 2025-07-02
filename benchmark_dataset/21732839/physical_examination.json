@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.0°C (102.2°F)",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "138/60 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "maxillary_sinus_tenderness": "Not present",
+                "lymphadenopathy": "Not present",
+                "cardiac_findings": "2/6 holosystolic murmur at the left sternal border without radiation",
+                "abdominal_findings": "Diffusely tender on palpation, no distention, rebound, or guarding; liver span normal; spleen not palpable; guaiac-negative stool",
+                "skin_findings": "No rash",
+                "joint_examination": "No evidence of synovitis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdominal_imaging": "CT and MRI scans showing intimal thickening and enhancement in the abdominal aorta",
+                "temporal_artery_biopsy": "Dense inflammatory infiltrates consistent with giant-cell arteritis"
+            },
+            "changes_over_time": "Initial imaging showed thickening and enhancement, which resolved after glucocorticoid therapy"
+        }
+    ]
+}

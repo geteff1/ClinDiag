@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height (cm): Not specified; Weight (kg): Not specified; Other vital signs: Not specified.",
+            "relevant_findings": "Exam revealed bilateral axillary lymphadenopathy; otherwise normal examination.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "3 weeks after initial evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Exam was normal.",
+            "changes_over_time": "No change reported in the condition, remained well."
+        },
+        {
+            "date": "5 months after presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Exam was normal.",
+            "changes_over_time": "Mild cough developed, but adherence to medication remained good."
+        },
+        {
+            "date": "8 weeks after the regimen change",
+            "vital_signs": "Weight increased, exact kg not specified.",
+            "relevant_findings": "CD4 T-count was 193 cells/mm3 and viral load dropped to 150 RNA copies/mL.",
+            "changes_over_time": "Patient was reportedly doing well after the regimen change."
+        }
+    ]
+}

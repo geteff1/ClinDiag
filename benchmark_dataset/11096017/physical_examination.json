@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "HIV viral load: 98,982 copies/mL; CD4 lymphocyte count: 177 cells/mm3",
+            "relevant_findings": "Progressive bilateral hip pain; radiological studies confirmed osteonecrosis of both femoral heads.",
+            "changes_over_time": "Symptoms resolved after conservative treatment, but no progressive changes on radiography mentioned."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "HIV viral load: 288 copies/mL; CD4 lymphocyte count: 396 cells/mm3",
+            "relevant_findings": "Pain in both hips, shoulders, and right knee; radiological evaluation revealed widespread osteonecrosis.",
+            "changes_over_time": "Pain progressed during the next year."
+        },
+        {
+            "date": "August 1998",
+            "vital_signs": "HIV viral load: 1500,000 copies/mL; CD4 lymphocyte count: 352 cells/mm3",
+            "relevant_findings": "Bilateral hip and thigh pain; radiological examinations confirmed osteonecrosis of the left femoral head.",
+            "changes_over_time": "Dramatic reduction in viral load and increase in CD4 count after therapy, but severe pain developed within 2 months."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Initial HIV viral load: 28,000 copies/mL; CD4 lymphocyte count: 374 cells/mm3",
+            "relevant_findings": "New onset of right hip pain; radiographs revealed changes consistent with osteonecrosis of the right femoral head.",
+            "changes_over_time": "CD4 lymphocyte count dropped to 18 cells/mm3, and no complaints of hip pain recorded initially."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "HIV viral load: 96,639 copies/mL; CD4 lymphocyte count: 25 cells/mm3",
+            "relevant_findings": "Severe pain in the left hip; radiographs revealed osteonecrosis of both femoral heads.",
+            "changes_over_time": "Viral load dropped to 1143 copies/mL and CD4 count increased to 79 cells/mm3 one month post-initiation of antiretroviral therapy."
+        }
+    ]
+}

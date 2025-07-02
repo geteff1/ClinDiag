@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Antinuclear antibody test",
+            "date": "Not specified",
+            "findings": "Positive at a titer of 1:2560 with a homogeneous pattern.",
+            "changes_over_time": "Positive at the same titer 26 days before admission and again at admission."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2 Days before Admission",
+            "findings": "34.7%",
+            "changes_over_time": "Increased to 35.7% on admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 Days before Admission",
+            "findings": "4,200 per mm³",
+            "changes_over_time": "Increased to 7,500 per mm³ on admission."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "2 Days before Admission",
+            "findings": "41 mm/hr",
+            "changes_over_time": "Increased to 44 mm/hr on admission."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "2 Days before Admission",
+            "findings": "12.5 seconds",
+            "changes_over_time": "Increased to 12.8 seconds on admission."
+        },
+        {
+            "procedure_name": "Partial-thromboplastin time",
+            "date": "2 Days before Admission",
+            "findings": "46.0 seconds",
+            "changes_over_time": "Increased to 48.0 seconds on admission."
+        },
+        {
+            "procedure_name": "Urine Sediment",
+            "date": "2 Days before Admission",
+            "findings": "10–20 white cells, 0–2 red cells per high-power field, 0–2 hyaline casts per low-power field, a few bacteria.",
+            "changes_over_time": "Positive for albumin; contained 20–50 red cells and 100 white cells, 3–5 hyaline casts, and a few bacteria on admission."
+        },
+        {
+            "procedure_name": "Anti-double-stranded DNA antibody test",
+            "date": "Not specified",
+            "findings": "Positive at a titer of 1:1280 upon follow-up.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complement levels (C3 and C4)",
+            "date": "Not specified",
+            "findings": "Low levels of C3 and C4.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

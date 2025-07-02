@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "5 years before presentation",
+            "findings": "large mediastinal mass and left pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "5 years before presentation",
+            "findings": "anterior mediastinal soft-tissue mass measuring 10.0 cm craniocaudally, 10.1 cm transversely, and 5.0 cm anteroposteriorly, left pleural soft-tissue nodules, pleural effusion, and associated atelectasis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "13 months after initial presentation",
+            "findings": "new nodular left pleural thickening, suggestive of metastatic disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "13 days before presentation",
+            "findings": "pleural and pulmonary nodules stable, consistent with known thoracic metastases",
+            "changes_over_time": "pleural and pulmonary nodules had not changed"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "13 days before presentation",
+            "findings": "mild circumferential wall thickening of the sigmoid colon and prominence of the vasa recta, suggestive of inflammation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

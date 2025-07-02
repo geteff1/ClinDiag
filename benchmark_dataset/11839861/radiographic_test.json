@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "fMRI",
+            "date": "Not specified",
+            "findings": "Initial fMRI showed right temporal primary auditory cortex activation with no activation over the left temporal lobe. The second fMRI showed bilateral activation but with a left-sided predominance for receptive and expressive language areas.",
+            "changes_over_time": "The first fMRI revealed activation over the right temporal lobe, while the second fMRI activated predominantly the left temporal lobe."
+        },
+        {
+            "procedure_name": "Ictal SPECT",
+            "date": "Not specified",
+            "findings": "Increased radiopharmaceutical uptake in the entire left temporal lobe, operculum, and insula.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Left hippocampal sclerosis associated with anterior temporal cortical dysplasia involving the parahippocampal and inferior temporal gyrus up to 5 cm from the temporal tip.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

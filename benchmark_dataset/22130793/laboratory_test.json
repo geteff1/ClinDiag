@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "IGF-I",
+            "date": "Not specified",
+            "findings": "Elevated plasma IGF-I at 253 ng/ml (RR 54–161) and peaked at 1033 ng/ml (RR 223–972) during puberty.",
+            "changes_over_time": "Persistently elevated levels of plasma IGF-I throughout various ages."
+        },
+        {
+            "procedure_name": "IGFBP-3",
+            "date": "Not specified",
+            "findings": "Elevated IGFBP-3 at 3.85 mg/liter (RR 1.5–3).",
+            "changes_over_time": "High-normal levels during puberty."
+        },
+        {
+            "procedure_name": "GH levels",
+            "date": "Not specified",
+            "findings": "GH levels high on spontaneous overnight sampling and stimulation with clonidine (peak 216 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fasting glucose",
+            "date": "Not specified",
+            "findings": "Fasting glucose of 17.7 mmol/liter (RR 3.5–5.5).",
+            "changes_over_time": "Indicated relative insulin deficiency for ambient glucose levels."
+        },
+        {
+            "procedure_name": "C-peptide",
+            "date": "Not specified",
+            "findings": "C-peptide of 0.64 nmol/liter (RR 0.2–0.65).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "Not specified",
+            "findings": "Insulin of 77 pmol/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dual-emission x-ray absorptiometry (bone mineral content)",
+            "date": "Not specified",
+            "findings": "Bone mineral content measured at 1.3 kg, low for lean tissue mass (SDS /H110022.9).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

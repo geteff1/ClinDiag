@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiography of the chest",
+            "date": "Not specified",
+            "findings": "Nodular opacity at the apex of the right lung, unchanged from previous studies; new ill-defined opacities at the lung bases suggesting possible multifocal pneumonia.",
+            "changes_over_time": "Nodular opacity unchanged from previous studies."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Calcified granuloma at the right apex; evidence of bronchiectasis.",
+            "changes_over_time": "Plans were made for annual surveillance with CT."
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Mildly increased enhancement of the gallbladder wall; pericholecystic fluid; scattered subcentimeter hypodensities in the liver most likely representing simple cysts; bilateral small pleural effusions and trace peritoneal fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT of the chest",
+            "date": "On fifth hospital day",
+            "findings": "Bilateral pleural effusions larger than on admission.",
+            "changes_over_time": "Pleural effusions increased in size compared to admission."
+        },
+        {
+            "procedure_name": "Gadolinium-enhanced MRI of the cervical, thoracic, and lumbar spine",
+            "date": "On fifth hospital day",
+            "findings": "No evidence of diskitis, osteomyelitis, or epidural abscesses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gadolinium-enhanced MRI of the liver",
+            "date": "On fifth hospital day",
+            "findings": "Scattered subcentimeter simple hepatic cysts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up ultrasonography of the scrotum",
+            "date": "10 days after the first ultrasound",
+            "findings": "New engorgement of testicular vessels, more pronounced on the left; heterogeneous echotexture of both testes.",
+            "changes_over_time": "Suggestive of epididymo-orchitis."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Hyperintensity predominantly in the posterior region of the brain; mild adjacent leptomeningeal enhancement.",
+            "changes_over_time": "Findings improved on subsequent MRI."
+        }
+    ]
+}

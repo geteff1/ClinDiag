@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "30 January 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient admitted for treatment of right leg-stump infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "25 January 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Culture of stump drainage fluid grew MRSA resistant to most antibiotics tested but susceptible to vancomycin and rifampin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "26 April 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cultures indicated the presence of MRSA in the patient's nares.",
+            "changes_over_time": "No change specified after therapy, MRSA persisted despite treatment."
+        },
+        {
+            "date": "11 September 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Culture of patient's nares failed to grow MRSA.",
+            "changes_over_time": "Concurrent culture of patient's wife's nares grew MRSA for the first time."
+        },
+        {
+            "date": "30 October 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient developed another bout of MRSA infection in his leg stump despite a negative nares culture result.",
+            "changes_over_time": "MRSA infection occurred despite previously negative cultures."
+        },
+        {
+            "date": "6 February 2002",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient presented with a new pressure ulcer above the right leg stump. No evidence of MRSA infection around the ulcer.",
+            "changes_over_time": "Initial ulcer with no MRSA infection."
+        }
+    ]
+}

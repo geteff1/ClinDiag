@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "134/70 mm Hg",
+                "pulse": "109 bpm",
+                "height": "158 cm (25–50th percentile)",
+                "weight": "52.6 kg (25th percentile)"
+            },
+            "relevant_findings": {
+                "thyroid": {
+                    "size": "twice enlarged (20 g)",
+                    "goiter": "confirmed"
+                },
+                "behavioral": {
+                    "hyperkinetic": true
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "September 2001",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "height": "Not specified",
+                "weight": "Not specified"
+            },
+            "relevant_findings": {
+                "thyroid": {
+                    "goiter": "diffusely enlarged"
+                },
+                "thyroid_function_tests": {
+                    "TSH": "2.5 mU/liter (normal range, 0.3–4.6)",
+                    "free_T4": "3.0 ng/dl (normal range, 0.7–1.5)",
+                    "free_T3": "1070 pg/dl (normal range, 200–440)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

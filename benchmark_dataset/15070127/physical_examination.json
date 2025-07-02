@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": "Severe dysarthria, subnormal overall mental status, loss of vision in left eye, continuous severe dystonic movements in face, tongue, neck, trunk, and upper and lower extremities while at rest. Generalized rigidity, hyperreflexia, bilateral foot deformities. BFM Dystonia Rating Scale score: 112 (maximum 120 points).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 months post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Marked improvement in motor functioning and dystonic symptoms. Ability to stand independently and walk with aid of walker. BFM Dystonia Rating Scale score improved to 22.5 points (80% improvement).",
+            "changes_over_time": "Significant improvement in motor function and reduction in dystonic symptoms noted 3 months post-surgery compared to pre-surgery."
+        },
+        {
+            "date": "1 year post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Dystonia still well suppressed with the same stimulation parameters.",
+            "changes_over_time": "Continued suppression of dystonic symptoms at one year post-surgery compared to 3 months post-surgery."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Low hemoglobin level (12.0 g/dl; normal range 13.5–17.5).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Leukocyte Count",
+            "date": "Not specified",
+            "findings": "Leukocytosis of 18,700 per cubic millimeter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aspartate Transaminase Level",
+            "date": "Not specified",
+            "findings": "Aspartate transaminase level of 42 IU/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Spot Urine Porphobilinogen (PBG)",
+            "date": "Not specified",
+            "findings": "Normal (1.9 mg/L; normal range 0.0–2.0 mg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Spot Urine Delta-Aminolevulinic Acid (ALA Delta)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Porphyrin Fractionation",
+            "date": "Not specified",
+            "findings": "Elevated coproporphyrin I (163 µg/L; normal range 0–15 µg/L) and coproporphyrin III (778 micrograms per liter; normal range 0–49 µg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-h Stool Porphyrin Fractions Panel",
+            "date": "Not specified",
+            "findings": "Elevated coproporphyrin III: coproporphyrin I (CIII: CI) ratio (2.94; normal range <1.20).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

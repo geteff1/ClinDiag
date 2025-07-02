@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Multiple foci of leptomeningeal nodular enhancement of the brainstem and cerebellum; multiple acute infarcts within the midbrain and pons.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the cervical spine",
+            "date": "Not specified",
+            "findings": "No hyperintensity within the visualized portion of the cord.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "4-mm punctate T2 hyperintensity in the pancreatic body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT head",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography head",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET CT",
+            "date": "Not specified",
+            "findings": "L3 pedicle lesion suspicious for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

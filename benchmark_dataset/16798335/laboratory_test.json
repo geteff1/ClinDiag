@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ventilatory Function Test",
+            "date": "Not specified",
+            "findings": {
+                "forced_expiratory_volume": "1.63 L (54%)",
+                "forced_vital_capacity": "1.85 L (44%)",
+                "total_lung_capacity": "3.08 L (56%)",
+                "expiratory_reserve_volume": "0.42 L (46%)",
+                "functional_residual_capacity": "1.37 L (47%)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

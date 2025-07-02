@@ -1,0 +1,89 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Sampling for LH and FAS Levels",
+            "date": "Not specified",
+            "findings": {
+                "LH": {
+                    "mean_level": "2.0 ± 0.1 mIU/mL",
+                    "pulse_count": 5,
+                    "amplitude": "1.2 ± 0.1"
+                },
+                "FAS": {
+                    "mean_level": "122.2 ± 1.8 ng/L",
+                    "pulse_count": 4,
+                    "amplitude": "43.0 ± 4.6"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH Administration at 75 ng/kg",
+            "date": "Not specified",
+            "findings": {
+                "LH": {
+                    "mean_level": "12.9 ± 1.2 IU/L",
+                    "FSH_mean": "15.2 ± 0.5 IU/L"
+                },
+                "E2": {
+                    "mean_value": "50.0 ± 2.7 pg/mL"
+                },
+                "P4": {
+                    "mean_value": "0.5 ± 0.0 ng/mL"
+                },
+                "response": "No evidence of follicular development."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH Administration at 100 ng/kg",
+            "date": "Not specified",
+            "findings": {
+                "LH": {
+                    "max_peak": "71.8 ± 5.9 IU/L (compared to normal 117.5 ± 6.2 IU/L)"
+                },
+                "FSH": {
+                    "max_peak": "20.3 ± 2.7 IU/L (comparable to normal)"
+                },
+                "E2": {
+                    "max_peak": "261 ± 24.7 pg/mL (comparable to normal)"
+                },
+                "P4": {
+                    "mean_value": "5.1 ± 2.9 ng/mL (significantly reduced compared to normal)"
+                },
+                "response": "Single dominant follicle recruited, endogenous LH surge occurred."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH Administration at 250 ng/kg",
+            "date": "Not specified",
+            "findings": {
+                "LH": {
+                    "mean_level": "70.6 ± 11.1 IU/L (below normal but within 1 SD)"
+                },
+                "FSH": {
+                    "mean_level": "23.3 ± 4.0 IU/L (almost identical to normal)"
+                },
+                "E2": {
+                    "max_peak": "329.6 ± 16.7 pg/mL (comparable to normal)"
+                },
+                "P4": {
+                    "max_peak": "19.9 ± 2.0 ng/mL (not different from normal)"
+                },
+                "response": "Single dominant follicle emerged, endogenous LH surge occurred in all cycles."
+            },
+            "changes_over_time": "Compared to cycles at 100 ng/kg, integrated P4 value significantly improved (114.7 vs. 29.3, P<0.05)."
+        },
+        {
+            "procedure_name": "FAS Response to Pulsatile GnRH",
+            "date": "Not specified",
+            "findings": {
+                "FAS": {
+                    "response": "Did not rise above normal range at doses of 75 and 250 ng/kg."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

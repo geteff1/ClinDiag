@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Initial hematocrit was 22.4%, rose to 26.1% after first admission, then 22.9% after second admission, and remained at 22.4% during cancer center evaluation.",
+            "changes_over_time": "Hematocrit levels fluctuated: increased after transfusions but showed a decline at subsequent evaluations."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin was 7.5 g/dL during initial admission, rose to 8.7 g/dL after first admission and remained at 7.5 g/dL during the second and third admissions.",
+            "changes_over_time": "No significant changes in hemoglobin levels over time, consistent at 7.5 g/dL in later evaluations."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "White-cell count was 7400, decreased to 5400, then increased to 6300 and finally to 6600 during cancer center evaluation.",
+            "changes_over_time": "Increased white-cell count over time from initial admission through cancer center evaluation."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Platelet counts were 380,000, decreased to 281,000, rose to 427,000, and then decreased to 388,000.",
+            "changes_over_time": "Fluctuated over time, but remained within normal range."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "Not specified",
+            "findings": "Mean corpuscular volume was 110 at initial admission and remained elevated at 110 during subsequent evaluations, decreased to 99 during cancer center evaluation.",
+            "changes_over_time": "Consistently high until the cancer center evaluation where a decrease was noted."
+        },
+        {
+            "procedure_name": "Erythrocyte count",
+            "date": "Not specified",
+            "findings": "Erythrocyte count was 2,040,000 at first admission, rose to 2,370,000, and then to 2,250,000.",
+            "changes_over_time": "Initially increased then decreased at the final evaluation."
+        },
+        {
+            "procedure_name": "Reticulocytes",
+            "date": "Not specified",
+            "findings": "Reticulocyte percentage was 2.2% at the initial tests.",
+            "changes_over_time": "Stable at 2.2%, indicating no significant change."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "Prothrombin time was 13.2 seconds at first admission, increased to 14.1 seconds, then 19.3 seconds, and finally to 21.2 seconds.",
+            "changes_over_time": "Progressively increased over time."
+        },
+        {
+            "procedure_name": "International normalized ratio for prothrombin time",
+            "date": "Not specified",
+            "findings": "INR was 1.4 at first admission, increased to 2.5 and then to 3.1.",
+            "changes_over_time": "INR levels increased, indicating worsening anticoagulation."
+        },
+        {
+            "procedure_name": "d-Dimer",
+            "date": "Not specified",
+            "findings": "d-Dimer was >1000 ng/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "Lactate dehydrogenase was elevated at 301 U/liter at first admission and increased to 343 U/liter.",
+            "changes_over_time": "Elevated and increased over time."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Initial samples showed normal marrow cellularity with dysplasia in subsequent evaluations indicating progression.",
+            "changes_over_time": "Initial normal findings progressed to dysplasia and increased blasts over time."
+        },
+        {
+            "procedure_name": "Cytogenetic analysis",
+            "date": "Not specified",
+            "findings": "Initially showed del(5)(q13q34), later samples indicated additional chromosomal abnormalities.",
+            "changes_over_time": "Progression from isolated abnormalities to additional chromosomal changes."
+        }
+    ]
+}

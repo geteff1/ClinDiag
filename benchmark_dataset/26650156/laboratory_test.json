@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "23 Days before Admission",
+            "findings": "31.5% (reference range 41.0–53.0 for men)",
+            "changes_over_time": "Decreased from 31.5% to 27.3% on admission."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "23 Days before Admission",
+            "findings": "10.5 g/dL (reference range 13.5–17.5 for men)",
+            "changes_over_time": "Decreased from 10.5 g/dL to 8.8 g/dL on admission."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "23 Days before Admission",
+            "findings": "14,700 per mm³ (reference range 4500–11,000)",
+            "changes_over_time": "Increased from 14,700 to 17,200 on admission."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "23 Days before Admission",
+            "findings": "4720 U/L (reference range 110–210)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "1 Day before Admission",
+            "findings": "249 U/L (reference range 45–115)",
+            "changes_over_time": "Increased from 133 to 249 U/L."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase (AST)",
+            "date": "1 Day before Admission",
+            "findings": "62 U/L (reference range 10–40)",
+            "changes_over_time": "Increased from 39 to 62 U/L."
+        },
+        {
+            "procedure_name": "Thyrotropin (TSH)",
+            "date": "1 Day before Admission",
+            "findings": "<0.01 μU/mL (reference range 0.40–5.00)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Free thyroxine (T4)",
+            "date": "1 Day before Admission",
+            "findings": "2.6 ng/dL (reference range 0.9–1.8)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Human chorionic gonadotropin (hCG)",
+            "date": "Not specified.",
+            "findings": ">1,000,000 IU/L",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

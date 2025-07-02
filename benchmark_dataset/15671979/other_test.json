@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "3 mm of ST-segment elevation in leads II, III, and aVF and 1 mm of ST-segment elevation in leads V5 to V6.",
+            "changes_over_time": "Repeated ECG demonstrated partial resolution of the ST-segment elevations."
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "8 hours after presentation",
+            "findings": "Normal coronary arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac magnetic resonance imaging",
+            "date": "2 days after discharge",
+            "findings": "Subendocardial resting perfusion defect and a small region of delayed hypoenhancement along the inferior wall, indicative of myocardial infarction.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

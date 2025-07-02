@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HCV RNA load",
+            "date": "Not specified",
+            "findings": "Baseline HCV RNA load was 2 million copies/mL; at the end of treatment, it had decreased by 4 logs and was undetectable. However, the HCV RNA load rebounded to 11 million copies/mL soon after completion of treatment.",
+            "changes_over_time": "Rising HCV RNA load after the completion of treatment."
+        },
+        {
+            "procedure_name": "HIV RNA load",
+            "date": "Not specified",
+            "findings": "HIV RNA load was 1000 copies/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CD4 count",
+            "date": "Not specified",
+            "findings": "CD4 count was 700 cells/mL (33%).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Results remained stable; serum alanine aminotransferase and aspartate aminotransferase levels, prothrombin and partial thromboplastin time were within normal limits. Albumin level was 3.4 g/dL (normal range 3.5-5.0 g/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas levels",
+            "date": "Not specified",
+            "findings": "Pao2 was 59 mm Hg and Paco2 was 33 mm Hg.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary function testing",
+            "date": "Not specified",
+            "findings": "Demonstrated mild airway obstruction (FEV1/FVC ratio was 73% of the predicted value) and moderately reduced diffusion capacity for carbon monoxide (57% of the predicted value).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Contrast-enhanced echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal ejection fraction of 60%; air bubbles were observed in the left heart chambers within 3–4 cycles after their appearance in the right heart chambers with no intracardiac shunt detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Appeared normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

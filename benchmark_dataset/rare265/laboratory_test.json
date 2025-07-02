@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Protein Test",
+            "date": "Not specified",
+            "findings": "2.2 g/day",
+            "changes_over_time": "The 24-hour UP increased to 3.523 g/day one year later."
+        },
+        {
+            "procedure_name": "Serum Creatinine Test",
+            "date": "Not specified",
+            "findings": "82 µmol/L initially; 109 µmol/L in July 2023",
+            "changes_over_time": "Creatinine remained stable initially, then increased over time."
+        },
+        {
+            "procedure_name": "Serum Albumin Test",
+            "date": "Not specified",
+            "findings": "38 g/L initially; 28 g/L in July 2023",
+            "changes_over_time": "Decreased from 38 g/L to 28 g/L over time."
+        },
+        {
+            "procedure_name": "C3 and C4 Complement Testing",
+            "date": "Not specified",
+            "findings": "C4 <0.068 g/L and C3 0.530 g/L initially; C4 <0.068 g/L and C3 0.480 g/L in July 2023",
+            "changes_over_time": "C3 decreased from 0.530 g/L to 0.480 g/L over time; C4 remained <0.068 g/L."
+        },
+        {
+            "procedure_name": "Hemoglobin Test",
+            "date": "Not specified",
+            "findings": "93 g/L initially; 102 g/L in July 2023",
+            "changes_over_time": "Increased from 93 g/L to 102 g/L over time."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Initial abnormal lymphocytes accounted for approximately 2%; increased to approximately 4.07% in July 2023.",
+            "changes_over_time": "Abnormal lymphocyte percentage increased over time."
+        },
+        {
+            "procedure_name": "Flow Cytometry",
+            "date": "Not specified",
+            "findings": "Abnormal small and medium B lymphocytes occupied 3% of nucleated cells initially; decreased to 1.11% in July 2023.",
+            "changes_over_time": "Decreased percentage of abnormal small and medium B lymphocytes over time."
+        }
+    ]
+}

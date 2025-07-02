@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/80 mmHg",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_examination": "Patient was alert and oriented with fluent speech; unable to copy intersecting pentagons, draw a clock face or daisies; difficulty dressing; mild dysarthria; incongruous left hemianopia; mild pronator drift of the left arm; mild weakness of left wrist and finger extension; dysmetria of left arm on finger-to-nose testing. The remainder of the cranial-nerve examination was normal.",
+                "cardiovascular_examination": "Normal, no carotid or orbital bruits noted, peripheral pulses intact.",
+                "skin_examination": "Unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

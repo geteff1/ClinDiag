@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_calcium": {
+                    "value": "7.2 mg/dl",
+                    "reference_range": "8.7–10.4"
+                },
+                "serum_calcium_day_5": {
+                    "value": "7.7 mg/dl",
+                    "reference_range": "8.7–10.4"
+                },
+                "serum_calcium_day_12": {
+                    "value": "9.7 mg/dl",
+                    "reference_range": "8.7–10.4"
+                },
+                "serum_calcium_7_weeks": {
+                    "value": "6.4 mg/dl",
+                    "reference_range": "8–10.5"
+                },
+                "serum_calcium_sibling_1": {
+                    "value": "7.9 mg/dl",
+                    "reference_range": "8–10.5"
+                },
+                "1_25OHD": {
+                    "sibling_1": {
+                        "value": "46 pg/ml",
+                        "reference_range": "15–75"
+                    },
+                    "sibling_2": {
+                        "value": "25 pg/ml",
+                        "reference_range": "15–75"
+                    }
+                },
+                "alkaline_phosphatase_sibling_1": {
+                    "value": "741 U/l",
+                    "reference_range": "110–400"
+                },
+                "alkaline_phosphatase_sibling_2": {
+                    "value": "800 U/l",
+                    "reference_range": "110–400"
+                }
+            },
+            "relevant_findings": {
+                "sibling_1": "Widened physes and metaphyseal cupping and fraying on radiographs; well-nourished, weight-for-length at 73rd percentile.",
+                "sibling_2": "Acute hypocalcemia at 7 weeks with no symptoms of neuromuscular irritability, weight-for-length at 38th percentile."
+            },
+            "changes_over_time": {
+                "sibling_1": "Increased alkaline phosphatase from 741 to 3363 U/L during the first week of treatment.",
+                "sibling_2": "Calcium levels improved from 7.2 mg/dl at 4-days-old to 9.7 mg/dl at 12-days-old."
+            }
+        }
+    ]
+}

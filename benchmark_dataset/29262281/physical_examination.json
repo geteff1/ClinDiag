@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "143/87 mm Hg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Diaphoretic",
+                "cardiovascular": "No carotid bruits, jugular venous distention, or cardiac murmurs, rub, or gallop.",
+                "musculoskeletal": "Digits hyperextensible.",
+                "other": "Rest of examination was normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

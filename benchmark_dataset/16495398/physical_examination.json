@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": {
+                "general": "Patient appeared well.",
+                "lymphadenopathy": "No lymphadenopathy.",
+                "breast": "Left breast normal; right chest wall contained a prosthetic breast implant.",
+                "lungs": "Clear.",
+                "heart": "Normal heart sounds.",
+                "abdomen": "Soft, no masses, no tenderness.",
+                "legs": "No edema."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months after initial consultation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "restoration": "Improvement in bladder capacity, disappearance of urgency and incontinence, decrease in nocturia."
+            },
+            "changes_over_time": "Worsening urinary symptoms improved after tamoxifen treatment."
+        },
+        {
+            "date": "Six months after starting tamoxifen",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "urinary": "Complete disappearance of urinary symptoms."
+            },
+            "changes_over_time": "Progression was stable with unchanged CT scans, but urinary symptoms improved."
+        }
+    ]
+}

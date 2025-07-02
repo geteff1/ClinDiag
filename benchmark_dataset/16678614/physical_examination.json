@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "systolic_murmur": "left sternal border",
+                "right_foot": {
+                    "condition": "cold",
+                    "pulses": "diminished"
+                },
+                "evidence_of_onychomycosis": "None",
+                "peripheral_emboli": "None",
+                "computed_tomography_findings": "nonocclusive clot in the right iliac artery",
+                "echocardiogram": {
+                    "vegetation_size": "larger than 12-mm",
+                    "mitral_regurgitation": "moderate"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

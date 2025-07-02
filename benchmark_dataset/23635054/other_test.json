@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Irregular rhythm with high-amplitude, mildly prolonged QRS complexes consistent with atrial fibrillation, rapid ventricular response, left ventricular hypertrophy, and interventricular conduction delay.",
+            "changes_over_time": "After electrical cardioversion, showed sinus rhythm with multifocal atrial ectopic depolarizations, short PR interval with a delta wave, interventricular conduction delay, ST-segment and T-wave abnormalities, and increased precordial QRS amplitudes."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe, concentric biventricular hypertrophy with normal systolic function, moderate-to-severe biatrial enlargement, and small circumferential pericardial effusion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Leukocyte α-galactosidase activity test",
+            "date": "Not specified",
+            "findings": "Markedly reduced, at 0.4 nmol per hour per milligram.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Nonsense mutation in the second exon of GLA, the gene encoding α-galactosidase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrophysiological study",
+            "date": "Not specified",
+            "findings": "Enhanced atrioventricular conduction and multifocal atrial tachycardia with preexcitation due to a fasciculoventricular pathway.",
+            "changes_over_time": "Following treatment with amiodarone, resulted in substantial improvement in arrhythmia and other symptoms."
+        }
+    ]
+}

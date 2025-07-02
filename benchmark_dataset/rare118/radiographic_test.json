@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "neck ultrasound",
+            "date": "Not specified",
+            "findings": "Two hypoechoic and slightly inhomogeneous lymph nodes, with rich vascularized hilum and no evidence of colliquative phenomena; small lymph nodes in the submandibular region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal ultrasound scan",
+            "date": "Five years earlier",
+            "findings": "Normal; subsequent scan showed severe steatosis.",
+            "changes_over_time": "Severe steatosis observed in subsequent abdominal ultrasound."
+        }
+    ]
+}

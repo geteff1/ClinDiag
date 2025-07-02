@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "echocardiography",
+            "date": "Not specified",
+            "findings": "Aortic root dilation at the aortic sinus of 13 mm (Z score +3) without aortic insufficiency. Patent foramen ovale and ductus arteriosus with hemodynamically not significant left-to-right shunt.",
+            "changes_over_time": "Follow-up echocardiography at 5 months showed aortic dilation progressing to 18 mm; evaluation at 7 months showed aortic dilation stabilizing at 20 mm; latest evaluation at 13 months showed dilation progressing to 24.5 mm."
+        },
+        {
+            "procedure_name": "magnetic resonance angiography",
+            "date": "Not specified",
+            "findings": "A planned examination to identify the presence of other aneurysms throughout the aorta and arterial tree.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

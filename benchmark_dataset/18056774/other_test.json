@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hormonal evaluation",
+            "date": "23 days after birth",
+            "findings": {
+                "twin_a": {
+                    "FSH": "2.34 mIU/ml",
+                    "LH": "8.8 mIU/ml",
+                    "testosterone": "1.6 ng/ml"
+                },
+                "twin_b": {
+                    "FSH": "8.2 mIU/ml",
+                    "LH": "15 mIU/ml",
+                    "testosterone": "0.12 ng/ml"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "1 month after birth",
+            "findings": "Bilateral testes present in Twin A.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Herniotomy",
+            "date": "1 month after birth",
+            "findings": "Right testis (crossed ectopia) and small left ovotestis found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gonadotropin stimulation test",
+            "date": "Not specified",
+            "findings": {
+                "twin_a": {
+                    "testosterone_before": "0.54 ng/ml",
+                    "testosterone_after": "1.14 ng/ml",
+                    "estradiol_before": "13.1 pg/ml",
+                    "estradiol_after": "12.65 pg/ml"
+                },
+                "twin_b": {
+                    "testosterone_before": "Not specified",
+                    "testosterone_after": "<0.02 ng/ml",
+                    "estradiol_before": "12.53 pg/ml",
+                    "estradiol_after": "11.76 pg/ml"
+                }
+            },
+            "changes_over_time": "Indicated absence of gonadal remnants in Twin B and reinforcement of XX maleness in Twin A."
+        }
+    ]
+}

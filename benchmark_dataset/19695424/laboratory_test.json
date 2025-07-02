@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive Metabolic Profile",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Drug of Abuse Screen (EMIT)",
+            "date": "Not specified",
+            "findings": "Negative except for opiates and acetone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive Urine Drug Screen (Gas Chromatography/Mass Spectroscopy)",
+            "date": "Not specified",
+            "findings": "Only methadone detected after administration",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

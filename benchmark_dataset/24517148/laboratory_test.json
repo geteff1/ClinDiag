@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "Initial: 2.17 mM (not normal), 3.1 mM (high), 3.23 mM (high), 3.03 mM (high), 2.96 mM (high)",
+            "changes_over_time": "Increased from 2.17 mM to 3.23 mM after vitamin D treatment, then slightly decreased to 2.96 mM"
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "Initial: 0.99 mM (normal), 1.19 mM (normal), 0.89 mM (normal), 0.75 mM (low), 0.71 mM (low)",
+            "changes_over_time": "Decreased from 0.99 mM to 0.71 mM over time"
+        },
+        {
+            "procedure_name": "Intact PTH",
+            "date": "Not specified",
+            "findings": "Initial: 1220 pg/mL (high), 158 pg/mL (high), 101 pg/mL (normal), 109 pg/mL (normal), 98 pg/mL (normal)",
+            "changes_over_time": "Decreased from 1220 pg/mL to 98 pg/mL after treatment"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (AP)",
+            "date": "Not specified",
+            "findings": "Initial: 1645 U/L (high), 890 U/L (high), 113 U/L (normal), 81 U/L (normal), 55 U/L (normal)",
+            "changes_over_time": "Decreased from 1645 U/L to 55 U/L over time"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Initial: 0.37 mg/dL (normal), 0.40 mg/dL (normal), 0.57 mg/dL (normal), 0.67 mg/dL (normal), 0.59 mg/dL (normal)",
+            "changes_over_time": "Increased from 0.37 mg/dL to 0.67 mg/dL, then slightly decreased to 0.59 mg/dL"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Initial: 5.6 ng/mL (low), 24.7 ng/mL (normal), 12.6 ng/mL (low), not determined, not determined",
+            "changes_over_time": "Increased after treatment, then decreased over time"
+        },
+        {
+            "procedure_name": "1,25-Dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "Initial: not determined, not determined, 77 ng/L (normal), not determined, not determined",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CaCl to CrCl ratio",
+            "date": "Not specified",
+            "findings": "Initial: 0.0015 (normal), 0.0050 (high), 0.0016 (normal), 0.0026 (normal), 0.0029 (normal)",
+            "changes_over_time": "Increased after treatment"
+        }
+    ]
+}

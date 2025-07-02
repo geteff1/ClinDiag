@@ -1,0 +1,51 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abnormal results on liver-function tests for approximately 1.5 years.",
+        "history_of_present_illness": "The patient has had abnormal liver function test results for approximately 1.5 years.",
+        "past_medical_history": {
+            "chronic_conditions": [
+                "Gastroesophageal reflux disease",
+                "Failure to thrive",
+                "Type 1 diabetes mellitus (diagnosed at 2 years of age)",
+                "Primary hypothyroidism (diagnosed at 4 years of age)",
+                "Mild speech delay",
+                "Learning disabilities",
+                "Recurrent infections (including sinusitis, streptococcal pharyngitis, and pneumonias)",
+                "Nocturia",
+                "Leukoplakia of the tongue"
+            ],
+            "surgical_history": [
+                "Inguinal herniorrhaphies",
+                "Orchidopexy (at 15 months of age)"
+            ],
+            "other_history": "Orthopedic injuries related to sports trauma."
+        },
+        "family_history": {
+            "notable_cases": [
+                {
+                    "relation": "Maternal uncle",
+                    "conditions": [
+                        "Learning disabilities",
+                        "Developmental delay",
+                        "Hypogammaglobulinemia",
+                        "Cryptogenic cirrhosis",
+                        "Type 1 diabetes mellitus",
+                        "Bone marrow failure"
+                    ]
+                },
+                {
+                    "relation": "Maternal great-grandmother",
+                    "condition": "Scleroderma"
+                },
+                {
+                    "relation": "Paternal grandmother",
+                    "condition": "Type 1 diabetes mellitus"
+                }
+            ]
+        },
+        "social_history": {
+            "living_conditions": "Lives with parents and siblings.",
+            "educational_background": "Attended special-education classes in high school."
+        }
+    }
+}

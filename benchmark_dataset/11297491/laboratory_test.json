@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasonography - Renal",
+            "date": "8 months",
+            "findings": "Small kidneys (right: 3.8 cm; left: 4.1 cm; normal: 5-6 cm) with diffusely increased echogenicity of the renal cortex and diminished cortico-medullary differentiation, consistent with renal dysplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spectral Doppler ultrasonography - Renal",
+            "date": "8 months",
+            "findings": "High-resistance arterial flow in both main renal arteries and extremely elevated resistance to blood flow within the renal parenchyma with no blood flow detectable during diastole.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "8 months",
+            "findings": "Normal-sized globes with attenuated optic nerves and near-absence of the optic chiasm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen",
+            "date": "Not specified",
+            "findings": "Abnormally high at 55 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "Abnormally high at 5.1 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Detected marked proteinuria (6 g protein/24 hours) and a glomerular filtration rate, based on a 24-hour urine collection, of 20 mL/min (normal: 120 mL/min).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

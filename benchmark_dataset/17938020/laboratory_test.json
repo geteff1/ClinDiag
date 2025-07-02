@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serologic studies for HTLV-1 antibodies",
+            "date": "Not specified",
+            "findings": "Positive for antibodies to HTLV-1 using enzyme-linked immunosorbent assay and Western blotting.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Southern blot assay of the skin lesion",
+            "date": "Not specified",
+            "findings": "Monoclonal integration of HTLV-1 proviral DNA detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood counts",
+            "date": "Not specified",
+            "findings": {
+                "leukocyte_count": "5.70 x 10^9 L-1 (30% lymphocytes, 0.1% small/medium-sized atypical lymphoid cells)",
+                "red_blood_cell_count": "4240 x 10^9 L-1",
+                "platelet_count": "168 x 10^9 L-1",
+                "calcium": "Normal",
+                "lactate_dehydrogenase": "Normal",
+                "alkaline_phosphatase": "Normal"
+            },
+            "changes_over_time": "Clonal integration of HTLV-1 proviral DNA in the peripheral blood was repeatedly negative."
+        },
+        {
+            "procedure_name": "Serum soluble interleukin-2 receptor (sIL-2R)",
+            "date": "Not specified",
+            "findings": "Within normal limits (472 U/ml).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

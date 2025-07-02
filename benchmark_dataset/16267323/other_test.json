@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalography",
+            "date": "Not specified",
+            "findings": "Outbursts of theta waves, generalized seizures in Patient 1; multifocal seizures in Patient 2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Test",
+            "date": "Not specified",
+            "findings": "Glutamine levels: Patient 1 - 11 µmol/liter; Patient 2 - 12 µmol/liter. Normal range for both: Patient 1 (352–885 µmol/liter), Patient 2 (520–1280 µmol/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glutamine Measurement (Serum, Urine, CSF)",
+            "date": "Not specified",
+            "findings": "Patient 1: serum glutamine not detectable (normal range: 433–619 µmol/liter), urine glutamine not detectable (normal range: 52–205 mmol/mol creatinine); Patient 2: serum glutamine 6 µmol/liter (normal; 300–800 µmol/liter), urine 8 µmol/g creatinine (normal range: 640–3230 µmol/g).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

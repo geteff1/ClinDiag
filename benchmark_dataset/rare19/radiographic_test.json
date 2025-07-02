@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Deposits at the disrupted ellipsoid zone, visual field test shows temporal hemianopia of the left eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (contrast-enhanced)",
+            "date": "Not specified",
+            "findings": "Multiple serpiginous signal-void channels at the retrobulbar region of the left orbit with probable compression on the left ophthalmic nerve.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral angiography",
+            "date": "Not specified",
+            "findings": "Total occlusion of the horizontal cavernous segment of the left internal carotid artery with collaterals; total occlusion of the terminal segment of the right internal carotid artery with prominent collaterals supplying bilateral anterior cerebral arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiography (flat-panel)",
+            "date": "Not specified",
+            "findings": "Prominent collaterals around the optic canal compressing the optic nerve.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

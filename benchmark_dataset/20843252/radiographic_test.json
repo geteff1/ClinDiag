@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with ST-segment elevation up to 4 mm in leads V3 through V6, hyperacute T waves in leads V4, V5, V6, and ST-segment depressions in inferior leads.",
+            "changes_over_time": "The ST-segment changes seen on the ECG resolved completely between episodes."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Approximately 9 p.m. on the day of admission",
+            "findings": "35-mm-long segment of severe narrowing (90% stenosis) in the middle of the left anterior descending artery; smooth contour consistent with intramural hematoma, with distal haziness consistent with dissection site.",
+            "changes_over_time": "Follow-up coronary angiogram 48 hours later showed improved blood flow (TIMI grade 3), a shorter segment of stenosis (approximately 25 mm), and resolution of the distal dissection flap."
+        },
+        {
+            "procedure_name": "Follow-up coronary angiogram",
+            "date": "3 months after initial presentation",
+            "findings": "Nearly complete resolution of the dissection, minimal irregularities in the left anterior descending artery at the site of the dissection, and normal left ventricular function.",
+            "changes_over_time": "Indicated favorable healing of the coronary-artery dissection."
+        }
+    ]
+}

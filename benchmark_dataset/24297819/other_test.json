@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Right Heart Catheterization",
+            "date": "Not specified",
+            "findings": "Moderate increase in pulmonary artery pressures (mean PA pressure = 43 mm Hg) with a systolic pressure gradient of 22 mm Hg between the right PA and the right upper lobe PA.",
+            "changes_over_time": "Repeat catheterization confirmed mild peripheral pulmonary artery stenoses."
+        },
+        {
+            "procedure_name": "Angiography of Pulmonary Artery",
+            "date": "Not specified",
+            "findings": "Mild peripheral pulmonary artery stenoses at the level of the right upper lobe PA and mild stenosis in the left PA.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Selective Right Coronary Angiogram",
+            "date": "Not specified",
+            "findings": "Normal right coronary artery with retrograde filling of the left coronary system via collaterals from the right coronary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aortic Root Angiogram",
+            "date": "Not specified",
+            "findings": "Complete absence of antegrade flow in the left coronary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Descending Aortogram",
+            "date": "Not specified",
+            "findings": "No evidence of renal artery involvement.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

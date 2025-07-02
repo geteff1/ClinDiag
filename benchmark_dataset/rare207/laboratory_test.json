@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin on admission was 56 g/L (normal range 138–172 g/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "Platelet count was 240 × 10^9/L (normal range 150–450 × 10^9/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "PT was prolonged at 190.2 s (normal range 11–13.5 s).",
+            "changes_over_time": "PT showed correction in mixing studies with pooled plasma."
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time (aPTT)",
+            "date": "Not specified",
+            "findings": "aPTT was prolonged at 144.9 s (normal range 21–35 s).",
+            "changes_over_time": "aPTT showed correction in mixing studies with pooled plasma."
+        },
+        {
+            "procedure_name": "Fibrin Degradation Product",
+            "date": "Not specified",
+            "findings": "Fibrin degradation product was 3.1 mg/L (normal <10 mg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "D-dimer was 0.22 mg/L (normal <0.50 mg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fibrinogen",
+            "date": "Not specified",
+            "findings": "Fibrinogen level was increased to 5.6 g/L (normal range 2.0–4.0 g/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Factor X Level",
+            "date": "Not specified",
+            "findings": "Markedly reduced factor X levels to 4.7%.",
+            "changes_over_time": "Factor X levels steadily improved to normalcy over three months."
+        },
+        {
+            "procedure_name": "Bethesda factor X inhibitor titer assay",
+            "date": "Not specified",
+            "findings": "The Bethesda factor X inhibitor titer assay was negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

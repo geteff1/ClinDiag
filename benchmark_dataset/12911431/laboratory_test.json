@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum allergic reaction test (UniCAP /C210 specific-IgE)",
+            "date": "Not specified",
+            "findings": "Strongly positive reaction to orchardgrass (67.5 UA/ml, normal range <0.34 UA/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum IgE concentration",
+            "date": "Not specified",
+            "findings": "Elevated at the time of admission",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Eosinophil count",
+            "date": "18 March 2002",
+            "findings": "7590/µl",
+            "changes_over_time": "Decreased to 2800/µl on 26 March, and further to 400/µl on 8 April"
+        },
+        {
+            "procedure_name": "Total serum IgE level",
+            "date": "18 March 2002",
+            "findings": "590 IU/ml",
+            "changes_over_time": "Decreased to 350 IU/ml on 8 April"
+        },
+        {
+            "procedure_name": "Serum and urine EDN levels",
+            "date": "18 March 2002",
+            "findings": "Serum EDN 265 ng/ml; Urine EDN 790.2 µg/mmol Cr",
+            "changes_over_time": "Decreased to Serum EDN 260 ng/ml; Urine EDN 309.4 µg/mmol Cr on 26 March; Further decreased to Serum EDN 48 ng/ml; Urine EDN 98.9 µg/mmol Cr on 8 April"
+        },
+        {
+            "procedure_name": "Serum ECP level",
+            "date": "18 March 2002",
+            "findings": "3.3 ng/ml",
+            "changes_over_time": "Decreased to 2.75 ng/ml on 26 March; Further decreased to 1.1 ng/ml on 8 April"
+        },
+        {
+            "procedure_name": "Urine ECP level",
+            "date": "Not specified",
+            "findings": "Not detectable throughout the study",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

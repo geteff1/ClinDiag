@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Trace bilateral pleural effusions, four indeterminate lesions in the liver, nonobstructive calculus in the lower pole of the left kidney, subcentimeter hypodensities in both kidneys, trace free fluid in the pelvis, diffuse atherosclerotic calcifications in the aorta and its visualized branches, colonic diverticula, and degenerative changes of the bony skeleton.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Diffuse abnormal meningeal enhancement most notable in the cerebellum, with associated edema in the cerebellar hemispheres.",
+            "changes_over_time": "Increase in effacement involving the fourth ventricle and increase in the size of the lateral and third ventricles, suggestive of early obstructive hydrocephalus compared to the previous MRI study."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": "Hypercellular marrow without evidence of marrow replacement by a malignant process or underproduction of blood elements.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometry",
+            "date": "Not specified",
+            "findings": "Normal absolute numbers of CD3+, CD4+, and CD8+ T cells; 13% of CD3+ T cells were double-negative T cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Heterozygous for a germline FAS receptor mutation in intron 4, resulting in abnormal gene splicing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-D administration",
+            "date": "Not specified",
+            "findings": "Transient improvement in platelet count with a drop in hemoglobin levels post-administration.",
+            "changes_over_time": "Although effective in the short term, the improvement in platelet count was transient."
+        },
+        {
+            "procedure_name": "Testing for antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Positive at 1:40 dilution, negative at 1:80 and 1:160 dilutions (normal, negative at 1:40 and 1:160 dilutions).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

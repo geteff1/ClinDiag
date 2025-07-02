@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound-guided biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination showed metastatic melanoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat biopsy",
+            "date": "10 days after initiation of vemurafenib",
+            "findings": "Extensive tumor necrosis and lymphocytic infiltration; increased expression of Melan-A and CD8 T cells.",
+            "changes_over_time": "Increased expression of Melan-A and CD8-positive T lymphocytes compared to pretreatment specimens."
+        },
+        {
+            "procedure_name": "Stereotactic radiosurgery",
+            "date": "Approximately 11 months after presentation",
+            "findings": "Used to treat three brain metastases.",
+            "changes_over_time": "MRI showed nearly complete resolution of the brain masses 11 months after treatment."
+        }
+    ]
+}

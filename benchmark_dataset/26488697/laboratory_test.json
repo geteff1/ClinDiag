@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Testosterone total and free",
+            "date": "Not specified",
+            "findings": "Total testosterone: 193 ng/dl (normal <86), Free testosterone: 5.2 ng/dl (normal 0.3–1.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHEAS)",
+            "date": "Not specified",
+            "findings": "DHEAS: 0.6 ng/ml (normal <6.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luteinizing hormone",
+            "date": "Not specified",
+            "findings": "Luteinizing hormone: 15.4 U/liter (normal 7.7–58.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone",
+            "date": "Not specified",
+            "findings": "Follicle-stimulating hormone: 24.9 U/liter (normal 25.8–134.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Not specified",
+            "findings": "Estradiol: 21 pg/ml (normal 5–55)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prolactin",
+            "date": "Not specified",
+            "findings": "Prolactin: 8.0 ng/ml (normal 4.8–23.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "21 days before presentation",
+            "findings": "Cortisol: 6.0 μg in 24-hour urine collection (normal 3.5 to 45.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "On presentation",
+            "findings": "Glycated hemoglobin: 5.2% (normal 4.2–5.8)",
+            "changes_over_time": "Remained at 5.2% three months post-surgery"
+        },
+        {
+            "procedure_name": "Total testosterone",
+            "date": "Three months after surgery",
+            "findings": "Total testosterone: <20 ng/dl",
+            "changes_over_time": "Decreased from 193 ng/dl to <20 ng/dl after surgery"
+        },
+        {
+            "procedure_name": "Estradiol",
+            "date": "Three months after surgery",
+            "findings": "Estradiol: <20 pg/ml",
+            "changes_over_time": "Decreased from 21 pg/ml to <20 pg/ml after surgery"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone",
+            "date": "Three months after surgery",
+            "findings": "Follicle-stimulating hormone: 30.6 mIU/ml",
+            "changes_over_time": "Increased from 24.9 U/liter to 30.6 mIU/ml after surgery"
+        }
+    ]
+}

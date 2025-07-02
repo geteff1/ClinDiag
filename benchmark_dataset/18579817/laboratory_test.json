@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "18 Days before Admission",
+            "findings": "124 mg/dl (Normal range: 70–110 mg/dl)",
+            "changes_over_time": "Rising levels from 124 mg/dl to 191 mg/dl on Admission."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "On Admission",
+            "findings": "120 mmol/liter (Normal range: 135–145 mmol/liter)",
+            "changes_over_time": "Decreased from 137 mmol/liter (18 Days before Admission) to 120 mmol/liter on Admission."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "8 Days before Admission",
+            "findings": "5.4 mmol/liter (Hemolyzed sample, Normal range: 3.4–4.8 mmol/liter)",
+            "changes_over_time": "Decreased to 3.4 mmol/liter on 10th Hospital Day."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "On Admission",
+            "findings": "84 mmol/liter (Normal range: 100–108 mmol/liter)",
+            "changes_over_time": "Decreased from 98 mmol/liter (18 Days before Admission) to 84 mmol/liter on Admission."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "On Admission",
+            "findings": "83 U/liter (Normal range: 9–32 U/liter)",
+            "changes_over_time": "Increased from 27 U/liter (18 Days before Admission) to 83 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "On Admission",
+            "findings": "59 U/liter (Normal range: 7–30 U/liter)",
+            "changes_over_time": "Increased from 25 U/liter (18 Days before Admission) to 59 U/liter on Admission."
+        },
+        {
+            "procedure_name": "Urine Glucose",
+            "date": "On Admission",
+            "findings": "1+ (Negative is normal)",
+            "changes_over_time": "Negative (18 Days before Admission) to 1+ on Admission."
+        },
+        {
+            "procedure_name": "Urine Bilirubin",
+            "date": "On Admission",
+            "findings": "Negative (Normal is Negative)",
+            "changes_over_time": "From 2+ (18 Days before Admission) to Negative on Admission."
+        },
+        {
+            "procedure_name": "Urine Ketones",
+            "date": "On Admission",
+            "findings": "1+ (Negative is normal)",
+            "changes_over_time": "Increased from 2+ (10 Days before Admission) to 1+ on Admission."
+        },
+        {
+            "procedure_name": "Urine White cells",
+            "date": "On Admission",
+            "findings": ">100 (Normal is 0–2)",
+            "changes_over_time": "Increased from 20–50 (2 Days before Admission) to >100 on Admission."
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "On Admission",
+            "findings": "Not specified (Normal range: 0.6–1.5 mg/dl)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

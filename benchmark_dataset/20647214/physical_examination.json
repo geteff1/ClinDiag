@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "74.8 kg",
+                "height": "162.6 cm",
+                "body_mass_index": "29.2",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": [
+                "Broad face and nose",
+                "Prominent brow",
+                "Slight underbite",
+                "Facial acne",
+                "Multiple skin tags",
+                "Acanthosis nigricans",
+                "Large hands and thick fingers",
+                "Remainder of the examination was normal"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Six weeks post-operation",
+            "vital_signs": {
+                "weight": "Not specified",
+                "height": "Not specified",
+                "body_mass_index": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": [
+                "Rapid diminishing or resolution of signs and symptoms of acromegaly, including carpal tunnel syndrome, joint pains and stiffness, snoring, sweating, acne, and hirsutism",
+                "Normal visual field tests"
+            ],
+            "changes_over_time": "Menstrual periods resumed; fasting blood glucose levels normalized. IGF-1 level normalized."
+        }
+    ]
+}

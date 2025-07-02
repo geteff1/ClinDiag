@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Nasopharyngeal swab",
+            "date": "Not specified",
+            "findings": "Negative for SARS-CoV-2, Influenza virus antigen, and RSV antigen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Maternal serum analysis",
+            "date": "Not specified",
+            "findings": "Elevated CRP (7.18 mg/dl), positive CMV IgM and IgG with low IgG avidity test (< 10%).",
+            "changes_over_time": "CRP further increased to 15.5 mg/dl on the 6th day."
+        },
+        {
+            "procedure_name": "Real-time PCR for CMV",
+            "date": "Not specified",
+            "findings": "Strongly positive for CMV DNA (40,917 iu/mL, positive > 178 iu/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest x-ray",
+            "date": "6th day of hospitalization",
+            "findings": "Reticular pattern indicative of pneumonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Broncho-alveolar lavage",
+            "date": "Not specified",
+            "findings": "Negative for bacterial superinfection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "10th day of hospitalization",
+            "findings": "Infiltration of both lungs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

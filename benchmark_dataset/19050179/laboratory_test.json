@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit of 22% due to iron-deficiency anemia; later declined to as low as 28% when iron supplementation was not consistent.",
+            "changes_over_time": "Initially reported at 22%, then reliant on iron; declined to 28% after inconsistent iron supplementation."
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Six months ago",
+            "findings": "Uterus size measured at 11.9 cm x 13.2 cm x 5.5 cm with multiple fibroids, fundal fibroid of 5.2 cm.",
+            "changes_over_time": "Uterus previously measured at 14 cm x 11 cm; size decreased after myomectomy, but fibroids returned."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Trileaflet aortic valve with trace aortic insufficiency and a left ventricular ejection fraction of 62%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "37 mm aortic root and 38 mm ascending aorta.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histology",
+            "date": "Not specified",
+            "findings": "Thin aortic media without typical changes seen in patients with Marfan syndrome or Loeys-Dietz syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "98 mg/dL (5.4 mmol/L) - Within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, borderline first-degree atrioventricular block, left atrial abnormality, and anterolateral J-point elevation with no ST-segment changes indicative of ischemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "On Presentation",
+            "findings": {
+                "Hemoglobin": "13.4 g/dL - Normal (13.5–17.5 g/dL)",
+                "Hematocrit": "36.7% - Low (41.0–53.0%)",
+                "White-cell count": "6200/mm³ - Normal (4500–11,000/mm³)",
+                "Platelet count": "222,000/mm³ - Normal (150,000–400,000/mm³)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes and Blood Urea Nitrogen",
+            "date": "On Presentation",
+            "findings": {
+                "Sodium": "129 mmol/L - Low (135–145 mmol/L)",
+                "Potassium": "3.1 mmol/L - Low (3.4–4.8 mmol/L)",
+                "Chloride": "92 mmol/L - Low (100–108 mmol/L)",
+                "Carbon dioxide": "22.4 mmol/L - Low (23.0–31.9 mmol/L)",
+                "Urea nitrogen": "10 mg/dL - Normal (8–25 mg/dL)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On Presentation",
+            "findings": "1.17 mg/dL - Normal (0.60–1.50 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "On Presentation",
+            "findings": {
+                "Alanine aminotransferase": "38 U/L - Normal (10–55 U/L)",
+                "Aspartate aminotransferase": "60 U/L - High (10–40 U/L)",
+                "Lipase": "128 U/L - High (13–60 U/L)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ethanol Level",
+            "date": "On Presentation",
+            "findings": "2347 mg/L - Toxic (>1000 mg/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "On Presentation",
+            "findings": "0.04 ng/mL - Elevated (<0.03 ng/mL)",
+            "changes_over_time": "On 9 Hr after Presentation, it decreased to 0.03 ng/mL."
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "On Presentation",
+            "findings": "887 U/L - High (60–400 U/L)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Capillary blood glucose",
+            "date": "Not specified",
+            "findings": "108 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "14,000 per cubic millimeter (reference range: 4500 to 13,500)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood potassium level",
+            "date": "Not specified",
+            "findings": "3.2 mmol per liter (reference range: 3.4 to 4.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood phosphorus level",
+            "date": "Not specified",
+            "findings": "3.5 mg/dL (reference range: 4.5 to 5.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Clear, colorless fluid, glucose level: 92 mg/dL (reference range: 50 to 75), total protein level: 33 mg/dL (reference range: 5 to 55), 5 red cells per cubic millimeter, no white cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum IgG antibodies to B. henselae",
+            "date": "Not specified",
+            "findings": "≥1:1024 (normal titer: <1:128)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

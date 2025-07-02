@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Moderately to poorly differentiated adenocarcinoma infiltrating glandular mucosa beneath squamous mucosa, focal intestinal metaplasia in glandular mucosa consistent with Barrett’s esophagus, and changes in squamous mucosa consistent with reflux esophagitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "upper gastrointestinal endoscopy",
+            "date": "3 days before evaluation",
+            "findings": "Mass in the distal esophagus, 32 cm from incisors, extending to the gastroesophageal junction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "fine-needle aspiration",
+            "date": "Not specified",
+            "findings": "Adenocarcinoma identified in the gastrohepatic lymph node.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "pathological examination of esophageal biopsy",
+            "date": "Not specified",
+            "findings": "Adenocarcinoma with focal glandular metaplasia, indicating Barrett’s esophagus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "laparoscopy",
+            "date": "Not specified",
+            "findings": "No evidence of intraabdominal metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Non-obstructive, hypoechoic mass in distal esophagus (34 to 37 cm from incisors) extending to muscularis propria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT study",
+            "date": "Not specified",
+            "findings": "Dramatic decrease in 18F-FDG uptake at gastroesophageal junction and gastrohepatic node.",
+            "changes_over_time": "Decrease in size of mass in the gastroesophageal junction and gastrohepatic node compared with previous studies."
+        }
+    ]
+}

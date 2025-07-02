@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum calcium 14.9 mg/dL, Ionized calcium 7.4 mg/dL, Creatinine 10.7 mg/dL, Phosphate 5.0 mg/dL, Total CO2 18 mmol/L",
+            "relevant_findings": "Confusion without focal neurological deficits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three days after the fractures",
+            "vital_signs": "Serum calcium 9.6 mg/dL, Ionized calcium 5.0 mg/dL, Phosphate 5.3 mg/dL, PTH 39 pg/mL",
+            "relevant_findings": "Patient unable to bear weight or transfer to a wheelchair",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Seven days after the fractures",
+            "vital_signs": "Serum ALP 36 IU/L",
+            "relevant_findings": "Severe diffuse osteopenia with mottled sclerosis resembling renal osteodystrophy",
+            "changes_over_time": "Interval development of severe diffuse osteopenia noted"
+        }
+    ]
+}

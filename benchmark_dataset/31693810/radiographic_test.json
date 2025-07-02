@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Opacity at the right cardiophrenic angle; no pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Small right pleural effusion with associated atelectasis; no lung mass or lymphadenopathy.",
+            "changes_over_time": "The absence of parenchymal opacities may signify resolution of a bacterial or viral pneumonia that was seen on the chest radiograph."
+        }
+    ]
+}

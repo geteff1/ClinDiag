@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gamma-globulin measurement",
+            "date": "Not specified",
+            "findings": "Elevated gamma-globulin to 1.63 g/dL (normal; 0.73–1.57)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum interleukin-2 receptor measurement",
+            "date": "Not specified",
+            "findings": "Elevated serum interleukin-2 receptor to 659 U/mL (normal: 124–466)",
+            "changes_over_time": "Normalization of serum interleukin-2 receptor observed during follow-up"
+        },
+        {
+            "procedure_name": "F-18 FDG PET/CT scan",
+            "date": "Not specified",
+            "findings": "Maximum standardized uptake value (SUVmax) ranging from 1.4 to 2.7, multifocal abnormal FDG uptake in the right thorax",
+            "changes_over_time": "Gradual and spontaneous regression of lung lesions observed in follow-up CT images"
+        }
+    ]
+}

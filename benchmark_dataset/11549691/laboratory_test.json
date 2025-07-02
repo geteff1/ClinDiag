@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte panel",
+            "date": "Not specified",
+            "findings": {
+                "Na": "141 mEq/liter",
+                "K": "3.4 mEq/liter",
+                "Cl": "105 mEq/liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormone levels",
+            "date": "31 months",
+            "findings": {
+                "estradiol": "37 pmol/liter",
+                "progesterone": "5.2 nmol/liter (elevated)",
+                "testosterone": "2.2 nmol/liter (elevated)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure assessment",
+            "date": "Not specified",
+            "findings": {
+                "blood_pressure": "160–170/80–90 mm Hg",
+                "pulse": "110/min",
+                "weight": "15 kg",
+                "height": "90 cm"
+            },
+            "changes_over_time": "Blood pressure dropped to 110/70 mm Hg after 6 weeks of treatment."
+        },
+        {
+            "procedure_name": "Cortisol levels",
+            "date": "9 years",
+            "findings": {
+                "cortisol": "309 nmol/liter",
+                "progesterone": "5.43 nmol/liter",
+                "testosterone": "0.05 nmol/liter"
+            },
+            "changes_over_time": "Situation described as low cortisol level (91 nmol/liter) for an unknown reason."
+        },
+        {
+            "procedure_name": "Serum steroid concentrations",
+            "date": "9 years",
+            "findings": {
+                "11-deoxycortisol": "49.8 nmol/liter (elevated)",
+                "11-deoxycorticosterone": "10.33 nmol/liter (elevated)",
+                "corticosterone": "5.8 nmol/liter",
+                "17-hydroxyprogesterone": "3.6 nmol/liter",
+                "17-hydroxypregnenolone": "2.73 nmol/liter",
+                "21-desoxycortisol": "0.29 nmol/liter",
+                "dehydro-epiandrosterone": "3.4 nmol/liter",
+                "androstenedione": "5.27 nmol/liter"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

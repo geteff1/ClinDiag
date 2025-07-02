@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Hospital day 4",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Hospital day 1",
+            "findings": "QT interval of 510 ms.",
+            "changes_over_time": "Diminished to 470 ms later that day."
+        }
+    ]
+}

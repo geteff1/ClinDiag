@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Mild interstitial infiltrate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Septal and peribronchial thickening in the lung bases consistent with pulmonary edema, as well as patchy lower-lobe consolidation consistent with pulmonary edema or aspiration.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "No clinically significant lymphadenopathy, renal masses, or stones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "No hydronephrosis or renal atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "Glomerulonephritis with a membranoproliferative pattern and several intraluminal microthrombi; mild interstitial nephritis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

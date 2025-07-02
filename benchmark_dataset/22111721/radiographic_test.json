@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "low lung volumes, with right basilar subsegmental atelectasis",
+            "changes_over_time": "unchanged as compared with a study 11 months earlier"
+        },
+        {
+            "procedure_name": "electrocardiogram",
+            "date": "Not specified",
+            "findings": "sinus tachycardia at 119 beats per minute, ST-segment elevations up to 3 mm in leads V1, V2, and V3; Q waves present in leads V2 and V3",
+            "changes_over_time": "persistent ST-segment elevations during a subsequent episode; complete resolution of ST-segment changes and restoration of R waves in leads V1, V2, and V3 21 months after presentation"
+        },
+        {
+            "procedure_name": "left ventriculogram",
+            "date": "Not specified",
+            "findings": "akinesis of the anterior wall, hypokinesis of the apical and distal inferior walls, compensatory hyperkinesis of the basal anterior and basal inferior walls; left ventricular ejection fraction (LVEF) calculated to be 45%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "severe segmental left ventricular dysfunction involving the septum, anteroseptal territory, and apex; estimated LVEF was 48%",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin prick test",
+            "date": "10 weeks of age",
+            "findings": "Negative for milk, soya, egg, and wheat; erythema with fresh peanut.",
+            "changes_over_time": "At 12 months, showed significant reaction to commercial peanut extract (15 mm wheal) and slight positivity for egg (4 mm wheal)."
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Eosinophilia (0.8 · 10^9/l).",
+            "changes_over_time": "Returned to normal on a peanut-free diet (0.3 · 10^9/l)."
+        },
+        {
+            "procedure_name": "Sweat test",
+            "date": "Not specified",
+            "findings": "Negative for cystic fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Specific immunoglobulin E (IgE) antibody test",
+            "date": "At 12 months",
+            "findings": "Positive for peanut (0.47 IU/ml), not detectable for egg.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

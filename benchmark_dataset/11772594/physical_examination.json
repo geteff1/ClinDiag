@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ocular": {
+                    "visual_acuity": {
+                        "right_eye": "20/20",
+                        "left_eye": "20/60"
+                    },
+                    "intraocular_pressure": "Normal",
+                    "left_eye_motility": "Reduced in all directions",
+                    "diplopia": {
+                        "present": true,
+                        "gaze": [
+                            "up",
+                            "right"
+                        ]
+                    },
+                    "episcleral_veins": "Dilated, especially in the nasal quadrant",
+                    "retinal_folds": "Yes, in the upper temporal quadrant",
+                    "visual_field_defect": "Corresponding defect in the lower nasal quadrant",
+                    "Hertel_exophthalmometry": "4 mm of proptosis on the left",
+                    "corneal_sensitivity": "Normal",
+                    "orbital_sonography": {
+                        "mass": "Large intraconal mass (2.9 cm²)",
+                        "thickening": "Massive scleral thickening"
+                    },
+                    "CT_scan": "Hypodense zone confirming extensive posterior scleral thickening"
+                }
+            },
+            "changes_over_time": {
+                "initial": {
+                    "visual_acuity": "20/60 in left eye",
+                    "scleral_mass": "Present",
+                    "chorioretinal_folds": "Present"
+                },
+                "after_treatment": {
+                    "day_3": {
+                        "visual_acuity_left_eye": "20/25",
+                        "scleral_mass": "Regression",
+                        "chorioretinal_folds": "Disappearance"
+                    }
+                },
+                "6_month_follow_up": {
+                    "visual_acuity": "Normal",
+                    "scleral_mass": "No detectable scleritis",
+                    "symptoms": "No other clinical symptoms"
+                }
+            }
+        }
+    ]
+}

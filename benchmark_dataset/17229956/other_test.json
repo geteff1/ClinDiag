@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Punch Biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination showed an atypical Spitz tumor.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Re-excision",
+            "date": "Not specified",
+            "findings": "Pathological examination disclosed a superficial, spreading malignant melanoma, 0.91 mm in thickness, with a vertical growth phase and dermal mitoses, extending to within 1.5 mm of the nearest margin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sentinel Lymph Node Biopsy",
+            "date": "Three weeks after re-excision",
+            "findings": "Metastatic melanoma was identified on immunohistochemical staining of one of two sampled sentinel nodes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "3210 g",
+                "body_mass_index": "11 kg/m²",
+                "length": "54 cm",
+                "plasma_aldosterone": "2554 pg/ml",
+                "plasma_renin_activity": "Not specified",
+                "sodium": "129 mmol/liter",
+                "potassium": "6.4 mmol/liter"
+            },
+            "relevant_findings": "Hyponatremia and hyperkalemia noted upon admission.",
+            "changes_over_time": "After acute therapy and oral NaCl supplementation, the patient showed marked catch-up growth at 19 months with normal plasma electrolytes."
+        },
+        {
+            "date": "19 months post-admission",
+            "vital_signs": {
+                "length": "79 cm",
+                "weight": "12 kg",
+                "body_mass_index": "19.2 kg/m²",
+                "plasma_sodium": "135 mmol/liter",
+                "plasma_aldosterone": "1395 pg/ml",
+                "plasma_renin_activity": "43.2 mU/liter"
+            },
+            "relevant_findings": "Plasma sodium remained unchanged, plasma aldosterone was still elevated.",
+            "changes_over_time": "NaCl treatment was stopped within 24 months, and plasma sodium remained normal."
+        },
+        {
+            "date": "Date of parents' examination not specified",
+            "vital_signs": {
+                "father_serum_renin": "43.2 mU/liter",
+                "father_serum_aldosterone": "379 pg/ml",
+                "parent_sodium": "Normal",
+                "parent_potassium": "Normal"
+            },
+            "relevant_findings": "Both parents were clinically free of symptoms; father's serum renin and aldosterone levels were slightly elevated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

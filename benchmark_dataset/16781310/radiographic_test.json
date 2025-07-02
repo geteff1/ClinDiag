@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "small-bowel biopsy",
+            "date": "1 month of age",
+            "findings": "total villous atrophy",
+            "changes_over_time": "Resolved with treatment at 5 years of age, showing regrowth of villi."
+        },
+        {
+            "procedure_name": "small-bowel biopsy",
+            "date": "4 years of age",
+            "findings": "confirmed total villous atrophy and presence of antibodies to enterocytes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "5 years of age",
+            "findings": "focal spongiotic dermatitis with subcorneal vesiculo-pustule formation consistent with eczema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "7 years of age",
+            "findings": "subepidermal blister compatible with bullous pemphigoid.",
+            "changes_over_time": "Resolution of bullous pemphigoid led to persistent prurigo nodularis-like lesions."
+        },
+        {
+            "procedure_name": "skin biopsy",
+            "date": "14 years of age",
+            "findings": "demonstrated central ulceration with fibrin deposition, adjacent pseudoepitheliomatous hyperplasia, and mixed inflammatory infiltrate.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

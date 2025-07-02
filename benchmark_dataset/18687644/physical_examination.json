@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.5°C",
+                "pulse": "110 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "22 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "appearance": "emaciated",
+                "chest_examination": "dullness on percussion, bronchial breath sounds, coarse crackles over the right upper lobe",
+                "neurological_examination": {
+                    "orientation": "only to person",
+                    "leg_strength": {
+                        "proximal": "4/5",
+                        "distal": "3/5"
+                    },
+                    "reflexes": {
+                        "patellar": "brisk",
+                        "plantar": "flexor"
+                    },
+                    "sensory_deficit": "none"
+                },
+                "back_examination": "large, fluctuant area of induration and erythema extending from midcervical to lower thoracic region"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

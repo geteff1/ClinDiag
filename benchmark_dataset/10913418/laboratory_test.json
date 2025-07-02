@@ -1,0 +1,72 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "March 1997",
+            "findings": "35 cells/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV RNA Viral Load",
+            "date": "March 1997",
+            "findings": "125,000 copies/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "August 1998",
+            "findings": "98 cells/mL",
+            "changes_over_time": "Increased from 35 cells/mL in March 1997"
+        },
+        {
+            "procedure_name": "HIV RNA Viral Load",
+            "date": "August 1998",
+            "findings": "15,000 copies/mL",
+            "changes_over_time": "Decreased from 125,000 copies/mL in March 1997"
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "Not specified",
+            "findings": "34 cells/mL",
+            "changes_over_time": "Decreased from 98 cells/mL in August 1998"
+        },
+        {
+            "procedure_name": "HIV RNA Viral Load",
+            "date": "Not specified",
+            "findings": "6500 copies/mL",
+            "changes_over_time": "Decreased from 15,000 copies/mL in August 1998"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Remission of granulomatous features",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arthrocentesis - WBC count",
+            "date": "Not specified",
+            "findings": "<10,000 cells/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mycobacterium susceptibility testing",
+            "date": "Not specified",
+            "findings": {
+                "susceptible": {
+                    "ethionamide": "MIC 0.0064 mg/mL",
+                    "clarithromycin": "MIC 1 mg/mL"
+                },
+                "resistant": {
+                    "amikacin": "MIC 256 mg/mL",
+                    "ciprofloxacin": "MIC 32 mg/mL",
+                    "streptomycin": "MIC 256 mg/mL",
+                    "isoniazid": "MIC 3 mg/mL",
+                    "ethambutol": "MIC 6 mg/mL",
+                    "levofloxacin": "MIC 32 mg/mL",
+                    "rifampin": "MIC 4 mg/mL"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

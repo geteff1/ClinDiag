@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine laboratory studies",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serology for syphilis and HIV",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Non-contrast brain MRI",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Initial ECT treatments",
+            "date": "Hospital day 18",
+            "findings": "Immediate improvement after the first treatment; by the sixth ECT on hospital day 30, the patient was euthymic and free of psychotic symptoms.",
+            "changes_over_time": "Progressed positively, with rapid improvement over the course of treatment."
+        },
+        {
+            "procedure_name": "Second course of ECT",
+            "date": "Hospital day 3 of second admission",
+            "findings": "Symptoms resolved entirely after four treatments.",
+            "changes_over_time": "Progressed positively, with symptom resolution after ECT."
+        }
+    ]
+}

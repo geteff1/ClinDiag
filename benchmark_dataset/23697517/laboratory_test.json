@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "4.5 Mo before Evaluation",
+            "findings": {
+                "Hematocrit (%)": "35.3 (ref 35.0–45.0)",
+                "Hemoglobin (g/dl)": "11.9 (ref 11.5–15.5)",
+                "White-cell count (per mm3)": "3600 (ref 4500–13,500)",
+                "Differential count (%)": {
+                    "Neutrophils": "39.1",
+                    "Lymphocytes": "45.9",
+                    "Monocytes": "9.9",
+                    "Eosinophils": "4.5",
+                    "Basophils": "0.6",
+                    "Atypical lymphocytes": "2"
+                },
+                "Erythrocyte sedimentation rate (mm/hr)": "3",
+                "Heterophile": "Negative"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Chemical Panel",
+            "date": "Not specified",
+            "findings": {
+                "Free thyroxine (ng/dl)": "0.9 (ref 0.9–1.4)",
+                "Thyrotropin (μU/ml)": "3.43"
+            },
+            "changes_over_time": "Thyrotropin increased to 9.64 and then 6.820."
+        },
+        {
+            "procedure_name": "Blood Chemical Panel",
+            "date": "6 Wk after Evaluation",
+            "findings": {
+                "Sodium (mmol/liter)": "126",
+                "Potassium (mmol/liter)": "5.55",
+                "Chloride (mmol/liter)": "94",
+                "Carbon dioxide (mmol/liter)": "23",
+                "Urea nitrogen (mg/dl)": "18",
+                "Creatinine (mg/dl)": "0.5",
+                "Calcium (mg/dl)": "Not specified",
+                "Alkaline phosphatase (U/liter)": "209",
+                "Aspartate aminotransferase (U/liter)": "58 (hemolyzed specimen)"
+            },
+            "changes_over_time": "Sodium was decreased from 133 to 126. Potassium increased from 5.2 to 5.55."
+        },
+        {
+            "procedure_name": "Adrenal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Plasma cortisol": "< 0.3 μg/dL (ref 5.0 to 25.0 μg/dL)",
+                "Plasma corticotropin": "2069 pg/mL (ref ≤ 46 pg/mL)",
+                "Anti–21-hydroxylase antibodies": "684.2 U/mL (ref ≤ 1.0)",
+                "Plasma renin activity": "5633 ng/dL/hr (ref 50 to 330)"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "On Admission",
+            "findings": {
+                "Sodium": "141 mmol/liter (normal range: 135-145)",
+                "Potassium": "1.9 mmol/liter (normal range: 3.4-4.8)",
+                "Chloride": "107 mmol/liter (normal range: 100-108)",
+                "Carbon dioxide": "23.2 mmol/liter (normal range: 23.0-31.9)",
+                "Creatinine": "0.43 mg/dl (normal range: 0.60-1.50)",
+                "Glucose": "113 mg/dl (normal range: 70-110)",
+                "Phosphorus": "1.2 mg/dl (normal range: 2.6-4.5)",
+                "Alkaline phosphatase": "129 U/liter (normal range: 45-115)",
+                "Alanine aminotransferase": "63 U/liter (normal range: 10-55)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "14.5 Hr after Presentation",
+            "findings": {
+                "Potassium": "4.1 mmol/liter (improved from 1.9)",
+                "Phosphorus": "4.4 mg/dl (improved from 1.2)",
+                "Urine Sodium": "180 mmol/liter",
+                "Urine Potassium": "39.1 mmol/liter",
+                "Osmolality": "210 mOsm/kg of water"
+            },
+            "changes_over_time": "Potassium level improved from 1.9 to 4.1 mmol/liter after supplementation."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": {
+                "TSH Level": "0.01 μU per milliliter (normal range: 0.4-5.0)",
+                "Free T4 Level": "3.4 ng/dl (normal range: 0.9-1.8)",
+                "Total T3 Level": "307 ng/dl (normal range: 60-181)"
+            },
+            "changes_over_time": "Free T4 level decreased to 1.1 ng/dl after treatment; thyrotropin level elevated two months later."
+        },
+        {
+            "procedure_name": "Thyroid-stimulating Immunoglobulin (TSI) Assay",
+            "date": "Not specified",
+            "findings": "TSI index: 2.7 (elevated; reference value: ≤1.3)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

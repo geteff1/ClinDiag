@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "128/78 mm Hg",
+                "heart_rate": "72/min",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "height": "69 inches",
+                "weight": "162 pounds",
+                "body_mass_index": "24",
+                "xanthomas": "None",
+                "laboratory_findings": {
+                    "blood_glucose": "Normal",
+                    "thyroid_stimulating_hormone": "Normal",
+                    "liver_enzyme_levels": "Normal",
+                    "urinalysis": "No protein"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

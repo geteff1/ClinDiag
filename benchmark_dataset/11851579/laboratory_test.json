@@ -1,0 +1,102 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "October 1, 2001",
+            "findings": {
+                "white_blood_cells": "11003 /µL (significant leukocytosis)",
+                "hematocrit": "42.5 %",
+                "platelet": "409 /µL",
+                "thrombocytopenia": "Yes",
+                "hyponatremia": "Yes"
+            },
+            "changes_over_time": "Leukocytosis continued with changing hematocrit values, decreasing from 42.5% to 14.3%."
+        },
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Hospital Day 2",
+            "findings": {
+                "white_blood_cells": "2800 /µL",
+                "hematocrit": "37.3 %",
+                "platelet": "19 /µL (significant thrombocytopenia)",
+                "hyponatremia": "128 mEq/L"
+            },
+            "changes_over_time": "Persistent thrombocytopenia and decreasing hematocrit noted."
+        },
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Hospital Day 5",
+            "findings": {
+                "white_blood_cells": "16000 /µL",
+                "hematocrit": "18.7 %",
+                "platelet": "56 /µL",
+                "hyponatremia": "131 mEq/L"
+            },
+            "changes_over_time": "Further decrease in hematocrit and persistent thrombocytopenia."
+        },
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Hospital Day 12",
+            "findings": {
+                "white_blood_cells": "35000 /µL",
+                "hematocrit": "14.3 %",
+                "platelet": "43 /µL",
+                "thrombocytopenia": "Yes",
+                "hyponatremia": "Not specified"
+            },
+            "changes_over_time": "Continued decrease in hematocrit and severe thrombocytopenia requiring transfusions."
+        },
+        {
+            "procedure_name": "Serum Urea Nitrogen",
+            "date": "Hospital Day 2",
+            "findings": {
+                "serum_urea_nitrogen": "14 mg/dL",
+                "creatinine": "0.6 mg/dL"
+            },
+            "changes_over_time": "Urea nitrogen increased to 26 mg/dL by subsequent testing."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Hospital Day 5",
+            "findings": {
+                "lactate_dehydrogenase": ">5000 U/L (evidence of hemolysis)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Hospital Day 5",
+            "findings": {
+                "creatinine": "0.9 mg/dL (normal range)"
+            },
+            "changes_over_time": "Normal values for creatinine observed by Hospital Day 12."
+        },
+        {
+            "procedure_name": "Blood Electrolyte Panel",
+            "date": "Hospital Day 2",
+            "findings": {
+                "sodium": "128 mEq/L (hyponatremia)",
+                "potassium": "4.9 mEq/L"
+            },
+            "changes_over_time": "Sodium levels increased to 133 mEq/L by Hospital Day 12."
+        },
+        {
+            "procedure_name": "Serum D-dimers and Fibrinogen",
+            "date": "Hospital Day 12",
+            "findings": {
+                "d-dimer": "Elevated",
+                "fibrinogen": "Not specified"
+            },
+            "changes_over_time": "Levels returned to normal during recovery."
+        },
+        {
+            "procedure_name": "IgM and IgG Response to Anthrax",
+            "date": "Day 13",
+            "findings": {
+                "IgM": "Decreased",
+                "IgG": "Increased and extended response"
+            },
+            "changes_over_time": "Intensified IgG response by Day 20."
+        }
+    ]
+}

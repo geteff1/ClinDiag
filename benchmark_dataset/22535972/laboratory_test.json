@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "At 17-21 years, TSH was 160 /H9262U/ml; normal TSH level was noted at birth.",
+            "changes_over_time": "TSH levels showed severe hypothyroidism at 17-21 years, previously normal at birth."
+        },
+        {
+            "procedure_name": "free T4",
+            "date": "Not specified",
+            "findings": "At 17-21 years, free T4 was 10.5 ng/dl; normal levels at birth.",
+            "changes_over_time": "Free T4 levels indicative of severe hypothyroidism at 17-21 years; normal at birth."
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "At 17-21 years: left lobe volume at 92 ml and right lobe volume at 133 ml. At 24 years, volume estimated by CT was 235 ml for right lobe and 224 ml for left lobe.",
+            "changes_over_time": "Increase in lobe volume noted from 17-21 years to 24 years."
+        },
+        {
+            "procedure_name": "Iodine perchlorate discharge test",
+            "date": "Not specified",
+            "findings": "Negative, indicating that organification was not impaired.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary MIT and DIT levels",
+            "date": "Not specified",
+            "findings": "Elevated MIT and DIT excretion in the homozygous sister compared to heterozygous siblings and controls.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary iodine measurements",
+            "date": "Not specified",
+            "findings": "Urinary iodine levels normal for the Moroccan population living in Brussels.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

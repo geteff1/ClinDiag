@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination of biopsy specimens of the ulcer showed invasive adenocarcinoma that ranged from well differentiated to moderately differentiated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "microsatellite-instability analysis",
+            "date": "Not specified",
+            "findings": "No microsatellite instability was detected. Moreover, loss of heterozygosity of p53 and adenomatous polyposis coli (APC) genes was detected, indicating chromosomal instability.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "KRAS sequence analysis",
+            "date": "Not specified",
+            "findings": "No mutations were identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/73 mm Hg",
+                "pulse": "101 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Normal"
+            },
+            "relevant_findings": {
+                "body_mass_index": "27.2",
+                "appearance": "Disheveled",
+                "hygiene": "Fair",
+                "alertness": "Alert and understood reason for hospitalization",
+                "mood": "Sad",
+                "affect": "Dysphoric and mildly expansive",
+                "speech": "Rapid and occasionally loud but interruptible",
+                "thought_process": "Occasionally tangential but redirectable",
+                "wheezes": "Diffuse inspiratory and expiratory wheezes",
+                "insight": "Insight into worsening depression"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

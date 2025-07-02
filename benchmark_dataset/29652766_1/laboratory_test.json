@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Mild microcytic anemia without leukocytosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Elevated ESR level at 57 mm/hr; normal range 0-10 mm/hr",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calprotectin",
+            "date": "Not specified",
+            "findings": "Elevated calprotectin, a sensitive marker for inflammatory bowel disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Follow-up after two years",
+            "findings": "Severely anemic",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Initial CT scan",
+            "findings": "Expanding, ground glass lesion involving the left mandible, negative cultures, with associated periosteal reaction and diffuse inflammation",
+            "changes_over_time": "Follow-up CT shows decrease in overall thickness and sclerosis without new lytic lesions or periosteal reaction"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Follow-up CT scan two months after maintenance indomethacin",
+            "findings": "Dramatic improvement in right mandible, with minimal cortical thickening and decreased bone expansion",
+            "changes_over_time": "Improvement remains stable clinically and radiologically almost 3 years later"
+        },
+        {
+            "procedure_name": "Bone Biopsy",
+            "date": "Not specified",
+            "findings": "No inflammatory infiltrate, acute or chronic, and remodeling changes expected in repeat biopsy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

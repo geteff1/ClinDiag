@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "180/108 mmHg",
+                "other": "Not specified"
+            },
+            "relevant_findings": {
+                "tophi": "Large tophi affecting the small joints of the hands",
+                "fat_masses": "Multiple round subcutaneous fat masses over the upper body",
+                "MRI_findings": "Widespread and distinct soft masses (fat density) in the subcutaneous layer of the neck region",
+                "ultrasonography_findings": "Excessive fat deposition in the mandible and elbows"
+            },
+            "changes_over_time": "Both the fatty masses and renal function remained unchanged 5 months after discharge"
+        }
+    ]
+}

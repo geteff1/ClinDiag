@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "88 bpm",
+                "blood_pressure": "106/56 mmHg",
+                "body_temperature": "36.2°C"
+            },
+            "relevant_findings": {
+                "general": "Pale appearance, small soft goiter, and slow deep tendon reflexes.",
+                "height": "137 cm",
+                "weight": "40 kg, corresponding to a high-normal body mass index of 21 kg/m2."
+            },
+            "changes_over_time": "Constipation frequency increased to every 2–3 days after LT4 stopped, compared to daily on LT4."
+        },
+        {
+            "date": "7 months after reinitiation of LT4 treatment",
+            "vital_signs": {
+                "heart_rate": "94 bpm",
+                "blood_pressure": "99/55 mmHg",
+                "body_temperature": "36.2°C"
+            },
+            "relevant_findings": {
+                "development": "Breast development progressed to Tanner stage III.",
+                "neurological": "No significant improvements in neurological assessment."
+            },
+            "changes_over_time": "Improved stool frequency normalized after reinitiation of LT4; however, cognitive and developmental assessment did not show improvement."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "125/70 mmHg",
+                "body_temperature": "36.2°C"
+            },
+            "relevant_findings": {
+                "general": "Overweight with a body mass index of 36 kg/m2."
+            },
+            "changes_over_time": "Heart rate increased from 75 bpm to 90 bpm after LT4 treatment; mild recall delay noted compared to functioning on LT4."
+        }
+    ]
+}

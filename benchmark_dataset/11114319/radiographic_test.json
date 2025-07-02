@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Impaired inspiration and an ill-defined, patchy density, 1.5 cm in diameter, in the middle lobe of the right lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-resolution CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral nodular opacities, the largest of which was 2 cm in diameter in the right lower lobe; bilateral ground-glass opacities and septal thickening.",
+            "changes_over_time": "Pulmonary nodules appeared to have increased in size in the right upper and lower lobes but regressed in the right middle lobe."
+        },
+        {
+            "procedure_name": "Chest CT scan (thoracic)",
+            "date": "Not specified",
+            "findings": "Diffuse ground-glass opacities in both lungs and diffuse septal thickening, with irregular pulmonary nodules in the right upper and lower lobes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radionuclide ventilation–perfusion scan",
+            "date": "Not specified",
+            "findings": "Abnormal perfusion with irregular distribution of the tracer and several segmental and subsegmental perfusion defects.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Posteroanterior Chest Film",
+            "date": "Not specified",
+            "findings": "Diffuse hazy opacities in both lungs, with indistinct vessels and poorly defined nodular opacities in the right lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-resolution CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse ground-glass opacification throughout both lungs, bilateral diffuse interlobular septal thickening, and irregular nodular opacities in the right upper and lower lung zones.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

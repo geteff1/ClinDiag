@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Pneumonia.",
+            "changes_over_time": "Chest X-ray review was normal."
+        },
+        {
+            "procedure_name": "Dual-energy X-ray absorptiometry of the lumbar spine (L1-4)",
+            "date": "Not specified",
+            "findings": "Low bone mineral density (BMD 756 mg/cm3; T-3.0, Z-1.3), indicating osteoporosis.",
+            "changes_over_time": "Markedly low bone density in relation to bone area (BMDa) has been found."
+        }
+    ]
+}

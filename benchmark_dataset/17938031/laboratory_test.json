@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "2001",
+            "findings": "301 U/L, normal range 35-230 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aldolase",
+            "date": "2001",
+            "findings": "Elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody",
+            "date": "2001",
+            "findings": "Positive, 1:640 titer, speckled pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Mid-2004",
+            "findings": "Triglycerides: 427 mg/dL, Cholesterol: 238 mg/dL, HDL: 45 mg/dL (elevated)",
+            "changes_over_time": "Triglyceride levels have remained elevated despite therapy; lipoatrophy has progressed to involve both thighs."
+        }
+    ]
+}

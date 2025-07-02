@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "No evidence for metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neck ultrasound",
+            "date": "Not specified",
+            "findings": "Several intrathyroidal lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron emission tomography/CT",
+            "date": "Not specified",
+            "findings": "Unable to localize metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "99Technetium (99Tc)-sestamibi scan",
+            "date": "Not specified",
+            "findings": "Increased uptake in the right supraclavicular lesion and in the left thyroid lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Month 31",
+            "findings": "A 1.6-cm nodular soft tissue mass in the right inferior thyroid bed that was increased in size compared to month 26, along with an increasing number of bilateral pulmonary micronodules.",
+            "changes_over_time": "Increased in size compared to month 26."
+        }
+    ]
+}

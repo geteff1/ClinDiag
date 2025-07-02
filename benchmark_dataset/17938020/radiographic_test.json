@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Complete resolution of the skin tumor with slight pigmentation.",
+            "changes_over_time": "The skin tumor completely resolved after treatment."
+        },
+        {
+            "procedure_name": "Electron beam irradiation",
+            "date": "Not specified",
+            "findings": "No residual lymphoma cells in the skin detected by histological examination after treatment.",
+            "changes_over_time": "The skin tumor completely resolved after treatment."
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "Failed to detect any lymph node involvement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gallium scintigraphy",
+            "date": "Not specified",
+            "findings": "Failed to detect any lymph node involvement.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

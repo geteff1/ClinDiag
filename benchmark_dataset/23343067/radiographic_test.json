@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Diffuse interstitial opacities, consistent with interstitial edema; mild cardiac enlargement; aortic atherosclerosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis without intravenous contrast material",
+            "date": "Not specified",
+            "findings": "Atelectasis in both lung bases; small calcified nodules in the right lower lung; a nodule (3 mm in diameter) in the lingula; free-flowing ascites throughout the abdomen, surrounding the liver and spleen, and in the paracolic gutters and cul-de-sac; a lytic lesion in the fifth lumbar vertebral body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "A lytic destructive process in the sternum with a soft-tissue mass anteriorly; tree-in-bud opacities in the upper lobe of the left lung.",
+            "changes_over_time": "The mass over the sternum enlarged during the first 2 months of therapy and then eventually decompressed spontaneously."
+        }
+    ]
+}

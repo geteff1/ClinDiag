@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June, 2012",
+            "vital_signs": {
+                "oxygen_saturations": "80%",
+                "respiratory_rate": "28 breaths per min",
+                "blood_pressure": "98/63 mm Hg",
+                "heart_rate": "113 bpm"
+            },
+            "relevant_findings": {
+                "chest_exam": {
+                    "expansion": "reduced",
+                    "percussion_note": "dull on the left side"
+                },
+                "pleural_effusion": "large left pleural effusion"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-drainage",
+            "vital_signs": {
+                "oxygen_saturations": "97% on air"
+            },
+            "relevant_findings": {
+                "pleural_fluid_analysis": {
+                    "organisms": "no organisms on Gram stain and culture",
+                    "acid_fast_bacilli_smear": "negative",
+                    "lactate_dehydrogenase": "29 μkat/L (serum range 4–8 μkat/L)",
+                    "protein_concentration": "50 g/L (suggestive of exudate)",
+                    "triglyceride_measurement": "12.71 mmol/L (<1.24 mmol/L)"
+                },
+                "diagnosis": "chylothorax"
+            },
+            "changes_over_time": "Improvement in dyspnoea after drainage"
+        },
+        {
+            "date": "August, 2012",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "repeat_CT_scan": "resolution of mediastinal lymphadenopathy and miliary nodules"
+            },
+            "changes_over_time": "Diminished rate of fluid production after 4 months; needed four aspirations"
+        },
+        {
+            "date": "May, 2013",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient symptom-free at last review",
+            "changes_over_time": "Lymph leakage stopped after successful anti-tuberculous therapy"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "626 mg/dl (34.8 mmol/liter), elevated.",
+            "changes_over_time": "Blood glucose levels gradually normalized after insulin injections; insulin requirements decreased and could be stopped at 12 months of age."
+        },
+        {
+            "procedure_name": "Hemoglobin A1c (HbA1c)",
+            "date": "Not specified",
+            "findings": "7.7% (normal range: 4.3–5.6%), elevated.",
+            "changes_over_time": "Currently, maintains normal HbA1c without treatment."
+        },
+        {
+            "procedure_name": "C-peptide",
+            "date": "Not specified",
+            "findings": "0.35 ng/ml (normal range: 1.0–2.5 ng/ml), diminished.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "At age 25",
+            "findings": "6.8–7.3%, slightly elevated.",
+            "changes_over_time": "Previously maintained HbA1c at less than 6.5% for 2 years prior."
+        },
+        {
+            "procedure_name": "C-peptide (post-prandial)",
+            "date": "At initial visit",
+            "findings": "0.7 ng/ml (0.23 nmol/liter), diminished.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "At diagnosis (age 28)",
+            "findings": "9.6%, elevated.",
+            "changes_over_time": "Remains in fair control of her diabetes (HbA1c 5.1–6.4%) with oral sulfonylurea."
+        },
+        {
+            "procedure_name": "Blood glucose (fasting)",
+            "date": "At diagnosis (not specified)",
+            "findings": "200 mg/dl (11.0 mmol/liter), elevated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

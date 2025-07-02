@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sodium Level",
+            "date": "Not specified",
+            "findings": "Initial sodium level of 118 mmol/L (normal 135 –145); repeat sodium level of 129 mmol/L after fluid restriction.",
+            "changes_over_time": "Sodium levels increased from 118 mmol/L to 129 mmol/L."
+        },
+        {
+            "procedure_name": "Serum Osmolality",
+            "date": "Not specified",
+            "findings": "Serum osmolality of 262 mOsm/kg (normal 275 –295).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Blood Bismuth Level",
+            "date": "Not specified",
+            "findings": "Initial whole blood bismuth level of 948 ng/mL (toxic range, normal <50); returned to normal at 9.5 ng/mL.",
+            "changes_over_time": "Whole blood bismuth levels decreased from 948 ng/mL to 9.5 ng/mL."
+        },
+        {
+            "procedure_name": "Urine Bismuth Level",
+            "date": "Not specified",
+            "findings": "Initial urine bismuth level of .406.5 ng/mL (toxic range, normal <50); declined to 8.6 ng/mL.",
+            "changes_over_time": "Urine bismuth levels decreased from .406.5 ng/mL to 8.6 ng/mL."
+        },
+        {
+            "procedure_name": "Vitamin Levels (B12, Folate, B6, E)",
+            "date": "Not specified",
+            "findings": "All vitamin levels assessed were within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "Thyroid function was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Analysis",
+            "date": "Not specified",
+            "findings": "Normal cell count, protein, and glucose; oligoclonal bands were not present.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal posterior rhythm, diffuse intermittent slowing in delta frequency range; no periodic sharp waves.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Comprehensive Neural Autoantibody Testing",
+            "date": "Not specified",
+            "findings": "Elevated VGKCc autoantibodies at 0.06 nmol/L (normal <0.02 nmol/L); VGKCc in CSF was normal; all other neural antibodies were negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

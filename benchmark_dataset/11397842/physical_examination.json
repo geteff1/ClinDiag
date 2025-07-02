@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "182 cm",
+                "arm_span": "194 cm",
+                "body_mass_index": "22.6 kg/m²",
+                "testicular_volume": "17 mL bilaterally",
+                "stretched_phallus_length": "7 cm"
+            },
+            "relevant_findings": {
+                "facial_hair": "Absent",
+                "axillary_hair": "Tanner stage III",
+                "pubic_hair": "Tanner stage IV",
+                "gynecomastia": "Tanner II bilaterally",
+                "visual_fields": "Full to confrontation",
+                "synkinesia": "Absent",
+                "color_blindness": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "26 years old, 6 weeks after discontinuation of hCG",
+            "vital_signs": {
+                "testosterone": "12.5 nmol/L",
+                "LH": "7.1 IU/L",
+                "FSH": "3.9 IU/L"
+            },
+            "relevant_findings": {
+                "sperm_count": "91.4 million/mL"
+            },
+            "changes_over_time": "Normal LH secretion with increased frequency; testosterone level increased from 3.1 nmol/L at baseline to 12.5 nmol/L after discontinuation of hCG."
+        },
+        {
+            "date": "26 years old, 6 months after discontinuation of hCG",
+            "vital_signs": {
+                "testosterone": "7 nmol/L",
+                "LH": "6.1 IU/L",
+                "FSH": "3.9 IU/L"
+            },
+            "relevant_findings": {
+                "sperm_count": "42 million/mL"
+            },
+            "changes_over_time": "Testosterone level decreased to 7 nmol/L, but normal libido and spermatogenesis maintained."
+        }
+    ]
+}

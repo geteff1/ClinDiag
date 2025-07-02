@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2 Days before Admission",
+            "findings": "38.3%",
+            "changes_over_time": "Increased to 42.6% on admission, then to 44.7% on the second hospital day."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "2 Days before Admission",
+            "findings": "13.4 g/dL",
+            "changes_over_time": "Increased to 15.1 g/dL on admission, then to 15.7 g/dL on the second hospital day."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "2 Days before Admission",
+            "findings": "14,400 per mm3",
+            "changes_over_time": "Increased to 14,800 per mm3 on admission, then to 19,900 per mm3 on the second hospital day."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "30 mm/hr (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "15.1 mg/liter (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG Testing for Varicella-Zoster Virus",
+            "date": "2nd Hospital Day",
+            "findings": "Positive",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Throat Culture",
+            "date": "Admission",
+            "findings": "Grew Arcanobacterium haemolyticum, negative for group A β-hemolytic streptococcus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

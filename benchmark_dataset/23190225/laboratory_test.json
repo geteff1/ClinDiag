@@ -1,0 +1,127 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "34.5%",
+                "Hemoglobin": "11.1 g/dL",
+                "White-cell count": "15,600 per mm3",
+                "Differential count": {
+                    "Neutrophils": "88%",
+                    "Lymphocytes": "5%",
+                    "Monocytes": "5%",
+                    "Eosinophils": "2%",
+                    "Basophils": "1%",
+                    "Band forms": "5"
+                }
+            },
+            "changes_over_time": [
+                {
+                    "time_frame": "8 months before current admission",
+                    "Hematocrit": "34.5%",
+                    "Hemoglobin": "11.1 g/dL",
+                    "White-cell count": "15,600 per mm3",
+                    "Neutrophils": "88%"
+                },
+                {
+                    "time_frame": "7 months before current admission",
+                    "Hematocrit": "34.1%",
+                    "Hemoglobin": "11.2 g/dL",
+                    "White-cell count": "25,600 per mm3",
+                    "Neutrophils": "80%"
+                },
+                {
+                    "time_frame": "6.5 months before current admission",
+                    "Hematocrit": "34.5%",
+                    "Hemoglobin": "11.3 g/dL",
+                    "White-cell count": "20,500 per mm3",
+                    "Neutrophils": "80%"
+                },
+                {
+                    "time_frame": "1 month before current admission",
+                    "Hematocrit": "35.1%",
+                    "Hemoglobin": "11.4 g/dL",
+                    "White-cell count": "16,800 per mm3",
+                    "Neutrophils": "90%"
+                },
+                {
+                    "time_frame": "On admission",
+                    "Hematocrit": "34.9%",
+                    "Hemoglobin": "11.1 g/dL",
+                    "White-cell count": "8200 per mm3",
+                    "Neutrophils": "83%"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Aspartate aminotransferase": "67 U/liter (normal range: 10-40)",
+                "Alanine aminotransferase": "62 U/liter (normal range: 10-55)"
+            },
+            "changes_over_time": [
+                {
+                    "time_frame": "8 months before current admission",
+                    "Aspartate aminotransferase": "67 U/liter",
+                    "Alanine aminotransferase": "62 U/liter"
+                },
+                {
+                    "time_frame": "1 month before current admission",
+                    "Aspartate aminotransferase": "46 U/liter",
+                    "Alanine aminotransferase": "25 U/liter"
+                },
+                {
+                    "time_frame": "On admission",
+                    "Aspartate aminotransferase": "150 U/liter",
+                    "Alanine aminotransferase": "81 U/liter"
+                }
+            ]
+        },
+        {
+            "procedure_name": "Muscle Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "Creatine kinase": "2498 U/liter (normal range: 60-400)",
+                "Aldolase": "36.0 U/liter (<7.7)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "Not specified",
+            "findings": {
+                "Ferritin": "710 ng/ml (normal range: 30-300)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autoantibodies Testing",
+            "date": "Not specified",
+            "findings": {
+                "Anti-Ro (SSA)": "Positive at 70.49 optical-density units (ref 0–19.99)",
+                "Antinuclear antibodies": "Negative at 1:40 and 1:160 dilutions",
+                "Cytoplasmic": "Positive at >1:5120 dilution"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": {
+                "C-reactive protein": "86.4 mg/liter (<8.0, negative for inflammation)"
+            },
+            "changes_over_time": [
+                {
+                    "time_frame": "7 months before current admission",
+                    "C-reactive protein": "91.2 mg/liter"
+                },
+                {
+                    "time_frame": "1 month before current admission",
+                    "C-reactive protein": "127.3 mg/liter"
+                }
+            ]
+        }
+    ]
+}

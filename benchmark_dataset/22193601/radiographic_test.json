@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "No evidence of myocarditis.",
+            "changes_over_time": "No significant change."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "No change in cardiac function from 2 weeks before admission.",
+            "changes_over_time": "No significant change."
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "Not specified",
+            "findings": "Consistent with poor patient effort but did not suggest compromised lung function.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

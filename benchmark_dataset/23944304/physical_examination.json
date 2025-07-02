@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "50 bpm",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "blood_potassium_level": "3.3 mmol/L (low)",
+                "creatinine_level": "1.3 mg/dL (elevated)",
+                "urea_nitrogen_level": "15 mg/dL (normal)",
+                "estimated_glomerular_filtration_rate": "59 mL/min/1.73m² (low)",
+                "body_mass_index": "30.0",
+                "rectal_exam": "Not performed, remainder normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Asymmetrical septal hypertrophy, hyperdynamic left ventricle, late-peaking left ventricular outflow tract (LVOT) gradient of 129 mm Hg, increasing to 185 mm Hg with Valsalva maneuver, moderate to severe mitral regurgitation (MR).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Left-sided heart catheterization",
+            "date": "Not specified",
+            "findings": "LV apex pressure of 160/21 mm Hg, LVOT pressure of 141/21 mm Hg, and ascending aortic pressure of 126/65 mm Hg. Resting peak-to-peak gradients of 19 mm Hg within the LV cavity and 15 mm Hg at the level of the aortic valve.",
+            "changes_over_time": "The LVOT gradient increases to 105 mm Hg with the Valsalva maneuver."
+        },
+        {
+            "procedure_name": "Right-sided heart catheterization",
+            "date": "Not specified",
+            "findings": "Right atrial pressure is 8 mm Hg, right ventricular pressure is 35/10 mm Hg, and pulmonary capillary wedge pressure is 15 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Presence of dynamic LVOT obstruction.",
+            "changes_over_time": "Gradient variability is common; resting gradient is markedly less than that seen on echocardiography."
+        },
+        {
+            "procedure_name": "Septal myectomy",
+            "date": "Not specified",
+            "findings": "Pathology of the hypertrophied septum notable for myocyte disarray, interstitial fibrosis, and arterial hyperplasia consistent with hypertrophic cardiomyopathy (HCM).",
+            "changes_over_time": "Postoperatively, complete resolution of dyspnea on exertion noted."
+        }
+    ]
+}

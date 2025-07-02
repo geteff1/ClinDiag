@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "blood_pressure": "93/53 mm Hg",
+                "pulse": "75 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "neurological_status": "Alert and oriented with subtle deficits in episodic memory.",
+                "pupils": "Round and reactive to light, constricting from 3 mm to 2 mm.",
+                "extraocular_movements": "Full, without nystagmus or saccadic breakdown.",
+                "diplopia": "Horizontal diplopia in all directions.",
+                "eyelid_appearance": "Mild ptosis of the right eyelid.",
+                "tremors": "Cheek tremors on smiling, unable to puff cheeks.",
+                "motor_examination": {
+                    "myoclonus": "Present in arms.",
+                    "strength": "4+ in left-hand fingers, otherwise 5 out of 5.",
+                    "deep_tendon_reflexes": "1+ and symmetric.",
+                    "plantar_responses": "Mute on both feet."
+                },
+                "gait_and_stance": "Not tested."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

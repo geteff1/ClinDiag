@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (LFT)",
+            "date": "Not specified",
+            "findings": {
+                "AST": "2,100 U/L (normal range: 8-48 U/L)",
+                "ALT": "2,200 U/L (normal range: 7-55 U/L)",
+                "total bilirubin": "28 mg/dL (normal range: 0.3-1.2 mg/dL)",
+                "INR": "2.4"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic tests for hepatitis",
+            "date": "Not specified",
+            "findings": {
+                "HAV IgM": "Positive, titre of 1:2560",
+                "HEV IgM": "Positive, titre of 1:640"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymerase chain reactions (PCR)",
+            "date": "Not specified",
+            "findings": "Detected hepatitis E virus (HEV) ribonucleic acid (RNA) in serum indicating active viral replication.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation parameters monitoring",
+            "date": "Not specified",
+            "findings": "Serial monitoring of prothrombin time and platelets.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood counts (CBC)",
+            "date": "Not specified",
+            "findings": "Serial complete blood counts performed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic panels",
+            "date": "Not specified",
+            "findings": "Metabolic panels performed serially.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gases (ABG)",
+            "date": "Not specified",
+            "findings": "Arterial blood gases were monitored.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests (including ALT, AST, and bilirubin)",
+            "date": "Every 12 hours",
+            "findings": "Liver function tests performed every 12 hours.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

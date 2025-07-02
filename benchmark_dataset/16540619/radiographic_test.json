@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "A mass, 3 cm in diameter, in the right thalamus adjacent to the lateral ventricle.",
+            "changes_over_time": "The mass had increased in size in subsequent imaging."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Right inguinal mass; there were no other abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scanning of the brain",
+            "date": "Second hospital day",
+            "findings": "A heterogeneous mass, 4.3 cm by 4.2 cm, in the right side of the thalamus, with a low attenuation center and high attenuation rim, exerting mass effect on adjacent structures.",
+            "changes_over_time": "Showed rapid growth of the tumor over the hospitalization period."
+        }
+    ]
+}

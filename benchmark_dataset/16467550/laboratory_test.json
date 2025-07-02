@@ -1,0 +1,112 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic test",
+            "date": "11 Days before Admission",
+            "findings": {
+                "white_cell_count": {
+                    "value": 7400,
+                    "normal_range": "4500–11000"
+                },
+                "hematocrit": {
+                    "value": 35.2,
+                    "normal_range": "36.0–46.0"
+                },
+                "hemoglobin": {
+                    "value": 11.4,
+                    "normal_range": "12.0–16.0"
+                },
+                "red_cells": {
+                    "value": 3850000,
+                    "normal_range": "4000000–5200000"
+                },
+                "platelet_count": {
+                    "value": 360000,
+                    "normal_range": "150000–350000"
+                },
+                "mean_corpuscular_volume": {
+                    "value": 92,
+                    "normal_range": "80–100"
+                },
+                "mean_corpuscular_hemoglobin": {
+                    "value": 29.7,
+                    "normal_range": "26.0–34.0"
+                },
+                "mean_corpuscular_hemoglobin_concentration": {
+                    "value": 32.4,
+                    "normal_range": "31.0–37.0"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "value": 90,
+                    "normal_range": "Unavailable"
+                }
+            },
+            "changes_over_time": {
+                "hemocrit": {
+                    "before_admission": 35.2,
+                    "on_admission": 34.4,
+                    "change": "decreased"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "before_admission": 90,
+                    "on_admission": "Unavailable",
+                    "change": "not specified"
+                }
+            }
+        },
+        {
+            "procedure_name": "Hematologic test",
+            "date": "On Admission",
+            "findings": {
+                "white_cell_count": {
+                    "value": 9400,
+                    "normal_range": "4500–11000"
+                },
+                "hematocrit": {
+                    "value": 34.4,
+                    "normal_range": "36.0–46.0"
+                },
+                "hemoglobin": {
+                    "value": 11.5,
+                    "normal_range": "12.0–16.0"
+                },
+                "red_cells": {
+                    "value": 3880000,
+                    "normal_range": "4000000–5200000"
+                },
+                "platelet_count": {
+                    "value": 402000,
+                    "normal_range": "150000–350000"
+                },
+                "mean_corpuscular_volume": {
+                    "value": 89,
+                    "normal_range": "80–100"
+                },
+                "mean_corpuscular_hemoglobin": {
+                    "value": 29.6,
+                    "normal_range": "26.0–34.0"
+                },
+                "mean_corpuscular_hemoglobin_concentration": {
+                    "value": 33.4,
+                    "normal_range": "31.0–37.0"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "value": "Unavailable",
+                    "normal_range": "Unavailable"
+                }
+            },
+            "changes_over_time": {
+                "hemocrit": {
+                    "before_admission": 35.2,
+                    "on_admission": 34.4,
+                    "change": "decreased"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "before_admission": 90,
+                    "on_admission": "Unavailable",
+                    "change": "not specified"
+                }
+            }
+        }
+    ]
+}

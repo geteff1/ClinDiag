@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 2003",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The electrocardiogram showed an abnormal ST segment. Patient was dyslipidemic and hypertensive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "May 2004",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Coronary angiogram revealed significantly enlarged right coronary artery aneurysm; no coronary stenosis was present.",
+            "changes_over_time": "The right coronary artery aneurysm significantly enlarged compared to previous angiogram."
+        },
+        {
+            "date": "Post-surgery (date not specified)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Soft and bluish right coronary artery aneurysm on palpation; no thrombus in the lumen observed during surgery.",
+            "changes_over_time": "Six months after surgery, complete disappearance of the aneurysm was noted with a patent anastomosis."
+        }
+    ]
+}

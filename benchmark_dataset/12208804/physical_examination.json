@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "30 bpm (junctional rhythm)",
+                "qt_interval": "480 ms (prolonged)",
+                "pacing_rate": "80 bpm (with exaggerated QT interval of 731 ms)",
+                "qt_interval_after_withdrawal": "594 ms",
+                "qt_interval_after_6_days": "417 ms",
+                "exercise_stress_test_hr": {
+                    "resting": "66 bpm",
+                    "maximum": "93 bpm"
+                },
+                "exercise_stress_test_qt": {
+                    "resting": "408 ms",
+                    "maximum": "457 ms"
+                }
+            },
+            "relevant_findings": {
+                "ecg_findings": "complete right bundle branch block; repetitive torsade de pointes",
+                "lab_data": "serum electrolytes within normal limits"
+            },
+            "changes_over_time": {
+                "initial_qt": "480 ms with torsade de pointes",
+                "immediate_change_after_pacing": "QTc prolonged to 731 ms",
+                "after_withdrawal": "QTc reduced to 594 ms next day",
+                "after_6_days": "QTc normalized to 417 ms"
+            }
+        }
+    ]
+}

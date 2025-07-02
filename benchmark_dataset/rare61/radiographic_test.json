@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest CT",
+            "date": "2015",
+            "findings": "Multiple cavitary lesions and bronchiectasis.",
+            "changes_over_time": "During her second visit in December 2020, chest CT revealed bilateral multiple bronchiectases, pulmonary bulla, and atelectasis."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "December 2020",
+            "findings": "Bilateral multiple bronchiectases, pulmonary bulla, and atelectasis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "May 2021",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

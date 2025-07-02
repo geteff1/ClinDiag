@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum leptin measurement",
+            "date": "Not specified",
+            "findings": "Plasma leptin levels were undetectable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting insulin",
+            "date": "At 0 months",
+            "findings": "27.4 U/ml (normal range: 0–17 U/ml)",
+            "changes_over_time": "Hyperinsulinemia normalized by 6 months and remained within the normal range."
+        },
+        {
+            "procedure_name": "Fasting glucose",
+            "date": "At 0 months",
+            "findings": "66.7 mg/dL (normal range: 70–110 mg/dL)",
+            "changes_over_time": "Remained normal throughout the trial."
+        },
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "At 0 months",
+            "findings": "162 mg/dL (normal range: 123–170 mg/dL)",
+            "changes_over_time": "Decreased slightly to 120 mg/dL at 6 months."
+        },
+        {
+            "procedure_name": "HDL cholesterol",
+            "date": "At 0 months",
+            "findings": "27.4 mg/dL (normal range: >38.6 mg/dL)",
+            "changes_over_time": "Increased to 40.5 mg/dL by month 6."
+        },
+        {
+            "procedure_name": "LDL cholesterol",
+            "date": "At 0 months",
+            "findings": "84.6 mg/dL (normal range: 62–108 mg/dL)",
+            "changes_over_time": "Remained stable throughout the trial."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "At 0 months",
+            "findings": "240 mg/dL (normal range: 35–115 mg/dL)",
+            "changes_over_time": "Normalized to 73.5 mg/dL by month 6."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "At 0 months",
+            "findings": "4.8 U/ml (normal range: 0.4–4.1 U/ml)",
+            "changes_over_time": "Risen to 16.4 U/ml at 53 months during a trial off thyroid replacement."
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "At 0 months",
+            "findings": "0.93 ng/dL (normal range: 0.62–1.71 ng/dL)",
+            "changes_over_time": "Increased to 1.90 ng/dL by month 6; was above the upper limit of reference range after 12 months."
+        },
+        {
+            "procedure_name": "Bone mineral content",
+            "date": "During the trial",
+            "findings": "Increased in keeping with age-related growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total fat mass measurement",
+            "date": "At 0 months",
+            "findings": "34.3 kg",
+            "changes_over_time": "Decreased to 18.4 kg by 48 months."
+        },
+        {
+            "procedure_name": "Body mass index (BMI)",
+            "date": "At 0 months",
+            "findings": "43.4 kg/m²",
+            "changes_over_time": "Decreased to 24.2 kg/m² by 48 months."
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Within the first month of therapy",
+            "findings": "Doubled, with noted increase in lymphocytes, neutrophils, and monocytes.",
+            "changes_over_time": "Remained elevated for the first 3 months, then returned to normal."
+        },
+        {
+            "procedure_name": "Antimicrosomal antibodies",
+            "date": "Not specified",
+            "findings": "Detected at low titer (1:1600).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

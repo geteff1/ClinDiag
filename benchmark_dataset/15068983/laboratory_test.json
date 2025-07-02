@@ -1,0 +1,92 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 5",
+            "findings": {
+                "Cells": "125 /mm^3",
+                "Glucose level": "3.4 mmol/L (62 mg/dL)",
+                "Protein level": "590 mg/L"
+            },
+            "changes_over_time": "Cells count slightly increased to 126 on Day 7, then decreased to 15 by Day 38. Glucose remained stable then decreased to 2.4 mmol/L (43 mg/dL) on Day 18, and proteins fluctuated over the days but were highest at 1320 mg/L on Day 14."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 7",
+            "findings": {
+                "Cells": "126 /mm^3",
+                "Glucose level": "3.4 mmol/L (62 mg/dL)",
+                "Protein level": "1030 mg/L"
+            },
+            "changes_over_time": "Cells count decreased to 80 on Day 11, then decreased further to 61 on Day 14. Glucose remained stable from Day 5 and Day 7, but protein increased from 590 to 1030 mg/L."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 11",
+            "findings": {
+                "Cells": "80 /mm^3",
+                "Glucose level": "3.6 mmol/L (64 mg/dL)",
+                "Protein level": "560 mg/L"
+            },
+            "changes_over_time": "Cells count dropped to 61 on Day 14. Glucose increased slightly and protein decreased from 1030 mg/L on Day 7."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 14",
+            "findings": {
+                "Cells": "61 /mm^3",
+                "Glucose level": "Not specified",
+                "Protein level": "1320 mg/L"
+            },
+            "changes_over_time": "Cells decreased to 46 on Day 18, while protein levels fluctuated."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 18",
+            "findings": {
+                "Cells": "46 /mm^3",
+                "Glucose level": "2.4 mmol/L (43 mg/dL)",
+                "Protein level": "890 mg/L"
+            },
+            "changes_over_time": "Cells count decreased further to 15 on Day 38."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 23",
+            "findings": {
+                "Cells": "15 /mm^3",
+                "Glucose level": "3.3 mmol/L (60 mg/dL)",
+                "Protein level": "730 mg/L"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Day 38",
+            "findings": {
+                "Cells": "1 /mm^3",
+                "Glucose level": "3.3 mmol/L (59 mg/dL)",
+                "Protein level": "1930 mg/L"
+            },
+            "changes_over_time": "Unchanged cells count and glucose, but protein increased significantly."
+        },
+        {
+            "procedure_name": "Polymerase chain reaction (PCR)",
+            "date": "Day 10",
+            "findings": {
+                "Result": "Positive for West Nile virus in cerebrospinal fluid"
+            },
+            "changes_over_time": "Negative PCR result reported for the first time on Day 23."
+        },
+        {
+            "procedure_name": "Serum PCR and serology testing",
+            "date": "Day 14",
+            "findings": {
+                "Serum PCR result": "Positive",
+                "IgM result": "Not specified",
+                "IgG result": "Not specified"
+            },
+            "changes_over_time": "IgM antibodies detected by Day 38."
+        }
+    ]
+}

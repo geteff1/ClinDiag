@@ -1,0 +1,208 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leptin measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "leptin_levels": {
+                        "Day 0": "59.7 ng/mL",
+                        "Day 4": "56.2 ng/mL",
+                        "Day 9": "46.9 ng/mL",
+                        "Week 8": "64 ng/mL"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "leptin_levels": {
+                        "Day 0": "74.6 ng/mL",
+                        "Day 4": "Not determined",
+                        "Day 9": "56.8 ng/mL",
+                        "Week 8": "20.4 ng/mL"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Initially high levels decreasing then increasing again by Week 8."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "High levels at Day 0 decreasing by Day 9, then significantly decreasing again by Week 8."
+                }
+            ]
+        },
+        {
+            "procedure_name": "Insulin measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "insulin_levels": {
+                        "Day 0": "32.5 mU/L",
+                        "Day 4": "30.6 mU/L",
+                        "Day 9": "51.1 mU/L",
+                        "Week 8": "22.7 mU/L"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "insulin_levels": {
+                        "Day 0": "19.8 mU/L",
+                        "Day 4": "13.8 mU/L",
+                        "Day 9": "8.8 mU/L",
+                        "Week 8": "10.8 mU/L"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Levels decreased initially then increased at Day 9 before decreasing again at Week 8."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "Decreasing levels throughout the observation."
+                }
+            ]
+        },
+        {
+            "procedure_name": "C-peptide measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "c_peptide_levels": {
+                        "Day 0": "3.8 ng/mL",
+                        "Day 4": "3.6 ng/mL",
+                        "Day 9": "4.6 ng/mL",
+                        "Week 8": "3 ng/mL"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "c_peptide_levels": {
+                        "Day 0": "3 ng/mL",
+                        "Day 4": "2.8 ng/mL",
+                        "Day 9": "1.8 ng/mL",
+                        "Week 8": "2.2 ng/mL"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Slight decrease after initial measurement with a slight increase by Day 9."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "Decreasing levels with a slight increase at Week 8."
+                }
+            ]
+        },
+        {
+            "procedure_name": "Triglycerides measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "triglyceride_levels": {
+                        "Day 0": "1.4 mmol/L",
+                        "Day 4": "1.5 mmol/L",
+                        "Day 9": "1.6 mmol/L",
+                        "Week 8": "1.5 mmol/L"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "triglyceride_levels": {
+                        "Day 0": "0.8 mmol/L",
+                        "Day 4": "1.2 mmol/L",
+                        "Day 9": "0.4 mmol/L",
+                        "Week 8": "0.9 mmol/L"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Slight increase followed by a stabilization."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "Fluctuating levels with a peak at Day 4."
+                }
+            ]
+        },
+        {
+            "procedure_name": "ALT measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "ALT_levels": {
+                        "Day 0": "20 U/L",
+                        "Day 4": "18 U/L",
+                        "Day 9": "21 U/L",
+                        "Week 8": "35 U/L"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "ALT_levels": {
+                        "Day 0": "16 U/L",
+                        "Day 4": "32 U/L",
+                        "Day 9": "41 U/L",
+                        "Week 8": "37 U/L"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Overall increase from baseline over time."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "Steady increase with a slight decrease at Week 8."
+                }
+            ]
+        },
+        {
+            "procedure_name": "AST measurement",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "patient": "Patient A",
+                    "AST_levels": {
+                        "Day 0": "22 U/L",
+                        "Day 4": "25 U/L",
+                        "Day 9": "27 U/L",
+                        "Week 8": "35 U/L"
+                    }
+                },
+                {
+                    "patient": "Patient B",
+                    "AST_levels": {
+                        "Day 0": "25 U/L",
+                        "Day 4": "36 U/L",
+                        "Day 9": "53 U/L",
+                        "Week 8": "43 U/L"
+                    }
+                }
+            ],
+            "changes_over_time": [
+                {
+                    "patient": "Patient A",
+                    "change": "Gradual increase in levels indicating possible liver response."
+                },
+                {
+                    "patient": "Patient B",
+                    "change": "Increase overall with a peak at Day 9."
+                }
+            ]
+        }
+    ]
+}

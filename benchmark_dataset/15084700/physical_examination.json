@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "pulse": "89 bpm",
+                "respiratory_rate": "24 breaths/min",
+                "blood_pressure": "140/65 mm Hg",
+                "arterial_oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "appearance": "Pale, short, overweight",
+                "murmurs": {
+                    "decrescendo_pandiastolic": "Grade 3 of 4",
+                    "systolic": "Grade 1"
+                },
+                "peripheral_edema": "+",
+                "jugular_venous_pressure": "Normal",
+                "thyroid_gland": "Not enlarged",
+                "neurological_exam": "Normal except absent plantar responses",
+                "lung_exam": "Clear",
+                "abdominal_exam": "Healing surgical incision",
+                "blood_test_results": "Normal glucose, urea nitrogen, creatinine, bilirubin, AST, ALT, alkaline phosphatase, troponin T"
+            },
+            "changes_over_time": {
+                "peripheral_edema": {
+                    "initial": "+",
+                    "second_day": "Absent"
+                },
+                "blood_pressure": {
+                    "first_day": "140/65 mm Hg",
+                    "second_day": "135/85 mm Hg"
+                }
+            }
+        },
+        {
+            "date": "Second Hospital Day",
+            "vital_signs": {
+                "blood_pressure": "125 mm Hg (after labetalol administered)"
+            },
+            "relevant_findings": "Small pericardial effusion with diffuse fibrin deposition.",
+            "changes_over_time": "Overall, the patient's condition improved postoperatively with normalization of peripheral edema and blood pressure changes."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "A mass was reported.",
+            "changes_over_time": "A follow-up chest X-ray showed a normal result."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Seven months before admission",
+            "findings": "Multifocal patchy pulmonary opacities and a cyst, 1 cm in diameter, in the left apex.",
+            "changes_over_time": "Follow-up CT performed 21 months after admission revealed an increase in subpleural reticular opacities and the development of multiple subpleural cystic spaces, suggestive of early honeycombing."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "On admission",
+            "findings": "Patchy, bilateral, multifocal, subpleural reticular and ground-glass opacities, more in the lower lobes than in the upper lobes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

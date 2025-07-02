@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Mild tachypnea"
+            },
+            "relevant_findings": {
+                "leukocyte_count": "Leukocytosis (exact cell count not provided)",
+                "creatinine_level": "122 mmol/L (elevated)",
+                "liver_enzyme_levels": {
+                    "aspartate_aminotransferase": "57 IU/L (elevated)",
+                    "alanine_aminotransferase": "142 IU/L (elevated)",
+                    "alkaline_phosphatase": "300 IU/L (elevated)",
+                    "gamma_glutamyl_transferase": "463 IU/L (elevated)",
+                    "total_bilirubin": "183 mmol/L (elevated)",
+                    "conjugated_bilirubin": "128 mmol/L (elevated)"
+                },
+                "chest_xray": "Infiltrate in the anterior segment of the right upper lobe"
+            },
+            "changes_over_time": {
+                "initial": {
+                    "dyspnea": "Present",
+                    "cough": "Present"
+                },
+                "after_treatment": {
+                    "dyspnea": "Not present",
+                    "tachypnea": "Not present",
+                    "cough": "Not present"
+                }
+            }
+        }
+    ]
+}

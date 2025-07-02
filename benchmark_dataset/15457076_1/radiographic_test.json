@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Indicated signs of infection with the presence of granulation tissue in the echogenic lesions.",
+            "changes_over_time": "The patient initially demonstrated tenderness and pain, which progressed to showing increased white blood cell count and C-reactive protein levels necessitating surgical intervention."
+        },
+        {
+            "procedure_name": "Indocyanine Green Near-Infrared Video Angiography",
+            "date": "Not specified",
+            "findings": "Delayed intraoperative indocyanine green uptake indicated issues in perfusion for some flaps.",
+            "changes_over_time": "Clinical correlations showed that delayed perfusion led to postoperative complications in two flaps, one resulting in venous congestion."
+        }
+    ]
+}

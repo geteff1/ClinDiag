@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "URINALYSIS",
+            "date": "Not specified",
+            "findings": "Negative results for infection.",
+            "changes_over_time": "Hip pain decreased to 6/10 after using crutches and reducing weight-bearing activity."
+        },
+        {
+            "procedure_name": "CONVENTIONAL RADIOGRAPH",
+            "date": "Not specified",
+            "findings": "Osteopenia of the right proximal femur and acetabulum, no evidence of fracture or avascular necrosis.",
+            "changes_over_time": "Follow-up radiograph revealed normal mineralization of the right femur and acetabulum approximately 13 weeks later."
+        },
+        {
+            "procedure_name": "MAGNETIC RESONANCE IMAGING (MRI)",
+            "date": "Not specified",
+            "findings": "Bone marrow edema of the right femoral head, neck, and intertrochanteric region. Possible early avascular necrosis, likely transient osteoporosis.",
+            "changes_over_time": "Follow-up MRI showed slight residual high-signal intensity in the right femoral head and acetabulum, indicating marked reduction of bone marrow edema."
+        }
+    ]
+}

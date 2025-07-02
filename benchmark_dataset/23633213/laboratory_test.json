@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Not specified",
+            "findings": {
+                "FT4": "low-normal",
+                "T4": "low-normal",
+                "T3": "increased",
+                "rT3": "decreased",
+                "TSH": "normal"
+            },
+            "changes_over_time": "After initiation of LT4 treatment at age 6, TSH suppressed, FT4 and T4 elevated, rT3 normalized, while T3 increased slightly. GH therapy at age 8.5 decreased FT4, T4, T3, and rT3 levels; T3/rT3 and T3/T4 ratios decreased but the rT3/T4 ratio remained normal. Cessation of LT4 increased TSH and decreased FT4, T4, and rT3 to low-normal with T3 at upper limit of normal. Resumption of LT4 restored suppression of TSH and normalization of FT4 and rT3."
+        },
+        {
+            "procedure_name": "Serum cholesterol levels",
+            "date": "Not specified",
+            "findings": {
+                "Total cholesterol": "elevated",
+                "LDL cholesterol": "elevated",
+                "effect of LT4": "normalization"
+            },
+            "changes_over_time": "Before and during LT4, total and LDL cholesterol were elevated; after 35 days off LT4, levels returned to pretreatment values, and reinitiation normalized serum cholesterol levels."
+        },
+        {
+            "procedure_name": "Serum IGF-I level",
+            "date": "Not specified",
+            "findings": {
+                "Index patient IGF-I": "low to low-normal",
+                "Father IGF-I": "no clear changes observed"
+            },
+            "changes_over_time": "In the index patient, IGF-I levels increased with LT4 treatment but decreased during withdrawal and increased again after resumption."
+        },
+        {
+            "procedure_name": "Serum creatine kinase (CK)",
+            "date": "Not specified",
+            "findings": {
+                "CK index patient": "149 U/L (before), 196 U/L (on LT4), 121 U/L (after)",
+                "reference range": "≤ 190 U/L"
+            },
+            "changes_over_time": "CK levels increased with LT4 treatment and decreased upon cessation."
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Anemia": "Normocytic anemia",
+                "Hemoglobin index patient": "11.5 g/dL (before), 10.6 g/dL (on LT4)",
+                "Hemoglobin father": "10 g/dL (before), 14.2 g/dL (1 year on LT4)"
+            },
+            "changes_over_time": "Anemia in the index patient did not respond to LT4, while the father's anemia improved during LT4 therapy."
+        }
+    ]
+}

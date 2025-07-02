@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "A ring-enhancing mass, measuring 8 mm by 9 mm, in the right parietal lobe of the brain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic (CT) scan",
+            "date": "Not specified",
+            "findings": "An enhancing, lobulated mass in the right lower lobe of the lung, consistent with an arteriovenous malformation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "30 hours after the initial MRI",
+            "findings": "An enhancing lesion, 1.9 cm by 2.2 cm by 2.8 cm, in the right posterior cingulate gyrus with surrounding T2-weighted signal hyperintensity within the left posterior frontal and parietal lobes. Ring enhancement noted after contrast administration.",
+            "changes_over_time": "Marked enlargement from the initial study, nearly doubling in size during a period of 30 hours."
+        },
+        {
+            "procedure_name": "Diffusion-weighted MRI",
+            "date": "Not specified",
+            "findings": "A hyperintense central area corresponding to restricted diffusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Perfusion-weighted MRI",
+            "date": "Not specified",
+            "findings": "Increased mean transit time within the lesion and decreased cerebral blood volume.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

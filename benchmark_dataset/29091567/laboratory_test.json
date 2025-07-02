@@ -1,0 +1,62 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "19,800 per cubic millimeter",
+                "hemoglobin_level": "16.0 g per deciliter",
+                "platelet_count": "196,000 per cubic millimeter",
+                "neutrophils": "86%",
+                "lymphocytes": "5%",
+                "monocytes": "8%"
+            },
+            "changes_over_time": "On the second hospital day, the white-cell count decreased to 14,200 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "6.7 mg per deciliter (reference range, 0.2 to 1.1 mg per deciliter)",
+                "direct_bilirubin": "2.6 mg per deciliter (reference range, 0.0 to 0.3 mg per deciliter)",
+                "alanine_aminotransferase": "185 U per liter (normal value, <54 U)",
+                "aspartate_aminotransferase": "157 U per liter (normal range, 10 to 42 U)",
+                "alkaline_phosphatase": "101 U per liter (normal range, 40 to 130 U)",
+                "albumin": "4.7 g per deciliter",
+                "international_normalized_ratio": "1.1"
+            },
+            "changes_over_time": "On the second hospital day, total bilirubin level increased to 19.5 mg per deciliter, direct bilirubin level to 11.2 mg per deciliter, alanine aminotransferase to 519 U per liter, aspartate aminotransferase to 188 U per liter, and alkaline phosphatase to 171 U per liter."
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "On the third hospital day",
+            "findings": {
+                "total_bilirubin": "5.7 mg per deciliter",
+                "direct_bilirubin": "2.5 mg per deciliter",
+                "alanine_aminotransferase": "292 U per liter",
+                "aspartate_aminotransferase": "89 U per liter",
+                "alkaline_phosphatase": "174 U per liter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Reticulocyte count",
+            "date": "After discharge",
+            "findings": {
+                "reticulocyte_percentage": "3.2% (normal range, 0.5 to 2.2)",
+                "absolute_reticulocyte_count": "172,100 per cubic millimeter (normal range, 31,500 to 108,800)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "One month after cholecystectomy",
+            "findings": {
+                "total_bilirubin": "3.3 mg per deciliter (56 μmol per liter)",
+                "direct_bilirubin": "0.9 mg per deciliter (15 μmol per liter)",
+                "aminotransferase_levels": "Normalized"
+            },
+            "changes_over_time": "Returned to baseline levels."
+        }
+    ]
+}

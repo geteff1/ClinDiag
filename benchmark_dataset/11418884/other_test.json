@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Open lung biopsy",
+            "date": "Not specified",
+            "findings": "Diagnosis of Burkholderia cepacia pneumonia based on examination of biopsy specimen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided fine-needle aspirate",
+            "date": "Not specified",
+            "findings": "Revealed gram-positive, modified acid-fast bacillus-positive filamentous organisms consistent with Nocardia species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Punch biopsy",
+            "date": "Not specified",
+            "findings": "Showed fungal elements, culture grew Paecilomyces lilacinus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Granulocyte transfusions",
+            "date": "Not specified",
+            "findings": "Administered 5 days a week for 3 consecutive weeks.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV serologic test",
+            "date": "Not specified",
+            "findings": "Positive result with CD4 T lymphocyte count of 109 cells/mm3 and virus burden of 324,000 copies/mL at admission.",
+            "changes_over_time": "After treatment, virus load fell to <10,000 copies/mL and CD4 count rose to 170 cells/mm3."
+        },
+        {
+            "procedure_name": "Follow-up imaging studies",
+            "date": "Not specified",
+            "findings": "Pulmonary and hepatic lesions were improved.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

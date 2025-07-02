@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Exercise Myocardial Perfusion Imaging Stress Test",
+            "date": "Not specified",
+            "findings": "Patient exercised for 8 minutes and 8 seconds, achieving 10.1 METS and a peak heart rate of 150 bpm. The ECG revealed 1-mm ST depressions with T-wave inversions in leads V2 through V4. The myocardial perfusion imaging showed a left ventricular ejection fraction of 61% with a moderate-sized, reversible perfusion defect involving the anterior wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": "Demonstrated 80% stenosis in the left anterior descending coronary artery at the first diagonal, an 80% complex lesion in the left circumflex artery, and a 60% stenosis in the proximal right coronary artery.",
+            "changes_over_time": "Findings indicate progression to 3-vessel CAD of moderate severity."
+        },
+        {
+            "procedure_name": "Coronary Angiography (Post-PCI)",
+            "date": "Not specified",
+            "findings": "Revealed complete thrombotic occlusion of the left anterior descending coronary artery at the site of the previous PCI.",
+            "changes_over_time": "Indicates a complication of stent thrombosis post-PCI."
+        },
+        {
+            "procedure_name": "Platelet Function Testing (VerifyNow P2Y12 assay)",
+            "date": "Not specified",
+            "findings": "Demonstrated elevated residual platelet reactivity with a PRU of 280 U.",
+            "changes_over_time": "Follow-up testing in 2 weeks confirmed appropriate levels of platelet inhibition with a PRU of 147 U."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Follow-up echocardiogram revealed anterior hypokinesis and an estimated ejection fraction of 45%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

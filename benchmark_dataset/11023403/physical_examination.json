@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "117/72",
+                "blood_pressure_before_treatment": "123/88",
+                "average_blood_pressure": "115/70",
+                "serum_creatinine": "112",
+                "urinary_protein": "10,333"
+            },
+            "relevant_findings": {
+                "serum_albumin": "240",
+                "serum_ig_g": "29.7",
+                "glomular_filtration_rate": "47"
+            },
+            "changes_over_time": {
+                "serum_albumin": {
+                    "before_treatment": "240",
+                    "after_3_months": "290",
+                    "after_7_months": "310"
+                },
+                "urinary_protein": {
+                    "before_treatment": "10,333",
+                    "after_3_months": "2,180",
+                    "after_7_months": "3,630"
+                },
+                "serum_creatinine": {
+                    "before_treatment": "112",
+                    "after_3_months": "86",
+                    "after_7_months": "81"
+                },
+                "glomular_filtration_rate": {
+                    "before_treatment": "47",
+                    "after_3_months": "44",
+                    "after_7_months": "57"
+                }
+            }
+        }
+    ]
+}

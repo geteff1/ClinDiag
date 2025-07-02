@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ACTH Level",
+            "date": "At age 10.7 years",
+            "findings": "325.7 pg/ml; normal range, 0.8–58",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate",
+            "date": "At age 10.7 years",
+            "findings": "Below detection limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "17-hydroxyprogesterone",
+            "date": "At age 10.7 years",
+            "findings": "Below detection limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LH Level",
+            "date": "At age 14.2 years",
+            "findings": "37.2 mU/liter; normal range, 0.5–2.0",
+            "changes_over_time": "Increased from normal levels"
+        },
+        {
+            "procedure_name": "FSH Level",
+            "date": "At age 14.2 years",
+            "findings": "25.7 mU/liter; normal range, 0.4–1.7",
+            "changes_over_time": "Increased from normal levels"
+        },
+        {
+            "procedure_name": "Testosterone Level",
+            "date": "At age 14.2 years",
+            "findings": "0.26 ng/ml; normal range, 1.6–4.0",
+            "changes_over_time": "Decreased from normal levels"
+        },
+        {
+            "procedure_name": "P450scc Activity (L222P Mutant)",
+            "date": "Not specified",
+            "findings": "Approximately 7% compared with the wild type",
+            "changes_over_time": "Progressed from partial loss of steroidogenic function in early life to complete adrenal and gonadal failure by age 14.2 years"
+        }
+    ]
+}

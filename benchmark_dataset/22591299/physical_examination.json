@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "181/103 mm Hg",
+                "pulse": "81 bpm",
+                "temperature": "36.3°C",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "neurologic": [
+                    "bilateral papilledema (worse on the left side than on the right)",
+                    "decreased visual acuity (20/100 in the left eye, 20/50 in the right eye)",
+                    "diplopia (on far vision only)",
+                    "extraocular movements normal",
+                    "patellar and Achilles' deep-tendon reflexes 1+, equal, and symmetric",
+                    "extensor plantar reflex on the left, flexor on the right"
+                ],
+                "erythrocyte_sedimentation_rate": "61 mm per hour",
+                "total_protein": "9.4 g per deciliter",
+                "globulin": "5.6 g per deciliter",
+                "alanine_aminotransferase": "300 U per liter",
+                "aspartate_aminotransferase": "265 U per liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "178/102 mm Hg",
+                "other_vital_signs": "normal"
+            },
+            "relevant_findings": {
+                "neck": [
+                    "stiff neck",
+                    "decreased range of motion",
+                    "tenderness on flexion, extension, and right-to-left motion"
+                ],
+                "plantar_reflexes": "flexor",
+                "remainder_of_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10th day post-admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Altered findings in imaging with enlargement of the resection cavity and new cystic lesions.",
+            "changes_over_time": "Progression of disease evident through imaging studies showing changes including enlargement of ventricles and development of new cysts."
+        }
+    ]
+}

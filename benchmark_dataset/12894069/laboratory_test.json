@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Negative for systemic involvement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans (chest, abdomen, pelvis)",
+            "date": "Not specified",
+            "findings": "No systemic involvement or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Dense lymphocytic infiltrate predominantly composed of large dysplastic lymphocytes, marked as B cells (CD20, BCL-2 positive).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemotherapy (cyclophosphamide, doxorubicin, vincristine, and prednisone)",
+            "date": "Not specified",
+            "findings": "Significant decrease in the size of tumors and edema.",
+            "changes_over_time": "Achieved a complete response lasting for 1 year."
+        },
+        {
+            "procedure_name": "Localized electron beam radiotherapy",
+            "date": "Not specified",
+            "findings": "Complete response that was durable for 1 year.",
+            "changes_over_time": "Relapsed with new nodules after 12 months."
+        },
+        {
+            "procedure_name": "Anti-CD20 monoclonal antibody (rituximab)",
+            "date": "Not specified",
+            "findings": "Now in complete clinical remission.",
+            "changes_over_time": "Received 2 courses of 4 weekly infusions."
+        },
+        {
+            "procedure_name": "Radiotherapy (3800 cGy)",
+            "date": "Not specified",
+            "findings": "Near complete response.",
+            "changes_over_time": "Developed several new painful nodules soon after treatment."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Dense, diffuse lymphoid infiltrate, predominantly large dysplastic cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiotherapy (3500 cGy)",
+            "date": "Not specified",
+            "findings": "Achieved a near complete response.",
+            "changes_over_time": "Maintained partial response after 3 months."
+        }
+    ]
+}

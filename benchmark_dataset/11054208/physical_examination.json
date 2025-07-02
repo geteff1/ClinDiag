@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "132/83 mm Hg",
+                "pulse_rate": "101 beats/min",
+                "respiratory_rate": "18 breaths/min",
+                "temperature": "36.9°C (98.5°F)"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "dilated pupils",
+                    "brisk reflexes",
+                    "unsustained ankle clonus bilaterally"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital day 3",
+            "vital_signs": {
+                "blood_pressure": "150/115 mm Hg",
+                "pulse_rate": "88 beats/min",
+                "temperature": "38.5°C (101.4°F)"
+            },
+            "relevant_findings": {
+                "abnormal_findings": [
+                    "marked hyperreflexia",
+                    "sustained ankle clonus bilaterally",
+                    "small bruise on her chin"
+                ]
+            },
+            "changes_over_time": "Agitation, disorientation, and visual hallucinations noted; CK level increased steadily."
+        },
+        {
+            "date": "Hospital day 6",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "CK and liver enzyme levels returned to normal."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Hypointense T1-weighted and hyperintense T2-weighted bone marrow signal involving vertebral bodies T2, T3, and T4; vertebral compression fractures; an epidural fluid collection; and spinal cord compression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Vertebral osteomyelitis of T2, T3, and T4, with bony destruction and compression fractures; diskitis of the T2–T3 space; an epidural abscess extending from T1 to T5; thoracic cord compression.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Patchy infiltrates and a cavitary lesion in the right upper lobe.",
+            "changes_over_time": "A chest CT obtained before discharge showed a reduction in the size of the lung cavity."
+        }
+    ]
+}

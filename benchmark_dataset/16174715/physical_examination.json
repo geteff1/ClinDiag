@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1973",
+            "vital_signs": {
+                "height": "162 cm",
+                "weight": "54 kg",
+                "body_mass_index": "20.6 kg/m2"
+            },
+            "relevant_findings": {
+                "cutaneous_xanthoma": "Eruptive cutaneous xanthomatosis on the right upper arm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "November 2004",
+            "vital_signs": {
+                "plasma_glucose_level_after_75g_loading": "13.9 mmol/liter"
+            },
+            "relevant_findings": {
+                "glucose_tolerance": {
+                    "initial": "Normal in 1973",
+                    "current": "Decreased insulin secretion, indicative of glucose intolerance"
+                }
+            },
+            "changes_over_time": "Insulin secretion began to decrease over time, suggesting progression in glucose intolerance."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum_triglycerides": "As high as 40 mmol/liter; occasionally reached 11 mmol/liter"
+            },
+            "relevant_findings": "No clinically significant atherosclerotic lesions observed despite smoking and diabetes.",
+            "changes_over_time": "The threshold serum TG level for acute pancreatitis onset appeared to decrease with age."
+        }
+    ]
+}

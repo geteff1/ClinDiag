@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "2002",
+            "findings": "6.1 mEq/L (elevated)",
+            "changes_over_time": "Potassium levels decreased to less than 5 mEq/L in 2004, then to less than 3.6 mEq/L in 2008."
+        },
+        {
+            "procedure_name": "Intact PTH (iPTH)",
+            "date": "2002",
+            "findings": "879 pg/ml (elevated)",
+            "changes_over_time": "Decreased to 32.0 pg/ml after parathyroidectomy in 2002. Increased again to 882 pg/ml by current admission (2011)."
+        },
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "2011",
+            "findings": "3.1 mEq/L (normal)",
+            "changes_over_time": "Improved from low levels of 2.4–2.8 mEq/L preoperatively."
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "2011",
+            "findings": "< 2 pg/ml (suppressed)",
+            "changes_over_time": "Increased to 57.5 pg/ml at 12 months post-adrenalectomy and decreased to 32.8 pg/ml at 15 months."
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "2011",
+            "findings": "19.2 µg/dl (elevated)",
+            "changes_over_time": "Decreased to 2.5 µg/dl at 2 weeks after adrenalectomy, increased to 9.3 µg/dl at 15 months."
+        },
+        {
+            "procedure_name": "Plasma Aldosterone Concentration (PAC)",
+            "date": "2011",
+            "findings": "24.8 ng/dl (elevated)",
+            "changes_over_time": "Decreased to 4.1 ng/dl at 15 months post-adrenalectomy."
+        },
+        {
+            "procedure_name": "Plasma Renin Activity (PRA)",
+            "date": "2011",
+            "findings": "9.6 ng/ml/h (elevated)",
+            "changes_over_time": "Decreased to 1.4 ng/ml/h at 15 months post-adrenalectomy."
+        },
+        {
+            "procedure_name": "DHEAS",
+            "date": "2011",
+            "findings": "130 ng/ml (normal)",
+            "changes_over_time": "Decreased to 40 ng/ml at 15 months post-adrenalectomy."
+        }
+    ]
+}

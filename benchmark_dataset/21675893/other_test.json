@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "2 years before admission",
+            "findings": "Lymphocytic pleocytosis",
+            "changes_over_time": "The headaches gradually resolved during a 2-month period."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "1 year before admission",
+            "findings": "Opening pressure of 38 cm of water",
+            "changes_over_time": "On follow-up 1 month later, the opening pressure was 20 cm of water and the headaches improved further."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Diffuse theta-range slowing and intermittent delta-range slowing over the anterior regions",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "After the sixth hospital day",
+            "findings": "Thin leptomeninges with no inflammatory infiltrate, perivascular inflammatory-cell infiltrates predominantly composed of CD3 and CD8 T cells, no evidence of encephalitis or vasculitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

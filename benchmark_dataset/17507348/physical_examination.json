@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 23, 2006",
+            "vital_signs": {
+                "blood_pressure": "101/57 mm Hg",
+                "heart_rate": "70 bpm",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "respiratory": "Mild respiratory distress when moving; lungs hyperinflated, decreased breath sounds, scattered wheezes, no crackles. FEV1: 1.34 L (47% predicted)",
+                "weight": "193 lb (87.7 kg)",
+                "BMI": "27.5"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

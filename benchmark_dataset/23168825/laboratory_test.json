@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mini-Mental State Examination (MMSE)",
+            "date": "2004",
+            "findings": "Scored 29 out of 30 points (normal cognition score).",
+            "changes_over_time": "Declined by 8 points (MMSE, 21/30) by 2010."
+        },
+        {
+            "procedure_name": "Brain computed tomography",
+            "date": "Not specified",
+            "findings": "Showed white matter changes and bilateral and frontotemporal atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Audiology Evaluation",
+            "date": "Not specified",
+            "findings": "Hearing aids adjusted; Mr P has not had any further auditory hallucinations.",
+            "changes_over_time": "Had auditory hallucinations that improved after hearing aid adjustment."
+        }
+    ]
+}

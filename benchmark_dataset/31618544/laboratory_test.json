@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "General laboratory tests",
+            "date": "Not specified",
+            "findings": "White-cell count, hematocrit, hemoglobin level, blood levels of electrolytes, glucose, and thyrotropin were normal. Kidney-function and liver-function tests were normal; a test for Lyme disease was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody test",
+            "date": "Not specified",
+            "findings": "Antinuclear antibodies were present at a titer of 1:40 with a speckled pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Glucose: 66 mg/dL, Total protein: 33 mg/dL, Total nucleated cells: 1 per mm3 (59% lymphocytes, 41% monocytes). Color was colorless, turbidity was clear, and xanthochromia was not present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Four weeks before admission",
+            "findings": "T2-weighted FLAIR imaging showed minimal confluent periventricular signal hyperintensity and scattered focal subcortical signal hyperintensity in both cerebral hemispheres, with mild ventricular prominence.",
+            "changes_over_time": "At the second admission (three weeks after first), MRI showed mild signal hyperintensity in the bilateral basal ganglia and thalami that was most conspicuous in the caudate nuclei."
+        },
+        {
+            "procedure_name": "CSF total tau measurement",
+            "date": "Not specified",
+            "findings": "Total tau level was greater than 4000 pg/mL (reference range, 0 to 1149).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF 14-3-3 protein assay",
+            "date": "Not specified",
+            "findings": "CSF 14-3-3 protein assay was positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Single sharp wave in the left parietal region but otherwise normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

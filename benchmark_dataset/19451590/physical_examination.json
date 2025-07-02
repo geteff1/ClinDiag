@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "64 beats/min",
+                "respiratory_rate": "30 breaths/min",
+                "blood_pressure": "145/59 mm Hg"
+            },
+            "relevant_findings": {
+                "electrocardiogram": {
+                    "findings": [
+                        "sinus rhythm",
+                        "left atrial enlargement",
+                        "Q waves in V1 and V2",
+                        "diffuse T-wave abnormalities",
+                        "QT interval of 508 ms",
+                        "corrected QT interval of 545 ms"
+                    ]
+                }
+            },
+            "changes_over_time": {
+                "after_lipid_infusion": {
+                    "heart_rate": "107 beats/min",
+                    "QT_interval": {
+                        "QT": "288 ms",
+                        "corrected_QT": "385 ms"
+                    },
+                    "blood_pressure": "100/60 mm Hg",
+                    "consciousness": "patient sat up and required physical restraint"
+                }
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiogram": {
+                    "findings": [
+                        "apical akinesis",
+                        "ejection fraction of 30% to 35%"
+                    ]
+                },
+                "cardiac_catheterization": {
+                    "findings": [
+                        "30% mid-left anterior descending tubular stenosis"
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

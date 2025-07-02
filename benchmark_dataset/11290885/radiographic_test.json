@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Three-phase bone scintigraphy",
+            "date": "Not specified",
+            "findings": "Significantly increased blood-flow, blood-pool, and delayed-phase radioactivity over both feet compatible with clinically indicated Reflex Sympathetic Dystrophy (RSD).",
+            "changes_over_time": "Follow-up three-phase bone scintigraphy showed less diffuse radioactivity over the feet than the previous study, indicating a good response to calcitonin therapy."
+        },
+        {
+            "procedure_name": "Follow-up three-phase bone scintigraphy",
+            "date": "Not specified",
+            "findings": "Less diffuse radioactivity over the feet compared to the initial study.",
+            "changes_over_time": "Bone-to-soft tissue ratios changed from 12.6 before treatment to 6.6 after treatment, indicating decreased radionuclide uptake."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy with biopsy",
+            "date": "Not specified",
+            "findings": "Metaplastic glandular mucosa with goblet cells consistent with Barrett’s esophagus with high-grade dysplasia.",
+            "changes_over_time": "Persistent signs of Barrett’s esophagus with high-grade dysplasia at follow-up four months later."
+        },
+        {
+            "procedure_name": "Endoscopic esophageal ultrasonography",
+            "date": "Not specified",
+            "findings": "5-cm-long segment with signs consistent with Barrett’s esophagus and polypoid lesion, 1 cm in diameter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic mucosal resection",
+            "date": "One month after biopsy",
+            "findings": "Intramucosal carcinoma confirmed; high-grade dysplasia extended to the lateral margin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Photodynamic therapy",
+            "date": "Not specified",
+            "findings": "Moderately severe esophagitis within the treated segment observed two days post-treatment.",
+            "changes_over_time": "Symptoms included nausea, odynophagia, and chest discomfort post-therapy; improvement after dilation of benign stenosis noted four weeks later."
+        },
+        {
+            "procedure_name": "Biopsy post-photodynamic therapy",
+            "date": "Not specified",
+            "findings": "Specialized columnar epithelium without dysplasia; absence of neoplastic epithelium.",
+            "changes_over_time": "No recurrence of Barrett’s esophagus or dysplasia noted at follow-up 46 months after the procedure."
+        }
+    ]
+}

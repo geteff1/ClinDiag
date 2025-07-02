@@ -1,0 +1,94 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Demyelinating sensorimotor neuropathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Onion bulbs and loss of myelinated fibers, without inflammatory infiltrates.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Increased protein content (82 mg/dL) with normal cell count. Oligoclonal IgG bands restricted to CSF were detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Visual Evoked Potentials (VEP)",
+            "date": "First Test: Not specified, Second Test: One month later",
+            "findings": "First: Normal. Second: Marked prolongation of P100 wave latency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brainstem Auditory Evoked Potentials (BAEP)",
+            "date": "Not specified",
+            "findings": "Alterations bilaterally.",
+            "changes_over_time": "Unchanged at the three-year follow-up."
+        },
+        {
+            "procedure_name": "CSF analysis on re-admission",
+            "date": "Three years later",
+            "findings": "Slight pleocytosis of 12 white blood cells/µL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "At presentation: Not specified, Follow-up: Three years later",
+            "findings": "Multiple T2-hyperintense lesions without Gd enhancement at presentation; increased T2-lesion load and one Gd-enhancing lesion in the pons at follow-up.",
+            "changes_over_time": "Demonstrated increased T2-lesion load."
+        },
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": "Normal hearing on the left side with a 30 dB loss at 8 kHz on the right side.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Quantitative vestibular testing",
+            "date": "Not specified",
+            "findings": "73% right caloric paresis and 19% right directional preponderance.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Distortion product otoacoustic emissions study",
+            "date": "Not specified",
+            "findings": "Poor responses above 3,000 Hz but normal responses at low frequencies in the right ear.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "BAEP study",
+            "date": "Not specified",
+            "findings": "Normal, with no abnormalities of absolute or interwave latencies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain MRI after meningioma resection",
+            "date": "Two days after resection",
+            "findings": "Showed typical features of herpes simplex encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HSV PCR from brain biopsy and CSF",
+            "date": "Not specified",
+            "findings": "Confirmed herpes simplex encephalitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "One day before admission",
+            "findings": "Tachycardia to the 130s.",
+            "changes_over_time": "Normalized approximately 2 hours after the onset of tachycardia."
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Wide complex tachycardia at a rate of 133 beats/min with pacer spikes",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

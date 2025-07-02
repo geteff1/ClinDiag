@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "1856 U per liter (reference range, 40 to 150)",
+            "changes_over_time": "Decreased to 683 U per liter after treatment; increased again during the next several weeks."
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "One month before the current admission",
+            "findings": "Persistent myopathy in proximal muscles and new myopathy in distal muscles.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CMV DNA PCR",
+            "date": "Hospital Day 4",
+            "findings": "1,280,000 IU per milliliter (range of detection, 137 to 9,100,000).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Shell-vial culture for CMV",
+            "date": "Hospital Day 6",
+            "findings": "Positive for CMV indicated by homogeneous green staining of nuclei.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Hospital Day 5",
+            "findings": {
+                "Hematocrit (%)": "27",
+                "Hemoglobin (g/dl)": "8.7",
+                "White-cell count (per mm3)": "900",
+                "Platelet count (per mm3)": "107,000",
+                "Red-cell count (per mm3)": "3,100,000"
+            },
+            "changes_over_time": "Hematocrit decreased from 31 to 27; Hemoglobin decreased from 10.1 to 8.7; White-cell count decreased from 1580 to 900; Platelet count decreased from 103,000 to 107,000; Red-cell count decreased from 3,550,000 to 3,100,000."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transcutaneous biopsy",
+            "date": "Not specified",
+            "findings": "Revealed small cell lung cancer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiography (ECG)",
+            "date": "Not specified",
+            "findings": "Revealed inverted T waves over the precordial leads (V4 to V6).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Both sets yielded S. sonnei growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase (ALT) level measurement",
+            "date": "Not specified",
+            "findings": "At one point, the level reached 5727 mg/dL, indicating rapidly deteriorating liver function.",
+            "changes_over_time": "Progressed dramatically from initial to final measurement."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase (AST) level measurement",
+            "date": "Not specified",
+            "findings": "At one point, the level reached 25,615 mg/dL, indicating rapidly deteriorating liver function.",
+            "changes_over_time": "Progressed dramatically from initial to final measurement."
+        }
+    ]
+}

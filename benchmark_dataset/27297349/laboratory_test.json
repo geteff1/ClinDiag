@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Elevated troponin T level of 0.04 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "40% proximal focal stenosis in right coronary artery unchanged from 1 year previously; patent prior stent in LCx with 3 serial 90% stenoses; overall appearance suggestive of 'beads on a string'",
+            "changes_over_time": "Proximal LCx stenoses were unchanged on repeat angiography after high-dose immunosuppressive therapy."
+        },
+        {
+            "procedure_name": "Optical Coherence Tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Multiple homogeneous concentric stenoses in proximal LCx with hyperreflective, thickened intima and isolated areas of hypoattenuation, suggesting a fibroproliferative and primary inflammatory process.",
+            "changes_over_time": "OCT on repeat angiography revealed no evidence of dissection, thrombosis, or atherosclerosis within the segments, confirming prior findings."
+        },
+        {
+            "procedure_name": "Rheumatologic Laboratory Tests",
+            "date": "Not specified",
+            "findings": {
+                "Antinuclear antibodies": "Positive at 1:640",
+                "Anti–cardiolipin IgM": "16 MPL units (normal 0-15)",
+                "Anti–cardiolipin IgG": "16 MPL units (normal 0-15)",
+                "Anti–β2-glycoprotein 1 IgM": ">150 Units (normal 0-20)",
+                "Anti–β2-glycoprotein 1 IgG": "4 Units (normal 0-20)",
+                "Erythrocyte sedimentation rate": "3 mm/h (normal 0-18)",
+                "C-reactive protein": "0.7 mg/L (normal 0-3)"
+            },
+            "changes_over_time": "Positive results consistent with previous tests."
+        }
+    ]
+}

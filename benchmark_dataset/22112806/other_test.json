@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "Not specified",
+            "findings": "TSH value of less than 0.03 mU/liter; free T3, 8.1 ng/liter; free T4, 15.3 ng/liter.",
+            "changes_over_time": "Behavior problems improved and thyroid function normalized after treatment."
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "Decreased echogenicity of the thyroid parenchyma and a volume of 16 ml.",
+            "changes_over_time": "No changes over time specified."
+        },
+        {
+            "procedure_name": "I-131 scintigraphy",
+            "date": "Not specified",
+            "findings": "No functional active thyroid tissue observed.",
+            "changes_over_time": "No changes over time specified."
+        },
+        {
+            "procedure_name": "Thyroglobin level measurement",
+            "date": "Not specified",
+            "findings": "Thyroglobin level was 32 pmol/liter.",
+            "changes_over_time": "No changes over time specified."
+        },
+        {
+            "procedure_name": "Thyroglobin level measurement (patient 3)",
+            "date": "Not specified",
+            "findings": "Thyroglobin level was 9 pmol/liter.",
+            "changes_over_time": "Normal thyroid gland was observed in the ultrasound after treatment."
+        }
+    ]
+}

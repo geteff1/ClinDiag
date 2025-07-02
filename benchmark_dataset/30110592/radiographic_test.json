@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable chest radiograph",
+            "date": "Not specified",
+            "findings": "Clear lungs, borderline enlargement of the cardiomediastinal silhouette, and atherosclerotic calcification of the aortic arch.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the head",
+            "date": "Not specified",
+            "findings": "Mild, diffuse cerebral parenchymal volume loss; prominence of the cerebrospinal fluid spaces; no evidence of acute intracranial hemorrhage, territorial infarction, or intracranial mass lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "Normal left ventricular ejection fraction and cavity size; subtle hypokinesis of the inferior wall; two masses with heterogeneous echotexture compressing the tricuspid annulus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Hospital day 3",
+            "findings": "Two aneurysmal segments of the saphenous-vein graft measuring 4.4 cm and 4.0 cm in greatest dimension, causing mass effect and compression of the right atrioventricular groove and right ventricle.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intraoperative transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Two masses with heterogeneous echotexture compressing the tricuspid annulus and right atrium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preoperative coronary angiogram",
+            "date": "Not specified",
+            "findings": "Large proximal aneurysmal segment with poor but intact distal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

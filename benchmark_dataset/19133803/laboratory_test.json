@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "4 September 2007",
+            "findings": "WBC count: 12.2 x 10^3 cells/mm3 (high), Absolute neutrophil count: 10.7 x 10^3 cells/mm3 (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "4 September 2007",
+            "findings": "WBC count: 125 cells/mm3 (59% lymphocytes, 28% neutrophils, 13% monocytes), CSF protein: 65 mg/dL, CSF glucose: 91 mg/dL, 3 RBCs/mm3; Gram stain revealed no organisms.",
+            "changes_over_time": "CSF sample positive for orthopoxvirus IgM; negative for orthopoxvirus DNA on day 3."
+        },
+        {
+            "procedure_name": "CSF culture",
+            "date": "Not specified",
+            "findings": "Negative for orthopoxvirus and other pathogens (mycobacterial, fungal cultures; VDRL for syphilis; arbovirus antibodies).",
+            "changes_over_time": "Negative results continued over time."
+        },
+        {
+            "procedure_name": "Cytomegalovirus PCR",
+            "date": "Not specified",
+            "findings": "Cytomegalovirus PCR revealed <250 copies/mL",
+            "changes_over_time": "Negative for HHV-7 by pan herpesvirus PCR on day 9."
+        },
+        {
+            "procedure_name": "Broadly reactive viral family PCR",
+            "date": "Day 1",
+            "findings": "Negative for flaviviruses, alphaviruses, bunyaviruses, adenoviruses, coronaviruses, polyomaviruses, bornaviruses, paramyxoviruses, and rhabdoviruses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "Day 1, Day 8, 4 months after admission",
+            "findings": "Day 1: multiple high-signal lesions; Day 8: progression of bilateral lesions; 4 months: nearly complete resolution of signal abnormalities.",
+            "changes_over_time": "Progression observed from Day 1 to Day 8, with improvement noted by 4 months."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Posteroanterior and lateral chest radiographs",
+            "date": "Not specified",
+            "findings": "Moderate right pneumothorax without evidence of mediastinal shift or tracheal deviation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Moderate right-sided pneumothorax with multiple bilateral subcentimeter pulmonary nodules and bilateral upper lobe–predominant centrilobular emphysema.",
+            "changes_over_time": "Persistent right-sided pneumothorax, with an interval increase in right pleural effusion and increase in right pleural thickening."
+        },
+        {
+            "procedure_name": "Follow-up chest radiography",
+            "date": "1 month later",
+            "findings": "Persistent right-sided pneumothorax.",
+            "changes_over_time": "Remained unchanged despite treatment."
+        },
+        {
+            "procedure_name": "Repeat CT",
+            "date": "1 month later",
+            "findings": "Persistent right-sided pneumothorax, interval increase in right pleural effusion and increase in right pleural thickening.",
+            "changes_over_time": "Suggestive of trapped lung due to persistent inflammation."
+        },
+        {
+            "procedure_name": "Subsequent CT",
+            "date": "Not specified",
+            "findings": "No change in the size of the pneumothorax.",
+            "changes_over_time": "Indicated persistent inflammation leading to trapped lung."
+        }
+    ]
+}

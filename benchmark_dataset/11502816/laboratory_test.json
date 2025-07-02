@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Hormone (GH)",
+            "date": "At diagnosis",
+            "findings": "9.0 /H9262g/liter",
+            "changes_over_time": "6.2 after surgery, 6.3 after octreotide LAR 20 mg, 6.5 after octreotide LAR 30 mg, 4.1 after cabergoline"
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "At diagnosis",
+            "findings": "8.4 /H9262U/mliter",
+            "changes_over_time": "6.1 after surgery, 7.2 after octreotide LAR 20 mg, 6.1 after octreotide LAR 30 mg, 9.4 after cabergoline"
+        },
+        {
+            "procedure_name": "Insulin (OGTT)",
+            "date": "At diagnosis",
+            "findings": "6.8",
+            "changes_over_time": "7.6 after surgery"
+        },
+        {
+            "procedure_name": "IGF-1",
+            "date": "At diagnosis",
+            "findings": "128 nmol/liter",
+            "changes_over_time": "84 nmol/liter after surgery, 80 nmol/liter after octreotide LAR 20 mg, 114 nmol/liter after octreotide LAR 30 mg, 48 nmol/liter after cabergoline"
+        }
+    ]
+}

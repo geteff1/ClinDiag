@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "Not specified",
+            "findings": "Mild proliferative glomerulonephritis with crescents, segmental nodular glomerulosclerosis, diffuse linear immunofluorescence reactivity for IgG along the GBM, moderate tubular atrophy, and widespread endothelial-cell injury.",
+            "changes_over_time": "Initial ELISA for anti-GBM antibodies was negative; however, antibodies were subsequently detected using Western blot analysis."
+        },
+        {
+            "procedure_name": "Antibody Test for Anti-GBM Disease",
+            "date": "Not specified",
+            "findings": "Initial test negative; later tested positive via Western blot analysis for anti-GBM antibodies.",
+            "changes_over_time": "Change from negative to positive for anti-GBM antibodies detected with a more sensitive test."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Hematuria (4+ to numerous red blood cells), proteinuria (3+), granular casts and red-cell casts observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

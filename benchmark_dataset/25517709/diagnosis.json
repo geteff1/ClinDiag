@@ -1,0 +1,14 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pulmonary Crohn’s disease",
+        "differential_diagnosis": [
+            "Infection (including C. difficile infection)",
+            "Malignant tumors",
+            "Pulmonary disease associated with inflammatory bowel disease",
+            "Granulomatosis with polyangiitis",
+            "Vasculitis",
+            "Thromboembolic disease"
+        ],
+        "diagnostic_reasoning": "The identification of pulmonary nodules on imaging studies, alongside a history of Crohn's disease and a lack of acute respiratory symptoms, led to the final diagnosis. The previous normal pulmonary function tests and subsequent development of restrictive lung disease indicated a chronic process. The lung nodules exhibited central necrosis, suggesting a non-malignant etiology. The resolution of gastrointestinal symptoms coupled with the persistent pulmonary dysfunction pointed towards pulmonary Crohn's disease rather than an infectious or malignant process."
+    }
+}

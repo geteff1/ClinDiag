@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Dexamethasone Suppression Test",
+            "date": "Not specified",
+            "findings": "Plasma cortisol level suppressed to less than 0.02 nmol per liter, reduced DHEA level from 15.0 to 1.6 nmol per liter, and reduced androstenedione level from 4.1 to 2.9 nmol per liter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH Stimulation Test",
+            "date": "Not specified",
+            "findings": "Plasma gonadotropin levels within normal prepubertal range at baseline and increased after administration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cosyntropin Stimulation Test",
+            "date": "Not specified",
+            "findings": "DHEA levels increased during the test from 20.0 nmol per liter at baseline to 43.0 nmol per liter at 60 minutes.",
+            "changes_over_time": "DHEAS levels remained below the limit of detection throughout the test."
+        },
+        {
+            "procedure_name": "Hormone Level Assessment",
+            "date": "Initial assessment at age 8, follow-up at age 12",
+            "findings": "At 8 years: DHEAS below detection limit, DHEA at upper limit of normal, androstenedione and testosterone about twice normal levels. At 12 years: DHEAS below detection limit, DHEA at upper limit, androstenedione and testosterone still twice the upper limits.",
+            "changes_over_time": "DHEAS levels at 12 years were 0.27 μmol per liter during follow-up, indicating slight improvement."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Nerve conduction study",
+            "date": "Not specified",
+            "findings": "Absent sensory responses of the upper and lower limbs. Markedly prolonged motor distal latencies: DL in the arms 16 - 27 ms (normal < 4.2 ms), DL in the legs 14 - 26 ms (normal < 5.7 ms). Marked prolonged compound muscle action potential durations: left median 45 ms (distal) and 50 ms (proximal), left tibial 47 ms (distal) and 53 ms (proximal).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Abnormal spontaneous activity in distal legs, long-duration high-amplitude polyphasic motor unit potentials with reduced recruitment in all muscles tested.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF examination",
+            "date": "Not specified",
+            "findings": "CSF protein 70 mg/dL, CSF glucose normal, cell count 0.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "CSF immunoglobulin G index, oligoclonal bands, CSF VDRL, angiotensin-converting enzyme, vascular endothelial growth factor, GM1 antibody, cryoglobulin, myelin-associated glycoprotein Western blot, hemoglobin A1c, methylmalonic acid, serum immunofixation, serum free light chains, TSH, free T4, complete blood count, B12, sedimentation rate, antinuclear antibodies, extractable nuclear antigen, tissue transglutaminase immunoglobulin A, hepatitis C antibody, Lyme serology, HIV, and hepatitis B surface antigen were all normal or negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up nerve conduction study",
+            "date": "Not specified, 9 months after initial study",
+            "findings": "Profound improvement of distal latency, amplitude, duration, and conduction velocity.",
+            "changes_over_time": "Significant improvements observed compared to initial study."
+        }
+    ]
+}

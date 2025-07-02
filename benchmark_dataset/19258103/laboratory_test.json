@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Three large hyperechogenic masses (3 35 mm) causing severe tricuspid valve stenosis.",
+            "changes_over_time": "At discharge, echocardiogram showed growth of tricuspid valve masses with moderate stenosis and mild insufficiency."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Post-surgical",
+            "findings": "Successful repair with only mild valvular insufficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histology (Patient 1)",
+            "date": "Post-surgical",
+            "findings": "Connective-sclerotic nodules with nuclei of calcification-ossification and absence of tumor cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histology (Patient 2)",
+            "date": "Post-mortem",
+            "findings": "Amorphous, calcified, slightly basophilic mass, with areas of mineralization and nuclei of calcification.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunohistochemical Staining (Patient 2)",
+            "date": "Post-mortem",
+            "findings": "Positive for desmin and smooth-muscle actin.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

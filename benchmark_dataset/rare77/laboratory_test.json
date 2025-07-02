@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC: 2.6 K/μL, Hb: 8 gm/dL, Platelet: 79 × 10^3/uL; results indicate pancytopenia.",
+            "changes_over_time": "Initial test showed persistent pancytopenia; specific changes over time not detailed."
+        },
+        {
+            "procedure_name": "Bone marrow aspiration and biopsy",
+            "date": "Not specified",
+            "findings": "Marked hypocellularity of 25% with no megakaryocytes, granulocyte 41%, erythroid precursors 51%, lymphocytes 8%, no abnormal cellular collection seen, no evidence of myelodysplastic syndrome or malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Karyotyping",
+            "date": "Not specified",
+            "findings": "Revealed three copies of chromosome X in all metaphases examined.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chromosomal breakage",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flowcytometry for PNH",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Myelodysplastic syndrome/bone marrow failure FISH panel genetic testing",
+            "date": "Not specified",
+            "findings": "An uncertain variant in two genes associated with bone marrow failure; clinical significance unknown.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Human leukocyte antigen (HLA) typing",
+            "date": "Not specified",
+            "findings": "Did not match any family members.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

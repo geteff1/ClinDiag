@@ -1,0 +1,77 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Two months before admission",
+            "findings": "43.9%",
+            "changes_over_time": "Decreased to 41.1% on admission"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Two months before admission",
+            "findings": "44 mm/hr",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Two months before admission",
+            "findings": "9,200 per mm3",
+            "changes_over_time": "Decreased to 7,500 per mm3 on admission"
+        },
+        {
+            "procedure_name": "Differential count",
+            "date": "Two months before admission",
+            "findings": "Neutrophils 78%, Lymphocytes 17%, Monocytes 4%, Eosinophils 1%",
+            "changes_over_time": "Neutrophils 72%, Lymphocytes 23%, Monocytes 3%, Eosinophils 2% on admission"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Two months before admission",
+            "findings": "218,000 per mm3",
+            "changes_over_time": "Increased to 260,000 per mm3 on admission"
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "On admission",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125",
+            "date": "Two months before admission",
+            "findings": "42 U/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anticardiolipin IgM antibodies",
+            "date": "On admission",
+            "findings": "30 U/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiotensin-converting enzyme",
+            "date": "On admission",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial-blood gases",
+            "date": "On admission",
+            "findings": {
+                "Partial pressure of oxygen": "65 mm Hg",
+                "Partial pressure of carbon dioxide": "33 mm Hg",
+                "pH": "7.46"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary-function tests",
+            "date": "On admission",
+            "findings": {
+                "FEV1": "2.51 liters (85% of predicted)",
+                "Total vital capacity": "2.9 liters (81% of predicted)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

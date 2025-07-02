@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.7 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Inspiratory crackles and egophony over the right lower lobe",
+                "Nontender erythematous nodule overlying the left wrist"
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Decreased neutrophil count",
+                "Positive serologic HIV test: CD4 count 109 cells/mm3",
+                "Virus burden 324,000 copies/mL"
+            ],
+            "changes_over_time": [
+                "CD4 count rose to 170 cells/mm3",
+                "Virus load fell to <10,000 copies/mL after treatment"
+            ]
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "CD4 count increased to 412 cells/mm3",
+                "Recent virus burden 150,000 copies/mL"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

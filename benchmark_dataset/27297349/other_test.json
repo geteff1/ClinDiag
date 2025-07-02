@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "1- to 2-mm ST-segment depressions in leads I, aVL, and V3 through V6.",
+            "changes_over_time": "The S4 had been present since her previous event."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "99% occlusion of the left circumflex artery (LCx); 40% proximal focal stenosis in the right coronary artery; patent prior stent in LCx distal to 3 serial 90% stenoses.",
+            "changes_over_time": "Unchanged appearance of the proximal LCx stenoses; 40% proximal right coronary artery stenosis was again present and unchanged on follow-up."
+        },
+        {
+            "procedure_name": "Optical Coherence Tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Multiple homogeneous concentric stenoses in the proximal LCx with hyperreflective, thickened intima and isolated areas of hypoattenuation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Not specified",
+            "findings": "Resting perfusion defect in the basal to mid inferior and inferolateral walls, matching regions of hypokinesis, without evidence of late gadolinium enhancement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorodeoxyglucose Positron Emission Tomography–Computed Tomography (FDG-PET/CT)",
+            "date": "Not specified",
+            "findings": "Did not reveal any evidence of large-vessel vasculitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat Coronary Angiography",
+            "date": "6 months after discharge",
+            "findings": "Patent LCx stents without evidence of restenosis or new inflammatory disease.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

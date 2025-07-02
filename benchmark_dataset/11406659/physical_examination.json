@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "June 1996",
+            "vital_signs": {
+                "blood_pressure": "Slightly increased",
+                "creatinine": "2.0 mg/dL"
+            },
+            "relevant_findings": "Neurologic examination was essentially unremarkable. Liver function test results were normal. Liver biopsy showed trace positivity for amyloid by special stains.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "April 1999",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Explanted liver measured 24.5 cm and had a dark red, tan cut surface. No masses, nodules, nor evidence of cirrhosis were noted. Histologically, the liver parenchymal involvement was striking with extensive amyloid deposits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "June 1999",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Explanted liver measured 23.5 cm and had a musky, dark, and somewhat variegated cut surface. No masses, nodules, nor evidence of cirrhosis were noted. Identical microscopic features to Case 1 were observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

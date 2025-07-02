@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "CSF analysis revealed lymphocytic pleocytosis with 125 WBCs/mm³ (59% lymphocytes, 28% neutrophils, and 13% monocytes), 3 RBCs/mm³, protein level of 65 mg/dL, and glucose level of 91 mg/dL. Gram stain revealed no organisms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "CSF sample was positive for orthopoxvirus IgM and negative for orthopoxvirus IgG. CSF viral cultures remained negative. Negative results were also found for mycobacterial and fungal cultures, cryptic antigen, and various viral PCRs.",
+            "changes_over_time": "CSF from day 9 was negative for HHV-7 by pan herpesvirus PCR."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Day 2",
+            "findings": "Exhibited large areas of abnormal T2-weighted and fluid-attenuated inversion recovery signal involving subcortical and deep white matter in various brain regions.",
+            "changes_over_time": "Follow-up MRI at 4 months showed nearly complete resolution of prior lesions."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "air-space consolidation with a small pleural effusion on the right side",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "consolidation with a small right-sided pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "large, left-sided pneumothorax with a left apical cavity measuring 2.7 cm by 2.4 cm and air-space infiltrates in the lingula and right upper lobes.",
+            "changes_over_time": "decrease in the size of the pneumothorax, with nearly full expansion of the left lung"
+        },
+        {
+            "procedure_name": "contrast-enhanced CT scan of the head",
+            "date": "Not specified",
+            "findings": "four well-demarcated ring-enhancing lesions in the left cerebral hemisphere with extensive surrounding vasogenic edema",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

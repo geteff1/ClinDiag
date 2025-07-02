@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "101.8 cm",
+                "serum_calcium": "2.53 mmol/liter",
+                "serum_phosphate": "1.06 mmol/liter",
+                "phosphate_clearance": "21.8 ml/min/m²",
+                "25_OHD": "200 nmol/liter",
+                "PTH": "70 pg/ml",
+                "ALP": "232 U/liter"
+            },
+            "relevant_findings": "Height normal for age; proximal myopathy confirmed by electromyography and muscle biopsy.",
+            "changes_over_time": "Improvement in myopathy took about 7 years to resolve."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "109 cm",
+                "serum_calcium": "3.22 mmol/liter",
+                "serum_phosphate": "1.11 mmol/liter",
+                "PTH": "low",
+                "ALP": "210 U/liter"
+            },
+            "relevant_findings": "Normal height for age; proximal myopathy; signs of a rachitic rosary and bowing of the tibiae.",
+            "changes_over_time": "Myopathy resolved after 8 months; normal growth rate continued."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "160 cm",
+                "serum_phosphate": "0.64 mmol/liter",
+                "TmP/GFR": "0.50 mmol/liter",
+                "25_OHD": "54 nmol/liter"
+            },
+            "relevant_findings": "No phenotypic features of XLH; clinical examination unremarkable.",
+            "changes_over_time": "Progressively developed joint pains; serum phosphate remained low."
+        }
+    ]
+}

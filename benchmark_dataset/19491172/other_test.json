@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with no diagnostic abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Noteworthy for a 2.5 mm hypodense region in the left frontal white matter, likely representing an old lacunar infarct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gabapentin therapy",
+            "date": "Not specified",
+            "findings": "Initial dosage of 300 mg at bedtime was prescribed for pain control.",
+            "changes_over_time": "Plan to gradually increase the dosage to 600 mg three times a day as tolerated."
+        }
+    ]
+}

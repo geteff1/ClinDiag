@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Dense, nodular infiltrates of medium/large-sized atypical lymphoid cells in the dermis and subcutaneous tissue; tumor cells stained with T-cell markers CD3, CD4, CD5, CD25, and Ki-67(MIB-1), and failed to stain with CD8, CD20, CD30, CD56, CD68, granzyme B, ALK-1, or EMA.",
+            "changes_over_time": "No residual lymphoma cells in the skin were detected by histological examination after treatment."
+        },
+        {
+            "procedure_name": "Serologic studies",
+            "date": "Not specified",
+            "findings": "Patient had antibodies to HTLV-1 using enzyme-linked immunosorbent assay and Western blotting.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Southern blot assay",
+            "date": "Not specified",
+            "findings": "Monoclonal integration of HTLV-1 proviral DNA was detected in the skin lesion; clonal T cell beta and gamma receptor gene rearrangements were detected.",
+            "changes_over_time": "Clonal integration of HTLV-1 proviral DNA in the peripheral blood was repeatedly negative."
+        },
+        {
+            "procedure_name": "Radiation therapy",
+            "date": "Not specified",
+            "findings": "Skin tumor completely resolved after treatment with 50 Gy x-ray and 6 Gy electron beam irradiation.",
+            "changes_over_time": "No recurrence has been noted for 13 months."
+        }
+    ]
+}

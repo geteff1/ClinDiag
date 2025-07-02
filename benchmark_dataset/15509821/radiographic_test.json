@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Heterogeneous region of low attenuation in the right frontal lobe, without evidence of enhancement after contrast, suggesting a tumor rather than a territorial infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Heterogeneous, infiltrative mass in the right frontal lobe involving both gray and white matter with some mass effect. The bulk of the lesion is bright on T2-weighted sequences and isointense to slightly hypointense on T1-weighted sequences. No appreciable enhancement observed.",
+            "changes_over_time": "Residual area of T2 hyperintensity after surgery did not enhance with gadolinium and did not have characteristics of malignancy."
+        },
+        {
+            "procedure_name": "MRI after treatment",
+            "date": "Not specified",
+            "findings": "Small residual focus of bright signal after four cycles of chemotherapy, did not enhance with gadolinium contrast medium.",
+            "changes_over_time": "The initial high-grade component is no longer present; however, some dorsolateral infiltrative signal remains."
+        }
+    ]
+}

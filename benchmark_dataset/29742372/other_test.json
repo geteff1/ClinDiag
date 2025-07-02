@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Subacute spongiotic dermatitis with a sparse, superficial perivascular lymphocytic infiltrate and scattered neutrophils and mast cells. No evidence of vasculitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR assay",
+            "date": "Not specified",
+            "findings": "Whole-blood assay was positive for rickettsiae of the spotted fever group; serum assay was negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "sero-logic tests for rickettsiae",
+            "date": "Second hospital day (16th day of illness)",
+            "findings": "Positive for IgG antibodies to rickettsiae of the spotted fever group at a titer of 1:1024.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, with sinus arrhythmia, poor R-wave progression, and minor, nonspecific ST-segment and T-wave abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

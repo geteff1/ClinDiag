@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Multiple calcaneal lytic lesions with wide zones of transition and diffuse sclerotic changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple hyperechoic foci surrounded by hypoechoic lesions resembling 'dot in circle.'",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Multiple well-defined small high signal intensities with central hypointensity, resembling 'dot in circle,' and suggestive of diffuse bone marrow edema of the calcaneus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

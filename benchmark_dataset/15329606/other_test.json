@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "Arterial partial pressure of carbon dioxide (PaCO2) of 43 mm Hg and a partial pressure of oxygen (PaO2) of 82 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "QTc was found to be 470 ms initially and increased to 476 ms after 5 minutes post administration of ziprasidone; decreased to 436 ms after 4 hours.",
+            "changes_over_time": "QT interval was first 470 ms, increased to 476 ms after ziprasidone, then decreased to 436 ms after 4 hours."
+        }
+    ]
+}

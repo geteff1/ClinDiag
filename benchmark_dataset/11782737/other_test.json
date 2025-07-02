@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Peripheral Blood Film",
+            "date": "January 11, 2001",
+            "findings": "Demonstrated P. falciparum parasites with 0.8% parasitemia.",
+            "changes_over_time": "On January 14, a follow-up film showed P. falciparum parasites with 14.0% parasitemia."
+        },
+        {
+            "procedure_name": "Post-Mortem Blood Sample",
+            "date": "Not specified",
+            "findings": "Chloroquine level of 1,782 ng/mL whole blood, consistent with recent ingestion of chloroquine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thick Blood Film",
+            "date": "March 19, 2001",
+            "findings": "Initially read as Plasmodium species (P. falciparum versus P. malariae), later confirmed as P. falciparum.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

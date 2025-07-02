@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "137 bpm",
+                "blood_pressure": "89/52 mm Hg",
+                "respiratory_rate": "20 bpm",
+                "oxygen_saturation": "95%",
+                "temperature": "36.9°C"
+            },
+            "relevant_findings": {
+                "dysmorphic_features": [
+                    "severe macrocephaly",
+                    "low nasal bridge",
+                    "frontal bulging",
+                    "micrognathia",
+                    "receding mandible",
+                    "moderate hypotonia",
+                    "exophthalmos with hazy cornea on the left eye",
+                    "sluggish pupillary reflexes to light"
+                ],
+                "cardiorespiratory_examination": "normal heart and lung sounds on auscultation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

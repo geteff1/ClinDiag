@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "Elevated CRP at 11.8 mg/L (normal range 0.0-8.0 mg/L); subsequent test showed CRP elevated at 50.4 mg/L.",
+            "changes_over_time": "CRP increased from 11.8 mg/L to 50.4 mg/L."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CMP",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LFT",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine studies",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Autoinflammatory Primary Immunodeficiency Gene Panel",
+            "date": "Not specified",
+            "findings": "Returned negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum protein electrophoresis",
+            "date": "Not specified",
+            "findings": "Returned negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole genome sequencing",
+            "date": "Not specified",
+            "findings": "Presence of heterozygous mutation in the FLCN gene with pathogenic variant c.779+1G>T.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT chest",
+            "date": "Not specified",
+            "findings": "Showed small lung cysts, calcified granulomas, and noncalcified pulmonary micronodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal MRI",
+            "date": "Not specified",
+            "findings": "14-mm lesion in the left kidney, likely representing a hemorrhagic or proteinaceous cyst; several additional renal and hepatic cysts with no concerning features.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "First biopsy: Not specified, Repeat biopsy: Not specified",
+            "findings": "First biopsy showed urticarial tissue reaction with focal leukocytoclastic changes and negative direct immunofluorescence; repeat punch biopsy showed nonspecific findings of perivascular lymphocytic infiltrates with a few scattered eosinophils, mast cells, and neutrophils.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

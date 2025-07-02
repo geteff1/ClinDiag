@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mattis Dementia Rating Scale",
+            "date": "Not specified",
+            "findings": "Score was 125 out of a possible 144.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mattis Dementia Rating Scale",
+            "date": "Not specified",
+            "findings": "Score was 135 out of a possible 144.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Desipramine Blood Level",
+            "date": "Not specified",
+            "findings": "Blood level in therapeutic range.",
+            "changes_over_time": "Patient did not improve over the next 6 weeks despite blood levels in therapeutic range."
+        },
+        {
+            "procedure_name": "Nortriptyline Blood Level",
+            "date": "Not specified",
+            "findings": "Blood level in therapeutic range.",
+            "changes_over_time": "Patient failed to respond despite a blood level in therapeutic range."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "A rare homozygous nonsynonymous variant in exon 3 (NM_000398.7:c.173G>A [p.Arg58Gln], rs121965007) was observed. The nucleotide variant has a CADD score of 27.5. No other sequence variants were observed in the other eight exons examined in CYB5R3. The resulting amino acid substitution, Arg58Gln, was predicted to be probably damaging by PolyPhen2 and damaging by SIFT software. The variant is located in the flavin adenine dinucleotide (FAD)-binding domain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sputum culture",
+            "date": "Not specified",
+            "findings": "Presence of Pseudomonas aeruginosa was confirmed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

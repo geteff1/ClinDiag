@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "Reportedly normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal signal hyperintensity scattered in the periventricular and subcortical white matter on T2-weighted and FLAIR images; otherwise normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRA of the head and neck",
+            "date": "Not specified",
+            "findings": "No vascular abnormalities identified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat chest radiograph",
+            "date": "Not specified",
+            "findings": "Perihilar fullness and loss of definition of the pulmonary vasculature, consistent with pulmonary edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the brain",
+            "date": "Not specified",
+            "findings": "No evidence of acute injury",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

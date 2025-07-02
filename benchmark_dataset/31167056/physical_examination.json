@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "121 bpm",
+                "blood_pressure": "109/73 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "summary": "Patient appeared fatigued but in no distress, fully oriented. Dry mucous membranes, supple neck, no cervical lymphadenopathy, clear lungs, tachycardia, soft and nontender abdomen with normal bowel sounds, warm dry skin, hyperpigmented discoid lesions on chest, nontender joints. Normal motor strength and sensation.",
+                "details": [
+                    {
+                        "finding": "Dry mucous membranes",
+                        "static_analysis": "Indicates dehydration."
+                    },
+                    {
+                        "finding": "Tachycardia",
+                        "static_analysis": "Could be due to fever or dehydration."
+                    },
+                    {
+                        "finding": "Hyperpigmented patches",
+                        "static_analysis": "Consistent with discoid lesions from lupus."
+                    }
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "summary": "Decreased level of consciousness, required noxious stimulation for arousal, unable to follow commands, meningismus, Brudzinski’s sign.",
+                "details": [
+                    {
+                        "finding": "Decreased level of consciousness",
+                        "static_analysis": "Indicates altered mental status."
+                    },
+                    {
+                        "finding": "Noxious stimulation required for arousal",
+                        "static_analysis": "Concern for severe central nervous system involvement."
+                    }
+                ]
+            },
+            "changes_over_time": "Interval development of meningeal signs and altered mental status suggestive of meningoencephalitis. The patient's mental status deteriorated from initial presentation."
+        }
+    ]
+}

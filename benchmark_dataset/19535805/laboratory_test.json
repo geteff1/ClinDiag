@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Endoscopic ultrasonography",
+            "date": "Not specified",
+            "findings": "Hypoechoic mass in the distal esophagus (34 to 37 cm from the incisors) that extended to the muscularis propria and focally into the periesophageal fat (stage uT3); hypoechoic lymph node, 2.1 cm in diameter, in the gastrohepatic area.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Approximately 6 days after upper gastrointestinal series",
+            "findings": "Thickening of the right anterolateral wall of the distal esophagus with enlarged 1.0 cm lymph node in the gastrohepatic ligament; suspicious for metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET scan with 18F-FDG",
+            "date": "6 days after the CT scan",
+            "findings": "Intense area of increased uptake in the region of the distal esophagus and gastrohepatic ligament, suspicious for metastatic lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Combined PET–CT study",
+            "date": "Not specified",
+            "findings": "Decrease in mass size in the gastroesophageal junction and gastrohepatic node; marked decrease in 18F-FDG uptake in both areas.",
+            "changes_over_time": "Significant reduction in tumor sizes and metabolic activity compared with previous studies."
+        }
+    ]
+}

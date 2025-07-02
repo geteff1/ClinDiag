@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Anterior and anteroseptal wall hypokinesis, large area of late gadolinium enhancement, presence of myocardial edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Positron Emission Tomography",
+            "date": "Three and a half years after first myocardial infarction",
+            "findings": "Fixed septal defect consistent with chronic myocardial infarction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "72 hours after emergent revascularization",
+            "findings": "Two discrete areas of late gadolinium enhancement, anterior wall lesion more intense than inferior wall lesion, and presence of myocardial edema.",
+            "changes_over_time": "Myocardial edema consistent with acute infarction in the inferior wall, chronic infarction in the anterior wall."
+        }
+    ]
+}

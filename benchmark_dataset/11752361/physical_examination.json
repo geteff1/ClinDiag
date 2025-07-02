@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "heart_rate": "144 bpm",
+                "respiratory_rate": "60 breaths per minute",
+                "mean_arterial_pressure": "45 mm Hg",
+                "weight": "3460 g"
+            },
+            "relevant_findings": {
+                "appearance": "Plethoric appearance; large for gestational age",
+                "reflexes": "Moro and grasp reflexes present; no sucking reflex",
+                "urine": "Normal",
+                "phenobarbital_level": "In therapeutic range",
+                "insulin_level": "105.5 µU per milliliter (757.0 pmol per liter)",
+                "chest_xray": "Hyperexpanded lungs with possible pneumonia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 2",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "weight": "4312 g"
+            },
+            "relevant_findings": {
+                "thumbs": "Both thumbs hyperadducted across the palm with an obligate grasp on the left side, suggesting mild corticospinal damage",
+                "EEG": "No abnormalities"
+            },
+            "changes_over_time": "Thumb position was noted as a new finding on Day 2."
+        },
+        {
+            "date": "Day 14",
+            "vital_signs": {
+                "insulin_level": "51.0 µU per milliliter (365.9 pmol per liter)",
+                "glucose_level": "Less than 20 mg per deciliter (1.1 mmol per liter)"
+            },
+            "relevant_findings": {
+                "MRI_brain": "Cystic spaces in the white matter adjacent to ventricles; thinner cortex in those areas; small amounts of blood in left ventricle and right occipital cortex"
+            },
+            "changes_over_time": "The glucose level showed persistent hypoglycemia compared to previous values and required increases in glucose infusion."
+        }
+    ]
+}

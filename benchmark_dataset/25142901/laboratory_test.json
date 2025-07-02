@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Age 11 years 9 months",
+            "findings": "Diffuse atrophy of the left hemisphere, more prominent over the parieto-occipital region.",
+            "changes_over_time": "A second MRI at age 13 years 2 months showed progressive atrophy of the affected hemisphere."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Age 8 years 6 months",
+            "findings": "Mild left hemisphere atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Age 3 years 10 months",
+            "findings": "Left frontotemporal atrophy and T2 hypersignal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Age 9 years",
+            "findings": "Area of abnormal signal in the left frontal lobe that involved both the gray matter and the underlying white matter, consistent with an area of focal encephalitis.",
+            "changes_over_time": "MRI at age 14 years showed left hemispheric atrophy."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Normal cell counts and normal chemical profile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum testing for ANA",
+            "date": "Not specified",
+            "findings": "Serum ANA were measured at 1:640 dilution.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Age 14 years",
+            "findings": "Left frontal hyperintensity changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "CSF cell count and chemistry were normal, although protein electrophoresis showed 2 pronounced and 2 weak immunoglobulin G oligoclonal bands.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum anti-dsDNA titer",
+            "date": "Age 33",
+            "findings": "Significantly elevated to 68 (negative: <30.0 IU/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ANA testing",
+            "date": "Not specified",
+            "findings": "Increased ANA were measured at a 1:640 dilution.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

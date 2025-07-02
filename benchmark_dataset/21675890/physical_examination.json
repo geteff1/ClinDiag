@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "December 2008",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Afebrile; normal cranial nerves; brisk upper-extremity reflexes; lower-extremity muscle strength noted: iliopsoas 3/5 (R) and 1/5 (L), quadriceps 3/5 (R) and 1/5 (L), dorsiflexors 2/5 (R) and 1/5 (L), plantar flexors 4/5 (R) and 3/5 (L); absent lower-extremity reflexes except trace right-ankle jerk; bilateral downward Babinski reflex.",
+            "changes_over_time": "On hospital day 2, weakness progressed to both upper extremities."
+        },
+        {
+            "date": "Hospital day 6",
+            "vital_signs": "Not specified",
+            "relevant_findings": "New areas of hyperintensity in C3 through C7 consistent with anterior horn-cell disease noted on imaging.",
+            "changes_over_time": "Worsening of muscle weakness and addition of severe muscular limb pain."
+        },
+        {
+            "date": "Hospital day 8",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Biceps strength decreased to 3/5 on the right side and 2/5 on the left; electromyography consistent with anterior horn-cell disease.",
+            "changes_over_time": "Further progression of muscle weakness."
+        },
+        {
+            "date": "Hospital days 61-73",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Worsening liver dysfunction; development of pneumonia and respiratory failure.",
+            "changes_over_time": "Deterioration in overall condition leading to withdrawal of support."
+        }
+    ]
+}

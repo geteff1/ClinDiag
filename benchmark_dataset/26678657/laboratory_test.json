@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "DNA sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed germline PTEN mutation c.697C > T (p.R233*). No LOH or copy number changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor DNA sequencing",
+            "date": "Not specified",
+            "findings": "No LOH or any copy number changes. No other deleterious genetic alterations were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA-seq",
+            "date": "Not specified",
+            "findings": "Did not reveal genetic alterations, aberrant splicing variants, gene fusions, or gene expression alterations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry for PTEN",
+            "date": "Not specified",
+            "findings": "Abnormal, uniformly strong cytoplasmic staining of tumor cells with virtually absent nuclear staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biomarkers workup",
+            "date": "Not specified",
+            "findings": {
+                "chogranin_A": "436 ng/ml (elevated; normal 0-99 ng/ml)",
+                "5_hydroxyIndoleacetic_acid": "12 mg/24h (slightly elevated; normal 0-10 mg/24h)",
+                "gastrin": "50 pg/ml (normal)",
+                "neuron_specific_enolase": "6.2 ng/ml (normal)",
+                "glucagon": "57 pg/ml (normal)",
+                "vasointestinal_peptide": "28 pg/ml (normal)",
+                "pancreatic_polypeptide": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

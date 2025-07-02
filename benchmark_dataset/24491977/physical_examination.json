@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurologic_examination": "Obtunded patient with no meningeal signs or focal findings."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission Day 10",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "CSF_analysis": "Lymphocytic pleocytosis with increased proteins and ADA levels, and low glucose."
+            },
+            "changes_over_time": "CSF analysis showed progressive improvement over four months with reduced cells and normalized protein and glucose levels."
+        }
+    ]
+}

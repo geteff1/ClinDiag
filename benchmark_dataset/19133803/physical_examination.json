@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "4 September 2007",
+            "vital_signs": {
+                "temperature": "39.4 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "Comatose with intact brain stem reflexes, extensor posturing to nail-bed pressure, symmetric hyperreflexia.",
+                "other": "4-cm healing eschar at vaccination site, leukocytosis (WBC count 312.2 mm³) with elevated absolute neutrophil count (310.7 mm³)."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Day 8",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological": "Patient began to track with his eyes."
+            },
+            "changes_over_time": "Initial recovery began."
+        },
+        {
+            "date": "Day 13",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological": "Patient underwent extubation."
+            },
+            "changes_over_time": "Neurologic recovery accelerated."
+        },
+        {
+            "date": "4 months post-illness",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological": "No neurological deficits noted; minor restrictions returning to active duty."
+            },
+            "changes_over_time": "Recovered sufficiently to return to full active duty; minor occasional involuntary right shoulder droop and reproducible numbness and tingling over the dorsal aspect of left hand with pressure."
+        },
+        {
+            "date": "Month 7",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Cleared for duty."
+        }
+    ]
+}

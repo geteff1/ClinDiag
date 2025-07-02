@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Metabolic Acidosis",
+            "date": "Not specified",
+            "findings": {
+                "pH": "< 6.8 (normal range: 7.35 to 7.45)",
+                "PCO2": "3.95 kPa (normal range: 4.66 to 5.99 kPa)",
+                "bicarbonate": "4.2 mmol/L (normal range: 22 to 26 mmol/L)",
+                "anion gap": "32 mmol/L (normal range: 8 to 16 mmol/L)",
+                "lactic acid": "9.66 mmol/L (normal range: 0.50 to 2.20 mmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Potassium Level",
+            "date": "Not specified",
+            "findings": "6.1 mmol/L (normal range: 3.6 to 5.1 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "229.84 μmol/L (2.60 mg/dL) (normal range: 53.92 to 109.62 μmol/L [0.61 to 1.24 mg/dL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen Level",
+            "date": "Not specified",
+            "findings": "7.85 mmol/L (22 mg/dL) (normal range: 2.86 to 9.28 mmol/L [8 to 26 mg/dL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Leukocyte Count",
+            "date": "Not specified",
+            "findings": "18.0 × 10⁹ cells/L (normal range: 4.5 × 10⁹ to 11.0 × 10⁹ cells/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Level",
+            "date": "Not specified",
+            "findings": "205 g/L (normal range: 120 to 172 g/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "63.0 (normal range: 36.0 to 53.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "408 × 10⁹ cells/L (normal range: 140 × 10⁹ to 440 × 10⁹ cells/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Osmolality",
+            "date": "Not specified",
+            "findings": "335 mmol/kg (normal range: 270 to 300 mmol/kg) with an osmolar gap of 39 mmol/kg (normal range: <10 mmol/kg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methanol Level",
+            "date": "Not specified",
+            "findings": "5.15 mmol/L (normal range: <0.31 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Acetone Level",
+            "date": "Not specified",
+            "findings": "0.55 mmol/L (normal range: <0.17 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

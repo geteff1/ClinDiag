@@ -1,0 +1,67 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "125/80 mm Hg",
+                "waist_circumference": "124 cm",
+                "waist_to_hip_ratio": "1.02"
+            },
+            "relevant_findings": {
+                "general": "Bilateral genu valgum, kyphoscoliosis, abdominal striae, pectus carinatum",
+                "testicular_size": "14 ml (right), 13 ml (left)",
+                "sexual_characteristics": "Normal pubic and axillary hair, spontaneous erections sufficient for intercourse."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At baseline",
+            "vital_signs": {
+                "bone_age": "16.5 years",
+                "androstenedione": "3.5 µg/l (normal range, 1.25–3.1)",
+                "serum_testosterone": "9.0 ng/ml (normal range, 2.7–8.7)",
+                "estradiol": "<20 pg/ml (normal range, 20–50)",
+                "estrone": "17 ng/ml (normal range, 30–85)",
+                "bone_density_radius": "52 mg/cm³ (normal range, 120–160)",
+                "bone_mineral_density_spine": "0.971 g/cm² (normal range, >1.150)",
+                "osteocalcin": "13 µg/l (normal range, 24–70)",
+                "aminoterminal_collagen": "62.9 nmol/mmol creatinine (normal range, 5–54)"
+            },
+            "relevant_findings": {
+                "sperm_analysis": {
+                    "sperm_count": "Less than 1 million/ml",
+                    "sperm_motility": "100% immotile"
+                },
+                "25_Hydroxyvitamin_D": "7 ng/ml (normal range, 12–120)",
+                "insulin_resistance": "HOMA IR elevated."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "After 3 months of treatment",
+            "vital_signs": {
+                "sperm_count": "23.1 million/ml",
+                "sperm_motility": "Decreased",
+                "bone_age": "Not specified"
+            },
+            "relevant_findings": {
+                "sperm_analysis_changes": "Sperm count increased then decreased quickly (1.1 million/ml during following 3 months)."
+            },
+            "changes_over_time": "Sperm count increased initially, then decreased rapidly after 3 months of treatment."
+        },
+        {
+            "date": "After 6 months of treatment",
+            "vital_signs": {
+                "bone_age": "18–18.5 years",
+                "bone_density_radius": "83 mg/cm³ (normal range, 120–160)",
+                "bone_mineral_density_spine": "1.043 g/cm² (normal range, >1.150)",
+                "osteocalcin": "52 µg/l (normal range, 24–70)",
+                "aminoterminal_collagen": "92.4 nmol/mmol creatinine (normal range, 5–54)"
+            },
+            "relevant_findings": {
+                "epiphyseal_closure": "Initially unfused carpal and phalangeal epiphyses began to close within 3 months and were almost completely closed after 6 months."
+            },
+            "changes_over_time": "Bone maturation progressed, with epiphyses closures greatly improved after 6 months."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "normal",
+                "heart_rate": "regular",
+                "S1": "normal",
+                "S2": "normal",
+                "S4": "present",
+                "jugular_venous_pressure": "nonelevated",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Patient appeared ill and in moderate discomfort; ECG showed 1- to 2-mm ST-segment depressions in leads I, aVL, and V3 through V6.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

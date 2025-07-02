@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "blood_pressure": "118/70 mm Hg",
+                "pulse": "70 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97% on ambient air"
+            },
+            "relevant_findings": {
+                "overall_condition": "Did not appear ill but was in mild distress due to pain in left lower leg",
+                "nasal_crusting": "Improvement noted over previous 2 weeks; nasal septum intact, no polyps or blood present",
+                "leg_examination": "Tenderness and swelling in left lower leg from calf to dorsal aspect of foot, synovitis of left ankle present, nontender purpuric lesions on both legs, more numerous on left leg"
+            },
+            "changes_over_time": {
+                "nasal_crusting": "Marked improvement noted",
+                "leg_symptoms": "Swelling progressed from calf to foot, with tenderness on palpation and synovitis development"
+            }
+        }
+    ]
+}

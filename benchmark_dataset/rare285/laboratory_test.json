@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood count",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell_count": "12.9 × 10^9/L",
+                "lymphocyte_percentage": "59.2%",
+                "monocyte_percentage": "13.1%",
+                "neutrophil_percentage": "22.1%",
+                "hemoglobin": "142 g/L",
+                "red_blood_cell_count": "4.35 × 10^12/L",
+                "platelet_count": "556 × 10^9/L",
+                "coagulation_function": "Normal",
+                "thyroid_function": "Normal",
+                "blood_biochemistry": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "XXX IgM and IgG antibodies test",
+            "date": "Not specified",
+            "findings": {
+                "IgM_1": "5.010 Index",
+                "IgG_1": "45.60 IU/mL",
+                "IgM_2": "4.440 Index",
+                "IgG_2": "39.20 IU/mL",
+                "Cytomegalovirus_IgM": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color Doppler ultrasonography of the heart",
+            "date": "Not specified",
+            "findings": {
+                "patent_foramen_ovale": "Present",
+                "small_atrial_septal_defect": "Present",
+                "no_obvious_abnormalities": "Liver, spleen, kidneys"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RV nucleic acid detection by reverse transcriptase polymerase chain reaction",
+            "date": "23rd day after birth",
+            "findings": {
+                "throat_swabs": "Negative",
+                "urine": "Negative",
+                "tears": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "up to 102 F",
+                "CRP_initial": "11.8 mg/L",
+                "CRP_follow_up": "50.4 mg/L"
+            },
+            "relevant_findings": {
+                "skin_rash": "Hive-like rash in lower abdominal, pubic, and medial thigh areas; later spread to face and scalp."
+            },
+            "changes_over_time": {
+                "skin_rash": "Initially localized to lower abdomen, pubic, and thigh areas. Then spread to face and scalp, indicating worsening symptoms."
+            }
+        }
+    ]
+}

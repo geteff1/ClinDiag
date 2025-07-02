@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March, 2004",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": {
+                    "distention": "Mildly distended",
+                    "tenderness": "Mild tenderness on palpation, predominantly in the peri-umbilical area and left lower quadrant",
+                    "guarding": "No guarding",
+                    "rebound_tenderness": "No rebound tenderness",
+                    "bowel_sounds": "Hyperactive",
+                    "faecal_occult_blood": "Negative"
+                },
+                "date_of_findings": "March, 2004"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "72 hours later (after initial presentation)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdominal_CT": "Complete resolution of the abnormalities",
+                "date_of_findings": "72 hours later"
+            },
+            "changes_over_time": "Initial findings of an expanding, heterogeneous, multiloculated mass adjacent to the caecal fundus resolved completely."
+        },
+        {
+            "date": "December, 2005",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient was symptom-free for the previous 21 months."
+        }
+    ]
+}

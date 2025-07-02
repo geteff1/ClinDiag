@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sputum Culture",
+            "date": "Not specified",
+            "findings": "Grew methicillin-susceptible Staphylococcus aureus, Moraxella catarrhalis, Haemophilus influenzae, and Streptococcus pneumoniae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "A large pleural effusion on the right side with underlying pneumonia and air-space opacification in the right lower lung zone.",
+            "changes_over_time": "Seven months prior showed clear lungs and no pleural effusion; Admission radiographs showed dense opacification and a large pleural effusion."
+        },
+        {
+            "procedure_name": "Hematocrit and Blood Tests",
+            "date": "Not specified",
+            "findings": "Hematocrit was normal; white-cell count was 11,500 (outside normal range), elevated neutrophils (73%), thrombocytosis (891,000), elevated C-reactive protein (217.2 mg/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy of Chest Wall Mass",
+            "date": "Not specified",
+            "findings": "Histopathological examination showed an abscess with purulent inflammation surrounded by granulomatous inflammation and fibrosis, with a sulfur granule and filamentous structures indicative of Actinomyces israelii.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

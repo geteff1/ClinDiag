@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Minimal lower lobe subsegmental atelectatic changes along with a mild degree of perihilar pulmonary vascular congestion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest CT Scan",
+            "date": "Not specified",
+            "findings": "3-cm mass occluding the left mainstem bronchus, extending into the left upper and lower lobe bronchi.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Positron Emission CT Scan",
+            "date": "Not specified",
+            "findings": "No lymphadenopathy; no fluorodeoxyglucose accumulation seen in the left endobronchial lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Benign squamous mucosa with extensive submucosal fibrosis and mild chronic inflammation; no tumor seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Frozen Section",
+            "date": "Not specified",
+            "findings": "Determined to be benign.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Final Pathologic Analysis",
+            "date": "Not specified",
+            "findings": "Revealed a benign fibroepithelial polyp.",
+            "changes_over_time": "Surveillance bronchoscopy and CT scanning demonstrate no evidence of recurrent disease."
+        }
+    ]
+}

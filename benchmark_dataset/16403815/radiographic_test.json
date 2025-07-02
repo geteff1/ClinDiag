@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple thyroid nodules up to 3.7 cm in size.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "123I whole-body scan (WBS)",
+            "date": "Not specified",
+            "findings": "Several foci in the neck, the skull, abdomen, and right upper femur.",
+            "changes_over_time": "Last WBS in May 2005 showed marked improvement indicating only a faint activity in the thyroid bed without evidence of any other abnormal uptake in the previously described skeletal sites."
+        },
+        {
+            "procedure_name": "Chest CT scan",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the right femur",
+            "date": "Not specified",
+            "findings": "High signal intensity subtrochantric lesion of 4 cm size.",
+            "changes_over_time": "FNA of this lesion confirmed the diagnosis of metastatic follicular thyroid cancer."
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

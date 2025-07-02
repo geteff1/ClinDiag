@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Aspartate aminotransferase: 960 U/liter, Alanine aminotransferase: 347 U/liter; elevated levels indicating acute liver failure.",
+            "changes_over_time": "Liver function tests 2 months prior were normal (19 U/liter for both aspartate and alanine aminotransferase). After discontinuing lamotrigine, aspartate aminotransferase levels returned to normal within 5 days, and alanine aminotransferase levels remained mildly elevated at 102 U/liter."
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Slightly elevated white blood cell count of 13,300/mm³; normalized in 2 days.",
+            "changes_over_time": "Normalized in 2 days."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2006",
+            "vital_signs": {
+                "plasma_triglycerides": "2400 mg/dl (27.1 mmol/liter)",
+                "total_cholesterol": "374 mg/dl (9.67 mmol/liter)",
+                "hdl_cholesterol": "44 mg/dl (1.14 mmol/liter)",
+                "body_mass_index": "29 kg/m²"
+            },
+            "relevant_findings": "The patient was overweight. No other significant physical examination findings reported.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "After Poor Compliance and Third Episode of Pancreatitis",
+            "vital_signs": {
+                "plasma_triglycerides": "196 mg/dl (2.2 mmol/liter)",
+                "blood_glucose_control": "glycosylated hemoglobin 5.6%"
+            },
+            "relevant_findings": "Significant improvement in lipid profile noted after adherence to insulin and hypolipidemic treatment.",
+            "changes_over_time": "Initially poor compliance led to high plasma triglycerides; improved compliance resulted in significant reduction in plasma triglyceride levels."
+        }
+    ]
+}

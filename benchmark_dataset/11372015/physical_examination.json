@@ -1,0 +1,71 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7°C",
+                "pulse": "104 bpm",
+                "respirations": "16",
+                "blood_pressure": "130/70 mm Hg"
+            },
+            "relevant_findings": {
+                "pain": "considerable pain",
+                "abdomen": "soft but exquisitely tender in the right lower quadrant, without rebound tenderness; bowel sounds were diminished",
+                "stool_specimen": "occult blood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "First hospital day",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "pulse": "Not specified",
+                "respirations": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "uterus": "not tender; size corresponded to a 12-week gestation; no discharge"
+            },
+            "changes_over_time": "Temperature increased from 38.7°C to 39.1°C"
+        },
+        {
+            "date": "Second hospital day",
+            "vital_signs": {
+                "temperature": "38.8°C",
+                "pulse": "Not specified",
+                "respirations": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "pain improved briefly, but the patient refused examination due to extreme tenderness"
+            },
+            "changes_over_time": "Temperature decreased from 39.1°C to 38.8°C"
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "pulse": "Not specified",
+                "respirations": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "findings were unchanged; colonoscopic examination stopped due to the presence of stool; biopsy obtained"
+            },
+            "changes_over_time": "Temperature decreased from 38.8°C to 38.2°C"
+        },
+        {
+            "date": "Fifth hospital day",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "pulse": "Not specified",
+                "respirations": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal examination": "gentle palpation revealed marked tenderness"
+            },
+            "changes_over_time": "Temperature decreased from 38.2°C to 38.1°C"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "muscle_power_lower_limbs": "3 to 4",
+                "deep_tendon_reflexes": "absent",
+                "rectal_sphincter_tone": "diminished",
+                "sensory_examination": {
+                    "pain_and_tactile_sense": "decreased bilaterally in L-4 and L-5 dermatomes",
+                    "symptoms": "more marked on the right side"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neurological_status": "improved with almost complete motor and sensory function recovery",
+                "sequelae": "limited to intermittent lumbar backache and moderate left-sided sciatica"
+            },
+            "changes_over_time": "Symptoms improved postoperatively."
+        },
+        {
+            "date": "In 1982",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "complaints": "constant major backache and bilateral sciatica",
+                "treatment": "posterior instrumentation removed, surgery performed with partial L-4 vertebral body resection, peroneal autograft placed"
+            },
+            "changes_over_time": "One month later, the patient was discharged free of lumbar symptoms, with intermittent left-sided sciatica spontaneously relieved."
+        },
+        {
+            "date": "In 1989",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "complaints": "backache and intermittent left limb weakness",
+                "muscle_strength": "normal",
+                "radiography": "normal, but symptoms constant and increasing"
+            },
+            "changes_over_time": "Symptoms exacerbated due to his job as a bricklayer."
+        },
+        {
+            "date": "In 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "muscle_strength": "normal",
+                "sensory_deficit": "none observed",
+                "spinal_radiography": "demonstrated correct interbody graft fusion"
+            },
+            "changes_over_time": "Symptoms mild and well controlled by nonsteroidal anti-inflammatory drugs; calcifications extensive but neurological pain limited."
+        },
+        {
+            "date": "3 years later (after 1998)",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "symptoms": "disappeared",
+                "patient_condition": "remains symptom free"
+            },
+            "changes_over_time": "Symptoms completely resolved."
+        }
+    ]
+}

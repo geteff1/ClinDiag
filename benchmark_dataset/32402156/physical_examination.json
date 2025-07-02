@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "blood_pressure": "157/74 mm Hg",
+                "heart_rate": "124 bpm",
+                "respiratory_rate": "40 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "work_of_breathing": "moderately increased",
+                "lung_crackles": "diffuse coarse crackles at the lung bases",
+                "mucous_membranes": "dry",
+                "creatinine_level": "1.3 mg/dL (higher than 1 year earlier at 0.8 mg/dL)"
+            },
+            "changes_over_time": "Blood creatinine level increased from 0.8 mg/dL to 1.3 mg/dL over the course of 1 year."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation": {
+                    "initial": "87%",
+                    "after_oxygen_admin": "92%"
+                }
+            },
+            "relevant_findings": {
+                "shortness_of_breath": "increased",
+                "blood_pressure": "decreased to 78/45 mm Hg after several hours"
+            },
+            "changes_over_time": "Oxygen saturation worsened from 94% to 87% after 3 hours post-admission and shortness of breath increased."
+        },
+        {
+            "date": "Hospital Day 3",
+            "vital_signs": {
+                "creatinine_level": "1.8 mg/dL"
+            },
+            "relevant_findings": {
+                "blood_pressure": "decreased to 78/45 mm Hg",
+                "urine_output": "maintained at 100 ml per hour with diuretics",
+                "blood_urea_nitrogen": "increased to 111 mg/dL",
+                "creatinine": "6.9 mg/dL",
+                "acidosis": "mixed metabolic and respiratory acidosis developed"
+            },
+            "changes_over_time": "Blood urea nitrogen and creatinine levels continued to rise, indicating worsening renal function."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": {
+                    "initial": "157/74 mm Hg",
+                    "late": "78/45 mm Hg"
+                },
+                "creatinine_level": {
+                    "initial": "1.3 mg/dL",
+                    "late": "6.9 mg/dL"
+                },
+                "urine_output": {
+                    "initial": "100 ml/h",
+                    "late": "not specified"
+                }
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The patient's kidney function progressively declined, leading to the need for renal replacement therapy."
+        }
+    ]
+}

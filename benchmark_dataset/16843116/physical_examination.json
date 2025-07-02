@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "tachypnea",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_lesions": "bullous targetoid skin lesions over the face, back, buttocks, and extremities",
+                "hepatosplenomegaly": "present",
+                "abdominal_distention": "present",
+                "superficial_vein_engorgement": "present"
+            },
+            "changes_over_time": "Skin lesions cleared within days of treatment with no new lesions or systemic sequelae detected during one year of follow-up."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "white_cell_count": "25.4 x 10^9/L (leukocytosis)",
+                "hemoglobin": "10.5 g/dL (anemia)",
+                "platelet_count": "108 x 10^9/L (thrombocytopenia)",
+                "aspartate_aminotransferase": "75 U/L (raised)",
+                "alanine_aminotransferase": "474 U/L (raised)",
+                "direct_bilirubin": "1.7 mg/dL (raised)"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "At birth: Serum adjusted-calcium 2.11 mmol/L (8.44 mg/dL); normal range 2.00 -2.80 mmol/L (8.0 -11.2 mg/dL). At 7 days: Low serum adjusted-calcium 1.57 mmol/L (6.28 mg/dL); elevated phosphate 3.45 mmol/L (10.7 mg/dL); PTH 2.2 pmol/L; normal range 1.0 -9.3 pmol/L.",
+            "changes_over_time": "The serum calcium concentration increased into the normal range over 48 hours after treatment."
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "At 7 days: Elevated serum phosphate 3.45 mmol/L (10.7 mg/dL); normal range 1.30 -2.60 mmol/L (4.0 -8.0 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified",
+            "findings": "At 7 days: PTH 2.2 pmol/L; normal range 1.0 -9.3 pmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Magnesium",
+            "date": "Not specified",
+            "findings": "At 7 days: Borderline low serum magnesium 0.62 mmol/L (1.5 mg/dL); normal range 0.62 -1.00 mmol/L (1.5-2.4 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum 25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "At 7 days: Low serum 25-hydroxyvitamin D 27 nmol/L; adequate >50 nmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Follow-up",
+            "findings": "Discharged at 3 weeks of age with normal serum calcium.",
+            "changes_over_time": "Serum calcium improved to normal after treatment over 48 hours."
+        }
+    ]
+}

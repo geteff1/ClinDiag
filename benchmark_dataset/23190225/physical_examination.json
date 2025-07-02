@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7°C",
+                "pulse": "120-130 bpm",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "lymphadenopathy": "Palpable lymph nodes (≤1 cm) in posterior cervical, axillary, and inguinal regions",
+                "tenderness": "Tenderness of the biceps tendons",
+                "other_findings": "Remainder of examination normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One month before admission",
+            "vital_signs": {
+                "temperature": "39.2°C",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": "Acneiform papules on the back",
+                "lymphadenopathy": "Mild axillary lymphadenopathy",
+                "other_findings": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Later that day (from follow-up visit)",
+            "vital_signs": {
+                "pulse": "102 bpm",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "periorbital edema": "Bilateral periorbital edema and erythema",
+                "lymphadenopathy": "Palpable lymph nodes in right neck (1.5 cm diameter) and left axilla (2 cm diameter), shotty inguinal lymph nodes",
+                "rash": "Acneiform rash on trunk and shoulders with hyperpigmented post-inflammatory lesions",
+                "joints": "Tender swelling of small joints of hands, small effusions in both knees",
+                "other_findings": "Remainder of examination normal"
+            },
+            "changes_over_time": "Increasing cough and dyspnea on exertion, worsening fatigue, peri-orbital swelling and erythema"
+        },
+        {
+            "date": "Follow-up 21 months after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "changed_findings": "Increased bilateral subpleural reticular opacities and development of multiple subpleural cystic spaces"
+            },
+            "changes_over_time": "Progression of interstitial lung disease evident"
+        }
+    ]
+}

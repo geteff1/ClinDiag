@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/80 mm Hg",
+                "pulse": "74/min",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Patient looked well; general physical examination unremarkable, no signs of liver disease or skin changes from alcohol abuse.",
+                "neurological": "Cranial nerves normal, no tremor, marked atrophy of intrinsic hand muscles, bilateral claw deformities in fourth and fifth fingers, moderate muscular atrophy, diminished perception of vibration, pin prick, and temperature below knees, absent deep tendon reflexes in lower extremities, unsteady on tandem gait, wide-based walking."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

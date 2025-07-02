@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "5.2 mg/dL (normal range 9–11) at 3 weeks of age, 10.0 mg/dL at initial discharge, 7.0 mg/dL prior to PTH treatment at 14 months, 8.0 mg/dL after 17 months of PTH treatment.",
+            "changes_over_time": "Initial levels were low (5.2 mg/dL), rose to 10.0 mg/dL, then dropped significantly to 7.0 mg/dL prior to PTH treatment, stabilizing at 8.0 mg/dL after treatment."
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "12.4 mg/dL (normal range 4.5–6.7) at 3 weeks of age.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Magnesium",
+            "date": "Not specified",
+            "findings": "1.2 mg/dL (normal range 1.6–2.3) at 3 weeks of age.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum intact PTH",
+            "date": "Not specified",
+            "findings": "Less than 10 pg/mL (normal range 10–72) when serum calcium was 7.4 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Calcium:Creatinine Ratio",
+            "date": "Not specified",
+            "findings": "Significantly elevated urine calcium:creatinine ratio (Not provided values) during hospitalization, 4.0 mg/mg when serum calcium was 7.4 mg/dL, 2.46 at initial discharge, 0.97–3.44 prior to PTH treatment, 0.18–1.18 after 17 months.",
+            "changes_over_time": "Decreased over time, particularly after starting PTH, showing reduction from significantly elevated levels to within the normal range."
+        }
+    ]
+}

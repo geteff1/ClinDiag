@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "hyponatremia": "116 mEq/L",
+                "hyperkalemia": "8.6 mEq/L",
+                "metabolic_acidosis": {
+                    "base_excess": "28.0 mEq/L"
+                },
+                "plasma_aldosterone_concentration": "29,740 pmol/L",
+                "plasma_renin_activity": "192 mg/L zh"
+            },
+            "relevant_findings": "Normal renal function; adequate serum cortisol response (1,290 nmol/L); no unusual skin pigmentation or ambiguous genitalia.",
+            "changes_over_time": "Frequent lower respiratory tract illnesses characterized by chest congestion and cough occurred; these symptoms became less severe and less frequent with advancing age."
+        }
+    ]
+}

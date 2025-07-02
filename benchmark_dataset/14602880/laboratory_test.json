@@ -1,0 +1,86 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Flow Cytometry",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1": {
+                    "CD2": "22.6 (244)",
+                    "CD3": "0.3 (3)",
+                    "CD4": "0",
+                    "CD8": "0",
+                    "T-cell receptor γ/δ": "0",
+                    "CD56": "36.0 (391)",
+                    "CD20": "62.2 (676)"
+                },
+                "Patient 2": {
+                    "CD2": "8.4 (626)",
+                    "CD3": "0.1 (7)",
+                    "CD4": "0",
+                    "CD8": "0",
+                    "T-cell receptor γ/δ": "0",
+                    "CD56": "7.7 (574)",
+                    "CD20": "78.7 (5865)"
+                },
+                "Patient 3": {
+                    "CD2": "8.0 (190)",
+                    "CD3": "0.6 (6)",
+                    "CD4": "0",
+                    "CD8": "0",
+                    "T-cell receptor γ/δ": "0",
+                    "CD56": "7.9 (185)",
+                    "CD20": "92.6 (1050)"
+                },
+                "Normal Range": {
+                    "CD2": "75–96",
+                    "CD3": "60–85",
+                    "CD4": "30–60",
+                    "CD8": "15–35",
+                    "T-cell receptor γ/δ": "1–5",
+                    "CD56": "5–20",
+                    "CD20": "5–20"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Markedly abnormal liver-function tests.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western Blotting",
+            "date": "Not specified",
+            "findings": {
+                "CD3d": "Undetectable in Patient 1",
+                "CD3g": "Lower compared to control",
+                "CD3e": "Undetectable in Patient 1",
+                "CD3z": "Undetectable in Patient 1"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thymus Tissue Biopsy Analysis",
+            "date": "Not specified",
+            "findings": {
+                "CD3g": "Normal reactivity",
+                "CD3d": "Not detected",
+                "CD3e": "Not detected",
+                "CD3z": "Not detected"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microarray Analysis",
+            "date": "Not specified",
+            "findings": {
+                "CD3d mRNA": "Reduction by a factor of 2.3",
+                "CD3g mRNA": "Slightly altered",
+                "TCR α mRNA": "Reduction by a factor of 4.3",
+                "TCR β mRNA": "Reduction by a factor of 1.6"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical Procedure for Lipomeningocele Repair",
+            "date": "Not specified",
+            "findings": "Confirmed diagnoses of lipomeningocele and dermoid cyst.",
+            "changes_over_time": "Postoperative course complicated by CSF leakage, which required external ventricular drainage and later an ETV. Ventriculoperitoneal shunt placement resolved clinical complications."
+        },
+        {
+            "procedure_name": "Histopathological Examination",
+            "date": "Not specified",
+            "findings": "Confirmed the diagnoses of lipomeningocele and dermoid cyst.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "External Ventricular Drainage",
+            "date": "4th postoperative day",
+            "findings": "Continuous monitoring of intracranial pressure remained constantly higher than normal; daily drained CSF was more than 250 ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic Third Ventriculostomy (ETV)",
+            "date": "8 days after first operation",
+            "findings": "Did not result in control of the CSF fistula.",
+            "changes_over_time": "Subsequent ventriculoperitoneal shunt placement resolved clinical complications."
+        }
+    ]
+}

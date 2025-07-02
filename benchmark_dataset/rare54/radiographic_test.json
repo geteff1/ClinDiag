@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ultrasound",
+            "date": "Not specified",
+            "findings": "Normal echogenicity of both kidneys with length of 12.6 cm of right kidney and 13.2 cm of left kidney, with no evidence of hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "renal biopsy",
+            "date": "hospital day 5",
+            "findings": "Light microscopy showed normal glomeruli, occasional tubules with eosinophilic necrotic debris, and tubular epithelial cells with golden brown, refractile pigments positive for iron stain. Electron microscopy showed unremarkable ultrastructural features of glomeruli. Final report showed acute tubular necrosis (ATN) with hemosiderin deposition.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

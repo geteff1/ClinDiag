@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "8 months earlier",
+            "findings": "Albumin level of 3.6 mg per liter (reference range, 0 to 15)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "On Admission",
+            "findings": "Hematocrit 23.8%, Hemoglobin 7.6 g/dL",
+            "changes_over_time": "Hematocrit decreased from 36.2% (3 months earlier) to 23.8% on admission."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On Admission",
+            "findings": "Creatinine level of 10 mg/dL (884 μmol/L)",
+            "changes_over_time": "Creatinine rose from 0.91 mg/dL (8 months earlier) to 10 mg/dL on admission."
+        },
+        {
+            "procedure_name": "Serum Erythropoietin",
+            "date": "On Admission",
+            "findings": "Erythropoietin level was 11.4 mIU/mL (reference range, 4.1 to 19.5 for persons with a normal hematocrit and hemoglobin)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "On Admission",
+            "findings": "Mild proteinuria with a few red and white cells, normoglycemic glycosuria, elevated sodium excretion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "On Admission",
+            "findings": "Normal, with no free air under the diaphragm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "6th Day",
+            "findings": "Acute and chronic tubular interstitial nephritis, involving 60% of the biopsy specimen.",
+            "changes_over_time": "Original biopsy showed evidence of tubulointerstitial nephritis."
+        },
+        {
+            "procedure_name": "Follow-up Renal Biopsy",
+            "date": "17 months after diagnosis",
+            "findings": "Chronically active tubulointerstitial nephritis with increased fibrosis involving ~80% of interstitium.",
+            "changes_over_time": "Creatinine level declined to 3.4 mg/dL after treatment but later plateaued and began to rise again."
+        }
+    ]
+}

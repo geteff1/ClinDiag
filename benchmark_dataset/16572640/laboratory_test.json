@@ -1,0 +1,62 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "8.2 g/dL",
+                "leukocytes": "17.7 /H11003109/L",
+                "platelets": "330 /H11003109/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture - CSF Analysis",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "4.7 mmol/L (normal range 3–5 mmol/L)",
+                "protein": "0.6 mg/L (normal 0.2–0.6 mg/L)",
+                "white_cells": "6",
+                "red_cells": "327"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting Screen Test",
+            "date": "Not specified",
+            "findings": {
+                "PT": ">160 seconds (normal range 10–15 seconds)",
+                "aPTT": ">200 seconds (normal range 25.6–38.4 seconds)"
+            },
+            "changes_over_time": "Results were grossly abnormal."
+        },
+        {
+            "procedure_name": "Clotting Tests (Post-Operation)",
+            "date": "Not specified",
+            "findings": {
+                "PT": "32 seconds",
+                "aPTT": "42.9 seconds",
+                "thrombin_time": "Within normal range"
+            },
+            "changes_over_time": "Results were abnormal but less so compared to prior."
+        },
+        {
+            "procedure_name": "Postoperative Clotting Results",
+            "date": "Not specified",
+            "findings": {
+                "PT": "37 seconds",
+                "aPTT": "42.9 seconds",
+                "D-dimer_levels": "/H11022500 but /H110211000 ng/ml"
+            },
+            "changes_over_time": "Similar to results recorded prior to surgery."
+        },
+        {
+            "procedure_name": "Factor X Deficiency Analysis",
+            "date": "Not specified",
+            "findings": {
+                "factor_x_levels": "1.5% of normal values"
+            },
+            "changes_over_time": "Child had severe factor X deficiency."
+        }
+    ]
+}

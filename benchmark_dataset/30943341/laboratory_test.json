@@ -1,0 +1,67 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "leukocyte_count": "6200 cells per microliter",
+                "hemoglobin_level": "14.4 g per deciliter",
+                "hematocrit": "41.7%",
+                "platelet_count": "76,000 cells per microliter"
+            },
+            "changes_over_time": {
+                "platelet_count": "Decreased from 131,000 cells per microliter 3 weeks previously"
+            }
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "N-terminal pro–brain natriuretic peptide",
+            "date": "Not specified",
+            "findings": "278 pg per deciliter (normal range, 0 to 900)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "< 0.01 ng per milliliter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": {
+                "pH": "7.48",
+                "PaCO2": "28 mm Hg",
+                "PaO2": "54 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": {
+                "results": "Moderate scoliosis, normal heart size, clear lung fields"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA of the Chest",
+            "date": "Not specified",
+            "findings": "Several small segmental and subsegmental pulmonary emboli on the right side, which were slightly decreased in size from the previous study",
+            "changes_over_time": "Slight decrease in size from previous study"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "results": "Normal biventricular function, a large pedunculated mass on the atrial side of the tricuspid valve, and moderate tricuspid regurgitation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

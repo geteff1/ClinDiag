@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "32.2% (normal range: 41.0–53.0%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "11.1 g/dL (normal range: 13.5–17.5 g/dL)",
+            "changes_over_time": "Decreased from 11.1 g/dL to 10.7 g/dL"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "3800 per mm3 (normal range: 4500–11,000 per mm3)",
+            "changes_over_time": "Decreased from 3800 per mm3 to 3500 per mm3"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "104,000 per mm3 (normal range: 150,000–400,000 per mm3)",
+            "changes_over_time": "Increased to 111,000 per mm3"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "12.6 mg/dL (normal range: 0.0–1.0 mg/dL)",
+            "changes_over_time": "Increased to 13.4 mg/dL and later increased to 18.6 mg/dL."
+        },
+        {
+            "procedure_name": "Direct Bilirubin",
+            "date": "Not specified",
+            "findings": "9.6 mg/dL (normal range: 0.0–0.4 mg/dL)",
+            "changes_over_time": "Remained the same at 9.6 mg/dL"
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "36.0 sec (normal range: 22.1–34.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "17.1 sec (normal range: 10.8–13.4 sec)",
+            "changes_over_time": "Decreased to 16.6 sec"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "129 mmol/L (normal range: 135–145 mmol/L)",
+            "changes_over_time": "Decreased to 126 mmol/L"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "4.2 mmol/L (normal range: 3.4–4.8 mmol/L)",
+            "changes_over_time": "Decreased to 3.4 mmol/L"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "155 U/L (normal range: 45–115 U/L)",
+            "changes_over_time": "Decreased to 129 U/L"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "181 U/L (normal range: 10–40 U/L)",
+            "changes_over_time": "Decreased to 156 U/L"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL (normal range: Not specified)",
+            "changes_over_time": "Increased to 4.7 mg/dL and then 8.5 mg/dL"
+        },
+        {
+            "procedure_name": "HIV RNA Level",
+            "date": "Not specified",
+            "findings": ">100,000 copies/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

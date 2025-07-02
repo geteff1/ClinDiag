@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "January 1998",
+            "vital_signs": "Serum potassium level varied between 2.3 to 4.4 mEq/L",
+            "relevant_findings": "Neurologic examination revealed the patient to be well-built and strong, with no evidence of muscular atrophy; however, muscle power was less than expected. On occasions, the patient was unable to stand upon waking.",
+            "changes_over_time": "Initially, the patient experienced muscle weakness that disappeared within several hours. Furthermore, during periods of hypokalemia (potassium levels 2.3 mEq/L), he experienced pronounced weakness; when serum potassium levels increased, grip and eyelid myotonia became apparent without weakness."
+        },
+        {
+            "date": "During hospitalization",
+            "vital_signs": "Serum potassium levels ranged from 3.4 to 4.0 mEq/L",
+            "relevant_findings": "ECG showed decreased T wave amplitude and appearance of U wave during low potassium episodes.",
+            "changes_over_time": "Grasping power decreased in cold temperature (2.5 °C) and improved in warmer conditions (37 °C), correlating with myotonia becoming more prominent as temperature increased."
+        }
+    ]
+}

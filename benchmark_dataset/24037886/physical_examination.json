@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2004",
+            "vital_signs": {
+                "serum_calcium": "9.8 mg/dL",
+                "PTH": "8.8 pg/mL",
+                "phosphorus": "4.0 mg/dL",
+                "urinary_calcium": "53 mg/total volume 750mL"
+            },
+            "relevant_findings": "Patient had a history of hypoparathyroidism with serum calcium and PTH levels below normal ranges prior to treatment.",
+            "changes_over_time": "Patient required lower doses of calcium and vitamin D over time, which indicated improvement in parathyroid function."
+        },
+        {
+            "date": "2011",
+            "vital_signs": {
+                "serum_calcium": "10.1 mg/dL",
+                "PTH": "17.3 pg/mL",
+                "phosphorus": "3.2 mg/dL",
+                "urinary_calcium": "17 mg/total volume 1100mL"
+            },
+            "relevant_findings": "After stopping PTH(1–84), patient maintained normal serum calcium with increased PTH levels.",
+            "changes_over_time": "Patient's vitamin D and calcium supplementation decreased; ongoing improvement in parathyroid function was observed."
+        },
+        {
+            "date": "January 2013",
+            "vital_signs": {
+                "serum_calcium": "10.1 mg/dL",
+                "PTH": "30 pg/mL",
+                "phosphorus": "3.8 mg/dL",
+                "urinary_calcium": "12 mg/total volume 950mL"
+            },
+            "relevant_findings": "Patient's serum PTH and calcium levels were within normal ranges without supplementation.",
+            "changes_over_time": "Continued improvement in parathyroid function with stable serum calcium and rising PTH levels."
+        }
+    ]
+}

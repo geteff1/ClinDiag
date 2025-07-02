@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "9000 per cubic millimeter",
+                "hemoglobin_level": "10.3 g/dL (normal range: 11.2 to 14.1)",
+                "platelet_count": "241,000 per cubic millimeter",
+                "mean_corpuscular_volume": "98 fl"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 Level",
+            "date": "Not specified",
+            "findings": {
+                "vitamin_B12_level": "965 pg/mL (710 pmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Folate Level",
+            "date": "Not specified",
+            "findings": {
+                "serum_folate_level": "14.6 ng/mL (30 nmol/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "6 months after first presentation",
+            "findings": {
+                "result": "Very severe axonal sensorimotor polyneuropathy in lower extremities bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve Conduction Studies",
+            "date": "6 months after first presentation",
+            "findings": {
+                "sural_sensory_responses": "Absent",
+                "bilateral_peroneal_CMAP": "Absent",
+                "bilateral_tibial_CMAP": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "result": "Axonal degeneration and extensive loss of large and small myelinated and unmyelinated fibers"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool Samples for C. difficile",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative; previously tested positive during treatment"
+            },
+            "changes_over_time": "Positive test initially, then negative later along with new gastrointestinal symptoms"
+        },
+        {
+            "procedure_name": "Serum Niacin Level",
+            "date": "5 years after initial presentation",
+            "findings": {
+                "niacin_level": "Undetectable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

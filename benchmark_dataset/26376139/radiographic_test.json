@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "Multiple (at least eight) small hyperintense lesions scattered throughout both cerebral hemispheres; largest lesion is 7 mm in the left centrum semiovale, suggestive of infarcts that occurred at least 6 hours earlier.",
+            "changes_over_time": "Repeat MRI revealed multiple foci of restricted diffusion, with new foci in the bilateral frontal and right occipital lobes, consistent with multiple small acute infarcts."
+        },
+        {
+            "procedure_name": "Ultrasonography of the legs",
+            "date": "Not specified",
+            "findings": "No evidence of deep venous thrombosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Hyperkinetic left ventricle without wall-motion abnormalities; right ventricular apex akinetic and aneurysmal; accumulation of sessile, smooth-bordered endocardial material.",
+            "changes_over_time": "Echocardiographic abnormalities had resolved almost completely within 6 weeks after discharge."
+        }
+    ]
+}

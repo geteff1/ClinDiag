@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Dilated bowels with absent distal bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rectal biopsy",
+            "date": "Not specified",
+            "findings": "Absence of ganglion cells in the submucosal plexus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "No structural abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmology assessment",
+            "date": "Not specified",
+            "findings": "Bilateral blue irides; funduscopy showed choroidal hypopigmentation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Auditory brainstem response",
+            "date": "Not specified",
+            "findings": "Bilateral profound sensorineural hearing loss.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Generalised dysmyelination of the white matter with thin and dysplastic corpus callosum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation in the SOX10 gene NM_006941.1:c.1400_*10del(NP_008872.1:p.*467Cysext*82), consistent with PCWH syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

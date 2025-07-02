@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine Kinase MB Isoenzymes",
+            "date": "Not specified",
+            "findings": "10.9 ng per milliliter (reference range, 0.0 to 6.9)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "89 U per liter (reference range, 40 to 150)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase Isoenzymes Index",
+            "date": "Not specified",
+            "findings": "12.2% (reference range, 0.0 to 3.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "0.40 ng per milliliter (reference range, 0.00 to 0.09)",
+            "changes_over_time": "Troponin level remained slightly elevated, but less so than on her previous admission."
+        },
+        {
+            "procedure_name": "Left Ventricular Ejection Fraction (LVEF)",
+            "date": "During initial hospitalization",
+            "findings": "LVEF was calculated to be 45%",
+            "changes_over_time": "Left ventricular systolic function was mildly impaired; estimated LVEF was 48% on echocardiogram."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "ST-segment elevations, sinus tachycardia at 119 beats per minute.",
+            "changes_over_time": "Persistent ST-segment elevations during the second episode; complete resolution of ST-segment changes and restoration of R waves in leads V1, V2, and V3 noted 21 months after presentation."
+        }
+    ]
+}

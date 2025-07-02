@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": "Pupils round and reactive to light; optic-disk margins sharp; visual fields normal; neck supple; remainder of physical and neurologic examination normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 20 years of age",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Bilateral optic-disk edema and splinter hemorrhages observed during ophthalmologic evaluation. Bilateral blurred optic-disk margins during emergency department examination.",
+            "changes_over_time": "Worsening papilledema identified, with further visual field defects observed during follow-up examinations."
+        },
+        {
+            "date": "At 21 years of age",
+            "vital_signs": "Normal",
+            "relevant_findings": "Bilateral optic-disk edema; neurologic examination normal; normal complete blood count and serum electrolyte levels. Neurologic examination showed transient numbness in groin and sensory loss but resolved.",
+            "changes_over_time": "During hospital admission, visual and neurological symptoms developed with new findings of papilledema."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal opening pressure of cerebrospinal fluid; decreased sensation in sacral nerve areas on examination after lumbar puncture.",
+            "changes_over_time": "Increased opening pressure noted on subsequent lumbar puncture, further revealing CSF analysis consistent with elevated intracranial pressure."
+        },
+        {
+            "date": "Three months postoperatively",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Worsening papilledema observed; constriction of the inferior nasal visual field detected.",
+            "changes_over_time": "Chronic papilledema with significant visual-field defects noted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRI showing marked expansion of optic-nerve sheaths bilaterally and kinking of optic nerves.",
+            "changes_over_time": "Symptoms consistent with increased intracranial pressure noted on imaging."
+        }
+    ]
+}

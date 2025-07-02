@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gonadotropin secretion analysis",
+            "date": "Not specified",
+            "findings": {
+                "baseline": {
+                    "LH": "<0.1 IU/liter",
+                    "FSH": "<0.1 IU/liter"
+                },
+                "pulsatile_GnRH_admin": {
+                    "LH": "<0.1 IU/liter",
+                    "FSH": [
+                        {
+                            "sample_1": "0.2 IU/liter"
+                        },
+                        {
+                            "sample_2": "0.1 IU/liter"
+                        },
+                        {
+                            "remaining_samples": "0.1 IU/liter"
+                        }
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH test",
+            "date": "Not specified",
+            "findings": {
+                "0_min_LH": "<0.1 IU/liter",
+                "30_min_LH": "<0.1 IU/liter",
+                "60_min_LH": "<0.1 IU/liter",
+                "0_min_FSH": "<0.1 IU/liter",
+                "30_min_FSH": "<0.1 IU/liter",
+                "60_min_FSH": "<0.1 IU/liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genomic DNA sequencing for GnRHR mutation",
+            "date": "Not specified",
+            "findings": {
+                "mutation": "Homozygous G to A transversion at intron 1-exon 2 boundary",
+                "sister_mutation": "Heterozygous"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA analysis",
+            "date": "Not specified",
+            "findings": {
+                "transcript": "Lacking all of exon 2 (exon 2 skipping), splicing of exon 1 to exon 3",
+                "product_size": "149 bp instead of expected larger size"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

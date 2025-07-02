@@ -1,0 +1,69 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "129/77 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                {
+                    "description": "Cushingoid appearance",
+                    "location": "General examination",
+                    "date": "Ten months before this evaluation"
+                },
+                {
+                    "description": "Pallor of the right optic disk and left inferior central defect on visual-field testing",
+                    "location": "Right eye examination",
+                    "date": "Not specified"
+                },
+                {
+                    "description": "Striae and acne",
+                    "location": "Skin examination",
+                    "date": "On evaluation in the rheumatology clinic"
+                },
+                {
+                    "description": "Exotropia and minimal proptosis of the left eye",
+                    "location": "Ocular examination",
+                    "date": "On evaluation in the rheumatology clinic"
+                },
+                {
+                    "description": "No conjunctival injection, normal extraocular motility",
+                    "location": "Ocular examination",
+                    "date": "Not specified"
+                }
+            ],
+            "changes_over_time": "The visual acuity in the right eye improved from 20/50 to normal, while proptosis and visual field restriction persisted."
+        },
+        {
+            "date": "Four months before this evaluation",
+            "vital_signs": {
+                "blood_pressure": "129/77 mm Hg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                {
+                    "description": "Cushingoid body habitus and facial acne",
+                    "location": "General examination",
+                    "date": "Four months before this evaluation"
+                },
+                {
+                    "description": "No proptosis or eyelid edema",
+                    "location": "Ocular examination",
+                    "date": "Four months before this evaluation"
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

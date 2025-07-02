@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Left thyroid nodule",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "1.8 cm heterogeneous, solid and cystic nodule in the left mid thyroid, with irregular borders",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the liver",
+            "date": "Not specified",
+            "findings": "4.6 cm lesion in the right lobe, consistent with a hemangioma",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

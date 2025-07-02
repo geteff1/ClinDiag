@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Node biopsy revealed noncaseating granulomata.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "treatment for papillary squamous-cell carcinoma",
+            "date": "1993",
+            "findings": "The patient developed papillary squamous-cell carcinoma of the glans penis.",
+            "changes_over_time": "Upon recurrence of the lesion, patient underwent distal penectomy."
+        },
+        {
+            "procedure_name": "neurologic evaluation",
+            "date": "Not specified",
+            "findings": "Dementia work-ups reveal no treatable problem, confirming suspicion of probable Alzheimer disease.",
+            "changes_over_time": "Patient's dementia progressed; he mistook the doctor for a niece during a visit."
+        },
+        {
+            "procedure_name": "pleural effusion evaluation",
+            "date": "Not specified",
+            "findings": "The patient developed pleural effusions and severe desquamating dermatitis.",
+            "changes_over_time": "Patient's condition was treatable but sapping."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Mammogram",
+            "date": "May 2011",
+            "findings": "No suspicious abnormality.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mammogram",
+            "date": "January 2014",
+            "findings": "Dramatic new skin thickening overlying the cutaneous ulceration; a nipple BB marker was present, with adjacent air halo suggesting nipple retraction. No suspicious intraparenchymal asymmetries, calcifications, or masses.",
+            "changes_over_time": "Interval development of skin thickening compared to the previous mammogram."
+        },
+        {
+            "procedure_name": "Ultrasonography (US)",
+            "date": "January 2014",
+            "findings": "Architectural distortion with an irregular, nonparallel indistinct 3-cm heterogeneous mass involving the skin, subcutaneous, and posterior soft tissues with internal vascularity; adjacent skin and subcutaneous tissues were edematous.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "January 2014",
+            "findings": "Skin thickening of the right breast with a 2 x 4 cm focal irregular area of extension into the underlying breast tissue; contrast-enhanced images showed enhancement of the thickened skin and associated extension into the underlying breast tissue.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "Revealed metastatic lung lesions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (CSF test)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "20 months before admission",
+            "findings": "Marked variation in fiber size, hypertrophic and round atrophic fibers, marked endomysial fibrosis, phagocytosis, small focus of inflammation surrounding individual muscle cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney biopsy",
+            "date": "Not specified",
+            "findings": "Acute cortical necrosis and acute ischemic changes in glomeruli; mucoid intimal thickening and fibrinoid necrosis affecting arterioles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Active myopathy.",
+            "changes_over_time": "Continued to show findings suggestive of myopathy."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "High T2-weighted signal intensity in left basal ganglia and thalamus, suggested acute and subacute infarctions, brain atrophy, and small-vessel ischemic changes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

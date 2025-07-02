@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "opening_pressure_initial": "25 cm H2O",
+                "pressure_post_surgery": {
+                    "supine": "7 cm H2O",
+                    "standing": "8.5 cm H2O"
+                },
+                "ventriculostomy_initial_pressure": "5 cm H2O"
+            },
+            "relevant_findings": {
+                "initial_examination": "Mild optic disk blurring in the right eye; confirmed mild papilledema.",
+                "follow_up_exam": "Increased ventricular size and effacement of the cortical sulci after head injury."
+            },
+            "changes_over_time": "Initially mild papilledema improved after VP shunt placement; subsequent worsening of condition after head injury with increased ventricular size and symptoms of stupor and vomiting."
+        },
+        {
+            "date": "28 days after the altercation",
+            "vital_signs": {
+                "opening_pressure": "25 cm H2O"
+            },
+            "relevant_findings": "No significant change in ventricular size post-surgery; however, chronic headaches persisted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "15 days after head injury",
+            "vital_signs": {
+                "ventriculostomy_initial_pressure": "5 cm H2O"
+            },
+            "relevant_findings": "Increased ventricular size and effacement of the cortical sulci noted on CT head scan.",
+            "changes_over_time": "Condition deteriorated with vomiting and stupor; signs of low-pressure hydrocephalus after head injury."
+        },
+        {
+            "date": "5 years after placement of valveless shunt",
+            "vital_signs": {
+                "monitoring_results": "Normal pressures"
+            },
+            "relevant_findings": "Chronic headaches persisted; neurological examination showed no deficits.",
+            "changes_over_time": "No hydrocephalus noted on scans; headaches remained unchanged."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "72/53 mm Hg",
+                "heart_rate": "62 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "jaundice": "Present",
+                "cachexia": "Present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

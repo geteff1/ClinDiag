@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV RNA measurement",
+            "date": "Not specified",
+            "findings": "2,239,206 copies/ml (at age 5 yr 10 mo); 3,342 copies/ml (at age 6 yr 4 mo); 4,300 copies/ml (at age 7 yr 4 mo); 22,000 copies/ml (at age 7 yr 7.75 mo)",
+            "changes_over_time": "HIV RNA levels decreased from 2,239,206 to 3,342 copies/ml, then increased to 4,300 copies/ml, and finally rose to 22,000 copies/ml."
+        },
+        {
+            "procedure_name": "CD4 T-cell count",
+            "date": "Not specified",
+            "findings": "9 cells/mm3 (at age 5 yr 10 mo); 236 cells/mm3 (at age 6 yr 4 mo); 146 cells/mm3 (at age 7 yr 4 mo); 471 cells/mm3 (at age 7 yr 7.75 mo)",
+            "changes_over_time": "CD4 T-cell count increased from 9 to 236 cells/mm3, then decreased to 146 cells/mm3, and finally increased to 471 cells/mm3."
+        },
+        {
+            "procedure_name": "CD4 T-cell percentage",
+            "date": "Not specified",
+            "findings": "1% (at age 5 yr 10 mo); 6% (at age 6 yr 4 mo); 6.1% (at age 7 yr 4 mo); 17.9% (at age 7 yr 7.75 mo)",
+            "changes_over_time": "CD4 T-cell percentage increased from 1% to 6%, remained at 6.1%, and increased to 17.9%."
+        },
+        {
+            "procedure_name": "Hemoglobin measurement",
+            "date": "Not specified",
+            "findings": "10.3 g/dL (reference range for children, 11.5 to 15.5 g/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume (MCV)",
+            "date": "Not specified",
+            "findings": "96 fL (reference range, 76 to 94 fL)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

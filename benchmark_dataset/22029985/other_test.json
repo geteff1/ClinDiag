@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination of a bone-biopsy specimen revealed findings consistent with severe osteomalacia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Octreotide scanning",
+            "date": "Not specified",
+            "findings": "Positive for radionuclide uptake in the right mandible, consistent with persistent or recurrent tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mandibular biopsies and resections",
+            "date": "Five years before this evaluation",
+            "findings": "Pathological examination showed reactive changes and a foreign-body type giant-cell reaction, with no spindle-cell proliferation.",
+            "changes_over_time": "Diminution in the quantity of the epithelial component in recurrent tumors."
+        },
+        {
+            "procedure_name": "Video-assisted thoracoscopic biopsy",
+            "date": "At current evaluation",
+            "findings": "Pulmonary lesion composed of fascicles of spindle cells identical to those in previous tumors.",
+            "changes_over_time": "Similar morphology to previous tumors with signs of metastasis."
+        },
+        {
+            "procedure_name": "Selective venous sampling",
+            "date": "Not specified",
+            "findings": "Elevated levels of FGF23 at all sites tested, with no significant gradient.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

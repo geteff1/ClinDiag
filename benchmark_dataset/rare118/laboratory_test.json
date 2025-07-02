@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LDH",
+            "date": "Not specified",
+            "findings": "Very high LDH levels (2360 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "Mild increase in CRP (1.79 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatic enzymes (AST)",
+            "date": "Not specified",
+            "findings": "AST 51 IU, ALT 81 IU",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ANA",
+            "date": "Not specified",
+            "findings": "Mildly positive (ANA 1:80 homogeneous pattern)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ASMA",
+            "date": "Not specified",
+            "findings": "Mildly positive (ASMA 1:80 vascular pattern)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cytometric investigation showed B lymphocytes with non-malignant features and a reduced CD4 to CD8 lymphocyte ratio; histologic exam revealed histiocytic necrotizing lymphadenitis.",
+            "changes_over_time": "Five years earlier, a lymph node biopsy showed lymphoid follicular hyperplasia with paracortical expansion and large areas containing immunoblasts, histiocytes, and apoptotic cells."
+        }
+    ]
+}

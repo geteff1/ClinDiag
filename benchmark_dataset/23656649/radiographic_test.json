@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transabdominal and transvaginal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal-size uterus (5.9 cm in length), abnormally heterogeneous and thickened endometrial lining (measuring up to 1 cm), normal kidneys and ovaries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "1 month after the completion of therapy",
+            "findings": "No evidence of cancer in the chest or upper abdomen, but soft-tissue densities in the pelvis thought to be resolving postoperative inflammatory changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "11 months after the completion of chemotherapy",
+            "findings": "Occlusion of the inferior vena cava by a circumferential retroperitoneal soft-tissue mass measuring approximately 4 cm and two lesions in the liver (approximately 5 mm in greatest dimension).",
+            "changes_over_time": "Findings suggest tumor recurrence."
+        },
+        {
+            "procedure_name": "Integrated whole-body 18F-fluorodeoxyglucose (FDG) PET and CT",
+            "date": "11 days after the previous CT scan",
+            "findings": "Marked FDG avidity in the retroperitoneal mass and liver lesions, increased size and number of liver lesions since the previous CT scan, and a focus of intense tracer uptake in the L2 vertebral body consistent with metastasis.",
+            "changes_over_time": "Increasing size and number of liver lesions since the previous CT scan."
+        }
+    ]
+}

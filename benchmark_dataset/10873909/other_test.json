@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Clinical Interview",
+            "date": "Not specified",
+            "findings": "Psychiatric diagnoses established, including current major depression with symptoms of depressed mood, insomnia, difficulty concentrating, and thoughts of death.",
+            "changes_over_time": "Depressive symptoms abated somewhat in the past 1-2 months prior to assessment."
+        },
+        {
+            "procedure_name": "Eating Disorder Examination",
+            "date": "Not specified",
+            "findings": "Provided detailed assessment of eating and weight-related attitudes and behaviors, establishing diagnosis of binge eating disorder.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Structured Clinical Interview for DSM-IV (SCID)",
+            "date": "Not specified",
+            "findings": "Used to establish psychiatric diagnoses including binge eating disorder and comorbid conditions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Food Monitoring/Diary Records",
+            "date": "Throughout Treatment",
+            "findings": "Initially difficult for the patient emotionally, later improved to a consistent monitoring process.",
+            "changes_over_time": "By the third month, the patient effectively monitored daily food intake; a lapse in monitoring occurred after three months but was addressed."
+        },
+        {
+            "procedure_name": "Psychotherapy Sessions",
+            "date": "Throughout Treatment",
+            "findings": "Patient expressed anxiety and fear about her eating habits; developed coping strategies and cognitive restructuring techniques.",
+            "changes_over_time": "Patient transitioned from distress about food records to utilizing feedback for behavioral adjustments."
+        },
+        {
+            "procedure_name": "Fluoxetine Treatment",
+            "date": "Not specified",
+            "findings": "Examined efficacy combined with psychotherapy for binge eating disorder.",
+            "changes_over_time": "Patient learned that the substantial behavioral changes were due to her efforts rather than medication."
+        }
+    ]
+}

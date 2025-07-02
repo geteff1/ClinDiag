@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "72 mm/hr (normal, <15 mm/hr)",
+            "changes_over_time": "Decreased to 31 mm/hr after approximately one month of therapy."
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "27.6 mg/dL (normal, <0.9 mg/dL)",
+            "changes_over_time": "Decreased to 0.5 mg/dL after approximately one month of therapy."
+        },
+        {
+            "procedure_name": "Computed Tomography",
+            "date": "Follow-up evaluation after antifungal therapy",
+            "findings": "Healing of the lesion in the right ilium with a marked cortical response.",
+            "changes_over_time": "Demonstrated a decrease in the size of the lesions and the development of sclerotic-appearing bone within them after one year."
+        }
+    ]
+}

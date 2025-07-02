@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "0.15 mU/liter",
+                "free T3": "0.83 pmol/liter (normal range: 2.2 - 8.8 pmol/liter)",
+                "free T4": "undetectable (normal range: 15 - 30 ng/liter)",
+                "TSH (Patient III-2)": "0.06 mU/liter",
+                "total T3 (Patient III-2)": "0.56 /H9262g/liter (normal range: 1.32 - 3.7 /H9262g/liter)",
+                "total T4 (Patient III-2)": "24 /H9262g/liter (normal range: 89 - 236 /H9262g/liter)",
+                "TSH (Patient III-3)": "0.02 mU/liter",
+                "free T3 (Patient III-3)": "1.7 pmol/liter (normal range: 2.2 - 8.8 pmol/liter)",
+                "free T4 (Patient III-3)": "2 ng/liter (normal range: 15 - 30 ng/liter)"
+            },
+            "relevant_findings": "Physical examination for Patient III-3 indicated delayed development (first teeth at 9 months, walking at 13 months, speech at 15 months) but was noted as normal by age 9.",
+            "changes_over_time": "Patient III-3's development initially delayed but normalized thereafter under therapy."
+        }
+    ]
+}

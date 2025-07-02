@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "430 leukocytes (96% lymphocytes) per cubic millimeter, protein level of 133 mg per deciliter, glucose level of 43 mg per deciliter.",
+            "changes_over_time": "Mild improvement in the lymphocytic pleocytosis was observed in repeat lumbar punctures performed at the hospital."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Initial MRI showed T2-weighted hyperintensity of the bilateral thalami and cerebral cortex, and diffuse T2-weighted hyperintensity of the cerebellum. Repeat MRI on hospital day 4 showed increased symmetric hyperintensities of the cortex and cerebellum, with associated leptomeningeal enhancement and new involvement of the midbrain.",
+            "changes_over_time": "There was evidence of disease progression noted on the repeat MRI compared to the initial imaging."
+        },
+        {
+            "procedure_name": "Metagenomic sequencing",
+            "date": "Hospital day 8",
+            "findings": "Powassan virus detected within 96 hours.",
+            "changes_over_time": "Initial rapid sequencing run completed on hospital day 11 confirmed Powassan virus in CSF among 2.4 million total sequencing reads."
+        },
+        {
+            "procedure_name": "Histopathology and immunohistochemistry",
+            "date": "Results returned on hospital day 18",
+            "findings": "Diffuse lymphoid infiltrates were noted with no evidence of vasculitis, infarction, or infection by spirochetes or common viral pathogens.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

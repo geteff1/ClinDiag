@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Skin aspiration",
+            "date": "January 2014",
+            "findings": "Atypical cells suspicious for malignancy. No microbial growth at the aspiration site.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "US-guided core biopsy",
+            "date": "January 2014",
+            "findings": "Poorly differentiated angiosarcoma and dermal lymphedema with chronic inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Seroma aspiration",
+            "date": "January 2014",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Post-surgical pathology analysis",
+            "date": "Post-mastectomy",
+            "findings": "FNCLCC grade 2 secondary angiosarcoma of the dermis extending to the underlying breast tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mammogram",
+            "date": "September 2013",
+            "findings": "BI-RADS category 2 findings (stable postoperative benign findings).",
+            "changes_over_time": "Interval development of skin thickening noted in January 2014 mammogram."
+        },
+        {
+            "procedure_name": "Mammogram",
+            "date": "January 2014",
+            "findings": "Dramatic new skin thickening overlying the cutaneous ulceration; no suspicious intraparenchymal asymmetries, calcifications, or masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "January 2014",
+            "findings": "Irregular 3-cm heterogeneous mass with internal vascularity and thickened skin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "January 2014",
+            "findings": "Skin thickening with a 2 by 4 cm irregular area of extension and heterogeneous enhancement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

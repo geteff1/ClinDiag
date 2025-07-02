@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Cortisol",
+            "date": "Not specified",
+            "findings": "4.1 mg/dL (reference range 5.6 to 21.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "Not specified",
+            "findings": "2110 pg/mL (reference range 7.7 to 22.1 pg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Aldosterone",
+            "date": "Not specified",
+            "findings": "255 pg/mL (reference range 50 to 900 pg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Renin Activity",
+            "date": "Not specified",
+            "findings": "2.1 ng/mL/h (reference range 0.2 to 2.7 ng/mL/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum LH",
+            "date": "At the age of 24 years",
+            "findings": "120 mIU/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Estradiol",
+            "date": "At the age of 24 years",
+            "findings": "796 mIU/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Progesterone",
+            "date": "At the age of 25 years during luteal phase",
+            "findings": "23.6 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Progesterone",
+            "date": "At 6 weeks and 5 days' gestation",
+            "findings": "Around the fifth percentile and then increased",
+            "changes_over_time": "Increased over the course of the pregnancy"
+        },
+        {
+            "procedure_name": "Serum LH",
+            "date": "At age 19 years for Patient 3",
+            "findings": "28.35 mIU/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Estradiol",
+            "date": "At age 19 years for Patient 3",
+            "findings": "886 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Cortisol",
+            "date": "At age 6 years for Patient 4",
+            "findings": "5.1 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "At age 6 years for Patient 4",
+            "findings": ">1300 pg/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

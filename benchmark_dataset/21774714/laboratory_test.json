@@ -1,0 +1,97 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Approximately 7 weeks before the current evaluation",
+            "findings": {
+                "sodium": "131 mmol/L (Low; reference range: 135 to 146)",
+                "chloride": "96 mmol/L (Low; reference range: 99 to 111)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "6 to 7 weeks before evaluation",
+            "findings": {
+                "Hematocrit": "35.3% (Low; reference range: 41.0–53.0)",
+                "Hemoglobin": "12.2 g/dL (Low; reference range: 13.5–17.5)",
+                "White-cell count": "3,900 per mm³ (Low; reference range: 4,500–11,000)",
+                "Platelet count": "470,000 per mm³ (Normal; reference range: 150,000–350,000)"
+            },
+            "changes_over_time": "Decreasing hemoglobin and hematocrit levels noted over time."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "5 weeks before evaluation",
+            "findings": {
+                "Hematocrit": "32.1% (Low)",
+                "Hemoglobin": "11.1 g/dL (Low)",
+                "White-cell count": "3,200 per mm³ (Low)",
+                "Platelet count": "363,000 per mm³ (Normal)"
+            },
+            "changes_over_time": "Further decrease in hemoglobin and hematocrit levels."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "8 days before evaluation",
+            "findings": {
+                "Hematocrit": "33.9% (Low)",
+                "Hemoglobin": "11.4 g/dL (Low)",
+                "White-cell count": "3,000 per mm³ (Low)",
+                "Platelet count": "379,000 per mm³ (Normal)"
+            },
+            "changes_over_time": "Some recovery in white-cell count, but hemoglobin and hematocrit remain low."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "On evaluation",
+            "findings": {
+                "Hematocrit": "32.8% (Low)",
+                "Hemoglobin": "10.8 g/dL (Low)",
+                "White-cell count": "4,400 per mm³ (Normal)",
+                "Platelet count": "511,000 per mm³ (Normal)"
+            },
+            "changes_over_time": "Hemoglobin and hematocrit slightly improved, continued presence of leukopenia."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": {
+                "D-Dimer": ">4,000 ng/ml (Abnormal; reference range: <500 ng/ml)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody test",
+            "date": "Not specified",
+            "findings": {
+                "ANA": "Positive at 1:40 dilution, speckled pattern"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid factor",
+            "date": "Not specified",
+            "findings": {
+                "Rheumatoid factor": "78 IU/ml (Abnormal; reference range: <20)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement C3",
+            "date": "Not specified",
+            "findings": {
+                "C3": "42 mg/dL (Low; reference range: 86–184)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement C4",
+            "date": "Not specified",
+            "findings": {
+                "C4": "11 mg/dL (Low; reference range: 20–58)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

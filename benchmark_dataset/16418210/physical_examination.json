@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "height": "145.6 cm",
+                "weight": "57.8 kg",
+                "testes_volume": "2 ml",
+                "puberty_stage": {
+                    "pubic_hair": "Tanner stage 1",
+                    "genitalia": "Tanner stage 1"
+                },
+                "bone_age": "12.5 yr",
+                "GnRH_test": {
+                    "basal_LH": "0.7 IU/liter (normal range, 1.5–6.0 IU/liter)",
+                    "peak_LH": "9.4 IU/liter (5.7–18.5 IU/liter)",
+                    "basal_FSH": "2.9 IU/liter (1.5–6.0 IU/liter)",
+                    "peak_FSH": "11.0 IU/liter (7.0–14.0 IU/liter)"
+                },
+                "hCG_test": {
+                    "basal_T": "7.8 ng/dl (normal range, 100–600 ng/dl)",
+                    "peak_T_response": "225 ng/dl (normal range 300 ng/dl)"
+                }
+            },
+            "relevant_findings": {
+                "olfactory_dysfunction": "Present",
+                "dental_agenesis": "Agenesis of eight teeth (first upper and lower molars, upper premolar teeth, and lower canine teeth)",
+                "eunuchoid_habitus": "Present"
+            },
+            "changes_over_time": "Height increased from 145.6 cm at 14 years and 9 months to 169.3 cm at 17 years and 7 months; pubertal development progressed to Tanner stage 4 for pubic hair and Tanner stage 3 for genitalia, but testes volume remained at 2 ml bilaterally."
+        },
+        {
+            "date": "17 years and 7 months",
+            "vital_signs": {
+                "height": "169.3 cm",
+                "weight": "63.4 kg",
+                "testes_volume": "2 ml",
+                "puberty_stage": {
+                    "pubic_hair": "Tanner stage 4",
+                    "genitalia": "Tanner stage 3"
+                }
+            },
+            "relevant_findings": {
+                "olfactory_dysfunction": "Present",
+                "dental_agenesis": "Agenesis of six teeth (first upper and lower molars and lower canine teeth)",
+                "secondary_sexual_development": "Manifested but testes remained at 2 ml"
+            },
+            "changes_over_time": "Height increased from 145.6 cm at initial examination to 169.3 cm; notable increase in secondary sexual characteristics."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "147/102 mm Hg",
+                "pulse": "80 bpm",
+                "temperature": "36.8°C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "156/91 mm Hg",
+                "pulse": "80 bpm",
+                "temperature": "Normal",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The remainder of the examination was unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks after initial presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "The weight was 85.3 kg, the height 190.5 cm, and the body-mass index (BMI) was 23.5. The remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 weeks after initial presentation",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Esophagogastroduodenoscopy revealed grade I varices in the lower third of the esophagus; colonoscopic examination revealed normal mucosa.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

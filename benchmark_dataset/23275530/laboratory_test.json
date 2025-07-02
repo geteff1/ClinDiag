@@ -1,0 +1,41 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum LEP Concentration",
+            "date": "Not specified",
+            "findings": "Elevated LEP concentration at 16 years (162 ng/mL; normal range 26–86 ng/mL for BMI-matched men)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GH secretion",
+            "date": "16 years",
+            "findings": "Low GH secretion in response to stimulation (6.2 ng/mL; expected peak 17 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Resting Energy Expenditure (REE)",
+            "date": "16 years",
+            "findings": "Measured REE 2580 kcal; 16% lower than predicted by the Harris-Benedict equation (3080 kcal)",
+            "changes_over_time": "At 18 years, REE was 26% lower (measured REE not specified); normalized at 19 years (measured REE 2730 kcal vs 2930 kcal predicted)"
+        },
+        {
+            "procedure_name": "Serum sLEPR Concentration",
+            "date": "Not specified",
+            "findings": "No sLEPR detectable in patient serum, suggesting absence of a secreted mutant protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormone Concentrations",
+            "date": "Age 3.5 to 26 years",
+            "findings": {
+                "Leptin": "136 ng/mL at age 3.5, 162 ng/mL at age 16",
+                "LH": "Baseline 0.5 IU/L at age 3.5, increased to 4.7 IU/L at age 22",
+                "Free Testosterone": "1.35 nmol/L at age 22, normalized",
+                "Somatomedin C (IGF-I)": "VARIED from 41.9 to 34.7 nmol/L over the years",
+                "TSH": "VARIED from 1.9 mU/L to 0.9 mU/L over the years",
+                "Free T4": "VARIED from 5.8 pmol/L to 13.2 pmol/L over the years"
+            },
+            "changes_over_time": "Hormone levels such as testosterone normalized between 22-26 years; TSH and Free T4 levels showed fluctuations."
+        }
+    ]
+}

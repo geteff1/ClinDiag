@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/88 mm Hg",
+                "heart_rate": "66 bpm",
+                "temperature": "36.3°C",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared well but uncomfortable owing to facial pain. Neck was supple, lungs clear, heart rate and rhythm normal, abdomen soft and nontender.",
+                "neurologic": {
+                    "awareness": "Awake, alert, and oriented",
+                    "visual_fields": "Full",
+                    "extraocular_muscle_movement": "Intact",
+                    "pupils": "Equal and reactive to light",
+                    "muscle_strength": {
+                        "temporal": "Equal in symmetry and strength",
+                        "masseter": "Equal in symmetry and strength"
+                    },
+                    "facial_sensation": "Intact and symmetric to light touch, with sensitivity to light touch over left maxillary and mandibular distribution."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Abnormal signal changes in the brain stem; early ischemic changes involving basis pontis bilaterally; small areas of restricted diffusion in left thalamus and left midbrain.",
+            "changes_over_time": "Some regression of the lesion of the basis pontis, mostly on its ventral aspect, with no new areas of infarcts."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Hyperdense basilar-artery sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiography (CTA)",
+            "date": "Not specified",
+            "findings": "Occlusive thrombus extending from the midportion to the distal portion of the basilar artery.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

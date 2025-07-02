@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 39°C, Pulse: 150 bpm",
+            "relevant_findings": "Psychomotor retardation, anxiety, depression, preoccupation with ideas of guilt, unworthiness, and suicide.",
+            "changes_over_time": "Patient's condition initially included increased agitation and disorientation, which improved after treatment with antithyroid medication."
+        },
+        {
+            "date": "4 days after admission",
+            "vital_signs": "Temperature: 39°C, Pulse: 150 bpm",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 13 after admission",
+            "vital_signs": "Temperature: normal, Pulse: decreased to 100 bpm",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

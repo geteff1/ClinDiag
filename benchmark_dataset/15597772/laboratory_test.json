@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PTH Level",
+            "date": "April 2001",
+            "findings": "Markedly elevated at 49.4 pmol/L (normal range 1.3–7.6 pmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium Level",
+            "date": "February 2003",
+            "findings": "Marginally elevated at 2.69 mmol/L (normal range 2.25–2.6 mmol/L)",
+            "changes_over_time": "Stable at a high normal level postoperatively at 2.56 mmol/L"
+        },
+        {
+            "procedure_name": "PTH Level",
+            "date": "February 2003",
+            "findings": "Elevated at 29.8 pmol/L (normal range 0.9–9 pmol/L)",
+            "changes_over_time": "Elevated to 23.2 pmol/L in May 2003"
+        },
+        {
+            "procedure_name": "Gamma-glutamyltransferase (GGT)",
+            "date": "February 2003",
+            "findings": "Elevated at 58 U/L (normal range 0–40 U/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

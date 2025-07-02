@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.0°C",
+                "pulse": "101 bpm",
+                "blood_pressure": "95/62 mmHg",
+                "respiratory_rate": "12 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_condition": "Chronically ill appearance",
+                "pupil_response": "Left pupil round and reactive to light",
+                "dry_mucous_membranes": "Present",
+                "neck": "Supple, without palpable thyroid abnormalities",
+                "jugular_venous_pressure": "Less than 5 cm water",
+                "motor_strength": {
+                    "proximal": "4 out of 5",
+                    "distal": "Normal"
+                },
+                "cranial_nerve_function": "Preserved",
+                "sensation": "Light touch and proprioception preserved",
+                "depigmentation": {
+                    "areas": "Multiple confluent patches on face, trunk, and extremities",
+                    "oral_mucosa": "No notable hyperpigmentation"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

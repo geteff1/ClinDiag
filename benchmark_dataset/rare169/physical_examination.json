@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "upper_extremity_blood_pressure": "150/100 mmHg",
+                "lower_extremity_blood_pressure": "90/65 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "pulse_examination": {
+                    "upper_extremities": "Normal",
+                    "lower_extremities": "Feeble at popliteal arteries and dorsalis pedis"
+                },
+                "systemic_hypertension": {
+                    "duration": "13 years",
+                    "treatment": [
+                        "almondine 10 mg daily",
+                        "hydrochlorothiazide 25 mg",
+                        "enalapril 10 mg BID"
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

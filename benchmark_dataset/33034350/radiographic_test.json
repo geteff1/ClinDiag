@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "HbA1c measurement",
+            "date": "Not specified",
+            "findings": "HbA1c was measured and 6.7%, increased from 6.4% at the last office visit with his pediatric endocrinologist 3 months prior.",
+            "changes_over_time": "Increase in HbA1c from 6.4% to 6.7% over 3 months."
+        },
+        {
+            "procedure_name": "C-peptide measurement",
+            "date": "Not specified",
+            "findings": "C-peptide of 1.2 ng/mL (reference 0.8 - 3.2 ng/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary C-peptide to creatinine ratio (UCPCR)",
+            "date": "Not specified",
+            "findings": "2-hour post-prandial UCPCR of > 0.2 nmol/mmol.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

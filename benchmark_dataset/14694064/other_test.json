@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Results suggested infection-associated hemophagocytic syndrome.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve conduction study (NCS)",
+            "date": "Not specified",
+            "findings": "Decreased amplitude of compound muscle action potentials (CMAP) in both peroneal nerves. Absent or mildly prolonged F-wave latencies. Other NCS findings including distal motor latencies and motor nerve conduction velocities were normal.",
+            "changes_over_time": "Follow-up NCS revealed improvement."
+        },
+        {
+            "procedure_name": "Electromyographic (EMG) study",
+            "date": "Not specified",
+            "findings": "Active fibrillation potentials, positive waves, and neurogenic polyphasic waves in the right anterior tibialis muscle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "58 cells (18 neutrophils and 17 lymphocytes), glucose 80 mg/100 mL, and protein 60 mg/100 mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Day 5 and Day 13",
+            "findings": "Day 5 showed questionable nonenhancing hyperintensity in the central pons; Day 13 showed new nonenhancing lesions in both thalami and extensive increased T2 signal throughout the midbrain, pons, medulla, and cerebellar hemispheres.",
+            "changes_over_time": "Increased ADC values were noted in the pons and thalami on Day 13."
+        }
+    ]
+}

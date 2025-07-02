@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "upper GI series",
+            "date": "1993",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "upper endoscopy",
+            "date": "December 1996",
+            "findings": "Barrett esophagus with a single mildly dysplastic gland",
+            "changes_over_time": "Subsequent endoscopy in 2002 showed Barrett esophagus without evidence of dysplasia"
+        },
+        {
+            "procedure_name": "endoscopy",
+            "date": "March 2002",
+            "findings": "Barrett esophagus without evidence of dysplasia",
+            "changes_over_time": "The length of Barrett esophagus has not been specified in the reports."
+        }
+    ]
+}

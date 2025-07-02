@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL (increased from baseline level of 2.4 mg/dL; normal range 0.7 to 1.2 mg/dL)",
+            "changes_over_time": "Increased creatinine level over time."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "3800 per μL (normal range 4500 to 10,500)",
+            "changes_over_time": "Decreased from 4500 to 3710 per μL over several days."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.8 g/dL (normal range 13.3 to 16.3), decreased to 9.6 g/dL over the hospital stay.",
+            "changes_over_time": "Hemoglobin levels decreased from 12.8 g/dL to 9.6 g/dL."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "75,000 per μL (normal range 150,000 to 400,000), decreased to 21,000 per μL.",
+            "changes_over_time": "Platelet count worsened from 121,000 to 21,000 per μL."
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "2592 U/L (normal range 110 to 210 U/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": ">10,000 ng/mL (normal range <500 ng/mL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "13.5 seconds (normal range 10.6 to 13.4 seconds)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Haptoglobin",
+            "date": "Not specified",
+            "findings": "277 mg/dL (normal range 30 to 200 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "118 U/L (normal range 5 to 41 U/L), increased to 195 U/L.",
+            "changes_over_time": "Increased from 118 U/L to 195 U/L."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "38 U/L (normal range 10 to 50 U/L), increased to 583 U/L.",
+            "changes_over_time": "Increased from 38 U/L to 583 U/L."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "9390 U/L (normal range 39 to 308 U/L), decreased to 6290 U/L.",
+            "changes_over_time": "Decreased from 9390 U/L to 6290 U/L."
+        },
+        {
+            "procedure_name": "Reticulocyte percentage",
+            "date": "Not specified",
+            "findings": "<0.5% (normal range 0.5 to 2.5%)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

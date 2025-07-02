@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "90 bpm",
+                "blood_pressure": "88/64 mm Hg",
+                "jugular_venous_pressure": "16 cm H2O"
+            },
+            "relevant_findings": {
+                "physical_exam": "S3 gallop, 2+/H11001 pitting lower extremity edema",
+                "creatinine_level": "2.0 mg/dL",
+                "ejection_fraction": "15%",
+                "left_ventricular_end_diastolic_dimension": "7.5 cm"
+            },
+            "changes_over_time": "He initially presented with ejection fraction of 25% and 6.3 cm left ventricular end-diastolic diameter, which progressed to 15% ejection fraction and 7.5 cm diameter."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "jugular_venous_pressure": "8 cm H2O",
+                "creatinine_level": "1.5 mg/dL",
+                "weight_loss": "10 kg"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Jugular venous pressure improved from 16 cm H2O to 8 cm H2O and creatinine decreased from 2.0 mg/dL to 1.5 mg/dL after treatment."
+        }
+    ]
+}

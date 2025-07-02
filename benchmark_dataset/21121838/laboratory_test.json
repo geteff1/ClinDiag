@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 7900/cubic millimeter, Neutrophils: 32%, Band forms: 8%, Lymphocytes: 49%, Monocytes: 8%, Eosinophils: 2%, Metamyelocytes: 1%; Hemoglobin: 12.9 g/dL; Hematocrit: 37%; Mean corpuscular volume: 89 µm3; Platelet count: 237,000/cubic millimeter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "Serum calcium: 17.1 mg/dL (normal range, 8.8 to 10.4 mg/dL); Albumin: 4.6 g/dL; Phosphorus: 4.7 mg/dL (normal range, 2.4 to 4.1 mg/dL); Alkaline phosphatase: 82 U/dL.",
+            "changes_over_time": "Normal calcium and creatinine levels 8 weeks prior."
+        },
+        {
+            "procedure_name": "Renal Function Tests",
+            "date": "Not specified",
+            "findings": "Blood urea nitrogen: 58 mg/dL; Serum creatinine: 3.9 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "PTH concentration: 9.05 pg/mL (normal range, 15 to 65 pg/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parathyroid Hormone-Related Peptide (PTHrP)",
+            "date": "Not specified",
+            "findings": "PTHrP concentration: <2.5 pmol/L (normal value, <4.7 pmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 25-Hydroxyvitamin D Level",
+            "date": "Not specified",
+            "findings": "25-hydroxyvitamin D: 19 ng/mL (normal range, 20 to 100 ng/mL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-Hour Urine Calcium Test",
+            "date": "Not specified",
+            "findings": "24-hour urine calcium: 365 mg (normal range, 100 to 300 mg).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium Level after treatment",
+            "date": "Not specified",
+            "findings": "After treatment for hypercalcemia, serum calcium: 11.7 mg/dL.",
+            "changes_over_time": "Reduced from 17.1 mg/dL to 11.7 mg/dL over the course of treatment."
+        },
+        {
+            "procedure_name": "Serum Creatinine Level after treatment",
+            "date": "Not specified",
+            "findings": "After treatment for renal dysfunction, serum creatinine: 1.2 mg/dL.",
+            "changes_over_time": "Reduced from 3.9 mg/dL to 1.2 mg/dL over the course of treatment."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC) on return visit",
+            "date": "5 weeks after initial treatment",
+            "findings": "White-cell count: 6600/cubic millimeter, Hemoglobin: 8.4 g/dL, Hematocrit: 24%; Reticulocyte count: 1.6%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium Level on return visit",
+            "date": "5 weeks after initial treatment",
+            "findings": "Serum calcium: 15.8 mg/dL.",
+            "changes_over_time": "Increased from 11.7 mg/dL after treatment."
+        },
+        {
+            "procedure_name": "Serum Creatinine Level on return visit",
+            "date": "5 weeks after initial treatment",
+            "findings": "Serum creatinine: 3.1 mg/dL.",
+            "changes_over_time": "Increased from 1.2 mg/dL after treatment."
+        },
+        {
+            "procedure_name": "Serum Calcitriol Level",
+            "date": "5 weeks after initial treatment",
+            "findings": "Serum calcitriol: 162 pg/mL (normal range, 6 to 62 pg/mL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

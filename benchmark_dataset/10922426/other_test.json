@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Holter recording",
+            "date": "Not specified",
+            "findings": "Ventricular extrasystoles",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Corrected QT interval is 448 msec; QT interval looks abnormal.",
+            "changes_over_time": "On day 6, QT interval was 540 msec and corrected QT interval was 493 msec with giant inverted T waves."
+        },
+        {
+            "procedure_name": "Temporary pacing electrode insertion",
+            "date": "Not specified",
+            "findings": "Ventricular pacing at a rate of 110 beats per minute completely suppressed the ventricular arrhythmias.",
+            "changes_over_time": "Pacing rate was gradually decreased to 80 beats per minute while the dose of metoprolol was increased."
+        },
+        {
+            "procedure_name": "Permanent dual-chamber pacemaker implantation",
+            "date": "Not specified",
+            "findings": "Pacing rate reduced to 70 beats per minute.",
+            "changes_over_time": "Patient experienced ventricular fibrillation and cardiac arrest three days later."
+        },
+        {
+            "procedure_name": "Surgical resection of adrenal tumor",
+            "date": "Two weeks later after hospitalization",
+            "findings": "Large tumor of the right adrenal gland (4 cm in diameter).",
+            "changes_over_time": "Symptoms and electrocardiographic abnormalities resolved post-resection."
+        },
+        {
+            "procedure_name": "Measurement of plasma and urinary catecholamines",
+            "date": "Not specified",
+            "findings": "Plasma levels of norepinephrine were very high; urinary levels of epinephrine, norepinephrine, and dopamine were high.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

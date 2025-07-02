@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic (CT) scan of the thorax",
+            "date": "Not specified",
+            "findings": "No evidence of pulmonary embolism but revealed inflammatory changes of the aortic arch, small pericardial effusion, and a pulmonary artery diameter of 3.2 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Second hospital day",
+            "findings": "Soft-tissue linear density of moderate size within the mediastinum consistent with inflammation or hemorrhage; the ascending aorta was dilated, with a maximal diameter of 4.5 cm; small pericardial effusion; small bilateral pleural effusions; lungs were clear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Not specified",
+            "findings": "Focal linear flap in the proximal ascending aorta, slight dilation of the aorta to about 4.4 cm, and an eccentric jet of mild-to-moderate aortic insufficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

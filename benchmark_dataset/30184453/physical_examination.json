@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "normal",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 38.4°C, Pulse: 116 bpm, Blood pressure: 124/88 mmHg, Respiratory rate: 16 breaths/min, Oxygen saturation: 97%",
+            "relevant_findings": "Patient appeared uncomfortable. Cardiac, respiratory, abdominal, neurologic, skin, and musculoskeletal examinations were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 39.3°C, Pulse: 100 bpm, Blood pressure: 115/69 mmHg, Respiratory rate: 18 breaths/min, Oxygen saturation: 92%",
+            "relevant_findings": "Patient appeared tired with a distended abdomen and mild tenderness in the left upper quadrant without rebound or guarding. Spleen not palpable.",
+            "changes_over_time": "Development of splenomegaly and confusion, worsening pancytopenia, and persistent mild elevations in liver-enzyme levels."
+        }
+    ]
+}

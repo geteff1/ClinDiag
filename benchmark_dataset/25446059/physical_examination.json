@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "67 bpm",
+                "blood_pressure": "122/52 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%",
+                "body_mass_index": "27 kg/m2"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "16 cm H2O",
+                "apical_impulse": "Discrete palpated",
+                "systolic_impulses": "At the right parasternal border and second left intercostal space",
+                "cardiac_auscultation": "Persistently split S2, II/VI holosystolic murmur at the left lower sternal border, absence of S3",
+                "lung_exam": "Clear on auscultation without dullness on percussion",
+                "abdominal_exam": "Notable for a pulsatile liver without significant hepatosplenomegaly or ascites",
+                "peripheral_exam": "+2 symmetrical pulses, warm extremities, minimal varicosities without edema, clubbing, cyanosis, or venous stasis dermatopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

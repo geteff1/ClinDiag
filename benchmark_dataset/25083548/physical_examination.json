@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "September 2, 2012",
+            "vital_signs": {
+                "temperature": "febrile",
+                "blood_pressure": "hypotensive",
+                "oxygen_saturation": "SaO2 92%"
+            },
+            "relevant_findings": "Leukopenia (WBC count 3,600/mm3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "September 4, 2012",
+            "vital_signs": {
+                "blood_pressure": "hypotensive",
+                "temperature": "fever"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "September 22, 2012",
+            "vital_signs": {
+                "blood_pressure": "hypotensive",
+                "heart_rate": "tachycardic",
+                "oxygen_saturation": "SaO2 90%",
+                "temperature": "afebrile"
+            },
+            "relevant_findings": "Icteric sclerae noted; thrombocytopenia (platelet count 94,000/mm3); anemia (hemoglobin 11.3 g/dL); acute liver injury (AST 662 IU/L; total bilirubin 6.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital Day 2",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "blood_pressure": "hypotensive",
+                "heart_rate": "tachycardic"
+            },
+            "relevant_findings": "No adenopathy or organomegaly; abdominal ultrasonography showed diffuse fatty infiltration of the liver",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Hospital Day 5 (September 26, 2012)",
+            "vital_signs": {
+                "temperature": "fever",
+                "respiratory_rate": "tachypnea"
+            },
+            "relevant_findings": "Neutropenia (absolute neutrophil count 900/mm3); elevated liver enzymes (lactate dehydrogenase 727 IU/L); infiltrates in chest radiography",
+            "changes_over_time": "Developed bilateral pleural effusions, splenomegaly, anasarca, hemoptysis, and watery diarrhea with blood over the subsequent 7 days"
+        }
+    ]
+}

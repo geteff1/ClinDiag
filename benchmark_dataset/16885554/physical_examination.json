@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "74/40 mm Hg",
+                "heart_rate": "72 bpm",
+                "oxygen_saturation": "98%",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared alert but in moderate distress, edentulous with dry mucosa.",
+                "abdominal": "Diffuse tenderness, no guarding, no rebound tenderness, normal bowel sounds.",
+                "rectal": "Normal sphincter tone, gross blood present.",
+                "legs": "Warm, but diminished pulses in the right leg compared to the left.",
+                "neurological": "No focal deficits."
+            },
+            "changes_over_time": "Diminished pulses in the right leg were noted, indicating a potential development of arterial insufficiency."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "69/41 mm Hg",
+                "heart_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "blood_count": "Hemoglobin level dropped to 7.6 g/dL, platelet count dropped to 55,000 per cubic mm.",
+                "legs": "Worsening pain and cooler right foot compared to left."
+            },
+            "changes_over_time": "Diminished pulses in the right leg worsened and right foot became cooler than the left, indicating progression of arterial insufficiency."
+        }
+    ]
+}

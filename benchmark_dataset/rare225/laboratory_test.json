@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood analysis",
+            "date": "June 13th",
+            "findings": {
+                "neutrophils_percentage": "84.6%",
+                "erythrocyte_sedimentation_rate": "25 mm/h",
+                "sodium": "131.0 mmol/L",
+                "other_biochemical_indicators": "Generally normal",
+                "coagulation_tests": "Normal",
+                "thyroid_function_tests": "Normal",
+                "liver_function_tests": "Normal",
+                "kidney_function_tests": "Normal",
+                "ASO": "No abnormalities",
+                "infectious_diseases_detection": "No abnormalities",
+                "urine_analysis": "No abnormalities",
+                "stool_analysis": "Normal",
+                "glycosylated_hemoglobin": "Normal",
+                "serum_homocysteine_levels": "Normal",
+                "CPT": "Hypersensitive right lesser occipital nerve (small fibers involved)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary CT",
+            "date": "June 14th",
+            "findings": {
+                "lung_inflammation": "Present in the right lower lung"
+            },
+            "changes_over_time": "Significant worsening of bilateral lung infection noted in subsequent chest X-ray compared to the previous day's film"
+        },
+        {
+            "procedure_name": "Nucleic acid PCR for influenza H7N9 virus",
+            "date": "Not specified",
+            "findings": {
+                "sputum_specimens": "Positive for H7N9 virus"
+            },
+            "changes_over_time": "Specimens tested positive for H7N9 virus at Chaoyang Hospital, Beijing CDC, and CNIC"
+        }
+    ]
+}

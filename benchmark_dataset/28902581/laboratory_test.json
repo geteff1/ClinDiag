@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "30.9% (2 days before admission), 30.1% (on admission), 27.2% (hospital day 3), 26.2% (hospital day 5)",
+            "changes_over_time": "Decreased from 30.9% to 26.2% over the course of hospitalization."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "9.9 g/dL (2 days before admission), 9.8 g/dL (on admission), 8.9 g/dL (hospital day 3), 8.6 g/dL (hospital day 5)",
+            "changes_over_time": "Decreased from 9.9 g/dL to 8.6 g/dL over the course of hospitalization."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "34,780 (2 days before admission), 35,940 (on admission), 26,670 (hospital day 3), 29,640 (hospital day 5)",
+            "changes_over_time": "Decreased from 34,780 to 29,640 over the course of hospitalization."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "98 mm/hr (2 days before admission), 82 mm/hr (on admission)",
+            "changes_over_time": "Decreased from 98 mm/hr to 82 mm/hr."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "133 mmol/L (2 days before admission), 135 mmol/L (on admission), 136 mmol/L (hospital day 3), 138 mmol/L (hospital day 5)",
+            "changes_over_time": "Increased from 133 to 138 mmol/L."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "5.3 mmol/L (2 days before admission, slightly hemolyzed), 4.3 mmol/L (on admission), 4.4 mmol/L (hospital day 3), 4.2 mmol/L (hospital day 5)",
+            "changes_over_time": "Decreased from 5.3 to 4.2 mmol/L."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "18 mmol/L (2 days before admission), 19 mmol/L (on admission), 22 mmol/L (hospital day 3), 26 mmol/L (hospital day 5)",
+            "changes_over_time": "Increased from 18 to 26 mmol/L."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "92.0 mg/L (2 days before admission), 111.8 mg/L (on admission), 81.3 mg/L (hospital day 3), 81.4 mg/L (hospital day 5), 28.9 mg/L (final value)",
+            "changes_over_time": "Decreased from 92.0 to 28.9 mg/L, indicating response to treatment."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.37 mg/dL (2 days before admission), 0.31 mg/dL (on admission), 0.32 mg/dL (hospital day 3), 0.68 mg/dL (hospital day 5)",
+            "changes_over_time": "Increased from 0.31 to 0.68 mg/dL during hospitalization."
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Total: 0.3 mg/dL (2 days before admission), 0.2 mg/dL (on admission), 0.5 mg/dL (hospital day 5)",
+            "changes_over_time": "Increased from 0.2 to 0.5 mg/dL."
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "474 U/L (2 days before admission), 164 U/L (hospital day 5)",
+            "changes_over_time": "Significantly decreased from 474 to 164 U/L."
+        }
+    ]
+}

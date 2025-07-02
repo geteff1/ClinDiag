@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal ultrasonographic study",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "A few dilated loops of small bowel, with gas and stool in the rectum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Dilatation of the small bowel, with slow transit to the large bowel.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Enteroclysis study",
+            "date": "Not specified",
+            "findings": "Normal pattern of mucosal folds. No masses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Technetium-99m scan for Meckel's diverticulum",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Upper gastrointestinal endoscopic study",
+            "date": "Not specified",
+            "findings": "Normal results with video endoscopy revealing absent villi.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

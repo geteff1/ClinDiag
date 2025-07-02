@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the sinuses",
+            "date": "Not specified",
+            "findings": "Mild mucosal thickening of the maxillary sinuses with mild inflammatory changes in the ethmoid sinus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "One month before admission",
+            "findings": "Focus of enhancement, 2 mm in diameter, in the deep right internal auditory canal consistent with an intracanalicular schwannoma. Several foci of hyperintensity on T2-weighted images in the frontal white matter and subinsular cortex bilaterally consistent with nonspecific gliosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the head",
+            "date": "Not specified",
+            "findings": "No intracerebral hemorrhage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Fourth hospital day",
+            "findings": "Extensive signal abnormalities and abnormal enhancement involving the leptomeninges, ependyma, and parenchyma in both linear and nodular patterns, thickening, and diffuse linear and nodular enhancement of the pituitary stalk.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the spine",
+            "date": "Seventh hospital day",
+            "findings": "Enhancing leptomeningeal nodules involving the cervical spinal cord and conus medullaris, as well as parenchymal involvement in the cervical spinal cord.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Seventh hospital day",
+            "findings": "Bilateral hilar and mediastinal lymphadenopathy, slight thickening of the bronchial walls, and small retroperitoneal and mesenteric lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

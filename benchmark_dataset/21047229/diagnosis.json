@@ -1,0 +1,17 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute tubulointerstitial nephritis",
+        "differential_diagnosis": [
+            "urinary tract obstruction",
+            "tubulointerstitial nephritis",
+            "rapidly progressive glomerulonephritis",
+            "myeloma cast nephropathy",
+            "microvascular diseases",
+            "acute glomerulonephritis",
+            "autoimmune processes (e.g., Sjögren’s syndrome, lupus erythematosus, ANCA-associated renal disease)",
+            "atherosclerotic renal disease",
+            "thrombotic microangiopathy"
+        ],
+        "diagnostic_reasoning": "The clinical picture included elevated creatinine and blood urea nitrogen levels indicating recent kidney injury. Urinalysis showed no casts, supporting acute tubulointerstitial nephritis rather than glomerular disease. The normal-sized kidneys on ultrasound and absence of hydronephrosis ruled out obstruction. The negative results for autoimmune markers and protein electrophoresis ruled out multiple myeloma. Eosinophils in the urine suggested an allergic cause, likely due to omeprazole, which was recently started."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "158/95 mmHg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Movements of the right hand and fingers were slower and less precise than those of the left hand and fingers. The remainder of the physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "25 days after initiation of ipilimumab and nivolumab therapy",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "108/47 mmHg",
+                "pulse": "92 bpm",
+                "oxygen_saturation": "48%"
+            },
+            "relevant_findings": "Examination of the lungs revealed crackles in both bases. The remainder of the examination was normal.",
+            "changes_over_time": "Oxygen saturation decreased significantly from 97% to 48%."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "On examination, the abdomen was soft and nontender, without rebound or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Bilateral facial weakness, with poor resistance to eyelid closure. Grip strength diminished in both arms, particularly the right. Reflexes were absent at the ankles, patellae, biceps, and brachioradialis tendons.",
+            "changes_over_time": "Weakness in the legs and arms progressed over time."
+        }
+    ]
+}

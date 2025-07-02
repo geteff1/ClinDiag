@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF biogenic amine metabolites",
+            "date": "Not specified",
+            "findings": {
+                "5-Hydroxyindolacetic acid (5HIAA)": "146 nmol/L (Normal range: 66–141)",
+                "5-Methyltetrahydrofolic acid (5MTHF)": "47.0 nmol/L (Normal range: 41–117)",
+                "Neopterin (Neo)": "16.0 nmol/L (Normal range: 9–20)",
+                "Biopterin (Bio)": "14.2 nmol/L (Normal range: 10–30)",
+                "L-Dopa": "16.3 nmol/L",
+                "3-O-methyl-Dopa (3OMD)": "886 nmol/L (Normal range: 150)",
+                "Homovanillic acid (HVA)": "66 nmol/L (Normal range: 115–488)",
+                "HVA/5HIAA ratio": "0.45 (Normal range: 1.5–3.5)"
+            },
+            "changes_over_time": "Significant reductions of the CSF HVA level and the HVA/5HIAA ratio suggested a TH deficiency."
+        },
+        {
+            "procedure_name": "Mutation analysis of the TH gene",
+            "date": "Not specified",
+            "findings": "A compound heterozygous point mutation was found (1127C/H11022T in exon 10, 1493A/H11022G in exon 14).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

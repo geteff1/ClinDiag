@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph and CT scan",
+            "date": "Not specified",
+            "findings": "Enlarged mediastinum with cardiomegaly, narrowing of the trachea, and a diffuse pattern of fine nodules in both lungs.",
+            "changes_over_time": "Findings of chest CT scan were normal 9 months after the initiation of treatment."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Six months after patient 1 diagnosis of TB",
+            "findings": "Bilateral infiltrates in upper lung fields, with multiple enlarged mediastinallymph nodes.",
+            "changes_over_time": "Follow-up chest radiographs showed complete clearance of lung infiltrates and resolution of mediastinal enlargement."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Normal findings for the two sisters of patient 1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Prolactin",
+            "date": "Not specified",
+            "findings": "185 g/L, normal <118 g/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin-like Growth Factor-1 (IGF-1)",
+            "date": "Not specified",
+            "findings": "745 g/L, normal 64–369 g/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting Growth Hormone (GH)",
+            "date": "Not specified",
+            "findings": "235 g/L, GH suppressed to 29 g/L following standard oral glucose load, normal <<280 g/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing (GPR101 microduplication)",
+            "date": "Not specified",
+            "findings": "Negative for leukocyte, saliva, and buccal cell DNA; positive for pituitary tissue and forearm skin showing GPR101 duplication.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ECG was within normal limits.",
+            "changes_over_time": "A repeat ECG demonstrated sinus tachycardia with T-wave inversion in lead III."
+        },
+        {
+            "procedure_name": "Trans-thoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Initially interpreted as normal, except for mild left ventricular hypertrophy and trace pericardial effusion.",
+            "changes_over_time": "A repeat trans-thoracic echocardiogram showed a decreased ejection fraction of 45% and a segmental wall motion abnormality."
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Revealed normal coronary arteries, severe diffuse hypokinesis, and a markedly reduced left ventricular ejection fraction of 30%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum troponin level test",
+            "date": "Not specified",
+            "findings": "Elevated at 4.9 ng/ml (initially <0.3 ng/ml upon admission) and peaked at 38.6 ng/ml.",
+            "changes_over_time": "Decreased to 0.5 ng/ml after treatment."
+        }
+    ]
+}

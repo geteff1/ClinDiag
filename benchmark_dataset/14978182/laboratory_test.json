@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complement Assays",
+            "date": "Not specified",
+            "findings": {
+                "CH50": "<10% (normal range 100%)",
+                "C3": "<100 mg/L (normal range 660-1250 mg/L)",
+                "FB": "<30 mg/L (normal range 90-320 mg/L)",
+                "FH antigen": "Undetectable at 1:2000 and 1:40 dilutions"
+            },
+            "changes_over_time": "Patients 1-6 exhibited severe complement consumption through the alternative pathway; all showed lack of detectable FH antigen."
+        },
+        {
+            "procedure_name": "Complement Component Assessment",
+            "date": "At time of diagnosis",
+            "findings": [
+                {
+                    "case": 1,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "17 mg/L",
+                    "FB": "24 mg/L",
+                    "CH50": "<10%",
+                    "C4": "384 mg/L"
+                },
+                {
+                    "case": 2,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "0 mg/L",
+                    "FB": "1 mg/L",
+                    "CH50": "<10%",
+                    "C4": "384 mg/L"
+                },
+                {
+                    "case": 3,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "70 mg/L",
+                    "FB": "0 mg/L",
+                    "CH50": "<10%",
+                    "C4": "600 mg/L"
+                },
+                {
+                    "case": 4,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "50 mg/L",
+                    "FB": "0 mg/L",
+                    "CH50": "<10%",
+                    "C4": "250 mg/L"
+                },
+                {
+                    "case": 5,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "12 mg/L",
+                    "FB": "0 mg/L",
+                    "CH50": "<10%",
+                    "C4": "263 mg/L"
+                },
+                {
+                    "case": 6,
+                    "FH_Antigen_Level": "≤ 21%",
+                    "C3": "17 mg/L",
+                    "FB": "0 mg/L",
+                    "CH50": "<10%",
+                    "C4": "133 mg/L"
+                }
+            ],
+            "changes_over_time": "Complement levels remain stable across cases."
+        }
+    ]
+}

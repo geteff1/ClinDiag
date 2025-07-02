@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Metastatic disease in the manubrium and the right ninth and left tenth ribs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "2 months after the bone scan",
+            "findings": "Metastatic disease to the lungs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomographic scan of the chest",
+            "date": "Not specified",
+            "findings": "Multiple pulmonary nodules, bilaterally and predominantly in the lower lung regions, with mild hilar lymphadenopathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging scan of the spine",
+            "date": "Not specified",
+            "findings": "Metastases to the thoracolumbar vertebra",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

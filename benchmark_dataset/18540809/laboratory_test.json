@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. psittaci IgG antibody test",
+            "date": "Not specified",
+            "findings": "Significant reactivity to C. psittaci IgG antibody (titer, 1:256; a positive titer is /H110911:64).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. psittaci IgM antibody test",
+            "date": "Not specified",
+            "findings": "Results were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. psittaci IgG antibody test",
+            "date": "13 June 2007",
+            "findings": "Negative for C. psittaci IgG and slightly positive for IgM (titer, 1:20; a positive titer is /H110911:20).",
+            "changes_over_time": "Documented C. psittaci seroconversion."
+        },
+        {
+            "procedure_name": "tigecycline susceptibility testing",
+            "date": "Not specified",
+            "findings": "The organism exhibited a MDR phenotype; tigecycline MIC was 0.5 mg/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B-type natriuretic peptide test",
+            "date": "At discharge",
+            "findings": "B-type natriuretic peptide, 1220 pg/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ejection fraction measurement",
+            "date": "At discharge",
+            "findings": "Improved myocardial function (ejection fraction, 140%).",
+            "changes_over_time": "Patient had New York Heart Association functional class II congestive heart failure at 12-month follow-up examination with an ejection fraction of 40%."
+        }
+    ]
+}

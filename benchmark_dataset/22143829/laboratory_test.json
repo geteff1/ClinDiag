@@ -1,0 +1,20 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "75-g Oral Glucose Tolerance Test",
+            "date": "Not specified",
+            "findings": {
+                "fasting_glucose": "109 mg/dl",
+                "1h_glucose": "220 mg/dl",
+                "2h_glucose": "186 mg/dl"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting Glucose",
+            "date": "Not specified",
+            "findings": "Normal before discharge from the hospital",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

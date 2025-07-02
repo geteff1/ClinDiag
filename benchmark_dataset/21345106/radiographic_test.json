@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "mild pulmonary edema, moderate cardiomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "pulmonary venous hypertension, atelectasis in the base of the left lung, a small pleural effusion on the left side, and mild cardiomegaly",
+            "changes_over_time": "moderate cardiomegaly that had increased since a study that was performed 7 months earlier"
+        },
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "Not specified",
+            "findings": "no evidence of bowel obstruction or perforation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

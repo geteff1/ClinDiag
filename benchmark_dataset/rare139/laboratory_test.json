@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum studies",
+            "date": "Not specified",
+            "findings": "Hyperchloremia (132 mmol/L), normal bicarbonate (28 mmol/L), anion gap of 20, elevated salicylate concentration (115 mg/dL).",
+            "changes_over_time": "At the tertiary ED, repeat testing showed a whole blood (WB) chloride of 145 mmol/L, a serum chloride of 110 mmol/L, and undetectable salicylates."
+        },
+        {
+            "procedure_name": "Ionized calcium test",
+            "date": "Not specified",
+            "findings": "Ionized calcium (iCa) was low at 0.9 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate test",
+            "date": "Not specified",
+            "findings": "Serum lactate was 5.9 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Initially showed wide complex tachycardia and later returned to normal sinus rhythm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

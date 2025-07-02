@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "134/78 mm Hg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% (at rest), 95% (after climbing one flight of stairs)"
+            },
+            "relevant_findings": {
+                "lung_auscultation": "Bilateral crackles at end inspiration, most prominent over the right lung base.",
+                "associated_symptoms": "Ongoing dyspnea provoked by exertion and occasional cough productive of scant greenish-brown mucus."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Six months before evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "pulmonary_function_testing": {
+                    "FEV1": "2.50 liters (82% of predicted value)",
+                    "FVC": "2.90 liters (73% of predicted value)",
+                    "FEV1/FVC_ratio": "0.86",
+                    "total_lung_capacity": "3.92 liters (61% of predicted value)",
+                    "diffusion_capacity": "45% of predicted value"
+                }
+            },
+            "changes_over_time": "Impairment noted in diffusion capacity indicative of a restrictive ventilatory deficit."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT_scan": "Persistent subpleural reticular opacities, new bilateral traction bronchiolectasis, dilatation of main pulmonary artery (33 mm), new enlargement of mediastinal lymph nodes."
+            },
+            "changes_over_time": "Worsening pulmonary findings with the development of new traction bronchiolectasis."
+        },
+        {
+            "date": "Four months after evaluation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT_scan": "Progression of bilateral subpleural reticular opacities and traction bronchiectasis, without honeycombing."
+            },
+            "changes_over_time": "Progression noted in subpleural reticular opacities and traction bronchiectasis."
+        }
+    ]
+}

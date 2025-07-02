@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Stage 3 fibrosis, no steatohepatitis or other types of liver injury.",
+            "changes_over_time": "Progression to decompensated cirrhosis 17 months after primary HCV infection."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Four months after diagnosis",
+            "findings": "Grade 2 inflammation and stage 2 fibrosis, with concomitant grade 2 steatohepatitis.",
+            "changes_over_time": "Mild to moderate hepatosplenomegaly noted on CT scan 19 months after diagnosis."
+        },
+        {
+            "procedure_name": "intraoperative liver biopsy",
+            "date": "40 months after diagnosis",
+            "findings": "Grade 4 inflammation and stage 3 fibrosis.",
+            "changes_over_time": "Progressed to decompensated liver disease with massive ascites."
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "3.5 years after diagnosis",
+            "findings": "Stage 3 fibrosis, grade 2 inflammation, and grade 1 steatohepatitis.",
+            "changes_over_time": "Repeat liver biopsy one year later showed stage 4 fibrosis with no change in steatohepatitis."
+        }
+    ]
+}

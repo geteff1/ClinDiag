@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "Baseline",
+            "findings": "195.9 mg/dL (normal range: 105–322)",
+            "changes_over_time": "Decreased to 179.7 mg/dL at month 2, increased to 185.1 mg/dL at month 6, and decreased to 182.2 mg/dL at month 12."
+        },
+        {
+            "procedure_name": "Total triglycerides",
+            "date": "Baseline",
+            "findings": "101.6 mg/dL (normal range: 32–397)",
+            "changes_over_time": "Increased to 104.0 mg/dL at month 2, decreased slightly to 103.5 mg/dL at month 6, and increased to 108.2 mg/dL at month 12."
+        },
+        {
+            "procedure_name": "Myelin basic protein in CSF",
+            "date": "Day 21",
+            "findings": "2.6 ng/mL (normal range: <2.0 ng/mL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum immunoglobulin levels",
+            "date": "Baseline",
+            "findings": "Normal levels before lamotrigine: 26 g/L (normal range: 18 to 36 g/L). After lamotrigine: IgG 4.3 g/L (normal range: 7.0 to 16.0 g/L); IgM 0.2 g/L (normal range: 0.4 to 2.5 g/L); IgA 0.3 g/L (normal range: 0.8 to 4.0 g/L).",
+            "changes_over_time": "In Dec 2001 levels returned to normal: IgG 8.0 g/L; IgM 0.5 g/L; IgA 0.4 g/L."
+        },
+        {
+            "procedure_name": "Lymphocyte function tests",
+            "date": "April 2001",
+            "findings": "Impaired response to diphtheria (stimulation index: 1.5; normal range: >2).",
+            "changes_over_time": "Follow-up tests showed improvement in other responses, but diphtheria response remained impaired."
+        }
+    ]
+}

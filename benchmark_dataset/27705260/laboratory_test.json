@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit 38% (initial), 34% (1 month later), 27% (after 3 months); white-cell count normal; platelet count normal; ESR 68 mm/hr (initial), 104 mm/hr (1 month later), >120 mm/hr (after 3 months)",
+            "changes_over_time": "Hematocrit decreased over time from 38% to 27%; ESR increased significantly over the same period."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase 354 U/L (normal range, 35-130), Alanine aminotransferase 71 U/L (normal range, 7-52), Aspartate aminotransferase 57 U/L (normal range, 9-30), Ferritin 828 μg/L (normal range, 10-170)",
+            "changes_over_time": "Abnormal liver function test results were noted before surgery, which normalized immediately after surgery."
+        }
+    ]
+}

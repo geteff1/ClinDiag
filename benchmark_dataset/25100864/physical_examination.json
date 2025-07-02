@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 28, 2014",
+            "vital_signs": {
+                "temperature": "37.1 °C",
+                "blood_pressure": "158/93 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "90% on room air"
+            },
+            "relevant_findings": {
+                "pulmonary_exam": "Right lower quadrant rhonchi with decreased breath sounds.",
+                "lab_data": {
+                    "lymphopenia": "0.81 x 10^9/L",
+                    "mild_elevated_liver_function_tests": "Yes",
+                    "slight_hyponatremia": "Yes",
+                    "mild_elevated_inflammatory_markers": "Yes"
+                },
+                "CXR": "Right lower lobe infiltrates"
+            },
+            "changes_over_time": "On DOI 12, maximum temperature increased to 38.6 °C requiring increased oxygen to 6 L/min; O2Sat declined to 90%."
+        },
+        {
+            "date": "May 5, 2014",
+            "vital_signs": {
+                "oxygen_saturation": "96-97% on room air",
+                "oxygen_requirement": "No longer required oxygen"
+            },
+            "relevant_findings": {
+                "CXR": "Improving with resolution of infiltrates."
+            },
+            "changes_over_time": "Gradual improvement from DOI 14, initially requiring supplemental O2, then weaned off by DOI 18."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ELISA",
+            "date": "Not specified",
+            "findings": "Positive for Borrelia burgdorferi infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Western blot",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of Borrelia burgdorferi infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Demonstrates high-grade atrioventricular block, a sinus rate at approximately 85 beats/min, and some P waves hidden within QRS complexes. Shows abnormal early repolarization with 3-mm coved ST-segment elevation and a biphasic T wave in leads V1 and V2, consistent with type 1 Brugada's pattern.",
+            "changes_over_time": "Type 1 Brugada’s pattern resolved with continued antibiotic treatment; a first-degree atrioventricular block remained."
+        }
+    ]
+}

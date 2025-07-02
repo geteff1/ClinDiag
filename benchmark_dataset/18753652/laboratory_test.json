@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "1.4 mg/dL (baseline before admission), 3.5 mg/dL (2 months earlier), 3.3 mg/dL (on admission), 3.0 mg/dL (second hospital day), 3.2 mg/dL (third hospital day), 2.9 mg/dL (sixth hospital day), 2.2 mg/dL (eighth hospital day)",
+            "changes_over_time": "Creatinine levels decreased from 3.5 mg/dL at the second admission to 2.2 mg/dL by the eighth hospital day."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "On admission",
+            "findings": "32.8% (reference range 41.0–53.0% in men)",
+            "changes_over_time": "Decreased from 43.8% (4 months earlier) to 32.8% (on admission)."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "On admission",
+            "findings": "11.7 g/dL (reference range 13.5–17.5 g/dL in men)",
+            "changes_over_time": "Decreased from 15.2 g/dL (4 months earlier) to 11.7 g/dL (on admission)."
+        },
+        {
+            "procedure_name": "Urinalysis - Creatinine",
+            "date": "On admission",
+            "findings": "81 mg/dL",
+            "changes_over_time": "Increased to 200 mg/dL on the second hospital day, then decreased to 58 mg/dL by the sixth hospital day."
+        },
+        {
+            "procedure_name": "Urinalysis - Urea nitrogen",
+            "date": "On admission",
+            "findings": "255 mg/dL",
+            "changes_over_time": "Decreased to 81 mg/dL by the sixth hospital day."
+        },
+        {
+            "procedure_name": "Electrolytes - Sodium",
+            "date": "On admission",
+            "findings": "146 mmol/L (reference range 135–145 mmol/L)",
+            "changes_over_time": "Decreased to 137 mmol/L by the eighth hospital day."
+        },
+        {
+            "procedure_name": "Electrolytes - Potassium",
+            "date": "On admission",
+            "findings": "3.5 mmol/L (reference range 3.4–4.8 mmol/L)",
+            "changes_over_time": "Increased to 4.0 mmol/L by the eighth hospital day."
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Second hospital day",
+            "findings": "Grew enteric gram-negative rods, proteus species, and probable enterococcus",
+            "changes_over_time": "Cultures of blood and urine were sterile by the eighth hospital day after treatment."
+        }
+    ]
+}

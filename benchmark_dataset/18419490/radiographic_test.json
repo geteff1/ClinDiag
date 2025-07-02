@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PCR tests",
+            "date": "Not specified",
+            "findings": "Nonvariola orthopoxvirus was detected in vesicular scrapings and viral culture supernatant from the patient's skin lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vaccinia virus DNA PCR",
+            "date": "Not specified",
+            "findings": "Vaccinia virus DNA load decreased from hospital day 7 onward and was undetectable at day 18.",
+            "changes_over_time": "Decreasing trend in viral DNA levels measured daily."
+        }
+    ]
+}

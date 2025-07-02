@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia with right-axis deviation and low voltage in the limb leads.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Trans thoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Large, circumferential pericardial effusion with evidence of tamponade, a right-sided pleural effusion, and an edematous-appearing aortic root.",
+            "changes_over_time": "LVEF improved from 40% before the procedure to 65-70% after the procedure."
+        },
+        {
+            "procedure_name": "Pathological examination of pericardial biopsy",
+            "date": "Not specified",
+            "findings": "Lymphocytic infiltrate with scattered eosinophils.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytologic analysis of pericardial fluid",
+            "date": "Not specified",
+            "findings": "Inflammatory and reactive mesothelial cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "6th hospital day",
+            "findings": "Echogenic material and circumferential involvement of the pericardium, aorta, and main pulmonary artery with stenosis of at least three pulmonary veins.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bedside transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Prominent thickening of the walls of the ascending aorta and the main pulmonary artery and narrowed pulmonary veins; thrombus present in the left atrial appendage and right atrium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy of mediastinal mass",
+            "date": "Not specified",
+            "findings": "Preliminary diagnosis of large-cell lymphoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Open-brain biopsy",
+            "date": "Not specified",
+            "findings": "Multiple foci of malignant-tumor deposits in the subarachnoid space.\nSimilar malignant cells to those seen in the mediastinal and pericardial biopsies.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

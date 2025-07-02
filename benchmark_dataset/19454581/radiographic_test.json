@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroidectomy",
+            "date": "Not specified",
+            "findings": "A large multinodular goiter continued to grow, requiring thyroidectomy. The right lobe was totally resected, except for a small thyroid nodule encircling the right recurrent nerve. The left lobe was partially resected except for a 2 cm x 0.5 cm patch of thyroid tissue close to the left recurrent nerve.",
+            "changes_over_time": "After surgery, a relapse of hyperthyroidism occurred within 2 weeks, necessitating the resumption of carbimazole treatment. Radioiodine therapy was administered 2 years later to control the growth of thyroid tissue from the small thyroid remnants."
+        },
+        {
+            "procedure_name": "Radioiodine therapy",
+            "date": "2 years after thyroidectomy",
+            "findings": "Radioiodine therapy administered to control the growth of thyroid tissue from the small thyroid remnants.",
+            "changes_over_time": "After radioiodine therapy, thyroid hormone levels gradually decreased, and hypothyroidism was observed, requiring L-T4 substitution."
+        }
+    ]
+}

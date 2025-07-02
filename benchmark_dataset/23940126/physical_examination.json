@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Sleeping heart rate 51 bpm (bradycardic)",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "short_stature": "-2.34 SDS",
+                "weight": "98.3 kg (BMI 45 kg/m2)",
+                "macrocephaly": "Head circumference 65 cm",
+                "skin_findings": "Coarse facial features, skin tags",
+                "musculoskeletal": "Cortical thickening in long bones, umbilical hernia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Irregular tachycardia (120 bpm)",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "bradycardia": "Improved after stopping thyroxine briefly",
+                "creatine_kinase": "Raised CK-MM levels (normalized following T4 therapy)"
+            },
+            "changes_over_time": "Tachycardia improved after stopping T4 therapy and re-starting it."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Basal heart rate within hypothyroid range initially, improved after treatment",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "basal_metabolic_rate": "Subnormal before treatment, increased with T4 therapy",
+                "muscle_enzymes": "Raised skeletal muscle CK normalized following T4 treatment"
+            },
+            "changes_over_time": "Basal metabolic rate increased with thyroxine therapy; CK levels normalized."
+        }
+    ]
+}

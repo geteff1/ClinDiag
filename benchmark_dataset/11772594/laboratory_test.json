@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serologic testing for B. burgdorferi",
+            "date": "Not specified",
+            "findings": "Specific immunoglobulin M antibodies detected, enzyme-linked immunoassay: 4.0 U/ml; Western immunoblot: 60 kDa, 41 kDa, 22 kDa; no immunoglobulin G antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphocyte transformation assay",
+            "date": "Not specified",
+            "findings": "Moderate proliferation of the patient’s mononuclear cells against B. burgdorferi antigens, 15,000 cpm; maximum: 22,500 cpm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmic examination",
+            "date": "Not specified",
+            "findings": "Visual acuity increased to 20/25 by day 3 after corticosteroid treatment, no detectable scleritis at final examination 6 months later.",
+            "changes_over_time": "Visual acuity improved from 20/60 to 20/25 by day 3 and became normal at 6-month follow-up, with no detectable scleritis."
+        }
+    ]
+}

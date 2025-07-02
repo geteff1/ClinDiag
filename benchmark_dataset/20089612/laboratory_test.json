@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum ALP",
+            "date": "Not specified",
+            "findings": "Persistently low serum ALP levels ranging from 3 to 8 IU/liter (normal, 30–120 IU/liter). After teriparatide treatment, serum ALP doubled initially to levels reported at various months: 8 (Nov 2007), 14 (Dec 2007), 19 (Apr 2008), 15 (Jul 2008), 11 (Oct 2008), 11 (Jan 2009), and 9 (Apr 2009).",
+            "changes_over_time": "Serum ALP increased after teriparatide initiation but then decreased steadily after 10 months of treatment."
+        },
+        {
+            "procedure_name": "Serum PLP",
+            "date": "Not specified",
+            "findings": "Initial levels were markedly increased; after teriparatide treatment, levels changed as follows: 1000 (Nov 2007), 730 (Dec 2007), 690 (Apr 2008), 954 (Jul 2008), 1000 (Oct 2008), 1000 (Jan 2009).",
+            "changes_over_time": "Levels declined initially but increased progressively after 10 months of treatment."
+        },
+        {
+            "procedure_name": "Urine PEA",
+            "date": "Not specified",
+            "findings": "Markedly elevated levels; measured values: 52 (Nov 2007), 26 (Dec 2007), 33 (Apr 2008), 42 (Jul 2008), 54 (Oct 2008). Normal range is 5–18 µmol/mmol creatinine.",
+            "changes_over_time": "Levels decreased initially after teriparatide but returned towards baseline levels."
+        },
+        {
+            "procedure_name": "Phosphate",
+            "date": "Not specified",
+            "findings": "Elevated levels measured: 5.3 (Nov 2007), 5.6 (Dec 2007), 5.0 (Apr 2008), 4.6 (Jul 2008), 4.6 (Oct 2008), 5.0 (Jan 2009), and 4.6 (Apr 2009) with a normal range of 2.5–4.6 mg/dL.",
+            "changes_over_time": "Decreased toward the upper limit of normal over treatment duration."
+        },
+        {
+            "procedure_name": "Intact PTH",
+            "date": "Not specified",
+            "findings": "Subnormal levels: 8.6 (Nov 2007), 8.6 (Dec 2007), 8.6 (Apr 2008), then low at 2.9 (Jul 2008), and increasing until 14.3 (Apr 2009); normal range is 11.4–61.8 pg/ml.",
+            "changes_over_time": "Initially remained similar, then decreased and gradually increased again."
+        },
+        {
+            "procedure_name": "Corrected Calcium",
+            "date": "Not specified",
+            "findings": "Normal levels: 9.2 (Nov 2007), 9.6 (Dec 2007), 10.0 (Apr 2008), 10.4 (Jul 2008), 9.6 (Oct 2008), 9.6 (Jan 2009), and 10.0 (Apr 2009); normal range is 8.4–10.4 mg/dL.",
+            "changes_over_time": "Increased toward the upper limit with treatment then remained stable."
+        },
+        {
+            "procedure_name": "25(OH)D",
+            "date": "Not specified",
+            "findings": "Low levels initially: 10 (Nov 2007), increased to 34 (Dec 2007), 32 (Apr 2008), 40 (Jul 2008), then decreased to 28 (Oct 2008), 29 (Jan 2009), 33 (Apr 2009); normal range is 22–43 ng/ml.",
+            "changes_over_time": "Increased markedly initially then dropped slightly toward their end values."
+        },
+        {
+            "procedure_name": "1,25 (OH)2D",
+            "date": "Not specified",
+            "findings": "Measured values were 221 (Nov 2007) and remained consistent at 520 (Dec 2007), 494 (throughout 2008); normal range is 203–494 pg/ml.",
+            "changes_over_time": "No significant changes over the noted period."
+        },
+        {
+            "procedure_name": "P1NP",
+            "date": "Not specified",
+            "findings": "Initial values were 99 (Nov 2007) and increased to 202 (Dec 2007), further increased to 265 (Apr 2008), and peaked at 509 (Jul 2008) then declined to 100 (Apr 2009); specific normal range not provided.",
+            "changes_over_time": "Increased significantly to a peak and then decreased again."
+        },
+        {
+            "procedure_name": "Urine NTX",
+            "date": "Not specified",
+            "findings": "Initial levels measured were high: 173 (Nov 2007), peak at 361 (Dec 2007), then decreased to 108 (Apr 2008), 178 (Jul 2008), and 144 (Oct 2008); normal range is 18–38 nmol/mmol creatinine.",
+            "changes_over_time": "Declined after initial peaks."
+        }
+    ]
+}

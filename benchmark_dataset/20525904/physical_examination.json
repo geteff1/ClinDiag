@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "120 bpm",
+                "blood_pressure": "145/55 mm Hg",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "thyroid_gland": {
+                    "volume": "Normal",
+                    "tenderness": "Not present",
+                    "nodules": "Not palpable",
+                    "bruit": "Not appreciated"
+                },
+                "Graves_ophthalmopathy": "Not present",
+                "serum_biochemical_tests": {
+                    "FT4": "65 pg/ml (normal values, 7.5–15.5 pg/ml)",
+                    "FT3": "9.8 pg/ml (normal values, 3.5–5.7 pg/ml)",
+                    "TSH": "< 0.01 mU/liter (normal values, 0.4–3.5 mU/liter)",
+                    "antibodies": {
+                        "antithyroglobulin": "Undetectable",
+                        "antithyroperoxidase": "Undetectable",
+                        "anti-TSH_receptor": "Undetectable"
+                    },
+                    "urinary_iodine_excretion": "9100 /H9262g/24 h (normal values, 100–300 /H9262g/24 h)"
+                },
+                "thyroid_ultrasonography": {
+                    "ecogenicity": "Slightly hypo-echoic",
+                    "volume": "18 ml",
+                    "nodules": "Not present"
+                },
+                "CFDS": {
+                    "pattern": "0 (absent hypervascularity)",
+                    "peak_systolic_velocity": "3 cm/sec (normal range 2–7 cm/sec)"
+                },
+                "RAIU": {
+                    "3h": "0.7%",
+                    "24h": "0.9%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

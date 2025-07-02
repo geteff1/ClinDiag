@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was hospitalized for recurrent episodes of fever, cough, diarrhea, and failure to thrive. Mild pancytopenia noted 20 days after admission (leukocyte count, 1.4 × 10^9/L; hemoglobin level, 78 g/L; platelet count, 37 × 10^9/L). Elevated aminotransferases (aspartate aminotransferase, 448 U/L; alanine aminotransferase, 218 U/L) and ferritin (4325 ng/mL) were present. Bone marrow biopsy showed hypocellular condition without dysplastic changes and increased activated phagocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At 7 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Antiviral drug treatment with prednisolone led to amelioration of hemophagocytic syndrome (HPS).",
+            "changes_over_time": "After HSCT at 7 months, patient experienced thrombotic microangiopathy (TMA) and gastrointestinal bleeding, alongside increasing HHV-6A DNA and RNA titers."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Immunological reconstruction resulted in successful reduction of HHV-6A DNA and RNA titers, ultimately leading to no HHV-6A isolation from subsequent blood samples.",
+            "changes_over_time": "The patient's condition progressed from active HHV-6A infection to a negative status with immunological recovery."
+        }
+    ]
+}

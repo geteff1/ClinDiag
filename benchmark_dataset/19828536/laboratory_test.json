@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hematocrit was 54.7% (reference range for men, 41.0 to 53.0) and erythrocyte count was 6,570,000 per cubic millimeter (reference range, 4,500,000 to 5,900,000).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "3 Mo before This Evaluation, Other Hospital",
+            "findings": "FVC: 1.60 liters (32% of predicted value), FEV1: 1.54 liters (37% of predicted value), Ratio of FEV1:FVC: 96%, Total lung capacity: 3.07 liters (46% of predicted value).",
+            "changes_over_time": "At hospital evaluation, FVC: 1.60 liters (34% of predicted value), FEV1: 1.38 liters (35% of predicted value), Ratio of FEV1:FVC: 86%, Total lung capacity: 2.73 liters (46% of predicted value)."
+        },
+        {
+            "procedure_name": "Platelet-aggregation studies",
+            "date": "Not specified",
+            "findings": "Appreciably impaired platelet function; primary aggregation response was present, but full secondary aggregation was absent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "pH: 7.41, Partial pressure of carbon dioxide: 44 mm Hg (reference range, 35 to 50), Partial pressure of oxygen: 205 mm Hg (reference range, 40 to 90 while breathing ambient air).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

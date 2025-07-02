@@ -1,0 +1,84 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "40 U per liter (elevated, normal range 2 to 35)",
+                "alanine aminotransferase": "47 U per liter (elevated, normal range 0 to 45)",
+                "alkaline phosphatase": "Normal",
+                "bilirubin": "Normal",
+                "albumin": "Normal"
+            },
+            "changes_over_time": "Elevated aminotransferase levels persisted and increased significantly over time."
+        },
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "63 U per liter",
+                "alanine aminotransferase": "93 U per liter",
+                "alkaline phosphatase": "Normal",
+                "bilirubin": "Normal",
+                "albumin": "Normal"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "130 U per liter",
+                "alanine aminotransferase": "202 U per liter",
+                "alkaline phosphatase": "145 U per liter (elevated, normal range 30 to 130)",
+                "bilirubin": "Normal",
+                "albumin": "Normal"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "1545 U per liter (severe elevation)",
+                "alanine aminotransferase": "2655 U per liter (severe elevation)",
+                "alkaline phosphatase": "399 U per liter",
+                "total bilirubin": "5.3 mg per deciliter (elevated)",
+                "direct bilirubin": "4.0 mg per deciliter (elevated)",
+                "albumin": "3.8 g per deciliter"
+            },
+            "changes_over_time": "Increased significantly from previous measurements."
+        },
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate aminotransferase": "1588 U per liter",
+                "alanine aminotransferase": "2483 U per liter",
+                "alkaline phosphatase": "503 U per liter",
+                "total bilirubin": "7.8 mg per deciliter (elevated)",
+                "INI": "1.1"
+            },
+            "changes_over_time": "Slight decrease after treatment initiation."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "histological findings": "Features of autoimmune hepatitis with bridging fibrosis.",
+                "steatosis": "Not observed."
+            },
+            "changes_over_time": "Indicated chronicity; evidence of fibrosis not seen in prior biopsy."
+        },
+        {
+            "procedure_name": "Liver Enzyme Test",
+            "date": "Three months after treatment initiation",
+            "findings": {
+                "aspartate aminotransferase": "Normalized",
+                "alanine aminotransferase": "Normalized",
+                "alkaline phosphatase": "Normalized"
+            },
+            "changes_over_time": "Became normal after treatment with prednisone and azathioprine."
+        }
+    ]
+}

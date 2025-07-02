@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4 °C",
+                "blood_pressure": "110/68 mm Hg",
+                "pulse": "94 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "telangiectatic_lesions": "Multiple lesions on tongue, buccal mucosa, and nasal mucosa",
+                "physical_condition": "Comfortable appearance, conversant, and mildly mentally retarded",
+                "hemoglobin": "10.5 g/dL",
+                "hematocrit": "32.6%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "telangiectatic_lesions": "Severe maxillary gingival hyperplasia noted at 32 years of age",
+                "absent_findings": "No abnormalities found in lung, heart, and abdomen examination"
+            },
+            "changes_over_time": "Developed severe maxillary gingival hyperplasia since earlier evaluations"
+        }
+    ]
+}

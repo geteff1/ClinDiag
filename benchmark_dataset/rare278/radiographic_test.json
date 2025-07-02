@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Slightly larger collo-diaphyseal angles of the femur in both hip joints.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "head MRI",
+            "date": "Not specified",
+            "findings": "Patchy and slightly longer T2 signals in the white matter of both parietal lobes and slightly increased extra-cerebral space in both frontotemporal regions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "echocardiography",
+            "date": "Not specified",
+            "findings": "Normal with a patent foramen ovale at birth that was closed at 6 months of age.",
+            "changes_over_time": "The patent foramen ovale closed at 6 months of age."
+        }
+    ]
+}

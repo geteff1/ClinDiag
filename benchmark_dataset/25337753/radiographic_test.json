@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Numerous lytic lesions in the thoracic spine and pathologic compression fractures of T5 and T7.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Numerous lesions with high signal intensity involving the vertebral bodies and posterior elements.",
+            "changes_over_time": "Increase in the size and number of lesions with high signal intensity, including a new pathologic compression fracture of L1, observed 2 months after initial diagnosis."
+        },
+        {
+            "procedure_name": "18F-fluorodeoxyglucose (FDG) positron-emission tomography and CT (PET-CT)",
+            "date": "Nine days before current evaluation",
+            "findings": "FDG-avid lesions throughout the axial and appendicular skeleton.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4 T-lymphocyte count",
+            "date": "Not specified",
+            "findings": "211 cells per cubic millimeter",
+            "changes_over_time": "CD4 T-lymphocyte count remained consistently above 200 cells per cubic millimeter after initiation of antiretroviral therapy."
+        },
+        {
+            "procedure_name": "Plasma HIV RNA level",
+            "date": "Not specified",
+            "findings": "476,000 viral copies per milliliter",
+            "changes_over_time": "Fall in the plasma HIV load to less than 400 RNA copies per milliliter after antiretroviral treatment."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "Not specified",
+            "findings": "Lymphocytic pleocytosis",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "2 weeks after first admission",
+            "findings": {
+                "Opening pressure": "38 cm of water",
+                "White cells (per mm3)": "76",
+                "Protein (mg/dl)": "85",
+                "Glucose (mg/dl)": "57"
+            },
+            "changes_over_time": "Persistent lymphocytosis and abnormal results of imaging despite clinical recovery."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "4 months before admission",
+            "findings": "Diffuse leptomeningeal enhancement and extensive asymmetric hyperintensity.",
+            "changes_over_time": "New abnormalities in other areas compared to previous MRI."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Diffuse theta-range slowing and intermittent delta-range slowing over anterior regions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat lumbar puncture",
+            "date": "On admission",
+            "findings": {
+                "Opening pressure": "20 cm of water",
+                "White cells (per mm3)": "33",
+                "Neutrophils": "2%",
+                "Lymphocytes": "97%",
+                "Protein (mg/dl)": "102",
+                "Glucose (mg/dl)": "64"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis after treatment",
+            "date": "After treatment",
+            "findings": "Multifocal regions of hyperintense T2-weighted and FLAIR signal abnormalities, less extensive than initial imaging.",
+            "changes_over_time": "Improvement of imaging abnormalities after glucocorticoid treatment."
+        }
+    ]
+}

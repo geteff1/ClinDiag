@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "blood_pressure_lying": "114/64 mm Hg",
+                "heart_rate_lying": "77 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%",
+                "blood_pressure_standing": "94/61 mm Hg",
+                "heart_rate_standing": "93 bpm"
+            },
+            "relevant_findings": {
+                "general": "Muscular white man in no distress.",
+                "thyroid": "No thyromegaly.",
+                "jugular_venous_pressure": "<8 cm H2O.",
+                "carotid": "Brisk upstrokes without bruits.",
+                "cardiac": "Normal S1 and S2, no murmur, rub, or gallop.",
+                "lungs": "Clear to auscultation.",
+                "abdominal": "Soft without pulsatile masses or bruits.",
+                "extremities": "Without edema.",
+                "pulses": "Easily palpable femoral and pedal pulses."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

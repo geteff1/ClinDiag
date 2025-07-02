@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Mild thickening and increased enhancement of the wall of the terminal ileum and ascending colon, consistent with ileocolitis. Multiple subpleural lung nodules, measuring up to 13 mm with central hypoattenuation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Fourth hospital day",
+            "findings": "Additional bilateral pulmonary nodules in a subpleural distribution, measuring up to 13 mm. Several nodules had central hypoattenuation, and other nodules had indistinct margins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FDG-PET-CT",
+            "date": "Not specified",
+            "findings": "FDG avidity in many lung nodules indicating increased glucose metabolism; no abnormal extrathoracic uptake.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Four weeks after discharge",
+            "findings": "Several nodules had increased in size while others had shrunk, indicating a non-malignant process.",
+            "changes_over_time": "Waxing and waning pattern of growth suggests no malignant process."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "December 2005",
+            "findings": "Malignant-appearing, friable infiltrative sigmoid mass.",
+            "changes_over_time": "Previous routine colonoscopy in 2001 revealed only 2 small polyps."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "2004",
+            "findings": "Mild biventricular hypertrophy with preserved ventricular function and no wall motion abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MIBI Stress Test",
+            "date": "2001",
+            "findings": "Mild, reversible defects in the inferior wall and inferior portion of the apex and anterior wall.",
+            "changes_over_time": "Clinically stable since 2001 without change in infrequent angina."
+        },
+        {
+            "procedure_name": "Spirometry",
+            "date": "September 14, 2004 and January 24, 2006",
+            "findings": {
+                "September 14, 2004": {
+                    "FVC": "3.90 L (91% predicted)",
+                    "FEV1": "1.30 L (44% predicted)",
+                    "MMF": "0.43 L/sec (15% predicted)",
+                    "FEV1/FVC": "33"
+                },
+                "January 24, 2006": {
+                    "FVC": "4.22 L (101% predicted)",
+                    "FEV1": "1.34 L (47% predicted)",
+                    "MMF": "0.33 L/sec (12% predicted)",
+                    "FEV1/FVC": "32"
+                }
+            },
+            "changes_over_time": "Fluctuated minimally without significant trends."
+        }
+    ]
+}

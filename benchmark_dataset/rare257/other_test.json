@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fundoscopy",
+            "date": "Not specified",
+            "findings": "Evaluation of fundus lesions of hypertension was performed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical assessments",
+            "date": "Not specified",
+            "findings": "Measurements of plasma serum, aldosterone, renin, and urinary microalbumin concentration were performed; specific numerical values not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Echocardiography was performed; specific findings not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the aortic and renal arteries",
+            "date": "Not specified",
+            "findings": "CT was performed; specific findings not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Whole-exome sequencing was performed; specific findings not included.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Sanger sequencing was performed on family members' DNA to evaluate the candidate variant and conduct co-segregation analysis; specific findings not included.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

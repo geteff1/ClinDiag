@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.7 °C",
+                "blood_pressure": "79 to 91 / 43 to 48 mm Hg",
+                "pulse": "154 to 162 bpm",
+                "respiratory_rate": "20 to 25 breaths per minute"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3rd Postpartum Day",
+            "vital_signs": {
+                "temperature": "38.4 °C",
+                "blood_pressure": "80 / 48 mm Hg",
+                "pulse": "130 bpm",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Severe diffuse abdominal pain, abdominal distention, decreased bowel sounds, rigors, and fever.",
+            "changes_over_time": "Blood pressure decreased to 55 / 30 mm Hg and pulse rose to 140 bpm after transfer to ICU."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.2 °C",
+                "blood_pressure": "70 / 52 mm Hg",
+                "pulse": "149 bpm",
+                "respiratory_rate": "32 breaths per minute"
+            },
+            "relevant_findings": "Hot and flushed skin, dry oral mucous membranes, decreased bowel sounds, abd distension with diffuse rebound tenderness, erythema and edema around the surgical incision.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ICU admission",
+            "vital_signs": {
+                "temperature": "36.1 °C",
+                "blood_pressure": "116 / 60 mm Hg",
+                "pulse": "145 bpm",
+                "respiratory_rate": "22 breaths per minute"
+            },
+            "relevant_findings": "Open abdominal wound covered by an occlusive dressing, mottled skin on flanks, fingertips and toes, diminished peripheral pulses.",
+            "changes_over_time": "Cardiac arrest occurred with subsequent treatment for worsening circulatory shock."
+        },
+        {
+            "date": "During transport to ICU",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "55 / 30 mm Hg",
+                "pulse": "140 bpm",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure increased to 120 / 80 mm Hg and urine excretion resumed after treatment."
+        }
+    ]
+}

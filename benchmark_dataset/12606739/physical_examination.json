@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.7°C",
+                "pulse": "131 bpm",
+                "blood_pressure": "125/60 mm Hg",
+                "respiratory_rate": "28"
+            },
+            "relevant_findings": {
+                "weight_status": "overweight",
+                "condition": "toxic",
+                "skin": "clammy",
+                "eye_exam": {
+                    "left_eye": {
+                        "status": "injected",
+                        "visual_ability": "hand waving"
+                    }
+                },
+                "lung_exam": {
+                    "left_lung": {
+                        "sounds": "inspiratory crackles",
+                        "breath_sounds": "dullness with diminished"
+                    },
+                    "right_lung": {
+                        "sounds": "dullness with diminished"
+                    }
+                },
+                "heart_exam": {
+                    "systolic_murmur": {
+                        "grade": 3,
+                        "location": "left sternal border"
+                    },
+                    "diastolic_murmur": {
+                        "grade": 1,
+                        "location": "aortic"
+                    }
+                },
+                "edema": "peripheral edema (+)",
+                "neurologic_exam": "no abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

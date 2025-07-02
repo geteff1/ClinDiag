@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "135/78 mmHg",
+                "pulse_rate": "82 beats/min"
+            },
+            "relevant_findings": {
+                "endotracheal_intubation": "Performed smoothly; no edema of epiglottis or vocal cords detected",
+                "postoperative_check": "No edema in the epiglottis, vocal cords, trachea, or carina"
+            },
+            "changes_over_time": "Patient did not experience an edema attack for the past year prior to surgery; edema alternated between feet every 10 days post-discharge but resolved by week 8."
+        }
+    ]
+}

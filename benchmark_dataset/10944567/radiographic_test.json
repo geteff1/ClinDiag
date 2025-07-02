@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Nine days before admission",
+            "findings": "Small left-sided pleural effusion and minimal prominence of the left pulmonary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ventilation-perfusion scan",
+            "date": "Three days after the chest radiograph",
+            "findings": "No perfusion of the left lung; minimal decrease in ventilation of the left lung and normal ventilation of the right.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified.",
+            "findings": "Large mass that fills the main pulmonary artery and extends into the left pulmonary artery and the intra-pericardial portion of the right pulmonary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary angiographic examination",
+            "date": "Not specified.",
+            "findings": "Intraluminal mass occluding the left pulmonary artery and involving the main and proximal right pulmonary arteries.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

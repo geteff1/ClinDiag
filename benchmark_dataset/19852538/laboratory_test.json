@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ophthalmological examination",
+            "date": "1998",
+            "findings": "Normal except for a slightly elevated ocular tension at 19 torr bilaterally.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Visual field examination",
+            "date": "2002",
+            "findings": "Discrete bilateral nasal step noticed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ophthalmological follow-up",
+            "date": "2006",
+            "findings": "Binasal hemianopia with normal visual acuity and ocular tension.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postoperative ophthalmological examination",
+            "date": "4 months after surgery",
+            "findings": "Normal visual fields according to Humphrey testing, normal macula and optic disks, stable visual acuity and ocular tension.",
+            "changes_over_time": "Patient's visual field deficits improved within the first 48 hours after surgery."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 13, 2017",
+            "vital_signs": {
+                "blood_pressure": "150/77 mm Hg",
+                "pulse": "75 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Normal"
+            },
+            "relevant_findings": {
+                "paraspinal_tenderness": "Lumbar region",
+                "edema": "Mild (1+) nonpitting edema of left calf and ankle",
+                "other_findings": "Remainder of examination normal"
+            },
+            "changes_over_time": "Blood pressure increased to 160/90 mm Hg three days later; pulse increased to 80 bpm, with the detection of an enlarged lymph node."
+        },
+        {
+            "date": "April 16, 2017",
+            "vital_signs": {
+                "blood_pressure": "160/90 mm Hg",
+                "pulse": "80 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "lymph_node_enlargement": "1.0 cm lymph node detected under pectoralis major muscle",
+                "other_findings": "Remainder of the examination normal"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "April 20, 2017",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": "Left thigh and calf edematous without tenderness or tension",
+                "lymphadenopathy": "Enlarged lymph nodes palpated under pectoralis muscles bilaterally"
+            },
+            "changes_over_time": "Intermittent edema of the left leg with mild pain reported; night sweats noted."
+        },
+        {
+            "date": "May 4, 2017",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Unchanged from previous studies.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

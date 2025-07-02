@@ -1,0 +1,90 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Iron saturation test",
+            "date": "Not specified",
+            "findings": "Iron saturation was 3 percent (normal range, 15 to 40 percent).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "On admission",
+            "findings": "Blood cultures remained sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Seventh hospital day",
+            "findings": "Creatinine level was 2.0 mg per deciliter (177 µmol per liter).",
+            "changes_over_time": "Creatinine level increased from 1.4 mg per deciliter (7 days before admission) to 2.1 mg per deciliter (on admission) and then to 2.0 mg per deciliter."
+        },
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "7 days before admission, On admission, Third hospital day, Fifth hospital day, Sixth hospital day",
+            "findings": [
+                {
+                    "date": "7 days before admission",
+                    "hematocrit": "28.3%",
+                    "white_cell_count": "22,900 per mm³",
+                    "neutrophils": "58%"
+                },
+                {
+                    "date": "On admission",
+                    "hematocrit": "34.4%",
+                    "white_cell_count": "14,400 per mm³",
+                    "neutrophils": "87%"
+                },
+                {
+                    "date": "Third hospital day",
+                    "white_cell_count": "16,500 per mm³",
+                    "neutrophils": "87%"
+                },
+                {
+                    "date": "Fifth hospital day",
+                    "white_cell_count": "22,100 per mm³",
+                    "neutrophils": "91%"
+                },
+                {
+                    "date": "Sixth hospital day",
+                    "white_cell_count": "9,700 per mm³",
+                    "neutrophils": "72%"
+                }
+            ],
+            "changes_over_time": "White cell count fluctuated; increased from 22,900 to a peak of 22,100 per mm³, then decreased to 9,700 per mm³."
+        },
+        {
+            "procedure_name": "Urea nitrogen test",
+            "date": "7 days before admission, On admission",
+            "findings": [
+                {
+                    "date": "7 days before admission",
+                    "urea_nitrogen": "29 mg/dL"
+                },
+                {
+                    "date": "On admission",
+                    "urea_nitrogen": "29 mg/dL"
+                }
+            ],
+            "changes_over_time": "No change in urea nitrogen levels; remained stable at 29 mg/dL."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "On admission, Third hospital day, Sixth hospital day",
+            "findings": [
+                {
+                    "date": "On admission",
+                    "description": "Dense consolidation in the right upper lobe, blunted costophrenic angles."
+                },
+                {
+                    "date": "Third hospital day",
+                    "description": "Partial clearing of the consolidation in the right upper lobe."
+                },
+                {
+                    "date": "Sixth hospital day",
+                    "description": "Persistent right-upper-lobe consolidation and worsening diffuse interstitial opacities."
+                }
+            ],
+            "changes_over_time": "The consolidation in the right upper lobe showed initial improvement followed by worsening on the sixth hospital day."
+        }
+    ]
+}

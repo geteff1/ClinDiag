@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Initial ECG showed normal sinus rhythm with a subtle J-point elevation in leads II, III, aVF, and V2 through V6. A repeat ECG evolved to marked ST elevation and a convex shape in the lateral leads, with a decrease in R-wave progression.",
+            "changes_over_time": "Progressed from normal sinus rhythm with subtle J-point elevation to marked ST elevation and decreased R-wave progression."
+        },
+        {
+            "procedure_name": "Coronary Angiogram",
+            "date": "Not specified",
+            "findings": "Demonstrated a large thrombus occupying most of the length and approximately 70% of the diameter of the left main coronary artery, with almost 90% occlusion. A second thrombus occluded the distal left anterior descending coronary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary Bypass Graft Surgery",
+            "date": "Not specified",
+            "findings": "Left internal mammary artery was grafted to the left anterior descending coronary artery and a saphenous vein graft to the left circumflex artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Phenytoin Concentration",
+            "date": "Not specified",
+            "findings": "18.6 mg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Frequent polyspike-and-wave bursts with visibility of myoclonic jerks.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Valproic Acid Concentration",
+            "date": "12 hours after administration of IV valproic acid",
+            "findings": "10 mg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "After IV valproic acid administration",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Valproic Acid Concentration",
+            "date": "At the time the mental status returned to normal",
+            "findings": "28 mg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "At the time the mental status returned to normal",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

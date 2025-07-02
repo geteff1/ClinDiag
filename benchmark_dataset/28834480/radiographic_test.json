@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Three months before admission",
+            "findings": "Bilateral ground-glass opacities in a mosaic distribution; no consolidation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "On admission",
+            "findings": "New consolidations in the dependent portions of the bilateral lower lobes and inferior lingula; new interlobular septal thickening, bilateral ground-glass opacities, trace bilateral pleural effusions, subpleural reticulations; no intrathoracic lymphadenopathy.",
+            "changes_over_time": "Progression from previously observed ground-glass opacities to consolidations."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Patchy linear opacity at the base of the left lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat video swallow study",
+            "date": "On hospital day 8",
+            "findings": "Moderate oropharyngeal dysphagia and intermittent trace aspiration.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

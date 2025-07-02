@@ -1,0 +1,99 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "17-hydroxyprogesterone",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1, Age 8": {
+                    "value": "2.7 nmol/L",
+                    "reference_range": "(0.9–4.1)"
+                },
+                "Patient 1, Age 10": {
+                    "value": "6.8 nmol/L",
+                    "reference_range": "(0.9–4.1)"
+                },
+                "Patient 2, Age 14": {
+                    "value": "8 nmol/L",
+                    "reference_range": "(not specified)"
+                }
+            },
+            "changes_over_time": "In Patient 1, 17OHP increased from 2.7 nmol/L at age 8 to 6.8 nmol/L at age 10."
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHEAS)",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1, Age 8": {
+                    "value": "4.6 μmol/L",
+                    "reference_range": "(0.3–2.6)"
+                },
+                "Patient 1, Age 10": {
+                    "value": "8.4 μmol/L",
+                    "reference_range": "(3–10)"
+                },
+                "Patient 2, Age 14": {
+                    "value": "7.3 μmol/L",
+                    "reference_range": "(0.3–1.5)"
+                }
+            },
+            "changes_over_time": "In Patient 1, DHEAS increased from 4.6 μmol/L at age 8 to 8.4 μmol/L at age 10."
+        },
+        {
+            "procedure_name": "Androstenedione",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1, Age 8": {
+                    "value": "13.7 nmol/L",
+                    "reference_range": "(0.3–1.7)"
+                },
+                "Patient 1, Age 10": {
+                    "value": "15.5 nmol/L",
+                    "reference_range": "(0.9–3.7)"
+                },
+                "Patient 2, Age 14": {
+                    "value": "30.1 nmol/L",
+                    "reference_range": "(1.2–7.1)"
+                }
+            },
+            "changes_over_time": "In Patient 1, androstenedione increased from 13.7 nmol/L at age 8 to 15.5 nmol/L at age 10."
+        },
+        {
+            "procedure_name": "Testosterone",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1, Age 8": {
+                    "value": "1.2 nmol/L",
+                    "reference_range": "(not specified)"
+                },
+                "Patient 1, Age 10": {
+                    "value": "6.0 nmol/L",
+                    "reference_range": "(not specified)"
+                },
+                "Patient 2, Age 14": {
+                    "value": "4.8 nmol/L",
+                    "reference_range": "(0.5–2.6)"
+                }
+            },
+            "changes_over_time": "In Patient 1, testosterone increased from 1.2 nmol/L at age 8 to 6.0 nmol/L at age 10."
+        },
+        {
+            "procedure_name": "11-Deoxycortisol",
+            "date": "Not specified",
+            "findings": {
+                "Patient 1, Age 8": {
+                    "value": "94.2 nmol/L",
+                    "reference_range": "(20.1)"
+                },
+                "Patient 1, Age 10": {
+                    "value": "253.8 nmol/L",
+                    "reference_range": "(20.9)"
+                },
+                "Patient 2, Age 14": {
+                    "value": "142.9 nmol/L",
+                    "reference_range": "(20.9)"
+                }
+            },
+            "changes_over_time": "In Patient 1, 11-deoxycortisol increased from 94.2 nmol/L at age 8 to 253.8 nmol/L at age 10."
+        }
+    ]
+}

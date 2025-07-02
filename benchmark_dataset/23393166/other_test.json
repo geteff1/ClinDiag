@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Metastatic adenocarcinoma of colorectal origin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical Analysis",
+            "date": "Not specified",
+            "findings": "Strong staining for FGF23 in the metastatic colon adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Point mutation in the KRAS gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "8 weeks after admission",
+            "findings": "Decrease in the number and size of liver metastases.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

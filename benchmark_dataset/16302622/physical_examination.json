@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal results of physical and neurological examinations; no cranial or abdominal bruits present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "23 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest and abdominal CT scanning detected probable AVM in the thoracic spinal canal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3.5 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Postembolization angiography demonstrated complete obliteration of the MA VF and resolution of venous congestion.",
+            "changes_over_time": "Reduction in size of venous varix and partial resolution of spinal cord edema post-embolization."
+        },
+        {
+            "date": "10 months post-embolization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Complete resolution of T2 hyperintensity in the spinal cord; no abnormal flow voids observed.",
+            "changes_over_time": "No neurological dysfunction detected post-embolization; previously noted spinal cord edema resolved."
+        }
+    ]
+}

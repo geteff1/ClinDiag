@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "GnRH stimulation test",
+            "date": "Age 22",
+            "findings": "Induced a marked increase in LH (baseline: 0.9 IU/liter; peak: 19.3 IU/liter) and FSH (baseline: 3.8 IU/liter; peak: 20.9 IU/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CloMiphene citrate challenge test",
+            "date": "Age 16",
+            "findings": "Demonstrated no increase in LH, FSH, or estradiol levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulsatile GnRH therapy",
+            "date": "Age 26",
+            "findings": "Failed to normalize LH/FSH ratio; with doses ranging from 75 to 500 ng/kg, resulted in increased follicle size but inadequate estradiol rise and absence of ovulation.",
+            "changes_over_time": "At doses of 100 ng/kg, 150 ng/kg, and 250 ng/kg, partial follicular development occurred, but estradiol remained low and failed to induce ovulation."
+        }
+    ]
+}

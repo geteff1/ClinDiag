@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiography",
+            "date": "Not specified",
+            "findings": "Lacelike appearance of the iliac crest, generalized platyspondyly, accessory ossification centers of the first metacarpals.",
+            "changes_over_time": "Radiographic abnormalities in the iliac crest seem to increase with advancing age."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Os odontoideum demonstrated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Broad foramen of the vertebral artery at C-2, extending deep into both pedicles.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flexion–extension radiography",
+            "date": "Not specified",
+            "findings": "Severe atlantoaxial instability with anterior and posterior atlantoaxial intervals in flexion being 7 mm and 10 mm, respectively.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up radiograph",
+            "date": "36 weeks post-surgery",
+            "findings": "Solid fusion without implant failure.",
+            "changes_over_time": "Evidence of solid fusion was demonstrated during follow-up examinations at 2, 4, 12, 24, and 36 weeks postoperatively."
+        }
+    ]
+}

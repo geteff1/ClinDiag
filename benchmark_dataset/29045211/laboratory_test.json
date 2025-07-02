@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "14.7 g/dL (ref 13.5–17.5)",
+                "hematocrit": "44.5% (ref 38.0–50.0)",
+                "white_cell_count": "21,130 per mm3 (ref 4000–11,000)",
+                "differential": {
+                    "polymorphonuclear_cells": "80.2% (ref 44–75)",
+                    "lymphocytes": "7.4% (ref 15–45)",
+                    "monocytes": "7.0% (ref 4–15)",
+                    "eosinophils": "4.6% (ref 0–6)",
+                    "basophils": "0.4% (ref 0–3)"
+                },
+                "platelet_count": "368,000 per mm3 (ref 135,000–400,000)",
+                "erythrocyte_sedimentation_rate": "34 (normal: 0–13)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Testing",
+            "date": "Not specified",
+            "findings": {
+                "FEV1": "2.51 liters (77% of the predicted value)",
+                "FVC": "3.03 liters (70% of the predicted value)",
+                "FEV1/FVC_ratio": "83%",
+                "FENO": "112 ppb (reference range, <25)"
+            },
+            "changes_over_time": "Repeat testing showed FEV1 improved to 3.05 liters (94% of predicted) and FVC to 3.55 liters (82% of predicted); FENO decreased to 59 ppb."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "specific_gravity": "1.023 (ref 1.001–1.030)",
+                "pH": "5.0 (ref 5.0–8.0)",
+                "occult_blood": "+1 (ref negative)",
+                "red_cell_count": "5 (ref 0–3)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": {
+                "nucleated_cell_count": "1 per cubic millimeter",
+                "protein_level": "30 mg per deciliter (reference range, 5 to 55)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ANCA Testing",
+            "date": "Not specified",
+            "findings": {
+                "myeloperoxidase_ANCA": "666 U (reference range, <2.8)"
+            },
+            "changes_over_time": "ANCA titer was 23 U eleven months after initial presentation."
+        },
+        {
+            "procedure_name": "Eosinophil Count",
+            "date": "During hospitalization",
+            "findings": {
+                "absolute_eosinophil_count": "4490 per mm3"
+            },
+            "changes_over_time": "Count decreased to 270 per mm3 after initial treatment and increased to 7030 per mm3 with tapering of prednisone."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone biopsy",
+            "date": "Not specified",
+            "findings": "Prominent features of osteomalacia with increased unmineralized bone or osteoid surface and increased mineralization lag time.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor localization procedure (surgery)",
+            "date": "Not specified",
+            "findings": "No tumor was located or identified after surgery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Octreotide scan",
+            "date": "Not specified",
+            "findings": "Did not successfully locate the tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FGF-23 venous sampling",
+            "date": "Not specified",
+            "findings": "Serum FGF-23 levels were markedly elevated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

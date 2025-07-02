@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": "Microscopic examination of paraffin-embedded sections showed pancreatic tumor cells mostly in strips or diffuse sheets with characteristic salt and pepper-like nuclei. Immunohistochemistry revealed positive cytokeratin (CK) and beta-catenin, suggesting pancreatic neuroendocrine tumors. The liver tumor contained epithelioid cells, perivascular muscle-like cells, and adipocytes, with GPC-3 negative and Melan A positive, supporting a perivascular epithelioid cell tumor (PEcoma). The splenic tumor was a round nodule with clear boundaries, with positive staining for smooth muscle actin (SMA) and cluster of differentiation 68 (CD68), leading to a diagnosis of splenic hamartoma (myoid hamartoma).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic mutation detection",
+            "date": "Not specified",
+            "findings": "Detection revealed heterozygous variants in the BRCA1 related protein 1 (BAP1) and tuberous sclerosis complex 2 gene (TSC2), suggesting a possible tumor susceptibility syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

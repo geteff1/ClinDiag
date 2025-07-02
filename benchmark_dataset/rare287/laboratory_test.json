@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood gas analysis",
+            "date": "Not specified",
+            "findings": "Indicated severe respiratory failure.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Suggested the presence of a large patent ductus arteriosus (PDA) and pulmonary hypertension.",
+            "changes_over_time": "Subsequent ECHO confirmed the presence of an atrial septal defect."
+        },
+        {
+            "procedure_name": "Sputum etiological examination",
+            "date": "Not specified",
+            "findings": "No ureaplasma urealyticum, virus, or bacteria were found.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lung ultrasound",
+            "date": "Not specified",
+            "findings": "Showed pulmonary edema and exudative inflammation in bilateral lung fields.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary computed tomography (CT)",
+            "date": "51 days after birth",
+            "findings": "Suggested a diffuse ground-glass appearance in both lungs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "91 days after birth",
+            "findings": "Showed bilateral ventricular widening and corpus callosum hypoplasia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Revealed SoS type I; sequencing of both parents yielded full-length wild-type transcripts.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

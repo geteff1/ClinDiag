@@ -1,0 +1,64 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with normal intervals and no evidence of hypertrophy or ischemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 65%, normal left and right ventricular size and function, and no significant valvular dysfunction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Telemetry monitoring",
+            "date": "Not specified",
+            "findings": "Nonsustained, regular, wide complex monomorphic tachycardia.",
+            "changes_over_time": "Episodes of nonsustained polymorphic ventricular tachycardia with ST elevation noted later."
+        },
+        {
+            "procedure_name": "Exercise treadmill test",
+            "date": "Not specified",
+            "findings": "Achieved 22.9 metabolic equivalents without recurrent chest pain, ischemic ECG changes, or arrhythmias.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac MRI",
+            "date": "Not specified",
+            "findings": "No structural abnormalities or areas with late gadolinium enhancement but moderate narrowing of the mid left anterior descending and mid right coronary arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "99% tubular stenosis in the mid left anterior descending artery, improved to 40% with nitroglycerin; also another 40% stenosis in mid left anterior descending and mid right coronary arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": "Total cholesterol 148 mg/dL; HDL 44 mg/dL; LDL 81 mg/dL; triglycerides 116 mg/dL; high-sensitivity C-reactive protein 1.5 mg/L; serum Lp(a) significantly elevated at 158 mg/dL (normal ≤30 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Loop recorder interrogation",
+            "date": "Three weeks post initial presentation",
+            "findings": "No arrhythmias correlated with episodes of chest tightness.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine toxicology screen",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram (after resuscitation)",
+            "date": "Not specified",
+            "findings": "Depressed ejection fraction at 35% to 40% with global hypokinesis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

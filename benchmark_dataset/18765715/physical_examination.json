@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "heart_rate": "Normal",
+                "oxygen_saturation": "93% on room air, decreased to 88% after ambulation"
+            },
+            "relevant_findings": {
+                "lung_examination": "Fine inspiratory crackles heard in both lung bases",
+                "pulmonary_function_tests": "Combined restrictive and obstructive ventilatory defect with severe reduction in diffusion capacity (27% predicted)",
+                "chest_radiography": "Extensive, diffuse fine reticular infiltrates"
+            },
+            "changes_over_time": "Progression of hypoxia and interstitial infiltrates over the next 3 months"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation": "Decreased to 88% after 1 minute of ambulation"
+            },
+            "relevant_findings": {
+                "pathologic_diagnosis": "Exogenous lipoid pneumonia made after lung biopsy"
+            },
+            "changes_over_time": "Symptoms and lung function deteriorated despite treatment"
+        },
+        {
+            "date": "Day 0",
+            "vital_signs": {
+                "cardiac_index": "1.5 L/min per m²",
+                "pulmonary_artery_wedge_pressure": "18 mm Hg",
+                "troponin_I": "17.7 µg/L, peaked at 27.3 µg/L"
+            },
+            "relevant_findings": {
+                "echocardiography": "Global left ventricular ejection fraction less than 0.20"
+            },
+            "changes_over_time": "After levosimendan treatment, cardiac index increased to 3.5 L/min per m², pulmonary artery wedge pressure decreased to 14 mm Hg, and ejection fraction improved to 0.50 by day 3"
+        }
+    ]
+}

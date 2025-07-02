@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Confluent hyperintense lesions in the parieto-occipital region and the splenium of the corpus callosum on T2-weighted images.",
+            "changes_over_time": "Two months later, a repeat cerebral MRI was completely normal."
+        },
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "Six weeks after initial examination",
+            "findings": "Confluent cerebral white matter lesions.",
+            "changes_over_time": "The clinical features and cerebral white matter lesions resolved spontaneously."
+        }
+    ]
+}

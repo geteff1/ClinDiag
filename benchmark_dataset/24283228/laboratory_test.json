@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "1 week before admission",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Levels",
+            "date": "1 week before admission",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Tests",
+            "date": "1 week before admission",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4+ T-lymphocyte Count",
+            "date": "4 months before admission",
+            "findings": "988 per mm3",
+            "changes_over_time": "Decreased to 619 per mm3 on admission."
+        },
+        {
+            "procedure_name": "HIV RNA, by RT-PCR",
+            "date": "4 months before admission",
+            "findings": "<50 copies per ml of plasma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "On admission",
+            "findings": "14.6 seconds, INR 1.3",
+            "changes_over_time": "Prolonged from normal range."
+        },
+        {
+            "procedure_name": "Bilirubin (Total)",
+            "date": "1 week before admission",
+            "findings": "1.1 mg/dL",
+            "changes_over_time": "Increase from 0.7 mg/dL to 1.1 mg/dL."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "1 week before admission",
+            "findings": "170 U/liter",
+            "changes_over_time": "Increased from 120 U/liter."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "On admission",
+            "findings": "1129 U/liter",
+            "changes_over_time": "Increased significantly from 25 U/liter 4 months prior."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "On admission",
+            "findings": "1594 U/liter",
+            "changes_over_time": "Increased from 23 U/liter 4 months prior."
+        },
+        {
+            "procedure_name": "HCV RNA",
+            "date": "During acute presentation",
+            "findings": ">700,000 IU/mL",
+            "changes_over_time": "Subsequent measurements decreased to undetectable levels."
+        },
+        {
+            "procedure_name": "HCV Antibodies",
+            "date": "After spontaneous recovery",
+            "findings": "Positive",
+            "changes_over_time": "Seroconversion occurred after viral clearance."
+        }
+    ]
+}

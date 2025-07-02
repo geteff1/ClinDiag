@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Alanine Aminotransferase Level",
+            "date": "Not specified",
+            "findings": "61 U/L (normal range: 0-40 U/L) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Potassium Level",
+            "date": "Not specified",
+            "findings": "5.57 mmol/L (normal range: 3.5-5.5 mmol/L) - mild hyperkalaemia, outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgG Level",
+            "date": "Not specified",
+            "findings": "3.0 g/L (normal range: 3.7-8.3 g/L) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD3+ Cell Percentage",
+            "date": "Not specified",
+            "findings": "57% (normal range: 64%-73%) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD8+ Cell Percentage",
+            "date": "Not specified",
+            "findings": "23% (normal range: 24%-34%) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD19+ Cell Percentage",
+            "date": "Not specified",
+            "findings": "22% (normal range: 14%-21%) - slightly outside normal range",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "patchy opacities in the right lower and middle lobes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "perihilar nodule measuring 1.3 cm by 1.0 cm in the right lower lobe with enlarged right paratracheal lymph nodes and ground-glass opacities in the right lower lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT scan",
+            "date": "Not specified",
+            "findings": "uptake of 18F-fluorodeoxyglucose in the right-lower-lobe lung nodule and perihilar, paratracheal, and prevascular lymph nodes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "a focus of enhancement, 6 mm in diameter, at the medial inferior left cerebellum",
+            "changes_over_time": "repeat MRI of the head 2 months later showed multiple, new, punctate, enhancing foci with low diffusivity throughout the brain parenchyma, findings consistent with metastatic disease"
+        },
+        {
+            "procedure_name": "repeat chest CT",
+            "date": "Not specified",
+            "findings": "complete resolution of disease",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Lipid Panel",
+            "date": "June 2, 2000",
+            "findings": {
+                "total_cholesterol": {
+                    "value": 421,
+                    "unit": "mg/dl",
+                    "normal_range": "<200"
+                },
+                "triglycerides": {
+                    "value": 1272,
+                    "unit": "mg/dl",
+                    "normal_range": "<150"
+                },
+                "LDL": {
+                    "value": 201,
+                    "unit": "mg/dl",
+                    "normal_range": "65-129"
+                },
+                "HDL": {
+                    "value": 45,
+                    "unit": "mg/dl",
+                    "normal_range": ">35"
+                }
+            },
+            "changes_over_time": {
+                "November 3, 2000": {
+                    "total_cholesterol": {
+                        "value": 170,
+                        "unit": "mg/dl"
+                    },
+                    "triglycerides": {
+                        "value": 527,
+                        "unit": "mg/dl"
+                    },
+                    "LDL": {
+                        "value": 80,
+                        "unit": "mg/dl"
+                    },
+                    "HDL": {
+                        "value": 34,
+                        "unit": "mg/dl"
+                    }
+                },
+                "February 26, 2001": {
+                    "total_cholesterol": {
+                        "value": 154,
+                        "unit": "mg/dl"
+                    },
+                    "triglycerides": {
+                        "value": 338,
+                        "unit": "mg/dl"
+                    },
+                    "LDL": {
+                        "value": 79,
+                        "unit": "mg/dl"
+                    },
+                    "HDL": {
+                        "value": 34,
+                        "unit": "mg/dl"
+                    }
+                },
+                "July 6, 2001": {
+                    "total_cholesterol": {
+                        "value": 142,
+                        "unit": "mg/dl"
+                    },
+                    "triglycerides": {
+                        "value": 387,
+                        "unit": "mg/dl"
+                    },
+                    "LDL": {
+                        "value": 63,
+                        "unit": "mg/dl"
+                    },
+                    "HDL": {
+                        "value": 29,
+                        "unit": "mg/dl"
+                    }
+                }
+            }
+        },
+        {
+            "procedure_name": "Thyroid Panel",
+            "date": "June 2, 2000",
+            "findings": {
+                "TSH": {
+                    "value": 53.2,
+                    "unit": "IU/ml",
+                    "normal_range": "0.43-4.6"
+                },
+                "Free Thyroxine": {
+                    "value": 0.5,
+                    "unit": "ng/dl",
+                    "normal_range": "0.9-1.6"
+                }
+            },
+            "changes_over_time": {
+                "November 3, 2000": {
+                    "TSH": {
+                        "value": 0.36,
+                        "unit": "IU/ml"
+                    },
+                    "Free Thyroxine": {
+                        "value": 1.1,
+                        "unit": "ng/dl"
+                    }
+                },
+                "February 26, 2001": {
+                    "TSH": {
+                        "value": 6.24,
+                        "unit": "IU/ml"
+                    },
+                    "Free Thyroxine": {
+                        "value": 1.1,
+                        "unit": "ng/dl"
+                    }
+                },
+                "July 6, 2001": {
+                    "TSH": {
+                        "value": 1.12,
+                        "unit": "IU/ml"
+                    },
+                    "Free Thyroxine": {
+                        "value": 1.2,
+                        "unit": "ng/dl"
+                    }
+                }
+            }
+        },
+        {
+            "procedure_name": "Serum Lipid Panel",
+            "date": "January 8, 2001",
+            "findings": {
+                "total_cholesterol": {
+                    "value": 492,
+                    "unit": "mg/dl"
+                },
+                "HDL": {
+                    "value": 40,
+                    "unit": "mg/dl"
+                },
+                "Triglycerides": {
+                    "value": 908,
+                    "unit": "mg/dl"
+                }
+            },
+            "changes_over_time": {
+                "February 21, 2001": {
+                    "total_cholesterol": {
+                        "value": 165,
+                        "unit": "mg/dl"
+                    },
+                    "triglycerides": {
+                        "value": 506,
+                        "unit": "mg/dl"
+                    },
+                    "LDL": {
+                        "value": 41,
+                        "unit": "mg/dl"
+                    },
+                    "HDL": {
+                        "value": 23,
+                        "unit": "mg/dl"
+                    }
+                }
+            }
+        }
+    ]
+}

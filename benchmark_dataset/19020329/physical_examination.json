@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: <37.8°C daily rise, Blood Pressure: Not specified, Pulse: Not specified",
+            "relevant_findings": "Normal physical examination",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks before admission",
+            "vital_signs": "Temperature: 37.6°C, Blood Pressure: 120/76 mmHg, Pulse: 80 bpm, Weight: 80.3 kg",
+            "relevant_findings": "1+ pitting edema of the legs to the knees, remainder of examination normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One day before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Headache reported as pulsating in quality, nausea without vomiting, severe jaw pain on chewing; cranial nerves and motor/sensory functions normal; neck supple; temporal arteries tor -tious, enlarged, nontender.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day of admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal vital signs, neck supple, temporal arteries tortuous, enlarged, nontender, pupils equal and reactive, visual acuity 20/20, fundus examination normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lymphocytosis and elevated protein level on lumbar puncture; biopsy of right temporal artery revealed mild intimal hyperplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Sixth hospital day",
+            "vital_signs": "Temperature: 38.1°C",
+            "relevant_findings": "Pathological examination of the temporal artery biopsy revealed mild intimal hyperplasia and no evidence of giant-cell arteritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Seventh hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRI showed extension of dural thickening and enhancement to the sella with nodular enhancement of the pituitary stalk.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

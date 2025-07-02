@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Anemia (Hemoglobin 8.0 gm/dl), Thrombocytopenia (103 Thousand/μL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "Elevated (185.4 mg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Elevated (20 mm/hr)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrin D-Dimer",
+            "date": "Not specified",
+            "findings": "Elevated (1.44)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Functional Fibrinogen",
+            "date": "Not specified",
+            "findings": "Normal (412 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time (aPTT)",
+            "date": "Not specified",
+            "findings": "Prolonged (56.7 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "Prolonged (17.2 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescein Angiography (FA)",
+            "date": "Not specified",
+            "findings": "Disc leakage and peripheral vascular leakage in both eyes initially; resolution at 9 months",
+            "changes_over_time": "Initial leakage in both eyes, resolved by 9 months"
+        },
+        {
+            "procedure_name": "QuantiFERON Gold (Interferon Gamma Release Assay)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bartonella Antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Treponemal Antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Beta-2-Microglobulin",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HLA-B27",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

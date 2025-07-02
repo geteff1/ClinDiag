@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 16, 2001",
+            "vital_signs": {
+                "temperature": "102.3 °F (39.1 °C)",
+                "blood_pressure": "106/50 mm Hg",
+                "pulse": "119/min",
+                "respiratory_rate": "18/min",
+                "oxygen_saturation": "93% (room air)"
+            },
+            "relevant_findings": {
+                "alertness": "Alert and oriented",
+                "meningeal_irritation": "No signs of meningeal irritation",
+                "skin_exam": "Unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "November 18, 2001",
+            "vital_signs": {
+                "not_specified": "Not specified"
+            },
+            "relevant_findings": {
+                "oxygen_saturation": "90% (2 L/min oxygen via nasal cannula)",
+                "chest_radiograph": "Evidence of a left pleural effusion"
+            },
+            "changes_over_time": "Deterioration noted with development of respiratory distress."
+        },
+        {
+            "date": "November 19, 2001",
+            "vital_signs": {
+                "not_specified": "Not specified"
+            },
+            "relevant_findings": {
+                "wbc_count": "25.0 /H1100310³/µL",
+                "chest_radiograph": "Progression of the left pleural effusion"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "November 20, 2001",
+            "vital_signs": {
+                "not_specified": "Not specified"
+            },
+            "relevant_findings": {
+                "serum_creatinine": "3.7 mg/dL (327 µmol/L)",
+                "condition": "Hypotension requiring treatment with vasopressors and requiring high levels of supplemental oxygen"
+            },
+            "changes_over_time": "Condition continued to deteriorate."
+        },
+        {
+            "date": "November 21, 2001",
+            "vital_signs": {
+                "not_specified": "Not specified"
+            },
+            "relevant_findings": {
+                "chest_tube": "Chest tube placed in the left pleural space",
+                "pleural_fluid": "More than 1 L of serosanguinous fluid present in right pleural cavity"
+            },
+            "changes_over_time": "Patient died, indicating severe progression of the disease."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 2005",
+            "vital_signs": {
+                "PSA_level": "240 ng/mL",
+                "testosterone_level": "44 ng/dL"
+            },
+            "relevant_findings": "A large anterior mass was palpated on digital neovaginal examination.",
+            "changes_over_time": "After 6 weeks of treatment, PSA level decreased to 77 ng/mL. Following radiation (week 17), PSA dropped to 4.6 ng/mL. At week 35, PSA level further decreased to 0.4 ng/mL, and MRI showed prostate size decreased to 4.5 x 3.4 x 3.7 cm."
+        },
+        {
+            "date": "Week 35",
+            "vital_signs": {
+                "PSA_level": "0.4 ng/mL",
+                "testosterone_level": "Not specified"
+            },
+            "relevant_findings": "Subsequent physical examination revealed a reduction in prostate size.",
+            "changes_over_time": "No new findings were specified at week 35; continued adherence to antiandrogen treatment led to stable PSA levels at 0.4 ng/mL."
+        },
+        {
+            "date": "Week 56",
+            "vital_signs": {
+                "PSA_level": "0.4 ng/mL",
+                "testosterone_level": "Not specified"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "No changes in PSA level were observed; it remained at 0.4 ng/mL."
+        }
+    ]
+}

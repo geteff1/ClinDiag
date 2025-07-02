@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Blood level was 119 U per liter (reference range, 30 to 100); outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI Scan",
+            "date": "12 years after initial resection",
+            "findings": "Showed residual T2-weighted hyperintensity along the margin of the resection cavity.",
+            "changes_over_time": "Gradual development of abnormal, nonenhancing, mildly expansile tissue with T2-weighted hyperintensity was noted."
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "At current presentation",
+            "findings": "Revealed IDH1 R132H mutation and presence of MGMT gene promoter methylation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI Scan",
+            "date": "Immediately after second resection",
+            "findings": "Showed stable appearance and extent of signal abnormality in infiltrative neoplasm.",
+            "changes_over_time": "Follow-up MRIs after chemotherapy showed a decrease in the degree of infiltration and extent of abnormal tissue."
+        },
+        {
+            "procedure_name": "Ki-67 Proliferation Index",
+            "date": "At second resection",
+            "findings": "Ki-67 proliferation index was 9%, higher than typically associated with WHO grade II oligodendrogliomas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

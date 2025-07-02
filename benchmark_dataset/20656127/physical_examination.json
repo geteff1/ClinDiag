@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 2009",
+            "vital_signs": {
+                "Oxygen saturation": {
+                    "lying down": "92%",
+                    "sitting": "83%"
+                },
+                "Arterial blood oxygen": "62 mm Hg",
+                "Haemoglobin concentration": "68 g/L",
+                "MCV": "51 fL",
+                "Reticulocyte count": "1%"
+            },
+            "relevant_findings": [
+                "telangiectasia of the nasal mucosa",
+                "pallor",
+                "clubbing"
+            ],
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "November 2009",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Chest CT showed no reperfusion of his arteriovenous malformations, and he remained asymptomatic."
+        }
+    ]
+}

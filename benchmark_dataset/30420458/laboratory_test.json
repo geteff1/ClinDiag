@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual Evoked Potential (VEP) testing",
+            "date": "Not specified",
+            "findings": "Reduced amplitudes (approximately 60% of normal) and prolonged latencies (approximately 40 ms increased) on flash VEP.",
+            "changes_over_time": "Improved amplitudes (approximately 82% right eye; approximately 74% left eye) and latencies in both eyes after riboflavin treatment."
+        },
+        {
+            "procedure_name": "MRI of the brain and orbits",
+            "date": "Not specified",
+            "findings": "No intracranial abnormalities, but the optic nerves and tracts appeared mildly decreased in size.",
+            "changes_over_time": "Repeat MRI brain imaging did not demonstrate any change."
+        },
+        {
+            "procedure_name": "Thyroid Function Testing",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Lactate and Pyruvate Ratio",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Ammonia Levels",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Plasma Carnitine",
+            "date": "Not specified",
+            "findings": "Slightly low for age at 34 μmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Quantitative Serum Acylcarnitine Profile",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Amino Acid Profile",
+            "date": "Not specified",
+            "findings": "Nonspecific abnormalities including mildly low glutamine and arginine levels, and elevated proline and α-aminobutyric acid levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Studies",
+            "date": "Not specified",
+            "findings": "Normal with low homovanillic acid and 5-hydroxyindoleacetic acid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chromosomal Microarray",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve Conduction and EMG",
+            "date": "Not specified",
+            "findings": "Showed small median compound muscle action potentials (CMAPs) but normal peroneal CMAPs.",
+            "changes_over_time": "Sensory testing revealed absent median nerve action potentials from digit 2 and small for age sural nerve action potentials."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "pulse": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "100/60 mmHg"
+            },
+            "relevant_findings": {
+                "abnormal_findings": "Grade 2 systolic murmur along the upper sternal border on the right side",
+                "urine": "Positive (++) for protein; sediment contained 0 to 2 red cells, 3 to 5 white cells, and 0 to 2 hyaline casts per low-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9° to 37.6°C during the next several days"
+            },
+            "relevant_findings": {
+                "abnormal_findings": "Chest radiograph and abdominal ultrasound showed no significant abnormalities other than a gallstone and bilateral cysts"
+            },
+            "changes_over_time": "Temperature fluctuated between 36.9° to 37.6°C"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "112/57 mm Hg",
+                "pulse": "88 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Patient was alert and oriented, did not appear ill.",
+                "heart": "First and second heart sounds were normal.",
+                "lungs": "Lungs were clear.",
+                "abdomen": "Not distended, bowel sounds present, no tenderness on palpation or hepatosplenomegaly.",
+                "legs": "No swelling in the legs.",
+                "skin": [
+                    {
+                        "location": "Right popliteal fossa",
+                        "description": "Area of blanching erythema, 6 cm in diameter."
+                    },
+                    {
+                        "location": "Near left patella",
+                        "description": "Similar lesion, 5 cm in diameter."
+                    }
+                ],
+                "petechiae": "Noted in the erythematous lesions and on the left flank."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

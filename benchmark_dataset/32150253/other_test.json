@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Serum Calcium Measurement",
+            "date": "Not specified",
+            "findings": "At birth, serum adjusted-calcium was 2.11 mmol/L (8.44 mg/dL); at readmission (7 days of age), serum adjusted-calcium was 1.57 mmol/L (6.28 mg/dL), indicating hypocalcemia.",
+            "changes_over_time": "Over the next 48 hours, serum calcium concentration increased into the normal range."
+        },
+        {
+            "procedure_name": "Serum Phosphate Measurement",
+            "date": "Not specified",
+            "findings": "Elevated serum phosphate of 3.45 mmol/L (10.7 mg/dL); normal range is 1.30 - 2.60 mmol/L (4.0 - 8.0 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum PTH Measurement",
+            "date": "Not specified",
+            "findings": "Inappropriately normal serum PTH of 2.2 pmol/L; normal range is 1.0 - 9.3 pmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Magnesium Measurement",
+            "date": "Not specified",
+            "findings": "Borderline low serum magnesium at 0.62 mmol/L (1.5 mg/dL); normal range is 0.62 - 1.00 mmol/L (1.5 - 2.4 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Treatment with IV Calcium Gluconate",
+            "date": "Not specified",
+            "findings": "Required treatment due to hypocalcemia.",
+            "changes_over_time": "Treatment resulted in a rapid improvement in serum calcium levels."
+        },
+        {
+            "procedure_name": "Treatment with Cholecalciferol",
+            "date": "Not specified",
+            "findings": "Administered to address vitamin D deficiency.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

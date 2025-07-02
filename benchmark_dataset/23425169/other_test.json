@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Two years before admission",
+            "findings": "Inlet patch involving the circumference of the cervical esophagus, multiple erosions of the gastric antrum, antral gastritis, superficial ulcerations in the duodenum, and a prominent mucosal fold in the gastric side of the gastroesophageal junction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Two years before admission",
+            "findings": "Several small polyps; pathological examination showed adenomatous changes and low-grade dysplasia in one polyp, a hyperplastic rectal polyp, and normal fragments of duodenal mucosa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool examination",
+            "date": "Nine months prior to admission",
+            "findings": "Blastocystis hominis found in stool speciment.",
+            "changes_over_time": "Symptoms resolved after treatment with metronidazole."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Eight days before admission",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Four days after admission",
+            "findings": "Grade III esophagitis, erosive or exudative circumferential lesions, excessive fluid in the gastric body, a partially obstructing duodenal ulcer, and multiple ulcers in the second part of the duodenum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pathological examination of biopsy specimens",
+            "date": "After surgical resection",
+            "findings": "Nests of tumor cells with characteristics of neuroendocrine cells; positive for gastrin; classified as a well-differentiated pancreatic neuroendocrine neoplasm (gastrinoma), grade 1.",
+            "changes_over_time": "Serum gastrin levels remained normal after surgery."
+        }
+    ]
+}

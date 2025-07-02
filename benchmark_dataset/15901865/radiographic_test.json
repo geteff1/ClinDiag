@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Nine months before admission",
+            "findings": "Moderately large bilateral pleural effusions, bilateral perihilar pulmonary edema, and cardiomegaly",
+            "changes_over_time": "Five months before admission, there was a decrease in the pleural effusions and interstitial edema, but persistent cardiomegaly."
+        },
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Two weeks before admission",
+            "findings": "Enlargement of the right-sided pleural effusion to the level of the right hilum, with a small left-sided pleural effusion, pulmonary venous hypertension, and diffuse irregular interstitial opacities.",
+            "changes_over_time": "Persistent mild interstitial edema was noted; however, there had been a marked increase in the size of the right-sided pleural effusion."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Four months before admission",
+            "findings": "Cholelithiasis; liver appeared normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "One and a half months before admission",
+            "findings": "No discrete hepatic lesions; bilateral pleural effusions were larger than in previous studies.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

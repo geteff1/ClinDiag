@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with coved-type ST-segment elevations in leads V1 and V2, consistent with type 1 Brugada pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Variant of unknown significance in SCN5A (A109S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic Angiography (CTA)",
+            "date": "Not specified",
+            "findings": "Severe stenosis of the superior vena cava with a large filling defect suggestive of thrombus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

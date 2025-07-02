@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "170/110 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Unremarkable except for significantly high BP and mild left ventricular hypertrophy (LVH) detected at echocardiography.",
+                "biochemical_profile": "Hypokalemia (2.6 mmol/L), low renin (5.4 pg/mL), and undetectable aldosterone values."
+            },
+            "changes_over_time": "After treatment, blood pressure normalized, normal serum potassium concentrations, regular growth rate, and partial regression of LVH at echocardiography."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/110 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "Normal except for BP values of 150/110 mm Hg.",
+                "biochemical_profile": "Hypokalemia, low renin, undetectable aldosterone serum concentrations, and THFs to THE ratio equal to 6.1."
+            },
+            "changes_over_time": "After treatment, blood pressure normalized and normal kalemia reported after 1-year follow-up."
+        }
+    ]
+}

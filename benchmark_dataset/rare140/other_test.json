@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bayley Scales of Infant Development II (BSID-II)",
+            "date": "3 months",
+            "findings": "Gross Motor Quotient (GMQ) of 87, Fine Motor Quotient (FMQ) of 82, Total Motor Quotient (TMQ) of 83, and Psychomotor Development Index (PDI) of 84.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Day 3 after birth",
+            "findings": "Increased total bilirubin (131.2 µmol/L), direct bilirubin (22.2 µmol/L), glutamyl transpeptidase (598 U/L), and alkaline phosphatase (324 U/L).",
+            "changes_over_time": "At 1 month, elevated levels of alanine transaminase (61 U/L), aspartate aminotransferase (86 U/L), total bile acid (109 µmol/L), and phosphorus (3.22 mmol/L) were evident. At 3 months, elevated triglycerides (2.21 mmol/L) were noted, and at 6 months, elevated cholesterol (8.88 mmol/L) was observed."
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "Not specified",
+            "findings": "No obvious abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Spinal MRI",
+            "date": "Not specified",
+            "findings": "No obvious abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Eye examination (including fundus and slit lamp examination)",
+            "date": "Not specified",
+            "findings": "No obvious abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing using the Clinical 4000 Pathogenic Gene Package",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous variation in intron 33 of the NOTCH2 gene (c.5930-2A > G), confirmed as a de novo mutation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Found no other genetic mutations matching the patient's phenotype beyond the NOTCH2 mutation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

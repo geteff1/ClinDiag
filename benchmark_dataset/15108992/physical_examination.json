@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/65 mmHg",
+                "heart_rate": "78 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "None specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "133/72 mmHg",
+                "heart_rate": "75 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "None specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/78 mmHg",
+                "heart_rate": "48 bpm"
+            },
+            "relevant_findings": "Bradycardia was noted with heart rates dropping to as low as 30 bpm before asystole occurred.",
+            "changes_over_time": "Heart rate decreased progressively leading to asystole."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100 – 105 / 50 – 55 mmHg",
+                "heart_rate": "50 – 60 bpm"
+            },
+            "relevant_findings": "Post-resuscitation with stable hemodynamics.",
+            "changes_over_time": "Heart rate stabilized following resuscitation after asystole episode."
+        }
+    ]
+}

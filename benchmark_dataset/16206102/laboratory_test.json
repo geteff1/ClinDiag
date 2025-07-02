@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serological testing for hepatitis B",
+            "date": "October 1997",
+            "findings": "HBsAg negative, HBsAb positive, HBcAb positive; indicates clearance of natural HBV infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function test (AST & ALT)",
+            "date": "June 2000",
+            "findings": "AST level: 183 U/L, ALT level: 64 U/L; indicative of transaminitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serological testing for hepatitis B",
+            "date": "June 2000",
+            "findings": "HBsAg positive, HBeAg positive, HBsAb negative; indicative of active HBV infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function test (AST & ALT)",
+            "date": "October 2000",
+            "findings": "AST level elevated, ALT level unchanged; presence of HBV DNA at 12000 pg/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "November 2000",
+            "findings": "Changes consistent with chronic HBV infection; moderate disease activity and moderate-to-severe fibrosis.",
+            "changes_over_time": "No changes in serological test results; transaminase levels remained elevated."
+        },
+        {
+            "procedure_name": "Viral tests for HBV DNA",
+            "date": "2 January 2001",
+            "findings": "HBV DNA suppressed to undetectable levels while receiving lamivudine.",
+            "changes_over_time": "In July 2001, HBV DNA level elevated to 1370 pg/mL after stopping lamivudine therapy."
+        }
+    ]
+}

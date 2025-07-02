@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 3300 per cubic millimeter; Hematocrit: 0.36; Platelet count: 94,000 per cubic millimeter.",
+            "changes_over_time": "Subsequent CBC showed white-cell count of 2400 per cubic millimeter; Hematocrit decreased to 0.25; Platelet count decreased to 63,000 per cubic millimeter."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Serum aspartate aminotransferase level: 87 U per liter; Serum alkaline phosphatase level: 337 U per liter; Serum calcium level: 7.5 mg per deciliter.",
+            "changes_over_time": "Later liver function test showed increased serum aspartate aminotransferase level of 191 U per liter; alkaline phosphatase level remained at 337 U per liter; total bilirubin level was 13.5 mg per deciliter."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "6 to 10 white cells and an occasional red cell per high-power field.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serology for Histoplasma",
+            "date": "Not specified",
+            "findings": "Complement-fixation studies revealed a histoplasma titer of 1:8 (considered negative). Other tests for fungal and bacterial infections were negative.",
+            "changes_over_time": "Blood cultures at the first hospital ultimately became positive for Histoplasma capsulatum."
+        },
+        {
+            "procedure_name": "Angiotensin-Converting Enzyme (ACE) Level",
+            "date": "Not specified",
+            "findings": "High serum angiotensin-converting enzyme level: 125 IU per liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "Elevated erythrocyte sedimentation rate: 66 mm per hour.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

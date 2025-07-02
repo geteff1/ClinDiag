@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Forced Expiratory Volume in 1 second (FEV1)",
+            "date": "Not specified",
+            "findings": "Baseline FEV1 was 59% of predicted normal value.",
+            "changes_over_time": "FEV1 values progressively increased during treatment, reaching reference normal values (up to 98%) after 4 months."
+        },
+        {
+            "procedure_name": "Skin Prick Test to Wheat Flour and Alpha-Amylase",
+            "date": "After 6 months of omalizumab treatment.",
+            "findings": "Skin prick test revealed the absence of wheal to wheat flour and alpha-amylase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Asthma Control Test (ACT)",
+            "date": "Beginning of treatment and then every month.",
+            "findings": "Initial ACT score was 11, increased up to 25 at the fourth month.",
+            "changes_over_time": "ACT score persisted without any change after reaching 25."
+        },
+        {
+            "procedure_name": "Juniper Asthma Quality of Life Questionnaire",
+            "date": "Beginning of treatment and after 6 months.",
+            "findings": "Remarkable improvement of all individual domains of QoL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

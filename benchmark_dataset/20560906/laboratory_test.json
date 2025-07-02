@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory tests",
+            "date": "Not specified",
+            "findings": "All unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Skin prick tests",
+            "date": "Day 28",
+            "findings": "Bottled camel milk produced 8-mm induration and 30-mm erythema. Cow milk protein reagent produced no reactions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radioallergosorbent tests",
+            "date": "Not specified",
+            "findings": "Peanut >100 kUA/l, soy 32.3 kUA/l, wheat 4.41 kUA/l, nut mixture positive. Results for egg, cow milk, and fish were all negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

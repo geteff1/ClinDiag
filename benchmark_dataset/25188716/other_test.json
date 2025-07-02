@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical Resection",
+            "date": "June 1996",
+            "findings": "Capsular rupture observed during macroscopic examination.",
+            "changes_over_time": "Eight years later, clinical and biochemical recurrence with CT confirming multiple nodules."
+        },
+        {
+            "procedure_name": "Surgical Resection",
+            "date": "March 2000",
+            "findings": "Capsular rupture observed.",
+            "changes_over_time": "Six years post-surgery, the patient exhibited vasomotor symptoms and hypertension again, with CT and imaging showing multiple retroperitoneal nodules."
+        },
+        {
+            "procedure_name": "Surgical Resection",
+            "date": "April 1999",
+            "findings": "Capsule rupture during manipulation; three months post-op, the patient was symptom-free.",
+            "changes_over_time": "Four years later, vasomotor symptoms recurred, and multiple nodules were detected on imaging."
+        },
+        {
+            "procedure_name": "Surgical Resection",
+            "date": "2008",
+            "findings": "Capsular rupture observed, with symptoms resolving and UETM levels normal post-surgery.",
+            "changes_over_time": "Two years later, increased UETM levels were noted, with imaging revealing a new tumor mass."
+        },
+        {
+            "procedure_name": "Surgical Resection",
+            "date": "May 1989",
+            "findings": "Multiple areas of necrosis found on histology after enucleation.",
+            "changes_over_time": "Five months post-surgery, no tumor evidence was found; 16 years later, recurrence was identified with intense tracer uptake on imaging."
+        }
+    ]
+}

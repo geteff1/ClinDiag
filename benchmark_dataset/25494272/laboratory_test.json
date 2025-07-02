@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Two months before presentation",
+            "findings": "2.22 mg/dL (stable; reference range, 0.60 to 1.50 mg per deciliter)",
+            "changes_over_time": "Decreased renal function with levels rising to 3.04 mg/dL on presentation and 3.08 mg/dL 11 days after presentation."
+        },
+        {
+            "procedure_name": "Thyrotropin (TSH)",
+            "date": "Not specified",
+            "findings": "144.10 μU per milliliter (elevated, suggesting nonadherence to levothyroxine therapy).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "19 mm/hr (elevated; reference range, 0–13 mm/hr)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "137 mmol/liter (normal; reference range, 135–145 mmol/liter)",
+            "changes_over_time": "Decreased to 134 mmol/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "4.2 mmol/liter (normal; reference range, 3.4–4.8 mmol/liter)",
+            "changes_over_time": "Increased to 4.5 mmol/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "101 mmol/liter (normal; reference range, 100–108 mmol/liter)",
+            "changes_over_time": "Decreased to 96 mmol/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Carbon Dioxide",
+            "date": "Not specified",
+            "findings": "22.3 mmol/liter (slightly low; reference range, 23.0–31.9 mmol/liter)",
+            "changes_over_time": "Increased to 24.5 mmol/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Urea Nitrogen",
+            "date": "Not specified",
+            "findings": "28 mg/dL (elevated; reference range, 8–25 mg/dL)",
+            "changes_over_time": "Increased to 33 mg/dL 11 days after presentation."
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "2713 U/liter (elevated; reference range, 60–400 U/liter)",
+            "changes_over_time": "Increased to 5358 U/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "90 U/liter (elevated; reference range, 10–40 U/liter)",
+            "changes_over_time": "Increased to 163 U/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "46 U/liter (normal; reference range, 10–55 U/liter)",
+            "changes_over_time": "Increased to 72 U/liter 11 days after presentation."
+        },
+        {
+            "procedure_name": "Cholesterol",
+            "date": "Not specified",
+            "findings": "203 mg/dL (slightly elevated; desirable <200 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "190 mg/dL (elevated; reference range, 40–150 mg/dL)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

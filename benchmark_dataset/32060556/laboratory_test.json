@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Hormone Testing",
+            "date": "Not specified",
+            "findings": {
+                "serum_IGF1": {
+                    "value": "7 nmol/L",
+                    "normal_range": "Not available"
+                },
+                "fasting_serum_GH": {
+                    "value": "<0.03 µg/L",
+                    "normal_range": "Not applicable"
+                },
+                "maximum_arginine_stimulated_SGH": {
+                    "value": "Not available",
+                    "normal_range": "26 µg/L"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH Testing",
+            "date": "Not specified",
+            "findings": {
+                "plasma_ACTH": {
+                    "value": "<5 ng/L",
+                    "normal_range": "10-50 ng/L"
+                },
+                "serum_cortisol": {
+                    "value": "<20 nmol/L",
+                    "normal_range": "150-650 nmol/L"
+                },
+                "maximum_synacthen_stimulated_plasma_cortisol": {
+                    "value": "<20 nmol/L",
+                    "normal_range": "Not available"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH Testing",
+            "date": "Not specified",
+            "findings": {
+                "serum_free_T4": {
+                    "value": "5.3 pmol/L",
+                    "normal_range": "9-19 pmol/L"
+                },
+                "serum_TSH": {
+                    "value": "0.002 mU/L",
+                    "normal_range": "0.6-10 mU/L"
+                },
+                "serum_TSH_during_TRH_test": {
+                    "value": "Not available",
+                    "normal_range": "29.0-50.0"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gonadotropin Testing",
+            "date": "Not specified",
+            "findings": {
+                "serum_inhibin_B": {
+                    "value": "175 ng/L",
+                    "normal_range": "Not available"
+                },
+                "serum_FSH": {
+                    "value": "<0.10 IU/L",
+                    "normal_range": "Not available"
+                },
+                "maximum_serum_FSH_during_GnRH_test": {
+                    "value": "0.2 IU/L",
+                    "normal_range": "Not available"
+                },
+                "serum_LH": {
+                    "value": "<0.10 IU/L",
+                    "normal_range": "Not available"
+                },
+                "maximum_serum_LH_during_GnRH_test": {
+                    "value": "<0.10 IU/L",
+                    "normal_range": "Not available"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

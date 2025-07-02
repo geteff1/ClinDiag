@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": {
+                "PaCO2": "43 mm Hg",
+                "PaO2": "82 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Activated Partial Thromboplastin Time (aPTT)",
+            "date": "Not specified",
+            "findings": {
+                "aPTT": "36 s (normal range 23 –35 s)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": {
+                "PT": "14 s (normal range 10 –14 s)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": {
+                "Platelet Count": "258 /H1100310^9/L (150 –400/H11003109/L)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (QTc interval)",
+            "date": "Not specified",
+            "findings": {
+                "QTc interval": "470 ms (Corrected to 476 ms 5 min after ziprasidone administration; decreased to 436 ms 4 h later)"
+            },
+            "changes_over_time": "QTc interval improved progressively after ziprasidone administration"
+        }
+    ]
+}

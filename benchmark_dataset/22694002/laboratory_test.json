@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm; rate of 66 beats per minute, with incomplete right-bundle-branch block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of the Head and Neck",
+            "date": "Not specified",
+            "findings": "Irregular narrowing of the cervical right internal carotid artery; pseudoaneurysm near the base of the skull.",
+            "changes_over_time": "Persistent pseudoaneurysm that decreased in size on follow-up imaging at 8 months, with apparent resolution of narrowing of the proximal cervical internal carotid artery."
+        }
+    ]
+}

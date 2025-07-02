@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Doppler ultrasound",
+            "date": "Not specified",
+            "findings": "No abnormalities or evidence of calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Funduscopic examination",
+            "date": "February 2006",
+            "findings": "Completely normal at that time.",
+            "changes_over_time": "Progressively developed small peripapillary angioid streaks."
+        },
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "February 2006",
+            "findings": "Characteristic elastic fiber changes featuring a considerable accumulation of clumped fibers in the mid dermis that stained black with von Kossa stain.",
+            "changes_over_time": "No clinical signs of progression in 2009."
+        },
+        {
+            "procedure_name": "Doppler ultrasound",
+            "date": "Not specified",
+            "findings": "No abnormalities and no evidence of calcification.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": "Swollen and irregularly clumped elastic fibers in the mid dermis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

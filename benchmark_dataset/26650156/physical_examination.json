@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "118/50 mmHg",
+                "pulse": "100 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Guarding and tenderness in the right lower quadrant; no hepatomegaly or splenomegaly.",
+                "gynecomastia": "Tender gynecomastia and inguinal lymphadenopathy on the right side; the right testicle larger than the left.",
+                "hepatomegaly": "Up to the umbilicus."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two days before admission",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "report": "Persistent symptoms, cough, sweats, nocturia, dark urine, and intermittent tremors."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Six days before admission",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "report": "Thyroid scintigraphy showed elevated and diffuse uptake of radioactive iodine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

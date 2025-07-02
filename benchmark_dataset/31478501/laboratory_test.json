@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrogram (EGM)",
+            "date": "Not specified",
+            "findings": "During the episode, a period of fast, sustained ventricular tachycardia was recorded, followed by ventricular fibrillation after the first shock. The device delivered the first shock at a low impedance of 24 Ω with a fixed energy level of 80 J and converted the patient back to sinus rhythm with a further shock at a low impedance of 24 Ω.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Device Shock Test",
+            "date": "Not specified",
+            "findings": "The device was confirmed to work properly, delivering shocks at a normal impedance of 57 Ω and a fixed energy level of 80 J.",
+            "changes_over_time": "2 months after the incident, another episode was recorded where the device delivered a shock with normal impedance of 64 Ω and energy level of 80 J."
+        }
+    ]
+}

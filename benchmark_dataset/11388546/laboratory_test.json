@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Oxygen saturation",
+            "date": "Not specified",
+            "findings": "Initial O2 saturation was 100%, decreased to 70% during bronchospasm, improved to 100% after treatment.",
+            "changes_over_time": "O2 saturation decreased from 100% to approximately 95% after administration of rapacuronium, further decreased to 70% during severe bronchospasm, then improved back to 100% after treatment."
+        },
+        {
+            "procedure_name": "Blood pressure",
+            "date": "Not specified",
+            "findings": "Ranged between 90/60 mmHg and 110/50 mmHg.",
+            "changes_over_time": "Blood pressure fluctuated during the event, but specific changes are not noted."
+        },
+        {
+            "procedure_name": "Pulse rate",
+            "date": "Not specified",
+            "findings": "Ranged between 90 and 115 beats/min.",
+            "changes_over_time": "Pulse rate remained within this range; specific changes are not noted."
+        },
+        {
+            "procedure_name": "Oxygen saturation (SpO2)",
+            "date": "Not specified",
+            "findings": "Decreased to 81% after tracheal resection with complete atelectasis on chest radiography.",
+            "changes_over_time": "SpO2 decreased below acceptable levels during the procedure but improved to above 95% with jet ventilation."
+        },
+        {
+            "procedure_name": "Capnography (end-tidal CO2)",
+            "date": "Not specified",
+            "findings": "End-tidal carbon dioxide was noted during ventilation attempts.",
+            "changes_over_time": "Not specified; improvements in ventilation were noted but without explicit values."
+        }
+    ]
+}

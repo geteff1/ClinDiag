@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "Mild, scattered white-matter changes predominantly in the periventricular and subcortical regions, and in the midbrain region indicating chronic microangiopathic disease.",
+            "changes_over_time": "On day 3, new, progressive, hyperintense punctate and linear cortical and subcortical foci bilaterally were observed, some with restricted diffusion suggestive of infarction. A follow-up MRI on day 6 revealed a new punctate focus of restricted diffusion in the right pons, diffuse hyperintense signal in the cerebellar vermis bilaterally, with previously noted findings being unchanged or slightly less conspicuous."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Day 10",
+            "findings": "Numerous new punctate cerebellar infarcts without susceptibility changes suggestive of microhemorrhage.",
+            "changes_over_time": "Previously noted findings were unchanged."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Atelectasis and cholelithiasis but no evidence of cholecystitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

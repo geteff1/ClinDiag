@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Inconsistent findings with frequent abnormalities identified in the left frontal and temporal lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stereotactic EEG",
+            "date": "Not specified",
+            "findings": "Minimal currents of stimulation triggered subjective feelings consistent with convulsive events.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Depth electrode investigation",
+            "date": "2000",
+            "findings": "Abnormalities that were multifocal and involved the anterior cingulate and supplementary motor areas, more active on the left than right, with a left temporal lobe slow wave focus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

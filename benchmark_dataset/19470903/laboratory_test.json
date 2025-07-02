@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Profile",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "58 mg/dL",
+                "triglycerides": "184 mg/dL",
+                "HDL_cholesterol": "4 mg/dL",
+                "apolipoprotein_A_I": "3.9 mg/dL",
+                "apolipoprotein_A_II": "1.7 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrophoresis",
+            "date": "Not specified",
+            "findings": "Virtual absence of HDL lipoproteins observed in 2-dimensional electrophoresis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral Blood Analysis",
+            "date": "Not specified",
+            "findings": "Thrombocytopenia and presence of stomatocytes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

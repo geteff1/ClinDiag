@@ -1,0 +1,39 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "1+ blood and trace protein and ketones by dipstick; 0 to 2 white cells and red cells, few bacteria, and few squamous cells per high-power field, amorphous crystals.",
+            "changes_over_time": "Urinalysis from catheterization tests were negative prior to this instance."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "30.1 (normal range: 33.0–39.0)",
+                "Hemoglobin (g/dl)": "9.7 (normal range: 10.5–13.5)",
+                "White-cell count (per mm3)": "19,500 (normal range: 6000–17,500)",
+                "Neutrophils (%)": "56 (normal range: 17–49)",
+                "Lymphocytes (%)": "38 (normal range: 67–77)",
+                "Platelet count (per mm3)": "774,000 (normal range: 150,000–450,000)",
+                "Erythrocyte sedimentation rate (mm/hr)": "111 (normal range: 0–20)",
+                "C-reactive protein (mg/liter)": "159.3 (normal range: <8.0)",
+                "Aspartate aminotransferase (U/liter)": "129 (normal range: 9–80)",
+                "Alanine aminotransferase (U/liter)": "65 (normal range: 7–30)",
+                "Lactate dehydrogenase (U/liter)": "370 (normal range: 110–210)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Synovial fluid analysis",
+            "date": "Not specified",
+            "findings": {
+                "Nucleated cell count": "75,200 (90% neutrophils)",
+                "pH": "7.44",
+                "Glucose level": "2 mg/dL",
+                "Protein level": "4.9 g/dL"
+            },
+            "changes_over_time": "Within 10 days, repeat Gram stains and cultures were negative after the initial positive indicators."
+        }
+    ]
+}

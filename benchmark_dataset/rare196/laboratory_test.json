@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "At 12 weeks of gestation",
+            "findings": "Normal urinalysis results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound screening",
+            "date": "At 12 weeks of gestation",
+            "findings": "Thickness of fetal nuchal translucency was 3.1 mm; estimated risk of trisomy 21 was 1 in 31.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory tests on admission",
+            "date": "At 18 weeks and 4 days of gestation",
+            "findings": "Serum creatinine 46 uM/L, platelet count 178,000/μL, AST 33 U/L, ALT 27 U/L, albumin 21 g/L; dipstick urinalysis showed 1+ proteinuria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum hCG test",
+            "date": "On the fifth day",
+            "findings": "Serum hCG value was 512,652 IU/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "On the sixth day",
+            "findings": "AST was 92 U/L and ALT was 63 U/L.",
+            "changes_over_time": "AST increased from 33 U/L at 18 weeks and 4 days of gestation to 92 U/L on the sixth day; ALT increased from 27 U/L to 63 U/L."
+        },
+        {
+            "procedure_name": "sFlt-1 and PlGF measurement",
+            "date": "After delivery",
+            "findings": "sFlt-1 12,100 pg/mL, PlGF 44.7 pg/mL, sFlt-1/PlGF ratio 270.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

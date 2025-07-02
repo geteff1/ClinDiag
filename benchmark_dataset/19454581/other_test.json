@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Thyroidectomy",
+            "date": "Not specified",
+            "findings": "A large multinodular goiter was resected, with histology revealing no lymphocyte infiltration.",
+            "changes_over_time": "After thyroidectomy and radioiodine treatment, basal serum TSH concentrations increased, reaching the normal range, and low serum FT4 and FT3 concentrations were associated with appropriate increases in serum TSH concentrations."
+        },
+        {
+            "procedure_name": "Radioiodine therapy",
+            "date": "Not specified",
+            "findings": "30 mCi of radioiodine was administered to control the growth of thyroid tissue from small remnants.",
+            "changes_over_time": "Thyroid hormone levels gradually decreased post-treatment, and hypothyroidism was observed, requiring L-T4 substitution."
+        },
+        {
+            "procedure_name": "Carbimazole treatment",
+            "date": "Not specified",
+            "findings": "High doses of carbimazole (up to 1.7 mg/kg/day) were required to control hyperthyroidism.",
+            "changes_over_time": "Relapses of thyrotoxicosis occurred after treatment discontinuation, indicating episodes of poor compliance."
+        }
+    ]
+}

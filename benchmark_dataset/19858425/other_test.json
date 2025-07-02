@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Incomplete right bundle-branch block.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Poor quality owing to severe pectus excavatum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary function testing",
+            "date": "Not specified",
+            "findings": "Restrictive pattern with vital capacity of 2.50 L (66% of predicted) and total lung capacity of 3.32 L (65% of predicted).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tilt table testing",
+            "date": "Not specified",
+            "findings": "Documented drop in both blood pressure and pulse wave amplitude; loss of consciousness at 2 minutes and 30 seconds.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiovascular magnetic resonance imaging (CMR)",
+            "date": "Not specified",
+            "findings": "Marked compression of the inferior vena cava at end expiration and increased mean flow velocity at end expiration with a blunted flow pattern.",
+            "changes_over_time": "Showed no IVC compression post-surgery."
+        },
+        {
+            "procedure_name": "Expiratory-phase chest computed tomography scan",
+            "date": "Not specified",
+            "findings": "Anterior-posterior intrathoracic distance of 1.2 cm, pectus severity index of 18.8 (severe).",
+            "changes_over_time": "Marked improvement in minimal expiratory thoracic depth from 1.2 cm to 5.7 cm post-surgery."
+        }
+    ]
+}

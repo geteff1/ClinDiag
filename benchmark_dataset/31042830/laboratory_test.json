@@ -1,0 +1,95 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "11,800 per cubic millimeter",
+                "hemoglobin": "12.9 g per deciliter",
+                "mean_corpuscular_volume": "97.1 fl",
+                "platelet_count": "289,000 per cubic millimeter"
+            },
+            "changes_over_time": {
+                "white_cell_count": {
+                    "initial": "11,800 per cubic millimeter",
+                    "subsequent": "7350 per cubic millimeter"
+                },
+                "hemoglobin": {
+                    "initial": "12.9 g per deciliter",
+                    "subsequent": "11.9 g per deciliter"
+                },
+                "platelet_count": {
+                    "initial": "289,000 per cubic millimeter",
+                    "subsequent": "291,000 per cubic millimeter"
+                }
+            }
+        },
+        {
+            "procedure_name": "Serum Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "143 mmol per liter",
+                "potassium": "4.1 mmol per liter",
+                "chloride": "104 mmol per liter",
+                "bicarbonate": "28 mmol per liter",
+                "blood_urea_nitrogen": "20 mg per deciliter",
+                "creatinine": "0.7 mg per deciliter",
+                "calcium": "8.8 mg per deciliter",
+                "magnesium": "2.1 mg per deciliter",
+                "phosphorus": "3.3 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "aspartate_aminotransferase": "36 U per liter",
+                "alanine_aminotransferase": "36 U per liter",
+                "total_bilirubin": "1.0 mg per deciliter",
+                "direct_bilirubin": "0.3 mg per deciliter",
+                "alkaline_phosphatase": "270 U per liter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": {
+                "value": "77 mm per hour",
+                "normal_range": "0 to 15 mm per hour"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": {
+                "value": "0.94 mg per deciliter",
+                "normal_range": "0 to 0.75 mg per deciliter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoalveolar Lavage",
+            "date": "Not specified",
+            "findings": {
+                "neutrophils": "83%",
+                "monocytes": "12%",
+                "lymphocytes": "4%",
+                "eosinophils": "1%",
+                "gram_staining": "negative",
+                "routine_culture": "rare amounts of methicillin-sensitive Staphylococcus aureus and Candida albicans"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": {
+                "activity": "diffuse, spontaneous activity with myotonic discharges"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

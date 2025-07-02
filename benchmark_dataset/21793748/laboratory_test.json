@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "29.1% (reference range for nonpregnant women: 36.0 to 46.0)",
+            "changes_over_time": "Decreased from 33.6% to 17.6% post partum; subsequent readings at 27 weeks showed 29.1% and at 34 weeks 34.3%"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.1 g/dL (reference range for nonpregnant women: 12.0 to 16.0)",
+            "changes_over_time": "Postpartum hemoglobin was 9.3 g/dL on postoperative day 1; increased to 10.3 g/dL on postoperative day 8 and to 11.4 g/dL on postoperative day 20"
+        },
+        {
+            "procedure_name": "Iron studies",
+            "date": "Postoperative day 20",
+            "findings": "Ferritin: 66 ng/mL, Iron: 89 μg/dL, Total iron-binding capacity: 273 μg/dL (all within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "20 weeks 6 days gestation",
+            "findings": "Suggestive of placenta accreta (right lateral complete placenta previa, large echolucencies in the placenta)",
+            "changes_over_time": "High risk of placenta accreta increased from 40% to more than 60% after initial ultrasound at 20 weeks"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "27 weeks gestation",
+            "findings": "Complete placenta previa confirmed with signs of placenta accreta",
+            "changes_over_time": "Previously noted signs of accreta were unequivocal; prior ultrasound indicated additional evaluation was unnecessary"
+        }
+    ]
+}

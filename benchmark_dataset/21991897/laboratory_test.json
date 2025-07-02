@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Initially 39.0%, then dropped to 23.2% upon admission at another hospital, and stabilized at 26.3% on the second day at this hospital.",
+            "changes_over_time": "Significant decrease from 39.0% to 23.2% over time."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Initially 12.7 g/dL, then dropped to 7.9 g/dL upon admission at another hospital, and stabilized at 8.2 g/dL on the second day at this hospital.",
+            "changes_over_time": "Significant decrease from 12.7 g/dL to 7.9 g/dL."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "Initially 5200 per mm3, rose to 16,300 per mm3 upon admission at another hospital, and then peaked at 20,000 per mm3 on the second day at this hospital.",
+            "changes_over_time": "Rising trend observed: from 5200 to 20,000 per mm3."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Initially 0.74 mg/dL, rose to 6.60 mg/dL upon admission at another hospital, and further increased to 6.79 mg/dL on the second day at this hospital.",
+            "changes_over_time": "Consistent increase from 0.74 mg/dL to 6.79 mg/dL."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "Not specified",
+            "findings": "Initially 18 mg/dL, rose to 140 mg/dL upon admission at another hospital, then decreased to 122 mg/dL on the second day at this hospital.",
+            "changes_over_time": "Increase from 18 mg/dL to 140 mg/dL, followed by a decrease."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Initially 4.4 mmol/L, rose to 6.0 mmol/L upon admission at another hospital, then decreased to 4.0 mmol/L on the second day at this hospital.",
+            "changes_over_time": "Peak at 6.0 mmol/L followed by a decrease."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Consistent levels of 141 mmol/L on the day before admission and the second day at this hospital.",
+            "changes_over_time": "No significant changes."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "Initially 152 mg/dL, then decreased to 142 mg/dL on the second day at this hospital.",
+            "changes_over_time": "Slight decrease from 152 mg/dL to 142 mg/dL."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Initially 4.4 g/dL, then decreased to 2.8 g/dL upon admission at another hospital, and later increased to 3.1 g/dL on the second day at this hospital.",
+            "changes_over_time": "Decreased from 4.4 g/dL to 2.8 g/dL, then increased to 3.1 g/dL."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "< 8.0 mg/L, elevated to 113.2 mg/L.",
+            "changes_over_time": "Significant increase."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "Initially at 274 U/L, rose to 914 U/L upon admission at another hospital, peaking at 2930 U/L on the second day at this hospital.",
+            "changes_over_time": "Dramatic increase from 274 U/L to 2930 U/L."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "0.86 ng/ml (reference <0.04), indicating elevated troponin.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

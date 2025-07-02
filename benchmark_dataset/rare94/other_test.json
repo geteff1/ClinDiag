@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trio-exome sequencing",
+            "date": "Not specified",
+            "findings": "Revealed a NM:058172.5:c.1294C > T p.(R432X) nonsense mutation in exon 15 of the ANTXR2 gene and a 4.41-kb deletion in 4q21.21.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the missense mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative polymerase chain reaction (qPCR)",
+            "date": "Not specified",
+            "findings": "Identified the gross deletion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

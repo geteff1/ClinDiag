@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolyte Levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tests of Kidney Function",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "QT Interval Measurement",
+            "date": "Not specified",
+            "findings": "QT interval 400 msec, corrected QT interval 448 msec",
+            "changes_over_time": "QT interval increased to 540 msec, corrected QT interval 493 msec on day 6"
+        },
+        {
+            "procedure_name": "Catecholamine Metabolite Measurement",
+            "date": "Not specified",
+            "findings": "Plasma levels of norepinephrine 3556 pg/mL, elevated urinary levels of epinephrine, norepinephrine, and dopamine",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

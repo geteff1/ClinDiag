@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "mean_arterial_oxygen_partial_pressure_fiO2_ratio": "308 630 mmHg",
+                "minute_ventilation": "7.7 61 l/min",
+                "arterial_carbon_dioxide_partial_pressure_minute_ventilation_ratio": "7.2 61.35 mmHg zl 21 z min21"
+            },
+            "relevant_findings": "The patient demonstrated major sleep disturbances, extreme anxiety, and apprehension secondary to multiple life-threatening episodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "28 days postoperatively",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Definitive closure of bronchopleural fistulae was obtained.",
+            "changes_over_time": "Pleural infection resolved 48 days postoperatively."
+        },
+        {
+            "date": "77th postoperative day",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A tracheotomy was performed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

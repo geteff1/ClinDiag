@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal white-cell differential count; blood levels of electrolytes, calcium, glucose, urea nitrogen, and creatinine were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Indeterminate nodule (3 mm in diameter) in the left upper lobe; otherwise normal.",
+            "changes_over_time": "Follow-up CT revealed enlarging lung metastases."
+        },
+        {
+            "procedure_name": "CT scans (5 months after tumor resection)",
+            "date": "Not specified",
+            "findings": "Decrease in the size of the L5–S1 mass of more than 50% and reduction in the size of the duodenal metastasis of more than 80%.",
+            "changes_over_time": "Five months after radiotherapy, the patient had a left ureteral obstruction."
+        },
+        {
+            "procedure_name": "Follow-up CT",
+            "date": "5 months after completion of radiotherapy",
+            "findings": "Reveal decrease in the size of the L5–S1 mass of more than 50% and reduction in the size of the duodenal metastasis of more than 80%.",
+            "changes_over_time": "Chest CT revealed enlarging lung metastases."
+        }
+    ]
+}

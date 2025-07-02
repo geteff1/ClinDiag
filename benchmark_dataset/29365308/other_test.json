@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Glucose Test",
+            "date": "Not specified",
+            "findings": "On admission, blood glucose level was 39 mg per deciliter (2.2 mmol per liter); 30 minutes later, it was 13 mg per deciliter (<0.6 mmol per liter); after feeding, it increased to 73 mg per deciliter (41 mmol per liter).",
+            "changes_over_time": "Blood glucose decreased significantly during fasting and increased after feeding."
+        },
+        {
+            "procedure_name": "Whole-Blood Pyruvate Level Measurement",
+            "date": "Not specified",
+            "findings": "Elevated to 0.44 mmol per liter (reference range, 0.08 to 0.16).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Insulin Measurement",
+            "date": "Not specified",
+            "findings": "Measured at 6.0 μIU per milliliter (reference range, 2.6 to 25.0), noted to be hemolyzed.",
+            "changes_over_time": "A repeat measurement during a subsequent hypoglycemic episode showed insulin less than 0.2 μIU per milliliter."
+        },
+        {
+            "procedure_name": "C-Peptide Measurement",
+            "date": "Not specified",
+            "findings": "Low at 0.7 ng per milliliter (reference range, 1.1 to 4.4).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Clear, colorless urine with specific gravity of 1.005 and pH of 6.0; ketones were absent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of glycogen storage disease type I with mutations in the G6PC gene.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

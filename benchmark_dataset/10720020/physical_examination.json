@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "100/60 mmHg",
+                "cholesterol": "147 mg/dL",
+                "triglycerides": "84 mg/dL",
+                "HbA1c_previous_year": "7.1-7.3%"
+            },
+            "relevant_findings": {
+                "hemiplegia": "Observed on admission",
+                "left_hemiparesis": "Present on hospital discharge"
+            },
+            "changes_over_time": "Patient showed progressive recovery of upper limb motility and became independent regarding everyday life needs over a 1-year follow-up."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit": "32.0% (ref 40.0–59.0)",
+                "Hemoglobin": "11.0 g/dL (ref 13.5–18.0)",
+                "White-cell count": "6600 (ref 4500–11,000)",
+                "Platelet count": "145,000 (ref 150,000–450,000)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Bilirubin": {
+                    "Total": "1.8 mg/dL (ref 0.1–1.0)",
+                    "Direct": "0.3 mg/dL (ref 0.0–0.4)"
+                },
+                "Alkaline phosphatase": "561 U/L (ref 74–390)",
+                "Aspartate aminotransferase": "60 U/L (ref 15–46)",
+                "Alanine aminotransferase": "45 U/L (ref 13–69)"
+            },
+            "changes_over_time": "Elevated levels noted over various tests."
+        },
+        {
+            "procedure_name": "Hematology",
+            "date": "First Hospital, 13 Yr 0 Mo of Age",
+            "findings": {
+                "Hematocrit": "32.0% (ref 40.0–59.0)",
+                "Hemoglobin": "11.0 g/dL (ref 13.5–18.0)",
+                "White-cell count": "6600 (ref 4500–11,000)",
+                "Platelet count": "145,000 (ref 150,000–450,000)"
+            },
+            "changes_over_time": "Increased Platelet Count to 175,000 (14 Yr 0.5 Mo of Age) then decreased to 93,000 (14 Yr 8.5 Mo of Age)."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "Histology": "Nodular regenerative hyperplasia, minimal fibrosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

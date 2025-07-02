@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Left kidney was atrophic; right kidney normal except for the presence of a single cortical cyst of 12-mm diameter.",
+            "changes_over_time": "At the last follow-up, creatinine clearance decreased from 46 ml/min to 25 ml/min."
+        },
+        {
+            "procedure_name": "Intravenous urography",
+            "date": "Not specified",
+            "findings": "Only the right kidney was functional.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postnatal renal ultrasonography",
+            "date": "At birth",
+            "findings": "Bilateral renal atrophy with multiple microcysts.",
+            "changes_over_time": "Renal function improved within the following weeks, with creatinine levels decreasing from 123 µmol/l at birth to 50 µmol/l at 2 and 6 months of age."
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "At age 34",
+            "findings": "Did not show any abnormality.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "At age 59",
+            "findings": "Showed a single right kidney.",
+            "changes_over_time": "Creatinine levels increased up to 400 µmol/l just before death."
+        }
+    ]
+}

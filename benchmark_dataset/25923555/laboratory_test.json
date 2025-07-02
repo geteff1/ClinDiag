@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "FVC": "3.45 liters (101% of predicted value)",
+                "FEV1": "2.62 liters (97%)",
+                "FEV1/FVC ratio": "0.76",
+                "Total Lung Capacity": "5.30 liters (97%)",
+                "Carbon Monoxide Diffusing Capacity": "22.4 (92%)"
+            },
+            "changes_over_time": "Normal results at the initial evaluation; no changes specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Aspartate Aminotransferase": "56 U/L (reference range, 9 to 32)",
+                "Alanine Aminotransferase": "60 U/L (reference range, 7 to 30)"
+            },
+            "changes_over_time": "Mildly elevated levels of aminotransferases noted."
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Test (ANA)",
+            "date": "Not specified",
+            "findings": "Positive at 1:40 dilution (reference range, negative at 1:40 and 1:160 dilutions)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "2.5 months after initial evaluation",
+            "findings": "Largely unchanged; presence of an 8-mm nodule in the left apex.",
+            "changes_over_time": "Stable compared to the initial CT findings."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.9 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "grade_of_murmurs": "Grade 3/6 systolic and diastolic murmurs",
+                "pulsations": "Bounding pulses and 'pistol shot' pulsations in femoral arteries",
+                "digital_clubbing": true,
+                "skin_findings": "120 purpuric, nonpruritic, discrete 1- to 3-cm diameter maculopapules and papules from ankles to midthighs"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4 °C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "grade_of_murmurs": "Not specified",
+                "pulsations": "Not specified",
+                "digital_clubbing": "Not specified",
+                "skin_findings": "Pruritic lower extremity rash"
+            },
+            "changes_over_time": "Initial intermittent high-grade fevers worsened over the two years with new symptoms"
+        }
+    ]
+}

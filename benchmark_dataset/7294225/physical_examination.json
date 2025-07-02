@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "dry_skin": true,
+                "sparse_hair": true,
+                "temporal_balding": true,
+                "thinning_of_eyebrows": true,
+                "non_pitting_pretibial_edema": true,
+                "flexion_contractures": true,
+                "left_sided_pes_valgus": true,
+                "diminished_tendon_reflexes": true,
+                "absent_brachioradialis_reflexes": true,
+                "absent_ankle_jerks": true,
+                "Babinski_sign": true,
+                "decreased_motor_strength_on_left": true,
+                "ataxic_gait": true
+            },
+            "changes_over_time": "Mental status returned to normal with gradual thyroid replacement; T4 and TSH levels normalized within 45 days."
+        }
+    ]
+}

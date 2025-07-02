@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "description": "Physical examination revealed a well-developed, normally proportioned newborn in no distress. The phallus measured 1.5 cm, and there was a bifid scrotum with bilateral palpable gonads and a scrotal urethral meatus. No uterus or vagina was visualized.",
+                "additional_notes": "No hyperpigmentation."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 months",
+            "vital_signs": {
+                "LH": "22.3 U/liter (normal range 1–8 U/liter)",
+                "testosterone": "0.58 ng/ml (normal range 0.3–2.3 ng/ml)",
+                "17-hydroxyprogesterone": "6.70 ng/ml (normal range 0.1–1.7 ng/ml)",
+                "cortisol": "normal",
+                "other": {
+                    "definition": "Insufficient rise of testosterone after hCG stimulation",
+                    "stimulus": "1500 IU Pregnyl im"
+                }
+            },
+            "relevant_findings": {
+                "description": "Hormone analysis showed elevated LH and insufficient rise of testosterone after hCG stimulation, along with elevated basal levels of 17-hydroxyprogesterone.",
+                "additional_notes": "Cortisol levels were normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4.5 months",
+            "vital_signs": {
+                "cortisol": "Normal rise after ACTH stimulation (0.25 mg Synacthen iv)"
+            },
+            "relevant_findings": {
+                "description": "ACTH stimulation test showed a significant rise in 17-hydroxyprogesterone levels, while androstenedione and DHEA did not increase.",
+                "additional_notes": {
+                    "plasma_ACTH_level": "Normal at 10 pg/ml",
+                    "serum_DHEA_sulfate": "Nondetectable"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 months",
+            "vital_signs": {
+                "methemoglobin_level": "0.061 mol/mol Hb (normal range 0.001–0.015 mol/mol Hb)"
+            },
+            "relevant_findings": "Methemoglobin level was only mildly elevated with no clinical signs of methemoglobinemia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

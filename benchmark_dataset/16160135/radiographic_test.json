@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "octreotide scan",
+            "date": "Not specified",
+            "findings": "Extensive imaging, including octreotide scanning, has been unrevealing in locating the causative tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "whole-body magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Whole-body magnetic resonance imaging has been unsuccessful in locating a tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography",
+            "date": "Not specified",
+            "findings": "Computed tomography has been unsuccessful in locating a tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bone scintigraphy",
+            "date": "Not specified",
+            "findings": "Technecium Tc 99 bone scintigraphy demonstrates diffuse skeletal uptake, referred to as a 'superscan', and focal uptake at sites of fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

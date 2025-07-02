@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Not specified",
+            "findings": "Extensive acellular eosinophilic material staining strongly positive with Congo red; moderate tubular atrophy, interstitial fibrosis, and arteriosclerosis; negative for IgG, IgA, k, and l on immunofluorescence.",
+            "changes_over_time": "Serum creatinine increased from 2.4 mg/dl to 2.8 mg/dl over two months, prompting the biopsy."
+        },
+        {
+            "procedure_name": "Gastrointestinal endoscopic biopsy",
+            "date": "Not specified",
+            "findings": "Detected amyloid in the gastric, duodenal, and rectal mucosa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate to severe concentric increase in left ventricular wall thickness; left ventricular ejection fraction of 68%; systolic left ventricular cavity obliteration during Valsalva maneuver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, normal voltage QRS complexes, no Q waves; t-wave inversion in leads I and aVL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pyrophosphate scan ([99mTc]-PYP)",
+            "date": "Not specified",
+            "findings": "Did not detect myocardium tracer uptake.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac gadolinium magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Not performed due to renal failure.",
+            "changes_over_time": "Not applicable."
+        }
+    ]
+}

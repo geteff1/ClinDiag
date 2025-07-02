@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Findings consistent with the diagnosis of sarcoidosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Well-formed, noncaseating granulomas. Stains for acid-fast bacilli and methenamine silver stains for fungus were negative.",
+            "changes_over_time": "The initial report was normal but later re-evaluated to show granulomas."
+        },
+        {
+            "procedure_name": "Transbronchial biopsy",
+            "date": "Not specified",
+            "findings": "Well-formed, noncaseating granulomas.",
+            "changes_over_time": "Stains for acid-fast bacilli and fungal and Gram’s stains were negative."
+        },
+        {
+            "procedure_name": "Bronchoalveolar lavage",
+            "date": "Not specified",
+            "findings": "No abnormalities found.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

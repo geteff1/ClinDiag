@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cervical spine radiograph",
+            "date": "Not specified",
+            "findings": "Anterior subluxation of C2 on C3, with marked segmental kyphosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Disc-space changes at C2-C3 consistent with infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography",
+            "date": "Not specified",
+            "findings": "No evidence of fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone scan with SPECT",
+            "date": "Not specified",
+            "findings": "Slight posterior uptake at C2-C3 consistent with trauma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cervical spine radiograph",
+            "date": "One week postoperatively",
+            "findings": "Improved alignment between C2 and C3, no subluxation at C3-C4, mild kyphotic angulation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cervical spine radiograph",
+            "date": "Six weeks postoperatively",
+            "findings": "Anterior subluxation of C3 on C4 with kyphotic angulation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cervical spine radiograph",
+            "date": "Three months after the second operation",
+            "findings": "New C4-C5 subluxation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

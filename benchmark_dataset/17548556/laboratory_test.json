@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sirolimus levels",
+            "date": "Not specified",
+            "findings": "14.7 ng/mL (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure measurements",
+            "date": "Not specified",
+            "findings": "On admission: 129/78; maximum recorded after sirolimus withdrawal: 173/89; remained stable afterward in the range of 130/70.",
+            "changes_over_time": "Became hypertensive 24 hours after sirolimus withdrawal; stable during sirolimus reintroduction."
+        },
+        {
+            "procedure_name": "Visual acuity assessment",
+            "date": "3 months later",
+            "findings": "20/60 in the right eye and 20/40 in the left with an incomplete homonymous hemianopsia.",
+            "changes_over_time": "Worsened on sirolimus reintroduction and improved to the stated findings 3 months later."
+        },
+        {
+            "procedure_name": "Head CT",
+            "date": "Not specified",
+            "findings": "Essentially unchanged except for diminished density of the hematoma.",
+            "changes_over_time": "Margins of the hematoma became less clear; repeat MRI 61 days after presentation showed resolution of PRES."
+        },
+        {
+            "procedure_name": "Serum creatine kinase",
+            "date": "Not specified",
+            "findings": "6.8 kU/L (normal <12.5).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Mild left atrial enlargement; left atrial to aortic ratio of 1.5; septal thickness of 0.74 cm; left ventricular diastolic diameter of 3.98; shortening fraction of 35%; normal diastolic function with long isovolumetric relaxation time of 53 msec.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Hypotrophy of numerous type 1 muscle fibers; apparent absence of type 2B fibers.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

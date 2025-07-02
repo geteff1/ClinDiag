@@ -1,0 +1,17 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute inflammatory demyelinating polyneuropathy",
+        "differential_diagnosis": [
+            "Charcot-Marie-Tooth disease type 1A (CMT1A)",
+            "Guillain-Barre syndrome (GBS)",
+            "chronic inflammatory demyelinating polyradiculoneuropathy (CIDP)",
+            "paraneoplastic neuropathy",
+            "toxic neuropathy (e.g., arsenic poisoning)",
+            "infectious neuropathies (e.g., Lyme disease, HIV, hepatitis C)",
+            "vasculitis",
+            "meningeal carcinomatosis",
+            "cervical cord lesion"
+        ],
+        "diagnostic_reasoning": "The patient's symptoms of rapid onset and progression, alongside nerve conduction studies showing markedly prolonged motor distal latencies and features inconsistent with his asymptomatic CMT1A, indicated an acute inflammatory demyelinating process. The workup ruled out various causes, and the findings of temporal dispersion and albuminocytologic dissociation in CSF suggest the presence of an underlying inflammatory neuropathy superimposed on the genetic condition."
+    }
+}

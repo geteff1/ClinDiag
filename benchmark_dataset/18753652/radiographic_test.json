@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Linear density in the peripheral right upper lobe thought to be atelectasis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Slightly decreased liver echotexture suggestive of edema, no intrahepatic biliary ductal dilatation, normal gallbladder, common bile duct 5 mm in diameter, diffusely hypoechoic pancreas, normal spleen, left renal cyst 1.4 cm in diameter, no hydronephrosis or stones.",
+            "changes_over_time": "Follow-up ultrasound revealed new dilatation of the main pancreatic duct."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Seventh hospital day",
+            "findings": "Normal pancreas, minimal dilatation of proximal intrahepatic biliary tree, right adrenal adenoma 1.2 cm in diameter, and scattered benign hepatic cysts.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "On second and third hospital days",
+            "findings": "New dilatation of the main pancreatic duct and kidneys of normal size, no evidence of renal-artery stenosis.",
+            "changes_over_time": "Prior ultrasonography showed normal kidneys and pancreas obscured by bowel gas."
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "4 months before admission",
+            "findings": "Normal kidneys, pancreas obscured by bowel gas.",
+            "changes_over_time": "Subsequent ultrasound during admission showed diffusely increased echogenicity of kidneys, with new, diffusely increased echogenicity."
+        }
+    ]
+}

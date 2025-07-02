@@ -1,0 +1,16 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "West Nile virus neuroinvasive disease",
+        "differential_diagnosis": [
+            "infectious gastroenteritis",
+            "viral gastroenteritis",
+            "opportunistic pathogens",
+            "lupus enteritis (mesenteric vasculitis)",
+            "drug-related gastrointestinal side effects",
+            "bacterial meningitis",
+            "viral meningitis",
+            "lupus cerebritis"
+        ],
+        "diagnostic_reasoning": "The patient's initial presentation with diarrhea and fever suggested a viral gastroenteritis. However, her history of systemic lupus erythematosus and immunosuppressive therapy raised concern for more severe infections and alternative diagnoses. The development of meningeal signs and altered mental status indicated a possible meningoencephalitis. CSF analysis revealed lymphocytic predominance and elevated protein, consistent with viral causes, leading to the consideration of West Nile virus, which was later confirmed by PCR testing."
+    }
+}

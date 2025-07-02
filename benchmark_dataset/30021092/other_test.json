@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "7 years ago",
+            "findings": "Barrett’s esophagus diagnosed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Neurologic Examination",
+            "date": "4 months before admission",
+            "findings": "Weakness on hip flexion and hip extension; changes in sensation and proprioception.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Testing",
+            "date": "Admission",
+            "findings": "Deficiencies in multiple vitamins and minerals including low blood levels of folate, vitamin B6, and vitamin C.",
+            "changes_over_time": "Within 2 days after vitamin supplementation was initiated, the patient could stand without assistance and experienced significant improvement in fatigue and strength."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "34.3% (reference range 41.0-53.0)",
+                "Hemoglobin (g/dL)": "11.8 (reference range 13.5-17.5)",
+                "White-cell count": "9100 per mm3 (reference range 4500-11,000)",
+                "Platelet count": "160,000 per mm3 (reference range 150,000-400,000)"
+            },
+            "changes_over_time": "Thrombocytopenia was noted, with platelet counts decreasing from 160,000 to 70,000 over subsequent days."
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "130 mmol/L (reference range 135-145)",
+                "Other Electrolytes": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Iron Studies",
+            "date": "Not specified",
+            "findings": {
+                "Serum Iron": "50 µg/dL (reference range 45-160)",
+                "Iron-Binding Capacity": "220 µg/dL (reference range 228-429)",
+                "Ferritin": "540 ng/mL (reference range 30-300)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Protein": "Trace",
+                "Occult Blood": "3+",
+                "Red Blood Cells": "20 to 50 per high-power field",
+                "Hyaline Casts": "3 to 5 per low-power field"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

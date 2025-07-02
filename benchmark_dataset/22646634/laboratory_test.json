@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "199 mg/dL (11.0 mmol/L) - outside normal range (reference range, 70 to 110 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "217 U/L - outside normal range (reference range, 110 to 210 U/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI - Brain",
+            "date": "Not specified",
+            "findings": "Two adjacent masses in the left occipital and posterior parietal regions with mass effect and abnormal signal hyperintensity",
+            "changes_over_time": "On the second day, an MRI showed two heterogeneous lesions with restricted diffusion and extensive signal abnormality; on follow-up MRI three months after surgery, new enhancement was noted."
+        },
+        {
+            "procedure_name": "MRI - Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "No evidence of cancer",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan - Chest",
+            "date": "Not specified",
+            "findings": "No evidence of cancer",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI - Brain (Post-Radiation)",
+            "date": "Not specified",
+            "findings": "Irregular enhancement and mass effect around the surgical cavity, extensive edema observed",
+            "changes_over_time": "Follow-up MRI at 18 months showed reduced enhancement and mass effect."
+        },
+        {
+            "procedure_name": "Biopsy - Left Occipital Lobe",
+            "date": "Not specified",
+            "findings": "Extensive necrotic debris with microcalcifications, some atypical glial cells, no solid tumor present - consistent with pseudoprogression",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy - Right Temporal Lobe",
+            "date": "Not specified",
+            "findings": "Densely cellular, viable, and mitotically active tumor, diagnostic of recurrent glioblastoma",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Pneumonia in the right lower and middle lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "26 days before admission",
+            "findings": "Right-sided pleural effusion.",
+            "changes_over_time": "Improvement noted in follow-up examinations."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Opacities in the right middle and lower lobes and a right-sided pleural effusion; the left lung was clear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions larger on the right side, consolidation within the lateral segment of the right middle lobe, and patchy areas of air-space disease in the left lower and right upper lobes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging",
+            "date": "Early hours of the second hospital day",
+            "findings": "Markedly limited by severe motion artifact; no abnormal extra-axial fluid collection or mass detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

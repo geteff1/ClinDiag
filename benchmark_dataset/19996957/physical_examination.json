@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Postoperative Day 4",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "168/78 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_tenderness": "slight",
+                "stool": "diarrheic from ileostomy",
+                "cardiac_examination": "normal",
+                "pulmonary_auscultation": "normal"
+            },
+            "changes_over_time": {
+                "fever": "transient peak to 38.4°C the day before",
+                "confusion": "several episodes of confusion, logorrhea, and disorientation"
+            }
+        }
+    ]
+}

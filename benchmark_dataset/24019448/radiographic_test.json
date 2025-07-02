@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "cardiomegaly with pulmonary edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "thickened mitral-valve leaflets, commissural fusion, thickened subvalvular structures, severe mitral stenosis, severe resting pulmonary hypertension, left atrium dimension 35 mm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

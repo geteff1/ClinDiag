@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "90/60 mm Hg",
+                "pulse": "116 beats per minute",
+                "respiratory_rate": "36 breaths per minute",
+                "oxygen_saturation": "76% (increasing to 98% with supplemental oxygen)"
+            },
+            "relevant_findings": "Diminished breath sounds.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately 3 months before this evaluation",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "91% (breathing ambient air)"
+            },
+            "relevant_findings": "Rhonchi in both lungs; clubbing of fingers and toes.",
+            "changes_over_time": "Oxygen saturation at rest was stable at 91%."
+        },
+        {
+            "date": "Three weeks before evaluation at this hospital",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "91% (decreased to 86% with exertion)"
+            },
+            "relevant_findings": "Physical examination unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three months later (admission)",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "blood_pressure": "116/62 mm Hg",
+                "pulse": "77 beats per minute",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "98% (breathing supplemental oxygen)"
+            },
+            "relevant_findings": "Diffuse crackles bilaterally, decreased expansion of the rib cage.",
+            "changes_over_time": "Physical examination unchanged."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "105/70 mm Hg",
+                "pulse": "104 beats per minute",
+                "respiratory_rate": "22 breaths per minute",
+                "oxygen_saturation": "91% (while breathing ambient air)"
+            },
+            "relevant_findings": "Skin pale; horizontal nystagmus; decreased breath sounds bilaterally; digital clubbing.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

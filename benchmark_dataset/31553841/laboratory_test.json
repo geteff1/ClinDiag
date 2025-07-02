@@ -1,0 +1,57 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin": "10.6 g/dl (low)",
+                "Hematocrit": "33.0% (low)",
+                "White-cell count": "12,740 per mm3 (high)",
+                "Platelet count": "341,000 per mm3 (normal)"
+            },
+            "changes_over_time": "Hemoglobin and hematocrit levels decreased; white-cell count was elevated."
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "Sodium": "138 mmol/L (normal)",
+                "Potassium": "4.6 mmol/L (normal)",
+                "Chloride": "97 mmol/L (normal)",
+                "Carbon dioxide": "28 mmol/L (normal)",
+                "Urea nitrogen": "15 mg/dl (normal)",
+                "Creatinine": "0.61 mg/dl (normal)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Biomarkers",
+            "date": "Not specified",
+            "findings": {
+                "Troponin T": "0.19 ng/ml (elevated prior), 0.21 ng/ml (elevated), 0.22 ng/ml (elevated), 1.08 ng/ml (increased), 1.68 ng/ml (increased)"
+            },
+            "changes_over_time": "Troponin T levels rose significantly over the hospital course."
+        },
+        {
+            "procedure_name": "Coagulation Studies",
+            "date": "Not specified",
+            "findings": {
+                "Prothrombin time": "16.6 sec (prolonged)",
+                "International normalized ratio": "1.4 (elevated)",
+                "Partial-thromboplastin time": "37.9 sec (prolonged)",
+                "D-dimer": "2006 ng/ml (elevated)"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "Calcium": "8.1 mg/dl (low)",
+                "Albumin": "2.5 g/dl (low)",
+                "N-terminal pro–B-type natriuretic peptide": "477 pg/ml (elevated)"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

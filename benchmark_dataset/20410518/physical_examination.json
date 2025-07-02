@@ -1,0 +1,115 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "118/70 mm Hg",
+                "pulse": "60 bpm",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": [
+                    {
+                        "condition": "ambient air",
+                        "value": "78%"
+                    },
+                    {
+                        "condition": "supplemental oxygen (6 liters)",
+                        "value": "91%"
+                    },
+                    {
+                        "condition": "nonrebreather mask",
+                        "value": "100%"
+                    }
+                ]
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Rales in both lung fields",
+                    "description": "Crackles extended halfway up the lungs, with occasional expiratory wheezes."
+                },
+                {
+                    "finding": "Jugular venous pulse",
+                    "description": "Visible at 14 cm above the right atrium."
+                },
+                {
+                    "finding": "Weight loss",
+                    "description": "Lost approximately 2.3 kg within the previous 2 months."
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "105/43 mm Hg",
+                "pulse": "81 bpm",
+                "respiratory_rate": "28 per minute",
+                "temperature": "36.1°C",
+                "oxygen_saturation": [
+                    {
+                        "condition": "ambient air",
+                        "value": "Not specified"
+                    },
+                    {
+                        "condition": "supplemental oxygen (unknown volume)",
+                        "value": "91%"
+                    }
+                ]
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Chest radiograph",
+                    "description": "Showed bilateral patchy air-space opacities, indistinct pulmonary vessels, possible small pleural effusions."
+                },
+                {
+                    "finding": "Echocardiogram",
+                    "description": "Documented mild concentric left ventricular hypertrophy, ejection fraction of 54%, marked right ventricle dilatation."
+                }
+            ],
+            "changes_over_time": "The right ventricle was markedly dilated and hypokinetic, with moderate-to-severe tricuspid-valve regurgitation upon further echocardiogram."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "60 mm Hg (initial)",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Subsequent blood pressure",
+                    "description": "Blood pressure improved to 140/68 mm Hg 5 minutes later."
+                }
+            ],
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Third hospital day",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": [
+                    {
+                        "condition": "nonrebreather mask (10 liters)",
+                        "value": "77-85%"
+                    }
+                ]
+            },
+            "relevant_findings": [
+                {
+                    "finding": "Echocardiogram",
+                    "description": "Showed persistent mild concentric left ventricular hypertrophy but marked right ventricular dilatation and pulmonary arterial hypertension."
+                },
+                {
+                    "finding": "Transthoracic echocardiogram",
+                    "description": "Indicated features of right ventricular overload and low ejection fraction."
+                }
+            ],
+            "changes_over_time": "Dysnea on exertion persisted with ongoing support needed."
+        }
+    ]
+}

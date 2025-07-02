@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic metabolic panel",
+            "date": "Not specified",
+            "findings": "Potassium level of 3.0 mmol per liter; remainder unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Hematocrit of 35.7%, similar to previous measurements.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Double-stranded DNA antibody test",
+            "date": "Not specified",
+            "findings": "Stably elevated at 109 units.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine pregnancy test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "94 nucleated cells per cubic millimeter (73% lymphocytes, 19% monocytes, 8% neutrophils); glucose level 40 mg per deciliter; protein level 100.5 mg per deciliter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Multiplex PCR assay",
+            "date": "Not specified",
+            "findings": "Negative for Escherichia coli K1, Haemophilus influenzae, Listeria monocytogenes, Neisseria meningitidis, Streptococcus agalactiae, S. pneumoniae, cytomegalovirus, enterovirus, Herpes simplex virus types 1 and 2, human parechovirus, varicella zoster virus, and Cryptococcus neoformans.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR testing of CSF for West Nile virus",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood gas analysis",
+            "date": "Not specified",
+            "findings": "Severe respiratory failure",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography (ECHO)",
+            "date": "Not specified",
+            "findings": "Presence of a large patent ductus arteriosus (PDA) and pulmonary hypertension; subsequent ECHO confirmed presence of atrial septal defect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography (ECHO)",
+            "date": "6 days after birth",
+            "findings": "Atrial septal defect (ASD) with a diameter of 5 mm and a left-to-right shunt; no ductus arteriosus flow detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lung ultrasound",
+            "date": "Not specified",
+            "findings": "Pulmonary edema and exudative inflammation in bilateral lung fields.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary computed tomography (CT)",
+            "date": "51 days after birth",
+            "findings": "Diffuse ground-glass appearance in both lungs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "91 days after birth",
+            "findings": "Bilateral ventricular widening and corpus callosum hypoplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Revealed SoS type I; sequencing of both parents yielded full-length wild-type transcripts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Saccular aneurysm of the aorta, particularly of its right posterolateral lumen, with associated periaortic infiltration.",
+            "changes_over_time": "Increased size of the aneurysm after 30 days of treatment."
+        },
+        {
+            "procedure_name": "F-18 FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Abnormal F-18 FDG hypermetabolism in the right wall of the infrarenal abdominal aorta and periaortic space, suggesting active vascular infection.",
+            "changes_over_time": "Decreased F-18 FDG uptake in the right wall of the infrarenal abdominal aorta and periaortic space one month after discharge, correlating with clinical improvement."
+        },
+        {
+            "procedure_name": "F-18 FDG PET/CT",
+            "date": "One year after discharge",
+            "findings": "Nearly normalization of the F-18 FDG uptake.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

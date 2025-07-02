@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "diffuse pulmonary oedema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "left ventricular ejection fraction (LVEF) of 20% with severe LV dilatation",
+            "changes_over_time": "Repeat TTE revealed improved LVEF of 30%. TTE showed LVEF of 17% with severe mitral valve regurgitation during readmission. LVEF has improved to 33% per a recent TTE."
+        },
+        {
+            "procedure_name": "cardiac magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "non-specific non-ischaemic cardiomyopathy with LVEF of 32% without infiltration or inflammation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

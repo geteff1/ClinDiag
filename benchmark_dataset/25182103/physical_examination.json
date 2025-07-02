@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "100 kg",
+                "height": "167 cm",
+                "BMI": "35.8",
+                "blood_pressure": "120/80 mm Hg",
+                "pulse": "76/min",
+                "waist_circumference": "121.4 cm",
+                "glucose": "101 mg/dL",
+                "total_cholesterol": "157 mg/dL",
+                "LDL": "138 mg/dL",
+                "triglycerides": "157 mg/dL",
+                "HDL": "38 mg/dL",
+                "glycohemoglobin": "5.5%",
+                "thyrotropin": "3.17 mIU/L"
+            },
+            "relevant_findings": "Patient appeared well. Notable history of eating disorders and progressive weight gain.",
+            "changes_over_time": "Progressive weight gain of 13.6 kg (30 lbs) since her twin pregnancy 4 years ago."
+        }
+    ]
+}

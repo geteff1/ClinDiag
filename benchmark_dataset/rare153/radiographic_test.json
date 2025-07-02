@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "abdominal X-ray",
+            "date": "Not specified",
+            "findings": "Negative for obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Numerous pelvic masses with severe colitis, bilateral moderate hydronephrosis, and metastatic disease in the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "repeat staging CT chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Large rectal mass with peritoneal carcinomatosis and liver metastatic disease, extensive lymphadenopathy, and a sclerotic bone lesion in the right iliac.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Dense consolidation of the left upper lobe and, to a lesser extent, the left lower lobe. No pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the chest",
+            "date": "Not specified",
+            "findings": "Spleen was enlarged and contained numerous hypoechoic lesions up to 1 cm in diameter, multiple enlarged peripancreatic, periportal, and perisplenic lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Left supraclavicular, left hilar, mediastinal, upper abdominal, and mesenteric lymphadenopathy, splenomegaly with multiple hypodense splenic lesions, consolidation with air bronchograms in the majority of the left upper lobe, scattered pulmonary nodules (2 to 4 mm), and narrowing of the left main-stem bronchus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography of the pelvis",
+            "date": "Not specified",
+            "findings": "An ill-defined lytic region in the superior aspect of the right femoral neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the right hip",
+            "date": "Not specified",
+            "findings": "A large lesion at the junction of the right femoral head and neck causing cortical destruction, with destructive changes at the femoroacetabular joint, a small joint effusion, and exuberant intramuscular edema in the upper thigh.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

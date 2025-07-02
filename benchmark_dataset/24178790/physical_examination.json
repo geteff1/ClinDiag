@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "2009",
+            "vital_signs": {
+                "calcium": "20.5 mg/dL",
+                "PTH": "/H110222500 pg/mL"
+            },
+            "relevant_findings": "Elevated calcium and PTH levels indicating hypercalcemia; suspicion of parathyroid carcinoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Month 23 after diagnosis",
+            "vital_signs": {
+                "calcium": "19.4 mg/dL",
+                "PTH": "1273 pg/mL"
+            },
+            "relevant_findings": "Recurrent hypercalcemia with rising PTH levels.",
+            "changes_over_time": "Increased calcium and PTH levels compared to period before."
+        },
+        {
+            "date": "Month 27",
+            "vital_signs": {
+                "PTH": "1541 pg/mL"
+            },
+            "relevant_findings": "Postoperative hypocalcemia with a nadir calcium level of 6.9 mg/dL after surgery.",
+            "changes_over_time": "Postoperative hypocalcemia observed after surgery."
+        },
+        {
+            "date": "Month 31",
+            "vital_signs": {
+                "calcium": "Not specified",
+                "PTH": "Not specified"
+            },
+            "relevant_findings": "CT scan showed a 1.6-cm nodular soft tissue mass that increased in size.",
+            "changes_over_time": "Nodular soft tissue mass size increased compared to previous imaging."
+        },
+        {
+            "date": "Month 50",
+            "vital_signs": {
+                "calcium": "Remained in reference range",
+                "PTH": "1459 pg/mL"
+            },
+            "relevant_findings": "Continued management with denosumab and cinacalcet; no hospitalizations for hypercalcemia in the last 3 months.",
+            "changes_over_time": "Stable calcium levels within reference range; elevated PTH levels."
+        }
+    ]
+}

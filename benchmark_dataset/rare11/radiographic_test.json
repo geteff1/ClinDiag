@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Non-union of a fracture of the proximal epiphysis of the middle phalanx.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Sclerosis of a dorsal epiphyseal fragment still attached to the growth plate, without any sign of displacement or consolidation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "High signal between the two epiphyseal fragments on T2-weighted sequences, without contrast enhancement. Excluded pulley rupture and abnormal findings in the extensor or flexor tendons.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

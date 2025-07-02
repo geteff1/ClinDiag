@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PSA (Prostate-Specific Antigen)",
+            "date": "Not specified",
+            "findings": "PSA level was 5.3 ng/mL, previously 3.0 ng/mL a year earlier; at consultation, PSA was 4.5 ng/mL.",
+            "changes_over_time": "PSA increased from 3.0 ng/mL to 5.3 ng/mL over one year, then decreased to 4.5 ng/mL two months after the biopsy, indicating an inconsistent rate of change."
+        },
+        {
+            "procedure_name": "Testosterone level",
+            "date": "Not specified",
+            "findings": "Testosterone was in the normal range at 362 ng/dL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

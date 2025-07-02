@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "25 March 2009",
+            "vital_signs": {
+                "bradycardia": "present",
+                "hypotension": "present",
+                "respiratory_failure": "present"
+            },
+            "relevant_findings": "Dysarthria, blurring of left eye, tingling in right upper extremity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "4 April 2009",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient was intubated and received mechanical ventilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "1 month after 4 April 2009",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Developed fever.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 months after transfer to the rehabilitation facility",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No subsequent isolation of the panresistant E. coli strain.",
+            "changes_over_time": "Improvement noted with the clearance of bacteremia."
+        }
+    ]
+}

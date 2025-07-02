@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Histologic examination of the resected specimen showed a cellular tumor invading both dura and bone, with tumor cells negative for the B-cell antigen CD20 but positive for CD79a, indicating a plasma-cell tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographic Skeletal Survey",
+            "date": "10 days after discharge",
+            "findings": "Lytic lesions in the distal right femoral metaphysis, proximal right tibial metaphysis, subtle lucencies in the left radius, left femur, and a sclerotic appearance in the L5 lumbar region.",
+            "changes_over_time": "Five months later, a new lytic bone lesion appeared in the left distal clavicle and another in the right greater trochanter. Six months later, no changes were noted."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "13 months after diagnosis",
+            "findings": "Minimal increase in plasma cells to 2% with no evidence of a clonal population.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographic Skeletal Survey",
+            "date": "Three months after initial staging",
+            "findings": "Progression of lytic disease with worsening lesions in the left distal clavicle and right greater trochanter.",
+            "changes_over_time": "Subsequent surveys showed relative stability of these lesions."
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "19 months after diagnosis",
+            "findings": "Showed two M components at very low concentrations.",
+            "changes_over_time": "Other laboratory tests remained unchanged."
+        },
+        {
+            "procedure_name": "Radiation Therapy",
+            "date": "Thirty-one months after diagnosis",
+            "findings": "Not specified (treatment given for pain control).",
+            "changes_over_time": "The bone lesions were unchanged radiographically."
+        }
+    ]
+}

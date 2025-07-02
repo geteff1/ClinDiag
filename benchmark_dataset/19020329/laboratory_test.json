@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "2–3 Mo before Admission",
+            "findings": "39.8% (normal range: 41.0–53.0%)",
+            "changes_over_time": "Decreased to 34.8% (2 Wk before Admission) and increased to 35.6% (1 Day before Admission)."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "2–3 Mo before Admission",
+            "findings": "13.1 g/dL (normal range: 13.5–17.5 g/dL)",
+            "changes_over_time": "Decreased to 11.1 g/dL (2 Wk before Admission) and increased to 11.2 g/dL (1 Day before Admission)."
+        },
+        {
+            "procedure_name": "White cells",
+            "date": "2–3 Mo before Admission",
+            "findings": "8,100 per mm3 (normal range: 4500–11,000 per mm3)",
+            "changes_over_time": "Increased to 14,600 per mm3 (2 Wk before Admission) and decreased to 11,300 per mm3 (1 Day before Admission)."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "2–3 Mo before Admission",
+            "findings": "31 mm/hr (normal range: 0–17 mm/hr)",
+            "changes_over_time": "Increased to 61 mm/hr (2 Wk before Admission) and further to 72 mm/hr (1 Day before Admission)."
+        },
+        {
+            "procedure_name": "Reticulocytes",
+            "date": "2–3 Mo before Admission",
+            "findings": "1.9% (normal range: 0.5–2.5%)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "2–3 Mo before Admission",
+            "findings": "95.6 mg/L (normal range: <8.0 mg/L)",
+            "changes_over_time": "Increased to 127.7 mg/L (1 Day before Admission) and further to 130.4 mg/L (1 Day before Admission)."
+        },
+        {
+            "procedure_name": "Rheumatoid factor",
+            "date": "2–3 Mo before Admission",
+            "findings": "24.2 IU/ml (normal range: <30 IU/ml)",
+            "changes_over_time": "Increased to 89 IU/ml (2 Wk before Admission)."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "2 Wk before Admission",
+            "findings": "Specific gravity of 1.004; culture was sterile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma sodium level",
+            "date": "5 Days after Admission",
+            "findings": "136 mmol/L (baseline) to 142 mmol/L after water deprivation test.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

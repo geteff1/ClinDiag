@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Prolonged Q-T interval",
+            "changes_over_time": "Normalization of the Q-T interval"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Thyroid ultrasound scan showed a nodular image in the right thyroid lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Patient AR and DR were heterozygous for mutation R257X; Patient ST was heterozygous for a novel mutation V484M",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

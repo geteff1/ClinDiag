@@ -1,0 +1,62 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary 17-ketosteroid level",
+            "date": "Not specified",
+            "findings": "Elevated at 7.6 mg/day (normal, <2.3 mg/day)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "Not specified",
+            "findings": "Up to 150/90 mmHg in childhood and 200/100 mmHg at age 42",
+            "changes_over_time": "Blood pressure was normalized post-bilateral adrenalectomy to 120/80 mmHg"
+        },
+        {
+            "procedure_name": "Kaliemia measurement",
+            "date": "Age 42",
+            "findings": "2.4 mmol/L (normal 3.5–5)",
+            "changes_over_time": "Normalization of kaliemia after surgical intervention"
+        },
+        {
+            "procedure_name": "Serum creatinine measurement",
+            "date": "Age 42",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 42",
+            "findings": "Pronounced concentric ventricular hypertrophy (septum wall, 16–20 mm; posterior wall, 12–14 mm)",
+            "changes_over_time": "Regression of concentric ventricular hypertrophy was noted 18 months post-surgery"
+        },
+        {
+            "procedure_name": "Adrenal hormone levels measurement",
+            "date": "Preoperative and postoperative",
+            "findings": {
+                "Preoperative": {
+                    "Deoxycorticosterone": "27.2 nmol/L",
+                    "Corticosterone": "0.17 nmol/L",
+                    "Cortisol": "20 nmol/L",
+                    "ACTH": "91 pmol/L",
+                    "Active renin": "1.4 ng/L"
+                },
+                "Postoperative (1 week)": {
+                    "Deoxycorticosterone": "0.62 nmol/L",
+                    "Corticosterone": "0.51 nmol/L",
+                    "Cortisol": "5 nmol/L",
+                    "ACTH": "110 pmol/L",
+                    "Active renin": "41 ng/L"
+                },
+                "Postoperative (1 year)": {
+                    "Deoxycorticosterone": "2.9 nmol/L",
+                    "Corticosterone": "0.518 nmol/L",
+                    "Cortisol": "12 nmol/L",
+                    "ACTH": "101 pmol/L",
+                    "Active renin": "9 ng/L"
+                }
+            },
+            "changes_over_time": "Deoxycorticosterone and cortisol levels reduced significantly post-bilateral adrenalectomy"
+        }
+    ]
+}

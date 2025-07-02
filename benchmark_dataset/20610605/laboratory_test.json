@@ -1,0 +1,55 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "TSH": "2.5 mU/liter (normal range, 0.3–4.6)",
+                "Free T4": "3.0 ng/dl (normal range, 0.7–1.5)",
+                "Free T3": "1070 pg/dl (normal range, 200–440)"
+            },
+            "changes_over_time": "Yearly thyroid function tests remained consistent with RTH."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "16, 1",
+            "findings": {
+                "Total T4": "14.6 µg/dl",
+                "Total T3": "204 ng/dl",
+                "rT3": "19.3 ng/dl",
+                "Free T4I": "1.2",
+                "TSH": "0.9 mU/liter",
+                "TG": "44 ng/dl"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "17, 8",
+            "findings": {
+                "Total T4": "23.7 µg/dl",
+                "Total T3": "314 ng/dl",
+                "rT3": "19.2 ng/dl",
+                "Free T4I": "1.5",
+                "TSH": "54 mU/liter"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": {
+                "Cord blood T4": "10.7 µg/dl",
+                "Cord blood T3": "73 ng/dl",
+                "Cord blood rT3": "47.6 ng/dl",
+                "Cord blood Free T4I": "8.9",
+                "Venous T4": "10.5 µg/dl",
+                "Venous T3": "169 ng/dl",
+                "Venous rT3": "23.7 ng/dl",
+                "Venous Free T4I": "10.5",
+                "TSH": "30.8 mU/liter on the fourth day"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

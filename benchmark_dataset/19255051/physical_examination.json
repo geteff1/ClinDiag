@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "BMI of 47; suffers from hypertension, hyperlipidemia, and impaired fasting glucose.",
+            "changes_over_time": "Initially, Ms. W had a BMI of 47 before surgery, which improved to a BMI of 32.8 at 12 months post-surgery, with normalization of hypertension, hyperlipidemia, and fasting glucose levels."
+        },
+        {
+            "date": "12 months post-surgery",
+            "vital_signs": "Weight: 197 lb; BMI: 32.8",
+            "relevant_findings": "Ms. W lost 83 lb and experienced some nausea after eating, which resolved in a few months. Mild dumping symptoms occurred with certain foods.",
+            "changes_over_time": "Weight loss of 83 lb observed by 12 months, but began experiencing urges to overeat and episodes of subjective binge eating."
+        },
+        {
+            "date": "18 months post-surgery",
+            "vital_signs": "Weight: 180 lb; BMI: 30",
+            "relevant_findings": "Continued episodes of subjective binge eating, occurring about once a week.",
+            "changes_over_time": "She lost an additional 17 lb from the 12-month mark but started to gain some weight thereafter."
+        },
+        {
+            "date": "24 months post-surgery",
+            "vital_signs": "Weight: 186 lb; BMI: 30.9",
+            "relevant_findings": "Reported difficulty sleeping, tearfulness, and increased urges to eat inappropriately.",
+            "changes_over_time": "Regained 6 lb compared to the previous follow-up; depressive symptoms and difficulties with binge eating re-emerged."
+        },
+        {
+            "date": "48 months post-surgery",
+            "vital_signs": "Weight: 205 lb; BMI: 34.1",
+            "relevant_findings": "Significant improvements in health and quality of life despite some weight gain.",
+            "changes_over_time": "Although weight increased to 205 lb, she remains significantly below her preoperative weight and reports feeling more comfortable in social situations."
+        }
+    ]
+}

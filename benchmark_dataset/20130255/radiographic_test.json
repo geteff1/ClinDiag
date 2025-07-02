@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Hilar lymphadenopathy with a fine reticular pattern on both sides and mild filling of the retrosternal air space.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced computed tomography (CT) of the chest",
+            "date": "Not specified",
+            "findings": "Pleural effusions in both lungs, mild adenopathy, increased interstitial markings, and increased vascular markings.",
+            "changes_over_time": "Increase in mediastinal adenopathy seen on a subsequent CT scan, along with a small pericardial effusion and widespread interlobular septal thickening."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate left ventricular systolic dysfunction, right ventricular dilatation with moderate-to-severe global hypokinesia.",
+            "changes_over_time": "Another echocardiogram showed normal left ventricular function."
+        }
+    ]
+}

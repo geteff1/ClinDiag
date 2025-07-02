@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "LPL activity test",
+            "date": "Not specified",
+            "findings": "The patient's LPL activity was consistently decreased and varied; results suggested heterozygous LPL deficiency or, on some occasions, severely reduced activity typical of homozygous LPL deficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Assessment of anti-LPL autoantibody",
+            "date": "Not specified",
+            "findings": "A specific IgG directed against human LPL was detected in the patient’s plasma, suggesting the presence of a circulating LPL inhibitor.",
+            "changes_over_time": "Under immunosuppressive treatment, there was a consistent 40% decrease in plasma triglyceride concentrations."
+        },
+        {
+            "procedure_name": "Immunosuppressive treatment (azathioprine)",
+            "date": "Not specified",
+            "findings": "Three sequential tests indicated that under treatment, plasma triglyceride concentration was decreased by 38% compared to when not treated.",
+            "changes_over_time": "During the following 18 months after treatment initiation, no recurrent acute pancreatitis was observed."
+        }
+    ]
+}

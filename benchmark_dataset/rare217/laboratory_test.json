@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine maternal serologic screening",
+            "date": "Not specified",
+            "findings": "Negative results for rubella virus, toxoplasma, HIV, hepatitis B, and C.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "24+1 weeks",
+            "findings": "BPD 54 mm (< P10, -1.85 SD), HC 204 mm (< P10, -1.53 SD), AC 177 mm (< P10, -1.55 SD), FL 39 mm (P15.4, -1.02 SD). Cystic structures detected at posterior horn of lateral ventricles.",
+            "changes_over_time": "Follow-up ultrasound at 28+1 weeks showed: BPD 63 mm (< P1, -2.64 SD), HC 232 mm (< P1, -2.99 SD), AC 205 mm (< P1, -2.56 SD), FL 46 mm (< P3, -1.94 SD). Persistent cystic structures with increased size."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "24+1 weeks",
+            "findings": "Cystic structures around bilateral lateral ventricles, abnormal signal foci in the white matter of the right parietal lobe. Smaller diameters and sulci than normal.",
+            "changes_over_time": "Follow-up MRI at 28+1 weeks showed mild dilation of the bilateral ventricles and cystic structures. Abnormal signal foci in the white matter and smaller brain diameter and sulcus development than normal fetuses."
+        },
+        {
+            "procedure_name": "Amniocentesis and genetic testing",
+            "date": "Not specified",
+            "findings": "Normal chromosome karyotype; CMA revealed a heterozygous deletion of 23.9 Mb in chromosome 5q11.1-q21.3 region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome genome sequencing",
+            "date": "Not specified",
+            "findings": "Fetus carried the TREX1:NM_033629.6:exon2:c.294dup:p.C99Mfs*3 homozygous variant; both parents were heterozygous carriers.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

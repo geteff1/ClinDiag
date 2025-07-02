@@ -1,0 +1,66 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 1999",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "pulse": "90 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "Glasgow_coma_score": 14,
+                "neurological": {
+                    "meningismus": "subtle",
+                    "pupils": {
+                        "right": "3 mm",
+                        "left": "5 mm",
+                        "reactivity": "reactive"
+                    },
+                    "ocular_deviation": "persistent rightward gaze deviation with inability to move eyes leftward beyond midline",
+                    "gaze_limitation": "limitations in inferior gaze",
+                    "extremity_weakness": {
+                        "left": "moderate",
+                        "right": "mild"
+                    },
+                    "reflexes": "normal except for equivocal plantar extensor responses bilaterally"
+                },
+                "abdominal": "no hepatosplenomegaly, lymphadenopathy, or rash"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Second hospital day",
+            "vital_signs": {
+                "ICP": "20-30 mmHg"
+            },
+            "relevant_findings": {
+                "EEG": "delta-wave activity consistent with diffuse, severe encephalopathy",
+                "pupil_reactivity": "increasingly asymmetric and sluggishly reactive"
+            },
+            "changes_over_time": "ICP worsened, leading to herniation syndrome"
+        },
+        {
+            "date": "14th hospital day",
+            "vital_signs": {
+                "opening_pressure": "6 mmHg",
+                "closing_pressure": "5 mmHg"
+            },
+            "relevant_findings": {
+                "CSF": {
+                    "WBC_count": "275 cells/mL",
+                    "segmented_neutrophils": "83%"
+                }
+            },
+            "changes_over_time": "CSF pleocytosis resolved by this time"
+        },
+        {
+            "date": "6 weeks after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "neuroimaging": "slowly decreasing white-matter edema in both hemispheres and evolving encephalomalacia and atrophy"
+            },
+            "changes_over_time": "Detected improvement in the condition as white-matter edema decreased"
+        }
+    ]
+}

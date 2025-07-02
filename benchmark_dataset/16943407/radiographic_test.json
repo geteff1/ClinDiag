@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Hepatomegaly, a normal spleen and kidneys, and no masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the abdomen",
+            "date": "Two and a half weeks before admission",
+            "findings": "Hepatomegaly with multiple hypodense nodules in the spleen and liver.",
+            "changes_over_time": "Follow-up CT two months later showed nearly complete resolution of the lesions in the liver and spleen and resolution of the abdominal lymphadenopathy."
+        },
+        {
+            "procedure_name": "Chest Radiography",
+            "date": "Not specified",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Ionized Calcium",
+            "date": "Not specified",
+            "findings": "1.99 mmol/L (normal, 1 to 1.17 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Total Calcium",
+            "date": "Not specified",
+            "findings": "3.23 mmol/L (normal, 2.33 to 2.74 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Magnesium",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L (normal, 0.62 to 1.03 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Phosphorus",
+            "date": "Not specified",
+            "findings": "0.94 mmol/L (normal, 1.55 to 2.65 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "10.9 nmol/L (normal, 32 to 80 nmol/L)",
+            "changes_over_time": "Normalized to 51.6 nmol/L by the 36th day of life."
+        },
+        {
+            "procedure_name": "Serum Intact PTH",
+            "date": "Not specified",
+            "findings": "1154 pg/mL (normal, 15 to 60 pg/mL)",
+            "changes_over_time": "Markedly reduced after cinacalcet therapy."
+        },
+        {
+            "procedure_name": "Serum 1,25-Dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "280.8 pmol/L (normal, 39 to 195 pmol/L)",
+            "changes_over_time": "Remained elevated during treatment."
+        },
+        {
+            "procedure_name": "Fractional Excretion of Calcium",
+            "date": "Not specified",
+            "findings": "0.003 (normal, >0.01)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium (during gastroenteritis)",
+            "date": "3 months of age",
+            "findings": "3.63 mmol/L",
+            "changes_over_time": "Increased during severe gastroenteritis."
+        },
+        {
+            "procedure_name": "Serum Intact PTH (during gastroenteritis)",
+            "date": "3 months of age",
+            "findings": "78.8 pg/mL",
+            "changes_over_time": "Increased during severe gastroenteritis."
+        },
+        {
+            "procedure_name": "Serum Phosphorus (during gastroenteritis)",
+            "date": "3 months of age",
+            "findings": "1.55 mmol/L",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

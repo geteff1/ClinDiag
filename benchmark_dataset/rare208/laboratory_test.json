@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood examination",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell": "17.9 × 10^9/L (normal range: 4–10 × 10^9/L)",
+                "lymphocyte_ratio": "62.5% (normal range: 20%–40%)",
+                "lymphocyte": "11.0 × 10^9/L (normal range: 1–3 × 10^9/L)",
+                "erythrocyte": "4.7 × 10^12/L (normal range: 3.5–5.5 × 10^12/L)",
+                "hemoglobin": "87 g/L (normal range: 110–160 g/L)",
+                "mean_corpuscular_volume": "67 fL (normal range: 82–92 fL)",
+                "corpuscular_hemoglobin": "19 pg (normal range: 27–31 pg)",
+                "mean_corpuscular_hemoglobin_concentration": "284 g/L (normal range: 320–360 g/L)",
+                "ferritin": "8.21 ng/ml (normal range: ≥ 20 ng/ml)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Markedly hypercellular marrow (85%), diffusely involved by small lymphocytic infiltration (80%), tumor cells positive for CD20, CD5, and CD23, negative for CD3, CD10, TdT, and cyclin D1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Lymphadenopathy in mediastinum, bilateral neck, axillary area, enterocoelia, retroperitoneal and pelvic cavity, splenomegaly, and partial thickening in the small intestine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Three polyps with sizes of 0.8 cm, 0.7 cm, and 0.4 cm, pathological analysis indicated tubular adenoma with low-grade dysplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next-generation sequencing (NGS)",
+            "date": "Not specified",
+            "findings": "Detected pathogenic hotspot mutations of STAT5B (c.1924A>C, p.N642H) and DNMT3A (c.2678G>A, p.W893*), along with likely pathogenic mutations and variants of uncertain clinical significance in various genes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

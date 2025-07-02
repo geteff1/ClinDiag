@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Normal",
+                "body_mass_index": "26.2 kg/m²"
+            },
+            "relevant_findings": {
+                "acne": "Minimal acne on face, chest, and back",
+                "hirsutism": "Minimal hirsutism on abdomen and chest with shaved hair on lower abdomen and several dark periareolar hairs",
+                "external_genitalia": "Normal appearing with no clitoromegaly",
+                "tanner_stage": "Tanner V breast development and pubic hair distribution",
+                "acanthosis_nigricans": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Nine months later",
+            "vital_signs": {
+                "body_mass_index": "27 kg/m²"
+            },
+            "relevant_findings": {
+                "acne": "No significant exacerbation noted",
+                "hirsutism": "No significant exacerbation noted"
+            },
+            "changes_over_time": "JM has generally been happy with use of DMPA, indicates change in BMI from 26.2 to 27 kg/m² but no significant issues with acne or hirsutism."
+        }
+    ]
+}

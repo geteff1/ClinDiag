@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "Blood: 46,XY (100%); Skin: 46,XY (100%); Gonad: 46,XY (99.25%), 45,X (0.75%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LHRH stimulation test",
+            "date": "Not specified",
+            "findings": "Daughter: LH (135.7 mIU/ml), FSH (194.6 mIU/ml); Mother: LH (22.9 mIU/ml), FSH (48.9 mIU/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "hCG stimulation test",
+            "date": "Not specified",
+            "findings": "Daughter: Baseline testosterone 90 ng/dl; Mother: Baseline testosterone 25 ng/dl",
+            "changes_over_time": "Daughter's testosterone levels after hCG on 24h: 110 ng/dl, 48h: 85 ng/dl; Mother's testosterone 24h: 46 ng/dl, 48h: 30 ng/dl"
+        },
+        {
+            "procedure_name": "ACTH stimulation test",
+            "date": "Not specified",
+            "findings": "Daughter: 17OHP (36 ng/dl); Mother: 17OHP (19 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum testosterone",
+            "date": "Not specified",
+            "findings": "Post-gonadectomy: 51.8 ng/dl (normal range, 23.0–69.1 ng/dl)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

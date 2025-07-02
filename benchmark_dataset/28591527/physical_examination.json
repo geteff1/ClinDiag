@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.1°C",
+                "blood_pressure": "127/64 mm Hg",
+                "pulse": "67 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "weight": "54.1 kg",
+                "height": "160 cm"
+            },
+            "relevant_findings": {
+                "alertness": "Patient was alert and appeared anxious.",
+                "involuntary_burping": "Persistent involuntary burping.",
+                "drooling": "Evidence of drooling on his shirt.",
+                "dry_oral_mucosa": "Oral mucosal membranes were dry.",
+                "sexual_development": "Tanner stage 4.",
+                "cranial_nerves": "Results of examinations of cranial nerves II through XII were normal.",
+                "speech": "Patient spoke clearly.",
+                "gait_strength_sensation_reflexes": "Gait, strength, sensation, and deep-tendon reflexes were normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

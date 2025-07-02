@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "142/82 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "speech": "Slow but otherwise clear and fluent, affect was flat.",
+                "neurological": {
+                    "left_arm": {
+                        "weakness": "Mild",
+                        "pronator_drift": "Mild"
+                    },
+                    "gait": "Wide-based, tentative, and unsteady.",
+                    "reflexes": "Brisk and symmetric",
+                    "finger_to_nose_coordination": "Imprecise on the left side"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "53 bpm (sinus bradycardia)",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified",
+                "oxygen_saturation": "Normal while breathing ambient air"
+            },
+            "relevant_findings": {
+                "left_arm": {
+                    "weakness": "Rated at 4 to 4+ on a scale of 0 to 5"
+                },
+                "urinalysis": "Revealed white cells and 1+ albumin, with 3 to 5 red cells."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

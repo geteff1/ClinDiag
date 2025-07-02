@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Barium Swallow Examination",
+            "date": "Not specified",
+            "findings": "Narrowing of the distal third of the esophagus due to extrinsic compression.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Upper Endoscopy",
+            "date": "Not specified",
+            "findings": "Normal esophageal mucosa. Substantial luminal narrowing due to extrinsic compression.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic Ultrasound",
+            "date": "Not specified",
+            "findings": "Large, hypoechoic irregular mass adjacent to the esophagus and upper abdominal lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Malignant neoplasm with glandular differentiation and signet-ring cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing for ALK Rearrangement",
+            "date": "Not specified",
+            "findings": "Positive for ALK gene rearrangement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Scans",
+            "date": "Before and after treatment with crizotinib",
+            "findings": "Increased radiotracer uptake in T1 and L4 vertebrae before treatment.",
+            "changes_over_time": "Improvement seen in T1 and L4 metastases after treatment."
+        }
+    ]
+}

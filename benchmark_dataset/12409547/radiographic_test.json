@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Multiple round, low-attenuation lesions within the subcortical white matter, the largest within the left centrum semiovale. Normal ventricles, sulci, cisterns, orbits, and paranasal sinuses. No evidence of intraparenchymal or extra-axial hemorrhage or infarct.",
+            "changes_over_time": "A subsequent CT scan was unchanged."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Multiple nodular and ring-enhancing lesions in the deep white matter of both cerebral hemispheres. Chains of small nodules with larger ring-enhancing components. Lesions believed to be typical signs of infection.",
+            "changes_over_time": "Follow-up imaging showed dramatic resolution of the ring-enhancing lesions and minimal remaining white-matter abnormalities."
+        },
+        {
+            "procedure_name": "Chest radiographs",
+            "date": "35 months earlier than the current dates in the report",
+            "findings": "Normal.",
+            "changes_over_time": "Similar to the current findings."
+        },
+        {
+            "procedure_name": "Abdominal and pelvic CT scan",
+            "date": "Not specified",
+            "findings": "Well-circumscribed, low-density, non-enhancing lesions in the left and right hepatic lobes, consistent with cysts. Left kidney absent, other solid organs normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Not specified",
+            "findings": "Several low-attenuation lesions within the thyroid gland, consistent with thyroid cysts or small goiter. No supraclavicular or axillary lymphadenopathy detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic cardiac ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "Slight dilatation of the aortic root (41 mm). No evidence of valvular vegetations or significant regurgitation. Size and systolic function of the left ventricle normal. No pericardial effusion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

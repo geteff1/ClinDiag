@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Amorphous hypodensity in the left frontal lobe with associated mild local mass effect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "Focal hyperintensity in the left frontal lobe, corresponding to a ring-enhancing lesion surrounded by edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Solid, noncalcified nodule in the right upper lung measuring 2.2 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "25 days after initiation of therapy",
+            "findings": "Low lung volumes, new diffuse interstitial opacities, and bilateral hilar fullness.",
+            "changes_over_time": "Findings were new relative to the baseline staging studies obtained 3 months earlier."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Diffuse ground-glass opacities, interlobular septal thickening, and mild traction bronchiectasis.",
+            "changes_over_time": "Findings were new relative to the baseline staging studies obtained 3 months earlier."
+        }
+    ]
+}

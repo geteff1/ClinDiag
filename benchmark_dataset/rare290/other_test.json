@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Diffuse angioectasia, edematous rectal mucosa, and small ulceration with blood over the recto-sigmoid junction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Mucosal surface erosion with dense inflammatory cell infiltrate, confirming a diagnosis of grade 2 radiation proctitis.",
+            "changes_over_time": "One month after initiating M-B enema therapy, no ulceration was observed, but the density of telangiectasia remained unchanged. There was a reduced extent of rectal mucosal congestion and hypervascularity, with histopathological analysis showing improvement in inflammatory cell infiltration."
+        },
+        {
+            "procedure_name": "Endoscopic examination",
+            "date": "One month after M-B enema therapy",
+            "findings": "No ulceration observed, density of telangiectasia remained unchanged, reduced extent of rectal mucosal congestion and hypervascularity.",
+            "changes_over_time": "Histopathological analysis revealed an improvement in inflammatory cell infiltration."
+        }
+    ]
+}

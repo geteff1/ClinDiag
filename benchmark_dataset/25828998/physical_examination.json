@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Tachycardic",
+                "temperature": "Hypothermic",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": [
+                "Lethargic",
+                "Mottled",
+                "Poor feeding",
+                "Sleepiness",
+                "Dark, malodorous urine"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

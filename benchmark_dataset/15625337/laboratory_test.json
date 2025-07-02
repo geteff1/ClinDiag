@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "20 to 50 red cells per high-power field and 1+ proteinuria. Microscopic examination disclosed dysmorphic red cells and two cellular casts thought to be red-cell casts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC), Electrolyte Levels, Renal Function Tests",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serological Tests for Hepatitis B",
+            "date": "Not specified",
+            "findings": "Positive for hepatitis B antibody, negative for hepatitis B antigen and hepatitis C antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour Urine Collection",
+            "date": "Not specified",
+            "findings": "Contained 1152 mg of creatinine and 160 mg of protein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "Not specified",
+            "findings": "Glomeruli were normal except for focal, mild mesangial hypercellularity. Slight segmental linear staining for IgG and albumin. Diffusely thin glomerular basement membranes with focal areas of thickening and scalloping.",
+            "changes_over_time": "Two years after the diagnostic biopsy, the patient remains well, with no evidence of progressive renal disease, continuing with microscopic hematuria and stable mild proteinuria."
+        }
+    ]
+}

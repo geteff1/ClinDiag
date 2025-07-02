@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Serum Alkaline Phosphatase (TSAP)",
+            "date": "Not specified",
+            "findings": "Initially elevated at 1248 U/L (normal upper limit: 341 U/L), peaked at 2800 U/L, then reduced to a mean of 1200 U/L during first 6 months of bisphosphonate treatment, further reduced to approximately 700 U/L over the next 2.5 years, and eventually down to 600 U/L with intensified treatment.",
+            "changes_over_time": "TSAP levels increased initially without treatment, peaking at 2800 U/L, then decreased with bisphosphonate treatment to around 700 U/L before further decreasing to 600 U/L after intensified treatment. Post-denosumab administration, levels returned to within the normal range."
+        },
+        {
+            "procedure_name": "Serum calcium",
+            "date": "Not specified",
+            "findings": "Severe hypocalcemia with serum calcium at 2.08 mmol/L (normal range: 2.15–2.45 mmol/L) after denosumab injection.",
+            "changes_over_time": "Ionized calcium levels dropped to 0.71 mmol/L by day 10 after denosumab injection, indicating ongoing hypocalcemia. After second dose of denosumab, no hypocalcemia was observed."
+        },
+        {
+            "procedure_name": "N-telopeptide (NTX)",
+            "date": "Not specified",
+            "findings": "Elevated urinary NTX levels before denosumab treatment decreased immediately post-administration.",
+            "changes_over_time": "NTX levels decreased after denosumab administration, with subsequent rise noted after 6 weeks."
+        },
+        {
+            "procedure_name": "Parathyroid Hormone (PTH)",
+            "date": "Not specified",
+            "findings": "PTH levels elevated after the first denosumab injection.",
+            "changes_over_time": "PTH monitoring did not specify levels over time."
+        },
+        {
+            "procedure_name": "Bone-specific alkaline phosphatase (BAP)",
+            "date": "Not specified",
+            "findings": "BAP levels returned to within the normal range post-denosumab treatment.",
+            "changes_over_time": "BAP levels monitored but specific changes over time not detailed."
+        }
+    ]
+}

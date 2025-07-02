@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cardiovascular magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Marked compression of the inferior vena cava at end expiration; cross-sectional area and anterior-posterior diameter of the IVC decreased from 6 cm² and 21 mm during inspiration to 1.2 cm² and 3 mm during expiration.",
+            "changes_over_time": "Preoperative chest CT scan showed severe pectus deformity with an anterior-posterior intrathoracic distance of 1.2 cm; postoperative scan revealed no IVC compression during maximal expiration and improvement in minimal expiratory thoracic depth from 1.2 cm to 5.7 cm."
+        },
+        {
+            "procedure_name": "Chest computed tomography scan",
+            "date": "Not specified",
+            "findings": "Anterior-posterior intrathoracic distance of 1.2 cm; pectus severity index calculated at 18.8 (severe).",
+            "changes_over_time": "Postoperative scan revealed no IVC compression during maximal expiration and marked improvement in minimal expiratory thoracic depth from 1.2 cm to 5.7 cm."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Demonstrated placement of the pectus bar at the inferior sternum.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

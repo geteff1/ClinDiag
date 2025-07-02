@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.9°C",
+                "blood_pressure": "175/99 mm Hg",
+                "pulse": "84 bpm",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "neurologic": "Confused and minimally conversant, slow responses, oriented to person only.",
+                "musculoskeletal": "Muscle wasting of the neck.",
+                "skin": "Tight skin around the mouth and fingers, ash-colored, painful, and cool fingers."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "173/76 mm Hg",
+                "pulse": "75 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on ambient air"
+            },
+            "relevant_findings": {
+                "neurologic": "Slow to respond but provided clear answers.",
+                "musculoskeletal": "Marked thickening and puckering of the skin around the mouth, muscle wasting in the neck, motor strength in hip flexors less than 3 out of 5 bilaterally; unable to lift legs off bed.",
+                "lung": "Fine crackles at lung bases bilaterally.",
+                "skin": "Telangiectasias over face and upper chest."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

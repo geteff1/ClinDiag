@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "I-123 MIBG Scintigraphy",
+            "date": "Not specified",
+            "findings": "H:M ratio was 2.1 and washout rate was 21% before treatment; H:M ratio increased to 3.0 and washout rate decreased to 15% during treatment.",
+            "changes_over_time": "Increased H:M ratio and decreased washout rate during treatment compared to before treatment."
+        },
+        {
+            "procedure_name": "Tl-201 Scintigraphy",
+            "date": "Not specified",
+            "findings": "Nonreversible myocardial perfusion defects in the anterior, inferoposterior, and apical walls; unchanged after treatment.",
+            "changes_over_time": "Defects were unchanged before and after treatment."
+        }
+    ]
+}

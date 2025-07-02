@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Blood culture remained negative after 7 days.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Level",
+            "date": "Not specified",
+            "findings": "Hemoglobin level was 11 g/dL.",
+            "changes_over_time": "Decreased to 11.3 g/dL two weeks later."
+        },
+        {
+            "procedure_name": "White Blood Cell (WBC) Count",
+            "date": "Not specified",
+            "findings": "WBC was 14,720 cells/mm3.",
+            "changes_over_time": "Increased to 17,600 cells/mm3 two weeks later."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "CRP was 4 mg/dL.",
+            "changes_over_time": "Decreased to 1 mg/dL two weeks later."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "ESR was 7 mm/h.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Viral Cultures",
+            "date": "Not specified",
+            "findings": "Enterovirus grew convincingly from cardiac tissues on LLC-MK2 cell line culture.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Real-time RT-PCR",
+            "date": "Not specified",
+            "findings": "Enteroviral RNA was detected.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "appearance_of_fluid": "Clear, colorless",
+                "initial_pressure": "156 mm of water",
+                "glucose": "67 mg/dl (age 17), 68 mg/dl (age 23)",
+                "total_protein": "29 mg/dl (age 17), 37 mg/dl (age 23)",
+                "microscopical_examination": "No organisms",
+                "cells": "2 Lymphocytes (age 17), 0 (age 23)",
+                "cultures": "Negative",
+                "cryptococcal_antigen": "Negative",
+                "test_for_cysticercosis": "Negative"
+            },
+            "changes_over_time": {
+                "glucose_levels": "Not specified",
+                "total_protein": "Increased from 29 mg/dl to 37 mg/dl",
+                "cells": "Decreased from 2 lymphocytes to 0",
+                "microscopical_examination": "No organisms both times",
+                "cultures": "Negative both times",
+                "cryptococcal_antigen": "Negative both times",
+                "test_for_cysticercosis": "Negative both times"
+            }
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Normal while awake and asleep (both at age 17 and age 23)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin test (tuberculin)",
+            "date": "Not specified",
+            "findings": "Positive, producing a 13-mm induration",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "analysis": "Histopathological examination revealed a cyst circumscribed by a collagenous capsule, and evidence consistent with cysticercosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Heart rate: 113 bpm, Oxygen saturation: 91%",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 37.6°C, Heart rate: 115 bpm, Blood pressure: 126/83 mm Hg, Respiratory rate: 18 breaths/min, Oxygen saturation: 90% (increased to 93% on oxygen)",
+            "relevant_findings": "Auscultation revealed rhonchi and occasional wheezes on the right side, prominent systolic murmur at the right upper sternal border.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 37.7°C, Heart rate: 146 bpm, Blood pressure: 150/76 mm Hg, Respiratory rate: 46 breaths/min, Oxygen saturation: 88% (on non-rebreather mask)",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Worsening shortness of breath and diaphoresis developed."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 36.7°C, Heart rate: 98 bpm, Blood pressure: 116/77 mm Hg, Oxygen saturation: 93% (mechanical ventilator), Central venous pressure: 12-15 cm of water, Respiratory rate: 28 breaths/min",
+            "relevant_findings": "Auscultation revealed regular heart sounds, systolic murmur (grade 3/6) best heard at right upper sternal border, scant rales and rhonchi bilaterally, faint areas of livedo reticularis without rashes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

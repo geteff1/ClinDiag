@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Epinephrine",
+            "date": "Not specified",
+            "findings": "200 pg/ml (normal 10-200 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Norepinephrine",
+            "date": "Not specified",
+            "findings": "28,241 pg/ml (normal 80-520 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Dopamine",
+            "date": "Not specified",
+            "findings": "250 pg/ml (normal 0-20 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Metanephrines",
+            "date": "Not specified",
+            "findings": "656 pg/ml (normal 0-62 pg/ml)",
+            "changes_over_time": "Post-chemotherapy levels showed reduction: 587 pg/ml at 6 weeks, 454 pg/ml at 5 months, 506 pg/ml at 6 months"
+        },
+        {
+            "procedure_name": "Plasma Normetanephrines",
+            "date": "Not specified",
+            "findings": "28,011 pg/ml (normal 0-145 pg/ml)",
+            "changes_over_time": "Post-chemotherapy levels showed reduction: 27,112 pg/ml at 6 weeks, 16,586 pg/ml at 5 months, 13,690 pg/ml at 6 months"
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Positive for SDHB and TP53 germline mutations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

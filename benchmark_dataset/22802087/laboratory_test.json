@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "At 20 months, blood glucose was 2.6 mmol/L (47 mg/dL) during hypoglycemic symptoms.",
+            "changes_over_time": "Hypoglycemia resolved by age 6; no further symptoms of hypoglycemia."
+        },
+        {
+            "procedure_name": "Ketone production test",
+            "date": "Not specified",
+            "findings": "Inappropriate suppression of ketone production at 3 months.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "3 months",
+            "findings": "Blood glucose was 1.1 mmol/L (20 mg/dL) during a hypoglycemic seizure.",
+            "changes_over_time": "At 10 months, blood glucose increase of 3.3 mmol/L (60 mg/dL) after glucagon."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "42 months",
+            "findings": "Normal adaptation to fasting; no additional evidence of hyperinsulinism.",
+            "changes_over_time": "Hyperinsulinism was controlled on diazoxide and subsequently resolved."
+        },
+        {
+            "procedure_name": "Plasma insulin level",
+            "date": "During hypoglycemic event at 4 weeks",
+            "findings": "Plasma insulin level was 52 pmol/L (7.5 µU/mL).",
+            "changes_over_time": "Treatment successfully controlled hyperinsulinism on diazoxide."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "3 months",
+            "findings": "Abundant cytoplasmic glycogen with mild portal inflammation and fibrosis.",
+            "changes_over_time": "At age 6, mildly elevated liver transaminases and mild hepatomegaly were still present."
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "Elevated plasma alkaline phosphatase at 1 year.",
+            "changes_over_time": "Elevation persisted despite improvement of rickets."
+        }
+    ]
+}

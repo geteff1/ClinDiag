@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 9, 2020",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "blood_pressure": "130/86 mm Hg",
+                "pulse": "92 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "appearance": "chronically ill, flat affect, alert and oriented",
+                "neurologic_examination": {
+                    "difficulty": "stating the days of the week backward",
+                    "speech": "slow and dysarthric",
+                    "facial_droop": "right side",
+                    "pupils": "equal, round, reactive to light",
+                    "strength": {
+                        "right_arm": "4+/5",
+                        "right_leg": "5−/5",
+                        "left_arm": "normal",
+                        "left_leg": "normal"
+                    },
+                    "pronator_drift": "present on the right side",
+                    "sensation": "normal",
+                    "deep_tendon_reflexes": "normal",
+                    "babinski_reflex": "present on right foot",
+                    "clonus": {
+                        "right_ankle": "seven beats",
+                        "left_ankle": "three beats"
+                    },
+                    "spontaneous_shaking": "right leg"
+                },
+                "skin_examination": "multiple track marks on the arms, scattered areas of erythematous induration without fluctuance or tenderness"
+            },
+            "changes_over_time": "Facial asymmetry noted 2 months earlier. No improvement in neurologic deficits during hospitalization."
+        }
+    ]
+}

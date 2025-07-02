@@ -1,0 +1,85 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "pulse": "110 bpm",
+                "blood_pressure": "138/90 mm Hg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "cardiac_exam": "Normal",
+                "pulmonary_exam": "Normal",
+                "abdominal_exam": "Normal",
+                "prostate_exam": "Normal",
+                "thyroid_exam": "Normal",
+                "skin_exam": "Normal",
+                "flank_tenderness": "Absent",
+                "stool_guaiac": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "9 months earlier",
+            "vital_signs": {
+                "creatinine": "1.1 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": {
+                "creatinine": {
+                    "initial_value": "1.1 mg/dL",
+                    "current_value": "3.1 mg/dL at presentation",
+                    "trend": "Increased"
+                }
+            }
+        },
+        {
+            "date": "After initial evaluation",
+            "vital_signs": {
+                "blood_urea_nitrogen": "47 mg/dL",
+                "creatinine": "3.6 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Creatinine levels continued to rise."
+        },
+        {
+            "date": "During recent admission",
+            "vital_signs": {
+                "blood_urea_nitrogen": "59 mg/dL",
+                "creatinine": "2.0 mg/dL"
+            },
+            "relevant_findings": {
+                "white_cell_count": "33,000/mm³",
+                "hematocrit": "33%",
+                "platelet_count": "377,000/mm³"
+            },
+            "changes_over_time": {
+                "blood_urea_nitrogen": {
+                    "initial_value": "59 mg/dL",
+                    "after_hydration_value": "72 mg/dL",
+                    "trend": "Increased then stabilized"
+                },
+                "creatinine": {
+                    "initial_value": "2.0 mg/dL",
+                    "after_hydration_value": "1.6 mg/dL",
+                    "trend": "Decreased"
+                }
+            }
+        },
+        {
+            "date": "At time of discharge",
+            "vital_signs": {
+                "creatinine": "2.6 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": {
+                "creatinine": {
+                    "peak_value": "3.9 mg/dL",
+                    "discharge_value": "2.6 mg/dL",
+                    "trend": "Improvement"
+                }
+            }
+        }
+    ]
+}

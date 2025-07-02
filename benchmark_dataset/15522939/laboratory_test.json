@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum glucose",
+            "date": "Not specified",
+            "findings": "28 mg/dl (1.55 mmol/liter); normal range 68–110 mg/dl (3.7–6.1 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose (12-h fast)",
+            "date": "Not specified",
+            "findings": "70 mg/dl (3.9 mmol/liter)",
+            "changes_over_time": "Decreased to 47 mg/dl (2.6 mmol/liter) after 18 hours and 42 mg/dl (2.3 mmol/liter) after 20 hours."
+        },
+        {
+            "procedure_name": "Insulin levels",
+            "date": "Not specified",
+            "findings": "288.6 pmol/liter after 12-h fast; 402.6 pmol/liter after 18-h fast; 342.6 pmol/liter after 20-h fast.",
+            "changes_over_time": "Increased from 288.6 pmol/liter to 402.6 pmol/liter after 18 hours, then decreased to 342.6 pmol/liter after 20 hours."
+        },
+        {
+            "procedure_name": "C Peptide levels",
+            "date": "Not specified",
+            "findings": "1660 pmol/liter after 12-h fast; 1820 pmol/liter after 18-h fast; 1260 pmol/liter after 20-h fast.",
+            "changes_over_time": "Increased from 1660 pmol/liter to 1820 pmol/liter after 18 hours, then decreased to 1260 pmol/liter after 20 hours."
+        },
+        {
+            "procedure_name": "Serum glucose post-operation",
+            "date": "Not specified",
+            "findings": "303 mg/dl (16.8 mmol/liter); normal range 3.7–6.1 mmol/liter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting blood glucose",
+            "date": "6 weeks post-operation",
+            "findings": "120 mg/dl (6.66 mmol/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin levels post-operation",
+            "date": "6 weeks post-operation",
+            "findings": "95.4 pmol/liter; normal range 6–144 pmol/liter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

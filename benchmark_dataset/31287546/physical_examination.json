@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150 mm Hg",
+                "plasma_aldosterone_concentration": "68.3 ng/dL",
+                "plasma_renin_activity": "0.27 ng/mL/h",
+                "serum_potassium": "2.4 mEq/L",
+                "trans_tubular_potassium_gradient": "12.67",
+                "urine_free_cortisol": "44.4 mg (4.3 to 176 mg/24 h)"
+            },
+            "relevant_findings": "1.3-cm right adrenal mass; hypertension managed with multiple medications (calcium channel blocker, ARB, thiazide, beta-blocker).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "174/103 mm Hg",
+                "plasma_aldosterone_concentration": "45.6 ng/dL",
+                "plasma_renin_activity": "0.13 ng/mL/h",
+                "serum_potassium": "2.9 mEq/L",
+                "trans_tubular_potassium_gradient": "6.25"
+            },
+            "relevant_findings": "1.6-cm left adrenal mass; hypertension despite beta-blocker and ARB.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "One year after adrenalectomy",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient remains cured without medications after right laparoscopic adrenalectomy.",
+            "changes_over_time": "Initial hypertension resolved post-adrenalectomy, no residual hypertension noted."
+        },
+        {
+            "date": "One year after adrenalectomy",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient remains cured without medications following left adrenalectomy.",
+            "changes_over_time": "Hypertension resolved post-adrenalectomy, with no residual hypertension noted."
+        }
+    ]
+}

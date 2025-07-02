@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Metanephrines",
+            "date": "Not specified",
+            "findings": "Normetanephrine: 432 ng/mL (normal /H11021200); Metanephrine: 927 ng/mL (normal /H1102190)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary Metanephrines",
+            "date": "Not specified",
+            "findings": "Normetanephrine: 2523 /H9262g/d (normal /H11021600); Metanephrine: 4110 /H9262g/d (normal /H11021350)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Ultrasound",
+            "date": "6 years later",
+            "findings": "Thyroid nodule with a diameter of 5 mm",
+            "changes_over_time": "Basal calcitonin normal in all visits before, now mildly elevated at 7.9 pg/mL (normal /H110215.0); after stimulation with pentagastrin, calcitonin increased to 492 pg/mL."
+        },
+        {
+            "procedure_name": "Histopathology",
+            "date": "After thyroidectomy",
+            "findings": "Confirmed a 4-mm MTC with stromal desmoplasia, positive for calcitonin and chromogranin A in immunohistochemical staining.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Metanephrines (post-surgery)",
+            "date": "Not specified",
+            "findings": "Within normal range ( /H1102188 pg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcitonin",
+            "date": "Post-surgery",
+            "findings": "Nondetectable ( /H110212.0 pg/mL)",
+            "changes_over_time": "Patient considered to be in complete remission."
+        },
+        {
+            "procedure_name": "PTH and Serum Calcium",
+            "date": "Not specified",
+            "findings": "Always within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

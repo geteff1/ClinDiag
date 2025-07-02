@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose Test",
+            "date": "April 2016",
+            "findings": "Initial blood examination showed severe hypoglycemia at 1.4 mmol/L. After treatment, serum blood sugar level was restored to 9.5 mmol/L. Six days later, blood glucose level was recorded at 1.9 mmol/L. During admission, blood glucose measured at 2.2 mmol/L and fluctuated between 2.9 and 4.5 mmol/L.",
+            "changes_over_time": "Blood glucose levels were initially low (1.4 mmol/L), increased after treatment (9.5 mmol/L), decreased again to 1.9 mmol/L six days later, and fluctuated between 2.9 and 4.5 mmol/L during admission."
+        },
+        {
+            "procedure_name": "Potassium Level Test",
+            "date": "Not specified",
+            "findings": "Hypokalemia was observed with a potassium level of 3.08 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Hormone Test",
+            "date": "Not specified",
+            "findings": "FT3 = 2.53 pmol/L (normal range: 2.63–5.70 pmol/L), FT4 = 6.56 pmol/L (normal range: 9.01–19.05 pmol/L), TSH = 6.209 MIU/L (normal range: 0.35–4.94 MIU/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin Level Test",
+            "date": "Not specified",
+            "findings": "Severe hypo-insulinemia (<0.1 µU/ml) was noted along with a low C peptide (0.09 ng/ml) and low insulin release index (<0.002).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "GH Level Test",
+            "date": "Not specified",
+            "findings": "Low growth hormone (GH) level recorded at 0.075 ng/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Routine Blood Examination",
+            "date": "Not specified",
+            "findings": "Normal blood routine, liver and kidney function, and tumor markers; insulin antibody (IAA) was negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

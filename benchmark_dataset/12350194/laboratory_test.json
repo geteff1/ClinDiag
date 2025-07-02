@@ -1,0 +1,95 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_blood_cell_count": "28700/H1100310³/µL (elevated)",
+                "hematocrit": "33.7% (not specified if normal or abnormal)",
+                "platelet_count": "285000 /H1100310³/µL (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "creatinine_level": "1.0 mg/dL (88 µmol/L) (normal)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "1+ (abnormal)",
+                "cells": "no cells"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": {
+                "ESR": "40 mm/h (elevated)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibodies (ANA)",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anticardiolipin Antibodies",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Russell Viper Venom Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "35.1 seconds (normal: 27.0-45.0 seconds)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Plasma Reagin Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "Nonreactive"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Immunofluorescence Assay for ANCA",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B and C Tests",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": {
+                "result": "No abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

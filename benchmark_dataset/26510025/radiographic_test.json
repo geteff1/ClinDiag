@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "mass in the right middle lobe and a right pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "homogeneous opacity (5.8 cm by 4.9 cm) extending from the pleura to the hilum, interlobular septal thickening in the right middle lobe, mediastinal and right hilar lymphadenopathy, and a loculated right pleural effusion",
+            "changes_over_time": "The loculated right pleural effusion was larger than that seen on the previous scan."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "mass in the right middle lobe, atelec-tasis in both lower lobes, and a loculated right pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiographs",
+            "date": "Not specified",
+            "findings": "mass in the right middle lobe, patchy left basilar opacity consistent with atelectasis, stable right pleural effusion, and moderate left pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "7 months after first admission",
+            "findings": "new bilateral subpleural ground-glass and reticular opacities, subpleural nodular consolidation in the left lower lobe, and consolidation in the medial right lung around the bronchial stump",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the hip",
+            "date": "Not specified",
+            "findings": "right superior labral tear with surrounding inflammatory change and a left adnexal cyst; no evidence of fracture or osteonecrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest CT",
+            "date": "Not specified",
+            "findings": "decrease in the size of the pulmonary consolidation and complete normalization of the previously inflamed iliac vessels",
+            "changes_over_time": "The size of the pulmonary consolidation decreased over time."
+        }
+    ]
+}

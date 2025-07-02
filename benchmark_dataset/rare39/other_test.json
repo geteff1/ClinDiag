@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Anti-amphiphysin antibody tested positive in cerebrospinal fluid (CSF).",
+            "changes_over_time": "CSF analysis remained unchanged during the second admission."
+        },
+        {
+            "procedure_name": "Immunoblotting for anti-amphiphysin antibody",
+            "date": "Not specified",
+            "findings": "Positive in both cerebrospinal fluid (CSF) and serum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tissue-based indirect immunofluorescence assay (TBA)",
+            "date": "Not specified",
+            "findings": "Revealed IgG antibody to Purkinje cells of the monkey cerebellum and dentate gyrus glia cells of the monkey hippocampus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

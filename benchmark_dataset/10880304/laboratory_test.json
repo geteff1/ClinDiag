@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Initially yielded Acinetobacter lwofii. Subsequent cultures were negative.",
+            "changes_over_time": "The blood culture result changed from positive with Acinetobacter lwofii to negative on subsequent testing."
+        },
+        {
+            "procedure_name": "Complete Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Chemistry Analysis",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture of Blood Specimens",
+            "date": "Not specified",
+            "findings": "Yielded a gram-negative rod consistent with M. mesophilicum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microscopic Examination",
+            "date": "Not specified",
+            "findings": "Demonstrated distinctive nonstaining vacuoles in the gram-negative rod.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture of Catheter Tip",
+            "date": "Not specified",
+            "findings": "Yielded the same gram-negative rod (M. mesophilicum).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

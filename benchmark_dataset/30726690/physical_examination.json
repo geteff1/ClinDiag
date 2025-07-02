@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "150/74 mm Hg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Patient appeared well.",
+                "funduscopic": "No signs of retinopathy.",
+                "thyroid": "No thyromegaly.",
+                "cardiovascular": "Normal heart sounds with a systolic murmur (grade 2/6) over the apex.",
+                "pulmonary": "Lungs clear.",
+                "abdominal": "Soft abdomen with no organomegaly.",
+                "lymphatic": "No lymphadenopathy."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One month after hospitalization",
+            "vital_signs": {
+                "blood_urea_nitrogen": "50 mg/dL",
+                "creatinine": "2.2 mg/dL",
+                "hematocrit": "27.8%",
+                "white_cell_count": "5300/mm³",
+                "neutrophils_percentage": "74.5%"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Worsening renal function."
+        },
+        {
+            "date": "Two weeks after hospitalization",
+            "vital_signs": {
+                "blood_urea_nitrogen": "67 mg/dL",
+                "creatinine": "2.1 mg/dL"
+            },
+            "relevant_findings": "Presenting with fever, chills, and dysuria. Salmonella enteritidis isolated from urine and blood cultures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two weeks after discharge",
+            "vital_signs": "Not specified.",
+            "relevant_findings": {
+                "rash": "Erythematous and violaceous rash with small plaques, scaling, and desquamation on back, arms, and feet."
+            },
+            "changes_over_time": "Development of rash which was present predominantly over two weeks."
+        },
+        {
+            "date": "Six months after therapy initiation",
+            "vital_signs": {
+                "blood_urea_nitrogen": "25 mg/dL",
+                "creatinine": "1.6 mg/dL"
+            },
+            "relevant_findings": "Rash resolved, and renal function improved.",
+            "changes_over_time": "Improvement in renal function and resolution of rash."
+        }
+    ]
+}

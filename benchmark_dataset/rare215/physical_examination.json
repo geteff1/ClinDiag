@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0°C",
+                "pulse": "119 bpm",
+                "blood_pressure": "101/64 mmHg",
+                "SpO2": "86% on 6 L/min oxygen via reservoir mask"
+            },
+            "relevant_findings": {
+                "conjunctival_pallor": "Absent",
+                "jaundice": "Absent",
+                "palpable_cervical_lymph_nodes": "Absent",
+                "heart_murmurs": "Absent",
+                "lung_examination": "Fine crackles heard in both lungs",
+                "lower_limb_edema": "Absent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.8°C",
+                "pulse": "91 bpm",
+                "blood_pressure": "123/72 mm Hg",
+                "respiratory_rate": "24 breaths per minute"
+            },
+            "relevant_findings": {
+                "oxygen_saturation": {
+                    "with_nasal_cannula": "90%",
+                    "with_nonrebreather_mask": "92%",
+                    "with_high_flow_oxygen": "94%"
+                },
+                "lung_exam": [
+                    "scattered fine crackles",
+                    "wheezes",
+                    "high-pitched inspiratory 'squeaks' and 'pops' in both lungs diffusely"
+                ],
+                "abdominal_exam": "very mild tenderness in the mid-epigastrium"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately 8 hours after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "symptoms": [
+                    "dry cough",
+                    "progressive dyspnea",
+                    "increased crackles on lung auscultation",
+                    "worsened hypoxemia with intermittent decline in oxygen saturation to 75%"
+                ]
+            },
+            "changes_over_time": "Progression of respiratory distress with worsening hypoxemia"
+        },
+        {
+            "date": "Twenty-two hours after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "procedure": "endotracheal intubation and initiation of mechanical ventilation",
+                "bronchoscopy_findings": [
+                    "thin, foamy secretions in the left and right bronchi",
+                    "mild, diffuse airway erythema"
+                ]
+            },
+            "changes_over_time": "Initial signs of respiratory distress progressed to requiring mechanical ventilation"
+        }
+    ]
+}

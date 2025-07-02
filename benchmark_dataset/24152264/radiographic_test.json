@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Possible fullness in the body and tail of the pancreas (distal pancreas); interpreted as normal at subsequent evaluation.",
+            "changes_over_time": "Subsequent CT scan of the abdomen and pelvis showed a normal portal vein but indicated a hooked appearance of the base of the celiac artery, suggesting compression."
+        },
+        {
+            "procedure_name": "Endoscopic ultrasound examination",
+            "date": "Not specified",
+            "findings": "No pancreatic abnormality but showed increased periportal and peripancreatic collateral blood flow.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Reportedly negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mammography",
+            "date": "Not specified",
+            "findings": "Reportedly negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Breast ultrasonography",
+            "date": "Not specified",
+            "findings": "Reportedly negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

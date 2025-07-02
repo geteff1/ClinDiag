@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "March 1996",
+            "findings": "Mild homogeneous pituitary enlargement.",
+            "changes_over_time": "Follow-up MRI scan showed a less prominent gland."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "March 1996",
+            "findings": "Multiple enlarged cervical nodes and a 2-cm right adrenal nodule.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Increased intensity in the right adrenal nodule but not classic for pheochromocytoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

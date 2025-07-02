@@ -1,0 +1,20 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Disseminated blastomycosis",
+        "differential_diagnosis": [
+            "Cryptococcosis",
+            "Squamous cell carcinoma",
+            "Lupus vulgaris",
+            "Bromoderma",
+            "Iododerma",
+            "Pyoderma gangrenosum",
+            "Other deep fungal infections"
+        ],
+        "diagnostic_reasoning": [
+            "Skin biopsy revealed yeast forms consistent with Blastomyces dermatitidis.",
+            "Fungal cultures from bronchoscopy and skin specimens also grew Blastomyces dermatitidis.",
+            "Initial misdiagnosis of cryptococcosis was ruled out after observing the specific characteristics of B dermatitidis in tissue with GMS staining.",
+            "Improvement of lung and skin lesions after initiating treatment with itraconazole further supported the diagnosis."
+        ]
+    }
+}

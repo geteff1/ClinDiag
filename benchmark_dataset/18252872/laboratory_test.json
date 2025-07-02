@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Normal complete blood cell count.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet Count and International Normalized Ratio (INR)",
+            "date": "Not specified",
+            "findings": "Normal platelet count and INR.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Mean Corpuscular Volume (MCV)",
+            "date": "Not specified",
+            "findings": "Previously elevated at times.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Vitamin B12 Levels",
+            "date": "Recent",
+            "findings": "Normal levels recently; borderline low levels when first evaluated years ago.",
+            "changes_over_time": "Initially borderline low, resolved with treatment."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal liver function test results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine Phosphokinase Levels (CPK)",
+            "date": "Not specified",
+            "findings": "Persistently high levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyrotropin, Immunoglobulins, and Folate Levels",
+            "date": "Not specified",
+            "findings": "All levels normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV Test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "135/70 mmHg",
+                "pulse_rate": "79 beats/min"
+            },
+            "relevant_findings": {
+                "grip_strength": {
+                    "right": "5.9 kg",
+                    "left": "5.8 kg"
+                },
+                "walking_speed": "0.45 m/sec",
+                "body_weight": "50 kg",
+                "body_height": "170 cm",
+                "body_mass_index": "17.30 kg/m2",
+                "acromegalic_features": [
+                    "prominent brow ridges",
+                    "macroglossia",
+                    "thickened nose"
+                ],
+                "neurological_examination": "suggested carpal tunnel syndrome",
+                "reflexes": "decreased bilateral ankle reflex",
+                "sensation": "decreased vibration sensations without symptoms"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

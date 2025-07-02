@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Bone marrow biopsy revealed a relapse of leukemia.",
+            "changes_over_time": "A repeat bone marrow biopsy 6 months later revealed relapse after achieving initial remission."
+        },
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Bone marrow biopsy showed persistent disease.",
+            "changes_over_time": "A month later, after a second round of chemotherapy, bone marrow biopsy continued to show persistent disease."
+        }
+    ]
+}

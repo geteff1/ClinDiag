@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Bone scan and plain radiographs",
+            "date": "1979",
+            "findings": "Increased uptake in the proximal left femur, corresponding to a 3.5 cm well defined lytic lesion arising within the medullary cavity.",
+            "changes_over_time": "The metastatic lesion in the femur remained unchanged."
+        },
+        {
+            "procedure_name": "[123I]metaiodobenzylguanidine ([123I]MIBG) scintigraphy",
+            "date": "1999",
+            "findings": "Uptake in the liver, left femur, and posterior mediastinum near the aortic arch.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI scan of the chest",
+            "date": "1999",
+            "findings": "A 2-cm nodule inferior to the right pulmonary artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "October 2001",
+            "findings": "A large hypervascular lobulated mass in the caudate and right lobes of the liver, causing complete occlusion of the vena cava.",
+            "changes_over_time": "No pronounced change in size of the mass compared with the size seen on previous computerized images obtained over 22 yr."
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "October 2001",
+            "findings": "A 2-cm mass within the superior right aspect of the body of vertebra L3 consistent with metastatic disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "1997",
+            "findings": "Two masses (1.7 and 1.5 cm) at the level of the right renal vein.",
+            "changes_over_time": "A CT scan performed 1 yr postoperatively showed no evidence of recurrent or metastatic disease."
+        }
+    ]
+}

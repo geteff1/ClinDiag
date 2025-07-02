@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "193/103 mm Hg",
+                "pulse": "72 bpm",
+                "temperature": "35.8°C",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98% on ambient air"
+            },
+            "relevant_findings": {
+                "abdominal": "Obese abdomen, without striae",
+                "skin": "Hyperpigmentation of face and palmar creases",
+                "motor_strength": "4+ out of 5 in arms and legs, normal reflexes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On Admission",
+            "vital_signs": {
+                "pulse": "56 bpm",
+                "electrocardiogram": "Sinus bradycardia, rate of 41 bpm"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On 6th hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "motor_strength": {
+                    "arms": "4+ out of 5",
+                    "legs": "4 out of 5",
+                    "deep_tendon_reflexes": "Absent in both legs",
+                    "sensation": {
+                        "temperature": "Normal",
+                        "vibration": "Normal",
+                        "proprioception": "Normal",
+                        "pinprick": "Decreased in trunk and pelvic girdle"
+                    }
+                }
+            },
+            "changes_over_time": "Weakness, numbness, and tingling developed; inability to stand or sit, urinary incontinence progressed."
+        },
+        {
+            "date": "On 8th hospital day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "motor_strength": {
+                    "upper_arms": "1 to 3 out of 5",
+                    "fingers": "0 to 4 out of 5",
+                    "upper_legs": "0 out of 5",
+                    "lower_legs": "2 out of 5"
+                }
+            },
+            "changes_over_time": "Weakness progressed to flaccid quadriparesis."
+        }
+    ]
+}

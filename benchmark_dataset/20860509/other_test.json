@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal, with no evidence of valvular vegetations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Malrotation of the left extrarenal pelvis, multiple cortical defects in the left kidney consistent with scarring, urinary catheter in the urethra, mildly enlarged spleen (14.8 cm), prominent lymph nodes, and trace free fluid in the pelvis.",
+            "changes_over_time": "Persistent mild splenomegaly with peripheral wedge-shaped areas of hypoattenuation consistent with infarcts."
+        },
+        {
+            "procedure_name": "CT scan of the abdomen after intravenous administration of contrast",
+            "date": "Not specified",
+            "findings": "Multiple wedge-shaped areas of hypoenhancement in the periphery of the spleen consistent with splenic infarcts.",
+            "changes_over_time": "Unchanged from previous CT."
+        },
+        {
+            "procedure_name": "Ultrasonography of kidneys and lower extremities",
+            "date": "Not specified",
+            "findings": "Normal, with no evidence of hydronephrosis or deep venous thrombosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat serologic testing for EBV",
+            "date": "10 days after admission",
+            "findings": "Presence of IgM antibodies against viral capsid antigen and the absence of IgG antibodies, indicating acute EBV infection.",
+            "changes_over_time": "10 months later, IgG antibodies against viral capsid antigen and EBV nuclear antigen were present, indicating seroconversion."
+        }
+    ]
+}

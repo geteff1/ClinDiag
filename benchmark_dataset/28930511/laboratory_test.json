@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count was 13,300 per cubic millimeter (reference range, 4500 to 11,000); remainder of CBC was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Assay",
+            "date": "Not specified",
+            "findings": "Positive at a titer of 1:40 with a speckled pattern.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "47.7 mg per liter (reference range, <8.0).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "62 mm per hour (reference range, 0 to 20).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal by dipstick; sediment revealed no red cells, no bacteria, and 5 to 10 white cells per high-power field (reference range, 0 to 2).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Synovial Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Nucleated-cell count of 96,000 per cubic millimeter with neutrophil predominance.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Positive for gram-negative diplococci after 15 days of illness.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

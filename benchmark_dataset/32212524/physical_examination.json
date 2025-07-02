@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.1°C",
+                "pulse": "103 bpm",
+                "blood_pressure": "165/55 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "mental_status": "alert and oriented",
+                "cardiac_exam": "normal",
+                "pulmonary_exam": "normal",
+                "abdominal_exam": "normal",
+                "lab_findings": "creatinine level increased from baseline of 2.4 mg/dL to 3.2 mg/dL; mild pulmonary congestion on chest radiograph"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "93 bpm",
+                "blood_pressure": "153/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "90%"
+            },
+            "relevant_findings": {
+                "mental_status": "oriented to self and location",
+                "mucous_membranes": "dry",
+                "neck": "supple",
+                "lymphadenopathy": "none",
+                "bruising": "none",
+                "rash": "none",
+                "other": "remainder of physical examination was normal"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "peripheral_blood_smear": "showed red cells with hypochromic forms, scattered schistocytes (3 per high-power field), and decreased platelets",
+                "remark": "no immature forms or blasts"
+            },
+            "changes_over_time": "Pancytopenia worsened over the course of 5 days with hematocrit falling from 37.8% to 27.8%, platelet count from 121,000 to 21,000, and white-cell count from 4500 to 3710."
+        }
+    ]
+}

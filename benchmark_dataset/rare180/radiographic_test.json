@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Poorly defined opacity in the basal right lung, signs of reduced volume secondary to lobar atelectasis, effacement of the ipsilateral costophrenic angle due to a moderate pleural effusion, and elevation of the right diaphragm due to a right thoracostomy tube.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Biatrial enlargement (left atrium 44 m1/m2, right atrium 35 m1/m2), left ventricle of usual size and morphology without segmental contractility disorders, preserved systolic function (LVEF 65%), enlarged right cardiac chambers with preserved right ventricle systolic function and signs of volume overload, and massive functional tricuspid insufficiency (ERO 0.72 cm2, 70 ml regurgitating volume) with an eccentric jet directed towards the right atrium's lateral wall.",
+            "changes_over_time": "Gerbode type defect was observed using shaken saline solution as contrast fluid."
+        },
+        {
+            "procedure_name": "transesophageal echocardiogram",
+            "date": "Postoperative follow-up (not specified)",
+            "findings": "Satisfactory closure of the tricuspid valve and Gerbode's defect.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

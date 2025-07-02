@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "138/94 mmHg",
+                "pulse": "63 bpm",
+                "breathing_rate": "18 respirations per minute",
+                "temperature": "36°C",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Physical examination was unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "troponin_I": "38 ng/mL before CABG"
+            },
+            "relevant_findings": "Emergent coronary angiogram demonstrated a large thrombus in the left main coronary artery and a second thrombus occluding the distal left anterior descending coronary artery.",
+            "changes_over_time": "An intra-aortic balloon pump was placed after the patient developed congestive heart failure following coronary angiography."
+        }
+    ]
+}

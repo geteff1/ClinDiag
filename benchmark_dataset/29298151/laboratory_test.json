@@ -1,0 +1,95 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "leukocyte_count": "10,960 per cubic millimeter",
+                "hemoglobin": "18.9 g per deciliter",
+                "platelet_count": "167,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "126 mmol per liter",
+                "potassium": "3.9 mmol per liter",
+                "chloride": "85 mmol per liter",
+                "bicarbonate": "28 mmol per liter"
+            },
+            "changes_over_time": "Hyponatremia resolved after fluid resuscitation."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen and Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "BUN": "14 mg per deciliter (5.0 mmol per liter)",
+                "creatinine": "1.8 mg per deciliter (159 μmol per liter)"
+            },
+            "changes_over_time": "Creatinine decreased to 1.1 mg per deciliter (97 μmol per liter) after fluid resuscitation."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "total_protein": "7.9 g per deciliter (normal range, 6.0 to 8.2)",
+                "albumin": "4.4 g per deciliter",
+                "aminotransferases": "Normal",
+                "alkaline_phosphatase": "Normal",
+                "bilirubin": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastrin Level",
+            "date": "Not specified",
+            "findings": {
+                "gastrin": "2678 pg per milliliter (normal value, <100)"
+            },
+            "changes_over_time": "After chemoembolization, gastrin level fell to 950 pg per milliliter."
+        },
+        {
+            "procedure_name": "Chromogranin A Level",
+            "date": "Not specified",
+            "findings": {
+                "chromogranin_A": "144 ng per milliliter (normal value, <15)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase Level",
+            "date": "Not specified",
+            "findings": {
+                "lipase": "137 U per liter (normal range, 16 to 63)",
+                "lipase_after_fluid": "84 U per liter"
+            },
+            "changes_over_time": "Decreased to 84 U per liter after intravenous hydration."
+        },
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": {
+                "ESR": "3 mm per hour (normal range, 0 to 20)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": {
+                "CRP": "2.1 mg per liter (normal value, <5)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Imaging Studies - MRI",
+            "date": "Not specified",
+            "findings": {
+                "mass": "2.2-cm spherical mass in the liver, consistent with hepatocellular carcinoma"
+            },
+            "changes_over_time": "One year after diagnosis, showed further tumor expansion."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest x-ray",
+            "date": "Not specified",
+            "findings": "No abnormalities were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cerebral ultrasound",
+            "date": "Not specified",
+            "findings": "No abnormalities were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cerebral computer tomography (CT)",
+            "date": "Not specified",
+            "findings": "No abnormalities were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "thorax CT",
+            "date": "25 days of age",
+            "findings": "Swollen thymus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

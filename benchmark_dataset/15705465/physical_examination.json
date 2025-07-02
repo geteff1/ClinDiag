@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "August 2003",
+            "vital_signs": {
+                "blood_pressure": "160/105 mm Hg",
+                "creatinine": "160 mmol/L",
+                "urinary_creatinine_clearance": "66 mL/min",
+                "total_cholesterol": "9.6 mmol/L",
+                "LDL_cholesterol": "7.2 mmol/L",
+                "serum_creatine_phosphokinase": "744 U/L",
+                "TSH": "146 mU/L",
+                "thyroxin": "3.1 pmol/L"
+            },
+            "relevant_findings": {
+                "alopecia": "Present",
+                "hypertension": "Not specified",
+                "electrocardiogram": "ST-segment elevation in the anteroseptal leads and negative T waves in the anterolateral leads"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3 months later",
+            "vital_signs": {
+                "blood_pressure": "135/80 mm Hg",
+                "creatinine_clearance": "102 mL/min",
+                "total_cholesterol": "4.4 mmol/L",
+                "creatine_phosphokinase": "Normal",
+                "electrocardiogram": "Normal"
+            },
+            "relevant_findings": {
+                "alopecia": "Not specified"
+            },
+            "changes_over_time": "Blood pressure improved; creatinine clearance improved; total cholesterol decreased; creatine phosphokinase returned to normal; electrocardiogram normalized."
+        },
+        {
+            "date": "6 months later",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "alopecia": "Largely subsided"
+            },
+            "changes_over_time": "Alopecia improved considerably."
+        }
+    ]
+}

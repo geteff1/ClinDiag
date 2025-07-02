@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Minimal lower lobe subsegmental atelectatic changes along with a mild degree of perihilar pulmonary vascular congestion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "A 3-cm mass occluding the left mainstem bronchus, extending into the left upper and lower lobe bronchi.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron emission tomography (PET) scan",
+            "date": "Not specified",
+            "findings": "No lymphadenopathy and no fluoro-deoxyglucose accumulation seen in the left endobronchial lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scanning",
+            "date": "3-year follow-up",
+            "findings": "No evidence of recurrent disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

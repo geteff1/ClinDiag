@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Basilar consolidation in the right lung, small pleural effusion on the right side, increased interstitial markings bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Hyperdensities adjacent to the frontal horn of the left lateral ventricle in the vicinity of the caudate head and in the left basal ganglia, suggestive of a small hemorrhagic infarct. Prominent ventricles and sulci.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "High T2-weighted signal intensity in a lesion in the left basal ganglia and in a lesion in the left thalamus, diffusion abnormality in the left caudate head, brain atrophy, and small-vessel ischemic changes; no mass effect or midline shift.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions and basilar atelectasis, no evidence of pulmonary edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Enlarged right lobe of the thyroid with low-density nodules, dilated esophagus, air-liquid level in upper thoracic segment, scattered small and slightly enlarged mediastinal lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Dilatation of the left frontal horn and ill-defined area of hyperdensity in the left caudate nucleus suggestive of chronic ischemic changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal-size kidneys, increased echogenicity, no nephrolithiasis or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

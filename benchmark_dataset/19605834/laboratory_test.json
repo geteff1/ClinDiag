@@ -1,0 +1,90 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "12 weeks before admission",
+            "findings": {
+                "Hematocrit (%)": "21.7",
+                "Hemoglobin (g/dl)": "8.6",
+                "White-cell count (per mm3)": "2200",
+                "Platelet count (per mm3)": "7000",
+                "Lactic dehydrogenase (U/liter)": "1245"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "First Admission",
+            "findings": {
+                "Hematocrit (%)": "24.3",
+                "Hemoglobin (g/dl)": "10.2",
+                "White-cell count (per mm3)": "3700",
+                "Platelet count (per mm3)": "12000",
+                "Lactic dehydrogenase (U/liter)": "837"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Second Admission",
+            "findings": {
+                "Hematocrit (%)": "29.3",
+                "Hemoglobin (g/dl)": "10.7",
+                "White-cell count (per mm3)": "2900",
+                "Platelet count (per mm3)": "7000",
+                "Lactic dehydrogenase (U/liter)": "190"
+            },
+            "changes_over_time": "Increasing hemoglobin, hematocrit; decreasing white cell and platelet counts."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "15th Hospital Day",
+            "findings": {
+                "Hematocrit (%)": "30.2",
+                "Hemoglobin (g/dl)": "9.5",
+                "White-cell count (per mm3)": "400",
+                "Platelet count (per mm3)": "31000",
+                "Lactic dehydrogenase (U/liter)": "Not specified"
+            },
+            "changes_over_time": "Decreasing hemoglobin and hematocrit; increasing platelet count; severe neutropenia."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "31st Hospital Day",
+            "findings": {
+                "Hematocrit (%)": "25.3",
+                "Hemoglobin (g/dl)": "Not specified",
+                "White-cell count (per mm3)": "200",
+                "Platelet count (per mm3)": "10000",
+                "Lactic dehydrogenase (U/liter)": "Not specified"
+            },
+            "changes_over_time": "Decreasing hemoglobin, platelet count; severe leukopenia."
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "First Admission",
+            "findings": {
+                "Total (mg/dl)": "2.0",
+                "Direct (mg/dl)": "0.6"
+            },
+            "changes_over_time": "Total bilirubin decreased to 0.4 mg/dL on Second Admission."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "First Admission",
+            "findings": {
+                "Prothrombin time (sec)": "13.8",
+                "International normalized ratio": "1.2"
+            },
+            "changes_over_time": "Prothrombin time increased to 16.0 sec by 15th Hospital Day."
+        },
+        {
+            "procedure_name": "Lactic dehydrogenase",
+            "date": "Second Admission",
+            "findings": {
+                "Lactic dehydrogenase (U/liter)": "190"
+            },
+            "changes_over_time": "Decreased from 1245 to 190 U/liter between admissions."
+        }
+    ]
+}

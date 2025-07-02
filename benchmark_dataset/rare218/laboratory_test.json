@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary oxalate levels",
+            "date": "72 hours of life",
+            "findings": "318 mMol/Mol creatinine (normal range <300 mMol/Mol creatinine), normal kidney function (creatinine 0.8 mg/dl)",
+            "changes_over_time": "At 7 days of age, urinary oxalate levels increased to 1,200 mMol/Mol. At 21 days, urinary oxalate concentrations started to reduce and reached normal value at 9 months."
+        },
+        {
+            "procedure_name": "Plasma oxalate levels",
+            "date": "7 days of age",
+            "findings": "68 µMol/L (normal range <4 µMol/L)",
+            "changes_over_time": "Plasma oxalate levels were 10 µMol/L at 6 months and 6 µMol/L at 20 months."
+        },
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "7 days of age",
+            "findings": "0.68 mg/dl",
+            "changes_over_time": "GFR matured normally during the first year of life, presenting normal renal function from birth to the last follow-up."
+        }
+    ]
+}

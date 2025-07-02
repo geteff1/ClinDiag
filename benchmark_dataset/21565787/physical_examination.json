@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "TSH": "34.61 IU/ml (0.44–8.80 IU/ml)",
+                "free_T4": "1.7 ng/dl (0.9–2.3 ng/dl)",
+                "T4": "8.4 µg/dl (7.2–15.6 µg/dl)",
+                "T3": "109 ng/dl (105–245 ng/dl)",
+                "high_serum_thyroglobulin": "309.12 ng/ml (6.44–82.82 ng/ml)",
+                "sweat_test": "Chloride concentration 87 and 91 mEq/liter"
+            },
+            "relevant_findings": "At birth, the patient was diagnosed with an imperforated anus. A high TSH level was detected by neonatal screening; diagnostic confirmation of congenital hypothyroidism was achieved through serum measurements.",
+            "changes_over_time": "While TSH levels returned to normal with thyroid hormone therapy, the patient's stature growth rate and weight gain were abnormal at follow-up."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "WBC count of 331 cells/mL (76% lymphocytes), protein level of 119 mg/dL, normal glucose level.",
+            "changes_over_time": "The patient's mental status deteriorated after initial treatment and later improved with ganciclovir and foscarnet combination therapy."
+        },
+        {
+            "date": "Hospital Day 14",
+            "vital_signs": "Not specified",
+            "relevant_findings": "EEG revealed bifrontal epileptiform discharges and evolving seizure activity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Hospital Day 12",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CSF positive for HHV-6 by PCR (viral load, 30,000 copies/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Hospital Day 21",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Brain MRI revealed diffuse, symmetric foci of abnormal diffusion signal throughout the subcortical white matter and middle cerebellar peduncle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Hospital Day 40",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Increased glucose level to 47 mg/dL, decreased WBC count to 6 cells/mL, and decreased HHV-6 load to 4400 copies/mL.",
+            "changes_over_time": "There was a significant decrease in pleocytosis and improvement in glucose levels."
+        }
+    ]
+}

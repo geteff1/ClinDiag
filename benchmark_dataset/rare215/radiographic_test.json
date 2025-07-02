@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Multiple pulmonary infiltrates observed in both lung fields.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse infiltrates and ground-glass opacities dominantly on the dorsal side of both lower lobes.",
+            "changes_over_time": "On the 11th day of illness, there was significant improvement in the infiltrates and ground-glass opacities in both lungs."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum potassium",
+            "date": "Not specified",
+            "findings": "8.9 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "6.8 mmol/L (41 mg/dL)",
+            "changes_over_time": "Decreased to 4.2 mmol/L (25 mg/dL) after treatment"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "210 mmol/L (2.4 mg/dL)",
+            "changes_over_time": "Decreased to 130 mmol/L (1.5 mg/dL) after treatment"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "August 1993",
+            "findings": "Right kidney 8.7 cm, left kidney 10.5 cm, creatinine 170 mmol/L (1.9 mg/dL), no evidence of hydronephrosis or polycystic disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BUN and creatinine at age 58",
+            "date": "Not specified",
+            "findings": "BUN 12 mmol/L (70 mg/dL), Creatinine 850 mmol/L (9.6 mg/dL)",
+            "changes_over_time": "Progressive renal failure over 11 years"
+        },
+        {
+            "procedure_name": "Serum aldosterone levels",
+            "date": "Not specified",
+            "findings": "36 pmol/L (low under basal conditions)",
+            "changes_over_time": "Responded poorly to cosyntropin"
+        },
+        {
+            "procedure_name": "24-h urine aldosterone-18-glucuronide",
+            "date": "Not specified",
+            "findings": "Less than 1 mg/1840 mg creatinine",
+            "changes_over_time": "Urinary tetrahydroaldosterone undetectable on two separate occasions when tested off therapy"
+        },
+        {
+            "procedure_name": "18-hydroxycorticosterone",
+            "date": "Not specified",
+            "findings": "1320 pmol/L",
+            "changes_over_time": "Post-ACTH levels increased to 2900 pmol/L"
+        },
+        {
+            "procedure_name": "Corticosterone",
+            "date": "Not specified",
+            "findings": "44 nmol/L",
+            "changes_over_time": "Increased to 142 nmol/L post-ACTH"
+        },
+        {
+            "procedure_name": "Deoxycorticosterone",
+            "date": "Not specified",
+            "findings": "760 pmol/L",
+            "changes_over_time": "Increased to 2000 pmol/L post-ACTH"
+        },
+        {
+            "procedure_name": "18-hydroxydeoxycorticosterone",
+            "date": "Not specified",
+            "findings": "380 pmol/L",
+            "changes_over_time": "Post-ACTH levels increased to 3960 pmol/L"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "516 nmol/L",
+            "changes_over_time": "Increased to 1170 nmol/L post-ACTH"
+        },
+        {
+            "procedure_name": "Plasma Renin Activity (PRA)",
+            "date": "Not specified",
+            "findings": "15.7 ng/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

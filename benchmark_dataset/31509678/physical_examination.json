@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "116/72 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "92%"
+            },
+            "relevant_findings": {
+                "blue_hue_perioral_region": "Yes",
+                "clubbing": "No",
+                "accessory_muscles": "No",
+                "breath_sounds": "Bronchial breath sounds in right upper lung fields; diffuse, faint rhonchi",
+                "heart_sounds": "Regular, no murmur noted",
+                "hypermobility": "Present in joints of the hands and arms"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

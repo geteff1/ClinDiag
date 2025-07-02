@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Nonspecific ST-segment and T-wave changes; otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "Normal (reference range <15).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "40.7% (reference range, 42 to 52).",
+            "changes_over_time": "Stable over time."
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "22 mm per hour (reference range <15).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Timed Urine Collections for Catecholamines",
+            "date": "5 and 7 weeks after presentation",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Chloride Level",
+            "date": "Seven weeks after initial presentation",
+            "findings": "98 mmol per liter (reference range, 100 to 108).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Calcium Level",
+            "date": "Seven weeks after initial presentation",
+            "findings": "11.0 mg per deciliter (reference range, 8.5 to 10.5).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Albumin Level",
+            "date": "Seven weeks after initial presentation",
+            "findings": "5.1 g per deciliter (reference range 3.3 to 5.0).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "12 weeks after initial presentation",
+            "findings": {
+                "Appearance": "Pale pink, slightly turbid",
+                "Red cells, tube 1": "985 per mm3",
+                "White cells, tube 1": "8 per mm3",
+                "Protein": "79 mg/dl",
+                "Glucose": "69 mg/dl",
+                "Cytologic analysis": "No malignant cells",
+                "Nucleic acid testing": "None detected"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Tests for Autoimmune Antibodies",
+            "date": "Follow-up after treatment",
+            "findings": "Serum showed intense reactivity with antibodies to LGI1 at presentation; lower levels at 6 months; no detectable antibodies at 17 months.",
+            "changes_over_time": "Levels of antibodies declined significantly over time."
+        },
+        {
+            "procedure_name": "MRI of the Brain",
+            "date": "Not specified",
+            "findings": [
+                "Increased T2-weighted signal intensity",
+                "Mild expansion of the left amygdala and hippocampus without enhancement",
+                "Mild nonspecific change in the white matter"
+            ],
+            "changes_over_time": "Repeated MRI showed similar findings after contrast administration."
+        },
+        {
+            "procedure_name": "FDG-PET",
+            "date": "Not specified",
+            "findings": "Focus of abnormal hypermetabolism in the left medial temporal lobe.",
+            "changes_over_time": "Hypermetabolism remained pronounced within the amygdaloid nucleus, with later examinations showing improvement correlating with clinical recovery."
+        }
+    ]
+}

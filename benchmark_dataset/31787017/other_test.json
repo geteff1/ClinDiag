@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "rsfMRI",
+            "date": "Not specified",
+            "findings": "At baseline, the patient exhibited significantly increased functional connectivity between the medial prefrontal cortex and superior frontal gyrus, and between the anterior cingulate cortex and precuneus.",
+            "changes_over_time": "Both differences were no longer detectable 200 minutes and 1 day after ketamine infusion, but altered SAN-precuneus connectivity was evident again after 7 days."
+        },
+        {
+            "procedure_name": "Beck Depression Inventory –II (BDI)",
+            "date": "Not specified",
+            "findings": "On admission, the patient had a BDI score of 54, indicating severe depression.",
+            "changes_over_time": "65% reduction in BDI score 170 minutes after ketamine infusion."
+        },
+        {
+            "procedure_name": "Montgomery-Åsberg Depression Rating Scale (MADRS)",
+            "date": "Not specified",
+            "findings": "On admission, the patient had a MADRS score of 43, indicating severe depression.",
+            "changes_over_time": "73% reduction in MADRS score 50 minutes after ketamine infusion."
+        },
+        {
+            "procedure_name": "Columbia-Suicide Severity Rating Scale (C-SSRS)",
+            "date": "Not specified",
+            "findings": "On admission, the patient's C-SSRS score was 21, indicating high suicidal ideation.",
+            "changes_over_time": "C-SSRS score dropped to 13, indicating a substantial reduction in suicidal ideation 200 minutes after ketamine infusion."
+        },
+        {
+            "procedure_name": "Clinician-Administered Dissociative States Scale (CADSS)",
+            "date": "Not specified",
+            "findings": "Dissociative symptoms peaked at a score of 24, suggesting significant dissociative experiences.",
+            "changes_over_time": "CADSS score decreased to 2 after 130 minutes."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Insulin tolerance test",
+            "date": "Not specified",
+            "findings": "Basal ACTH value of 6 pmol/L confirmed low cortisol response.",
+            "changes_over_time": "At age 13, normal cortisol response; at age 30, cortisol deficiency detected."
+        },
+        {
+            "procedure_name": "GnRH stimulation test",
+            "date": "Not specified",
+            "findings": "Undetectable LH and FSH values.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin tolerance test",
+            "date": "1999",
+            "findings": "Cortisol production normal and GH was deficient.",
+            "changes_over_time": "Cortisol levels were initially normal; changes are unspecified."
+        },
+        {
+            "procedure_name": "Clonidine test",
+            "date": "Not specified",
+            "findings": "Detected GH deficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin tolerance test",
+            "date": "1999",
+            "findings": "Cortisol production normal and GH was deficient.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Short ACTH test",
+            "date": "Not specified",
+            "findings": "Confirmed ACTH deficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TRH and GnRH stimulation tests",
+            "date": "Not specified",
+            "findings": "Normal basal PRL but sub-normal response to TRH.",
+            "changes_over_time": "PRL decreased from age 9 to 26 years."
+        }
+    ]
+}

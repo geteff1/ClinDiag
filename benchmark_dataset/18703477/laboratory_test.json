@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "3 Yr Earlier",
+            "findings": "34.8% (Outside normal range: 41.0-53.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "3 Yr Earlier",
+            "findings": "11.9 g/dL (Outside normal range: 13.5-17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "3 Yr Earlier",
+            "findings": "77 μm3 (Outside normal range: 80-100)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "3 Yr Earlier",
+            "findings": "10,100 per mm3 (Within normal range: 4500-11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "3 Yr Earlier",
+            "findings": "436,000 per mm3 (Within normal range: 150,000-350,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron",
+            "date": "3 Yr Earlier",
+            "findings": "14 μg/dL (Outside normal range: 45-160)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "3 Yr Earlier",
+            "findings": "180 ng/ml (Within normal range: 30-300)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "3 Yr Earlier",
+            "findings": "63 mm/hr (Outside normal range: 0-17)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testosterone Total",
+            "date": "3 Yr Earlier",
+            "findings": "24 ng/dL (Outside normal range: 270-1070)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid-stimulating hormone",
+            "date": "2 Yr Earlier",
+            "findings": "2.06 μU/ml (Within normal range: 0.35-5.50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "12.8 μg/dl (Morning; Outside normal range: 5-25)",
+            "changes_over_time": "Measured 30 min post-corticotropin: 3.3; 60 min post-corticotropin: 4.1 (Both lower than expected response)"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone",
+            "date": "Not specified",
+            "findings": "1.8 mIU/ml (Within normal range: 1-8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luteinizing hormone",
+            "date": "Not specified",
+            "findings": "<2.0 mIU/ml (Outside normal range: 2-12)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Corticotropin",
+            "date": "Not specified",
+            "findings": "9 pg/ml (Within normal range: 6-48)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

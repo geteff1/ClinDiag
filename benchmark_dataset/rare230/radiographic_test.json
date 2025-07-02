@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cytogenetic analysis",
+            "date": "Not specified",
+            "findings": "Mosaic karyotype (45XY,der(15)?t(15;21),-21 [1]/46,XY [2]) in the proband. The chromosomal karyotypes of the parents were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Deletion of 22.7 Mb in the chr15q11.2q21.1 region and a 2.1 Mb deletion in the chr21q22.3 region with a copy number of about 1.5.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation-specific multiplex ligation-dependent probe amplification (MS-MLPA)",
+            "date": "Not specified",
+            "findings": "Copy number of the 15q11-q13 region ranged between 0.5–0.7 (normal value 0.7–1.3), indicating the presence of gene deletion mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylation analysis",
+            "date": "Not specified",
+            "findings": "Methylation level of approximately 70% (normal value 50%), indicating partial deletion of the methylated paternal allele due to a mosaic deletion of the paternal allele.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

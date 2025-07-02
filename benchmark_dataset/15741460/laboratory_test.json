@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cardiac Evaluation",
+            "date": "Not specified",
+            "findings": "Mr. A was found to be in full-blown congestive heart failure with a low ejection fraction and four-chamber cardiac dilation.",
+            "changes_over_time": "Condition deteriorated over time leading to heart failure diagnosis."
+        },
+        {
+            "procedure_name": "Neurological Workup",
+            "date": "Not specified",
+            "findings": "No significant findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pulmonary Evaluation",
+            "date": "Not specified",
+            "findings": "Rule out possible pulmonary infiltrate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Biopsy",
+            "date": "Not specified",
+            "findings": "Assess for signs of rejection post-transplant.",
+            "changes_over_time": "Followed up weekly; no significant complications were reported."
+        }
+    ]
+}

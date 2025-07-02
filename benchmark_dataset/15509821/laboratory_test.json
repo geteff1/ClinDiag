@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "A heterogeneous region of low attenuation in the right frontal lobe without evidence of enhancement after administration of contrast material. There was mass effect on adjacent structures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "A nonenhancing right frontal-lobe lesion with some mass effect. The bulk of the lesion has signal characteristics of solid tissue — bright on T2-weighted and FLAIR sequences, isointense to slightly hypointense to gray matter on T1-weighted sequences.",
+            "changes_over_time": "On the final study, some dorsolateral infiltrative signal remains, but the initial high-grade component is no longer present."
+        },
+        {
+            "procedure_name": "Magnetic resonance spectroscopy",
+            "date": "Not specified",
+            "findings": "The finding of a region of higher metabolic activity with a choline-to-creatine ratio greater than 4:1, indicating a possible grade 2 to 3 astrocytic tumor or anaplastic oligodendroglioma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing (allelic loss analysis)",
+            "date": "Not specified",
+            "findings": "Demonstrated allelic loss for both 1p and 19q.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

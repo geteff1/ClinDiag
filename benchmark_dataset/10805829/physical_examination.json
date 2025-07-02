@@ -1,0 +1,82 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.5°C",
+                "pulse": "75 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "blood_pressure": "100/80 mmHg"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Slight tachypnea",
+                    "Dullness and crackles at the base of the left lung",
+                    "Ego bronchophony",
+                    "Consolidation at the apex of the right lung"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Eschar on the left ear, present for about a month."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On 8th hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "A few crackles at the base of the left lung."
+                ]
+            },
+            "changes_over_time": "Improvement in examination findings with absence of cough, dyspnea, or chest pain."
+        },
+        {
+            "date": "On 11th hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Improvement in air-space opacities and pleural effusion on radiographs."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Just before discharge",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Decreased opacity in the left lower and right upper lung zones."
+                ]
+            },
+            "changes_over_time": "Improvement noted before discharge."
+        }
+    ]
+}

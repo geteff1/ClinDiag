@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sodium test",
+            "date": "Not specified",
+            "findings": "Hypo-natraemia (Na 129 mmol/L; normal 135–145 mmol/L)",
+            "changes_over_time": "Plasma sodium normalised over the next few hours."
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP) test",
+            "date": "Not specified",
+            "findings": "Raised CRP (305 mg/L; normal <5 mg/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Random cortisol test",
+            "date": "Not specified",
+            "findings": "Very low random cortisol (<17 nmol/L; normal 9 am cortisol 160–550 nmol/L)",
+            "changes_over_time": "Peaked at 19 nmol/L post-ACTH (normal >550 nmol/L)."
+        },
+        {
+            "procedure_name": "ACTH stimulation test",
+            "date": "Not specified",
+            "findings": "Peaked at 19 nmol/L post-ACTH (normal >550 nmol/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine sodium test",
+            "date": "Not specified",
+            "findings": "Urine sodium was 138 mmol/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma renin test",
+            "date": "Not specified",
+            "findings": "Raised plasma renin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Aldosterone test",
+            "date": "Not specified",
+            "findings": "Low aldosterone.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Head CT scan",
+            "date": "Not specified",
+            "findings": "Generalised cerebral oedema observed on initial scan, normal appearance on repeat scan after 48 hours.",
+            "changes_over_time": "Cerebral oedema resolved within 48 hours."
+        },
+        {
+            "procedure_name": "MRI brain",
+            "date": "Not specified",
+            "findings": "Normal, other than a small focus of abnormal signal in the corpus callosum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anti-adrenal cortex antibody test",
+            "date": "Not specified",
+            "findings": "Positive anti-adrenal cortex antibody titre.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

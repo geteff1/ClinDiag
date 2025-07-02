@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "consolidation in the right lower lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "subtle density in the lower lobe of the left lung",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "single large pulmonary arteriovenous malformation (AVM) in the left lower lobe with aneurysmal dilation of the venous sac measuring 4 cm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transcutaneous pulmonary angiogram",
+            "date": "Not specified",
+            "findings": "large AVM in the left lower lobe with a single feeding artery measuring 10.6 mm in diameter",
+            "changes_over_time": "Follow-up angiograms revealed no residual flow in the AVM after the procedure."
+        }
+    ]
+}

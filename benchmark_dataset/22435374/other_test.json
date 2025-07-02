@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Prostate biopsy",
+            "date": "Not specified",
+            "findings": "Pathological examination revealed no evidence of tumor in several biopsies. A fifth biopsy showed a tiny focus of adenocarcinoma (Gleason score 6 out of 10).",
+            "changes_over_time": "No significant changes until the last biopsy, which revealed the presence of a low-grade adenocarcinoma."
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Two weeks later from initial evaluation",
+            "findings": "Indeterminate lesions were noted in the lumbar spine and uptake in a rib and skull; thought to possibly indicate dental disease.",
+            "changes_over_time": "A follow-up bone scan showed no changes or new uptake since the previous study."
+        },
+        {
+            "procedure_name": "MRI of the lumbar spine",
+            "date": "Three weeks before the evaluation",
+            "findings": "No enhancement of the lesion in the L3 vertebral body, noted potential benign features.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transperineal Template-Guided Mapping Biopsy (TTMB)",
+            "date": "Three months after the initial evaluation",
+            "findings": "Adenocarcinoma with Gleason score 7 identified in all cores taken from the anterior prostate; one minute focus of adenocarcinoma (score 6) also found.",
+            "changes_over_time": "The latest biopsy indicated a larger tumor volume (Gleason score 7) compared to earlier findings with only minimal cancer."
+        },
+        {
+            "procedure_name": "Radical prostatectomy",
+            "date": "Six months after the initial evaluation",
+            "findings": "A 2-cm focus of adenocarcinoma was seen confined to the prostate with a Gleason score of 7. Negative resection margins.",
+            "changes_over_time": "The carcinoma was diagnosed after the elevated PSA levels and TTMB findings; no prior significant findings of cancer."
+        }
+    ]
+}

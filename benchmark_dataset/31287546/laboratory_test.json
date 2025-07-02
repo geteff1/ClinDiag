@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma aldosterone concentration (PAC)",
+            "date": "Not specified",
+            "findings": "68.3 ng/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma renin activity (PRA)",
+            "date": "Not specified",
+            "findings": "0.27 ng/mL/h",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PAC/PRA ratio",
+            "date": "Not specified",
+            "findings": "252.96 ng/dL per ng/mL/h",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum potassium",
+            "date": "Not specified",
+            "findings": "2.4 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trans-tubular potassium gradient",
+            "date": "Not specified",
+            "findings": "12.67",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine free cortisol level",
+            "date": "Not specified",
+            "findings": "44.4 mg (normal range: 4.3 to 176 mg/24 h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salt-loading test",
+            "date": "Not specified",
+            "findings": "Failed to suppress PAC (76 ng/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dexamethasone suppression test",
+            "date": "Not specified",
+            "findings": "PAC reduced from 71 ng/dL to 9.6 ng/dL",
+            "changes_over_time": "Significant reduction noted"
+        },
+        {
+            "procedure_name": "Plasma aldosterone concentration (PAC) (younger brother)",
+            "date": "Not specified",
+            "findings": "45.6 ng/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma renin activity (PRA) (younger brother)",
+            "date": "Not specified",
+            "findings": "0.13 ng/mL/h",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PAC/PRA ratio (younger brother)",
+            "date": "Not specified",
+            "findings": "350.76 ng/dL per ng/mL/h",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum potassium (younger brother)",
+            "date": "Not specified",
+            "findings": "2.9 mEq/L (normal range: 3.5 to 5.3 mEq/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trans-tubular potassium gradient (younger brother)",
+            "date": "Not specified",
+            "findings": "6.25",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salt-loading test (younger brother)",
+            "date": "Not specified",
+            "findings": "Failed to suppress serum PAC (66.5 ng/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

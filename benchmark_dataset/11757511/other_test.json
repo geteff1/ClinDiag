@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation at a ventricular rate of 130 beats per minute, without evidence of ischemic changes.",
+            "changes_over_time": "The ECG later revealed atrial fibrillation at a ventricular rate of 100 beats per minute, without evidence of myocardial infarction."
+        },
+        {
+            "procedure_name": "Thoracic CT scan",
+            "date": "Second hospital day",
+            "findings": "Moderate pleural effusions, a small pericardial effusion, and patchy air-space opacities in the lower lobes, the lingula, and the right upper lobe, suggesting pneumonia and basilar atelectasis.",
+            "changes_over_time": "A repeated thoracic CT scan disclosed the same bilateral pleural effusions, small pericardial effusion, and right-upper-lobe and lingular opacities; the basilar atelectasis was slightly improved."
+        },
+        {
+            "procedure_name": "Serologic test for ehrlichia",
+            "date": "Day before admission",
+            "findings": "IgM level of 2.2 U (normal level, less than 1) and IgG level of 5.2 U (normal level, less than 1).",
+            "changes_over_time": "Three weeks later, levels showed increased IgM greater than 11.4 U and IgG 15.5 U, indicating recent infection by human granulocytic ehrlichia."
+        },
+        {
+            "procedure_name": "Stress test",
+            "date": "Eighth hospital day",
+            "findings": "Normal rhythm while at rest, with atrial premature beats and nonspecific ST-segment and T-wave abnormalities.",
+            "changes_over_time": "At a deliberately submaximal work load, no evidence of ischemia or infarction was seen."
+        }
+    ]
+}

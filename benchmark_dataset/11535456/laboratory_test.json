@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual acuity testing",
+            "date": "Not specified",
+            "findings": "Best-corrected visual acuity ranged from 20/30 to 2 feet/200 (mean, 20/112; logMAR 0.75).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color vision testing",
+            "date": "Not specified",
+            "findings": "Color vision averaged 4.0/10 plates correctly identified (range, 0–10).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Goldmann visual field testing",
+            "date": "Not specified",
+            "findings": "Demonstrated central or paracentral scotomas in seven of the eight patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intraocular pressure measurement",
+            "date": "Not specified",
+            "findings": "Normal intraocular pressures (mean, 15.0 mmHg; range, 10–19 mmHg).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optic nerve photographs",
+            "date": "Not specified",
+            "findings": "Cup-to-disc ratio of more than 0.5 observed in at least one eye of eight patients. Temporal pallor was observed in all eyes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

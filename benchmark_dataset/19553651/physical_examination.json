@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "blood_pressure": "139/69 mm Hg",
+                "pulse": "79 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "eye_examination": "Purulent drainage from the eyes.",
+                "lung_examination": "Crackles at the bases of both lungs.",
+                "skin_examination": {
+                    "description": "Coalescing papules and plaques covering most of the skin surface with desquamation involving approximately half the surface of the back.",
+                    "nikolsky_sign": "Weakly positive."
+                },
+                "general": "Patient appeared weak and ill."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "170/65 mm Hg",
+                "pulse": "54 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "eye_examination": "Purulent discharge and erosions on eyelids, trace injection of the conjunctiva, and serous crusting on the lips.",
+                "skin_examination": {
+                    "description": "Confluent macular erythema on the face, trunk, and limbs, extending to the knees; innumerable nonfollicular pustules, 1 to 2 mm in diameter; extensive areas of superficial desquamation on the back with a positive Nikolsky’s sign; targetoid macules and plaques on trunk, legs, and palms."
+                },
+                "general": "Patient appeared ill."
+            },
+            "changes_over_time": "Skin involvement was estimated to be approximately 76% of body-surface area."
+        }
+    ]
+}

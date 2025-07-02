@@ -1,0 +1,154 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma sodium",
+            "date": "Not specified",
+            "findings": "124 mmol/liter (normal range 136–146)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma potassium",
+            "date": "Not specified",
+            "findings": "5.5 mmol/liter (normal range 3.8–5.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma C-reactive protein",
+            "date": "Not specified",
+            "findings": "Initially 922 mmol/liter, increasing to 3210 mmol/liter (normal range 0–94)",
+            "changes_over_time": "Increased over time"
+        },
+        {
+            "procedure_name": "Plasma urea nitrogen",
+            "date": "Not specified",
+            "findings": "17.5 mmol/liter (normal range 1.8–5.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma sodium (sibling 2)",
+            "date": "Not specified",
+            "findings": "124 mmol/liter (normal range 136–146)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma potassium (sibling 2)",
+            "date": "Not specified",
+            "findings": "6.8 mmol/liter (normal range 3.2–4.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma C-reactive protein (sibling 2)",
+            "date": "Not specified",
+            "findings": "Initially 1202 mg/liter, increasing to 2448 mg/liter (normal range 110–210)",
+            "changes_over_time": "Increased over time"
+        },
+        {
+            "procedure_name": "Plasma urea nitrogen (sibling 2)",
+            "date": "Not specified",
+            "findings": "8.6 mmol/liter (normal range 2.5–7.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum testosterone (sibling 1)",
+            "date": "Not specified",
+            "findings": "1.62 nmol/liter (normal range 0.11–1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "/H90044-androstenedione (sibling 1)",
+            "date": "Not specified",
+            "findings": "4.81 nmol/liter (normal range 0.77–4.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHA) (sibling 1)",
+            "date": "Not specified",
+            "findings": "18,000 nmol/liter (normal range 270–3,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH (sibling 1)",
+            "date": "Not specified",
+            "findings": "40 pmol/liter (normal range 2–11)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH stimulation test - serum 17-OHP (sibling 1)",
+            "date": "Not specified",
+            "findings": "71 nmol/liter (normal range 12.8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma renin concentration (sibling 1)",
+            "date": "Not specified",
+            "findings": "271 mIU/liter (normal range 6–60)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum testosterone (sibling 2)",
+            "date": "Not specified",
+            "findings": "1.24 nmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "/H90044-androstenedione (sibling 2)",
+            "date": "Not specified",
+            "findings": "3.22 nmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHA) (sibling 2)",
+            "date": "Not specified",
+            "findings": "8,600 nmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 17-OHP (sibling 2)",
+            "date": "Not specified",
+            "findings": "74 nmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal studies (sibling 2 post-treatment)",
+            "date": "Not specified",
+            "findings": "Cortisol increased with treatment; new hormonal studies after stress indicated hormonal imbalance consistent with condition.",
+            "changes_over_time": "Post-treatment revealed hormonal changes compared to pre-treatment"
+        },
+        {
+            "procedure_name": "Plasma renin (sibling 1 during follow-up)",
+            "date": "Not specified",
+            "findings": "342 mIU/liter",
+            "changes_over_time": "Increased from previous measurements post-treatment"
+        },
+        {
+            "procedure_name": "Plasma ACTH (sibling 1 during follow-up)",
+            "date": "Not specified",
+            "findings": "2 pmol/liter",
+            "changes_over_time": "Decreased from previous measurements post-treatment"
+        },
+        {
+            "procedure_name": "/H90045-OHP (sibling 1 during follow-up)",
+            "date": "Not specified",
+            "findings": "12.88 mg per 24 h (median 0.00; range 0.00–0.06)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "17-OHP urine metabolites (sibling 1 during follow-up)",
+            "date": "Not specified",
+            "findings": "15.27 mg per 24 h (median 0.055; range 0.00–0.50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine steroid metabolites (sibling 1 during follow-up)",
+            "date": "Not specified",
+            "findings": "High concentrations of /H90045-OHP and DHA metabolites.",
+            "changes_over_time": "Comparison with normal ranges indicated significant abnormalities."
+        },
+        {
+            "procedure_name": "Plasma hormone levels after hydrocortisone treatment",
+            "date": "Not specified",
+            "findings": "Following hydrocortisone treatment: 3.2 nmol/liter for 17-OHP (normal range 1.2), 18.6 nmol/liter for sibling 2 (likely stressed).",
+            "changes_over_time": "Post-treatment analysis showed improvement in some hormone levels."
+        }
+    ]
+}

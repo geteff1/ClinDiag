@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm; ST-segment elevations of 1 to 2 mm in leads V2 to V4, with a biphasic T wave in V3; and deep, symmetric T-wave inversions in leads V4 to V6.",
+            "changes_over_time": "A repeat electrocardiogram showed persistent ST-segment elevation and T-wave inversions."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Minimal luminal irregularities with no evidence of plaque rupture or thrombus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "On third hospital day",
+            "findings": "Ejection fraction of 35%; moderate mitral regurgitation; mild ventricular systolic dysfunction with akinesis of the apex, mid anterior wall, mid anteroseptum, mid septum, and mid posterior wall.",
+            "changes_over_time": "A repeat echocardiogram one month after discharge showed left ventricular hypertrophy with normal left ventricular function, estimated ejection fraction of 75%, and resolution of the mitral regurgitation."
+        }
+    ]
+}

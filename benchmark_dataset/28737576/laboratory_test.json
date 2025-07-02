@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Cortisol",
+            "date": "Not specified",
+            "findings": "20.2 μg/dL (reference range, 3.7 –19.4 μg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Cortisol",
+            "date": "Not specified",
+            "findings": "898.5 μg/24 h (reference range, 4.3 –176 μg/24 h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Within reference ranges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18F-FDG PET/CT",
+            "date": "Not specified",
+            "findings": "Intensely increased 18F-FDG uptake within the lesions from right adrenal (SUVmax 19.7, SUVaverage 11.9) and left kidney (SUVmax 9.4, SUVaverage 5.6)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

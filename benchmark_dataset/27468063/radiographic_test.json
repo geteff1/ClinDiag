@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Diffuse bulky lymphadenopathy throughout the mediastinum and both hilar regions, fine reticular lung markings, evidence of previous granulomatous disease in the right middle lobe, enlarged heart, thyroid nodule, and ill-defined enlargement of the left adrenal gland.",
+            "changes_over_time": "Persistent bulky mediastinal lymphadenopathy was also present."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Prominent right hilum with a lobulated contour, extensive mediastinal and hilar lymphadenopathy, prominent interstitial markings and reticular opacities suggestive of pulmonary edema, and an increased cardiothoracic ratio indicative of cardiomegaly.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

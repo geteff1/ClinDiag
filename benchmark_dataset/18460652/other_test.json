@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Baseline electrocardiogram recommended.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dilated retinal examination",
+            "date": "Not specified",
+            "findings": "Recommended to rule out diabetic retinopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Measurement of creatinine clearance and urinary protein excretion",
+            "date": "Not specified",
+            "findings": "Recommended to rule out nephropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stress testing (Electrocardiogram or echocardiogram)",
+            "date": "Not specified",
+            "findings": "Recommended if baseline ECG is abnormal or if there is evidence of vascular disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

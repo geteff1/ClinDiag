@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No acute disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "No obstruction, free air, or stones",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Area of sigmoid diverticulosis, thickening of the wall of the sigmoid colon, and a peripherally calcified right iliac artery with infiltration of the surrounding fat",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex ultrasonography",
+            "date": "Not specified",
+            "findings": "No flow in the right common femoral artery and absent systolic pressures in the right ankle",
+            "changes_over_time": "Indicated developing arterial insufficiency"
+        },
+        {
+            "procedure_name": "Technetium-99m scintigraphy",
+            "date": "Not specified",
+            "findings": "Active bleeding in the rectosigmoid colon",
+            "changes_over_time": "Confirmed site of bleeding consistent with an apparent arterioenteric fistula"
+        }
+    ]
+}

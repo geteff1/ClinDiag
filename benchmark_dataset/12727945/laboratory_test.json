@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormonal Profile",
+            "date": "Not specified",
+            "findings": "Low testosterone, low FSH, low LH levels, unresponsive to GnRH test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Audiometry",
+            "date": "Not specified",
+            "findings": "Sibling A: profound bilateral sensorineural hearing loss; Sibling B: normal; Sibling C: unilateral sensorineural defect in high frequencies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Sibling A: bilateral hypoplasia of olfactory bulbs; Sibling B: bilateral aplasia of olfactory bulbs; Sibling C: right olfactory bulb aplasia, left olfactory bulb hypoplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Olfactometry",
+            "date": "Not specified",
+            "findings": "Sibling A: normal detection but abnormal identification thresholds; Sibling B: strongly hyposmic detection and severe identification disability; Sibling C: upper normal limit detection, abnormal identification thresholds.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "58 mU/liter (elevated)",
+            "changes_over_time": "At 14 d of age, high serum TSH level persisted at 151 mU/liter; subsequently reduced to 7.0 mU/liter within 1 week after treatment."
+        },
+        {
+            "procedure_name": "Total T4",
+            "date": "Not specified",
+            "findings": "5.2 µg/dl (slightly low)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "2 years later",
+            "findings": "5.3 mU/liter (reference range, 0.3–4.2 mU/liter)",
+            "changes_over_time": "TSH levels were 4.2, 3.2, and 3.4 mU/liter at follow-ups at 3, 6, and 12 months, respectively."
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "2 years later",
+            "findings": "1.4 ng/dl (within reference range, 0.9–1.7 ng/dl)",
+            "changes_over_time": "Corresponding free T4 concentrations were 1.4, 1.5, and 1.4 ng/dl at follow-ups at 3, 6, and 12 months, respectively, remained unchanged."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests (Parent Results)",
+            "date": "Not specified",
+            "findings": "Mother: Free T4 1.2 ng/dl, Free T3 3.4 ng/liter, TSH 1.3 mU/liter. Father: Free T4 1.6 ng/dl, Free T3 3.9 ng/liter, TSH 0.9 mU/liter (all within reference ranges).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

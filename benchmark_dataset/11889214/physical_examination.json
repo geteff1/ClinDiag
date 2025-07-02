@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "At birth",
+            "vital_signs": {
+                "length": "43.0 cm",
+                "weight": "3.25 kg",
+                "head_circumference": "34.0 cm"
+            },
+            "relevant_findings": "Normal delivery in cephalic position without asphyxia. Developmental milestones were normal. No episode of otitis media.",
+            "changes_over_time": "At 19 months of age, remained markedly short with severe mesomelia and moderate rhizomelia. Exhibited normal weight and head circumference."
+        },
+        {
+            "date": "19 months",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Exhibited severe short stature but had normal weight and head circumference. Both hands showed ulnar deviation, and there was no clinically recognizable short metacarpal or cubitus valgus. Normal hearing acuity.",
+            "changes_over_time": "The patient remained markedly short with persistent severe mesomelia and moderate rhizomelia."
+        }
+    ]
+}

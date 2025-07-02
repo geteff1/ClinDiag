@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Plain radiographs",
+            "date": "Not specified",
+            "findings": "No appreciable abnormalities of the knee; the patella was not yet ossified.",
+            "changes_over_time": "Repeat radiographs demonstrated hypoplasia of the femoral condyles as well as a proximally positioned patella (patella alta)."
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Proximally positioned patella.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "One year postoperatively",
+            "findings": "The patella was positioned in the patellofemoral groove and the reconstructed patellar tendon was intact.",
+            "changes_over_time": "At two years postoperatively, the reconstructed patellar tendon and the patella were in the physiologic position but the quadriceps muscle remained atrophic."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging",
+            "date": "Two years postoperatively",
+            "findings": "The patella is in a relatively normal position; the reconstructed patellar tendon is intact.",
+            "changes_over_time": "The quadriceps muscle remains atrophic."
+        },
+        {
+            "procedure_name": "Radiographs",
+            "date": "Not specified",
+            "findings": "The patella was in a more proximal position than normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

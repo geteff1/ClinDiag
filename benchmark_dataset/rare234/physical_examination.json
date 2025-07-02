@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general_appearance": "Pale",
+                "skin": "Numerous erythematous, subcutaneous nodules on face, neck, breasts, abdomen, back, and limbs, indurated and ulcerated with signs of extensive necrosis. No lesions on mucous membranes or scalp.",
+                "abdominal_examination": "Liver and spleen palpable.",
+                "lymphatic_system": "No peripheral lymphadenopathy."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

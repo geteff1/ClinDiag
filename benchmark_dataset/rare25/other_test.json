@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Whole-Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Single-nucleotide variants (SNVs) and InDels called using Genome Analysis Toolkit (GATK); variants filtered and annotated according to ACMG guidelines.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "MKS1 mutations validated in the aborted fetuses and the couple.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RT-PCR and qPCR",
+            "date": "Not specified",
+            "findings": "MKS1 expression analyzed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": "Protein expression and interactions studied.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "co-immunoprecipitation (co-IP)",
+            "date": "Not specified",
+            "findings": "Protein interactions studied.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preimplantation Genetic Testing for Monogenic Disorders (PGT-M)",
+            "date": "Not specified",
+            "findings": "Whole-genome amplification of each embryo biopsy sample performed; 60 SNP markers linked to the mutation alleles selected for linkage analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal copy number and mutation site analysis",
+            "date": "Not specified",
+            "findings": "Analysis performed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

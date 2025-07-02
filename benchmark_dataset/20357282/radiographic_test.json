@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Slightly increased posterior-wall thickness, preserved ejection fraction of 50%, normal left ventricular end-diastolic volume of 170 ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Not specified",
+            "findings": "Normal coronary arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Areas with late enhancement, slightly increased left ventricular volume and mass, and slightly decreased left ventricular ejection fraction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

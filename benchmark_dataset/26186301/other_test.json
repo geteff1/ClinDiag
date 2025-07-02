@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Leptin sequencing",
+            "date": "Not specified",
+            "findings": "Homozygous c.309C/H11022A substitution in the LEP gene resulting in a p.N103K mutation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ELISA for leptin measurement",
+            "date": "Not specified",
+            "findings": "Detected high levels of circulating leptin in both siblings; Patient A: 250 ng/mL, Patient B: 270 ng/mL.",
+            "changes_over_time": "Leptin levels recorded before and after treatment: Patient A's leptin levels went from 59.7 ng/mL (Day 0) to 64 ng/mL (Week 8), while Patient B's levels decreased from 74.6 ng/mL (Day 0) to 20.4 ng/mL (Week 8)."
+        },
+        {
+            "procedure_name": "Treatment with metreleptin",
+            "date": "Not specified",
+            "findings": "Led to improvement in hyperphagia and weight loss.",
+            "changes_over_time": "Weight decreased from 77.9 kg to 71.7 kg for Patient A and from 50.4 kg to 46.6 kg for Patient B after the start of treatment."
+        }
+    ]
+}

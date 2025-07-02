@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genomic DNA extraction",
+            "date": "Not specified",
+            "findings": "Genomic DNA was extracted from peripheral blood using QIAamp DNA Mini Kit and quantified with Nanodrop 2000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genomic DNA library construction",
+            "date": "Not specified",
+            "findings": "A genomic DNA library was constructed using NEXTflex® Rapid DNA-Seq Kit.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA sequencing",
+            "date": "Not specified",
+            "findings": "The libraries were captured by xGen Exome Research Panel v2 and sequenced by Novaseq 6000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA extraction",
+            "date": "Not specified",
+            "findings": "Total RNA was extracted from peripheral blood samples using TRIzol Reagent and reverse transcribed to cDNA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR for gene c.1373+1G>A",
+            "date": "Not specified",
+            "findings": "PCR was performed with specific primers designed upstream and downstream of gene c.1373+1G>A variation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Agarose gel electrophoresis and sequencing",
+            "date": "Not specified",
+            "findings": "PCR products were separated by 2% agarose gel electrophoresis and sequenced by ABI 3500.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Brain MRI was performed on the patient at age 8 years.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "A muscle biopsy was performed on the patient at age 8 years and processed with standard methods for histology and histochemistry.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

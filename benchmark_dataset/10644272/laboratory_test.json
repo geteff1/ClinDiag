@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "65 mmol/L (3.8 mg/dL)",
+                "direct_bilirubin": "41 mmol/L (2.4 mg/dL)",
+                "ALT": "31.57 mkat/L",
+                "AST": "46.68 mkat/L",
+                "alkaline_phosphatase": "3.4 mkat/L",
+                "prothrombin_time": "92.7 seconds (INR 9.59)",
+                "albumin": "36 g/L",
+                "creatinine": "300 mmol/L (3.4 mg/dL)"
+            },
+            "changes_over_time": {
+                "aspartate_aminotransferase": {
+                    "peak": "184.94 mkat/L",
+                    "normal_at_discharge": "ALT level 3.28 mkat/L"
+                },
+                "albumin": {
+                    "initial": "36 g/L",
+                    "normal_at_discharge": "39 g/L"
+                },
+                "creatinine": {
+                    "initial": "300 mmol/L (3.4 mg/dL)",
+                    "normal_at_discharge": "106 mmol/L (1.2 mg/dL)"
+                },
+                "prothrombin_time": {
+                    "abnormal_initial": "92.7 seconds (INR 9.59)",
+                    "normal_at_discharge": "Not specified"
+                }
+            }
+        }
+    ]
+}

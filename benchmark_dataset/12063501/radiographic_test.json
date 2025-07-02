@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic scan",
+            "date": "1998",
+            "findings": "Carcinoma of the caecum with hepatic metastases",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aortoportogram",
+            "date": "Not specified",
+            "findings": "Visualization of the hepatic metastases",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic scan",
+            "date": "Not specified",
+            "findings": "Metastatic carcinoma of the caecum re-evaluation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomographic scan",
+            "date": "Not specified",
+            "findings": "Metastatic carcinoma of the caecum with worsening skin condition",
+            "changes_over_time": "Deterioration of skin began within 24 hours following contrast administration"
+        }
+    ]
+}

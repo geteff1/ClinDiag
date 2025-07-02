@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient reported feeling well; denied chest discomfort or shortness of breath; expressed feelings of boredom and low mood present most of the day since discharge.",
+            "changes_over_time": "Symptoms of depression showed improvement over the weeks following participation in a phase 2 cardiac rehabilitation program."
+        },
+        {
+            "date": "3 weeks after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient scored 14 on the Beck Depression Inventory (BDI). Noted symptoms of depressed mood and low self-esteem.",
+            "changes_over_time": "Symptoms persisted since MI; reported crying episodes during emotional stimuli."
+        },
+        {
+            "date": "1 month after MI",
+            "vital_signs": "Not specified",
+            "relevant_findings": "BDI score improved to 3, with few symptoms of depression reported.",
+            "changes_over_time": "Rapid improvement noted since enrollment in cardiac rehabilitation program."
+        },
+        {
+            "date": "10 months after MI",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient continued to do well, indicating sustained emotional health.",
+            "changes_over_time": "Symptom improvement persisted over time."
+        }
+    ]
+}

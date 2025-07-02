@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "14 years after near-total thyroidectomy",
+            "findings": "Nodule, 9 cm in diameter, in the left lobe of the thyroid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the neck",
+            "date": "When the patient was 34 years of age",
+            "findings": "An oval, homogeneous soft-tissue mass seen in the left side of the neck, at the level of the thyroid cartilage.",
+            "changes_over_time": "Corresponding solid mass, 4.7 cm by 3.4 cm by 4.0 cm, seen on subsequent ultrasound."
+        },
+        {
+            "procedure_name": "Whole-body scan",
+            "date": "Not specified.",
+            "findings": "Single, prominent focus of iodine uptake diagnostic for tissue of thyroid origin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bilateral mammogram",
+            "date": "When the patient was 35.5 years of age",
+            "findings": "Previous biopsy clips, no other clinically significant findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Focused ultrasound of the left breast",
+            "date": "When the patient was 35.5 years of age",
+            "findings": "A tubular, predominantly hypoechoic, well-defined structure, 5 mm by 8 mm, with an echogenic, intralesional solid component.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the breast",
+            "date": "One month after focused ultrasound",
+            "findings": "A round, enhancing mass with circumscribed margins in the upper central left breast.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid ultrasonography",
+            "date": "At age 36.5 years",
+            "findings": "Small hypoechoic region of the left thyroid bed measuring 6 mm, increased from 3 mm 1.5 years earlier.",
+            "changes_over_time": "Increase in size from 3 mm to 6 mm."
+        }
+    ]
+}

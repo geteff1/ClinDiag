@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "104/68 mm Hg",
+                "respiratory_rate": "22 breaths per minute",
+                "oxygen_saturation": "84%"
+            },
+            "relevant_findings": {
+                "appearance": "anxious",
+                "accessory_muscles_used": "yes",
+                "conjunctival_pallor": "no",
+                "scleral_icterus": "no",
+                "mucous_membranes": "moist",
+                "oropharynx": "clear",
+                "neck": {
+                    "supple": "yes",
+                    "lymphadenopathy": "no",
+                    "thyromegaly": "no"
+                },
+                "lungs": "clear to auscultation",
+                "cardiovascular": {
+                    "jugular_venous_pressure": "6 cm of water",
+                    "heart_sounds": "normal",
+                    "murmur": "grade 2/6 holosystolic murmur at left lower sternal border, increases with inspiration"
+                },
+                "abdomen": "soft, nontender, nondistended",
+                "extremities": {
+                    "temperature": "warm",
+                    "edema": "no"
+                },
+                "skin": "unremarkable",
+                "neurologic": "unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

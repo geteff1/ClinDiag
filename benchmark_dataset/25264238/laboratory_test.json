@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Diffuse proliferation of benign endothelial cells between collagen bundles throughout the dermis; CD31 positive, CD34 positive, HHV-8 negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiogram",
+            "date": "Not specified",
+            "findings": "Severe short-segment proximal occlusion of left subclavian artery and mild occlusion of right subclavian artery.",
+            "changes_over_time": "Revascularization with stent placement resulted in resolution of pain and improvement in skin lesions."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Angiography (MRA)",
+            "date": "Not specified",
+            "findings": "Mild narrowing of the left subclavian artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral Arterial Studies",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcutaneous Oxygen Tension (TcPO2)",
+            "date": "Not specified",
+            "findings": "Slightly below normal on right breast.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

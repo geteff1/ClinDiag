@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Severe leukopenia with neutropenia.",
+            "changes_over_time": "The white blood cell count increased from 0.587 × 10^3/µL to 4 × 10^3/µL after treatment with G-CSF."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Hypercellular marrow with small lymphoid aggregates of large pleomorphic cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunohistochemical Studies",
+            "date": "Not specified",
+            "findings": "Majority of lymphoid cells positive for B-cell marker CD20; CD3+ T cells were scattered and CD30 stains were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Polymerase Chain Reaction (PCR) Test",
+            "date": "Not specified",
+            "findings": "Epstein-Barr virus genome detected in lesional skin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomographic Scan",
+            "date": "Not specified",
+            "findings": "Mass in the right axilla and adenopathy of the right axillary, right hilar, and right inguinal areas; spleen was slightly enlarged.",
+            "changes_over_time": "Repeat scans showed resolution of the axillary mass and adenopathy."
+        }
+    ]
+}

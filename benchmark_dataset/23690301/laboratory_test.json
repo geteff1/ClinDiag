@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Normal; no white matter lesions or other abnormalities, except for an incidental right frontal mucocele.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "Normal or negative for vitamin B12, folic acid, copper, homocysteine, proteinogram, thyroid hormones, HIV, HTLV-1, and Lyme disease.",
+            "changes_over_time": "At 6-month follow-up, blood tests revealed decreased cortisol basal level (3.8 mg/dL) and increased basal ACTH level (1,945 pg/mL) consistent with nonautoimmune adrenal insufficiency."
+        },
+        {
+            "procedure_name": "EMG and nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Normal in the 4 limbs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Somatosensory evoked potentials",
+            "date": "Not specified",
+            "findings": "Increased latency in the central components of upper limb potentials, altered potentials in lower limbs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transcranial magnetic stimulation",
+            "date": "Not specified",
+            "findings": "Greater delay in the lower than the upper limbs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Brain FDG-PET",
+            "date": "Not specified",
+            "findings": "Bilateral hypometabolism in the paramedian frontal, anterior parietal, and temporal lobes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma levels of very long-chain fatty acids (VLCFA)",
+            "date": "Not specified",
+            "findings": "High plasma levels consistent with adrenomyeloneuropathy (AMN).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic tests",
+            "date": "Not specified",
+            "findings": "No mutations of SPG4 or frataxin genes were found.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

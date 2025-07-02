@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pathological Examination",
+            "date": "Not specified",
+            "findings": "Pathological studies revealed a neoplasm composed of large epithelial cells with large nuclei and prominent nucleoli, consistent with malignant melanoma. Neoplastic cells reacted positively for HMB-45 and S100 protein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Emergency External Ventricular Drain Placement",
+            "date": "Not specified",
+            "findings": "Placement indicated due to hydrocephalus from a posterior fossa mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ventriculoperitoneal Shunt Placement",
+            "date": "Not specified",
+            "findings": "Required due to persistent hydrocephalus.",
+            "changes_over_time": "Revision was needed for proximal failure."
+        },
+        {
+            "procedure_name": "Additional Resection",
+            "date": "15 months after initial resection",
+            "findings": "Residual posterior fossa tumor was resected, revealing lumbar drop metastases.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

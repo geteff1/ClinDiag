@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Parathyroidectomy",
+            "date": "Not specified",
+            "findings": "One slightly enlarged parathyroid gland was resected. Pathologically, the gland had normal histology.",
+            "changes_over_time": "After surgery, normocalcemia was obtained, although 2 weeks later the serum calcium had returned to the presurgery elevated levels."
+        },
+        {
+            "procedure_name": "Direct sequence analysis of CASR gene",
+            "date": "Not specified",
+            "findings": "Heterozygous R227Q mutation identified in exon 4 of the CASR gene.",
+            "changes_over_time": "This mutation segregated with other affected family members."
+        },
+        {
+            "procedure_name": "Urinary calcium and creatinine measurement",
+            "date": "Not specified",
+            "findings": "Low calcium-to-creatinine clearance ratio led to a diagnosis of benign hypocalciuric hypercalcemia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Western blot analysis",
+            "date": "Not specified",
+            "findings": "Both mutant receptors (R227Q and R227L) were expressed at a similar level to wild-type, demonstrating mature glycosylation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MAPK assay",
+            "date": "Not specified",
+            "findings": "Both mutants (R227Q and R227L) exhibited significant rightward shifts in their dose-response curves relative to wild-type.",
+            "changes_over_time": "The rightward shift was less marked for the R227Q mutant."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Invasive adenocarcinoma, atypical adenomatous hyperplasia, and adenocarcinoma in situ found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology Examination",
+            "date": "Not specified",
+            "findings": "Identified five tumor samples: one thyroid cancer, one invasive adenocarcinoma, two adenocarcinomas in situ, and one atypical adenomatous hyperplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sequencing",
+            "date": "Not specified",
+            "findings": "One somatic mutation in ARID1B and a germ-line mutation in EGFR detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

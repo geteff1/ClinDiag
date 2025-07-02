@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "Not specified",
+            "findings": "Severe, dense calcification of the pericardium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "chest CT scan",
+            "date": "Not specified",
+            "findings": "Severely and diffusely calcified pericardium.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "simultaneous right and left heart catheterization",
+            "date": "Not specified",
+            "findings": "Elevation and equalization of diastolic pressures with characteristic dip and plateau.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "left ventriculography",
+            "date": "Not specified",
+            "findings": "Abrupt diastolic relaxation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

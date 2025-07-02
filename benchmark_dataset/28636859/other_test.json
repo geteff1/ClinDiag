@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Nerve-conduction studies",
+            "date": "3 months before admission",
+            "findings": "Sensory and motor responses were normal and symmetric; Hoffman's reflex was absent at the left soleus; electromyography of the left leg showed diminished recruitment of long-duration, polyphasic motor-unit potentials.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Oligoclonal banding was not present; cytologic studies showed increased lymphocytes that were polymorphous and occasionally reactive; immunophenotypic evaluation did not reveal evidence of a monoclonal B-cell or unusual T-cell population.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat nerve-conduction studies",
+            "date": "Not specified",
+            "findings": "Asymmetric attenuation in the amplitudes of sensory and motor responses; no evidence of primary demyelination; electromyography showed abnormal spontaneous activity in multiple muscles.",
+            "changes_over_time": "Substantial deterioration had occurred since the initial study."
+        },
+        {
+            "procedure_name": "Repeat lumbar puncture",
+            "date": "Not specified",
+            "findings": "Protein level of 4620 mg per deciliter, glucose level lower than 2 mg per deciliter; abundant lymphocytes that were polymorphous, enlarged, reactive, and atypical.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve-root biopsy",
+            "date": "Not specified",
+            "findings": "Marked increase in cellularity; infiltration by neoplastic lymphocytes; immunohistochemical staining confirmed the population was lymphocytic with large neoplastic lymphocytes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

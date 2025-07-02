@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "thoracic radiograph",
+            "date": "Not specified",
+            "findings": "hyperexpanded lungs with possible pneumonia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "magnetic resonance imaging (MRI)",
+            "date": "Day 12",
+            "findings": "no abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "magnetic resonance imaging (MRI)",
+            "date": "Day 14",
+            "findings": "cystic spaces in the white matter adjacent to the ventricles, with thinner cortex in those areas and small amounts of blood in the left ventricle and right occipital cortex",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomographic (CT) scan",
+            "date": "Not specified",
+            "findings": "no abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "Not specified",
+            "findings": "normal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "Not specified",
+            "findings": "findings characteristic of parieto-occipital damage from hypoglycemia",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

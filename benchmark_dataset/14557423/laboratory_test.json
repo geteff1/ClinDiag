@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-hour urine-free cortisol",
+            "date": "3/5/96",
+            "findings": "780 /H9262g/d",
+            "changes_over_time": "Decreased to 30 /H9262g/d post adrenalectomy."
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "3/5/96",
+            "findings": "170 pg/ml",
+            "changes_over_time": "Decreased to 125 pg/ml post adrenalectomy but remained elevated at 11 pg/ml after neck dissection."
+        },
+        {
+            "procedure_name": "Serum cortisol",
+            "date": "3/5/96",
+            "findings": "23.9 /H9262g/dl",
+            "changes_over_time": "Decreased to 4.5 /H9262g/dl after 8 mg dexamethasone suppression."
+        },
+        {
+            "procedure_name": "Urinay epinephrine",
+            "date": "3/5/96",
+            "findings": "66 /H9262g/d",
+            "changes_over_time": "Decreased to 0 /H9262g/d post adrenalectomy."
+        },
+        {
+            "procedure_name": "24-hour urine calcium",
+            "date": "3/5/96",
+            "findings": "558 mg/d",
+            "changes_over_time": "Decreased to 281 mg/d post adrenalectomy."
+        },
+        {
+            "procedure_name": "Calcitonin",
+            "date": "9/20/96 (neck operation)",
+            "findings": "5300 pg/ml before operation, decreased to 120 pg/ml after",
+            "changes_over_time": "Decreased by 96% post neck dissection."
+        },
+        {
+            "procedure_name": "Carcinoembryonic antigen (CEA)",
+            "date": "9/20/96 (neck operation)",
+            "findings": "32.0 ng/ml before operation, decreased to 2.3 ng/ml after",
+            "changes_over_time": "Decreased post neck dissection."
+        },
+        {
+            "procedure_name": "Bone density t-score",
+            "date": "Not specified",
+            "findings": "-4.3 (trochanter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma CRH",
+            "date": "Not specified",
+            "findings": "< 6.6 pg/ml",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

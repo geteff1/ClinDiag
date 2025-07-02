@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Enhanced texture in both lungs and enlarged heart shadow, with a cardiothoracic ratio of about 0.62.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color Doppler Echocardiography (CDE)",
+            "date": "Not specified",
+            "findings": "Enlarged left heart, thickening of the posterior wall of the left ventricle, minor amounts of mitral regurgitation, ventricular wall hypokinesis, and decreased left heart function.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance (CMR)",
+            "date": "Not specified",
+            "findings": "Slight endocardial thickening of the left ventricle, minor thickening of the myocardium, and diffuse motion reduction of the ventricular wall with no apparent delayed enhancement abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color Ultrasonography of the Abdomen",
+            "date": "Not specified",
+            "findings": "Hepatic cyst (size: 0.93 cm × 0.75 cm), bilateral renal multiple cysts (largest size: 1.1 cm × 1.7 cm), and a markedly enlarged liver with a right oblique diameter of 8.25 cm and an inferior hepatic border 6.32 cm from the right inferior costal arch border of the midclavicular line.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

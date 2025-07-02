@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gonadotropins",
+            "date": "Not specified",
+            "findings": "Undetectable gonadotropins at 2 months of age (LH: 0.5 mIU/ml, FSH: 0.5 mIU/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Growth Hormone Stimulation Test",
+            "date": "At 15 months of age",
+            "findings": "Normal GH response (basal: 2.1 ng/ml; peak: 30.5 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cortisol Stimulation Test",
+            "date": "At 15 months of age",
+            "findings": "Normal cortisol response (19.8-47.0 µg/dl).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone Test",
+            "date": "At 15 months of age",
+            "findings": "Normal TSH response to TRH stimulation (0.5-7.3 mU/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Human Chorionic Gonadotropin (hCG) Stimulation Test",
+            "date": "At 15 months of age",
+            "findings": "Limited testosterone response (pre-hCG: 0.15 ng/ml; post-hCG: 0.45 ng/ml).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Luteinizing Hormone-Releasing Hormone (LHRH) Stimulation Test",
+            "date": "At 10 years of age",
+            "findings": "Poor gonadotropin response (LH: 0.7 IU/liter; 1.0 IU/liter; FSH: 0.2 IU/liter; 1.1 IU/liter; 1.8 IU/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "hCG Stimulation Test",
+            "date": "At 10 years of age",
+            "findings": "Testosterone increased (pre-hCG: 0.21 ng/ml; Day 3 post-hCG: 0.3 ng/ml; Day 21 post-hCG: 1.4 ng/ml).",
+            "changes_over_time": "Testosterone progressively increased."
+        }
+    ]
+}

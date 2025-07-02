@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Suggestive of severe mitral regurgitation, but images were technically suboptimal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "6 months after the accident",
+            "findings": "Intact mitral leaflets, marked disruption and fistulization of the anterior mitral annulus with a 9 × 7 mm irregular opening at the base of the A2/A3 mitral valve scallops, characteristic Doppler signal of mitral regurgitation.",
+            "changes_over_time": "Demonstrated an acquired left ventricular to left atrial fistula as a result of rapid deceleration injury from a fall."
+        },
+        {
+            "procedure_name": "Screening transthoracic echocardiogram",
+            "date": "5 years before the accident",
+            "findings": "Normal, without evidence of valvular pathology.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

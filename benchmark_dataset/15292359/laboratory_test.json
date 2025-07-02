@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Age 25 d",
+            "findings": "fT4: 0.20 ng/dl (normal range 1.01 – 2.60 ng/dl), fT3: 0.072 ng/dl (normal range 0.20 – 0.96 ng/dl), TSH: 0.23 U/ml (normal range 0.51 – 10.8 U/ml)",
+            "changes_over_time": "TSH max increased to 0.35 U/ml after TRH administration (not a significant biological effect), indicating secondary hypothyroidism."
+        },
+        {
+            "procedure_name": "Additional hormone tests (including TRH stimulation)",
+            "date": "Not specified",
+            "findings": "No significant increase in TSH after TRH administration; other hormones normal.",
+            "changes_over_time": "Consistent with secondary hypothyroidism."
+        },
+        {
+            "procedure_name": "Thyroid function test (Patient 4)",
+            "date": "At diagnosis",
+            "findings": "fT4: Not specified, TSH: 0.3 U/ml (low normal range)",
+            "changes_over_time": "TSH low but detectable throughout, confirming the diagnosis of secondary hypothyroidism."
+        }
+    ]
+}

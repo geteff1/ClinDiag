@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Culture yielded a strain of Streptococcus pneumoniae that was highly sensitive to penicillin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "On Admission",
+            "findings": "30.2%",
+            "changes_over_time": "Decreased to 28.6% on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "White cells",
+            "date": "On Admission",
+            "findings": "11,800 per mm^3",
+            "changes_over_time": "Increased to 17,500 per mm^3 on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "On Admission",
+            "findings": "163,000 per mm^3",
+            "changes_over_time": "Increased to 230,000 per mm^3 on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "On Admission",
+            "findings": "83 mm/hr",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "On Admission",
+            "findings": "248 mg/dL",
+            "changes_over_time": "Increased to 391 mg/dL on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "On Admission",
+            "findings": "131 mmol/L",
+            "changes_over_time": "Increased to 133 mmol/L on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "On Admission",
+            "findings": "3.6 mmol/L",
+            "changes_over_time": "Increased to 4.4 mmol/L on 2nd Hospital Day."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On Admission",
+            "findings": "Normal level (specific value not provided).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "1 red cell, 3 white cells per cubic millimeter; total protein level was 23 mg/dL; and glucose level was 129 mg/dL (7.2 mmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

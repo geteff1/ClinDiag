@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Color Doppler ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Mild splenic enlargement, spleen measuring 14.3 cm in length; liver normal in size and echotexture; patent liver vasculature with normal flow pattern; no free fluid in the abdomen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "3 weeks after initial presentation",
+            "findings": "Grade I varices in the lower third of the esophagus; results otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopic examination",
+            "date": "3 weeks after initial presentation",
+            "findings": "Normal mucosa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transjugular liver biopsy",
+            "date": "Not specified",
+            "findings": "Established cirrhosis characterized by diffuse bridging fibrosis and nodularity; mild mononuclear septal inflammation; focal macrovesicular steatosis.",
+            "changes_over_time": "Histochemical staining for copper showed extensive copper deposition in hepatocytes at the edge of cirrhotic nodules, consistent with Wilson's disease."
+        }
+    ]
+}

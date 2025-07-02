@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "GH binding protein",
+            "date": "Not specified",
+            "findings": "Normal at 866 pmol/liter (reference 267-1638)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IGF-I",
+            "date": "Not specified",
+            "findings": "Normal at 164 ng/ml (reference 123–275)",
+            "changes_over_time": "Increased to 402 ng/ml after GH therapy"
+        },
+        {
+            "procedure_name": "IGFBP-3",
+            "date": "Not specified",
+            "findings": "Normal at 2344 ng/ml (reference 2000–4800)",
+            "changes_over_time": "Increased to 6240 ng/ml after GH therapy"
+        },
+        {
+            "procedure_name": "serum glucose",
+            "date": "Not specified",
+            "findings": "82 mg/dl",
+            "changes_over_time": "Nadir of 36 mg/dl after insulin; increased to 60 mg/dl at 115-120 min"
+        },
+        {
+            "procedure_name": "total T4",
+            "date": "Not specified",
+            "findings": "8.0 µg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "2.13 IU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "peak cortisol",
+            "date": "Not specified",
+            "findings": "24.4 µg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "serum GH",
+            "date": "Not specified",
+            "findings": "Basal serum GH level 0.42 µg/liter; peaked at 7.6 µg/liter and 9.1 µg/liter after stimulation",
+            "changes_over_time": "Stimulated GH levels considered within normal limits"
+        }
+    ]
+}

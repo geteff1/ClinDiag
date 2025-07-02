@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "15 hours after birth",
+            "findings": "Significant heart murmur and chest X-ray revealed cardiomegaly.",
+            "changes_over_time": "At 17 years, showed a large pericardial effusion with severe concentric left ventricular hypertrophy."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Thick left ventricular wall thickness, moderate mitral regurgitation, left-to-right shunt across patent foramen ovale, and patent ductus arteriosus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "DMSA scan",
+            "date": "10 months",
+            "findings": "Compensatory hypertrophy of the left kidney.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "16 years",
+            "findings": "Confirmed generalized arterial calcification of infancy (GACI) type 1.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "Ruled out Turner syndrome.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Significant calcification on the descending aorta.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory testing for SLE",
+            "date": "17 years",
+            "findings": "Positive ANA, anti-dsDNA, anti-SM antibodies, and low C4 complement.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "No evidence of hemorrhage, mass, mass effect, or other intracranial abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT and CT angiography of the head and neck",
+            "date": "Not specified",
+            "findings": "Mucosal thickening in the ethmoid sinuses and the left sphenoid sinus, air–liquid levels in the maxillary sinuses bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Changes consistent with sinusitis but otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat MRI of the head",
+            "date": "Three days before admission",
+            "findings": "Abnormal soft tissue along the anterior and lateral walls of the left sphenoid sinus, left orbital apex, extending posteriorly into the left cavernous sinus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the orbits",
+            "date": "Third day after admission",
+            "findings": "Bone between the abnormal soft tissue in the left sphenoid sinus and the abnormal soft tissue in the left orbital apex is largely intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

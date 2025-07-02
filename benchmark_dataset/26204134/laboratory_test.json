@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "Initial abnormally high TSH level detected was 494 mIU/L (cut off <120 mIU/L).",
+            "changes_over_time": "At day 11, TSH was re-examined at 8.00 mIU/L (normal range 0.44–8.80 mIU/L). At the time of severe hypothyroidism diagnosis, TSH was 446 mIU/L (normal values 0.50–4.30 mIU/L)."
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "Not specified",
+            "findings": "Initially, free T4 was measured at 40.1 ng/dL (normal range 0.9–1.6 ng/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid hormone-binding globulin (TBG)",
+            "date": "Not specified",
+            "findings": "Normal level of TBG was 25.2 µg/mL (normal range 16.3–30.7 µg/mL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum thyroglobulin",
+            "date": "Not specified",
+            "findings": "Serum thyroglobulin was high at 3000 ng/mL (normal range 2.0–35.0 ng/mL).",
+            "changes_over_time": "After 6 weeks of treatment, thyroglobulin was 1668 ng/mL; it continued to decrease, reaching 204 ng/mL after 15 months of treatment."
+        },
+        {
+            "procedure_name": "Thyroid ultrasonography",
+            "date": "Not specified",
+            "findings": "Ultrasonography showed multinodular enlargement of the thyroid gland.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Thyroid scintigraphy",
+            "date": "Not specified",
+            "findings": "Reduced diffuse iodide uptake was 5.4% 24 hours after oral administration of 100 µCi 123I (normal range is 10%–40%).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

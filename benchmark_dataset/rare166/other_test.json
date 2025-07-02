@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Regular junctional rhythm of 43 beats/min.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrophysiological examination (EPS)",
+            "date": "Not specified",
+            "findings": "Basal rhythm of slow junctional rhythm, approximately 43 times/min. No A-wave in various regions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "A frameshift mutation in LMNA (c.1567dupG) was revealed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

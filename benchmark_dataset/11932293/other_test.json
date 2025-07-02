@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "[123I]MIBG scintigraphy",
+            "date": "Not specified",
+            "findings": "All 6 patients were negative on screening with [123I]MIBG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "[111In]pentetreotide scintigraphy",
+            "date": "Not specified",
+            "findings": "3 of 4 who were screened showed positive uptake.",
+            "changes_over_time": "Positive scans indicated areas of increased uptake in the orbit and other regions."
+        },
+        {
+            "procedure_name": "Histology",
+            "date": "Not specified",
+            "findings": "Histology confirmed metastatic carcinoid tumor in various patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "External beam radiotherapy",
+            "date": "Patient specific treatments vary",
+            "findings": "Patients responded well to external beam radiotherapy.",
+            "changes_over_time": "Clinical and hormonal improvement was observed in treated patients."
+        },
+        {
+            "procedure_name": "Chemotherapy with lomustine and 5-FU",
+            "date": "Not specified",
+            "findings": "Substantial shrinkage of hepatic lesions and clinical improvement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

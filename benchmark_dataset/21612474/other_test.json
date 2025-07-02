@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Needle Biopsy",
+            "date": "Not specified",
+            "findings": "Adenocarcinoma was identified in all four cores, occupying 25 to 65% of the tissue. Gleason score was 7 (3 plus 4).",
+            "changes_over_time": "The Gleason score on subsequent radical prostatectomy was upgraded to 8 (4 plus 4), indicating tumor grade had been underestimated due to sampling error."
+        },
+        {
+            "procedure_name": "Radical Prostatectomy",
+            "date": "Not specified",
+            "findings": "Extent of cancer with Gleason score of 8 (4 plus 4) indicated capsular penetration; the pathological stage was pT3N0.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Density Measurement (DXA)",
+            "date": "Not specified",
+            "findings": "BMD of the femoral neck and total hip were 0.72 g/cm² (T score -1.6) and 0.94 g/cm² (T score -0.6), respectively.",
+            "changes_over_time": "After 3 years of ADT, the bone mineral density of the femoral neck declined to 0.65 g/cm² (T score -2.1) and total hip to 0.84 g/cm² (T score -1.2)."
+        },
+        {
+            "procedure_name": "Serum PSA Testing",
+            "date": "3 months after prostatectomy",
+            "findings": "PSA was undetectable (<0.5 ng/ml).",
+            "changes_over_time": "18 months after prostatectomy, PSA level was elevated at 17.2 ng/ml."
+        },
+        {
+            "procedure_name": "Serum PSA Testing",
+            "date": "At last follow-up (13 years after diagnosis)",
+            "findings": "Serum PSA level was 50.6 ng/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Scan",
+            "date": "Not specified",
+            "findings": "Marked right thoracic spinal scoliosis and nonspecific focal uptake consistent with degenerative joint disease.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

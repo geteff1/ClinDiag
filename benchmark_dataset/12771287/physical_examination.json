@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "September 2000",
+            "vital_signs": {
+                "pupils": "2 mm, weakly reactive",
+                "white_blood_cell_count": "11,000/mm3",
+                "CSF_white_cells": "148/mm3 (46% neutrophils, 40% lymphocytes, 14% monocytes)",
+                "Blood_CSF_cultures": "sterile"
+            },
+            "relevant_findings": {
+                "neurological": [
+                    "total ophthalmoplegia",
+                    "anxiety",
+                    "depression",
+                    "impairment of recent memory",
+                    "difficulty maintaining attention",
+                    "bifacial weakness",
+                    "dysarthria",
+                    "bilateral arm and neck weakness",
+                    "deep tendon reflexes hypoactive in arms, normal in legs"
+                ],
+                "imaging": [
+                    "normal head CT",
+                    "MRI showed tiny focus of signal hyperintensity in each temporal lobe"
+                ]
+            },
+            "changes_over_time": [
+                {
+                    "timeframe": "13 days after onset",
+                    "observations": "All nonocular signs improved but retained ophthalmoplegia."
+                },
+                {
+                    "timeframe": "7 months after onset",
+                    "observations": "Normal visual function, but still unable to execute eye movements on command."
+                },
+                {
+                    "timeframe": "3 months later",
+                    "observations": "Could promptly initiate up-gaze, movements remained slow; no further improvement."
+                }
+            ]
+        }
+    ]
+}

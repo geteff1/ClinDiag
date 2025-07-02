@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Lymphoplasmacytic infiltrates and fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "IgG4 serum levels test",
+            "date": "Not specified",
+            "findings": "Elevated serum IgG4 levels (2.50 g/L; normal levels <1.35 g/L).",
+            "changes_over_time": "Normalization of serum IgG4 levels during rituximab therapy."
+        },
+        {
+            "procedure_name": "surgical mass removal",
+            "date": "Not specified",
+            "findings": "Polyclonal lymphoplasmacytic infiltrates, periductal fibrosis, and obliterative phlebitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "alkaline phosphatase test",
+            "date": "December 2012",
+            "findings": "Increased levels of total alkaline phosphatase.",
+            "changes_over_time": "Normalized alkaline phosphatase levels after zoledronic acid infusion in September 2013."
+        },
+        {
+            "procedure_name": "25-hydroxyvitamin D test",
+            "date": "December 2012",
+            "findings": "Increased levels (332 nmol/L).",
+            "changes_over_time": "Markedly increased values for 25-(OH)D in July 2014, eventually returned to normal levels."
+        }
+    ]
+}

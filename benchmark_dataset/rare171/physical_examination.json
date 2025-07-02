@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "July 2017",
+            "vital_signs": {
+                "blood_pressure": "140/63 mmHg",
+                "pulse_rate": "117 bpm",
+                "body_temperature": "37.1°C",
+                "respiratory_rate": "24 breaths/min",
+                "blood_oxygen_level": "92%"
+            },
+            "relevant_findings": {
+                "breath_sounds": "attenuated in both lower lungs",
+                "palpable_lymph_nodes": "none in neck, axilla, or groin",
+                "edema": "non-pitting edema in both lower extremities",
+                "nail_changes": "thickened, yellowing, and poor growth of fingernails and toenails"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

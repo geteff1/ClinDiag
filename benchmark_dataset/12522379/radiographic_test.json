@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "1992",
+            "findings": "3-4 cm tumor on the left kidney.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-resolution CT scanning",
+            "date": "Not specified.",
+            "findings": "Multiple air-filled lung cysts and a granuloma within the right lung.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scans",
+            "date": "May 2001",
+            "findings": "3 tumors on the right kidney treated with surgical enucleation; tumors measured 1.2 × 1.0 cm, 1.0 × 0.9 cm, and 2.5 × 2.0 cm.",
+            "changes_over_time": "Histologic examination showed oncocytic renal neoplasms."
+        },
+        {
+            "procedure_name": "CT scanning",
+            "date": "Not specified.",
+            "findings": "Previous partial left nephrectomy, a 2-cm tumor, and multiple bilateral renal lesions less than 1 cm in diameter with some lesions demonstrating enhancement suggesting they were solid masses.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

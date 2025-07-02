@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Neurological Exam": [
+                    "Agraphia",
+                    "Finger agnosia",
+                    "Right-left disorientation",
+                    "Acalculia",
+                    "Ideomotor apraxia",
+                    "Amnestic aphasia"
+                ],
+                "No motor paresis": "Present",
+                "Moderate disturbance in speech and gait": "Present",
+                "Height": "146 cm",
+                "Mild atrophy in upper and lower extremities bilaterally": "Present"
+            },
+            "changes_over_time": "Additional symptoms of dysarthria, dysphasia, facial seizure, and mild dementia emerged during admission, with observed progression of muscle atrophy in limbs."
+        },
+        {
+            "date": "During hospital stay",
+            "vital_signs": {
+                "pH": "7.366",
+                "PCO2": "29 mm Hg",
+                "PO2": "114 mm Hg",
+                "Base excess": "-27.6 mmol/L",
+                "HCO3": "16.2 mmol/L",
+                "Serum glucose": "210 mg/dl",
+                "Lactate in serum": "66.2 mg/dl",
+                "Pyruvate in serum": "3.72 mg/dl"
+            },
+            "relevant_findings": {
+                "CT Scans": [
+                    "Bilateral hemispheric atrophy",
+                    "Calcification in the bilateral basal ganglia",
+                    "Isodense area in left parietooccipital region"
+                ],
+                "MR Imaging": [
+                    "Hyperintense area in left parietooccipital region",
+                    "No enhancement after contrast medium"
+                ],
+                "Cerebral Angiography": "Dilation of cortical arteries and capillary blush without occlusive lesions",
+                "Xenon CT": "Increased CBF in the region corresponding to the lesion"
+            },
+            "changes_over_time": "Metabolic acidosis improved, and serum lactate and pyruvate levels decreased during the patient’s hospital stay."
+        },
+        {
+            "date": "2 months after admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "MR Imaging": "Reduction of the lesion in the parietooccipital region",
+                "Angiography and Xenon CT": "Slightly decreased perfusion in the previously hyperperfused area"
+            },
+            "changes_over_time": "Improvement in neurological status except for muscle atrophy and mild dementia; after rehabilitation, the patient was able to walk."
+        }
+    ]
+}

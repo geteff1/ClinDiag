@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, an incomplete left bundle-branch block, and multiple premature atrial contractions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Severe, dense calcification of the pericardium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Severely and diffusely calcified pericardium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Simultaneous right and left heart catheterization",
+            "date": "Not specified",
+            "findings": "Elevation and equalization of diastolic pressures with characteristic dip and plateau.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Left ventriculography",
+            "date": "Not specified",
+            "findings": "Abrupt diastolic relaxation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization with phrenic-to-phrenic nerve pericardial stripping",
+            "date": "Not specified",
+            "findings": "Successful pericardial stripping.",
+            "changes_over_time": "At 1 month follow-up, dyspnea had been relieved and recovery was without difficulties."
+        }
+    ]
+}

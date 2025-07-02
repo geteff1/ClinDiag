@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Low flow in the Fontan circulation, raising suspicion of thrombosis in the Fontan circuit.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catherization",
+            "date": "Not specified",
+            "findings": "No evidence of thrombosis and a patent fenestration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Permanent epicardial dual chamber pacemaker implantation",
+            "date": "Post-operative day 7 (POD 7)",
+            "findings": "Implanted in the right atrium and right ventricle with the generator implanted in the upper abdominal wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas test",
+            "date": "Post-operative day 7 (POD 7)",
+            "findings": "Decrease in blood pH and inversion between O2 and CO2 partial pressures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nasopharyngeal swab",
+            "date": "Post-operative day 10 (POD 10)",
+            "findings": "Confirmed COVID-19 via RT-PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Post-operative day 8 (POD 8)",
+            "findings": "Multiple pulmonary consolidations, most evident on the upper third of the right lung.",
+            "changes_over_time": "On POD 16, reduction of pulmonary consolidations with a sole remaining opacity in the upper third of the right lung."
+        }
+    ]
+}

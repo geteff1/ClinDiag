@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "panoramic X-ray",
+            "date": "Not specified",
+            "findings": "Lesion in the jawbone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "maxillofacial CT",
+            "date": "Not specified",
+            "findings": "Sclerotic lesion compatible with osteoma, exophytic, partially lobulated contour, measuring approximately 17 mm in diameter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "facial MRI",
+            "date": "Not specified",
+            "findings": "17x12 mm sized low-weighted signal with no contrast enhancement in the lateral part of the left mandibular ramus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal MRI",
+            "date": "Not specified",
+            "findings": "No pathological findings",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

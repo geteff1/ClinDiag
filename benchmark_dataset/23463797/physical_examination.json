@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 2011",
+            "vital_signs": {
+                "white_blood_cell_count": "2.1",
+                "hemoglobin_level": "7.5",
+                "platelet_count": "121,000",
+                "CD4_count": "84 cells/mm3",
+                "viral_load": "7.36 million copies/mL"
+            },
+            "relevant_findings": "Right leg paresthesias, inguinal swelling, extreme fatigue.",
+            "changes_over_time": "CD4 count increased to 174 cells/mm3 and viral load fell to 4,150 copies/mL within 4 weeks of therapy initiation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Inguinal area swollen and tender.",
+            "changes_over_time": "Absolute eosinophilia persisted; repeat lymph node biopsy revealed Wuchereria bancrofti."
+        }
+    ]
+}

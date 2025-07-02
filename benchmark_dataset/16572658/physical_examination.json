@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood pressure: 60/20 mm Hg (during hypotensive episode)",
+            "relevant_findings": "Single, approximately 8-cm-diameter round, smooth-surfaced, fluctuant, tender mass on the vertex of the scalp without overlying skin changes or purulent drainage. No focal neurological deficits noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT scan revealed a 4-cm osteolytic lesion in the right frontoparietal skull, a hyperdense epidural fluid collection, and a low-density lesion in the right frontal lobe surrounded by vasogenic edema.",
+            "changes_over_time": "Postoperatively, CT scanning showed complete resection of the lesion."
+        },
+        {
+            "date": "6 months post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Axial CT scan showed repair of the cranial defect with custom-fabricated implant and no recurrence of contrast-enhancing lesion.",
+            "changes_over_time": "The lung lesion had nearly resolved at 9 months post-surgery."
+        },
+        {
+            "date": "9 months post-surgery",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The patient was clinically stable without evidence of disease recurrence, and incisions were healed."
+        }
+    ]
+}

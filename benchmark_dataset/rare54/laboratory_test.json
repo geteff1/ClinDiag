@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 3.57*10^3/µL, RBC 2.18*10^6/µL, hemoglobin 5.5 g/dL, platelet 101*10^3/µL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "Prothrombin time 11.6 seconds, activated partial thromboplastin time 24.5 seconds",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum biochemistry",
+            "date": "Not specified",
+            "findings": "BUN 79.4 mg/dL, creatinine 8.31 mg/dL, estimated glomerular filtration rate 5.87 mL/min/1.7 m2, LDH 6260 U/L, total bilirubin 2.6 mg/dL, AST 250 U/L, ALT 41 U/L",
+            "changes_over_time": "Serum creatinine increased to 13.97 mg/dL over time, decreased after hemodialysis to 0.78 mg/dL after two weeks post-discharge"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urine analysis showed dark-amber color, specific gravity 1.012, pH 6.5, leukocyte esterase 2+, nitrite 2+, protein 1+, blood 2+",
+            "changes_over_time": "Urinalysis at tertiary hospital indicated amber color, specific gravity 1.009, pH 6.5, WBC ester 3+, nitrite - , protein 2+, blood 4+"
+        },
+        {
+            "procedure_name": "Further diagnostic tests",
+            "date": "Not specified",
+            "findings": "Serum antinuclear antibodies, anti-double stranded DNA antibodies, anti-neutrophil cytoplasmic antibodies, anti-glomerular basement membrane antibodies, rheumatoid factor all negative. ADAMTS13 activity 44.4%. E.coli O157:H7 negative. CH50 47.8 U/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal biopsy",
+            "date": "Hospital day 5",
+            "findings": "Acute tubular necrosis (ATN) with hemosiderin deposition.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

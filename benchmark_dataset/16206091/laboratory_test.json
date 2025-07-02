@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4 Cell Count",
+            "date": "Not specified",
+            "findings": "CD4 cell count was 318 cells/mL (CD4 cell percentage, 10%)",
+            "changes_over_time": "Decrease from 1300 cells/mL to 318 cells/mL and then to 26 cells/mL"
+        },
+        {
+            "procedure_name": "HIV RNA Level",
+            "date": "Not specified",
+            "findings": "HIV RNA level was stably suppressed below 75 copies/mL for 11 years.",
+            "changes_over_time": "Increased from !75 copies/mL to 1500,000 copies/mL"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Mild hyperbilirubinemia and elevated transaminase levels with normal pancreatic enzyme levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total WBC Count",
+            "date": "Not specified",
+            "findings": "A mildly elevated total WBC count with normal hematocrit and platelet count",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Level",
+            "date": "Not specified",
+            "findings": "Lactate level of 2.8 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase",
+            "date": "Not specified",
+            "findings": "Lactate dehydrogenase level of 299 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4 Cell Count",
+            "date": "2 weeks after resuming ART",
+            "findings": "CD4 cell count had returned to 294 cells/mL",
+            "changes_over_time": "Returned from 26 cells/mL to 294 cells/mL"
+        },
+        {
+            "procedure_name": "HIV RNA Level",
+            "date": "2 weeks after resuming ART",
+            "findings": "HIV RNA level had returned to !75 copies/mL",
+            "changes_over_time": "Returned from 1500,000 copies/mL to !75 copies/mL"
+        }
+    ]
+}

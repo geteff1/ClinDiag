@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum CK activity",
+            "date": "Not specified",
+            "findings": "Two to four times the upper limit of normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Showed autophagic vacuoles with glycogen accumulation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LAMP2 immunohistochemical staining",
+            "date": "Not specified",
+            "findings": "Irregular distribution with increased expression in the vacuolated fibers",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LAMP2 molecular analysis",
+            "date": "Not specified",
+            "findings": "New missense mutation c.1150G/H11022C identified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF 5-MTHF analysis",
+            "date": "Not specified",
+            "findings": "Mean concentration of 22.1 nmol/L; lowest values found among patients with Kearns-Sayre syndrome",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum folate testing",
+            "date": "Not specified",
+            "findings": "Normal serum folate levels in patients with CFD",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF protein level measurement",
+            "date": "Not specified",
+            "findings": "Normal levels; strong statistical relation between CSF protein and 5-MTHF concentrations",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

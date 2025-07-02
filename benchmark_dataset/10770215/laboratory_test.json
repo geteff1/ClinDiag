@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype",
+            "date": "Day 7",
+            "findings": "46,XY karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Day 7",
+            "findings": "Normal serum electrolytes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Day 7",
+            "findings": "Normal BUN",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Day 7",
+            "findings": "Normal glucose levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal Evaluation (LH, FSH, DHEA, D4-A, 17-OHP, Aldo)",
+            "date": "Day 7",
+            "findings": "Age-appropriate levels; high normal F level; PRA normal; low serum T level compared to normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Day 21",
+            "findings": "Low normal sodium; upper normal potassium; normal BUN and glucose",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal Evaluation post-hCG treatment",
+            "date": "Day 15",
+            "findings": "Adequate rises in serum D4-A and T levels; serum DHEA level inappropriately elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum DHEA and PRA levels",
+            "date": "Age 2 years",
+            "findings": "Elevated compared to age-matched normal values after stopping medication for 2 days",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hormonal levels",
+            "date": "Age 17 years",
+            "findings": "Plasma ACTH and serum D5-17P and DHEA levels exceedingly high; serum 17-OHP and D4-A slightly elevated; low serum F; detectable serum Aldo; high normal PRA; elevated serum LH and FSH",
+            "changes_over_time": "Similar hormonal findings as at 17 years after stopping glucocorticoids for 7 days"
+        }
+    ]
+}

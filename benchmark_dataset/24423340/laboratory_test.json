@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "Not specified",
+            "findings": "675 mg/dL (elevated)",
+            "changes_over_time": "Decreased dramatically and normalized in 2 months after dietary modification and cholestyramine therapy."
+        },
+        {
+            "procedure_name": "LDL-C",
+            "date": "Not specified",
+            "findings": "540 mg/dL (elevated)",
+            "changes_over_time": "Decreased dramatically and normalized in 2 months after dietary modification and cholestyramine therapy."
+        },
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "3 years of age",
+            "findings": "184 mg/dL (normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LDL-C",
+            "date": "3 years of age",
+            "findings": "118 mg/dL (normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sitosterol level (GC-MS)",
+            "date": "56 months of age",
+            "findings": "19.36 mg/dL (elevated, normal range: 0.3–1.7 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LDL-C",
+            "date": "5 years of age",
+            "findings": "208 mg/dL (normal range)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

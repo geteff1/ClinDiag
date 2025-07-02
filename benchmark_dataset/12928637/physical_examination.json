@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Several patients diagnosed with foreign bodies in the heart or pulmonary artery, including bullets, needles, and catheter fragments. Notable findings include cardiac tamponade in PATIENT2 with bullets, fever in PATIENT1 and PATIENT2 with needles, and arrhythmia in PATIENT1 with a grenade fragment.",
+            "changes_over_time": "Different patients showed varying outcomes; for example, PATIENT2 underwent surgery and was fine 29 years later, while other asymptomatic patients remained stable over decades."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A 2.5-year-old boy with a needle in the left ventricle showed recurrent fever. A left anterior thoracotomy was performed, and he remained alive and well at forty years follow-up.",
+            "changes_over_time": "Patient continued asymptomatic for forty years after surgery."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A patient (age not specified) with a grenade fragment near the left atrium presented with recurrent paroxysmal tachyarrhythmia. After surgical removal, he had no further arrhythmia.",
+            "changes_over_time": "Arrhythmia improved after the surgical intervention with no recurrence observed."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": "15,000 (reference range: 4500–11000)",
+                "neutrophils": "93.2% (reference range: 40–70)",
+                "lymphocytes": "4.1% (reference range: 22–44)",
+                "platelet_count": "90,000 (reference range: 150,000–400,000)"
+            },
+            "changes_over_time": {
+                "after_11_hours": {
+                    "white_cell_count": "29,900",
+                    "neutrophils": "86.1%",
+                    "platelet_count": "101,000"
+                }
+            }
+        },
+        {
+            "procedure_name": "Electrolytes and Renal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "134 mmol/l (reference range: 135–145)",
+                "potassium": "2.8 mmol/l (reference range: 3.4–4.8)",
+                "calcium": "Normal",
+                "magnesium": "1.5 mg/dl (reference range: 1.7–2.4)",
+                "phosphorus": "1.5 mg/dl (reference range: 2.6–4.5)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "appearance": "yellow, slightly cloudy",
+                "ketones": "trace",
+                "bilirubin": "1+",
+                "occult_blood": "1+",
+                "albumin": "1+",
+                "urobilinogen": "present",
+                "white_cells": "3 to 5 per high-power field",
+                "red_cells": "5 to 10 per high-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid (CSF) Analysis",
+            "date": "Not specified",
+            "findings": {
+                "total_nucleated_cell_count": "217 (reference range: 0–5)",
+                "neutrophils": "100%",
+                "protein": "39 mg/dl (reference range: 5–55)",
+                "glucose": "67 mg/dl (reference range: 50–75)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-Dimer Test",
+            "date": "Not specified",
+            "findings": {
+                "d_dimer": "785 ng/ml (reference range: <500)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement Activity Tests",
+            "date": "Not specified",
+            "findings": {
+                "CH50": "<3 U/ml (reference range: 63–145)",
+                "AH50": "12% of normal (reference range: 75–170)"
+            },
+            "changes_over_time": "C8 level was identified as low (13 U/ml; reference range: 33–58) suggesting a deficiency."
+        }
+    ]
+}

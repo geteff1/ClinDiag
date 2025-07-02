@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "intraocular_pressure": {
+                    "right_eye": "14 mmHg",
+                    "left_eye": "16 mmHg"
+                }
+            },
+            "relevant_findings": {
+                "best_corrected_visual_acuity": "20/20",
+                "correction": "11.50 sph, 10.50 cyl, 90°",
+                "anterior_segment_exam": "Mild anterior and posterior cortical opacities in both eyes",
+                "fundus_exam": {
+                    "right_eye": {
+                        "optic_disc_appearance": "Normal",
+                        "cup_disc_ratio": "Increased",
+                        "vessel_tortuosity": "Present",
+                        "choroidal_nevus": "Juxtapapillary",
+                        "retinal_atrophy": "Large area of pigment epithelium atrophy"
+                    },
+                    "left_eye": {
+                        "choroidal_nevus": "Near inferior temporal vascular arcade"
+                    }
+                },
+                "visual_field": "Normal range results"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

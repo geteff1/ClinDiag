@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cerebrospinal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Leukocyte count of 212 cells/mm3 (67% neutrophils, 20% lymphocytes, 13% monocytes), protein level of 137 g/L, no organisms on Gram stain, cryptococcal antigen titer of 1:1024.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal Fluid Culture",
+            "date": "Not specified",
+            "findings": "Culture of the cerebrospinal fluid grew C. neoformans.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Isolation of Cryptococcus neoformans from Cockatoo Excreta",
+            "date": "Not specified",
+            "findings": "Two isolates from the cockatoo excreta grew at 37 °C, produced melanin, utilized urea, and were encapsulated. Identical biochemical profiles to the clinical isolate.",
+            "changes_over_time": "The clinical and fecal isolates had indistinguishable restriction fragment length polymorphism and karyotype patterns."
+        }
+    ]
+}

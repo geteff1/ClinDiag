@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "visual_acuity": {
+                    "right_eye": "20/20",
+                    "left_eye": "20/400"
+                },
+                "pupil_response": "Left afferent pupillary defect",
+                "color_vision_test": {
+                    "right_side": "8/8",
+                    "left_side": "0/8"
+                },
+                "intraocular_pressure": {
+                    "right_eye": "13 mm Hg",
+                    "left_eye": "11 mm Hg"
+                },
+                "extraocular_motility": {
+                    "right_eye": "Full motility",
+                    "left_eye": "Limited adduction, supraduction, infraduction; no abduction"
+                },
+                "ptosis": "Trace ptosis of left upper eyelid",
+                "exophthalmometry": {
+                    "right_eye": "16 mm",
+                    "left_eye": "18 mm",
+                    "base": "92 mm"
+                },
+                "cranial_nerve_sensation": "Mildly reduced sensation in response to pinprick in second branch of the fifth cranial nerve on left side",
+                "general_examination": "Normal"
+            },
+            "changes_over_time": "Worsening visual acuity in the left eye and development of left upper eyelid ptosis and diplopia over time"
+        }
+    ]
+}

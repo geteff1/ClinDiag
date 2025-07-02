@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Optic Nerve Assessment",
+            "date": "Not specified",
+            "findings": "All 17 patients had functional visual fields; 13 of 17 patients had optic nerve-visual field mismatch showing no atrophic disc changes. Four patients showed evidence of optic nerve pallor or gliosis.",
+            "changes_over_time": "At final visits, 8 of 11 patients with initial FVL had stabilization of their examination results. Only 1 patient showed improvement, while 2 patients' findings worsened. The 6 patients who developed FVL later had stable or improved functional findings at their last visit."
+        },
+        {
+            "procedure_name": "Goldmann Visual Field Testing (GVF)",
+            "date": "Not specified",
+            "findings": "All patients exhibited functional visual field defects; patterns included tubular fields in 14 of 17 patients (82%) and nonphysiologic constriction in 12 of 17 patients (71%).",
+            "changes_over_time": "Most patients showed stabilization in visual field findings, although 2 patients had progressive deterioration of their functional fields through their last visit."
+        },
+        {
+            "procedure_name": "Visual Acuity Assessment",
+            "date": "Not specified",
+            "findings": "Decreased visual acuity (VA) was noted in 6 patients, with fluctuating results based on effort and examination technique.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Automated Perimetry Studies",
+            "date": "Not specified",
+            "findings": "Functional field defects identified; many patients showed features consistent with FVL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tangent Screen Testing",
+            "date": "Not specified",
+            "findings": "Functional visual fields exhibited, with patterns indicating nonorganic loss.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Visual Field Testing",
+            "date": "Not specified",
+            "findings": "6 of 17 patients had fluctuating (inconsistent) visual acuity without examination change.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

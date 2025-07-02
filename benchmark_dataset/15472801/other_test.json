@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Asymptomatic bradycardia, QT interval prolongation to 0.57 s, and nonsustained polymorphic ventricular tachycardia.",
+            "changes_over_time": "Initial ECG showed normal sinus rhythm with a QTc of 0.412 s; after treatment with voriconazole, QTc prolonged to 0.57 s and subsequently normalized to 0.43 s after discontinuation of voriconazole."
+        },
+        {
+            "procedure_name": "Holter electrocardiogram",
+            "date": "Not specified",
+            "findings": "Several asymptomatic episodes of polymorphic, nonsustained ventricular tachycardia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": "Findings consistent with early remission.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

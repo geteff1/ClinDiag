@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Creatinine Kinase",
+            "date": "Not specified",
+            "findings": "648 U/L (normal range not specified)",
+            "changes_over_time": "Peaked at 814 U/L eight hours later"
+        },
+        {
+            "procedure_name": "MB Fraction of Creatinine Kinase",
+            "date": "Not specified",
+            "findings": "5.8 ng/mL (normal range not specified)",
+            "changes_over_time": "Peaked at 5.03 ng/mL eight hours later"
+        },
+        {
+            "procedure_name": "Cardiac Troponin I",
+            "date": "Not specified",
+            "findings": "1.80 ng/mL (normal range not specified)",
+            "changes_over_time": "Peaked at 15 ng/mL eight hours later"
+        },
+        {
+            "procedure_name": "Serum Acetaminophen Level",
+            "date": "Not specified",
+            "findings": "10 mg/mL (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Toxicology Screen",
+            "date": "Not specified",
+            "findings": "Negative for cocaine, amphetamines, and methamphetamines",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up Cardiac-Gated Magnetic Resonance Imaging",
+            "date": "2 days after discharge",
+            "findings": "Subendocardial resting perfusion defect and a small region of delayed hypoenhancement along the inferior wall, indicative of myocardial infarction",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

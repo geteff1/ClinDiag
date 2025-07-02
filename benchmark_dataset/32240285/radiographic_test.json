@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "SARS-CoV-2 testing",
+            "date": "January 22, 2020",
+            "findings": "Positive or indeterminate results for nasopharyngeal and oropharyngeal specimens, suggests high viral load.",
+            "changes_over_time": "Initial specimens showed low Ct values (indicating higher viral load), but later specimens showed Ct values >35, suggesting decreasing levels of virus."
+        }
+    ]
+}

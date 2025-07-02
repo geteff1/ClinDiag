@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "height": "151 cm",
+                "weight": "49.5 kg",
+                "body_mass_index": "21.7"
+            },
+            "relevant_findings": "Normal physical examination except for blood pressure, height, weight, and BMI as recorded.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 3 of the patient's menstrual cycle (23 days after initial examination)",
+            "vital_signs": {
+                "luteinizing_hormone": "4.6 U/L",
+                "follicle_stimulating_hormone": "3.8 U/L",
+                "estradiol": "25 pg/mL"
+            },
+            "relevant_findings": "Ultrasound-guided antral follicle count revealed multiple follicles (up to 15 mm) in each ovary and normal ovarian volume.",
+            "changes_over_time": "No changes recorded from previous examination."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Endometrial biopsy revealed weakly proliferative endometrium with multiple compact, nonnecrotizing granulomas. No polarizing material was present.",
+            "changes_over_time": "The first endometrial biopsy showed only proliferative endometrium, while the follow-up biopsy showed a well-formed granuloma."
+        }
+    ]
+}

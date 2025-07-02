@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "pulse": "86 bpm",
+                "blood_pressure": "133/86 mm Hg",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "weight": "88 kg",
+                "height": "177 cm",
+                "BMI": "28",
+                "CD4_T_cell_count": "779 per cubic millimeter",
+                "HIV_RNA_viral_load": "undetectable",
+                "heart_lungs_abdomen_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "88 bpm",
+                "blood_pressure": "134/100 mm Hg",
+                "weight": "89.4 kg"
+            },
+            "relevant_findings": {
+                "parotid_glands": "symmetric enlargement",
+                "centripetal_obesity": "mild"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

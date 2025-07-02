@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Skin prick test",
+            "date": "Not specified",
+            "findings": "8-mm positive prick test for cow's milk.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CAP-RAST assay",
+            "date": "Not specified",
+            "findings": "Value of 4.80 KU/l for cow's milk-specific IgE (normal value <0.35 KaU/l).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Double Blind Placebo-Controlled Food Challenge (DBPCFC)",
+            "date": "Not specified",
+            "findings": "Confirmed diagnosis of cow's milk allergy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

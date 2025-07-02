@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serological diagnosis of HIV infection",
+            "date": "Not specified",
+            "findings": "Positive for HIV via ELISA and confirmatory recombinant immunoblot test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CD4+ T lymphocyte count",
+            "date": "Not specified",
+            "findings": "35 cells/mL (low).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma HIV RNA level",
+            "date": "Not specified",
+            "findings": "159,000 copies/mL.",
+            "changes_over_time": "At 6 months of follow-up, it was !40 copies/mL."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "Increased T2-weighted signal diffusely scattered with confluent aspect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalographic examination",
+            "date": "Not specified",
+            "findings": "Diffuse abnormal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture CSF analysis",
+            "date": "Not specified",
+            "findings": "CSF clear with 22 mononuclear cells/mL, protein level of 80 mg/dL, glucose level of 41 mg/dL.",
+            "changes_over_time": "CSF cell counts and biochemical test results were normal two weeks after antiretroviral therapy initiation."
+        },
+        {
+            "procedure_name": "CSF HIV RNA level",
+            "date": "Not specified",
+            "findings": "13,000,000 copies/mL at initial examination.",
+            "changes_over_time": "At 6 months of follow-up, the CSF HIV RNA level was 73 copies/mL."
+        },
+        {
+            "procedure_name": "HIV genotype examination",
+            "date": "Not specified",
+            "findings": "Identical subtype CRF02_AG sequences, without any drug resistance mutation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up plasma HIV RNA level",
+            "date": "6 months follow-up",
+            "findings": "!40 copies/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up CSF HIV RNA level",
+            "date": "6 months follow-up",
+            "findings": "73 copies/mL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

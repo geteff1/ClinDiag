@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "July 1993",
+            "findings": "No residual aortic regurgitation.",
+            "changes_over_time": "Three years later, mild aortic regurgitation was noted; four years postoperatively, moderate aortic regurgitation was observed."
+        },
+        {
+            "procedure_name": "Computed Tomographic Angiography",
+            "date": "November 1999",
+            "findings": "Bovine arch anatomy, no evidence of downstream aortic dilatation or dissection, intact ascending aortic graft and coronary anastomoses, normal coronary arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "January 2000",
+            "findings": "Moderate-to-severe aortic regurgitation, moderate left ventricular dilatation and global hypokinesia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "12 months after reoperation",
+            "findings": "Mild left ventricular hypertrophy without dilatation, normal left ventricular systolic function, no aortic regurgitation.",
+            "changes_over_time": "The maximal flow velocity across the SPV was 2.2 m/s, corresponding to a peak transvalvular gradient of approximately 19 mm Hg."
+        }
+    ]
+}

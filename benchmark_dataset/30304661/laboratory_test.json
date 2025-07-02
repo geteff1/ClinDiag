@@ -1,0 +1,61 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood ethanol level",
+            "date": "Not specified",
+            "findings": "178 mg per deciliter (reference range, <10)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": "36.7 (normal range: 39.5–50.2)",
+                "Hemoglobin (g/dl)": "12.8 (normal range: 13.8–17.3)",
+                "White-cell count (per mm3)": "11,120 (normal range: 4000–10,400)",
+                "Red-cell count (per mm3)": "4,090,000 (normal range: 4,360,000–5,780,000)",
+                "Platelet count": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": {
+                "Prothrombin time (sec)": "11.3 (normal range: 10.3–13.1)",
+                "Prothrombin-time international normalized ratio": "1.0 (normal range: 0.9–1.1)",
+                "Activated partial-thromboplastin time (sec)": "20 (normal range: 26–37)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": {
+                "Alanine aminotransferase (IU/liter)": "57 (normal range: 10–55)",
+                "Aspartate aminotransferase (IU/liter)": "41 (normal range: 10–40)",
+                "Alkaline phosphatase (IU/liter)": "43 (normal range: 45–115)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and glucose",
+            "date": "Not specified",
+            "findings": {
+                "Sodium (mmol/liter)": "142 (normal range: 136–145)",
+                "Potassium (mmol/liter)": "5.5 (normal range: 3.5–5.0)",
+                "Chloride (mmol/liter)": "114 (normal range: 96–110)",
+                "Carbon dioxide (mmol/liter)": "19 (normal range: 22–32)",
+                "Glucose (mg/dl)": "182 (normal range: 70–100)",
+                "Lactic acid (mmol/liter)": "2.6 (normal range: ≤1.9)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine drug screen",
+            "date": "Not specified",
+            "findings": "Presumptively positive for methamphetamine, negative for other drugs of abuse.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

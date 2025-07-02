@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Day 29",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Day 39",
+            "findings": "Bi-basal nodular and alveolar opacities.",
+            "changes_over_time": "Indicated the development of bronchectasis and hypoattenuated lung areas at 4 months and 6 months after transplantation."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "4 months after HSCT",
+            "findings": "Development of bronchectasis and hypoattenuated lung areas.",
+            "changes_over_time": "Indicated small airways disease."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "6 months after HSCT",
+            "findings": "Development of bronchectasis and hypoattenuated lung areas.",
+            "changes_over_time": "Indicated small airways disease."
+        }
+    ]
+}

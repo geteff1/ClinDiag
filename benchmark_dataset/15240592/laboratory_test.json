@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "GnRH stimulation test",
+            "date": "Not specified",
+            "findings": "Baseline: LH 0.9 IU/liter; FSH 3.8 IU/liter; Peak: LH 19.3 IU/liter (30 min); FSH 20.9 IU/liter (60 min).",
+            "changes_over_time": "At age 22, the patient responded to pulsatile GnRH with increased levels of LH and FSH."
+        },
+        {
+            "procedure_name": "Baseline gonadotropin secretion assessment",
+            "date": "Not specified",
+            "findings": "LH levels ranged from 1.3 – 2.3 IU/liter, mean LH 1.78 IU/liter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LH and FSH response to pulsatile GnRH administration",
+            "date": "Not specified",
+            "findings": "At 75 ng/kg: LH 0.31 IU/liter, FSH 24 IU/liter; At 100 ng/kg: LH 0.42 IU/liter, FSH 13 IU/liter; At 150 ng/kg: Peak estradiol 256 pg/ml; At 250 ng/kg: LH 0.53 IU/liter; At 500 ng/kg: LH 0.64 IU/liter, Peak estradiol 126 pg/ml.",
+            "changes_over_time": "Increase in LH and FSH responses was observed at increased doses of GnRH, but LH levels remained low compared to IHH controls."
+        }
+    ]
+}

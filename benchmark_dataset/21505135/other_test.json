@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "October 2008 - July 2010",
+            "findings": "76% blast cells with monocytic features and a complex karyotype including monosomy 7, del(5q), and 2 marker chromosomes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "October 2008 - July 2010",
+            "findings": "A novel, heterozygous 3-kilobase deletion removing exons 7-9 of TP53.",
+            "changes_over_time": "The deletion was found to be homozygous in the leukemia DNA as a result of uniparental disomy."
+        },
+        {
+            "procedure_name": "Whole-Genome Sequencing",
+            "date": "October 2008 - July 2010",
+            "findings": "28 validated somatic single-nucleotide variations or indels in coding genes, 8 somatic structural variants, and 12 somatic copy number alterations detected in the leukemia genome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RNA Expression Profiling",
+            "date": "Not specified",
+            "findings": "Except for the deleted region (exons 7-9), TP53 mRNA expression was similar to or higher than that observed in AML without TP53 mutations.",
+            "changes_over_time": "Overall no difference in TP53 target gene expression between patient and control samples."
+        },
+        {
+            "procedure_name": "Immunohistochemistry for TP53",
+            "date": "Not specified",
+            "findings": "High-level predominantly nuclear staining of TP53 in leukemic blast cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spectral Karyotyping",
+            "date": "Not specified",
+            "findings": "Complex chromosomal rearrangements identified including 8 novel chromosomal translocations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

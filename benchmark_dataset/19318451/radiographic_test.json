@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging scan",
+            "date": "Not specified",
+            "findings": "EVA bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "At the age of 12 years",
+            "findings": "Enlarged, multinodular thyroid gland with a total volume of 31 ml.",
+            "changes_over_time": "When last seen at age 14, ultrasound showed a multinodular and multicystic goiter with a total volume of 33 ml."
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "At birth",
+            "findings": "Asymmetrically enlarged thyroid gland (thyroid volume 3.88 ml).",
+            "changes_over_time": "Total thyroid volume 23 ml; progressive in size with a homogeneous structure containing a single small cyst."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging scan",
+            "date": "Before cochlear implant at 2 years",
+            "findings": "EVA bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

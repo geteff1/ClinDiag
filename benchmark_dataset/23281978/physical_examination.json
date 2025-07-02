@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "133/83 mmHg",
+                "heart_rate": "61 bpm",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Afebrile, appeared to be in considerable distress, thin.",
+                "trachea": "Midline.",
+                "cardiac": "Regular rhythm without extra heart sounds, no jugular venous distention, no lower-extremity edema.",
+                "respiratory": "Breath sounds normal in both lungs.",
+                "abdominal": "Soft and nontender, normal bowel sounds, no organomegaly or lymphadenopathy.",
+                "skin": "Unremarkable."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "white_cell_count": "22,000 per cubic millimeter",
+                "hemoglobin": "17.5 g per deciliter",
+                "platelet_count": "771,000 per cubic millimeter"
+            },
+            "relevant_findings": {
+                "white_cell_count": "Subsequently decreased to 13,800 per cubic millimeter with 91% neutrophils.",
+                "hemoglobin": "Decreased to 15.6 g per deciliter.",
+                "platelet_count": "Reduced to 610,000 per cubic millimeter."
+            },
+            "changes_over_time": "White-cell count and platelets decreased; hemoglobin also decreased."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fasting_glucose": "192 mg per deciliter",
+                "subsequent_glucose": "109 mg per deciliter"
+            },
+            "relevant_findings": "High fasting glucose level raises concern about possible diabetes.",
+            "changes_over_time": "Initial fasting glucose level of 192 mg/dL decreased to 109 mg/dL on repeat measurement."
+        },
+        {
+            "date": "6-month follow-up",
+            "vital_signs": {
+                "ejection_fraction": "50%"
+            },
+            "relevant_findings": "No further angina or bleeding reported.",
+            "changes_over_time": "Ejection fraction improved from initial 40% to 50%."
+        }
+    ]
+}

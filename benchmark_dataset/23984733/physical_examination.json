@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "pulse": "146 bpm",
+                "respiratory_rate": "45 breaths per minute",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Multiple scattered petechiae on the face, chest, and legs; remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "139 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Isolated petechiae on the tongue and fine petechiae on the face and thighs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "40°C",
+                "pulse": "160 bpm",
+                "respiratory_rate": "32 breaths per minute",
+                "blood_pressure": "101/56 mmHg",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Weight was 11.7 kg; nasopharyngeal tests for influenza A and B were negative, as were stool tests for enteric pathogens.",
+            "changes_over_time": "Fever and diarrhea resolved after treatment."
+        }
+    ]
+}

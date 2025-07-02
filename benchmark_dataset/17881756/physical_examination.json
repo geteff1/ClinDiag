@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": "The patient was a thin, anxious man with mild temporal wasting. The abdominal scar was well healed, and there was moderate clubbing of the fingers. Oxygen saturation was 97% while breathing ambient air.",
+            "changes_over_time": "There was a progression from a normal chest radiograph to the appearance of bilateral centrilobular nodules and small cysts in the lungs on CT scans. The patient appeared thin and chronically ill with weight loss over time."
+        },
+        {
+            "date": "5.5 months before admission",
+            "vital_signs": "Hematocrit: 40.1%, White-cell count: 7700 per cubic millimeter, with 9% eosinophils.",
+            "relevant_findings": "Clubbing of all digits; a small, tender, firm nodule consistent with a keloid was palpated in the surgical scar.",
+            "changes_over_time": "The patient’s condition changed with ongoing abdominal pain at the site of the surgical scar and early satiety, indicating worsening symptoms."
+        },
+        {
+            "date": "2 weeks before admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "A new nodule was observed in the lower lobe of the left lung with surrounding ground-glass opacification.",
+            "changes_over_time": "There was a stable weight for the previous 4 months, and the previous small ground-glass nodules and cysts were unchanged."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Physical examination findings were unchanged, with normal results of the complete blood count, serum electrolyte levels, liver function, and renal function tests.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fasting Blood Glucose",
+            "date": "Not specified",
+            "findings": "101 mg/dL (slightly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Cholesterol",
+            "date": "Not specified",
+            "findings": "157 mg/dL (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Low-Density Lipoprotein (LDL) Cholesterol",
+            "date": "Not specified",
+            "findings": "138 mg/dL (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "Not specified",
+            "findings": "157 mg/dL (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "High-Density Lipoprotein (HDL) Cholesterol",
+            "date": "Not specified",
+            "findings": "38 mg/dL (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycohemoglobin (HbA1c)",
+            "date": "Not specified",
+            "findings": "5.5% (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin (TSH)",
+            "date": "Not specified",
+            "findings": "3.17 mIU/L (within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

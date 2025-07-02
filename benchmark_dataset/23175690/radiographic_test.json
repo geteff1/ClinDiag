@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Detected a mass with a diameter of 22 mm in the left adrenal gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scintigraphy with 131I-labeled adosterol",
+            "date": "Not specified",
+            "findings": "Demonstrated high uptake by the left adrenal tumor, whereas the uptake in the right nontumorous adrenal was markedly suppressed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone scintigraphy with 99mTc-labeled methylene diphosphonate",
+            "date": "Not specified",
+            "findings": "Revealed uptake in the skull and ankle joints, as well as both femoral heads (more prominent on the left).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Showed an irregular low signal intensity of both femoral heads on T1- and T2-weighted images, typical of avascular necrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray of the left arm",
+            "date": "Not specified",
+            "findings": "Open epiphysis of the arm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracic X-ray",
+            "date": "Not specified",
+            "findings": "Severe kyphosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray of the left hand and wrist",
+            "date": "Not specified",
+            "findings": "Bone age of 16 years according to Greulich and Pyle",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone densitometry of the lumbar spine",
+            "date": "Not specified",
+            "findings": "Z-score of -0.59 for lumbar spine; z-score of -0.16 for femur head",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the sella turcica",
+            "date": "Not specified",
+            "findings": "Small anterior pituitary remnant on the sella floor, no pituitary stalk, and an ectopic neurohypophysis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "blood_pressure": "106/62 mm Hg",
+                "pulse": "119 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "Patient appeared pale, mass approximately 4 cm in right lower quadrant, pain in genital area on palpation, remainder of examination normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "103/53 mm Hg",
+                "pulse": "94 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Abdomen soft, mass 3 cm by 2 cm in right lower quadrant, tender to palpation, remainder normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "blood_pressure": "112/67 mm Hg",
+                "pulse": "128 bpm",
+                "respiratory_rate": "26 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Central abdominal distention and pain with palpation; remainder of examination normal.",
+            "changes_over_time": "Temperature rose from 37.2°C to 39.1°C over two hours."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.3°C",
+                "blood_pressure": "112/62 mm Hg",
+                "pulse": "140 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Nontender mass approximately 12 cm by 15 cm extending from right lower quadrant past midline; mild tenderness surrounding mass and erythema in perianal area; remainder of abdomen soft.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7 days after discharge",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Weight was 16.8 kg; abdominal mass was noted.",
+            "changes_over_time": "Abdominal mass increased in size to 10 cm in greatest dimension causing ureteral and colonic obstruction after discharge."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Neutrophilic leukocytosis, normal ESR, negative rheumatoid factor, anti-CCP antibody, and antinuclear antibody (ANA) in the child.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid Factor Test",
+            "date": "Not specified",
+            "findings": "Negative rheumatoid factor in both the child and the mother.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-CCP Antibody Test",
+            "date": "Not specified",
+            "findings": "Negative anti-CCP antibody in both the child and the mother.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Test",
+            "date": "Not specified",
+            "findings": "Negative ANA in both the child and the mother.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical Exome Sequencing",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation at the NOD2 gene (exon 4, c.1000C > T, p.Arg334Trp) in the child; mother homozygous and younger daughter heterozygous for the same mutation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

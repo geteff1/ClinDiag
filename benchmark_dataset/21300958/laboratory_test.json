@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial Blood Gas",
+            "date": "Not specified",
+            "findings": "Chronic respiratory alkalosis with a compensatory metabolic acidosis. Arterial pH 7.48, PaCO2 23 mm Hg, PaO2 45 mm Hg, HCO3 17 mMol/L, Arterial oxygen saturation 72%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematology",
+            "date": "Not specified",
+            "findings": "Hemoglobin 16.2 g/dL, Hematocrit 47.2%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Panel",
+            "date": "Not specified",
+            "findings": "International normalized ratio 1.0, Partial thromboplastin time 26.9 seconds.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 0.85 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "Troponin I 0.01 ng/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B-type natriuretic peptide",
+            "date": "Not specified",
+            "findings": "B-type natriuretic peptide 36.9 pg/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oximetry Saturation Run",
+            "date": "Not specified",
+            "findings": "Saturation levels: Superior vena cava 53%, Inferior vena cava 60%, High right atrium 57%, Low right atrium 58%, Right ventricle 58%, Pulmonary artery 56%, Femoral artery 84%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

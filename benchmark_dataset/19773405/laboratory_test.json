@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum IGF-I concentration",
+            "date": "2.7 yr",
+            "findings": "Extremely low (11 ng/ml) using Immunotech kit.",
+            "changes_over_time": "IGF-I levels remained low in contrast to IGFBP-3 and ALS levels, which were in the upper normal range or above."
+        },
+        {
+            "procedure_name": "Basal serum GH concentrations",
+            "date": "2.8 yr",
+            "findings": "0.7 ng/ml after an overnight fast, peak concentration of 26 ng/ml after stimulation with ornithine.",
+            "changes_over_time": "GH stimulation tests were performed showing variability in serum GH levels."
+        },
+        {
+            "procedure_name": "Serum IGF-I generation test",
+            "date": "8.5 yr",
+            "findings": "Basal IGF-I level of 51 ng/ml, reaching only 82 ng/ml after 5 days of GH injections.",
+            "changes_over_time": "Growth velocity increased when treated with 0.4 mg/kg/week GH."
+        },
+        {
+            "procedure_name": "24-h urinary GH",
+            "date": "During GH withdrawal",
+            "findings": "7 ng, for a normal range of 1 to 7 ng.",
+            "changes_over_time": "Indicated peaks of GH during spontaneous secretion assessment."
+        },
+        {
+            "procedure_name": "IGF-I measurement (multiple assays)",
+            "date": "10.6 yr",
+            "findings": "Undetectable IGF-I using monoclonal assays, elevated IGF-I levels observed using polyclonal assay during improved food intake.",
+            "changes_over_time": "Levels varied significantly between assays; increased levels observed during a period of increased food intake."
+        }
+    ]
+}

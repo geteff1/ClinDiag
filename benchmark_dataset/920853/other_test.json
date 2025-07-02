@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal EEG findings were reported.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neurological examination",
+            "date": "Not specified",
+            "findings": "Neurological examination was unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychiatric evaluation",
+            "date": "Not specified",
+            "findings": "Several attacks that seemed to confirm the diagnosis of hysteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up visit",
+            "date": "Not specified",
+            "findings": "Number of attacks decreased strikingly from three or more severe attacks a day to three severe episodes.",
+            "changes_over_time": "This change was observed after resuming diphenylhydantoin."
+        }
+    ]
+}

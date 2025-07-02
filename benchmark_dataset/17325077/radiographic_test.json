@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "A large, slightly heterogeneous, solid adnexal mass in the right side of the pelvis adjacent to the fundus of the uterus, small amount of fluid adjacent to the mass, normal appendix, small bilateral pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Sonography",
+            "date": "Not specified",
+            "findings": "Large heterogeneous solid adnexal mass with variable attenuation and multiple edge shadows, suggestive of a fibrous lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Well-circumscribed mass separate from the uterus, predominantly low signal intensity on T1- and T2-weighted images, areas of high signal intensity suggesting necrosis or edema, normal uterus and endometrium, no retroperitoneal adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

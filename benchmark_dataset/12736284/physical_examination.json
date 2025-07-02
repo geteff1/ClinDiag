@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.7°C",
+                "pulse": "101 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "blood_pressure": "150/55 mm Hg",
+                "oxygen_saturation": "91%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "pulse": "60 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "blood_pressure": "120/55 mm Hg",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "The patient was sedated, intubated; inspiratory crackles at both lung bases; bronchial breath sounds in right upper and left mid-to-lower lung zones; grade 2 systolic murmur at left sternal border; abdominal examination normal; no peripheral edema, digital clubbing or cyanosis; rectal examination unremarkable; neurologic examination normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "3rd hospital day",
+            "vital_signs": {
+                "temperature": "39.2°C",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Chest radiograph showed partial clearing of right upper lobe consolidation; pleural effusions smaller compared to previous state; persistent diffuse interstitial edema.",
+            "changes_over_time": "Improvement in right upper lobe consolidation, persistent interstitial edema."
+        },
+        {
+            "date": "6th hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Reintubation required due to increasing respiratory distress; persistent patchy opacities in both lungs; unchanged pleural effusions.",
+            "changes_over_time": "Worsening respiratory distress; reintubation."
+        },
+        {
+            "date": "7th hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "81%"
+            },
+            "relevant_findings": "Coarse breath sounds over lungs; diffuse air-space opacities noted; bilateral ground-glass opacities and consolidations; moderate-to-large bilateral pleural effusions.",
+            "changes_over_time": "Worsening respiratory distress and slight improvement in aeration despite reintubation."
+        }
+    ]
+}

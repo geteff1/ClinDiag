@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biochemical analysis",
+            "date": "Not specified",
+            "findings": "Mild increase in total bilirubin level (1.28 mg/dL) and serum aminotransferase (40 U/I); slightly lower serum K concentration (3.4 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Severe dilatation of the right ventricle at end diastole (56 mm) and of the right atrium at end systole (74 mm, area of 43 cm2); paradoxical ventricular septal motion; TAPSE 16 mm; severe TR (vena contracta = 11 mm); left ventricular ejection fraction normal (65%); main pulmonary artery diameter 32 mm.",
+            "changes_over_time": "At the 3-month follow-up, TAPSE improved to 12 mm with a fractional area change of 35%."
+        },
+        {
+            "procedure_name": "Transthoracic three-dimensional echocardiogram",
+            "date": "Not specified",
+            "findings": "Total absence of posterior tricuspid leaflet; slight hypoplasia of anterior leaflet; normal septal leaflet.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transoesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Confirmed findings of transthoracic echocardiogram.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coronary angiogram",
+            "date": "Not specified",
+            "findings": "Normal coronary arteries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "Normal pulmonary arterial pressure of 26/6 mmHg; Qp/Qs ratio of 1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Early post-operative evaluation",
+            "date": "Not specified",
+            "findings": "Normally functioning prosthesis with normal transvalvular gradients (maximum/medium = 7/4 mmHg); mild (Grade I) TR; moderately impaired RV function (TAPSE 7-8 mm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "3-month follow-up transthoracic echocardiogram",
+            "date": "3-month follow-up",
+            "findings": "Normal functioning prosthesis; absence of peri-prosthetic regurgitation; transvalvular gradients similar to those measured immediately post-surgery.",
+            "changes_over_time": "Partial recovery of RV function was observed, with TAPSE improving to 12 mm."
+        }
+    ]
+}

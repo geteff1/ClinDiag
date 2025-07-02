@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count and Electrolytes, Calcium, Creatinine, Urea Nitrogen, Protein, Albumin, Globulin, Bilirubin",
+            "date": "Not specified",
+            "findings": "All results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Bilateral hydronephrosis and bilateral solid ovarian masses; right ovary mass measured 4.4 cm by 2.5 cm and left ovary mass measured 5.6 cm by 4.5 cm. Enlarged aortocaval lymph node 1.4 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cystoscopy with transurethral resection",
+            "date": "Not specified",
+            "findings": "Posterior bladder mucosa thickened and friable with distorted muscular wall. Histological examination revealed invasive transitional-cell carcinoma, grade 3 with invasion of muscularis propria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of pelvis",
+            "date": "Not specified",
+            "findings": "Left adnexal mass 4.2 cm by 4.8 cm with invasion into the uterus; right adnexal mass enhancing but not invading the uterus; thickening of bladder wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological review of bladder biopsy",
+            "date": "Not specified",
+            "findings": "Infiltrating lobular carcinoma cells that invaded muscularis propria, distinguishing characteristics led to diagnosis of metastatic breast carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans after 3 months of tamoxifen",
+            "date": "Three months after initial consultation",
+            "findings": "Marked shrinkage of the pelvic masses.",
+            "changes_over_time": "Reported improvement in bladder capacity, disappearance of urgency and incontinence, and decreased nocturia."
+        },
+        {
+            "procedure_name": "CT scans after 6 months of tamoxifen",
+            "date": "Six months after initial consultation",
+            "findings": "CT scans were unchanged from earlier studies.",
+            "changes_over_time": "Patient reported complete disappearance of urinary symptoms."
+        },
+        {
+            "procedure_name": "CT scans after chemotherapy",
+            "date": "Not specified",
+            "findings": "Stable disease without progression, slightly more than three years after beginning treatment.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

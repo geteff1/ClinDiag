@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "27.2kg",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Admitted with emaciation and caloric restriction. Denies any appearance or eating behavior problem.",
+            "changes_over_time": "Initially diagnosed with anorexia nervosa; later weight decreased to 26.3kg after 12 days at home. Experienced dehydration and later presented a rectal temperature below 96°F."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103°F",
+                "weight": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Presented disorientation and remarkable dehydration; diagnosed with viral gastroenteritis.",
+            "changes_over_time": "Condition improved after treatment with intravenous fluids."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "sodium": "180 mEq/liter",
+                "osmolality": "350 mosmol/liter",
+                "weight": "Not specified",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Developed severe diabetes insipidus and mild pan-hypopituitarism.",
+            "changes_over_time": "Condition required vigorous intravenous fluid therapy to correct metabolic abnormalities."
+        },
+        {
+            "date": "After surgical intervention (exact date not specified)",
+            "vital_signs": {
+                "weight": "Not specified",
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Patient was alert and oriented post-operation, with no discernible neurologic deficit.",
+            "changes_over_time": "All signs of anorexia disappeared; however, continued to have diabetes insipidus."
+        }
+    ]
+}

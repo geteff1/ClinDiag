@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum free T3 (FT3)",
+            "date": "Not specified",
+            "findings": "11.3 pmol/liter (normal range 3.3–6.2 pmol/liter) - elevated",
+            "changes_over_time": "After PTU treatment: FT3 reduced to 3.1 pmol/liter and slightly high at 6.6 pmol/liter with LT4."
+        },
+        {
+            "procedure_name": "Serum TSH",
+            "date": "Not specified",
+            "findings": "1.54 mU/liter (normal range 0.4–3.6 mU/liter) - normal initially, elevated to 50.1 mU/liter after PTU, then normalized to 3.18 mU/liter after LT4 treatment.",
+            "changes_over_time": "High TSH levels developed after PTU treatment and were normalized after adding LT4."
+        },
+        {
+            "procedure_name": "Serum SHBG",
+            "date": "Not specified",
+            "findings": "261 nmol/liter (normal range 15–45 nmol/liter) - elevated initially, reduced to 72 nmol/liter after PTU and further reduced to 102 nmol/liter after LT4.",
+            "changes_over_time": "Decreased from 261 nmol/liter to 72 nmol/liter after PTU treatment."
+        },
+        {
+            "procedure_name": "Serum FT4",
+            "date": "Not specified",
+            "findings": "14.5 pmol/liter initially, then undetectable after PTU treatment, normal at 16.4 pmol/liter after LT4 treatment.",
+            "changes_over_time": "FT4 was undetectable after PTU and returned to normal after LT4 treatment."
+        },
+        {
+            "procedure_name": "Thyroglobulin (Tg)",
+            "date": "Not specified",
+            "findings": "11.4 ng/ml increased to 874 ng/ml after PTU treatment.",
+            "changes_over_time": "Increased significantly from 11.4 ng/ml to 874 ng/ml after 12 and 24 weeks of PTU treatment."
+        },
+        {
+            "procedure_name": "Resting energy expenditure (REE)",
+            "date": "Not specified",
+            "findings": "881 kcal (predicted 931 kcal) at baseline and increased to 1160 kcal after PTU and 1207 kcal after PTU plus LT4.",
+            "changes_over_time": "Increased from 881 kcal to 1160 kcal after PTU and to 1207 kcal after LT4 treatment."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "5 Jun 2004",
+            "findings": "Protein level of 283 mg/dL, glucose level of 79 mg/dL, 2 leukocytes and 1 erythrocyte per mL of CSF. Positive for B. burgdorferi IgG antibodies.",
+            "changes_over_time": "Additional CSF test on an unspecified date showed protein level of 177 mg/dL, glucose level of 144 mg/dL, and 2 leukocytes/mL CSF."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Fibillation potentials and positive sharp waves in proximal and distal muscles of the left arm and leg, early recruitment of small motor unit action potentials in proximal muscles.",
+            "changes_over_time": "Continued to demonstrate widespread fibrillation potentials and positive sharp waves in the left arm and leg, with reduced recruitment of motor unit action potentials in the legs."
+        },
+        {
+            "procedure_name": "Deltoid muscle biopsy",
+            "date": "Not specified",
+            "findings": "Many scattered necrotic and regenerating fibers, perifascicular atrophy, and perivascular inflammatory cell infiltrate centered around blood vessels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Reduced amplitudes of bilateral sural sensory nerve action potentials, normal amplitudes in bilateral peroneal and left tibial compound muscle action potentials with mildly prolonged distal latencies and moderate slowing of conduction velocities.",
+            "changes_over_time": "Essentially unchanged from the initial study."
+        }
+    ]
+}

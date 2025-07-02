@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "2004",
+            "findings": "Serum calcium 9.8 mg/dL (normal range 8.6-10.2 mg/dL)",
+            "changes_over_time": "Stable serum calcium levels; 10.1 mg/dL five months later and remaining stable at 10.1 mg/dL in January 2013."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "2004",
+            "findings": "PTH 8.8 pg/mL (normal range 10-65 pg/mL)",
+            "changes_over_time": "Increased to 17.3 pg/mL five months later and increased to 30 pg/mL in January 2013."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "December 2012",
+            "findings": "Serum calcium 9.6 mg/dL (normal range 8.6-10.2 mg/dL)",
+            "changes_over_time": "Slight change to 9.3 mg/dL in March 2013."
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "December 2012",
+            "findings": "PTH 24 pg/mL (normal range 10-65 pg/mL)",
+            "changes_over_time": "Increased to 22 pg/mL ten days after PTH discontinuation."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "January 2013",
+            "findings": "Serum calcium 10.1 mg/dL (normal range 8.6-10.2 mg/dL)",
+            "changes_over_time": "Stable since the discontinuation of PTH therapy."
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "June 2013",
+            "findings": "Serum calcium 9.6 mg/dL (normal range 8.6-10.2 mg/dL)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

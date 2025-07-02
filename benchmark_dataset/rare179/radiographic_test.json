@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiographs",
+            "date": "Not specified",
+            "findings": "broad bones",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color Doppler echocardiography",
+            "date": "Not specified",
+            "findings": "atrial septal defect, patent ductus arteriosus, right atrial and right ventricular enlargement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Color Doppler ultrasonography of the urinary system",
+            "date": "Not specified",
+            "findings": "bilateral severe hydronephrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cranial color Doppler ultrasonography",
+            "date": "Not specified",
+            "findings": "grade II-IVH on the left side and moderate enlargement of bilateral lateral cerebral ventricles",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal CT",
+            "date": "Not specified",
+            "findings": "significant increase in the size of both kidneys and signs of severe hydronephrosis in both kidneys",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

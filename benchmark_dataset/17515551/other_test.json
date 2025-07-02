@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Opening pressure of 40 cm H2O, white blood cell count of 23, glucose 40, and protein 193. Cytology demonstrated atypical melanocytes consistent with malignant melanoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Electrophysiologic testing showed epileptiform activity in the right mid-temporal cortex.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrophysiologic testing",
+            "date": "Not specified",
+            "findings": "Right median compound muscle action potential (CMAP) amplitude was 2.3 mV and right ulnar was 3.4 mV. Following 10 seconds of exercise, her right ulnar CMAP increased to 6.8 mV, demonstrating a 100% increase.",
+            "changes_over_time": "The decrement in CMAP amplitude was observed during repetitive nerve stimulation, indicating the presynaptic nature of the disorder."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Several enlarged lymph nodes in the mediastinum were identified.",
+            "changes_over_time": "No recurrence of neurologic symptoms was noted 14 months after the discovery of cancer."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Diffused leptomeningeal enhancement demonstrated consistent with malignancy.",
+            "changes_over_time": "No significant changes in the described findings over time."
+        }
+    ]
+}

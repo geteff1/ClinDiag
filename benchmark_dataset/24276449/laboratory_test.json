@@ -1,0 +1,87 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood count",
+            "date": "Not specified",
+            "findings": {
+                "patient_1": {
+                    "erythrocytes_per_mm": 36200000,
+                    "hematocrit_percent": 62.0,
+                    "hemoglobin_g_per_dL": 20.0,
+                    "leukocytes_per_mm": 36800,
+                    "platelets_per_mm": 380000,
+                    "erythropoietin_mU_per_mL": 39.2
+                },
+                "patient_2": {
+                    "erythrocytes_per_mm": 8770000,
+                    "hematocrit_percent": 60.9,
+                    "hemoglobin_g_per_dL": 19.5,
+                    "leukocytes_per_mm": 9230,
+                    "platelets_per_mm": 212000,
+                    "erythropoietin_mU_per_mL": 51
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma metanephrine",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 0.22,
+                "after_last_surgery": 0.17
+            },
+            "changes_over_time": "Decreased from 0.22 mmol/L to 0.17 mmol/L"
+        },
+        {
+            "procedure_name": "Urinary metanephrine",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 217,
+                "after_last_surgery": 68
+            },
+            "changes_over_time": "Decreased from 217 nmol/mmol creat to 68 nmol/mmol creat"
+        },
+        {
+            "procedure_name": "Plasma normetanephrine",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 3.73,
+                "after_last_surgery": 0.86
+            },
+            "changes_over_time": "Decreased from 3.73 mmol/L to 0.86 mmol/L"
+        },
+        {
+            "procedure_name": "Urinary normetanephrine",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 349,
+                "after_last_surgery": 119
+            },
+            "changes_over_time": "Decreased from 349 nmol/mmol creat to 119 nmol/mmol creat"
+        },
+        {
+            "procedure_name": "Somatostatin",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 11,
+                "after_last_surgery": 9
+            },
+            "changes_over_time": "Decreased from 11 pmol/L to 9 pmol/L"
+        },
+        {
+            "procedure_name": "Gastrin",
+            "date": "Not specified",
+            "findings": {
+                "before_last_surgery": 106,
+                "after_last_surgery": 109
+            },
+            "changes_over_time": "Increased from 106 ng/mL to 109 ng/mL"
+        },
+        {
+            "procedure_name": "Histological analysis",
+            "date": "Not specified",
+            "findings": "Strong immunostaining for somatostatin, weak staining for gastrin.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

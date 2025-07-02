@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipid Emulsion Infusion",
+            "date": "Not specified",
+            "findings": "Successful resuscitation from haloperidol-induced cardiac arrest.",
+            "changes_over_time": "Converted to narrow, supraventricular tachycardia within 2 minutes of lipid infusion."
+        },
+        {
+            "procedure_name": "12-lead Electrocardiography",
+            "date": "One hour after the cardiac arrest",
+            "findings": "Sinus tachycardia at 107 beats/min, QT interval of 288 ms, corrected QT interval of 385 ms.",
+            "changes_over_time": "Normalization of QTc was contemporaneous with administration of lipid emulsion and recovery of normal vital signs."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "After resuscitation",
+            "findings": "Apical akinesis with an ejection fraction of 30% to 35%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "After resuscitation",
+            "findings": "30% mid–left anterior descending tubular stenosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Levosimendan Administration",
+            "date": "Not specified",
+            "findings": "Improved hemodynamic stability and resolved cardiogenic shock.",
+            "changes_over_time": "Normalization of arterial pressure, correction of metabolic acidosis, and resolution of heart failure signs by the next day."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/110 mm Hg",
+                "pulse": "88 bpm",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "pupils": "dilated",
+                "speech": "slurred",
+                "diaphoresis": "present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "140/84 mm Hg",
+                "pulse": "75 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "pupils": "2 mm in diameter and reactive",
+                "fever": "afebrile",
+                "other": "the remainder of the examination was normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "37.4°C",
+                "blood_pressure": "136/85 mm Hg",
+                "mean_arterial_pressure": "100 mm Hg",
+                "pulse": "110 bpm"
+            },
+            "relevant_findings": "Sedated and intubated; no focal abnormalities on examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "40 breaths/min"
+            },
+            "relevant_findings": "Increasing agitation and confusion.",
+            "changes_over_time": "Condition worsened leading to high doses of sedative medications."
+        },
+        {
+            "date": "On hospital day 3",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The patient remained delirious but was somewhat conversant post-extubation.",
+            "changes_over_time": "Gradual improvement in respiratory and mental status noted after extubation."
+        }
+    ]
+}

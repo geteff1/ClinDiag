@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "85 bpm",
+                "blood_pressure": "75/35 mm Hg",
+                "glucose": "24 mg/dl",
+                "hematocrit": "73%",
+                "hemoglobin": "22.5 g/dl"
+            },
+            "relevant_findings": "Prenatal bradycardia and severe neonatal hypoglycemia. No signs of sepsis detected at birth.",
+            "changes_over_time": "At age 12, hematocrit was 62%, hemoglobin was 19.8 g/dl, indicating a progression of erythrocytosis."
+        },
+        {
+            "date": "At genetic diagnosis (12 years of age)",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "75/35 mm Hg",
+                "glucose": "42 mg/dl",
+                "hematocrit": "62%",
+                "hemoglobin": "19.8 g/dl"
+            },
+            "relevant_findings": "Abnormal cardiac rhythm with bigeminal and trigeminal pulses and supraventricular premature beats.",
+            "changes_over_time": "The patient's cardiac rhythm abnormalities persisted without requiring treatment."
+        },
+        {
+            "date": "At 22 years of age",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "glucose": "49 mg/dl",
+                "hematocrit": "55.5%",
+                "hemoglobin": "17.5 g/dl"
+            },
+            "relevant_findings": "Continued issues with blood glucose levels and reticulocyte count of 175,000 cells/μl. HDL cholesterol level was low at 31 mg/dl.",
+            "changes_over_time": "Hematocrit decreased from 62% at 12 years to 55.5% at 22 years."
+        }
+    ]
+}

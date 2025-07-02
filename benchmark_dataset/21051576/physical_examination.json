@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "May 19, 2009",
+            "vital_signs": {
+                "supine_blood_pressure": "119/78 mmHg",
+                "supine_pulse": "94 bpm",
+                "sitting_blood_pressure": "125/82 mmHg",
+                "sitting_pulse": "107 bpm",
+                "standing_blood_pressure": "109/78 mmHg",
+                "standing_pulse": "81 bpm"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, but tearful.",
+                "neurological": "Marked hyperalgesia and hyperesthesia in soles of feet.",
+                "musculoskeletal": "Application of pressure to feet caused severe pain."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "June 16, 2009",
+            "vital_signs": {
+                "heart_rate": "80 bpm"
+            },
+            "relevant_findings": {
+                "pain": "Legs and feet still hurt severely.",
+                "neurological": "Magnetic resonance imaging of feet was negative for Charcot neuropathy."
+            },
+            "changes_over_time": "Heart rate improved from prior recordings."
+        },
+        {
+            "date": "November 16, 2009",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "hemoglobin_a1c": "5.5, down from 8.8 in May 2009."
+            },
+            "changes_over_time": "Pain had resolved completely."
+        },
+        {
+            "date": "January 2010",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "pain": "Resolved completely.",
+                "general": "Diabetes control remained superb."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

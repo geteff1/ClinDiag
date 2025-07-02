@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Body Mass Index (BMI)",
+            "date": "Not specified",
+            "findings": "BMI = 39.7 (Class II obesity)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Weight Measurement",
+            "date": "Initial assessment",
+            "findings": "Weight = 292 lb",
+            "changes_over_time": "Gained approximately 80 lb over the previous year."
+        },
+        {
+            "procedure_name": "Weight Loss Measurement",
+            "date": "After 4 months of treatment",
+            "findings": "Weight loss of 12 lb",
+            "changes_over_time": "Gradually regained most of the 12 lb lost."
+        }
+    ]
+}

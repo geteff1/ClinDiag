@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "42.2% (11 days before admission), 40.0% (on admission), 37.0% (2nd hospital day) - Low, outside normal range.",
+            "changes_over_time": "Decreased over time."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "14.9 g/dl (11 days before admission), 14.6 g/dl (on admission), 13.5 g/dl (2nd hospital day) - Low, outside normal range.",
+            "changes_over_time": "Decreased over time."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "20,500 per mm3 (11 days before admission), 17,400 per mm3 (on admission), 12,400 per mm3 (2nd hospital day) - High, outside normal range.",
+            "changes_over_time": "Decreased over time."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "3.5 mmol/liter (11 days before admission), 2.6 mmol/liter (on admission), 2.5 mmol/liter (2nd hospital day) - Low, outside normal range.",
+            "changes_over_time": "Decreased over time."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "150 mg/dl (11 days before admission), 410 mg/dl (on admission), 286 mg/dl (2nd hospital day) - High, outside normal range.",
+            "changes_over_time": "Initial increase followed by a decrease on subsequent day."
+        },
+        {
+            "procedure_name": "Microalbumin:creatinine ratio",
+            "date": "Not specified",
+            "findings": "31.5 (11 days before admission), 37.0 (2nd hospital day) - High, outside normal range.",
+            "changes_over_time": "Increased over time."
+        },
+        {
+            "procedure_name": "Prostate-specific antigen (PSA)",
+            "date": "Not specified",
+            "findings": "17.0 ng/ml - Elevated, outside normal range.",
+            "changes_over_time": "Rising levels noted."
+        }
+    ]
+}

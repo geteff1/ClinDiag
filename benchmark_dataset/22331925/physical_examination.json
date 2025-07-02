@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": {
+                    "resting": "45 bpm",
+                    "post_atropine": "67–71 bpm"
+                },
+                "not_info": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Moderate to severe aortic insufficiency, asymmetrical diastolic flow jet, mild decrease of left ventricular ejection fraction.",
+                "date": "2011 MRI evaluation"
+            },
+            "changes_over_time": "Worsening aortic insufficiency demonstrated on serial imaging correlates with symptom progression."
+        }
+    ]
+}

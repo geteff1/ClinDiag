@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Surgical incision and drainage",
+            "date": "Not specified",
+            "findings": "Revealed no underlying abscess, but dark red fluid was expressed from the lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain of wound drainage",
+            "date": "Not specified",
+            "findings": "Showed neither white blood cells nor organisms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Hospital day 13",
+            "findings": "Positive for B anthracis, with significant anthrax DNA present in serum sample and immunohistochemical detection of fragmented anthrax bacilli in biopsy tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymerase chain reaction (PCR) diagnosis",
+            "date": "Hospital day 13",
+            "findings": "Positive for B anthracis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transfusion of packed red blood cells",
+            "date": "Hospital day 6",
+            "findings": "Performed to address hematocrit decreased to 14.3%.",
+            "changes_over_time": "Hematologic status worsened during treatment."
+        },
+        {
+            "procedure_name": "Detection of IgM and IgG response (Western blot)",
+            "date": "Day 20 of illness",
+            "findings": "IgM response decreased, but IgG response intensified and extended to edema and lethal factors bands.",
+            "changes_over_time": "Increased IgG response indicates ongoing infection."
+        }
+    ]
+}

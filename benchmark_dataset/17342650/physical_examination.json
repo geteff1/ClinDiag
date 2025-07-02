@@ -1,0 +1,57 @@
+{
+    "physical_examinations": [
+        {
+            "date": "16 February 2006",
+            "vital_signs": {
+                "temperature": "37.6°C (99.7°F)",
+                "blood_pressure": "111/77 mm Hg",
+                "pulse": "92 bpm",
+                "respiratory_rate": "24 breaths per min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "decreased_breath_sounds": "Left lung fields",
+                "normal_breath_sounds": "Right lung fields with end-expiratory wheezing",
+                "skin_exam": "Large, well-healed skin graft on left anterior thigh and scarring on right thigh",
+                "other_findings": "No other cutaneous lesions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "17 February 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT revealed large mediastinal fluid accumulation, loculated left pleural effusion, and right pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "19 February 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Thoracentesis yielded 1700 mL of serosanguineous fluid with a WBC count of 110 cells/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "20 February 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Performed left thoracotomy with pneumolysis and placed 2 chest tubes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "24 February 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest CT showed bilateral pulmonary opacities with a prominent ground glass appearance consistent with acute respiratory distress syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "25 February to 1 March 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Intermittent fevers observed; improved WBC count; chest radiographs showed less-prominent infiltrates.",
+            "changes_over_time": "Improvements observed in physical examination findings."
+        },
+        {
+            "date": "6 March 2006",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient transferred out of the intensive care unit.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

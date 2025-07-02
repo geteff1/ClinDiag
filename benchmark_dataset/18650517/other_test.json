@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Narrowing of the orifice of the bronchus to the upper lobe of the left lung, with irregular friable and bleeding mucosa; cytologic examination revealed non–small-cell cancer of the lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Protein level in the pleural fluid was 211 g per deciliter (reference range up to 110; blood level, 8.2), lactate dehydrogenase level 214 U per liter (blood level, 154), specific gravity 1.033, and pH 8.0. There were 40,000 red cells and 400 white cells per cubic millimeter. Cytologic examination showed no malignant-tumor cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Technetium-99m–labeled Methylene Diphosphonate Bone Scan",
+            "date": "Not specified",
+            "findings": "Diffusely increased uptake in T9 and normal uptake throughout the remainder of the osseous skeleton.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video-assisted Thoracostomy",
+            "date": "Not specified",
+            "findings": "Multiple nodules studding the visceral and parietal pleura and the diaphragm; biopsy specimens were obtained.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kyphoplasty",
+            "date": "Not specified",
+            "findings": "Biopsy specimens of the T9 vertebral body were obtained.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EGFR Mutation Testing",
+            "date": "Not specified",
+            "findings": "Revealed an in-frame deletion in exon 19 (2235_2249del), one of the most commonly identified EGFR mutations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Chest",
+            "date": "After 3 months of gefitinib therapy",
+            "findings": "Marked decrease in the size of the mass in the left lung to 2 cm in diameter, with resultant re-aeration of the left upper lobe and near resolution of the pleural fluid and thickening on the left side.",
+            "changes_over_time": "By the eighth month of gefitinib therapy, CT showed new, predominantly pleural and subpleural nodules, though the primary lesion remained suppressed."
+        }
+    ]
+}

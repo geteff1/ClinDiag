@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma glucose",
+            "date": "Not specified",
+            "findings": "791 mg/dl (43.9 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin",
+            "date": "Not specified",
+            "findings": "9.5%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum sodium",
+            "date": "Not specified",
+            "findings": "142 mmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum chloride",
+            "date": "Not specified",
+            "findings": "95 mmol/liter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum total ketones",
+            "date": "Not specified",
+            "findings": "20.3 mmol/liter (3-hydroxybutyric acid, 15.6 mmol/liter; acetoacetic acid, 4.7 mmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated plasma osmolarity",
+            "date": "Not specified",
+            "findings": "356 mOsm/kg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Arterial pH, 6.930; serum bicarbonate, 1.8 mmol/liter; PaCO2, 8.4 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT scan",
+            "date": "Not specified",
+            "findings": "Mild atrophy of the bilateral nucleus caudatus and corpus striatum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Day 17 after admission",
+            "findings": "Bilateral atrophy of the caudate nucleus with enlargement of the frontal horns; no increased intensity in caudate nucleus and putamen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-GAD antibody",
+            "date": "Not specified",
+            "findings": "Normal (0.9 U/ml)",
+            "changes_over_time": "Titers slightly increased to 1.9 and 3.6 U/ml in subsequent DKA episodes"
+        }
+    ]
+}

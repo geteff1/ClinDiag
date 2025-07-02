@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroid Radionuclide Uptake and Scan",
+            "date": "Not specified",
+            "findings": "Absent uptake, typically diagnostic of thyroid aplasia, can also be seen with TSH gene mutations, TSH receptor-inactivating mutations, iodide-trapping defects, and maternal TSH receptor-blocking antibodies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Ultrasonography",
+            "date": "Not specified",
+            "findings": "Absent uptake but with a small-to-normal sized gland in a eutopic location may be explained by TSH gene mutations, TSH receptor-inactivating mutations, iodide-trapping defects, and transplacental passage of maternal TRB-Ab.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

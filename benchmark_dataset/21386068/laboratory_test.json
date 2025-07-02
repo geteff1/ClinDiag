@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "Elevated at 812 ng/mL after she had not taken warfarin for 4 weeks.",
+            "changes_over_time": "Remained at this level when rechecked several months later."
+        },
+        {
+            "procedure_name": "Factor V Leiden mutation testing",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prothrombin gene mutation testing",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lupus anticoagulant testing",
+            "date": "Not specified",
+            "findings": "Not detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiolipin antibodies test",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Protein C, Protein S, and Antithrombin levels",
+            "date": "Not specified",
+            "findings": "Normal several weeks after warfarin was discontinued.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

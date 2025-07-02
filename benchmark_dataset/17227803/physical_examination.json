@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1996",
+            "vital_signs": {
+                "blood_pressure": "230/160 to 130/70 mmHg",
+                "norepinephrine": "0.17 and 0.22 /H9262mol/24 h",
+                "epinephrine": "0.02 /H9262mol/24 h",
+                "dopamine": "1.48 and 1.75 /H9262mol/24 h"
+            },
+            "relevant_findings": "Variations in blood pressure were interpreted as resulting from loss of baroreceptor reflex mediated mechanisms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2003",
+            "vital_signs": {
+                "norepinephrine": "0.15 and 0.34 /H9262mol/24 h",
+                "epinephrine": "0.00 /H9262mol/24 h",
+                "dopamine": "0.53 and 2.25 /H9262mol/24 h",
+                "VMA": "16 and 23 /H9262mol/24 h"
+            },
+            "relevant_findings": "Physical examination revealed an enlarged lymph node in the left groin.",
+            "changes_over_time": "Indicated significant worsening with histological examination confirming metastasis of the paraganglioma."
+        },
+        {
+            "date": "2005",
+            "vital_signs": {
+                "blood_pressure": "170/92 mm Hg",
+                "pulse_rate": "88 bpm",
+                "norepinephrine": "0.65 and 0.50 /H9262mol/24 h",
+                "epinephrine": "0.07 /H9262mol/24 h",
+                "dopamine": "1.89 /H9262mol/24 h"
+            },
+            "relevant_findings": "CT scan revealed irregular destruction of the petrosal bone and the temporomandibular joint.",
+            "changes_over_time": "In 2005, again found to have hypertension, elevated excretion of norepinephrine (0.51 /H9262mol/24 h) and borderline increase in VMA (30 /H9262mol/24 h). Postoperatively, 24-h urinary catecholamine secretion was normal."
+        },
+        {
+            "date": "2005",
+            "vital_signs": {
+                "blood_pressure": "160/112 mm Hg",
+                "norepinephrine": "10.70 /H9262mol/24 h",
+                "dopamine": "4.13 /H9262mol/24 h"
+            },
+            "relevant_findings": "Patient had persistent hypertension despite treatment.",
+            "changes_over_time": "Postoperative urinary samples showed reduction in catecholamine secretion, but no normalization."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ACTH Test",
+            "date": "Not specified",
+            "findings": "Elevated ACTH levels (1250 pg/ml) in Patient 1; ACTH levels also elevated in patients 2 and 3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol Stimulation Test",
+            "date": "Not specified",
+            "findings": "Cortisol did not respond to stimulation with cosyntropin in patient 1; patient 2 had low basal cortisol (6.2 µg/dl) and no cortisol response to stimulation; patient 3 had normal cortisol (11.3 µg/dl) but did not respond to stimulation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Renin Activity Test",
+            "date": "Not specified",
+            "findings": "Mildly elevated PRA in patients 1 (5.3 ng/ml/h), 2 (5.4 ng/ml/h), and 3 (20.2 ng/ml/h); normal range is 0.3–3.9.",
+            "changes_over_time": "Patient 1 remained well on hydrocortisone with normal PRA (1.1–2.9 ng/ml/h) over time."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal adrenal imaging in patient 2 and 3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "Normal CT scans did not show adrenal enlargement in both brothers.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Calcifications revealed in the brain suggestive of tuberous sclerosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "At 17 years of age",
+            "findings": "Worsening ventriculomegaly, increase in the size of the right foramen of Monro SEGA, and enhancing areas along the medulla, spinal cord, cauda equina, and leptomeninges.",
+            "changes_over_time": "Increased ventricle size and increased size of a subependymal giant cell astrocytoma at the foramen of Monro were noted."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Several weeks after surgery",
+            "findings": "Demonstrated a decrease in the size of the lateral ventricles.",
+            "changes_over_time": "Hydrocephalus was later revealed on a subsequent CT scan 10 weeks after surgery."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "10 weeks after surgery",
+            "findings": "Revealed hydrocephalus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

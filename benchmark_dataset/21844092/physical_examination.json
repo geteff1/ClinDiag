@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "51 bpm",
+                "blood_pressure": "140/70 mm Hg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "7 cm H2O with normal contour",
+                "lung_exam": "Lungs are clear to auscultation",
+                "point_of_maximal_Impulse": "Sustained and not displaced",
+                "heart_sounds": "Normal S1 and S2, with an S4 and a harsh, crescendo-decrescendo systolic murmur at the base, radiating to the carotid arteries",
+                "other_murmurs": "A second holosystolic murmur at the lower left sternal border and apex that radiates to the axilla and increases in intensity with Valsalva maneuver",
+                "abdominal_exam": "Benign, without organomegaly, pulsatile mass, or bruit",
+                "peripheral_pulses": "Normal, without bruits, and no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "left_ventricular_outflow_tract_gradient": "90 mm Hg (increased to 185 mm Hg with Valsalva maneuver)"
+            },
+            "relevant_findings": {
+                "echocardiogram": {
+                    "findings": [
+                        "Asymmetrical septal hypertrophy",
+                        "Left ventricular outflow tract gradient confirmed",
+                        "Moderate to severe mitral regurgitation"
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

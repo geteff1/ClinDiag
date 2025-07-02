@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160–170/80–90 mm Hg",
+                "pulse": "110/min",
+                "weight": "15 kg",
+                "height": "90 cm"
+            },
+            "relevant_findings": {
+                "serum_electrolytes": {
+                    "Na": "141 mEq/liter",
+                    "K": "3.4 mEq/liter",
+                    "Cl": "105 mEq/liter"
+                },
+                "hormones": {
+                    "estradiol": "37 pmol/liter",
+                    "progesterone": "5.2 nmol/liter (elevated)",
+                    "testosterone": "2.2 nmol/liter (elevated)"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70 mm Hg",
+                "weight": "29 kg",
+                "height": "135 cm"
+            },
+            "relevant_findings": {
+                "hormones": {
+                    "progesterone": "5.43 nmol/liter",
+                    "testosterone": "0.05 nmol/liter",
+                    "cortisol": "309 nmol/liter"
+                }
+            },
+            "changes_over_time": "Blood pressure improved from 160–170/80–90 mm Hg to 110/70 mm Hg."
+        },
+        {
+            "date": "At age 9 yr",
+            "vital_signs": {
+                "blood_pressure": "100/60 mm Hg",
+                "weight": "29 kg",
+                "height": "135 cm"
+            },
+            "relevant_findings": {
+                "cortisol": "309 nmol/liter",
+                "progesterone": "5.43 nmol/liter",
+                "testosterone": "0.05 nmol/liter"
+            },
+            "changes_over_time": "Low cortisol level observed (91 nmol/liter situation) at age 9 yr compared to earlier visit. Hormone levels decreased over time."
+        }
+    ]
+}

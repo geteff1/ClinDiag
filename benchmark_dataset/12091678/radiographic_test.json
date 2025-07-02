@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "The bone of the otic capsule is thickened but has a much lower than normal attenuation, with a bilateral symmetric distribution and extensive involvement around the cochleae, vestibules, and semicircular canals, and into the distal internal auditory canals, with obliteration of the oval windows.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "6 years prior to CT",
+            "findings": "T1-weighted images demonstrate enhancement of the fundus of the distal internal auditory canals and of the bones around the cochleae, vestibules, and semicircular canals bilaterally. No mass lesion is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Conventional radiograph",
+            "date": "Not specified",
+            "findings": "Multiple healed fractures of the tibia trans fixed by an intramedullary rod, as well as an un-united fracture deformity of the middle fibular shaft. The bones are gracile and osteoporotic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

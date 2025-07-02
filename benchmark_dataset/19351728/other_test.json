@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genomic DNA Sequencing",
+            "date": "Not specified",
+            "findings": "Identification of a novel 15-bp deletion (c.81_95del), resulting in loss of five amino acids (alanine 28 to arginine 32) in the N terminus of Kir6.2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-cell KATP current measurement",
+            "date": "Not specified",
+            "findings": "Heterozygous channels exhibited significantly larger resting whole-cell currents than wild-type channels, indicating a reduction in ATP sensitivity.",
+            "changes_over_time": "No significant changes over time; current remained larger than wild-type in the heterozygous state."
+        },
+        {
+            "procedure_name": "Coimmunoprecipitation Studies",
+            "date": "Not specified",
+            "findings": "The interaction between SUR1 residues 196-288 and Kir6.2 was significantly reduced due to the mutation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

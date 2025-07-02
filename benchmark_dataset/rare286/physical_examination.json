@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "At birth",
+            "vital_signs": {
+                "heart_rate": "130 beats/min",
+                "breathing_rate": "60 times/min",
+                "oxygen_saturation": "92% in ambient air"
+            },
+            "relevant_findings": {
+                "heart_rhythm": "uniform",
+                "murmurs": "none heard",
+                "liver": {
+                    "position": "4 cm below the right rib, 5 cm below the saber, 4 cm below the left rib"
+                },
+                "skin": "mild edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

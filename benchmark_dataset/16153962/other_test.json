@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Nonbloody bilious secretions in the airways bilaterally",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Mallory-Weiss tears and an esophageal ulcer",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography Scan",
+            "date": "Hospital day 6",
+            "findings": "Demonstrated left pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper Gastrointestinal Series",
+            "date": "Not specified",
+            "findings": "Contrast flowing from the gastro-esophageal junction into the left pleural space through the hiatus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abscess Culture",
+            "date": "Not specified",
+            "findings": "Grew Candida albicans",
+            "changes_over_time": "Treated with 2 months of fluconazole"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "faint air-space opacities in the left lower lobe and left perihilar region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "repeat chest radiography",
+            "date": "Two months before admission",
+            "findings": "persistence of the air-space opacity in the left perihilar region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomography (CT) of the chest, abdomen, and pelvis",
+            "date": "Three weeks after the repeat chest radiography",
+            "findings": "centrilobular nodules and patchy opacities in both lung bases, mediastinal and left hilar lymphadenopathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiography",
+            "date": "During readmission",
+            "findings": "pulmonary interstitial edema with patchy opacities in the left retrocardiac region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "During readmission",
+            "findings": "diffuse ground-glass opacities with intralobular septal thickening and worsening mediastinal and hilar lymphadenopathy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

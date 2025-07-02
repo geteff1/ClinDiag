@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Partial pressure of oxygen of 61 mm Hg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Subtle density in the lower lobe of the left lung",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal ejection fractions and valve architecture",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "Single large pulmonary arteriovenous malformation (AVM) in the left lower lobe, with aneurysmal dilation of the venous sac measuring 4 cm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcutaneous pulmonary angiogram",
+            "date": "Not specified",
+            "findings": "Large AVM in the left lower lobe with a single feeding artery measuring 10.6 mm in diameter",
+            "changes_over_time": "Follow-up angiograms revealed no residual flow in the AVM after deployment of a 14-mm Amplatzer vascular plug"
+        },
+        {
+            "procedure_name": "Oxygen saturation measurement",
+            "date": "Not specified",
+            "findings": "Increased from 86% to 97% after procedure",
+            "changes_over_time": "Platypnea resolved after the procedure"
+        }
+    ]
+}

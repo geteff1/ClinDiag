@@ -1,0 +1,24 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Herpes simplex encephalitis",
+        "differential_diagnosis": [
+            "Cerebrovascular events (ischemic stroke, hemorrhagic stroke)",
+            "Trauma",
+            "Abscess",
+            "Seizure",
+            "Vasculitis",
+            "Drug intoxication",
+            "Infectious processes (meningitis, encephalitis)",
+            "Metastatic brain involvement",
+            "Neoplastic processes (tumor)",
+            "Bacterial or early viral disease",
+            "Tuberculosis",
+            "Cryptococcosis",
+            "Toxoplasmosis",
+            "Arbovirus infection",
+            "CMV infection",
+            "HIV infection"
+        ],
+        "diagnostic_reasoning": "The patient presented with acute neurologic symptoms, fever, and MRI findings suggestive of an acute focal inflammatory process in the temporal lobe, raising concern for viral encephalitis, particularly herpes simplex. Although initial PCR tests for HSV were negative, the high pretest probability based on clinical presentation and imaging indicated an empirical treatment approach was appropriate. A brain biopsy later confirmed the presence of HSV-infected cells."
+    }
+}

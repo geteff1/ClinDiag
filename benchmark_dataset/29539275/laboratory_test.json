@@ -1,0 +1,118 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "0.055 ng/mL (elevated), 0.415 ng/mL (elevated)",
+            "changes_over_time": "Increase from 0.055 ng/mL to 0.415 ng/mL over 11 hours."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "On arrival at tertiary care center",
+            "findings": "4.790 ng/mL (normal range <0.034)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Day 3",
+            "findings": "0.67 ng/mL",
+            "changes_over_time": "Decreased from 4.790 ng/mL upon arrival."
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide (NT-proBNP)",
+            "date": "On arrival at tertiary care center",
+            "findings": "24,900 pg/mL (normal range <300)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "N-terminal pro–B-type natriuretic peptide (NT-proBNP)",
+            "date": "Day 3",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "On arrival at tertiary care center",
+            "findings": "5.9 mmol/L (normal range <2.0)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Day 3",
+            "findings": "1.5 mmol/L",
+            "changes_over_time": "Decreased from 5.9 mmol/L."
+        },
+        {
+            "procedure_name": "Arterial blood gas",
+            "date": "On arrival at tertiary care center",
+            "findings": "pH 7.08 (normal range 7.35 to 7.45)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas",
+            "date": "Day 3",
+            "findings": "pH 7.37",
+            "changes_over_time": "Increased from 7.08."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "On arrival at tertiary care center",
+            "findings": "1.41 mg/dL (normal range 0.52 to 1.04)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Day 3",
+            "findings": "1.84 mg/dL",
+            "changes_over_time": "Increased from 1.41 mg/dL."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "On arrival at tertiary care center",
+            "findings": "30,240 per mm³ (normal range 4500 to 11,000)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Day 3",
+            "findings": "21,390 per mm³",
+            "changes_over_time": "Decreased from 30,240 per mm³."
+        },
+        {
+            "procedure_name": "Endomyocardial biopsy",
+            "date": "Day 3",
+            "findings": "Acute and healing myocardial injury.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma metanephrine",
+            "date": "Not specified",
+            "findings": "3.2 nmol/L (normal range <0.50)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Plasma normetanephrine",
+            "date": "Not specified",
+            "findings": "21 nmol/L (normal range <0.90)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urinary metanephrine",
+            "date": "Not specified",
+            "findings": "830 μg (normal range 30 to 180)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urinary normetanephrine",
+            "date": "Not specified",
+            "findings": "1529 μg (normal range 128 to 484)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ blood",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

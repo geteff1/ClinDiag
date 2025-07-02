@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "weight": "10 kg",
+                "height": "86 cm"
+            },
+            "relevant_findings": {
+                "facial_weakness": "Prominent facial weakness with an open mouth and high arched palate, immobile soft palate, extremely nasal and dysarthric speech, inability to whistle or blow cheeks",
+                "dysarthria": "Severe dysarthria at age 3"
+            },
+            "changes_over_time": "Initially presented with neonatal hypotonia and poor spontaneous movements. Facial weakness and feeding difficulties persisted but limb muscle strength and DTRs were normal at age 5."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "AChR_antibodies": "Positive at 99.9 nmol/L (normal: <0.2 nmol/L)",
+                "MuSK_antibodies": "Negative"
+            },
+            "changes_over_time": "AChR antibodies were negative when he was 3 years old. Oral pyridostigmine failed to improve his condition."
+        },
+        {
+            "date": "At age 6",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "facial_nerves": "CMAPs were abnormally low (0.2 mV; normal: >2 mV) when the facial nerve was stimulated",
+                "absence_of_decrement": "No decrement on repetitive nerve stimulation"
+            },
+            "changes_over_time": "The facial muscle response showed low amplitude consistent with a myogenic process."
+        }
+    ]
+}

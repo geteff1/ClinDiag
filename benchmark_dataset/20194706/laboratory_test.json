@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LH measurement",
+            "date": "Not specified",
+            "findings": "Very low LH levels (<0.15 IU/liter), indicating hypogonadotropic state. Normal range in adults: LH, 2.8–7.1 IU/liter.",
+            "changes_over_time": "Initially very low LH levels were observed. After pulsatile GnRH administration (100 ng/kg every 60 min), LH pulses were detected on day 18."
+        },
+        {
+            "procedure_name": "FSH measurement",
+            "date": "Not specified",
+            "findings": "Normal or nearly normal FSH levels were observed despite low LH levels. Normal range in adults: FSH, 2.4–7.0 IU/liter.",
+            "changes_over_time": "FSH levels responded excessively to the GnRH challenge test, distinguishing it from the LH response."
+        },
+        {
+            "procedure_name": "Testosterone measurement",
+            "date": "Not specified",
+            "findings": "Very low plasma testosterone levels (0.15 ng/ml; normal range: 2.8–9.0 ng/ml).",
+            "changes_over_time": "Testosterone levels increased after pulsatile GnRH administration."
+        },
+        {
+            "procedure_name": "Estradiol measurement",
+            "date": "Not specified",
+            "findings": "Very low estradiol levels (in cases of normal karyotype; specific values not provided).",
+            "changes_over_time": "Estradiol levels increased after pulsatile GnRH administration."
+        }
+    ]
+}

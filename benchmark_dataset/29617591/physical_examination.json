@@ -1,0 +1,65 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "101 bpm",
+                "blood_pressure": "197/100 mmHg",
+                "temperature": "Afebrile",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "Alert and oriented; no focal deficits; mildly blunted affect and impaired ability to name uncommon objects.",
+                "cardiac": "No abnormalities on examination.",
+                "pulmonary": "Lungs clear to auscultation.",
+                "abdominal": "Unremarkable with no evidence of ascites; mildly enlarged prostate.",
+                "peripheral": "No peripheral edema."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "92 bpm",
+                "blood_pressure": "203/102 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "neurological": "No nuchal rigidity; brisk deep-tendon reflexes at biceps, brachioradialis, and knees; positive plantar reflex in left foot.",
+                "fundoscopic": "Optic disks appear normal.",
+                "gait": "Narrow-based gait, unable to perform tandem walk."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "During hospitalization follow-up",
+            "vital_signs": {
+                "blood_pressure": "180/100 mmHg after initial treatment",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "Mental status returned to baseline; reflexes adjusted to normal after treatment.",
+                "renal": "Elevated creatinine level decreased to 1.77 mg/dL",
+                "evidence": "Marked bladder enlargement with residual volume of 1785 mL after voiding."
+            },
+            "changes_over_time": "Blood pressure declined from 203/102 mmHg to 180/100 mmHg after treatment; mental status returned to baseline."
+        },
+        {
+            "date": "7 weeks after initial presentation",
+            "vital_signs": {
+                "blood_pressure": "120-130 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "No significant new neurological findings.",
+                "imaging": "Repeat MRI showed near-complete resolution of extensive white-matter changes."
+            },
+            "changes_over_time": "Creatinine level returned to baseline; significant improvement in mental status and imaging findings."
+        }
+    ]
+}

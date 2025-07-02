@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "2009-01-21",
+            "findings": "Mild concentric left ventricular hypertrophy with normal cavity size and normal regional-global systolic function (ejection fraction, >60%); peak gradient across the aortic valve was 97 mm Hg; calculated aortic valve area of 0.7 cm2; no aortic regurgitation; mild mitral regurgitation.",
+            "changes_over_time": "Peak gradient increased from 67 mm Hg to 97 mm Hg between August 2008 and January 2009."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiography",
+            "date": "2008-08-06",
+            "findings": "Peak gradient was 67 mm Hg and calculated aortic valve area of 0.7 cm2.",
+            "changes_over_time": "Demonstrated an increase in peak gradient from 67 mm Hg in August 2008 to 97 mm Hg in January 2009."
+        },
+        {
+            "procedure_name": "Stress Nuclear Study",
+            "date": "2009-01-21",
+            "findings": "The study was stopped early due to fatigue; hypotension was observed during the test; interpreted as probably normal myocardial perfusion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

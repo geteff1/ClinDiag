@@ -1,0 +1,57 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Poorly differentiated squamous-cell carcinoma with extensive lymphovascular and focal perineural invasion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "CSF_analysis": {
+                    "color": "Colorless",
+                    "turbidity": "Clear",
+                    "xanthochromia": "None",
+                    "white_cell_count": "0-5 per mm3",
+                    "differential_count": {
+                        "neutrophils": "0",
+                        "band_forms": "0",
+                        "lymphocytes": "0",
+                        "monocytes": "0"
+                    },
+                    "protein": "48 mg/dl",
+                    "glucose": "56 mg/dl"
+                },
+                "cultures": "Sterile",
+                "testing_for": "Lyme disease, HSV, syphilis, malignant cells (all negative)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Patent foramen ovale, no evidence of valvular lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "No valvular vegetations or intracardiac thrombus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic transsphenoidal biopsy",
+            "date": "Not specified",
+            "findings": "No fungi present, but intravascular tumor was found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Image-guided fine-needle biopsy",
+            "date": "Not specified",
+            "findings": "Squamous-cell carcinoma was suggested but could not rule out infectious processes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

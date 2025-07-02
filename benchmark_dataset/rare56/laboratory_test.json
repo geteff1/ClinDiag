@@ -1,0 +1,57 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "April 28, 2021",
+            "findings": {
+                "alanine aminotransferase": "242 U/L",
+                "aspartate aminotransferase": "404 U/L",
+                "gamma-glutamyltransferase": "1516 U/L",
+                "total protein": "63.4 g/L",
+                "albumin": "27.6 g/L",
+                "globulin": "35.8 g/L",
+                "total bilirubin": "308.2 µmol/L",
+                "conjugated bilirubin": "224.9 µmol/L",
+                "indirect bilirubin": "83.3 µmol/L",
+                "lactate dehydrogenase": "3433 U/L",
+                "C-reactive protein": "23.5 mg/L",
+                "HbA1c": "6.4%"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood coagulation routine",
+            "date": "April 28, 2021",
+            "findings": {
+                "prothrombin time": "15.1 s",
+                "international normalized ratio": "1.42",
+                "D-dimer": "350.0 µg/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood routine",
+            "date": "April 28, 2021",
+            "findings": {
+                "WBC": "12.7 * 10^9/L",
+                "NEU": "81.9%",
+                "hemoglobin": "89 g/L",
+                "RBC": "3.48 * 10^12/L",
+                "PLT": "593 * 10^9/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA19-9",
+            "date": "Not specified",
+            "findings": "101.0 U/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AFP",
+            "date": "Not specified",
+            "findings": "4.5 ng/ml",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

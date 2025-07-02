@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 13, 2012",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest radiography showed bilateral hilar interstitial infiltrates. Cardiac failure was noted.",
+            "changes_over_time": "Worsening cardiac and renal function led to transfer to the cardiac critical care unit."
+        },
+        {
+            "date": "October 28, 2012",
+            "vital_signs": "Temperature: 38.9°C",
+            "relevant_findings": "Rales throughout right mid- to lower-lung fields detected on examination.",
+            "changes_over_time": "Condition deteriorated, leading to admission to the intensive care unit due to acute hypoxemia."
+        },
+        {
+            "date": "November 7, 2012",
+            "vital_signs": "Temperature: 38.8°C",
+            "relevant_findings": "Chest radiography showed bilateral hilar infiltrates. Blood counts, serum electrolytes, and renal and liver function remained normal.",
+            "changes_over_time": "Infiltrates resolved by November 11, 2012."
+        },
+        {
+            "date": "November 6, 2012",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Stable vital signs were reported. Blood-gas evaluations showed satisfactory oxygen levels while breathing ambient air.",
+            "changes_over_time": "Normal results on serum electrolytes and renal and liver function. No subsequent deterioration reported."
+        }
+    ]
+}

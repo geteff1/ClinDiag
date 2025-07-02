@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABI examination",
+            "date": "Not specified",
+            "findings": "ABI score of 1, indicating normal peripheral arterial disease limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transcutaneous oxygen measurement",
+            "date": "Not specified",
+            "findings": "Normal transcutaneous oxygen measurement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "multilayer compression therapy",
+            "date": "1 month later",
+            "findings": "Ulcer remains unchanged.",
+            "changes_over_time": "Ulcer is unchanged."
+        },
+        {
+            "procedure_name": "grafting with bioengineered skin",
+            "date": "2 months later",
+            "findings": "Ulcer is healed.",
+            "changes_over_time": "Ulcer healed from previous unchanged status."
+        }
+    ]
+}

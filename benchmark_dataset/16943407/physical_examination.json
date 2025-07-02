@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.5°C",
+                "blood_pressure": "100/62 mm Hg",
+                "pulse": "97 bpm",
+                "respirations": "16 per minute",
+                "weight": "61.4 kg",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "pharyngeal_erythema": true,
+                "tonsillar_hypertrophy": true,
+                "cervical_lymphadenopathy": {
+                    "right_anterior": "< 1 cm",
+                    "left_femoral": "palpable"
+                },
+                "systolic_ejection_murmur": "2/6",
+                "liver_edge": "1 cm below costovertebral margin",
+                "remaining_examination": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

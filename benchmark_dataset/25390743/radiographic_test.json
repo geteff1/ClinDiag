@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Low inspiratory volumes and multiple, bilateral, ill-defined nodular opacities, measuring up to approximately 1 cm in greatest dimension, throughout the right lung and left apex. The cardiomediastinal silhouette was slightly enlarged, but there were no pleural or pericardial effusions. Findings raised concern about possible septic pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Multiple thick-walled nodular opacities throughout both lungs, many with central cavitation suggestive of septic emboli, as well as more confluent consolidative opacities in the dependent right lower lobe. The largest opacity measured 3.7 cm by 2.3 cm in the right upper lobe along the major fissure. There was also bilateral hilar lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

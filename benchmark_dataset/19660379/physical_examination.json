@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lung examination showed no abnormalities, and no lymphadenopathy was appreciated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal white blood cell count of 9.6.",
+            "relevant_findings": "Patient exhibited decreased energy, anorexia, and pleuritic chest pain.",
+            "changes_over_time": "Initially diagnosed with presumed pneumonia, treatment with antibiotics did not improve symptoms; repeat imaging showed an enlarging mass, leading to surgical intervention."
+        },
+        {
+            "date": "Postoperative day 4",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Left muscle-sparing thoracotomy revealed a 4-cm firm mass in the left upper lobe.",
+            "changes_over_time": "Post-surgery, the patient had an uneventful recovery."
+        },
+        {
+            "date": "6 months follow-up",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No evidence of recurrent tumor on CT.",
+            "changes_over_time": "Patient was doing well."
+        }
+    ]
+}

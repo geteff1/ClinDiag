@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "199/108 mm Hg",
+                "pulse": "116 bpm and regular",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98% on ambient air"
+            },
+            "relevant_findings": {
+                "general_appearance": "Alert and frail",
+                "orientation": "Oriented to person and season, but not to date or day",
+                "heart_sounds": "Rapid with a regular rhythm and no murmurs",
+                "ankle_edema": "Trace bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "21 months after presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ecg": "Complete resolution of ST-segment changes and restoration of R waves in leads V1, V2, and V3"
+            },
+            "changes_over_time": "Significant improvement noted in ECG findings over time"
+        }
+    ]
+}

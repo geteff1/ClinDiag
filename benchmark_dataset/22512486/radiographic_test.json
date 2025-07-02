@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the head",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal radiography",
+            "date": "Not specified",
+            "findings": "Decreased air in the right colon with a masslike lesion surrounded by radiolucent fat (target sign) suggestive of intussusception.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Confirmed the diagnosis of ileocolonic intussusception.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

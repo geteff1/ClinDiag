@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "White blood cell count: 16.8 × 10^9/L (normal range 4.1–9.8 × 10^9); Neutrophils: 77% (normal range 40–74%); Haematocrit: 46% (normal range 37–47%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Day 1",
+            "findings": "Expanding, heterogeneous, multiloculated mass adjacent to the caecal fundus",
+            "changes_over_time": "Follow-up abdominal CT scan done 72 hours later showed complete resolution of the abnormalities"
+        },
+        {
+            "procedure_name": "Allergy and immunological testing",
+            "date": "Not specified",
+            "findings": "Reduced total haemolytic complement activity (CH50): 3.48 HU/mL (normal range 6.6–16); C1 inhibitor (C1-INH): 6.4 g/dL (normal range 15–35); C4: 0.06 g/L (normal range 0.2–0.4); normal concentrations of C3 and Clq",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

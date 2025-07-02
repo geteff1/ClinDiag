@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine laboratory tests and liver function tests",
+            "date": "Not specified",
+            "findings": "Normal values",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum hepatitis B surface antigen (HBsAg)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis C antibody (anti-HCV)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum hepatitis B antibody (HBsAb)",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein (AFP)",
+            "date": "Not specified",
+            "findings": "22,815 ng/mL (very high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Protein induced by vitamin K antagonist-II (PIVKA-II)",
+            "date": "Not specified",
+            "findings": "183 mAU/mL (elevated, normal range <40 mAu/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carcinoembryonic antigen (CEA)",
+            "date": "Not specified",
+            "findings": "6.1 ng/mL (slightly increased)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbohydrate antigen 19-9 (CA19-9)",
+            "date": "Not specified",
+            "findings": "80.9 U/mL (slightly increased)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

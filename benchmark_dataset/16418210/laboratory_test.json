@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "GnRH test",
+            "date": "Not specified",
+            "findings": {
+                "basal_LH": "0.7 IU/liter (normal range, 1.5–6.0 IU/liter)",
+                "peak_LH": "9.4 IU/liter (5.7–18.5 IU/liter)",
+                "basal_FSH": "2.9 IU/liter (1.5–6.0 IU/liter)",
+                "peak_FSH": "11.0 IU/liter (7.0–14.0 IU/liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Human chorionic gonadotropin test",
+            "date": "Not specified",
+            "findings": {
+                "basal_testosterone": "7.8 ng/dl (normal range, 100–600 ng/dl)",
+                "subnormal_testosterone_response": "225 ng/dl"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Hormones (mother)",
+            "date": "Not specified",
+            "findings": {
+                "basal_LH": "3.1 IU/liter (normal range, 1.8–7.6 IU/liter)",
+                "FSH": "3.7 IU/liter (normal range, 5.2–14.4 IU/liter)",
+                "estradiol": "70.1 pg/ml (normal range, 20–120 pg/ml)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR for FGFR1 mutations",
+            "date": "Not specified",
+            "findings": {
+                "proband_mutation": "heterozygous 2-bp deletion at exon 10 (1317_1318delTG)",
+                "mother_mutation": "2-bp deletion detected in nail DNA but not in leukocyte DNA"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

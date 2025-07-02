@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm without evidence of atrioventricular block.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine toxicology screening",
+            "date": "Not specified",
+            "findings": "Presence of opiates, pseudoephedrine, tetrahydrocannabinols, amphetamines, methamphetamines, and GHB.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "GCS assessment",
+            "date": "Not specified",
+            "findings": "GCS score improved from 3 to 15 after physostigmine administration.",
+            "changes_over_time": "Improved GCS scores over time."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LH and FSH",
+            "date": "Not specified",
+            "findings": "Patient 1: LH 5.9 U/L, FSH 8.8 U/L (within normal female reference ranges); Patient 2: LH 2.6 U/L, FSH 7.76 U/L (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dehydroepiandrosterone sulfate (DHEAS)",
+            "date": "Not specified",
+            "findings": "Patient 1: DHEAS 2.26 mg/L (within normal range); Patient 2: DHEAS 1.82 ng/mL (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testosterone (T)",
+            "date": "Not specified",
+            "findings": "Patient 1: T 0.073 ng/mL (within normal range); Patient 2: T 1.3 nmol/L (initially low before gonadectomy)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH",
+            "date": "Not specified",
+            "findings": "Patient 1: ACTH 20.3 ng/L (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "Patient 1: Cortisol 471 nmol/L (within normal range); Patient 2: Cortisol 373 nmol/L (not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrophysiology",
+            "date": "Not specified",
+            "findings": "Signs of a mixed axonal and demyelinating sensory motor polyneuropathy.",
+            "changes_over_time": "Progressive numbness of feet and hands that began in early 20s and ascended over time."
+        },
+        {
+            "procedure_name": "High-resolution ultrasound",
+            "date": "Not specified",
+            "findings": "Structural changes of peripheral nerve structure with a honeycomb-like pattern absent; features indicate minifascicle formation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

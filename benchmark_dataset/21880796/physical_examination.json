@@ -1,0 +1,105 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": 25,
+                    "unit": "mg/dl"
+                },
+                "plasma_sodium": {
+                    "value": 124,
+                    "unit": "mmol/liter"
+                },
+                "plasma_potassium": {
+                    "value": "Normal",
+                    "unit": "mmol/liter"
+                }
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": 65,
+                    "unit": "mg/dl"
+                },
+                "plasma_sodium": {
+                    "value": 110,
+                    "unit": "mmol/liter"
+                },
+                "plasma_potassium": {
+                    "value": 5.5,
+                    "unit": "mmol/liter"
+                }
+            },
+            "relevant_findings": "Increased ACTH and decreased levels of adrenal steroids such as 17-hydroxyprogesterone, DHEA, and androstenedione.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "age 4 yr 1 month",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": 65,
+                    "unit": "mg/dl"
+                },
+                "plasma_sodium": {
+                    "value": 110,
+                    "unit": "mmol/liter"
+                },
+                "plasma_potassium": {
+                    "value": 5.5,
+                    "unit": "mmol/liter"
+                }
+            },
+            "relevant_findings": "Diagnosed with adrenal insufficiency confirmed by cosyntropin stimulation test.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "age 2.5 yr",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": "Not specified",
+                    "unit": "mg/dl"
+                },
+                "plasma_sodium": {
+                    "value": "Normal",
+                    "unit": "mmol/liter"
+                },
+                "plasma_potassium": {
+                    "value": "Normal",
+                    "unit": "mmol/liter"
+                }
+            },
+            "relevant_findings": "Presented clinically asymptomatic with normal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_glucose": {
+                    "value": "Not specified",
+                    "unit": "mg/dl"
+                },
+                "plasma_sodium": {
+                    "value": 131,
+                    "unit": "mmol/liter"
+                },
+                "plasma_potassium": {
+                    "value": "Normal",
+                    "unit": "mmol/liter"
+                }
+            },
+            "relevant_findings": "Mild metabolic acidosis and hypoglycemia during febrile seizures, but electrolytes were normal apart from the last admission.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": " age 6 and 8 yr",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Poor testosterone response to hCG stimulation.",
+            "changes_over_time": "Adrenal glands were not detectable by ultrasound."
+        }
+    ]
+}

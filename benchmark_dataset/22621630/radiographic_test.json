@@ -1,0 +1,70 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Mammography",
+            "date": "Not specified",
+            "findings": "Heterogeneous spiculated mass, approximately 2 cm in diameter, in the right breast, with thickening of the skin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Large area of hyperechogenicity in the region of the palpable mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Dense breasts with marked enhancement, area of decreased attenuation (2 cm in diameter with spiculated borders) in the upper outer quadrant of the right breast, and low enhancement compared with adjacent breast parenchyma, suggestive of peripheral rim enhancement; possible second mass of 1.6 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "2 days after MRI",
+            "findings": "Additional, more anterior hypoechoic mass, 1.6 cm by 1.1 cm by 2 cm, in the upper outer quadrant, with irregular borders and increased vascular flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron-Emission Tomographic (PET) scanning",
+            "date": "6 days before presentation",
+            "findings": "Extensive metabolic activity in the right breast and two small foci of activity in the right axilla, indicative of metastases to lymph nodes; subtle focus of increased metabolic activity involving the tip of the left scapula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) of the chest",
+            "date": "1 week after admission",
+            "findings": "Marked enlargement of the right breast and thickening of the overlying skin; small right axillary lymph nodes (<1 cm), and a nonspecific nodule (2 mm) in the lower lobe of the left lung; mixed lucency and patchy sclerosis in the inferior tip of the right scapula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "1 week after admission",
+            "findings": "Multiple solid hepatic lesions (≤1.6 cm in diameter), thought to be metastases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "1 year after initiation of treatment",
+            "findings": "Resolution of all hepatic lesions except for a single lesion in the left lobe.",
+            "changes_over_time": "Complete resolution of previous hepatic lesions."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI) of the breasts",
+            "date": "1 year after initiation of treatment",
+            "findings": "Irregular area of enhancement up to 5.4 cm in greatest dimension, extending from the upper outer quadrant to the upper inner quadrant of the right breast.",
+            "changes_over_time": "Residual tumor and inflammatory response to neoadjuvant therapy."
+        },
+        {
+            "procedure_name": "Repeat mammogram",
+            "date": "1 year after initiation of treatment",
+            "findings": "Extensive pleomorphic calcifications associated with a vague mass involving most of the upper outer quadrant of the right breast.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

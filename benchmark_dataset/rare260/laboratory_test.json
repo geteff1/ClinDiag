@@ -1,0 +1,77 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": {
+                "pH": 6.852,
+                "PaCO2": "47.3 mmHg",
+                "PaO2": "56.8 mmHg",
+                "SO2": "74.8%",
+                "BE": "-25.3 mmol/L",
+                "lactic acid": "11.3 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum electrolyte analysis",
+            "date": "Not specified",
+            "findings": {
+                "serum potassium": "6.2 mmol/L",
+                "serum-free calcium": "0.62 mmol/L",
+                "serum creatinine": "130 μmol/L",
+                "BUN": "6.7 mmol/L",
+                "serum β2 microglobulin": "9.5 mg/L",
+                "lactic acid": "20.5 mmol/L",
+                "albumin": "28.6 g/L",
+                "total bilirubin": "30.3 μmol/L",
+                "direct bilirubin": "12.9 μmol/L",
+                "serum glucose": "ranged from 11.2 mmol/L to 17 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Routine urine and microscopy examination",
+            "date": "Not specified",
+            "findings": "No protein or red blood cells and no hypercalciuria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "left kidney": "5.1 cm × 2.8 cm",
+                "right kidney": "3.5 cm × 1.5 cm",
+                "echogenicity": "enhanced echogenicity",
+                "cysts": "multiple cysts of various sizes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary hypertension": "present",
+                "minor pulmonary valve regurgitation": "present",
+                "patent ductus arteriosus": "present",
+                "pulmonary artery end diameter": "3.9 mm",
+                "atrium defect": "2.2 mm",
+                "left ventricular systolic function": {
+                    "LVEF": "43.5%",
+                    "LVFS": "19%"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing",
+            "date": "Not specified",
+            "findings": {
+                "mutation": "compound heterozygous pathogenic variant in the NPHP3 gene",
+                "nonsense mutation": "c.1761G > A, p. W587*",
+                "frameshift mutation": "c.69delC: p. Gly24Ala24*11"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

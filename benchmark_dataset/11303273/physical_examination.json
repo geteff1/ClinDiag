@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "5 December 1997",
+            "vital_signs": "Hemoglobin level: 12.1 g/dL",
+            "relevant_findings": "Severe anemia noted on 26 August 1997 attributed to the toxicity of zidovudine and ganciclovir to bone marrow. Remission of anemia occurred, initially thought to be due to the discontinuation of IV ganciclovir.",
+            "changes_over_time": "Anemia recurred in February 1998 after initial remission. The parvovirus B19 load rebounded to its original level when salvage therapy started in June 1998."
+        },
+        {
+            "date": "30 November 1998",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Blood transfusions were no longer required after November 1998. Follow-up MRI in July 1998 showed resolution of previously noted brain lesions.",
+            "changes_over_time": "Chronic anemia slowly resolved after institution of salvage therapy, and the patient was able to discontinue blood transfusion."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "HIV-1 load: !0.4 copies/mL post-salvage therapy",
+            "relevant_findings": "Parvovirus B19 DNA detectable only by nested PCR after 26 January 1999.",
+            "changes_over_time": "Parvovirus B19 DNA was still present in plasma but decreased over time."
+        }
+    ]
+}

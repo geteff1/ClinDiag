@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Heterogeneous liver with a nodular margin and a large regenerative nodule that was 5.7 cm in diameter. The spleen was enlarged (17.5 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Suggested the presence of sclerosing cholangitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography",
+            "date": "Not specified",
+            "findings": "Showed extrahepatic and intrahepatic cholangiopathy and grade 2 esophageal varices.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Day 76",
+            "findings": "Demonstrated mild cholangiolitic changes, with no evidence of cellular rejection or hepatitis.",
+            "changes_over_time": "Prompted by abnormal results on liver-function tests."
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography",
+            "date": "Not specified",
+            "findings": "Demonstrated a nonenhancing low-density lesion in the right parietal lobe, possibly due to vasculitis, which resolved within one week.",
+            "changes_over_time": "Resolved within one week."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Three weeks after Day 76 biopsy",
+            "findings": "Revealed a mild focal injury of the bile ducts, with minimal edema of the portal tract and no evidence of cellular rejection or hepatitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Microscopical examination revealed biliary cirrhosis, severe cholestasis, and advanced ductopenia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

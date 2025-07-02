@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Villous shortening and an increased number of intraepithelial lymphocytes, consistent with celiac disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "endoscopy",
+            "date": "Not specified",
+            "findings": "Biopsy taken showed villous shortening and increased intraepithelial lymphocytes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "tTG IgA testing",
+            "date": "Not specified",
+            "findings": "Normal tissue transglutaminase (tTG) IgA level at 14 units (reference range, 0-19).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "anti-DGP testing",
+            "date": "Not specified",
+            "findings": "Elevated anti-deamidated gliadin peptide (DGP) level (IgA/IgG) at 104 units (reference range, 0-19).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

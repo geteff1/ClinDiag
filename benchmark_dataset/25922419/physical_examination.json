@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "QTc 500 ms",
+            "relevant_findings": "Extensive T-wave inversions in precordial leads V1-V4. Cardiac arrest at age 3. Ventricular tachycardia or ventricular fibrillation during exercise and emotional stimulation.",
+            "changes_over_time": "Change in cardiac events and ongoing symptoms despite aggressive therapy, including ICD shocks during exercise."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "QTc 490 ms",
+            "relevant_findings": "Severe syncope and cardiac arrest episodes triggered by exertion; slight proximal muscle weakness noted.",
+            "changes_over_time": "Symptoms continued with significant events occurring at 3 years of age."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "QTc 480 ms",
+            "relevant_findings": "Exertion-induced syncope with cardiac arrest at age 2; family history of unexplained sudden cardiac death.",
+            "changes_over_time": "Episodes of syncope and cardiac arrest continued with age."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "QTc 464 ms",
+            "relevant_findings": "Exertion-induced syncope at age 20 months. Mild to moderate skeletal muscle weakness and decreased muscle tone noted.",
+            "changes_over_time": "Continued episodes resulting in ICD shocks."
+        }
+    ]
+}

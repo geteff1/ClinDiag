@@ -1,0 +1,86 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.4°C",
+                "blood_pressure": "106/57 mm Hg",
+                "pulse": "160 bpm",
+                "respiratory_rate": "52 breaths per minute",
+                "oxygen_saturation": "90%"
+            },
+            "relevant_findings": {
+                "weight": "7.2 kg (10th percentile)",
+                "respiratory_findings": [
+                    "nasal flaring",
+                    "supraclavicular and subcostal retractions",
+                    "coarse expiratory wheezes bilaterally",
+                    "decreased breath sounds on the right"
+                ],
+                "chest_radiograph_findings": [
+                    "mildly increased lung volumes",
+                    "bilateral perihilar interstitial opacities",
+                    "peribronchial cuffing"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "11 days after discharge from initial admission",
+            "vital_signs": {
+                "pulse": "150 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "90%",
+                "temperature": "Normal"
+            },
+            "relevant_findings": {
+                "examination_findings": [
+                    "mild rhinorrhea",
+                    "coarse breath sounds bilaterally without wheezing or prolongation of the expiratory phase"
+                ],
+                "chest_radiograph_findings": [
+                    "hyperinflated lungs",
+                    "peribronchial thickening"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "oxygen_saturation": "96-98%"
+            },
+            "relevant_findings": {
+                "breath_sounds": [
+                    "coarse breath sounds",
+                    "fine crackles"
+                ]
+            },
+            "changes_over_time": "Intermittent tachypnea and supplemental oxygen requirement persisted."
+        },
+        {
+            "date": "9 months of age",
+            "vital_signs": {
+                "examination_findings": [
+                    "fine crackles in both lungs"
+                ]
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Condition improved with supportive care."
+        },
+        {
+            "date": "27 months of age",
+            "vital_signs": {
+                "oxygen_saturation": "95% at rest, 90% on exertion",
+                "respiratory_rate": "32 breaths per minute",
+                "presence of subcostal retraction": "Yes"
+            },
+            "relevant_findings": {
+                "breath_sounds": [
+                    "fine crackles on chest auscultation"
+                ]
+            },
+            "changes_over_time": "Condition stable with no exacerbations over the past year."
+        }
+    ]
+}

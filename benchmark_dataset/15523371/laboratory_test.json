@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biopsy of the lesion",
+            "date": "Not specified",
+            "findings": "Diagnosed as lentigo maligna (LM)",
+            "changes_over_time": "Initial excision in 1964; recurrence noted in 1977 with a larger macule. No areas suspicious for invasive melanoma over the next decade."
+        },
+        {
+            "procedure_name": "Biopsy of erythematous area",
+            "date": "1988",
+            "findings": "Biopsy revealed LM",
+            "changes_over_time": "Lesion underwent Mohs surgery; central area of hypopigmentation noted in 1987."
+        },
+        {
+            "procedure_name": "Biopsy of lateral erythematous areas",
+            "date": "1994",
+            "findings": "Keratinocytic atypia consistent with actinic keratosis; atypical melanocytic hyperplasia (not sufficient for LM diagnosis)",
+            "changes_over_time": "Remained persistently treated as actinic keratosis; no conversion to LM."
+        },
+        {
+            "procedure_name": "Biopsy of erythema traversing skin graft",
+            "date": "1995",
+            "findings": "Lentigo maligna (LM) with areas suspicious for invasion, progressing to lentigo maligna melanoma (LMM)",
+            "changes_over_time": "Initial recurrence diagnosed as LM with possible early invasion; subsequent Mohs surgery confirmed LMM."
+        },
+        {
+            "procedure_name": "Re-excision of yellow plaque",
+            "date": "2000",
+            "findings": "LM arising in a seborrheic keratosis, confirmed by biopsy",
+            "changes_over_time": "Previous grafts reported. Mohs surgery conducted to remove LM."
+        }
+    ]
+}

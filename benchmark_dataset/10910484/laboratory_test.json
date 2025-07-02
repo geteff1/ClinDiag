@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Tilt-table examination",
+            "date": "Not specified",
+            "findings": "Several abnormal results that closely reproduced her clinical symptoms, attenuated muscle sympathetic nerve activity in response to tilt testing, and elevated plasma catecholamine concentrations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Incidental mitral valve prolapse and normal left ventricular systolic function.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pulmonary capillary occlusion pressure measurement",
+            "date": "Before anesthetic induction",
+            "findings": "Increase from 5 to 12 mmHg.",
+            "changes_over_time": "Maintained between 12–15 mmHg during and after surgery."
+        },
+        {
+            "procedure_name": "Cardiac monitoring",
+            "date": "During surgery",
+            "findings": "Heart rate and mean arterial pressure ranging from 65 to 130 beats/min and from 55 to 120 mmHg respectively.",
+            "changes_over_time": "Heart rate and mean arterial pressure controlled between 86–98 beats/min and 75–90 mmHg during the remainder of the case."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Absolute Neutrophil Count",
+            "date": "Not specified",
+            "findings": "Day of admission: 2.3 x 10^9 cells/L; 48 hours later: 0.5 x 10^9 cells/L (indicating neutropenia).",
+            "changes_over_time": "Dropped from 2.3 to 0.5 x 10^9 cells/L within 48 hours."
+        },
+        {
+            "procedure_name": "Anticardiolipin IgM levels",
+            "date": "Not specified",
+            "findings": "Low- to medium-positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Perinuclear Antineutrophil Cytoplasmic Antibody (P-ANCA)",
+            "date": "Not specified",
+            "findings": "Positive (titer 1:2560).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Absolute Neutrophil Count",
+            "date": "Not specified",
+            "findings": "Less than 1.0 x 10^9 cells/L.",
+            "changes_over_time": "Indicated neutropenia with clinical presentation."
+        },
+        {
+            "procedure_name": "P-ANCA",
+            "date": "Not specified",
+            "findings": "Positive (titer 1:2560).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Anticardiolipin IgM Antibody and Plasma Serine IgM Levels",
+            "date": "Not specified",
+            "findings": "Elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complement and Protein C and S Levels",
+            "date": "Not specified",
+            "findings": "Moderately low.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

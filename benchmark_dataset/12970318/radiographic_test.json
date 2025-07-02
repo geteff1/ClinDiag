@@ -1,0 +1,52 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Increased vascularity within the nodule.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "99mTc-pertechnetate thyroid scan",
+            "date": "Not specified",
+            "findings": "Area of hyperfunctioning tissue corresponding to the location of the palpable abnormality.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "131I whole-body scan (diagnostic)",
+            "date": "Not specified",
+            "findings": "Uptake in the thyroid bed only.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "131I whole-body scan (posttherapy)",
+            "date": "Not specified",
+            "findings": "Same focus of uptake noted in the diagnostic whole-body scan.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "123I radionuclide scan",
+            "date": "Not specified",
+            "findings": "Slightly elevated uptake in a heterogeneous pattern.",
+            "changes_over_time": "Nodule increased from 1.2 cm to 2.1 cm in diameter over 11 years."
+        },
+        {
+            "procedure_name": "CT and MRI of the neck, chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Excluded the possibility of metastasis from a primary nonthyroidal malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "131I whole-body scan (diagnostic)",
+            "date": "Not specified",
+            "findings": "Only 131I uptake was found in the thyroid bed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "131I whole-body scan (posttherapy)",
+            "date": "Not specified",
+            "findings": "Revealed uptake in the thyroid bed area only.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

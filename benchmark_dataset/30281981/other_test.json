@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia and nonspecific T-wave abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Catheterization",
+            "date": "Day 3 after admission",
+            "findings": "Minimal coronary artery disease, moderately elevated right atrial and pulmonary artery pressures, normal left ventricular systolic function, and minimal end-diastolic pressure elevation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Morning after admission",
+            "findings": "No change from an echocardiogram obtained 2 years earlier.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing for Trichinella IgG antibody",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Identification of Trichinella spiralis larvae",
+            "date": "Not specified",
+            "findings": "Trichinella spiralis larvae identified within the muscle.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

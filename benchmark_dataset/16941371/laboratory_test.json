@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Quantitative EBV PCR",
+            "date": "Day 25",
+            "findings": "Blood: 123,000 copies/mL; Nasopharyngeal secretions: 1344 copies/mL; both findings highly positive.",
+            "changes_over_time": "Quantitative PCR for EBV showed a progressive increase from Day 11."
+        },
+        {
+            "procedure_name": "Immunophenotyping of peripheral lymphocytes",
+            "date": "Day 26",
+            "findings": "Reconstitution was essentially a reconstitution of natural killer cells with activated T cells (94% of HLA-DR–positive cells).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PCR analysis of blood samples for EBV",
+            "date": "Day 35",
+            "findings": "Results were negative for EBV.",
+            "changes_over_time": "Prior to Day 35, high levels of EBV were detected."
+        },
+        {
+            "procedure_name": "Bronchoalveolar lavage (BAL)",
+            "date": "Day 40",
+            "findings": "Alveolar fluid contained 150,000 cells/mL with 69% lymphocytes, 28% macrophages, 2% neutrophils, and no RBCs. EBV identified in BAL fluid: 13,338 copies/mL.",
+            "changes_over_time": "Previous PCR results in blood were negative for EBV."
+        },
+        {
+            "procedure_name": "CT scans of the lungs",
+            "date": "Day 39 (post-transplantation)",
+            "findings": "Showed bi-basal nodular and alveolar opacities.",
+            "changes_over_time": "CT scans at 4 and 6 months after transplantation indicated development of bronchectasis and hypoattenuated lung areas."
+        },
+        {
+            "procedure_name": "Pulmonary function tests",
+            "date": "At 4 months and 6 months after transplantation",
+            "findings": "Mild decrease in forced expiratory volume (to 70% of predicted value); increase in airflow resistance (to 156% of predicted value) and residual volume (to 143% of predicted value) with normal total lung capacity.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

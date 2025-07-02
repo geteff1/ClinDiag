@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "24-hour urine free cortisol (HPLC)",
+            "date": "Not specified",
+            "findings": "Baseline 166 µg/24 h (normal < 142 µg/24 h); after dexamethasone 218 µg/24 h.",
+            "changes_over_time": "Several measurements showed variability: 135 µg/24 h and 463 µg/24 h over a 3-month period."
+        },
+        {
+            "procedure_name": "1-mg overnight dexamethasone suppression test",
+            "date": "Not specified",
+            "findings": "Serum cortisol of 0.9 µg/dl with plasma ACTH of 3 pg/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine free cortisol (RIA and HPLC-MS/MS)",
+            "date": "Not specified",
+            "findings": "Both measurements were well within the normal range; 35 µg/24 h (RIA) and 10 µg/24 h (HPLC-MS/MS).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "2300-hour salivary cortisol",
+            "date": "Not specified",
+            "findings": "All measurements were well within the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "24-hour urine free cortisol (HPLC) for case 2",
+            "date": "Not specified",
+            "findings": "Persistently elevated UFC ranging from 80 to 180 µg/24 h.",
+            "changes_over_time": "Finally measured at 9 µg/24 h (HPLC-MS/MS), well within the normal range."
+        },
+        {
+            "procedure_name": "1-mg overnight dexamethasone suppression test for case 2",
+            "date": "Not specified",
+            "findings": "Serum cortisol of 1.1 µg/dl.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "2300-hour salivary cortisol for case 2",
+            "date": "Not specified",
+            "findings": "Salivary cortisol measurements were all well within the normal range.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

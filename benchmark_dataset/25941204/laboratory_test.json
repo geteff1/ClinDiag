@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "cVEEG",
+            "date": "Not specified",
+            "findings": "EEG showed abrupt onset of sharply contoured 9 Hz waves increasing slightly in voltage and evolving into medium voltage 5 – 6 Hz theta activity, without focal onset or discrete spikes. Paucity of slow wave and REM sleep noted. The awake background was normal.",
+            "changes_over_time": "Increased seizure frequency was noted between ages 16 and 27 years, characterized by multiple clinical and electrical seizures arising out of stage 2 sleep every 10-30 minutes, lasting 30-60 seconds each."
+        },
+        {
+            "procedure_name": "Sleep study",
+            "date": "20 years",
+            "findings": "Absence of slow-wave sleep and reduced amounts of REM sleep, without evidence of central or obstructive apnea.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "24 years",
+            "findings": "DNA sequencing showed the presence of serine 284 to leucine mutation in the CHRNa4 gene, reported as a disease-associated mutation in individuals with ADNFLE.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "cVEEG",
+            "date": "26 years",
+            "findings": "EEG showed multiple events occurring during stage 2 sleep averaging every 60 seconds, lasting on average 6-8 seconds. Some seizures lasting up to 60 seconds were noted.",
+            "changes_over_time": "On the second day of admission, following application of a 7-mg nicotine patch, there was almost complete resolution of clinical and electrical events, increased duration of slow-wave sleep, and REM sleep was recorded."
+        }
+    ]
+}

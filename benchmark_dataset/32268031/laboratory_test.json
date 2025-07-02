@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood urea nitrogen",
+            "date": "Not specified",
+            "findings": "124 mg per deciliter (reference range, 8 to 25 mg per deciliter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "16.1 mg per deciliter (reference range, 0.6 to 1.5 mg per deciliter).",
+            "changes_over_time": "Creatinine level decreased to 10.5 mg per deciliter."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "9 mmol per liter (reference range, 23 to 32).",
+            "changes_over_time": "Carbon dioxide level increased to 19 mmol per liter."
+        },
+        {
+            "procedure_name": "Comprehensive metabolic panel",
+            "date": "Not specified",
+            "findings": "Creatine kinase 124 U/liter (reference range, 60–400), glucose 128 mg/dl (reference range, 70–110), elevated anion gap of 26 (reference range, 3–17).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ protein, 2+ glucose, blood 1+, creatinine 60 mg/dl.",
+            "changes_over_time": "Albumin:creatinine ratio 4388.3."
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Opening pressure 23 cm of water, glucose normal, total nucleated cell count 1 per microliter (reference range, 0 to 5).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Repeat blood test for 1,3-β-d-glucan",
+            "date": "6th hospital day",
+            "findings": "Level 256 pg per milliliter (reference range, <60).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

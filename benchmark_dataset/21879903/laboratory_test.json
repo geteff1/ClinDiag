@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 11,700/mm³; Hematocrit: 29.7%; Platelet count: 275,000/mm³",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Sodium: 135 mmol/L; Potassium: 4.3 mmol/L; Chloride: 105 mmol/L; Bicarbonate: 21 mmol/L; Creatinine: 0.7 mg/dL; Glucose: 70 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium and Protein Levels",
+            "date": "Not specified",
+            "findings": "Calcium: 11.4 mg/dL (normal range: 8.8-10.5 mg/dL); Albumin: 3.4 g/dL (normal range: 3.6-4.6 g/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT: 18 U/L (normal range: 7-40 U/L); AST: 45 U/L (normal range: 6-40 U/L); Alkaline Phosphatase: 159 U/L (normal range: 27-110 U/L); Total Bilirubin: 0.3 mg/dL (normal range: 0.3-1.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase and Lipase Test",
+            "date": "Not specified",
+            "findings": "Amylase: 617 U/L (normal range: 20-70 U/L); Lipase: 1261 U/L (normal range: 3-60 U/L)",
+            "changes_over_time": "Lipase: increased to 2008 U/L; Amylase: increased to 833 U/L upon repeat testing"
+        },
+        {
+            "procedure_name": "Calcium and Hormonal Levels",
+            "date": "Not specified",
+            "findings": "Ionized Calcium: 1.42 mmol/L (normal range: 1.13-1.32 mmol/L); Intact PTH: 52.6 pg/mL (normal range: 11-80 pg/mL); 25-Hydroxyvitamin D: 12 ng/mL (normal range: 30-60 ng/mL); 1,25-Dihydroxyvitamin D: 96 pg/mL (normal range: 15-75 pg/mL)",
+            "changes_over_time": "PTH decreased from 344 to 60.7 pg/mL after resection of adenoma"
+        },
+        {
+            "procedure_name": "Follow-up Calcium Levels",
+            "date": "Next day",
+            "findings": "Calcium: 10.1 mg/dL; Intact PTH: 85.4 pg/mL; Phosphorus: 2.3 mg/dL (normal range: 2.4-5.0 mg/dL)",
+            "changes_over_time": "Calcium improved from 11.1 to 10.1 mg/dL after treatment; normal upon discharge"
+        },
+        {
+            "procedure_name": "Postoperative Hormonal Levels",
+            "date": "Not specified",
+            "findings": "Intact PTH normalized post-surgery",
+            "changes_over_time": "Postoperative monitoring showed calcium levels normalized and remained normal during pregnancy"
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D Level",
+            "date": "Postpartum",
+            "findings": "Increased to 30 ng/mL after vitamin D treatment",
+            "changes_over_time": "Increase from 12 ng/mL to 30 ng/mL after treatment"
+        }
+    ]
+}

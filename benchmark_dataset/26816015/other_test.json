@@ -1,0 +1,52 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Sterile",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic Testing for H. pylori Infection",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Nonobstructive bowel-gas pattern; moderate-to-abundant amount of stool, particularly in the ascending colon; normal distribution of bowel gas and no evidence of abnormal mass effect or intraabdominal calcifications.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count and Biochemical Tests",
+            "date": "One month later from initial visit",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "One month later from previous visit",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Suspicion for duodenitis; biopsy normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the Abdomen",
+            "date": "Not specified",
+            "findings": "Well-defined, homogeneously hyperenhancing, round mass in the left upper quadrant, consistent with an accessory spleen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of Accessory Spleen",
+            "date": "During surgery",
+            "findings": "Consistent with a reparative process consisting of organizing hemorrhage and fibrosis, with neovascularization.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "cardiomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "enlarged cardiac silhouette and clear lungs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "abdominal radiograph",
+            "date": "Not specified",
+            "findings": "no evidence of bowel obstruction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Not specified",
+            "findings": "patches of mild T2 hyperintensity in the white matter of the centrum semiovale indicating increased water content; no signs of restricted diffusion to suggest ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the liver",
+            "date": "Not specified",
+            "findings": "nodular liver with heterogeneous architecture, severe ascites, and decreased signal intensity within the liver and pancreas",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI with contrast",
+            "date": "Not specified",
+            "findings": "nodular liver with heterogeneous architecture, severe ascites, decreased signal intensity within liver and pancreas; normal signal in the spleen. Presence of abnormal vasculature within the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "mild right ventricular dilation, right ventricular hypertrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI showing diffuse nodularity of the liver",
+            "date": "Not specified",
+            "findings": "consistent with cirrhosis; enlarged left lobe of the liver, atrophied right lobe.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "lobular disarray with prominent bands of fibrosis; early regenerative nodules suggestive of progression to early cirrhosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiography",
+            "date": "Not specified",
+            "findings": "normal mediastinum, small bilateral pleural effusions, and Kerley’s B lines compatible with mild interstitial pulmonary edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "an ejection fraction of 35%; moderate mitral regurgitation; mild ventricular systolic dysfunction with akinesis of the apex, mid anterior wall, mid anteroseptum, mid septum, and mid posterior wall",
+            "changes_over_time": "Repeat echocardiogram showed left ventricular hypertrophy with normal left ventricular function, an estimated ejection fraction of 75% and resolution of the mitral regurgitation"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood donation",
+            "date": "July 9, 1999",
+            "findings": "Negative for all markers of infectious diseases.",
+            "changes_over_time": "Positive for anti-HCV antibodies and HCV RNA during subsequent tests in December 1999."
+        },
+        {
+            "procedure_name": "Serologic test for B. microti",
+            "date": "August 6, 1999",
+            "findings": "Positive for B. microti on PCR.",
+            "changes_over_time": "Stronger IgG reactivity in the August sample compared to July, with IgM reactivity stronger in the July sample."
+        },
+        {
+            "procedure_name": "Serum alanine aminotransferase test",
+            "date": "September 20, 1999",
+            "findings": "850 U per liter.",
+            "changes_over_time": "Normalized several weeks later."
+        },
+        {
+            "procedure_name": "Wound culture",
+            "date": "Not specified",
+            "findings": "Recovered methicillin-resistant Staphylococcus aureus, Pseudomonas aeruginosa, and skin bacteria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiograph of the forearm",
+            "date": "Not specified",
+            "findings": "Marked periosteal reaction with changes consistent with osteomyelitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

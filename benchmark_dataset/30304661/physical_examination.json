@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.2°C",
+                "pulse": "97 bpm",
+                "blood_pressure": "89/73 mm Hg",
+                "respiratory_rate": "19 breaths per minute",
+                "oxygen_saturation": "98%",
+                "weight": "109 kg"
+            },
+            "relevant_findings": {
+                "wounds": "Open wounds involving submandibular soft tissues and left facial structures",
+                "eye": "Ruptured globe of the right eye",
+                "lungs": "Absent breath sounds on left side",
+                "platelet_count": "Normal",
+                "red_cell_indexes": "Normal",
+                "renal_function_tests": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "pulse": "86 bpm",
+                "blood_pressure": "133/80 mm Hg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "pupil": "Left pupil reactive to light",
+                "lungs": "Coarse breath sounds",
+                "ecchymosis": "Present on left medial forearm",
+                "remainder_of_examination": "Unchanged"
+            },
+            "changes_over_time": "Patient's vital signs improved with decreased pulse and respiratory rate since the previous examination."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "155 bpm",
+                "blood_pressure": "74 mm Hg",
+                "respiratory_rate": "36 breaths per minute",
+                "oxygen_saturation": "90%"
+            },
+            "relevant_findings": {
+                "consciousness": "Patient was found unresponsive with ongoing electrocardiographic activity but no pulse",
+                "new_injuries": "Facial contusions and a bleeding laceration above the left eyebrow",
+                "breath_sounds": "Clear on ventilation"
+            },
+            "changes_over_time": "Deterioration with new facial contusions and unresponsiveness, indicating a critical decline."
+        }
+    ]
+}

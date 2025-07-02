@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.6°C",
+                "blood_pressure": "119/71 mm Hg",
+                "pulse": "119 bpm",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "soft_abdomen": "Soft and diffusely tender, particularly on the right side.",
+                "peripheral_edema": "Minimal peripheral edema.",
+                "pelvic_examination": "Cervix was dilated 2 cm and was 60% effaced, with a reactive fetal heart-rate tracing."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Postpartum Day 1",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "139/81 mm Hg",
+                "pulse": "117 bpm"
+            },
+            "relevant_findings": {
+                "abdomen": "Soft, with tenderness in the right lower quadrant and no guarding or rebound.",
+                "bowel_sounds": "Normal."
+            },
+            "changes_over_time": "Improvement in pain; continued mild diffuse abdominal discomfort without nausea or vomiting."
+        },
+        {
+            "date": "Postpartum Day 2, Morning",
+            "vital_signs": {
+                "temperature": "Normal",
+                "blood_pressure": "120/70 mm Hg",
+                "pulse": "120 bpm"
+            },
+            "relevant_findings": {
+                "abdomen": "Soft and nontender, with a firm uterine fundus palpated at the umbilicus."
+            },
+            "changes_over_time": "Patient felt well and was without pain."
+        },
+        {
+            "date": "Postpartum Day 2, Afternoon",
+            "vital_signs": {
+                "blood_pressure": "Initial 120/70 mm Hg, later ranging from 105 to 119 mm Hg systolic and 60 to 70 mm Hg diastolic.",
+                "pulse": "120 bpm"
+            },
+            "relevant_findings": {
+                "abdomen": "Diffusely tender with rebound and guarding."
+            },
+            "changes_over_time": "Severe abdominal pain developed suddenly, rated at 10 out of 10."
+        }
+    ]
+}

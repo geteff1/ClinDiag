@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Leukocytosis (leukocyte count, cells/L) - exact count not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Elevated creatinine level (122 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated liver enzymes: AST 57 IU/L, ALT 142 IU/L, alkaline phosphatase 300 IU/L, g-glutamyl transferase 463 IU/L, total bilirubin 183 mmol/L, conjugated bilirubin 128 mmol/L.",
+            "changes_over_time": "The results of his renal and liver function tests were not normal by then, but we assumed that the increased values were unrelated to the Legionella species infection."
+        },
+        {
+            "procedure_name": "Urinary Antigen Test",
+            "date": "Not specified",
+            "findings": "Negative for Legionella pneumophila.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR",
+            "date": "Not specified",
+            "findings": "Bronchoalveolar lavage fluid specimen was positive by a real-time PCR for all strains belonging to the genus Legionella.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

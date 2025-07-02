@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "97 bpm",
+                "respirations": "32",
+                "blood_pressure": "130/80 mmHg"
+            },
+            "relevant_findings": {
+                "lung": "Dullness at the left lung base, diminished breath sounds, inspiratory crackles; no egophony or wheezing.",
+                "heart": "Normal heart sounds.",
+                "abdomen": "Tenderness in both lower quadrants without guarding; liver and spleen not palpable; no peripheral edema or digital clubbing.",
+                "neurologic": "No abnormalities."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

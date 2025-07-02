@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Holter monitor",
+            "date": "Not specified",
+            "findings": "Nonsustained runs of atrial tachycardia, but no AF.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Loop recorder",
+            "date": "Not specified",
+            "findings": "Of 9 symptomatic episodes, 5 were AF.",
+            "changes_over_time": "Increased frequency of episodes leading to persistent AF."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "November 2002",
+            "findings": "AF with a ventricular rate of approximately 100/min and nonspecific ST-T wave changes.",
+            "changes_over_time": "Progression from paroxysmal AF to persistent AF."
+        }
+    ]
+}

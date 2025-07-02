@@ -1,0 +1,59 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The physical examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "37 days of age",
+            "vital_signs": {
+                "weight": "2.8 kg (<1st percentile)",
+                "height": "55 cm (31st percentile)"
+            },
+            "relevant_findings": "The abdomen was soft, nontender, and nondistended, with normal bowel sounds. Rectal examination revealed guaiac-positive, brown stool; the remainder of the examination was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "58 days of age",
+            "vital_signs": {
+                "weight": "3.6 kg"
+            },
+            "relevant_findings": "Rectal examination revealed soft, guaiac-positive stool with mucus; the remainder of the examination was normal.",
+            "changes_over_time": "The frequency of emesis had decreased, and stools had occasionally contained mucus but no blood."
+        },
+        {
+            "date": "16 weeks of age",
+            "vital_signs": {
+                "weight": "4.6 kg"
+            },
+            "relevant_findings": "The remainder of the physical examination was normal.",
+            "changes_over_time": "The patient had had several episodes of small-volume emesis containing dark-brown material resembling blood."
+        },
+        {
+            "date": "6 months of age",
+            "vital_signs": {
+                "weight": "6.2 kg"
+            },
+            "relevant_findings": "The remainder of the physical examination was normal.",
+            "changes_over_time": "The frequency of emesis had increased, as he had been vomiting formula after approximately 75% of feedings."
+        },
+        {
+            "date": "7 months of age",
+            "vital_signs": {
+                "weight": "6.9 kg"
+            },
+            "relevant_findings": "The abdomen was soft, with normal bowel sounds and without distention or tenderness. Rectal examination revealed guaiac-negative stool. The remainder of the examination was normal.",
+            "changes_over_time": "The patient had continued to gain weight and had had no complications after introducing soft foods, without visible blood in the vomitus or stools."
+        },
+        {
+            "date": "13 months of age",
+            "vital_signs": {
+                "weight": "Not specified"
+            },
+            "relevant_findings": "The examination revealed that the patient appeared well.",
+            "changes_over_time": "The frequency of vomiting had increased since the last visit."
+        }
+    ]
+}

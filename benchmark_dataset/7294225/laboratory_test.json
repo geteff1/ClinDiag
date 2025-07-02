@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "T4=1 µg/dl (normal=5-11 µg/dl), T3=5 ng/dl (normal=90-150 ng/dl), elevated cholesterol level, TSH and antithyroglobulin binding increased.",
+            "changes_over_time": "T4 and T3 levels returned to normal within 45 days."
+        },
+        {
+            "procedure_name": "Routine blood tests",
+            "date": "Not specified",
+            "findings": "Results were within normal limits except for an elevated cholesterol level.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Mild monorhythmic slow dysrhythmia compatible with diffuse toxic or metabolic cerebral disturbance.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

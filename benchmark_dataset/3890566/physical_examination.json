@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "150/80 mmHg",
+                "pulse": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "epigastric_bruits": "Present",
+                "psychomotor_agitation": "Present",
+                "irritability": "Present",
+                "pressured_speech": "Present",
+                "inappropriate_laughter": "Present",
+                "orientation": "Partial (Oriented to person, place, month, and year but not today and date)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160/100 mmHg",
+                "pulse": "100 bpm",
+                "temperature": "101.3 °F",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "psychomotor_retardation": "Moderate",
+                "sensorium": "Clear",
+                "depressive_symptoms": "Present with tearfulness"
+            },
+            "changes_over_time": "On fifth hospital day, developed a macular rash suspected as a drug reaction to captopril."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "temperature": "Normalized",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "skin_rash": "Resolved",
+                "depressive_symptoms": "Persisted"
+            },
+            "changes_over_time": "Over the next 2 months, depressive symptoms persisted despite the initiation of trazodone treatment."
+        }
+    ]
+}

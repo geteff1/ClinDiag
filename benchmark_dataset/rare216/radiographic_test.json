@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "White matter damage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Mild insufficiency of the mitral and tricuspid valves.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Slight enhancement of intrahepatic echoes, thickening of gallbladder wall, and splenomegaly.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

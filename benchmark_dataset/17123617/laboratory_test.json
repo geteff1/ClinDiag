@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraocular Pressure Measurement",
+            "date": "Not specified",
+            "findings": "Lowest measured IOP was 8 mmHg; highest was 29 mmHg, with an average range of 13.5 to 17.9 mmHg.",
+            "changes_over_time": "Over 8 years, IOP ranged from 15 to 19 mmHg in both eyes, with no significant change in optic nerve appearance or visual field defect."
+        },
+        {
+            "procedure_name": "Visual Field Examination",
+            "date": "Not specified",
+            "findings": "Common visual field defect was an arcuate defect in 31.3% of patients, with stable visual field defects over 7 years.",
+            "changes_over_time": "There were no significant changes in visual field defects during the 7-year follow-up period."
+        },
+        {
+            "procedure_name": "Cup-to-Disc Ratio Measurement",
+            "date": "Not specified",
+            "findings": "Cup-to-disc ratios ranged from 0.20 to 0.95, averaging 0.56.",
+            "changes_over_time": "There was no significant progression in cup-to-disc ratios during follow-up."
+        },
+        {
+            "procedure_name": "Stereo Fundus Photography",
+            "date": "Not specified",
+            "findings": "Optic nerve appearance was stable with no confirmed clinically significant progression.",
+            "changes_over_time": "Baseline stereo fundus photographs compared with subsequent examinations showed no optic nerve progression."
+        }
+    ]
+}

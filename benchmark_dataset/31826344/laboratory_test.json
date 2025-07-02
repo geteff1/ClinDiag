@@ -1,0 +1,78 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin": "14.1 g/dl (Normal: 13.5–17.5)",
+                "Hematocrit": "40.0% (Normal: 41.0–53.0)",
+                "Platelet Count": "188,000 per μl (Normal: 150,000–400,000)",
+                "White-cell Count": "6540 per μl (Normal: 4500–13,000)",
+                "Neutrophils": "56.5% (Normal: 40–62)",
+                "Lymphocytes": "28.3% (Normal: 27–40)",
+                "Monocytes": "8.4% (Normal: 4–11)",
+                "Eosinophils": "5.4% (Normal: 0–8)",
+                "Basophils": "0.9% (Normal: 0–3)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": {
+                "ESR": "29 mm/hr (Normal: 0–13)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "Alkaline Phosphatase": "110 U/liter (Normal: 30–100)",
+                "Total Bilirubin": "1.1 mg/dl (Normal: 0.0–1.0)",
+                "C-reactive Protein, high-sensitivity": "6.2 mg/liter (Normal: <3.8)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Early Pulmonary Function Tests",
+            "date": "6 weeks before presentation",
+            "findings": {
+                "FEV1": "4.31 liters (91% of predicted)",
+                "FVC": "5.61 liters (85% of predicted)",
+                "DLco": "25.56 ml/min/mm Hg (68% of predicted)"
+            },
+            "changes_over_time": "Decrease in FEV1 and FVC observed over subsequent evaluations."
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "On presentation to this hospital",
+            "findings": {
+                "FEV1": "3.96 liters (84% of predicted)",
+                "FVC": "4.53 liters (81% of predicted)",
+                "DLco": "24.24 ml/min/mm Hg (64% of predicted)"
+            },
+            "changes_over_time": "Continued decrease in FEV1 and FVC from previous tests."
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "8 weeks after presentation",
+            "findings": {
+                "FEV1": "3.46 liters (73% of predicted)",
+                "FVC": "3.99 liters (71% of predicted)",
+                "DLco": "23.43 ml/min/mm Hg (64% of predicted)"
+            },
+            "changes_over_time": "Further decrease in FEV1 and FVC."
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "14 weeks after presentation",
+            "findings": {
+                "FEV1": "4.23 liters (91% of predicted)",
+                "FVC": "4.94 liters (89% of predicted)",
+                "DLco": "Not specified"
+            },
+            "changes_over_time": "Improvement in FEV1 and FVC as compared to previous evaluations."
+        }
+    ]
+}

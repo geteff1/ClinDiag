@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 24, 2020",
+            "vital_signs": "Oxygen saturation worsened below 60%",
+            "relevant_findings": "Demonstrated complete atrioventricular block after cross-clamp removal, requiring temporary atrioventricular pacing. Regained conducted sinus rhythm prior to leaving the operating room.",
+            "changes_over_time": "Hypoxemia worsened post-operatively, reaching 37% at its lowest value."
+        },
+        {
+            "date": "Post-operative day 2",
+            "vital_signs": "Oxygen saturation below 60%",
+            "relevant_findings": "Onset of dyspnea and dry cough.",
+            "changes_over_time": "Intermittent complete atrioventricular block began on POD 5 requiring pacing."
+        },
+        {
+            "date": "Post-operative day 7",
+            "vital_signs": "Maintaining low O2 saturation",
+            "relevant_findings": "Underwent implantation of a permanent epicardial dual chamber pacemaker.",
+            "changes_over_time": "Hypoxemia continued to worsen; arterial blood gas tests showed decreased blood pH."
+        },
+        {
+            "date": "Post-operative day 8",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Abdominal discomfort and respiratory distress onset.",
+            "changes_over_time": "New chest radiograph evidenced multiple pulmonary consolidations."
+        },
+        {
+            "date": "Post-operative day 16",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest radiograph evidenced reduction of pulmonary consolidations.",
+            "changes_over_time": "Dry cough persisted but showed improvement in respiratory parameters."
+        }
+    ]
+}

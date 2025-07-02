@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest X-ray",
+            "date": "spring 2005",
+            "findings": "small opacity in the right mid lung",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "multiple bilateral lung nodules",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "6 months prior to recent CT scan",
+            "findings": "small mediastinal lymphadenopathy with nodular septal thickening and nodules along the bronchovascular bundles and interlobular septa consistent with sarcoidosis",
+            "changes_over_time": "without change from 6 months prior"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "recent",
+            "findings": "small mediastinal lymphadenopathy with nodular septal thickening and nodules along the bronchovascular bundles and interlobular septa consistent with sarcoidosis",
+            "changes_over_time": "without change from 6 months prior"
+        }
+    ]
+}

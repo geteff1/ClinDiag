@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "81/40 mmHg",
+                "heart_rate": "112 bpm",
+                "oxygen_saturation": "85% on room air"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "elevated",
+                "lung_auscultation": "diffuse rales over the lower lung fields bilaterally",
+                "peripheral_edema": "no significant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

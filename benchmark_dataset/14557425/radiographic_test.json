@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Skeletal survey",
+            "date": "9.5 years",
+            "findings": "Metaphyseal changes in all long bones, digital phalanges, and the iliac crest, comprising irregular, flared, radioopaque regions subjacent to the growth plates.",
+            "changes_over_time": "The extent of the radiopaque bands in the lower limbs had progressed compared to x-rays taken at 7.2 years."
+        },
+        {
+            "procedure_name": "Bone scan",
+            "date": "Not specified",
+            "findings": "Increased metaphyseal uptake, but no other abnormality.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "11.2 years",
+            "findings": "Increased extent of the metaphyseal radioopaque bands; the diaphyseal bone architecture and density were normal.",
+            "changes_over_time": "Continued progression of the metaphyseal appearance noted until 15.3 years."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "15.3 years",
+            "findings": "Improvement in the radiological appearance of the metaphyses with some improvement in growth.",
+            "changes_over_time": "Continued regression of the disease observed in subsequent x-rays."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "At age 13 years",
+            "findings": "Regression of the metaphyseal abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "At age 17 years",
+            "findings": "Regression of the metaphyseal abnormalities.",
+            "changes_over_time": "Conclusion of radiological improvement over the years."
+        }
+    ]
+}

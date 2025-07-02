@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal vital signs. Height 166.6 cm, weight 128.4 kg, BMI 46. Ecchymoses on the knees, absent two lower front teeth, areas of gingival bleeding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature 36.3°C, Blood Pressure 139/81 mm Hg, Pulse 98 bpm, Respiratory Rate 20 breaths/min, Oxygen saturation 98%. Weight 124.3 kg.",
+            "relevant_findings": "Purple ecchymoses on the left side of the face and left flank, brown ecchymoses around the right eye. Normal heart sounds, breath sounds clear bilaterally, abdomen soft and non-tender, motor strength 3/5 bilateral hip flexion, 4/5 bilateral hip extension, could not rise from seated position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission",
+            "vital_signs": "Blood pressure 89/47 mm Hg, Heart rate 90 bpm sitting; Blood pressure 75/40 mm Hg, Heart rate 100 bpm standing.",
+            "relevant_findings": "Patient exhibited profound hypotension after thiamine infusion, with continued hypotension afterward.",
+            "changes_over_time": "Blood pressure improved two days later to 124/72 mm Hg, Heart rate 91 bpm sitting; after standing: Blood pressure 80/50 mm Hg, Heart rate 89 bpm. Patient could rise from seated position with minimal use of arms."
+        }
+    ]
+}

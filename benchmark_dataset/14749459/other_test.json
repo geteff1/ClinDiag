@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Embryonal rhabdomyosarcoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "A mass involving the lateral orbital musculature; no evidence of bony erosion or invasion.",
+            "changes_over_time": "Markedly enlarged tumor mass with areas of hypodensity consistent with necrosis noted one week post-chemotherapy."
+        },
+        {
+            "procedure_name": "MRI scan",
+            "date": "Not specified",
+            "findings": "Well-defined mass displacing the optic nerve and involving the lateral and superior rectus and superior oblique muscles.",
+            "changes_over_time": "Densely enhancing mass markedly decreased in size after chemotherapy, with decreased proptosis."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Partial pressure of oxygen of 61 mm Hg with an inspired oxygen fraction of 44%, producing an alveolar-arteriolar gradient of 192.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Normal ejection fractions and valve architecture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "Single large pulmonary arteriovenous malformation (AVM) in the left lower lobe with aneurysmal dilation of the venous sac measuring 4 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transcutaneous pulmonary angiogram",
+            "date": "Not specified",
+            "findings": "Confirmed a large AVM in the left lower lobe with a single feeding artery measuring 10.6 mm in diameter.",
+            "changes_over_time": "No residual flow in the AVM was noted post-embolization."
+        }
+    ]
+}

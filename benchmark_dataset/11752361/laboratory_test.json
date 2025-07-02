@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Less than 10 mg/dL initially, later ranged between 21 and 34 mg/dL, 24 mg/dL at 14 hours, then varied approximately 60 mg/dL, and eventually 50 to 60 mg/dL on the fourth day.",
+            "changes_over_time": "Initially low at less than 10 mg/dL, gradually increased to 60 mg/dL, then fluctuated between 25 and 60 mg/dL."
+        },
+        {
+            "procedure_name": "Insulin level",
+            "date": "Not specified",
+            "findings": "Measured at 105.5 µU/mL (757 pmol/L) initially, then 98.3 µU/mL (705.3 pmol/L) on the sixth day, and later at 51.0 µU/mL (365.9 pmol/L).",
+            "changes_over_time": "Initial level dropped from 105.5 µU/mL to 51.0 µU/mL over a period of days."
+        },
+        {
+            "procedure_name": "Arterial blood gases",
+            "date": "12 hours after birth",
+            "findings": "pH 7.27, pCO2 45 mm Hg, pO2 364 mm Hg; on 2 days after birth: pH 7.36, pCO2 43 mm Hg, pO2 74 mm Hg.",
+            "changes_over_time": "pH improved from 7.27 to 7.36, pO2 decreased significantly from 364 mm Hg to 74 mm Hg."
+        },
+        {
+            "procedure_name": "Ammonia level",
+            "date": "Not specified",
+            "findings": "Initially high at 71 µmol/L, later was reported normal.",
+            "changes_over_time": "Ammonia level normalized by the sixth day."
+        },
+        {
+            "procedure_name": "Calcium level",
+            "date": "Not specified",
+            "findings": "Ionized calcium level was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Showed no abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "14th day after birth",
+            "findings": "Revealed cystic spaces in the white matter and thinned cortex.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasonographic examination of the abdomen",
+            "date": "Not specified",
+            "findings": "Showed no abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

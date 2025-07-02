@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Spinal MRI",
+            "date": "Not specified",
+            "findings": "Subtle, homogenous enhancement of multiple nerve roots.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Reduced amplitudes of bilateral sural sensory nerve action potentials; normal amplitudes in bilateral peroneal and left tibial action potentials with mildly prolonged distal latencies and moderate slowing of conduction velocities.",
+            "changes_over_time": "Essentially unchanged from the initial study."
+        },
+        {
+            "procedure_name": "Electromyography",
+            "date": "Not specified",
+            "findings": "Demonstrated fibrillation potentials and positive sharp waves in proximal and distal muscles of the left arm and leg; early recruitment of small motor unit action potentials in proximal muscles.",
+            "changes_over_time": "Continued to demonstrate widespread fibrillation potentials and positive sharp waves in the left arm and leg; reduced recruitment of motor unit action potentials in the legs."
+        }
+    ]
+}

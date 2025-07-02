@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus rate of 120 beats per minute with evidence of left ventricular hypertrophy and repolarization abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchoscopic examination with alveolar lavage",
+            "date": "Not specified",
+            "findings": "Edema and inflammation; no endobronchial lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Right upper lobe densely consolidated with an 8.5 cm cavity; evidence of necrotizing bronchopneumonia and toxic shock syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

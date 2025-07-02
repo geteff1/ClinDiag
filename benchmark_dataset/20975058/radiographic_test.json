@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Poor sudomotor innervation and abundant adrenergic fibers; evidence of cholinergic fiber absence.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thermoregulatory sweat test",
+            "date": "Not specified",
+            "findings": "Suggested generalized anhidrosis with paradoxical hyperhidrosis in the upper trunk, neck, shoulders, and armpits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Body temperature 24-hour study",
+            "date": "Not specified",
+            "findings": "Circadian fluctuation, blunted nocturnal fall, and significant 24-hour fluctuation with normal MESOR.",
+            "changes_over_time": "Episodes of hyperhidrosis recorded."
+        }
+    ]
+}

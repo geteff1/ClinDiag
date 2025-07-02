@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan of the brain",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HMPAO-SPECT (single photon emission computed tomography)",
+            "date": "Not specified",
+            "findings": "Demonstrated hypoperfusion of the medial temporal region, more marked on the left.",
+            "changes_over_time": "Follow-up HMPAO-SPECT scan was unchanged after 9 months of treatment."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Showed mild hippocampal atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI scan of the hypothalamus and pituitary",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

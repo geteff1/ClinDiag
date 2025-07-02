@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "The first biopsy showed urticarial tissue reaction with focal leukocytoclastic changes and negative direct immunofluorescence.",
+            "changes_over_time": "Repeat punch biopsy a week later showed nonspecific findings of perivascular lymphocytic infiltrates with a few scattered eosinophils, mast cells, and neutrophils. Direct immunofluorescence did not reveal evidence for a specific dermatosis."
+        },
+        {
+            "procedure_name": "Autoinflammatory Primary Immunodeficiency Gene Panel",
+            "date": "Not specified",
+            "findings": "Returned negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole genome sequencing",
+            "date": "Not specified",
+            "findings": "Revealed the presence of heterozygous mutation in the FLCN gene with pathogenic variant c.779+1G>T.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT chest",
+            "date": "Not specified",
+            "findings": "Showed small lung cysts, calcified granulomas, and noncalcified pulmonary micronodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal MRI",
+            "date": "Not specified",
+            "findings": "Showed a 14-mm lesion in the left kidney, which demonstrated mild enhancement, likely representing a hemorrhagic or proteinaceous cyst. Several additional renal and hepatic cysts with no concerning features.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

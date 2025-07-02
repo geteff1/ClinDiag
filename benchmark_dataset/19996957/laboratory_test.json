@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Blood leukocytes were 10,000/ml, hemoglobin was 12.9 g/dl.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood electrolytes",
+            "date": "Not specified",
+            "findings": "Blood electrolytes were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin Ic",
+            "date": "Not specified",
+            "findings": "Troponin Ic was less than 0.04 ng/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography",
+            "date": "Postoperative day 4",
+            "findings": "CT scan revealed a 3-cm diameter fluid collection at the colorectal anastomosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

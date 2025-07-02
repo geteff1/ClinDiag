@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin level",
+            "date": "4/15/1997",
+            "findings": "9.3 g/dL",
+            "changes_over_time": "Decreased to 5.0 g/dL on 8/14/1997, rose to 12.1 g/dL on 12/5/1997, dropped to 3.5 g/dL on 2/18/1998, rose to 12.8 g/dL on 1/2/1999."
+        },
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "4/15/1997",
+            "findings": "38 cells/mm³",
+            "changes_over_time": "Dropped to 4 cells/mm³ on 10/22/1997, rose to 139 cells/mm³ on 1/2/1999, then 231 and 312 cells/mm³ on 4/6/1999 and 7/20/1999 respectively."
+        },
+        {
+            "procedure_name": "HIV-1 load",
+            "date": "4/15/1997",
+            "findings": "387 copies/mL",
+            "changes_over_time": "Decreased to 172 copies/mL on 10/22/1997, returned to 1.18 copies/mL on 11/30/1998, then below detection limit (!0.4 copies/mL) on 1/2/1999 onwards."
+        },
+        {
+            "procedure_name": "B19 IgM ELISA",
+            "date": "8/26/1998",
+            "findings": "Not detected (!20 U)",
+            "changes_over_time": "Became detectable on 30/11/1998 with a result of 36 U."
+        },
+        {
+            "procedure_name": "B19 IgG ELISA",
+            "date": "8/26/1998",
+            "findings": "Optical density 0.220",
+            "changes_over_time": "Rose to 1.72 on 11/30/1998 and decreased slightly to 1.59 on subsequent tests."
+        },
+        {
+            "procedure_name": "Parvovirus B19 load",
+            "date": "Not specified",
+            "findings": "1 x 10⁹ on 6/14/1998.",
+            "changes_over_time": "Reported to spike again in July 1998 before slowly decreasing with salvage therapy."
+        }
+    ]
+}

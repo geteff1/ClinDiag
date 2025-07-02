@@ -1,0 +1,64 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Baseline recording showed no abnormalities; during IPS, bradycardia was time-locked to the onset of visual stimuli and evolved into an 8-second asystole accompanied by high-amplitude theta-delta activity.",
+            "changes_over_time": "Serial EEGs have failed to show any epileptiform abnormalities and demonstrated persistent visually triggered EKG changes."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tilt test",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRA",
+            "date": "Not specified",
+            "findings": "Anomalies in posterior circulation with an absent basilar artery; occlusion of left middle cerebral artery; stenoses at origins of several arteries; striking tortuosity of major arteries.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arteriogram",
+            "date": "Not specified",
+            "findings": "Confirmed MRA findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Benign phosphaturic mesenchymal tumor, mixed connective tissue variant.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Slightly positive for 14-3-3 protein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Cerebral infarction involving left striatum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Increased insertional activity with rapid recruitment of short duration motor unit potentials.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Generalized slowing.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

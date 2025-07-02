@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Children’s Depression Inventory",
+            "date": "Not specified",
+            "findings": "T score was 95, indicating clinically significant depression.",
+            "changes_over_time": "Improved to a score of 14 at discharge."
+        },
+        {
+            "procedure_name": "ADHD Rating Scale",
+            "date": "Not specified",
+            "findings": "Score was 39 during initial assessment.",
+            "changes_over_time": "Score improved to 36 at discharge, then to 19 one week after starting methylphenidate."
+        },
+        {
+            "procedure_name": "Young Mania Rating Scale",
+            "date": "Not specified",
+            "findings": "Score was 36 upon second admission, indicating significant manic symptoms.",
+            "changes_over_time": "Improved to a score of 15 at discharge after treatment with lithium and haloperidol."
+        },
+        {
+            "procedure_name": "Young Mania Rating Scale",
+            "date": "Not specified",
+            "findings": "Score was 31 upon third hospitalization.",
+            "changes_over_time": "Decreased to 11 after treatment with carbamazepine."
+        },
+        {
+            "procedure_name": "Children’s GAS",
+            "date": "Not specified",
+            "findings": "Score was 31 upon first admission, improved to 50 at discharge.",
+            "changes_over_time": "Score improved to 55 after discharge and further improved to 61 at termination."
+        }
+    ]
+}

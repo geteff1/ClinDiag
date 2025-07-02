@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Multilobulated mass isodense to hyperdense measuring 8 cm by 7.5 cm by 6.5 cm in the urinary bladder, diffuse fat stranding in perivesical and left periurethral regions, bilateral intrarenal calculi and cysts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Bilateral renal cysts and bilateral nonobstructing nephrolithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "No evidence of metastatic disease.",
+            "changes_over_time": "Irregular thickening of the bladder wall observed with an irregular, multiloculated gas collection, 2.5 cm by 3.5 cm, in the suprapubic region."
+        },
+        {
+            "procedure_name": "Repeat imaging studies",
+            "date": "24 months after surgery",
+            "findings": "No evidence of recurrent or metastatic cancer.",
+            "changes_over_time": "PSA level has remained below 0.1 ng per milliliter."
+        }
+    ]
+}

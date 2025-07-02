@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Minimal effusion of the free pericardium wall (5 mm) with fibrin presence",
+            "changes_over_time": "Follow-up echocardiogram showed pericardial effusion (20 mm)"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Last visit",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Initial visit",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Last visit",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiomegaly, suggesting patent ductus arteriosus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "At 17 years",
+            "findings": "Large pericardial effusion with severe concentric left ventricular hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "DMSA scan",
+            "date": "At 10 months",
+            "findings": "Compensatory hypertrophy of the left kidney.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Significant calcification on the descending aorta.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-rays",
+            "date": "Not specified",
+            "findings": "Multiple joint calcifications.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

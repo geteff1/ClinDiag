@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "visual_acuity": {
+                    "right_eye": "light perception",
+                    "left_eye": "20/15"
+                },
+                "intraocular_pressures": {
+                    "right_eye": "17 mmHg",
+                    "left_eye": "15 mmHg"
+                }
+            },
+            "relevant_findings": "Neovascularization of the right iris, total exudative retinal detachment, normal examination of the left eye, no evidence of inflammation in the right eye.",
+            "changes_over_time": "No specified changes; only the findings as of this examination."
+        },
+        {
+            "date": "Three days after initial examination",
+            "vital_signs": {
+                "visual_acuity": {
+                    "right_eye": "light perception",
+                    "left_eye": "20/15"
+                },
+                "intraocular_pressures": {
+                    "right_eye": "Not specified",
+                    "left_eye": "Not specified"
+                }
+            },
+            "relevant_findings": "Full eye movements noted with right hypertropia and exotropia in primary gaze. The anterior segment of the right eye showed a clear cornea and an abnormally shallow anterior chamber.",
+            "changes_over_time": "Visual acuity remained unchanged from previous assessment."
+        },
+        {
+            "date": "20 months after the original diagnosis",
+            "vital_signs": {
+                "Not specified": "Not specified"
+            },
+            "relevant_findings": "No evidence of tumor detected during examination.",
+            "changes_over_time": "The patient was free of tumor at this follow-up."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "fever": "101.7 °F",
+                "heart_rate": "130 bpm",
+                "additional": "Not specified"
+            },
+            "relevant_findings": {
+                "vital_signs": "slight dysarthria, fever, tachycardia",
+                "mental_status": "acute mental status change, lethargy, disorientation",
+                "heart_function": "elevated troponin level at 4.9 ng/ml; ECG revealed sinus tachycardia"
+            },
+            "changes_over_time": {
+                "timeframe": "initial stabilization after discontinuation of clozapine",
+                "observations": "temperature and heart rate returned to normal, troponin dropped to 0.5 ng/ml and ejection fraction recovered to 55%"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "troponin": "38.6 ng/ml",
+                "heart_rate": "sinus tachycardia",
+                "additional": "elevated eosinophils reaching 13%"
+            },
+            "relevant_findings": {
+                "cardiac_function": "decreased ejection fraction noted at 45% and segmental wall motion abnormality",
+                "chest_radiography": "demonstrated signs of congestive heart failure"
+            },
+            "changes_over_time": {
+                "timeframe": "during hospitalization and treatment adjustments",
+                "observations": "ejection fraction improved after treatment, symptoms of heart failure resolved"
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "return to normal",
+                "additional": "Not specified"
+            },
+            "relevant_findings": {
+                "general_wellbeing": "well related and hopeful at discharge, occasional chest pain"
+            },
+            "changes_over_time": {
+                "timeframe": "months after myocarditis episode",
+                "observations": "occasional episodes of chest pain remain while other cardiac symptoms resolved"
+            }
+        }
+    ]
+}

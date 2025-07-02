@@ -1,0 +1,20 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood count",
+            "date": "1988",
+            "findings": {
+                "Erythrocytes": "6,200,000 per mm3",
+                "Hematocrit": "61.6%",
+                "Hemoglobin": "20.2 g/dl",
+                "Leukocytes": "6800 per mm3",
+                "Platelets": "162,000 per mm3",
+                "Erythropoietin": "18 mU/ml",
+                "2,3-Diphosphoglycerate": "16 μM/g hemoglobin",
+                "P50 value": "31 mm Hg",
+                "O2 saturation": "96.5%"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

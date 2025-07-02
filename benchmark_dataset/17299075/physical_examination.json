@@ -1,0 +1,62 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "130/70 mm Hg",
+                "weight": "68 kg",
+                "height": "167 cm",
+                "body_mass_index": "25 kg/m2"
+            },
+            "relevant_findings": {
+                "findings": [
+                    "Excess subcutaneous fat on the face, neck, trunk, and abdomen",
+                    "Lack of subcutaneous fat on the gluteal region and extremities",
+                    "Acanthosis nigricans on feet, axillae, and neck",
+                    "Hirsutism"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 15",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": [
+                    "Severe insulin resistance diagnosed"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 20",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": [
+                    "Hospitalized for pancreatitis"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At age 22",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": [
+                    "Hospitalized again for pancreatitis"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "At end of 2005",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "findings": [
+                    "Referred for management of refractory hypertriglyceridemia despite treatment"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

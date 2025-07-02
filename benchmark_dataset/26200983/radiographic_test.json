@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "Intrinsically hyperdense mass (3.7 cm by 2.6 cm by 3.0 cm) in the medial aspect of the right frontal lobe and adjacent corpus callosum, with associated edema in the surrounding white matter and mild midline shift to the left.",
+            "changes_over_time": "The mass showed better-defined homogeneous enhancement and more extensive vasogenic edema on subsequent MRI; no further changes specified."
+        },
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Not specified",
+            "findings": "Large enhancing mass in the medial aspect of the right frontal lobe and corpus callosum, with extensive vasogenic edema in the right frontoparietal white matter and mild midline shift to the left.",
+            "changes_over_time": "The mass had a reduction in size and local mass effect, with minimal residual enhancement within 3 months after treatment."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "No evidence of primary cancer.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Combined PET-CT",
+            "date": "Not specified",
+            "findings": "Substantial 18F-fluorodeoxyglucose uptake in the enhancing mass in the region of the corpus callosum but no abnormal FDG uptake in the rest of the body.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the whole spine",
+            "date": "Not specified",
+            "findings": "No evidence of abnormal vertebral or intrathecal enhancement.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

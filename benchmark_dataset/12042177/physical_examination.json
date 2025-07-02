@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No history of physical or sexual abuse or head trauma; physical and neurological examinations were unremarkable. Blood chemistries, a liver panel, a CBC, tests of thyroid function, a urinalysis, an ECG, and an EEG were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "First hospitalization (initial exam)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Moderately depressed; thought processes were goal-directed. Endorsed prominent depressed mood, anhedonia, negative self-esteem. T score on Children’s Depression Inventory was 95. Children’s Global Assessment Scale (GAS) score was 31. ADHD Rating Scale score was 39.",
+            "changes_over_time": "His clinical condition improved, with Children’s Depression Inventory score at discharge being 14, GAS score at discharge at 50, and ADHD Rating Scale score at 36."
+        },
+        {
+            "date": "Second hospitalization (8 months after first)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Appeared in an agitated state, mood described as angry. Labile affect, pressured speech, intrusive behavior. Young Mania Rating Scale score was 36 (indicative of mania). GAS score was 20, ADHD Rating Scale score was 42.",
+            "changes_over_time": "Compared to the first admission, physical hyperactivity and mood instability were markedly increased."
+        },
+        {
+            "date": "After second hospitalization (discharge)",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Discharged with lithium at 600 mg/day (serum level=0.8 meq/liter) and 1 mg of haloperidol at bedtime. Young Mania Rating Scale score was 15, GAS score was 50.",
+            "changes_over_time": "After starting pharmacological treatment, mood instability and aggression improved."
+        },
+        {
+            "date": "Not specified after second hospitalization",
+            "vital_signs": "Not specified",
+            "relevant_findings": "ADHD Rating Scale score was 35.",
+            "changes_over_time": "Mood instability and irritability improved while on carbamazepine and clonidine; however, ADHD symptoms persisted."
+        }
+    ]
+}

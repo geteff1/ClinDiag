@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "130 bpm",
+                "blood_pressure": "60-70 mmHg",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "34.7°C",
+                "pulse": "126 bpm",
+                "blood_pressure": "99/52 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Alert and oriented but appeared ill. Dry mucous membranes. Cardiac examination revealed regular tachycardia without extra heart sounds. No jugular venous distention. Lungs, abdomen, and skin were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "144 bpm",
+                "blood_pressure": "77/49 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Weak pulses in arms and legs, cold extremities. Tachycardia with normal S1 and S2 sounds, and an S3 gallop. Lungs were clear and mechanically ventilated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "The patient required norepinephrine for hypotension. The heart was assessed with echocardiogram showing severe global systolic dysfunction.",
+            "changes_over_time": "There was deterioration noted with severe global systolic dysfunction of the left ventricle and ejection fraction of 24%."
+        },
+        {
+            "date": "23rd hospital day",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Discharged home in good condition.",
+            "changes_over_time": "Improvement in heart function was noted with recovery of left ventricular systolic function; patient was extubated and kidney function normalized."
+        }
+    ]
+}

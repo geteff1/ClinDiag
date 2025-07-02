@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal apart from periodic bradycardic episodes.",
+            "relevant_findings": "Notably hypotonic; no facial dysmorphology or obvious musculoskeletal abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Serum ionized calcium 1.99 mmol/L (normal: 1 to 1.17 mmol/L), serum total calcium 3.23 mmol/L (normal: 2.33 to 2.74 mmol/L), serum magnesium 1.1 mmol/L (normal: 0.62 to 1.03 mmol/L), serum phosphorus 0.94 mmol/L (normal: 1.55 to 2.65 mmol/L), 25-hydroxyvitamin D low at 10.9 nmol/L (normal: 32 to 80 nmol/L), intact PTH 1154 pg/mL (normal: <160 pg/mL), fractional excretion of calcium 0.003 (normal: >0.01).",
+            "relevant_findings": "Diffuse demineralization and multiple healing rib fractures observed on chest radiograph; elevated serum ionized calcium and intact PTH.",
+            "changes_over_time": "Initially treated with iv saline without significant effect on serum calcium level."
+        },
+        {
+            "date": "21 days of life",
+            "vital_signs": "Normal after treatment with cinacalcet, overall clinical condition improved significantly.",
+            "relevant_findings": "Muscle tone improved; initially significant bradycardia and hypotonia resolved with treatment.",
+            "changes_over_time": "The patient's serum calcium levels normalized with cinacalcet therapy, improving overall clinical condition."
+        },
+        {
+            "date": "3 months of age",
+            "vital_signs": "Serum calcium increased to 3.63 mmol/L, intact PTH 78.8 pg/mL.",
+            "relevant_findings": "Developed hypotonia along with periodic apnea and bradycardia.",
+            "changes_over_time": "Severe gastroenteritis led to difficulties tolerating oral medications, increasing serum calcium level."
+        },
+        {
+            "date": "Throughout the first 18 months of life",
+            "vital_signs": "Serum calcium levels intermittently elevated despite treatment.",
+            "relevant_findings": "The patient did not require bisphosphonate therapy or surgical intervention; skeletal survey continued to show improvement.",
+            "changes_over_time": "Persistence of mild hypercalcemia; however, no significant symptoms of hypercalcemia developed."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Globular Sedimentation Rate (GSR)",
+            "date": "Not specified",
+            "findings": "73 mm/h (normal value, <20 mm/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein (CRP)",
+            "date": "Not specified",
+            "findings": "39.9 g/dL (normal value, <10 g/dL)",
+            "changes_over_time": "CRP decreased to <0.5 g/dL in additional study"
+        },
+        {
+            "procedure_name": "Brucella titer by agglutination testing",
+            "date": "Not specified",
+            "findings": "1:320",
+            "changes_over_time": "Increased to 1:1280 in additional serological study"
+        },
+        {
+            "procedure_name": "Brucella titer by Coombs testing",
+            "date": "Not specified",
+            "findings": "1:640",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose level",
+            "date": "Not specified",
+            "findings": "13 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Synovial fluid analysis",
+            "date": "Not specified",
+            "findings": "50 cells/mm3, 80% were polymorphonuclear cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Positive for Brucella species identified as REV 1 (vaccine strain) Brucella mellitensis",
+            "changes_over_time": "Positive culture for Brucella species was found again 1 year later"
+        }
+    ]
+}

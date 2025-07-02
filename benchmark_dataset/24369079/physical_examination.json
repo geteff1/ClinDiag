@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.0°C",
+                "blood_pressure": "157/67 mm Hg",
+                "pulse": "173 bpm",
+                "respiratory_rate": "28 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Diaphoretic skin, pupils equal and reactive to light, gaze deviated upward, rapid and mostly unintelligible speech.",
+                "neurological": "Agitated, flailing arms and legs, unable to cooperate during examination, paranoid speech mentioning attacks."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "92 bpm",
+                "urine_output": "290 ml"
+            },
+            "relevant_findings": {
+                "general": "Developed ventilation-associated pneumonia due to methicillin-sensitive Staphylococcus aureus.",
+                "neurological": "Initially unable to communicate, later had a period of agitation with copious oral secretions."
+            },
+            "changes_over_time": "Initially very agitated, then quieter; reintubated due to agitation and copious oral secretions."
+        }
+    ]
+}

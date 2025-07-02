@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "108/60 mm Hg",
+                "serum_sodium": "139 mEq/liter",
+                "serum_chloride": "96 mEq/liter",
+                "serum_potassium": "2.1 mEq/liter",
+                "serum_calcium": "10.2 mg/dl",
+                "serum_magnesium": "2.2 mg/dl",
+                "urinary_calcium_excretion": "2.18 mg/kg/d",
+                "urinary_magnesium_excretion": "1.60 mg/kg/d",
+                "white_blood_cell_count": "6.91 x 10^3",
+                "red_blood_cell_count": "6.90 x 10^4",
+                "hemoglobin_concentration": "20.5 g/dl",
+                "hematocrit_value": "58%",
+                "platelet_count": "170 x 10^3",
+                "plasma_ph": "7.43",
+                "bicarbonate": "27.5 mEq/liter",
+                "base_excess": "3.2 mEq/liter",
+                "pCO2": "42 mm Hg",
+                "urine_volume": "5580 ml/d",
+                "creatinine_clearance": "63.8 ml/min per 1.73 m²"
+            },
+            "relevant_findings": {
+                "body_weight": "65.0 kg",
+                "body_mass_index": "23.6",
+                "neurologic": "fatigue, numbness, weakness of both legs",
+                "audiogram": "complete sensorineural deafness",
+                "nephrocalcinosis": "present",
+                "metabolic_alcoholosis": "not remarkable",
+                "urine_osmolar_concentration": "275 mmol/kg",
+                "hypertonic_saline_test": "impaired urinary concentrating ability",
+                "elevated_prostaglandin_E2_excretion": "1940-11100 ng/d"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

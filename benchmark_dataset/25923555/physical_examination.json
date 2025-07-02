@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal vital signs and oxygen saturation reported.",
+            "relevant_findings": "Oropharyngeal mucosa had a cobblestone appearance, and scattered inspiratory wheezes throughout lung fields were noted. Peak expiratory flow rate was 400 liters per minute (predicted value, 470).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "The physical examination was normal, without wheezing, cyanosis, clubbing, or lymphadenopathy.",
+            "relevant_findings": "Pulmonary-function tests were normal: FVC 3.45 liters (101% predicted), FEV1 2.62 liters (97%), FEV1/FVC 0.76, total lung capacity 5.30 liters (97%).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "2.5 months after initial evaluation",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "CT of the chest was largely unchanged since the last evaluation, with an 8-mm nodule seen in the left apex.",
+            "changes_over_time": "CT findings were unchanged from the initial evaluation."
+        }
+    ]
+}

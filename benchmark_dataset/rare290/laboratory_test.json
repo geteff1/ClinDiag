@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fasting plasma glucose",
+            "date": "Not specified",
+            "findings": "Elevated fasting plasma glucose levels consistent with diabetes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "Elevated HbA1c levels consistent with diabetes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC (Hemoglobin, White Blood Cell Count, Platelets)",
+            "date": "Not specified",
+            "findings": "Hemoglobin, white blood cell count, and platelets were all within normal ranges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Liver function tests were all within normal ranges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PSA",
+            "date": "Before radiotherapy and stable for 10 months post-radiotherapy",
+            "findings": "PSA levels remained at 0.2 ng/mL.",
+            "changes_over_time": "PSA levels were stable for 10 months post-radiotherapy until the onset of rectal bleeding."
+        },
+        {
+            "procedure_name": "Colonoscopy and Biopsy",
+            "date": "One month after initiating M-B enema therapy",
+            "findings": "No ulceration observed; density of telangiectasia remained unchanged; reduced extent of rectal mucosal congestion and hypervascularity; improvement in inflammatory cell infiltration.",
+            "changes_over_time": "Histopathological analysis revealed improvement compared to previous findings."
+        }
+    ]
+}

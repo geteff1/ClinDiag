@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Blood glucose level was 140 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count and levels of electrolytes and glucose",
+            "date": "Not specified",
+            "findings": "All within normal ranges.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "Rapid qualitative test of creatine kinase was borderline positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Rapid qualitative test of troponin T was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Echocardiogram showed hypertrophic cardiomyopathy with asymmetric septal hypertrophy, normal systolic function, and mild mitral regurgitation.",
+            "changes_over_time": "Follow-up echocardiogram two days later indicated no provocable gradient across the outflow tract."
+        }
+    ]
+}

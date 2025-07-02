@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Mixed lytic-sclerotic lesion spanning the length of the radius, with expansion of the radial head, neck, and entire diaphysis. No obvious cortical disruption, periosteal reaction, or fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "4.5 · 5-cm expansile mass replacing the radial head and neck. The mass demonstrated bright enhancement, along with surrounding soft tissues and periosteum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "No obvious metastatic lesions in the lungs. A benign-appearing lytic lesion with a sclerotic margin detected in the right scapular neck, considered another focus of fibrous dysplasia.",
+            "changes_over_time": "An incompletely visualized small fluid-density lesion in the supraspinatus muscle remained unchanged on a repeated CT scan two months later."
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Nine months after surgery",
+            "findings": "Mixed lytic-sclerotic lesion of the right humeral neck, extending to the mid-diaphysis with similar smaller lesions in the glenoid and acromion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Additional, discontinuous soft-tissue masses in the shoulder girdle consistent with myxomas, with lesions in the humerus and scapula consistent with fibrous dysplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Forty-seven months postoperatively",
+            "findings": "Some resorption of the graft proximally; radial head and hardware remained in good position.",
+            "changes_over_time": "Patient beginning to experience mild pain and tenderness at the radiocapitellar joint."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated a giant ICA aneurysm with extensive osseous remodeling at the skull base and erosion into the sphenoid sinus. Also presented significantly large vessels in the right sylvian fissure and enhancing tuft of abnormal vessels in the right basal ganglia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral angiogram",
+            "date": "Not specified",
+            "findings": "Revealed a giant fusiform aneurysm of the right ICA, extending from the distal cavernous carotid segment to the supraclinoid segment of the ICA and measuring 15 mm × 25 mm. Right ophthalmic artery originating from this aneurysmal dilation, with significant dilation of other arterial segments.",
+            "changes_over_time": "Postoperative angiograms demonstrated patency of the bypass graft and occlusion of the right ICA with thrombosis of the aneurysm."
+        },
+        {
+            "procedure_name": "Follow-up angiogram",
+            "date": "6 months after surgery",
+            "findings": "Showed excellent patency of the SVG and complete thrombosis of the aneurysm.",
+            "changes_over_time": "Postoperative neurological examination revealed no deficits, and the patient remained neurologically intact with normal visual acuity and full visual fields at 1 year after surgery."
+        }
+    ]
+}

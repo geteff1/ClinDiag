@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "35.9% on admission, 35.8% on Day 2, 34.5% on Day 3, and 34.8% on Day 5 (normal range: 41.0–53.0).",
+            "changes_over_time": "Decreased from admission to Day 5."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "12.0 g/dL on admission, 12.0 g/dL on Day 2, 11.2 g/dL on Day 3, and 11.5 g/dL on Day 5 (normal range: 13.5–17.5).",
+            "changes_over_time": "Decreased from admission to Day 5."
+        },
+        {
+            "procedure_name": "White Cell Count",
+            "date": "Not specified",
+            "findings": "12,500 per mm3 on admission, 7900 per mm3 on Day 2, and 7400 per mm3 on Day 3 (normal range: 4500–11,000).",
+            "changes_over_time": "Decreased from admission to Day 3."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.2 mg/dL on admission, 2.6 mg/dL on Day 2, 2.7 mg/dL on Day 3, 3.0 mg/dL on Day 5, and 2.4 mg/dL on Day 7 (normal range: 0.6–1.5).",
+            "changes_over_time": "Increased from admission to Day 5."
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase",
+            "date": "Not specified",
+            "findings": "306 U/L on admission, 1980 U/L on Day 2, 1088 U/L on Day 3, 290 U/L on Day 5, and 168 U/L on Day 7 (normal range: 10–40).",
+            "changes_over_time": "Decreased from Day 2 to Day 5."
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase",
+            "date": "Not specified",
+            "findings": "127 U/L on admission, 873 U/L on Day 2, 783 U/L on Day 3, 412 U/L on Day 5, and 299 U/L on Day 7 (normal range: 10–55).",
+            "changes_over_time": "Decreased from Day 2 to Day 5."
+        },
+        {
+            "procedure_name": "Troponin I",
+            "date": "Not specified",
+            "findings": "11.2 ng/mL on admission and 6.85 ng/mL subsequently.",
+            "changes_over_time": "Decreased after admission."
+        },
+        {
+            "procedure_name": "International Normalized Ratio for Prothrombin Time",
+            "date": "Not specified",
+            "findings": "5.6 on admission, 2.3 on Day 2, 1.3 on Day 3, and 1.5 on Day 5.",
+            "changes_over_time": "Decreased dramatically from admission to Day 5."
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Total: 1.4 mg/dL on admission, 1.8 mg/dL on Day 2, 1.3 mg/dL on Day 3, and 1.6 mg/dL on Day 5 (normal range: 0.0–1.0).",
+            "changes_over_time": "Increased from admission to Day 2, then decreased on Day 3."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "48.5 mg/L (normal range: <8.0).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "October 2000",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "left_ventricular_wall_thickness": "Mean LVWT of 21 mm (range: 15–46 mm)",
+                "peak_resting_gradient": "60.4 mmHg (range: 4–231 mmHg)",
+                "NYHA_functional_class": "Mean of 1.9 (0.8), with 27 patients in class 3 or 4"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "patient_case_1": {
+                    "age": 9,
+                    "max_septal_thickness": "29 mm",
+                    "gradient": "75 mmHg at rest"
+                },
+                "patient_case_2": {
+                    "age": "5 years",
+                    "gradient": "Not specified"
+                },
+                "patient_case_3": {
+                    "age": 29,
+                    "gradient": "140 mmHg at rest"
+                },
+                "patient_case_4": {
+                    "age": 38,
+                    "gradient": "92 mmHg",
+                    "left_ventricular_wall_thickness": "28 mm"
+                },
+                "patient_case_5": {
+                    "age": 44,
+                    "gradient": "40 mmHg",
+                    "left_ventricular_wall_thickness": "21 mm"
+                }
+            },
+            "changes_over_time": "Patient case 1 experienced progressive dyspnea, angina, and presyncope unresponsive to pharmacological therapy over 2 years, later requiring orthotopic heart transplantation at age 16 due to end-stage heart failure."
+        }
+    ]
+}

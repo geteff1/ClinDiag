@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "rRT-PCR for MERS-CoV",
+            "date": "April 29, 2014",
+            "findings": "Serum tested positive for MERS-CoV with a titer of 1:3200; nasopharyngeal swab was negative.",
+            "changes_over_time": "By May 3, 2014, the sputum sample was rRT-PCR-positive with a viral load of 5.31 x 10^6 copies/ml. On May 5, 2014, the viral load decreased to 1.26 x 10^5 copies/ml."
+        },
+        {
+            "procedure_name": "Sputum culture",
+            "date": "Not specified",
+            "findings": "Negative for MERS-CoV.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genome sequencing",
+            "date": "Not specified",
+            "findings": "The genome sequence was similar (>99%) to other known MERS-CoV sequences from KSA.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serology (ELISA)",
+            "date": "Not specified",
+            "findings": "Serum antibody titers remained high, greater than 1:6400 until the last day of collection.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematologic Laboratory Data",
+            "date": "Not specified",
+            "findings": {
+                "Hematocrit (%)": 32.9,
+                "White cells (per mm^3)": 2700,
+                "Neutrophils (%)": 52,
+                "Lymphocytes (%)": 41,
+                "Monocytes (%)": 5,
+                "Eosinophils (%)": 11,
+                "Basophils (%)": "Not specified",
+                "Platelets (per mm^3)": 285000,
+                "Mean corpuscular volume (µm^3)": 114,
+                "Prothrombin time": "Normal",
+                "Partial-thromboplastin time": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemical Values",
+            "date": "Not specified",
+            "findings": {
+                "Bilirubin Total (mg/dl)": 5.0,
+                "Bilirubin Conjugated (mg/dl)": 0.5,
+                "Protein Total (g/dl)": 8.1,
+                "Albumin (g/dl)": 3.1,
+                "Globulin (g/dl)": 5.0,
+                "Sodium (mmol/liter)": 135,
+                "Potassium (mmol/liter)": 5.2,
+                "Chloride (mmol/liter)": "Not specified",
+                "Carbon dioxide (mmol/liter)": 26.7,
+                "Lactate dehydrogenase (U/liter)": 1330,
+                "Cholesterol Total (mg/dl)": 109,
+                "Triglycerides (mg/dl)": 103
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "Left Ventricular Ejection Fraction (%)": 60,
+                "Right Atrial Mass Size (cm)": "4.3 by 3.1 cm",
+                "Pericardial Effusion": "Moderate",
+                "Tricuspid Insufficiency": "Trace-to-mild"
+            },
+            "changes_over_time": "After chemotherapy, the mass decreased in size to 1.7 by 3.0 cm and no longer obstructed the tricuspid valve."
+        },
+        {
+            "procedure_name": "Follow-up Echocardiogram",
+            "date": "Eight weeks after chemotherapy",
+            "findings": {
+                "Left Ventricular Ejection Fraction (%)": 45,
+                "Right Atrial Mass Size (cm)": "1.7 by 3.0 cm",
+                "Obstruction of Tricuspid Valve": "No longer obstructed",
+                "Pericardium Condition": "Appeared to be free of disease"
+            },
+            "changes_over_time": "Decreased from 60 percent to 45 percent after chemotherapy."
+        }
+    ]
+}

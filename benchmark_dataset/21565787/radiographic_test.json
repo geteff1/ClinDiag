@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroid ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal size and well-located gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radionuclide scintigraphy",
+            "date": "Not specified",
+            "findings": "Diffuse strongly reduced, although not absent, 99mTc-pertechnetate uptake by the thyroid gland after 30 min, suggesting a diagnosis of iodide transport defect (ITD).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

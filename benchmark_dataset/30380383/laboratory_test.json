@@ -1,0 +1,83 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "130 mmol per liter",
+                "potassium": "4.5 mmol per liter",
+                "chloride": "90 mmol per liter",
+                "bicarbonate": "23 mmol per liter",
+                "blood urea nitrogen": "27 mg per deciliter (9.5 mmol per liter)",
+                "creatinine": "2.2 mg per deciliter (190 μmol per liter; baseline level 0.6 to 0.7 mg per deciliter [50 to 60 μmol per liter])",
+                "glucose": "275 mg per deciliter (15.3 mmol per liter)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white-cell count": "15,100 per cubic millimeter with 86% polymorphonuclear leukocytes, 6% lymphocytes, 7% monocytes, and 0.5% eosinophils",
+                "hemoglobin": "11.0 g per deciliter",
+                "hematocrit": "34.7%",
+                "platelet count": "451,000 per cubic millimeter"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "protein": "2+",
+                "blood": "3+",
+                "microscopy": {
+                    "red_cells": ">100 with some dysmorphic",
+                    "white_cells": "20 to 50",
+                    "granular_casts": "5 to 10",
+                    "hyaline_casts": "0 to 2 per high-power field"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine collection",
+            "date": "Not specified",
+            "findings": {
+                "protein": "1.8 g",
+                "volume": "1.7 liters"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum complement factors",
+            "date": "Not specified",
+            "findings": {
+                "C3": "121 mg per deciliter (reference range 90 to 180)",
+                "C4": "33 mg per deciliter (reference range 10 to 40)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antistreptolysin O antibody titer",
+            "date": "Not specified",
+            "findings": {
+                "titer": "200 IU per milliliter (upper limit of normal range)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Biopsy",
+            "date": "By the third hospital day",
+            "findings": {
+                "creatinine": "3.2 mg per deciliter (280 μmol per liter)",
+                "microscopy": {
+                    "focal_fibrinoid_necrosis": "Present",
+                    "crescentic_pattern": "Early stage identified",
+                    "interstitium": "Focal inflammation noted"
+                }
+            },
+            "changes_over_time": "Creatinine level increased from 2.2 mg/dL to 3.2 mg/dL"
+        }
+    ]
+}

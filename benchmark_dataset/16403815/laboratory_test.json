@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid function test",
+            "date": "Not specified",
+            "findings": "TSH > 500 mU/liter, undetectable Tg (<0.1 ng/dL) with negative Tg antibodies",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Diagnostic whole-body scan (WBS)",
+            "date": "May 2005",
+            "findings": "Marked improvement showing only faint activity in the thyroid bed without evidence of abnormal uptake in skeletal sites",
+            "changes_over_time": "Prior scans showed several foci in the neck, skull, abdomen, and right upper femur"
+        },
+        {
+            "procedure_name": "Fine-needle aspiration (FNA)",
+            "date": "Not specified",
+            "findings": "Follicular cells with atypia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid surgery histopathological examination",
+            "date": "Not specified",
+            "findings": "Hyperplastic nodules consistent with dyshormonogenesis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "131I treatment",
+            "date": "August 2002, September 2003, November 2004",
+            "findings": "190 mCi in August 2002, 190 mCi in September 2003, 195 mCi in November 2004; Tg undetectable before therapy",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

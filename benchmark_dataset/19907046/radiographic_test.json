@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "chronic interstitial lung disease with possible pneumonitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest CT scan",
+            "date": "Not specified",
+            "findings": "clusters of branching nodular opacities in a tree-in-bud pattern, small bilateral pleural effusions, dilatation of the main pulmonary artery, and cardiomegaly",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasound examination of the renal allograft",
+            "date": "Not specified",
+            "findings": "a well-demarcated, hypoechoic parenchymal focus without a clear relationship to the collecting system, no evidence of hydronephrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the transplanted kidney",
+            "date": "Not specified",
+            "findings": "three T2-weighted hyperintense lesions, two in the upper pole and one in the lower pole, with surrounding T2-weighted hypointense signal resembling a cyst",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

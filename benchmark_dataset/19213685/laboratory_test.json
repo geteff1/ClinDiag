@@ -1,0 +1,116 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": {
+                    "value": 2400,
+                    "unit": "per mm3",
+                    "normal_range": "4,000–10,500",
+                    "status": "low"
+                },
+                "platelet_count": {
+                    "value": 196000,
+                    "unit": "per mm3",
+                    "normal_range": "140,000–415,000",
+                    "status": "within normal range"
+                },
+                "erythrocyte_sedimentation_rate": {
+                    "value": 29,
+                    "unit": "mm/hr",
+                    "normal_range": "0–20",
+                    "status": "high"
+                }
+            },
+            "changes_over_time": {
+                "white_cell_count": [
+                    {
+                        "date": "6-8 months before",
+                        "value": 2400
+                    },
+                    {
+                        "date": "6-8 weeks before",
+                        "value": 2000
+                    },
+                    {
+                        "date": "3 weeks before",
+                        "value": 2100
+                    }
+                ],
+                "platelet_count": [
+                    {
+                        "date": "6-8 months before",
+                        "value": 196000
+                    },
+                    {
+                        "date": "6-8 weeks before",
+                        "value": 177000
+                    },
+                    {
+                        "date": "3 weeks before",
+                        "value": 161000
+                    }
+                ],
+                "erythrocyte_sedimentation_rate": [
+                    {
+                        "date": "6-8 months before",
+                        "value": 29
+                    },
+                    {
+                        "date": "6-8 weeks before",
+                        "value": 6
+                    },
+                    {
+                        "date": "3 weeks before",
+                        "value": 12
+                    }
+                ]
+            }
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Test (ANA)",
+            "date": "Not specified",
+            "findings": {
+                "value": "<1:20 dilution",
+                "status": "negative"
+            },
+            "changes_over_time": "Detected ANAs at the hospital later on"
+        },
+        {
+            "procedure_name": "Anticardiolipin Antibody Test",
+            "date": "Not specified",
+            "findings": {
+                "IgG": {
+                    "value": "<11",
+                    "unit": "GPL units",
+                    "status": "negative"
+                },
+                "IgM": {
+                    "value": "<10",
+                    "unit": "MPL units",
+                    "status": "negative"
+                },
+                "IgA": {
+                    "value": 18,
+                    "unit": "APL units",
+                    "status": "elevated"
+                }
+            },
+            "changes_over_time": "Anticardiolipin IgG level was later detected as elevated at 42.3"
+        },
+        {
+            "procedure_name": "Electrophoresis",
+            "date": "Not specified",
+            "findings": {
+                "serum_protein": {
+                    "result": "normal"
+                },
+                "urine_protein": {
+                    "result": "normal"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

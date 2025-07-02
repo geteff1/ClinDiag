@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hormone analysis",
+            "date": "3 months",
+            "findings": {
+                "LH": "22.3 (1–8) U/liter",
+                "testosterone": "0.58 (0.3–2.3) ng/ml",
+                "17-hydroxyprogesterone": "6.70 (0.1–1.7) ng/ml",
+                "cortisol": "normal",
+                "ACTH response": "insufficient rise of testosterone after hCG stimulation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH stimulation test",
+            "date": "4.5 months",
+            "findings": {
+                "17-hydroxyprogesterone": "basally elevated, significant rise observed",
+                "androstenedione": "did not increase",
+                "DHEA": "did not increase",
+                "plasma ACTH level": "normal (10 pg/ml)",
+                "serum DHEA sulfate": "nondetectable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methemoglobin level measurement",
+            "date": "11 months",
+            "findings": {
+                "methemoglobin": "0.061 mol/mol hemoglobin (normal range, 0.001–0.015 mol/mol Hb)"
+            },
+            "changes_over_time": "Increased compared to normal range"
+        }
+    ]
+}

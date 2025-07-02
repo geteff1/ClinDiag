@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160–170 mm Hg",
+                "heart_rate": "Tachycardic",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "observations": [
+                    "Tachycardic",
+                    "Hypertensive"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

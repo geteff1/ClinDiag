@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Genetic Analysis",
+            "date": "Not specified",
+            "findings": "Detection of a missense mutation (C189R) on the maternal DUOXA2 allele and a large deletion comprising DUOX2, DUOXA2, and DUOXA1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Newborn Screening",
+            "date": "Not specified",
+            "findings": "Positive result for congenital hypothyroidism (TSH, 58 mU/liter).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum TSH Measurement",
+            "date": "14 days of age",
+            "findings": "High serum TSH level of 151 mU/liter and slightly low total T4 of 5.2 µg/dl.",
+            "changes_over_time": "Subsequent treatment with L-T4 reduced serum TSH to 7.0 mU/liter within 1 week."
+        },
+        {
+            "procedure_name": "L-T4 Treatment Monitoring",
+            "date": "Two years later",
+            "findings": "After 1 month of L-T4 withdrawal, serum TSH rose to 5.3 mU/liter, but serum free T4 concentration was within the reference range.",
+            "changes_over_time": "Patient maintained normal growth and remained clinically euthyroid with TSH levels of 4.2, 3.2, and 3.4 mU/liter over 12 months."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual Acuity Test",
+            "date": "2019",
+            "findings": "20/80 in right eye (OD) and 20/400 in left eye (OS)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intraocular Pressure (IOP) Measurement",
+            "date": "2019",
+            "findings": "38 mm Hg in OD and 32 mm Hg in OS despite maximal medical therapy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Facial Examination",
+            "date": "2019",
+            "findings": "Mild craniofacial dysmorphism observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Advanced Glaucomatous Damage Evaluation",
+            "date": "2019",
+            "findings": "Evidence of advanced glaucomatous damage and advanced visual field loss",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

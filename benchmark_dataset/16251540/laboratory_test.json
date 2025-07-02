@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "31.1 percent upon admission, 32.6 percent during examination.",
+            "changes_over_time": "Stable; measured twice daily remained stable."
+        },
+        {
+            "procedure_name": "Mean Corpuscular Volume",
+            "date": "Not specified",
+            "findings": "68 µm³.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.5 g per deciliter.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic examination",
+            "date": "Not specified",
+            "findings": "One duodenal polyp measuring approximately 2.1 cm, diffusely dysplastic, with features consistent with high-grade dysplasia and intramucosal carcinoma.",
+            "changes_over_time": "Progression from non-dysplastic features in earlier polyps to high-grade dysplasia and intramucosal carcinoma at current admission."
+        }
+    ]
+}

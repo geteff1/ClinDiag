@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 94 cm; Weight: 10.5 kg",
+            "relevant_findings": "Bone age retarded by 3.8 years compared to chronological age. MRI showed normal pituitary size. Endocrine analysis revealed spontaneous overnight GH secretion within normal to elevated range, integrated levels 14.2 ng/ml.",
+            "changes_over_time": "At age 16, height was 114 cm (SD -27.8) with low serum levels of IGF-I (7 ng/ml; normal 242–660), IGFBP-3 (543 ng/ml; normal 2500–4800), and acid-labile subunit (ALS 1.22 g/ml; normal 5.6–16)."
+        },
+        {
+            "date": "7.8 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Thrombocyte aggregation tests were negative for ADP, ristocetin, collagen, and epinephrine. Normal gross T cells, B cells, and natural killer cells.",
+            "changes_over_time": "Immunological evaluation showed hypergammaglobulinemia at 7.8 years normalized by age 15."
+        },
+        {
+            "date": "15 years",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Repeat thrombocyte aggregation test indicated no aggregation with ADP, collagen, or epinephrine. Weak aggregation with ristocetin.",
+            "changes_over_time": "Maintained low levels of IGF-I at age 15 despite GH treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "History of pruritic skin lesions and recurrent pulmonary infections noted. CT scan showed pulmonary fibrosis.",
+            "changes_over_time": "Progressive lung disease indicated by CT and chest radiography."
+        }
+    ]
+}

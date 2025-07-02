@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "January 2001",
+            "findings": "Hyperpigmented and hypopigmented areas, no bone spicule pigmentation of the retina.",
+            "changes_over_time": "No definite CNV lesion identified; staining observed."
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "February 2001",
+            "findings": "A small subfoveal hemorrhage in the right eye.",
+            "changes_over_time": "Visual acuity dropped from 20/60 to 20/80 in 24 hours; no definite CNV lesion found."
+        },
+        {
+            "procedure_name": "Computed tomography scan",
+            "date": "April 2001",
+            "findings": "No anatomic cause for sudden decrease in acuity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "June 2001",
+            "findings": "Increased atrophy and scarring consistent with an involuted choroidal neovascular membrane lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Optical coherence tomography",
+            "date": "January 2003",
+            "findings": "Subretinal changes consistent with fibrosis and cystoid edema in the right eye.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Goldmann perimetry",
+            "date": "January 2003",
+            "findings": "Central scotoma visible in the right eye.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

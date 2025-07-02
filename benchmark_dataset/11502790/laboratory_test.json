@@ -1,0 +1,63 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biochemical tests for pheochromocytoma",
+            "date": "Not specified",
+            "findings": {
+                "plasma_normetanephrine": "0.71 pmol/ml (0.10 – 0.61)",
+                "plasma_epinephrine": "1.17 pmol/ml (0.02 – 0.45)",
+                "plasma_metanephrine": "2.72 pmol/ml (0.06 – 0.31)",
+                "urinary_normetanephrine": "1.63 µmol/day (0.24 – 2.95)",
+                "urinary_epinephrine": "0.62 µmol/day (0 – 0.11)",
+                "urinary_metanephrine": "13.17 µmol/day (0.13 – 1.17)",
+                "elevated_fasting_plasma_glucose": "9.91 mmol/liter (Normal not specified)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vena caval sampling",
+            "date": "Not specified",
+            "findings": {
+                "plasma_epinephrine": "0.9 – 1.5 pmol/ml across seven samples",
+                "plasma_metanephrine": "2.8 – 3.4 pmol/ml across seven samples",
+                "comparison": "Plasma concentrations of metanephrine more than 2-fold higher than those of epinephrine",
+                "high_metanephrine_concentrations": "Found in left adrenal vein and inferior vena cava"
+            },
+            "changes_over_time": "Metanephrine showed less fluctuation (21% vs. 67% variation) compared to epinephrine"
+        },
+        {
+            "procedure_name": "[123I]MIBG scanning",
+            "date": "Not specified",
+            "findings": {
+                "focus_of_activity": "Upper abdomen, left and anterior to left lobe of liver",
+                "uptake": "Increased in right adrenal bed confirming localization"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "6-[18F]fluorodopamine PET scanning",
+            "date": "Not specified",
+            "findings": {
+                "radioactivity_location": "In the region of the previous right adrenalectomy",
+                "noted_activity": "Exhibited in right adrenal surgical bed, indicating recurrent pheochromocytoma"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "Not specified",
+            "findings": {
+                "findings": "Diffusely thickened medial limb of left adrenal gland; no discrete mass detected"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": {
+                "findings": "Somewhat thickened left adrenal gland; no evidence of discrete mass"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

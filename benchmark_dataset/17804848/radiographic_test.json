@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "computed tomography (CT) of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "No abscess or fluid collection surrounding the aortobifemoral graft.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "magnetic resonance angiogram (MRA)",
+            "date": "Not specified",
+            "findings": "Patent aortobifemoral bypass graft and right femoral–popliteal bypass graft with no evidence of perigraft abnormality.",
+            "changes_over_time": "Repeated MRA showed no overt evidence of endovascular infection but did show a close association of the proximal aortobifemoral bypass graft with the terminal duodenum."
+        },
+        {
+            "procedure_name": "indium-labeled white-cell study",
+            "date": "Not specified",
+            "findings": "No findings to suggest focal active infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "transesophageal echocardiography",
+            "date": "Not specified",
+            "findings": "Normal ventricular function, moderately calcific aortic valve with no major stenosis or regurgitation, normal mitral, tricuspid, and pulmonary valves, no evidence of vegetation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

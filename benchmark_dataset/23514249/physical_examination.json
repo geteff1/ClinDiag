@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.2°C",
+                "blood_pressure": "138/88 mm Hg",
+                "pulse": "106 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "conjunctivae": "injected",
+                "dentition": "poor",
+                "breath_sounds": "coarse with mild wheezing",
+                "liver": "tender, palpable liver tip 2 cm below costal margin",
+                "rash": "fine, erythematous, blanching, reticular, macular rash on extremities and anterior trunk",
+                "joint_findings": "hands, elbows, knees, and ankles diffusely swollen and warm with effusions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Two days before admission",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "white_cell_count": "normal",
+                "alanine_aminotransferase": "110 U per liter",
+                "aspartate_aminotransferase": "73 U per liter"
+            },
+            "changes_over_time": "Fever resolved but pain increased and became more severe, with patient rating the pain at 10/10."
+        }
+    ]
+}

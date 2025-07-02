@@ -1,0 +1,66 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin (g/dl)": "15.7 (normal range: 11.5–15.5)",
+                "Hematocrit (%)": "43.9 (normal range: 35.0–45.0)",
+                "White-cell count (per μl)": "10,050 (normal range: 4500–13,500)",
+                "Platelet count (per μl)": "434,000 (normal range: 150,000–450,000)",
+                "Mean corpuscular volume (fl)": "81.1 (normal range: 77.0–95.0)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Metabolic Panel",
+            "date": "1 Month before Presentation to ED",
+            "findings": {
+                "Sodium (mmol/liter)": "132 (normal range: 135–145)",
+                "Potassium (mmol/liter)": "4.7 (normal range: 3.4–5.0)",
+                "Chloride (mmol/liter)": "91 (normal range: 98–108)",
+                "Carbon dioxide (mmol/liter)": "20 (normal range: 23–32)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes and Metabolic Panel",
+            "date": "9 Days before Presentation to ED",
+            "findings": {
+                "Sodium (mmol/liter)": "128 (normal range: 135–145)",
+                "Potassium (mmol/liter)": "4.3 (normal range: 3.4–5.0)",
+                "Chloride (mmol/liter)": "88 (normal range: 98–108)",
+                "Carbon dioxide (mmol/liter)": "19 (normal range: 23–32)"
+            },
+            "changes_over_time": "Decreased sodium level from 132 to 128 mmol/liter; slightly increased potassium from 4.7 to 4.3 mmol/liter"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "Urea nitrogen (mg/dl)": "30 (normal range: 5–20)",
+                "Creatinine (mg/dl)": "0.70 (normal range: 0.60–1.50)",
+                "Glucose (mg/dl)": "88 (normal range: 70–110)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Celiac Disease Testing",
+            "date": "Not specified",
+            "findings": {
+                "tissue transglutaminase IgA": ">300 IU/mL (normal range: 0–15, suggestive of celiac disease)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Sodium (mmol/liter)": "113 (normal range: 135–145)",
+                "Potassium (mmol/liter)": "5.5 (normal range: 3.4–5.0)",
+                "Cortisol level (μg/dl)": "3.7 (normal range: 5 to 15)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

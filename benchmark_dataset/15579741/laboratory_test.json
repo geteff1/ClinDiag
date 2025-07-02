@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "6.5 mg/dL; normal range 8.2–10.6 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "5.2 mg/dL; normal range 2.5–5.0 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum PTH",
+            "date": "Not specified",
+            "findings": "470 pg/mL; normal range 12–72 pg/mL",
+            "changes_over_time": "Increased to 653 pg/mL on reexamination"
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL and 8.3 mg/dL; normal range 8.2–10.6 mg/dL",
+            "changes_over_time": "Serum calcium levels dropped to 7.8 mg/dL on reexamination"
+        },
+        {
+            "procedure_name": "Serum 1,25-dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "7.4 pg/mL; normal range 12–40 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum 25-hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "31.3 ng/mL; normal range 10–40 ng/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum alkaline phosphatase",
+            "date": "Not specified",
+            "findings": "45 IU/L; normal range 30–125 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Uric Acid",
+            "date": "Not specified",
+            "findings": "2.6 mg/dL; normal range 3.5–7.2 mg/dL",
+            "changes_over_time": "Consistently low serum uric acid levels observed in affected members"
+        },
+        {
+            "procedure_name": "Serum TSH",
+            "date": "Not specified",
+            "findings": "2.53 mIU/L; normal range 0.5–4.8 mIU/L",
+            "changes_over_time": "Intermittently elevated in affected members"
+        }
+    ]
+}

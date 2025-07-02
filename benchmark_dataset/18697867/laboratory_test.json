@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Androgen binding assay",
+            "date": "Not specified",
+            "findings": "Normal androgen binding, Kd 0.9 (normal range 0.8–1.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LHRH test",
+            "date": "Not specified",
+            "findings": "Basal LH 15.7 IU/liter, Peak LH 68.8 IU/liter; Basal FSH 15.5 IU/liter, Peak FSH 34.7 IU/liter; Basal testosterone 9.6 nmol/liter, Peak testosterone 32.3 nmol/liter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing (AR Gene Sequencing)",
+            "date": "Not specified",
+            "findings": "Mutation identified: Arg629Trp; CAG repeats = 29 (normal range 11-31).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transactivation assay",
+            "date": "Not specified",
+            "findings": "Mutant AR transactivation was 40% higher than wild type at the highest DHT concentration tested; no statistically significant difference.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

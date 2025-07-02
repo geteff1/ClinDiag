@@ -1,0 +1,64 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.9°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Normal examination except for temperature",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "blood_pressure": "118/70 mmHg",
+                "pulse": "77 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "findings": "Petechiae in the oropharynx, gingival bleeding, and cutaneous ecchymoses; remainder of the examination was normal",
+                "date": "Second hospital admission"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7th hospital day",
+            "vital_signs": {
+                "temperature": "38.4°C",
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "Abdominal pain; neutropenia, nausea, diarrhea developed",
+                "date": "7th hospital day"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "31st hospital day",
+            "vital_signs": {
+                "temperature": "38.6°C",
+                "blood_pressure": "110/60 mmHg",
+                "pulse": "112 bpm",
+                "respiratory_rate": "22 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "findings": "Crackles in both lung bases, 3+ edema of the legs, numerous erythematous cutaneous nodules, scattered petechiae on legs and trunk, erythema of the fourth toe and papule on third metatarsal, necrotic plaque on left heel; no lymphadenopathy",
+                "date": "31st hospital day"
+            },
+            "changes_over_time": "Erythematous lesions present on previous examinations developed into firm cutaneous nodules on the 31st day."
+        }
+    ]
+}

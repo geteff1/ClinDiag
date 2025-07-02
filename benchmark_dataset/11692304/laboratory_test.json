@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma Lactate",
+            "date": "Not specified",
+            "findings": "Median venous plasma lactate levels were 12/H115065.3 mmol/L, which is 9-12-fold greater than the upper limit of normal (2.1 mmol/L).",
+            "changes_over_time": "Median initial venous plasma lactic acid level was 10.1 mmol/L (range, 4.6–25.7 mmol/L) with a median peak level of 15.2 mmol/L (range, 9.6–39.6 mmol/L). Nonsurvivors showed a notable increase in lactate levels while survivors did not experience such significant changes."
+        },
+        {
+            "procedure_name": "Arterial pH",
+            "date": "Not specified",
+            "findings": "Initial mean arterial pH was lower in nonsurvivors (7.13) than in survivors (7.31).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ASpartate Aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "AST levels were near normal at presentation; median initial AST level for nonsurvivors was 52 U/L, while for survivors it was 85 U/L, both of which are above the normal range (0–37 U/L).",
+            "changes_over_time": "AST levels increased during hospitalization, to 4-fold to 5-fold greater than the ULN."
+        },
+        {
+            "procedure_name": "Anion Gap",
+            "date": "Not specified",
+            "findings": "The median initial serum anion gap was 21.5 mEq/L, while the median peak was 28 mEq/L.",
+            "changes_over_time": "Change in anion gap was positively related to mortality."
+        },
+        {
+            "procedure_name": "Serum Bicarbonate",
+            "date": "Not specified",
+            "findings": "Median initial serum bicarbonate level was 14.0 mEq/L (range, 5–20 mEq/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Serum lipase levels were elevated in 6 patients, indicating concurrent chemical pancreatitis; levels ranged from 0.3-fold to 39-fold greater than the ULN.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatine Phosphokinase (CPK)",
+            "date": "Not specified",
+            "findings": "CPK levels were elevated (1.2-fold to 25-fold above normal) in 6 patients during hospitalization.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

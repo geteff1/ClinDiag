@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Paced rhythm with no ectopy. A pacemaker rate of 88 beats per minute.",
+            "changes_over_time": "The initial ECG showed complete heart block and a ventricular escape rhythm of 30 to 33 beats per minute 6 years earlier."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild concentric left ventricular hypertrophy, ejection fraction of 54%, marked dilatation and hypokinesia of the right ventricle, moderate-to-severe tricuspid valve regurgitation, and evidence of pulmonary arterial hypertension.",
+            "changes_over_time": "No appreciable progression of aortic-valve calcification compared to earlier echocardiograms; right ventricular size and function significantly deteriorated."
+        },
+        {
+            "procedure_name": "Biopsy (Autopsy findings)",
+            "date": "Not specified",
+            "findings": "Interstitial fibrosis, traction bronchiectasis, cystically dilated air spaces indicative of honeycomb fibrosis, pleural plaques, and diffuse alveolar damage with hyaline membranes.",
+            "changes_over_time": "The findings suggest progression of pulmonary asbestosis and development of an accelerated phase of chronic interstitial pneumonia."
+        }
+    ]
+}

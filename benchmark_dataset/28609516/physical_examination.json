@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "pulse": "88/min",
+                "blood pressure": "Normotensive",
+                "respiratory rate": "Not specified"
+            },
+            "relevant_findings": {
+                "rash": {
+                    "description": "Erythematous rash characterized by palpable purpura and petechiae",
+                    "location": "From axilla to lower abdomen, back, and lower extremities",
+                    "features": "Face, neck, chest, upper extremities, and oral and nasal mucosa spared"
+                },
+                "abdomen": {
+                    "description": "Nontender with a healed postoperative scar"
+                },
+                "cardiopulmonary": "Unremarkable",
+                "musculoskeletal": "Unremarkable",
+                "urinalysis": {
+                    "microscopic_hematuria": "6-10 red blood cells",
+                    "proteinuria": "1+"
+                },
+                "punch_biopsy": "Performed on rash in lower abdomen"
+            },
+            "changes_over_time": "Improvement of rash initially with prednisone; recurrence at 10 mg/d dosing"
+        }
+    ]
+}

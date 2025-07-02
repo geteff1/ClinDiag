@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "1980",
+            "vital_signs": {
+                "blood_pressure": "lower normal range",
+                "serum_magnesium": "0.98 mmol/L"
+            },
+            "relevant_findings": {
+                "hypokalemic_alkalosis": true,
+                "renal_insufficiency": true,
+                "polyuria": "3-5 L/d",
+                "reduced_urine_concentrating_ability": true
+            },
+            "changes_over_time": {
+                "renal_insufficiency": "mildly progressed",
+                "serum_calcium": "upper normal to high range",
+                "urinary_concentrating_ability": "blunted response to thirsting and desmopressin"
+            }
+        },
+        {
+            "date": "2012",
+            "vital_signs": {
+                "serum_magnesium": "up to 1.22 mmol/L"
+            },
+            "relevant_findings": {
+                "persistent_hypocalciuria": true
+            },
+            "changes_over_time": "remained unchanged since initial diagnosis"
+        },
+        {
+            "date": "2013",
+            "vital_signs": {
+                "serum_potassium": "2.6 mmol/L",
+                "blood_pressure": "105/55 mmHg",
+                "serum_calcium": "ranged from 2.54 to 2.59 mmol/L",
+                "serum_magnesium": "0.98-1.03 mmol/L"
+            },
+            "relevant_findings": {
+                "hypokalemic_alkalosis": true,
+                "hypocalciuria": true
+            },
+            "changes_over_time": {
+                "history_of_hypokalemia": "present since age 8 years"
+            }
+        }
+    ]
+}

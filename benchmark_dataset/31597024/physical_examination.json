@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "7 days before admission",
+            "vital_signs": {
+                "temperature": "37.1°C",
+                "pulse": "101 bpm",
+                "blood_pressure": "147/98 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "neck": "supple",
+                "neurologic": "normal except for ptosis and miosis of the left eye",
+                "general": "appeared uncomfortable, lying in bed in a dark room, alert and oriented"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 days before admission",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "110 bpm",
+                "blood_pressure": "160/110 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "mental_status": "alert but confused",
+                "neurologic": "remained unchanged from previous examination"
+            },
+            "changes_over_time": "Mental status declined overall since earlier examination with increased confusion"
+        },
+        {
+            "date": "On admission",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "pulse": "90 bpm",
+                "blood_pressure": "106/65 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented to name",
+                "eyes": "sclerae and conjunctivae clear, pupils symmetric and reactive",
+                "neurological": {
+                    "gaze": "repetitive blinking and squinting in the left eye",
+                    "motor": "no definite ptosis or facial droop, mild resistance to neck flexion"
+                },
+                "musculoskeletal": "ulcers on distal fingers, no rashes noted",
+                "tone_strength": "normal muscle tone and strength"
+            },
+            "changes_over_time": "Alertness improved since previous admission; verbal output increased to include words and phrases"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte panel",
+            "date": "Not specified",
+            "findings": {
+                "potassium": {
+                    "value": "<1.5 mmol/liter",
+                    "normal_range": "3.4–4.8 mmol/liter"
+                },
+                "sodium": {
+                    "value": "133 mmol/liter",
+                    "normal_range": "135–145 mmol/liter"
+                },
+                "calcium": {
+                    "value": "9.3 mg/dl",
+                    "normal_range": "8.5–10.5 mg/dl"
+                },
+                "phosphorus": {
+                    "value": "1.5 mg/dl",
+                    "normal_range": "2.6–4.5 mg/dl"
+                }
+            },
+            "changes_over_time": "Level of potassium increased to 50.6 mmol per liter in stool analysis, likely indicating loss through diarrhea."
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cell_count": {
+                    "value": "22,600 per mm3",
+                    "normal_range": "4500–11,000 per mm3"
+                },
+                "hematocrit": {
+                    "value": "31.5%",
+                    "normal_range": "41.0–53.0%"
+                },
+                "platelet_count": {
+                    "value": "445,000 per mm3",
+                    "normal_range": "150,000–400,000 per mm3"
+                }
+            },
+            "changes_over_time": "White cell count increased from 18,000 per mm3 to 22,600 per mm3."
+        },
+        {
+            "procedure_name": "Thyroid panel",
+            "date": "Not specified",
+            "findings": {
+                "thytropin": {
+                    "value": "6.7 μU per milliliter",
+                    "normal_range": "0.0 to 5.0 μU per milliliter"
+                },
+                "free_thyroxine": {
+                    "value": "0.9 ng per deciliter",
+                    "normal_range": "0.9 to 1.8 ng per deciliter"
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool analysis",
+            "date": "Second day of admission",
+            "findings": {
+                "sodium": {
+                    "value": "87 mmol per liter",
+                    "context": "High fecal sodium level indicating secretory diarrhea"
+                },
+                "potassium": {
+                    "value": "50.6 mmol per liter",
+                    "context": "Indicating significant losses in diarrhea"
+                },
+                "osmolality": {
+                    "value": "271 mOsm per kg",
+                    "context": "Consistent with secretory diarrhea"
+                },
+                "fat_content": {
+                    "value": "33%",
+                    "normal_range": "<20%"
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIV testing",
+            "date": "Not specified",
+            "findings": {
+                "HIV antibodies": {
+                    "value": "Positive",
+                    "comment": "Confirmed by Western blot analysis"
+                },
+                "viral_load": {
+                    "value": "334,000 copies per milliliter",
+                    "comment": "Independently verified diagnosis"
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

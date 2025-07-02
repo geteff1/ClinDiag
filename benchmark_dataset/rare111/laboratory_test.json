@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood exams",
+            "date": "Not specified",
+            "findings": "Hyponatremia (132 mEq/L), C-reactive protein (2 mg/dL), elevated D-dimer (3608 ng/mL), procalcitonin level (51 microg/L), normal lactates (1.2 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Initial - Not specified; Six hours after admission",
+            "findings": "Initial: Hypoxia (pO2 52 mmHg, SpO2 90%). Six hours after admission: Respiratory and lactic acidosis (pH 7.1, PaO2 45 mmHg, PaCO2 42 mmHg, HCO3- 16.5 mmol/L, BE -15.8 mmol/L, SpO2 73.3% in oxygen therapy FiO2 100%, lactates 9.7 mmol/L).",
+            "changes_over_time": "Initial hypoxia progressed to respiratory and lactic acidosis six hours after admission."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Initial - Not specified; Repeat after 24 hours",
+            "findings": "Initial: Right upper lobe opacification. 24 hours later: Complete right upper lobe, right lower and left mid-basal opacification, with diffuse thickening of the bilateral lower-middle lung.",
+            "changes_over_time": "Opacification increased from initial to repeat chest X-ray 24 hours later."
+        },
+        {
+            "procedure_name": "Bronchoalveolar lavage culture",
+            "date": "Not specified",
+            "findings": "Positive for Pseudomonas aeruginosa with a good sensitivity profile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "July 2001",
+            "findings": "Mesencephalic AVM with dilation of the vein of Galen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebral Angiography",
+            "date": "October 2001",
+            "findings": "Large mesencephalic AVM (Spetzler–Martin Grade 4) supplied mainly by two posterior cerebral artery feeding branches, draining into the vein of Galen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) Scan",
+            "date": "February 2003",
+            "findings": "Presence of a patent ductus venosus (PDV).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cerebral MRI",
+            "date": "2005",
+            "findings": "Disappearance of the AVM nidus.",
+            "changes_over_time": "Complete regression of the AVM confirmed by angiography in January 2006."
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "January 2006",
+            "findings": "Complete regression of the AVM with a residual deep venous angioma characterized by a mesencephalic vein draining into the straight sinus and the vein of Galen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

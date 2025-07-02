@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/80 mm Hg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general_examination": "The patient was short but muscular (height 160.5 cm, weight 58.7 kg).",
+                "gynecomastia": "Marked bilateral gynecomastia.",
+                "genital_examination": "The phallus was 8 cm long with severe chordee. The scrotum was bifid with a hypospadiac meatus in the perineum. A firm, tender mass measuring 3 x 8 cm was palpable in the neck of the left hemiscrotum, extending into the left inguinal canal. A small gonad was situated in the neck of the right hemiscrotum.",
+                "rectal_examination": "A prostate was palpable."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

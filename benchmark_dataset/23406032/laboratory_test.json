@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyrotropin Level",
+            "date": "Not specified",
+            "findings": "1.74 μU per milliliter (reference range, 0.40 to 5.00)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fine-Needle Aspiration Biopsy",
+            "date": "Not specified",
+            "findings": "Highly suspicious for papillary carcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcitonin Level",
+            "date": "4 weeks postoperatively",
+            "findings": "281 pg per milliliter (reference range, <8)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CEA Level",
+            "date": "4 weeks postoperatively",
+            "findings": "13.1 ng per milliliter (reference range, <3.4)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal ECG.",
+            "changes_over_time": "QTc interval of 501 msec noted approximately 4 hours after arrival, indicating significant QT prolongation."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "pH of 5.5 and specific gravity of 1.008; dipstick testing was normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Toxicologic screening",
+            "date": "Not specified",
+            "findings": "Positive for trazodone at 1826 μg per liter and negative for common drugs of abuse in urine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Venous blood gas analysis",
+            "date": "7.5 hours after presentation",
+            "findings": "Acidemia (pH 7.23), increased serum anion gap from 21 to 34 mmol per liter, and drop in serum bicarbonate level from 23.9 to 8.3 mmol per liter.",
+            "changes_over_time": "At 10 hours after presentation, a small increase in the serum anion gap from 34 to 35 mmol per liter and further drop in serum bicarbonate level from 8.3 to 5.7 mmol per liter."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not performed due to agitation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum toxicologic screening",
+            "date": "10 hours after presentation",
+            "findings": "Ethylene glycol level of 351 mg per deciliter (toxic value, ≥20 mg per deciliter).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

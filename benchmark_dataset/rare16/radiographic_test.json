@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ECG revealed typical T wave alternans, markedly prolonged QT-intervals (RR = 570 ms, QT = 501 ms, QTc = 664 ms).",
+            "changes_over_time": "At the age of 5, the ECG showed slightly prolonged QTc (RR = 559 ms, QT = 346 ms, QTc = 462 ms)."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Showed no congenital heart defects nor hypertrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "At the age of 7 months",
+            "findings": "Displayed hypsarrhythmia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

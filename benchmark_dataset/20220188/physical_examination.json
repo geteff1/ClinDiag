@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.3°C",
+                "blood_pressure": "122/76 mm Hg",
+                "pulse": "72 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "lung": "Crackles at the lung bases.",
+                "abdominal": "Distended and tense abdomen, nontender.",
+                "edema": "3+ pitting edema of the legs to the waist.",
+                "strength": "Decreased strength in the arms and legs.",
+                "contractures": "Contractures of the hands."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

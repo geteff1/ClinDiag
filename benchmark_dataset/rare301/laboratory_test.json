@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary ascites analysis",
+            "date": "Not specified",
+            "findings": "Normal male karyotype and a β-2-microglobulin value of 2.1 mg/L, indicating good renal prognosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fetal ultrasonography",
+            "date": "1 day post-operatively",
+            "findings": "No residual ascites, correct stent position, absence of hydronephrosis, and normalization of the AFI to 10.8 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cystography",
+            "date": "1 week after birth",
+            "findings": "Confirmed a right-sided grade I vesico-ureteral reflux (VUR).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DMSA scan and Cr-EDTA study",
+            "date": "6 months after birth",
+            "findings": "Normal kidneys with symmetrical function and good absolute renal clearance of 71.9 ml/minute/1.73 m².",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat cystography",
+            "date": "12 months after birth",
+            "findings": "Minimal residual grade I VUR on the right side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat Cr-EDTA study",
+            "date": "3 years after birth",
+            "findings": "Normal renal clearance of 151 ml/minute/1.73 m².",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

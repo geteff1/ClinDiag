@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Identified three ClC-Kb allelic variants in both patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutation analysis",
+            "date": "Not specified",
+            "findings": "Two new mutations (L27R and W610X) and a G to C substitution found in ClC-Kb gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte test",
+            "date": "Patient 1: At 7 years; Patient 2: At 3 years 6 months",
+            "findings": "Patient 1: Serum sodium 130, chloride 81, potassium 2.1 mmol/L; Patient 2: Serum sodium 123, chloride 68, potassium 1.8 mmol/L.",
+            "changes_over_time": "Patient 2 showed catch-up growth, but urine calcium excretion remained low."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified, but diagnosis relates to renal electrolyte transporter dysfunction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

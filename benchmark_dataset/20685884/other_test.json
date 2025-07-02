@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Insulin Therapy",
+            "date": "Not specified",
+            "findings": "Initial insulin dose was calculated to be 54 U/d based on the patient's weight of 178 pounds. Patient monitored glucose levels, with goals of 65–90 mg/dl before meals and less than 120 mg/dl 1 hour after meals.",
+            "changes_over_time": "By week 12, patient’s SMBG levels were consistently at goal. By gestational week 16, her A1C was 6.9%, and by week 20, it was less than 5.3%, where it remained for the rest of her pregnancy."
+        },
+        {
+            "procedure_name": "Dilated Retinal Examination",
+            "date": "Not specified",
+            "findings": "The examination revealed background diabetic retinopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Glucose Monitoring",
+            "date": "Not specified",
+            "findings": "Fasting glucose levels were less than 90 mg/dl, and glucose levels after meals were less than 150 mg/dl.",
+            "changes_over_time": "Glucose levels improved over time with adjustments in insulin therapy."
+        }
+    ]
+}

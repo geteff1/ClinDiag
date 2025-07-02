@@ -1,0 +1,142 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "One Month before Admission",
+            "findings": "27.5%",
+            "changes_over_time": "Increased to 30.6% on admission."
+        },
+        {
+            "procedure_name": "White blood cells",
+            "date": "One Month before Admission",
+            "findings": "10,300 per mm3",
+            "changes_over_time": "Increased to 11,200 per mm3 on admission."
+        },
+        {
+            "procedure_name": "Differential count - Neutrophils",
+            "date": "One Month before Admission",
+            "findings": "43%",
+            "changes_over_time": "Decreased to 26% on admission."
+        },
+        {
+            "procedure_name": "Differential count - Lymphocytes",
+            "date": "One Month before Admission",
+            "findings": "47%",
+            "changes_over_time": "Increased to 55% on admission."
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "One Month before Admission",
+            "findings": "64 µm3",
+            "changes_over_time": "Increased to 67 µm3 on admission."
+        },
+        {
+            "procedure_name": "Iron",
+            "date": "One Month before Admission",
+            "findings": "10 µg/dl",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Iron-binding capacity",
+            "date": "One Month before Admission",
+            "findings": "198 µg/dl",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "One Month before Admission",
+            "findings": "62 mm/hr",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "One Month before Admission",
+            "findings": "550,000 per mm3",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "One Month before Admission",
+            "findings": "5.2 g/dl",
+            "changes_over_time": "Decreased to 4.5 g/dl on admission."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "One Month before Admission",
+            "findings": "2.0 g/dl",
+            "changes_over_time": "Decreased to 1.6 g/dl on admission."
+        },
+        {
+            "procedure_name": "Globulin",
+            "date": "One Month before Admission",
+            "findings": "3.2 g/dl",
+            "changes_over_time": "Decreased to 2.9 g/dl on admission."
+        },
+        {
+            "procedure_name": "Urea nitrogen",
+            "date": "One Month before Admission",
+            "findings": "4 mg/dl",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "One Month before Admission",
+            "findings": "0.3 mg/dl",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "One Month before Admission",
+            "findings": "136 mmol/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "One Month before Admission",
+            "findings": "3.5 mmol/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "One Month before Admission",
+            "findings": "107 mmol/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "One Month before Admission",
+            "findings": "22.6 mmol/liter",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antigliadin antibodies",
+            "date": "Not specified.",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sweat chloride test",
+            "date": "Not specified.",
+            "findings": "Negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum IgA level",
+            "date": "Not specified.",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Computed Tomographic scan",
+            "date": "One week before admission",
+            "findings": "Changes identical to previous scan; small amount of intraperitoneal fluid and diffuse hepatic fatty infiltration observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified.",
+            "findings": "Reticulonodular interstitial infiltrate; 'tree-in-bud' appearance.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

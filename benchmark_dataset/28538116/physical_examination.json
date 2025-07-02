@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7°C",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "173/77 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "uterine_size": "Similar in size to a pregnant woman at 12 weeks of gestation",
+                "mass": "Heterogeneous mass identified, measuring 6.4 cm by 7.8 cm by 8.4 cm",
+                "adnexa": "Difficult to assess due to enlarged uterus",
+                "urine_dipstick": "Positive for blood",
+                "postvoiding_residual": "270 ml"
+            },
+            "changes_over_time": {
+                "mass_size": "Reportedly unchanged in size during follow-up examination."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "uterine_size": "Similar in size to a pregnant woman at 16 weeks of gestation",
+                "mass": "Reportedly unchanged in size from a previous examination"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "mass": "Increased in size to 6.9 cm by 8.8 cm by 10.3 cm with central cystic components",
+                "endometrial_echo": "4 mm, no pelvic free fluid"
+            },
+            "changes_over_time": {
+                "mass_size": "Increased compared to prior measurement."
+            }
+        }
+    ]
+}

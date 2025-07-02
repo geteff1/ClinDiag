@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Pleural calcifications and plaques; diffuse, bilateral peripheral reticular opacities, more prominent in the lower lobes.",
+            "changes_over_time": "Unchanged from previous examinations."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "New bilateral pulmonary opacities thought to represent multifocal pneumonia or edema.",
+            "changes_over_time": "Progressive lower-lobe consolidation and ground-glass opacities superimposed on previously described findings."
+        },
+        {
+            "procedure_name": "Computed tomographic (CT) scans of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Multiple patchy ground-glass opacities and consolidation in gravity-dependent areas of the lungs; mild pulmonary edema; chronic lung and pleural changes consistent with asbestosis; thyroid nodules; mediastinal lymphadenopathy.",
+            "changes_over_time": "All findings had been present on previous examinations."
+        },
+        {
+            "procedure_name": "CT of the neck and thorax",
+            "date": "Not specified",
+            "findings": "Hypodensity in the right thyroid gland; thickening and irregularity of the esophagus; right hilar and mediastinal lymphadenopathy up to 2.1 cm in diameter; multiple small, low-attenuation lesions in the liver; perihepatic ascites; circumferential thickening of the gallbladder wall.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Pleural findings seen previously; at least four solid hepatic lesions (up to 2.9 cm in diameter); hypodensities in segment 8 thought to represent thrombosed intrahepatic branches of the right portal vein.",
+            "changes_over_time": "Multiple low-attenuation lesions had not been present previously."
+        },
+        {
+            "procedure_name": "Barium-swallow examination",
+            "date": "Not specified",
+            "findings": "Normal swallowing mechanism; abnormal mucosal pattern of the esophagus, with multiple reticulations and a cobblestone appearance; longitudinal muscular hypertrophy.",
+            "changes_over_time": "Severe dysmotility noted."
+        }
+    ]
+}

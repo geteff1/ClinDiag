@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Video electroencephalogram (VEEG)",
+            "date": "Not specified",
+            "findings": "At 1 month and 15 days: interictal multifocal epileptiform discharges, noticeable bilaterally in the occipital region; at 8 months: extensive, multifocal epileptic discharges between seizures; at 1 year and 2 months: slow background activity, no occipital-dominated rhythm, interictal multifocal epileptiform discharges; at 1 year and 6 months: no occipital dominant rhythm, bilateral occipital spikes, slow waves, no seizures detected.",
+            "changes_over_time": "Progression from interictal discharges to extensive, multifocal epileptic discharges, then to slow background activity with no seizures detected at 1 year and 6 months."
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "27th day after birth",
+            "findings": "Blurred T1 high signal in the hindlimb of the internal capsule, lack of white matter, high T2 signal.",
+            "changes_over_time": "At 6 months: deep sulci, delayed myelination, little white matter, and thin corpus callosum; brain atrophy observed at 2 years and 10 months."
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "2 years and 10 months",
+            "findings": "Demonstrated brain atrophy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "5 months",
+            "findings": "No pathogenic variants found that were extremely consistent with the phenotype.",
+            "changes_over_time": "Trio sequencing at 2 years and 5 months revealed a compound heterozygous variant of the ACTL6B gene."
+        }
+    ]
+}

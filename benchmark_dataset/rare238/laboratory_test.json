@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Interictal EEG showed slow spike-wave discharges originating from bilateral temporal lobes. EEG registered three seizures during the ictal period, with epileptiform discharges originating from the left temporal-occipital junction and gradually generalizing to the bilateral cerebral hemispheres.",
+            "changes_over_time": "At the 2 months follow-up, EEG registered occasional epileptiform discharges in bilateral temporal lobes during the interictal period. At the 11 months follow-up, there was only one focal impaired awareness behavior arrest seizure due to stopping medication."
+        },
+        {
+            "procedure_name": "SEEG",
+            "date": "Not specified",
+            "findings": "SEEG registered epileptiform discharges mainly originating from heterotopic nodes in the left occipital lobe, temporal-occipital junctions (both left and right), right superior temporal gyrus, and middle temporal gyrus posterior during the interictal period. Ictal onset was registered from the left temporal-occipital junction heterotopic nodes.",
+            "changes_over_time": "Post-coagulation SEEG registered a significant reduction in epileptiform discharges during the interictal period."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "MRI showed heterotopic nodules of grey matter in the bilateral temporal and occipital lobes adjacent to posterior horns of the lateral ventricles, and thick bands of heterotopic grey matter extending along the posterior horns of the lateral ventricles.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET/MRI",
+            "date": "Not specified",
+            "findings": "PET/MRI revealed unevenly attenuated glucose metabolism in heterotopic nodules.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified a heterozygous missense mutation: RELN c.331G>A, amino acid alteration: p.G111R, present in the patient and also found in the asymptomatic mother. The father had a wild-type genotype.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

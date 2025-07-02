@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lysosomal acid lipase measurement",
+            "date": "Not specified",
+            "findings": "<3 pmol/h/mL (reference value 69-203 pmol/h/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biochemical tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": {
+                "total_cholesterol": "210 mg/dL",
+                "LDL": "132 mg/dL",
+                "HDL": "25 mg/dL",
+                "triglycerides": "184 mg/dL"
+            },
+            "changes_over_time": "Dyslipidemia was observed"
+        }
+    ]
+}

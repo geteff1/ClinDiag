@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth parameters",
+            "date": "11 months",
+            "findings": "Weight: 5700g, Height: 65cm, Head circumference (PC): 42cm (SD: -3.54 for waist, -4.4 for weight, -3.25 for cranial perimeter)",
+            "changes_over_time": "Increased weight to 12.3kg, height to 91cm, PC to 47cm at 4 years; later increased to 47kg, 148cm, and PC 51 at 16 years."
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "4 years",
+            "findings": "Normal EEG in both awake and drowsy states; no seizure activity present.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "X-ray examination of hands",
+            "date": "11 months and 16 years",
+            "findings": "Relative shortness of tubular bones, especially of distal and middle phalanges.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytogenetic evaluation",
+            "date": "11 months",
+            "findings": "Mosaic karyotype: 46,XY,del (4)(p16.3) [6.6%]/46,XY[93.4%]",
+            "changes_over_time": "FISH analysis at 4 years revealed a 65% percent mosaic 4p16.3 deletion."
+        }
+    ]
+}

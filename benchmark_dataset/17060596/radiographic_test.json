@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "brain CT scan",
+            "date": "Not specified",
+            "findings": "marked mid-line shift in the direction opposite the craniectomy site with subfalcine herniation and effacement of the peripontine cisterns",
+            "changes_over_time": "Follow-up brain CT scan confirmed resolution of the tissue shifts and herniation"
+        },
+        {
+            "procedure_name": "brain CT scan",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "1H MRS at 3 years was normal"
+        },
+        {
+            "procedure_name": "1H MRS",
+            "date": "Not specified",
+            "findings": "very high N-acetyl aspartate (NAA)/choline (Cho) ratio for age, excess of glutamate/glutamine, and large lipid peaks in the thalamus, white matter, and cortex",
+            "changes_over_time": "Follow-up MRS at 3 years showed no lipid signals detected and all the metabolite ratios are normal for age"
+        },
+        {
+            "procedure_name": "critical care imaging studies (not specified)",
+            "date": "Not specified",
+            "findings": "acute coccidioidomycosis infection suspected but excluded by negative serology",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "temporal artery biopsy",
+            "date": "Not specified",
+            "findings": "disruption of the internal elastic lamina with a central luminal thrombus",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

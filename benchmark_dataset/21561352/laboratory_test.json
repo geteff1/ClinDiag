@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyrotropin Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody (ANA) Assay",
+            "date": "Not specified",
+            "findings": "Positive (titer unknown)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid Factor Assay",
+            "date": "Not specified",
+            "findings": "381 IU per milliliter (normal value, <30)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "65 mm per hour (normal rate, <20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carcinoembryonic Antigen Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antibodies to Borrelia burgdorferi",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve Conduction Studies",
+            "date": "04/26/11",
+            "findings": "Marked attenuation of sensory responses, normal motor function.",
+            "changes_over_time": "Follow-up studies showed slight increase in the amplitude of the left radial and left sural responses."
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal brain MRI; cervical spine MRI showed patchy high-intensity signal abnormality primarily affecting the posterior columns.",
+            "changes_over_time": "Follow-up MRI revealed incidental right paratracheal mass."
+        }
+    ]
+}

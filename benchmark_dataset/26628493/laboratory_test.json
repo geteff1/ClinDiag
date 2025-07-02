@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Delayed F waves in upper limbs and motor and sensory conduction abnormalities in lower limbs with no conduction block, suggestive of a distal axonal neuropathy.",
+            "changes_over_time": "Sensory and motor lower limb responses were absent on nerve conduction studies 3 months later, confirming definite progression."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Raised CSF protein at 2.76 g/L (normal range 0.1–0.5) with normal glucose and cell counts, suggesting an inflammatory process at the nerve root.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete blood count",
+            "date": "Not specified",
+            "findings": "Normal except for platelets of 431 310^9/L (normal range 150 –400).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin test",
+            "date": "Not specified",
+            "findings": "Reduced albumin at 31 g/L.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Immunofixation",
+            "date": "Not specified",
+            "findings": "IgGl paraprotein was present.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hormonal profile",
+            "date": "Not specified",
+            "findings": "Reduced free testosterone of 146 pmol/L (normal >200) and an abnormal cortisol response to a short Synacthen test (200 nmol/L, normal >450).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum VEGF level",
+            "date": "Not specified",
+            "findings": "Markedly raised at 1,698 pg/mL (normal <771).",
+            "changes_over_time": "VEGF levels returned to normal after treatment."
+        }
+    ]
+}

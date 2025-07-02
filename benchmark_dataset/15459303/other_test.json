@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Reactive follicular hyperplasia.",
+            "changes_over_time": "Two years later, cervical lymphadenopathy recurred, and a lymph-node biopsy was diagnostic of a T-cell–rich, histiocyte-rich, diffuse large-B-cell lymphoma."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Did not reveal lymphoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Flow Cytometry",
+            "date": "Not specified",
+            "findings": "Increased accumulation of double-negative (CD3+CD4-CD8-) T cells (32 percent of all CD3+ T cells).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Sequencing of the Fas Gene",
+            "date": "Not specified",
+            "findings": "Point mutation in intron 7 affecting a canonical splicing site, causing the skipping of exon 7 and a frame shift.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Sequencing of the Perforin Gene",
+            "date": "Not specified",
+            "findings": "Point mutation in exon 3 (755A>G), change from asparagine to serine (N252S).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytotoxicity Assays",
+            "date": "Not specified",
+            "findings": "Natural killer activity assessed against K562 cell line revealed normal intracellular levels of perforin.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

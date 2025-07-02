@@ -1,0 +1,72 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "3 Days before Presentation",
+            "findings": {
+                "Hematocrit (%)": "36.3",
+                "Hemoglobin (g/dl)": "12.7",
+                "White-cell count (per mm3)": "17,100",
+                "Neutrophils (%)": "69.5",
+                "Lymphocytes (%)": "9.2",
+                "Monocytes (%)": "11.1",
+                "Eosinophils (%)": "9.6",
+                "Basophils (%)": "0.2",
+                "Platelet count (per mm3)": "380,000"
+            },
+            "changes_over_time": {
+                "Hematocrit (%)": "Decreased to 34.7 on Presentation",
+                "Hemoglobin (g/dl)": "Decreased to 12.3 on Presentation",
+                "White-cell count (per mm3)": "Increased to 18,700 on Presentation",
+                "Neutrophils (%)": "Increased to 76.6 on Presentation",
+                "Lymphocytes (%)": "Decreased to 8.2 on Presentation",
+                "Monocytes (%)": "Increased to 11.9 on Presentation",
+                "Eosinophils (%)": "Decreased to 2.6 on Presentation",
+                "Platelet count (per mm3)": "Decreased to 363,000 on Presentation"
+            }
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "On Presentation",
+            "findings": {
+                "Alanine aminotransferase (U/liter)": "57",
+                "Aspartate aminotransferase (U/liter)": "73",
+                "Alkaline phosphatase (U/liter)": "65",
+                "Bilirubin (mg/dl)": {
+                    "Total": "0.5",
+                    "Direct": "<0.2"
+                },
+                "Albumin (g/dl)": "2.7",
+                "Prothrombin time (sec)": "17.0",
+                "Prothrombin-time international normalized ratio": "1.4"
+            },
+            "changes_over_time": {
+                "Alanine aminotransferase (U/liter)": "From 20 (3 Days before Presentation) to 57",
+                "Aspartate aminotransferase (U/liter)": "From 19 (3 Days before Presentation) to 73",
+                "Albumin (g/dl)": "From 3.3 (3 Days before Presentation) to 2.7"
+            }
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "On Presentation",
+            "findings": {
+                "Blood": "2+",
+                "Erythrocytes (per high-power field)": "10-20"
+            },
+            "changes_over_time": {
+                "Erythrocytes (per high-power field)": "From 5-10 (3 Days before Presentation) to 10-20"
+            }
+        },
+        {
+            "procedure_name": "Additional Laboratory Tests",
+            "date": "During Admission",
+            "findings": {
+                "Hepatitis B virus core antibody": "Positive",
+                "Hepatitis B virus surface antigen": "Negative",
+                "Hepatitis C virus antibody": "Negative",
+                "Antinuclear antibody": "Positive at 1:40 and 1:160, speckled"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

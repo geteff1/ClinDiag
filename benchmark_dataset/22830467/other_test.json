@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Duodenal-biopsy specimens showed villous blunting, active inflammation, and intraepithelial lymphocytes, consistent with celiac disease.",
+            "changes_over_time": "Findings indicated extensive inflammation in the small and large bowel on subsequent admissions, consistent with strongyloides hyperinfection."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Colonic-biopsy specimens showed marked chronic inflammatory changes, without granulomas.",
+            "changes_over_time": "Findings transitioned to extensive areas of inflammation in the entire colon with deep, serpiginous ulcerations indicating progression in the pathology."
+        },
+        {
+            "procedure_name": "Stool Examination",
+            "date": "Second hospital day",
+            "findings": "Numerous rhabditiform larvae and a few filariform larvae of S. stercoralis.",
+            "changes_over_time": "Initial stool examinations 4 years prior had no detectable parasitoid presence, indicating a significant increase in the parasitic load."
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Fifth hospital day",
+            "findings": "Marked erythema, edema, and villous blunting in the distal duodenum and jejunum; extensive inflammation in the colon.",
+            "changes_over_time": "Findings progressed from earlier biopsies indicating inflammation to severe involvement of the intestines suggesting hyperinfection."
+        }
+    ]
+}

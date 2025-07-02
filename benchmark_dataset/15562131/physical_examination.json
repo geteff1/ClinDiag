@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "42/min",
+                "blood_pressure": "134/80 mm Hg",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Mrs D looks and feels well.",
+                "cardiac": "Regular rhythm with a rate of 42/min; soft holosystolic murmur at the point of maximal impulse.",
+                "peripheral": "Full and equal peripheral pulses.",
+                "skin": "No bruising."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

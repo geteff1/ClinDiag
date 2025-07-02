@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cholesterol Level Test",
+            "date": "Not specified",
+            "findings": {
+                "fasting_cholesterol": "9.5 mmol/L",
+                "low_density_lipoprotein": "6.25 mmol/L",
+                "high_density_lipoprotein": "0.73 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholesterol Level Test",
+            "date": "14 months postoperatively",
+            "findings": {
+                "fasting_cholesterol": "5.86 mmol/L"
+            },
+            "changes_over_time": "Decreased from 7.02 mmol/L to 5.86 mmol/L"
+        }
+    ]
+}

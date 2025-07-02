@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Computed Tomography Angiography",
+            "date": "Not specified",
+            "findings": "Normal lung parenchyma and no pulmonary embolus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiography",
+            "date": "Not specified",
+            "findings": "Significant thickening of the bioprosthetic tricuspid valve leaflets with severely restricted leaflet motion and a large mass of low echo density. Confirmed a significant right-to-left interatrial shunt through a large patent foramen ovale (PFO).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Magnetic Resonance Imaging",
+            "date": "Not specified",
+            "findings": "Confirmed the interatrial shunt and demonstrated a significant tricuspid valve mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Findings suggested paradoxical embolism through the PFO.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

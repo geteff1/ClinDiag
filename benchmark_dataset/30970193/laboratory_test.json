@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ glucose, 3+ albumin, trace blood by dipstick testing; microalbumin-to-creatinine ratio of 5110 (reference range, <30).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV RNA viral load",
+            "date": "8 years before current presentation",
+            "findings": "Less than 50 copies per milliliter.",
+            "changes_over_time": "HIV RNA viral load remained undetectable in subsequent tests."
+        },
+        {
+            "procedure_name": "CD4+ T-cell count",
+            "date": "8 years before current presentation",
+            "findings": "949 per cubic millimeter (normal range: 350 to 1460).",
+            "changes_over_time": "CD4+ T-cell count was 779 per cubic millimeter on the last measurement."
+        },
+        {
+            "procedure_name": "Creatinine level",
+            "date": "3 years before current presentation",
+            "findings": "1.97 mg per deciliter (reference range: 0.60 to 1.50).",
+            "changes_over_time": "Increased to 3.85 mg per deciliter on presentation."
+        },
+        {
+            "procedure_name": "Estimated glomerular filtration rate (eGFR)",
+            "date": "3 years before current presentation",
+            "findings": "37 mL/min/1.73 m² (reference range: >60).",
+            "changes_over_time": "Decreased to 17 mL/min/1.73 m² on presentation."
+        },
+        {
+            "procedure_name": "Alanine aminotransferase (ALT)",
+            "date": "7 years before current presentation",
+            "findings": "179 U per liter (reference range: 10 to 55).",
+            "changes_over_time": "Decreased to 26 U per liter on presentation."
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase (AST)",
+            "date": "7 years before current presentation",
+            "findings": "67 U per liter (reference range: 10 to 40).",
+            "changes_over_time": "Decreased to 25 U per liter on presentation."
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "5 years before current presentation",
+            "findings": "Ranged from 746 to 2072 mg per deciliter (reference range: 40 to 150).",
+            "changes_over_time": "1656 mg/dL at presentation."
+        },
+        {
+            "procedure_name": "Glycated hemoglobin",
+            "date": "Not specified",
+            "findings": "8.9% (reference range: 3.80 to 6.40).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

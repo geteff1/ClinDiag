@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood homocysteine level",
+            "date": "Not specified",
+            "findings": "237 μmol per liter (reference range, 0 to 14.2), indicative of elevated levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood methionine level",
+            "date": "Not specified",
+            "findings": "240 nmol per milliliter (reference range, 11-37), markedly elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood methylmalonic acid level",
+            "date": "Not specified",
+            "findings": "0.16 nmol per milliliter (reference range, ≤0.40), normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin B12 level",
+            "date": "Not specified",
+            "findings": "410 pg/ml (reference range, >250), normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Folic acid level",
+            "date": "Not specified",
+            "findings": "10.4 ng/ml (reference range, 3.1–17.5), normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin 14.9 g/dl, hematocrit 41.6%, mean corpuscular volume 86 fl (reference range, 78 to 98), all normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dual-energy x-ray absorptiometry (DEXA) scan",
+            "date": "Not specified",
+            "findings": "Bone mineral density 0.75 g/cm² (indicative of osteoporosis), z score of -2.7.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum phosphorus level",
+            "date": "Not specified",
+            "findings": "4.7 mg/dL (reference range, 3.0 to 4.5), elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "25-hydroxyvitamin D level",
+            "date": "Not specified",
+            "findings": "19 ng/ml (desired level, >32), low.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

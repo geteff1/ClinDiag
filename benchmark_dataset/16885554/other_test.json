@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Showed diverticulosis and two polyps which were excised and proved to be benign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duplex Ultrasonography",
+            "date": "Not specified",
+            "findings": "Revealed no flow in the right common femoral artery and absent systolic pressures in the right ankle.",
+            "changes_over_time": "Indicated developing arterial insufficiency."
+        },
+        {
+            "procedure_name": "Technetium-99m Scintigraphy",
+            "date": "Not specified",
+            "findings": "Demonstrated active bleeding in the rectosigmoid colon.",
+            "changes_over_time": "Confirmed site of bleeding to be the sigmoid colon, with an apparent arterioenteric fistula."
+        }
+    ]
+}

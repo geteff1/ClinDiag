@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Features suggestive of erythema nodosum with some lobular granulomatous inflammation and thickened vessel walls.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PPD tuberculin test",
+            "date": "Not specified",
+            "findings": "Resulted in more than 20 mm of induration, indicating possible exposure to tuberculosis.",
+            "changes_over_time": "The size of the induration correlates with the specificity of the test for Mycobacterium tuberculosis, but does not indicate whether she has active or latent disease."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Nonspecific hilar and mediastinal lymphadenopathy.",
+            "changes_over_time": "Follow-up CT scan after treatment for latent tuberculosis was within normal limits."
+        }
+    ]
+}

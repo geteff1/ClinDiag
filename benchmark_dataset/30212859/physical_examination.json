@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "April 2017",
+            "vital_signs": {
+                "temperature": "40ºC",
+                "oxygen_saturation": "93% on 2L/min",
+                "blood_pressure": "Hypotension",
+                "heart_rate": "Tachycardia"
+            },
+            "relevant_findings": {
+                "physical_exam": "Unremarkable apart from the above vital signs.",
+                "laboratory_findings": {
+                    "pancytopenia": "Mild",
+                    "kidney_function": "Decreased compared to baseline (estimated CrCl 22 mL/min)",
+                    "transaminitis": "~8X normal",
+                    "lactate_dehydrogenase": "Elevated"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7 months after initiation of treatment",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "blood_pressure": "Resolution of hypotension",
+                "heart_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_exam": "Significant clinical improvement noted with complete resolution of fever and hypotension.",
+                "imaging": {
+                    "liver_lesion": "50% decrease in size observed.",
+                    "residual_satellite_lesions": "Present"
+                }
+            },
+            "changes_over_time": "Significant clinical improvement with resolution of symptoms compared to initial presentation."
+        }
+    ]
+}

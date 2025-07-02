@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "At presentation: Total bilirubin 65 mmol/L (3.8 mg/dL), direct bilirubin 41 mmol/L (2.4 mg/dL), alanine aminotransferase (ALT) 31.57 mkat/L, aspartate aminotransferase 46.68 mkat/L, alkaline phosphatase 3.4 mkat/L, prothrombin time 92.7 seconds (international normalized ratio 9.59), albumin 36 g/L.",
+            "changes_over_time": "ALT peaked at 184.94 mkat/L during hospitalization; at discharge, ALT level was 3.28 mkat/L, and albumin level returned to 39 g/L."
+        },
+        {
+            "procedure_name": "Toxicology Screening",
+            "date": "Not specified",
+            "findings": "Negative for acetaminophen, alcohol, and other known hepatotoxins.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing",
+            "date": "Not specified",
+            "findings": "Negative for hepatitis A, B, and C; Epstein–Barr virus; and cytomegalovirus.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "pH 7.15; PCO2 14 mm Hg; bicarbonate 5 mmol/L; PO2 257 mm Hg.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

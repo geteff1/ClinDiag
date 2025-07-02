@@ -1,0 +1,124 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Uric Acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic Testing for HIV, Hepatitis B and C Virus, Borrelia burgdorferi, and West Nile Virus",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-neutrophil Cytoplasmic Antibody Testing",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear Antibody Testing",
+            "date": "Not specified",
+            "findings": "Positive with a speckled pattern at a titer of 1:40 (normal value, <1:32)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Double-stranded DNA Testing",
+            "date": "Not specified",
+            "findings": "5 IU/mL (normal range, 0 to 30)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein Level",
+            "date": "Not specified",
+            "findings": "Less than 5 mg/L (normal range, 0 to 10)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125 Level",
+            "date": "Not specified",
+            "findings": "19 U/mL (normal range, 0 to 55)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "No white cells, 24 red cells/mm³, protein 1.50 g/L (normal range, 0.15 to 0.45), glucose 3.1 mmol/L (normal range, 4.0 to 6.0)",
+            "changes_over_time": "Second lumbar puncture revealed 16 white cells/mm³, protein elevated at 1.20 g/L, glucose level 4.2 mmol/L."
+        },
+        {
+            "procedure_name": "Nerve-Conduction Studies",
+            "date": "Not specified",
+            "findings": "Low-amplitude median and tibial motor responses on the right side, normal conduction velocities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Fibrillation potentials and reduced recruitment in right deltoid, biceps, triceps, vastus lateralis, and adductor magnus muscles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of the Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Multiple solid, hypoechoic vascular masses in the uterus and right ovary.",
+            "changes_over_time": "Follow-up ultrasonography showed a single complex vascular lesion now measuring 4.5 cm."
+        },
+        {
+            "procedure_name": "MRI of the Brain and Spine with Gadolinium",
+            "date": "Not specified",
+            "findings": "Hyperdense foci in left caudate and lentiform nuclei, no cord compression or nerve-root impingement.",
+            "changes_over_time": "Follow-up MRI showed enhanced multiple nerve roots suggestive of subacute-to-chronic inflammatory polyradiculopathy."
+        },
+        {
+            "procedure_name": "Cytologic Testing",
+            "date": "Not specified",
+            "findings": "Negative for malignant cells.",
+            "changes_over_time": "Follow-up lumbar puncture revealed 26 white cells/mm³, protein level of 2.60 g/L, and glucose level of 3 mmol/L."
+        }
+    ]
+}

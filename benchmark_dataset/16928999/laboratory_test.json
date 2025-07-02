@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Ceruloplasmin Level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Slit-lamp Examination",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET scan (Positron-Emission Tomography)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Levodopa and Carbidopa Therapy",
+            "date": "Not specified",
+            "findings": "Marked improvement in symptoms within 24 hours.",
+            "changes_over_time": "Patient reported improvement in her dystonia and gait over the following days."
+        },
+        {
+            "procedure_name": "Phenylalanine-Loading Test",
+            "date": "Not specified",
+            "findings": "Produced elevated serum phenylalanine levels and increased phenylalanine: tyrosine ratio.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing for GCH1 mutation",
+            "date": "Not specified",
+            "findings": "Identified a two-nucleotide deletion in exon 6 of the GCH1 gene.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

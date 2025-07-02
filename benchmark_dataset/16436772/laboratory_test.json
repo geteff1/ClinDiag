@@ -1,0 +1,106 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "3+ bilirubin and 2+ occult blood; otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "1st Admission",
+            "findings": "30.5%",
+            "changes_over_time": "25.9% on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "1st Admission",
+            "findings": "9.7 g/dL",
+            "changes_over_time": "8.1 g/dL on 2nd hospital day"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "1st Admission",
+            "findings": "5,600 per mm3",
+            "changes_over_time": "7,500 per mm3 on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "1st Admission",
+            "findings": "292,000 per mm3",
+            "changes_over_time": "241,000 per mm3 on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Mean corpuscular volume",
+            "date": "1st Admission",
+            "findings": "71 μm3",
+            "changes_over_time": "70 μm3 on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "1st Admission",
+            "findings": "Conjugated: 3.2 mg/dL; Total: 6.0 mg/dL",
+            "changes_over_time": "Conjugated decreased to 0.4 mg/dL; Total decreased to 1.4 mg/dL by 4th hospital day"
+        },
+        {
+            "procedure_name": "Protein",
+            "date": "1st Admission",
+            "findings": "Total: 8.5 g/dL; Albumin: 3.2 g/dL; Globulin: 5.3 g/dL",
+            "changes_over_time": "Total decreased to 6.9 g/dL; Albumin decreased to 2.5 g/dL by 3rd hospital day"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase",
+            "date": "1st Admission",
+            "findings": "655 U/liter",
+            "changes_over_time": "Fell to 348 U/liter by 4th hospital day"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "1st Admission",
+            "findings": "219 U/liter",
+            "changes_over_time": "Decreased to 105 U/liter by 4th hospital day"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "1st Admission",
+            "findings": "196 U/liter",
+            "changes_over_time": "Decreased to 123 U/liter by 4th hospital day"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "1st Admission",
+            "findings": "216 U/liter",
+            "changes_over_time": "Decreased to 155 U/liter on 2nd hospital day"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "1st Admission",
+            "findings": "26 U/liter",
+            "changes_over_time": "Bumped up to 294 U/liter on 3rd hospital day"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "1st Admission",
+            "findings": "3.8 U/dL",
+            "changes_over_time": "Increased to 119.9 U/dL on 3rd hospital day"
+        },
+        {
+            "procedure_name": "Carcinoembryonic antigen",
+            "date": "Not specified",
+            "findings": "0.9 ng/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha-fetoprotein",
+            "date": "1st Admission",
+            "findings": "6.7 ng/ml",
+            "changes_over_time": "Increased to 7.1 ng/ml later"
+        },
+        {
+            "procedure_name": "CA 19-9",
+            "date": "Not specified",
+            "findings": "1 U/ml",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

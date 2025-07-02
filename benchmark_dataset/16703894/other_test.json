@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Histopathological analysis",
+            "date": "Not specified",
+            "findings": "Lesion composed of mostly histiocytic cells positive for S100 protein and CD68, with emperipolesis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Frozen section examination",
+            "date": "Not specified",
+            "findings": "The lesion was believed to be most consistent with an inflammatory process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative neuroophthalmological examination",
+            "date": "Postoperative Day 4",
+            "findings": "Marked improvement in vision: 20/25 in both eyes without corrective lenses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MR imaging",
+            "date": "6 weeks post-operation",
+            "findings": "Marked resolution of the patient’s multiple skull base lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up MR imaging",
+            "date": "10 months post-operation",
+            "findings": "Interval progression of enhancing lesions especially in the posterior fossa.",
+            "changes_over_time": "Progression of lesions noted."
+        },
+        {
+            "procedure_name": "Follow-up MR imaging",
+            "date": "11 months post-operation",
+            "findings": "Resolution of the enhancing lesions both at the tuberculum sella and in the posterior fossa.",
+            "changes_over_time": "Complete resolution of previous symptoms after corticosteroid therapy."
+        }
+    ]
+}

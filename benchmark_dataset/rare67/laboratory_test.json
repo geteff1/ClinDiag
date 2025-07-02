@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine MPS Screening",
+            "date": "Not specified",
+            "findings": "DMB ratio was 33.68 mg/mmol creatinine (normal range for 2–17 y/o: <20.98).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LC–MS/MS Analysis of Disaccharide Units",
+            "date": "Not specified",
+            "findings": "DS at 3.33 µg/mmol creatinine (normal range: <1.56), HS at 1.41 µg/mmol creatinine (normal range: <3.10), KS at 12.97 µg/mmol creatinine (normal range: <13.79), and CS at 8.72 µg/mmol creatinine (normal range: <59.66).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Leukocyte Enzymatic Analyses",
+            "date": "Not specified",
+            "findings": "All normal for MPS I, MPS II, MPS IIIB, MPS IVA, and MPS VI.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "DNA Analysis via Next-Generation Sequencing (NGS)",
+            "date": "Not specified",
+            "findings": "Revealed a heterozygous genetic variant c.104C > A in the GUSB gene (pathogenic) and c.1454C > T in the GUSB gene (likely pathogenic).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

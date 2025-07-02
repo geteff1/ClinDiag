@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 8000 per cubic millimeter (87% neutrophils, 8% lymphocytes, 2% monocytes, 0% eosinophils); Hematocrit: 39.1%; Platelet count: 231,000 per cubic millimeter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate (ESR)",
+            "date": "Not specified",
+            "findings": "64 mm per hour (elevated, normal range not provided).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-Reactive Protein (CRP)",
+            "date": "Not specified",
+            "findings": "47.9 mg per liter (normal range: 1 to 3, elevated).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Testing for Human Immunodeficiency Virus (HIV) Antibody",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prostate-Specific Antigen (PSA)",
+            "date": "Not specified",
+            "findings": "0.7 ng per milliliter (reference range: 0 to 4).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Three sets of blood cultures were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymerase-Chain-Reaction Assay for M. tuberculosis",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fungal Culture",
+            "date": "Not specified",
+            "findings": "Grew mold identified as C. immitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement-Fixing Antibody Titer",
+            "date": "Not specified",
+            "findings": "1:64.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

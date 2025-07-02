@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Abnormal liver function tests noted at age 5.",
+            "changes_over_time": "At age 18, laboratory values included: international normalized prothrombin ratio 1.96; hemoglobin 6.2 g/L; white-cell count 4040/mm3; platelets 33,000/mm3; bilirubin 32.7 mg/dL; aspartate aminotransferase 240 U/L; gamma-glutamyltransferase 30 U/L; alkaline phosphatase 114 U/L; creatinine 1.9 mg/dL; albumin 1.8 g/dL; alpha-fetoprotein 4.5 ng/mL."
+        },
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Presence of sclerosing cholangitis noted at age 10.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Throat-Swab, Urine, Blood, and Stool Specimens for Cytomegalovirus and Cryptosporidium",
+            "date": "Post liver transplantation (October 1998)",
+            "findings": "Negative for cytomegalovirus; stool specimens checked for cryptosporidium.",
+            "changes_over_time": "Throat-swab and urine tests performed twice weekly."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Day 76",
+            "findings": "Abnormal results prompted a liver biopsy demonstrating mild cholangiolitic changes.",
+            "changes_over_time": "Aspartate aminotransferase values returned to normal; gamma-glutamyltransferase remained elevated at 469 U/L, necessitating another liver biopsy three weeks later, revealing mild focal injury of the bile ducts."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "December 1999",
+            "findings": "In excellent health with: hemoglobin 12.3 g/L; white cell count 6500/mm3; neutrophils 2740/mm3; platelets 156,000/mm3; international normalized prothrombin ratio 1.0; bilirubin 0.6 mg/dL; aspartate aminotransferase 39 U/L; gamma-glutamyltransferase 52 U/L; albumin 3.5 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Assessment of CD40 Ligand Expression",
+            "date": "Day 64",
+            "findings": "No expression of CD40 ligand on T cells.",
+            "changes_over_time": "By day 95, 35% of cells were positive for CD40 ligand expression."
+        }
+    ]
+}

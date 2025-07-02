@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Insulin Sensitivity (Si) Assessment",
+            "date": "Not specified",
+            "findings": "Baseline Si was significantly reduced at 1.45 x 10^(-24) min^(-1) (normal value for lean adult male: 5.1 x 10^(-24) min^(-1)). After 3 months on 40 mg/kg daily of rhIGF-I, Si improved to 2.06 x 10^(-24) min^(-1). After 6 months on 80 mg/kg daily, Si further improved to 4.39 x 10^(-24) min^(-1), reaching the normal range for age and puberty.",
+            "changes_over_time": "Si improved from baseline (1.45) to 2.06 after 3 months, and then to 4.39 after 6 months."
+        },
+        {
+            "procedure_name": "Fasting Insulin Measurement",
+            "date": "Not specified",
+            "findings": "Fasting insulin was 28.9 mU/L at baseline (normal range for stage 2 puberty, 8-18 mU/L). After 1 month of therapy with rhIGF-I at 40 mg/kg, insulin levels dropped to 14.2 mU/L, and after 6 months at 80 mg/kg, insulin further reduced to 7.5 mU/L.",
+            "changes_over_time": "Fasting insulin declined from 28.9 at baseline to 14.2 after 1 month, and to 7.5 after 6 months."
+        },
+        {
+            "procedure_name": "Bone Mineral Density (BMD) Measurement",
+            "date": "Not specified",
+            "findings": "Baseline lumbar BMD was 0.58 g/cm² with a sd score of -4.88. BMD increased to 0.60 g/cm² after 6 months on 80 mg/kg and 0.68 g/cm² after 12 months.",
+            "changes_over_time": "BMD increased from 0.58 g/cm² at baseline to 0.60 g/cm² after 6 months and further to 0.68 g/cm² after 12 months."
+        },
+        {
+            "procedure_name": "Serum Osteocalcin Measurement",
+            "date": "Not specified",
+            "findings": "Serum osteocalcin was 8.3 ng/mL pretreatment, increased to 21.7 ng/mL after 6 months (normal range for adult male: 3.4-9.1 ng/mL) and dropped to 12.9 ng/mL after 12 months.",
+            "changes_over_time": "Serum osteocalcin increased from 8.3 ng/mL pretreatment to 21.7 ng/mL after 6 months, then decreased to 12.9 ng/mL at 12 months."
+        },
+        {
+            "procedure_name": "Bone Specific Alkaline Phosphatase Measurement",
+            "date": "Not specified",
+            "findings": "Bone specific alkaline phosphatase was 36.5 U/L pretreatment (normal range for adult male: 15-41 U/L). After 6 months of therapy, it increased to 82.2 U/L and then decreased to 38.5 U/L after 12 months.",
+            "changes_over_time": "Bone specific alkaline phosphatase rose from 36.5 U/L pretreatment to 82.2 U/L after 6 months, then fell to 38.5 U/L at 12 months."
+        }
+    ]
+}

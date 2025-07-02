@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "epinephrine": "200 pg/ml (normal 10-200 pg/ml)",
+                "norepinephrine": "28,241 pg/ml (normal 80-520 pg/ml)",
+                "dopamine": "250 pg/ml (normal 0-20 pg/ml)"
+            },
+            "relevant_findings": "Protruding sternal mass observed during physical examination.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Two months after initial diagnosis",
+            "vital_signs": {
+                "plasma_normetanephrines": "28,011 pg/ml (normal 0-145 pg/ml)",
+                "metanephrines": "656 pg/ml (normal 0-62 pg/ml)"
+            },
+            "relevant_findings": "Worsening of disease noted with right adrenal mass abutting the inferior vena cava and increased size of aortocaval lymph node conglomerate.",
+            "changes_over_time": "Disease progression observed with increase in size of right adrenal mass and aortocaval lymph node conglomerate."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "plasma_metanephrines_post_chemotherapy": {
+                    "6 weeks": {
+                        "metanephrine": "587 pg/ml",
+                        "normetanephrine": "27,112 pg/ml"
+                    },
+                    "5 months": {
+                        "metanephrine": "506 pg/ml",
+                        "normetanephrine": "16,586 pg/ml"
+                    },
+                    "6 months": {
+                        "metanephrine": "Not specified",
+                        "normetanephrine": "13,690 pg/ml"
+                    }
+                }
+            },
+            "relevant_findings": "Reduction in size of metastatic lesions observed in imaging results.",
+            "changes_over_time": "Clinical course improved with chemotherapy; reduction in plasma metanephrines levels and size of metastases."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Right-upper-lobe pneumonia, dense consolidation in the right upper lobe, small bilateral pleural effusions, indistinct pulmonary vessels suggestive of edema.",
+            "changes_over_time": "On the second hospital day, there was partial clearing of the consolidation in the right upper lobe and smaller pleural effusions. On the third hospital day, consolidation in the right upper lobe had improved, but persistent interstitial edema and bilateral pleural effusions were present. On the sixth hospital day, persistent right-upper-lobe consolidation was observed with worsening diffuse interstitial opacities and unchanged pleural effusions. Finally, on the day of discharge, consolidations had resolved with small bilateral pleural effusions remaining."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Seventh hospital day",
+            "findings": "Bilateral ground-glass opacities and consolidations mostly confluent in the right upper lobe, moderate-to-large bilateral pleural effusions, and bilateral atelectasis in dependent areas of the lung.",
+            "changes_over_time": "CT scan performed around one month later showed resolution of the consolidation in the right upper lobe, except for a small focal area of bronchiectasis, with no pleural effusions present."
+        }
+    ]
+}

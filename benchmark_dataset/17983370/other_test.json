@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CBC and differential",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "The absolute neutrophil count had increased during a febrile episode."
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "Elevated at 50 mm/h (upper limit of normal is 10) during febrile episode.",
+            "changes_over_time": "Return to normal levels between febrile episodes."
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Elevated at 21.9 mg/dl (upper limit of normal: <1.0) during the febrile episode.",
+            "changes_over_time": "Return to normal levels between febrile episodes."
+        },
+        {
+            "procedure_name": "Throat swab for Group A Streptococcus",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Prednisone trial",
+            "date": "During the next febrile episode after one week from the initial examination",
+            "findings": "Dramatic resolution of fever and symptoms 4 hours after administration.",
+            "changes_over_time": "Continued improvement observed with subsequent doses during episodes."
+        }
+    ]
+}

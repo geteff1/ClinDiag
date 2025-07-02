@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cystoscopy with transurethral resection",
+            "date": "Two weeks before the patient’s evaluation at this hospital",
+            "findings": "The posterior bladder mucosa was thickened and friable. The muscular wall was distorted and effaced by a rigid, infiltrating mass. The ureters were narrowed, and stents were placed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bladder biopsy",
+            "date": "Not specified",
+            "findings": "Invasive transitional-cell carcinoma, grade 3 out of 3, with invasion of the muscularis propria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Identified a missense mutation in the BRCA1 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tamoxifen treatment",
+            "date": "Three weeks after initial consultation",
+            "findings": "Initial improvement in bladder capacity, disappearance of urgency and incontinence, and decrease in nocturia.",
+            "changes_over_time": "After six months, the symptoms completely disappeared, but CT scans remained unchanged."
+        },
+        {
+            "procedure_name": "Chemotherapy with doxorubicin and cyclophosphamide",
+            "date": "Six months after beginning tamoxifen",
+            "findings": "Stable disease without progression.",
+            "changes_over_time": "Slightly more than three years after the beginning of treatment, CT scans continued to show stable disease without progression."
+        }
+    ]
+}

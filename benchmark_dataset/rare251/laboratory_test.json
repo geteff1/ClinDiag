@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood gases",
+            "date": "Not specified",
+            "findings": "Respiratory acidosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "Elevated at 682 U/L (normal < 170 U/L).",
+            "changes_over_time": "CK is normal within one week."
+        },
+        {
+            "procedure_name": "AChR-Ab",
+            "date": "Day 5",
+            "findings": "Positive at 13.72 nmol/L (normal < 0.40).",
+            "changes_over_time": "Decreased to 5.80 nmol/L after treatment."
+        },
+        {
+            "procedure_name": "AChR-Ab",
+            "date": "Day 10",
+            "findings": "Lower titer of 3.03 nmol/L found in the asymptomatic mother.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

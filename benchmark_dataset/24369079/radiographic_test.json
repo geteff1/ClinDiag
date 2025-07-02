@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes; correct placement of the endotracheal and gastric tubes; no changes consistent with pulmonary edema or pneumothorax.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "computed tomographic scan of the head",
+            "date": "Not specified",
+            "findings": "No acute intracranial hemorrhage, infarction, or mass lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

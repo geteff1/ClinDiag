@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Acute and chronic hepatitis with scattered epithelioid granulomas and mild fatty changes; no acid-fast bacilli or fungi were seen.",
+            "changes_over_time": "Finding of hepatic granulomas suggested a number of diseases, and subsequent bone marrow biopsy revealed scattered epithelioid and giant-cell granulomas."
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Scattered epithelioid and giant-cell granulomas; no malignant cells were seen.",
+            "changes_over_time": "Fibrin-ring granulomas were identified, which are usually associated with Q fever."
+        },
+        {
+            "procedure_name": "Temporal Artery Biopsy",
+            "date": "Not specified",
+            "findings": "No pathological evidence of arteritis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serologic Testing for C. burnetii (Q fever)",
+            "date": "Five days after bone marrow biopsy",
+            "findings": "Antibody titers to C. burnetii were strongly positive (IgG phase 1, 1:16; IgG phase 2, 1:1024; IgM phase 1, 1:1024; and IgM phase 2, 1:256).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

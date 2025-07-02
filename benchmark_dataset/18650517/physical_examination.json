@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.6°C",
+                "pulse": "104 bpm",
+                "blood_pressure": "114/68 mmHg",
+                "respiratory_rate": "18 per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "lung": "decreased breath sounds at the base of the left lung",
+                "spine": "decreased range of motion in the thoracic spine, maintained back flexion at 50 degrees while walking",
+                "muscle_strength": "strength measured as 4− out of 5 with hip flexion and 4+ out of 5 otherwise"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "lung": "crackles in the left lung, decreased breath sounds at the base",
+                "spine": "Not specified",
+                "testes": "normal in size, with no masses"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "lung": "large pleural effusion on the left side observed via imaging",
+                "spine": "pathologic T9 vertebral fracture with soft-tissue extension",
+                "other": "no visible deformity of the spine"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

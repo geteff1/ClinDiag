@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "November 2000",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Erythematous eruption on face and upper aspect of trunk, resolved with topical corticosteroids.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "March 2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Recurrent skin lesions, myalgias, proximal muscle weakness, and hypophonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "2001",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Elevated creatine kinase (301 U/L), elevated aldolase, positive antinuclear antibody at 1:640 titer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Mid-2004",
+            "vital_signs": {
+                "weight": "66 kg",
+                "triglycerides": "427 mg/dL",
+                "cholesterol": "238 mg/dL",
+                "high_density_lipoprotein": "45 mg/dL"
+            },
+            "relevant_findings": "Normotensive. Noted loss of substance in subcutaneous tissue of the front of her left thigh.",
+            "changes_over_time": "Lipoatrophy progressed to involve both thighs."
+        }
+    ]
+}

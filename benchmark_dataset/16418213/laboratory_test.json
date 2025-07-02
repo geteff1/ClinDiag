@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid Scintigraphy",
+            "date": "Not specified",
+            "findings": "No radioiodide uptake (RIUT 0%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH Measurement",
+            "date": "Day 14",
+            "findings": "TSH 234 mU/liter (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4 Measurement",
+            "date": "Day 14",
+            "findings": "Free T4 0.27 ng/dl (3.5 pmol/liter, low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Thyroid volume calculated at 3.8 ml (normal 1 ml), marked enlargement",
+            "changes_over_time": "Thyroid size returned to normal during replacement therapy"
+        },
+        {
+            "procedure_name": "Iodide Saliva to Plasma Ratio",
+            "date": "Not specified",
+            "findings": "Low observed, confirming diagnosis of ITD",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular Analysis (NIS sequencing)",
+            "date": "Not specified",
+            "findings": "Homozygous mutation R124H in exon 2 found",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iodide Uptake Assay",
+            "date": "Not specified",
+            "findings": "No perchlorate-sensitive iodide uptake in COS-7 cells transfected with R124H",
+            "changes_over_time": "Cells cotransfected with R124H showed approximately 50% reduction in iodide uptake compared to wild-type"
+        }
+    ]
+}

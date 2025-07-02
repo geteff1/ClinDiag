@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Neutropenia with compensatory monocytosis, anemia (lowest RBC: 3.16 T/L, lowest Hgb: 9.4 g/dL) with normal serum iron concentration and normal platelet count.",
+            "changes_over_time": "Serial blood counts showed a cyclical pattern of neutropenia occurring in a 20-day period."
+        },
+        {
+            "procedure_name": "Bone Marrow Cytology",
+            "date": "Not specified",
+            "findings": "Normocellularity with polymorphic composition and no blast infiltration. Signs of slight dysgranulopoiesis with eosinophilia (11.6%) and myeloid maturation arrest at the promyelocyte stage.",
+            "changes_over_time": "Performed in the nadir phase (370 neutrophils/µL)."
+        },
+        {
+            "procedure_name": "Mutational Analysis",
+            "date": "Not specified",
+            "findings": "Direct sequencing did not reveal pathogenic variants in ELANE.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Revealed a heterozygous p.T117del (c.349_351del) in-frame deletion mutation in the SRP54 gene.",
+            "changes_over_time": "The same sequence variant was found in a different sample."
+        }
+    ]
+}

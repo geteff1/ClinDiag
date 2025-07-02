@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Benign cartilaginous tissue",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytogenetic testing",
+            "date": "Postoperative",
+            "findings": "DNA aneuploidy with a hyperdiploid peak; DNA index 1.84, 32% G0G1, and 8% S-phase",
+            "changes_over_time": "DNA index increased to 1.86 with recurrence; no cytogenetic aberrations found in later tests"
+        },
+        {
+            "procedure_name": "Flow cytometric DNA and cell-cycle analysis",
+            "date": "Not specified",
+            "findings": "Aneuploidy with DNA index of 1.89; 36% G0G1 and 4% G2M",
+            "changes_over_time": "Characteristics similar to previous specimens, revealing aneuploidy"
+        },
+        {
+            "procedure_name": "Fine-needle aspiration",
+            "date": "January 2006",
+            "findings": "Malignant cells detected",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

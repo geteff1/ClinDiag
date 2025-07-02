@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Abnormal dilated vascular mass in the lower lobe of the right lung showed postoperative change.",
+            "changes_over_time": "Comparison to the prior CT scan (about 10 months ago) indicates changes related to the vascular mass."
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the abdomen",
+            "date": "Not specified",
+            "findings": "Multiple hepatic arteriovenous malformations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cranial MRI",
+            "date": "Not specified",
+            "findings": "No clear hemorrhage.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

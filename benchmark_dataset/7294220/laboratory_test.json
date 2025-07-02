@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine Laboratory Examinations",
+            "date": "Not specified",
+            "findings": "Findings were within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tensilon Test",
+            "date": "Not specified",
+            "findings": "Findings were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Findings were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Findings were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG Feedback",
+            "date": "Not specified",
+            "findings": "EMG potential ranged from 100 to 200 µV initially; levels during relaxed periods were between 10 and 20 µV.",
+            "changes_over_time": "Improvement in EMG potential observed; reduction of blepharospasm by the last 10 sessions, with the patient free from spasm for up to 30 minutes."
+        },
+        {
+            "procedure_name": "Thermal Feedback",
+            "date": "Not specified",
+            "findings": "Right finger temperature ranged from 92.0°F to 92.3°F initially.",
+            "changes_over_time": "Temperature increased by 1.2°F during therapy."
+        }
+    ]
+}

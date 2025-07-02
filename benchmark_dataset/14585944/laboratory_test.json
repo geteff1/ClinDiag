@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "More than 50 small adenomas identified in the right side of the colon; two large adenomas measuring more than 1 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic examination of the stomach and duodenum",
+            "date": "Not specified",
+            "findings": "Fundic-gland polyps in the stomach and a tubular adenoma in the duodenum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "50 to 100 diminutive adenomas in the cecum and the right side of the colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing for APC gene",
+            "date": "Not specified",
+            "findings": "The patient does not carry the truncating mutation at codon 169.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic Testing for APC gene (Father)",
+            "date": "Not specified",
+            "findings": "Germ-line mutation resulting in premature truncation at the 5' end of the gene.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

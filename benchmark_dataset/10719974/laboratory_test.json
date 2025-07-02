@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin: 11.5 g/dl (mild anemia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Preoperative",
+            "findings": "Minimal nonspecific S-T changes",
+            "changes_over_time": "Subsequent ECGs were unchanged from the preoperative tracings."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "First postoperative day",
+            "findings": "Marked ST depression in the inferolateral leads, ventricular and supraventricular tachyarrhythmias (ventricular rate of 178 beats/min), frequent multifocal premature ventricular contractions progressing to runs of ventricular tachycardia.",
+            "changes_over_time": "All symptoms resolved and the ECG abnormalities completely disappeared within 1 hour after administration of nitroglycerin."
+        },
+        {
+            "procedure_name": "Serum Creatine Phosphokinase Isoenzyme Levels",
+            "date": "Not specified",
+            "findings": "Entirely normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Stress Testing",
+            "date": "After discharge",
+            "findings": "Exercised 7 min on Bruce protocol, maximum heart rate of 150 beats/min, no chest pain or ECG changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Single-Photon Emission Computed Tomography (SPECT)",
+            "date": "After discharge",
+            "findings": "Demonstrated no evidence of ischemia or prior infarction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "After discharge",
+            "findings": "Normal left ventricular systolic function, mild tricuspid and mitral insufficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Holter ECG Monitoring",
+            "date": "After discharge",
+            "findings": "Rare premature ventricular contractions and atrial contractions with three nonsustained runs of asymptomatic supraventricular tachycardia, no evidence of significant ischemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

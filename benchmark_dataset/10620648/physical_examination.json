@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "heart_rate": "79 bpm",
+                "respiratory_rate": "20 per minute",
+                "blood_pressure": "95/53 mmHg"
+            },
+            "relevant_findings": {
+                "lesion": "6-by-4-mm, darkly pigmented, irregular macular lesion on the upper left-hand side of the chest",
+                "white_cell_count": "3300 per cubic millimeter",
+                "hematocrit": "0.36",
+                "platelet_count": "94,000 per cubic millimeter",
+                "serum_aspartate_aminotransferase": "87 U per liter",
+                "serum_alkaline_phosphatase": "337 U per liter",
+                "serum_calcium": "7.5 mg per deciliter",
+                "urinalysis": "6 to 10 white cells and an occasional red cell per high-power field"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "39.4°C",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "white_cell_count": "2400 per cubic millimeter",
+                "hematocrit": "0.25",
+                "platelet_count": "63,000 per cubic millimeter",
+                "serum_aspartate_aminotransferase": "191 U per liter",
+                "serum_alkaline_phosphatase": "337 U per liter",
+                "serum_total_bilirubin": "13.5 mg per deciliter"
+            },
+            "changes_over_time": "Worsening laboratory findings"
+        }
+    ]
+}

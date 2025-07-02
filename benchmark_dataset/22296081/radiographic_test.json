@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper endoscopy",
+            "date": "Not specified",
+            "findings": "Enlarged folds extending from the stomach to the beginning of the jejunum, multiple nonbleeding erosions, evidence of chronic active gastritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Confirmed diverticulosis, no obvious abnormalities of the small bowel, no evidence of lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat upper endoscopy",
+            "date": "Not specified",
+            "findings": "Prominent folds throughout the stomach and duodenum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Prominent mucus-secreting polypoid folds with intermittent erosions throughout the colon and terminal ileum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video-capsule endoscopic study",
+            "date": "Not specified",
+            "findings": "Nodular and polypoid-appearing small bowel with erythematous and edematous mucosa throughout.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

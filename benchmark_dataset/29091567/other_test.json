@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "Not specified",
+            "findings": "Sludge-filled gallbladder with wall thickening and pericholecystic fluid, consistent with acute cholecystitis. No hepatic or common bile-duct dilatation or choledocholithiasis.",
+            "changes_over_time": "Findings confirmed with magnetic resonance cholangiopancreatography (MRCP) showing gallbladder-wall thickening and irregularity."
+        },
+        {
+            "procedure_name": "Magnetic resonance cholangiopancreatography (MRCP)",
+            "date": "Not specified",
+            "findings": "Gallbladder-wall thickening with associated pericholecystic fluid and moderate dependent sludge. Fatty infiltration of the liver and splenomegaly noted.",
+            "changes_over_time": "Confirmed findings from ultrasonography."
+        },
+        {
+            "procedure_name": "Reticulocyte count",
+            "date": "Not specified",
+            "findings": "Reticulocyte percentage of 3.2% (normal range, 0.5 to 2.2) and absolute reticulocyte count of 172,100 per cubic millimeter (normal range, 31,500 to 108,800).",
+            "changes_over_time": "Sustained reticulocytosis observed indicates ongoing hemolysis."
+        },
+        {
+            "procedure_name": "Peripheral-blood smear",
+            "date": "Not specified",
+            "findings": "Showed Pappenheimer bodies (iron-containing granules) but no spur cells, schistocytes, or spherocytes.",
+            "changes_over_time": "A perioperative peripheral-blood smear reviewed after cholecystectomy showed occasional spherocytes."
+        },
+        {
+            "procedure_name": "Osmotic fragility test",
+            "date": "Not specified",
+            "findings": "Revealed increased erythrocyte fragility.",
+            "changes_over_time": "Confirmed the diagnosis of hereditary spherocytosis."
+        }
+    ]
+}

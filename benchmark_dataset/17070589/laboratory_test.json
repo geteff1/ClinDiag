@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Molecular Pathology",
+            "date": "Not specified",
+            "findings": "Loss of heterozygosity at the VHL allele locus in VHL retinal hemangioblastomas; absence of loss in the vasoproliferative tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Not specified",
+            "findings": "High levels of transcript and protein for VEGF and CXCR4; low levels of CXCL12 mRNA in retinal hemangioblastomas associated with VHL disease; very low levels of VEGF and CXCR4 mRNA detected in the vasoproliferative tumor.",
+            "changes_over_time": "Increased expression of VEGF and CXCR4 detected in more active hemangioblastomas."
+        },
+        {
+            "procedure_name": "Quantitative Reverse Transcriptase PCR",
+            "date": "Not specified",
+            "findings": "Abundant expression of VEGF and CXCR4 transcripts in VHL retinal hemangioblastomas; low expression of CXCL12.",
+            "changes_over_time": "VEGF levels were significantly higher in case 2, indicating more active disease; highest level of CXCR4 transcript in case 3 with the lowest VA."
+        }
+    ]
+}

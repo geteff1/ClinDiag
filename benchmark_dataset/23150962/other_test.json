@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Glomerulitis with mononuclear cells, scattered neutrophils, and swollen endothelial cells; increased peritubular capillaries with mononuclear cells, plasma cells, and occasional neutrophils.",
+            "changes_over_time": "Findings were consistent with acute cellular and humoral rejection."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "5 weeks before admission",
+            "findings": "Sinus rhythm at a rate of 64 beats per minute.",
+            "changes_over_time": "Decreased to sinus rhythm at 44 beats per minute upon presentation; new nonspecific T-wave abnormalities appeared."
+        },
+        {
+            "procedure_name": "Ultrasonography of the transplanted kidney",
+            "date": "5 months before admission",
+            "findings": "Resistive indexes of the arcuate arteries ranged from 0.74 to 0.83.",
+            "changes_over_time": "Increased to 0.84 to 1.00 upon admission, suggesting transplant rejection."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiography",
+            "date": "Not specified",
+            "findings": "Left ventricular ejection fraction of 64% and estimated right ventricular systolic pressure of 68 mm Hg.",
+            "changes_over_time": "Unchanged from a previous study; regional wall-motion abnormalities improved."
+        },
+        {
+            "procedure_name": "Cortisol level testing",
+            "date": "On admission",
+            "findings": "Cortisol level was low at 3.7 μg per deciliter.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

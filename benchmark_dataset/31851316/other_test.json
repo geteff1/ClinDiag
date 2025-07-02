@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Metastatic pheochromocytoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing",
+            "date": "Not specified",
+            "findings": "Positive for SDHB and TP53 germline mutations.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT-guided fine needle aspiration biopsy",
+            "date": "Not specified",
+            "findings": "Non-diagnostic.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Two months after diagnosis",
+            "findings": "Progression of disease, with enlargement of the right adrenal mass and aortocaval lymph node conglomeration.",
+            "changes_over_time": "The right adrenal mass increased in size and now abutted the inferior vena cava."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Subsequent follow-up",
+            "findings": "Extensive disease with increased plasma metanephrines levels.",
+            "changes_over_time": "Significant rise in plasma normetanephrines and metanephrines after initial diagnosis."
+        },
+        {
+            "procedure_name": "C3 Laminectomy",
+            "date": "Two months after the initial diagnosis",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

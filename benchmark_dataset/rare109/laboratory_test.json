@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "7.4 (normal value: 4.0–5.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "94 mm/h (normal value: 0–15)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein (CRP)",
+            "date": "Not specified",
+            "findings": "131.8 mg/L (normal value: 0.0–10.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total leukocyte count (TLC)",
+            "date": "Not specified",
+            "findings": "Markedly high with reduction in lymphocyte count.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

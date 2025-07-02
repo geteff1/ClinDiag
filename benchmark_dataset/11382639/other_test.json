@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Noduloulcerative basal cell carcinoma in the eyelid.",
+            "changes_over_time": "Local recurrence after excision in multiple patients."
+        },
+        {
+            "procedure_name": "External Beam Radiotherapy (EBRT)",
+            "date": "1999",
+            "findings": "Reduction in the size of the orbital mass.",
+            "changes_over_time": "Patient continued to have residual tumor but remained comfortable as of June 2000."
+        },
+        {
+            "procedure_name": "Excision",
+            "date": "1995",
+            "findings": "Ulcerated nodular lesion excised from the right upper eyelid.",
+            "changes_over_time": "Patient tumor free in June 2000."
+        },
+        {
+            "procedure_name": "Orbital Exenteration",
+            "date": "1993",
+            "findings": "Orbital infiltration observed.",
+            "changes_over_time": "Patient free of local orbital disease and metastasis in June 2000."
+        }
+    ]
+}

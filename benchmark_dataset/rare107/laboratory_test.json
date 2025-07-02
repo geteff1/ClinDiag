@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Kidney function test",
+            "date": "Not specified",
+            "findings": "Creatinine level of 33 µmol/L (within normal range), urea nitrogen level of 4.6 mmol/L (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tumor marker tests",
+            "date": "Not specified",
+            "findings": "CEA <0.30 ng/ml, AFP 2.15 IU/ml, CA-125 17.0 U/ml, CA19-9 9.42 U/ml, βHCG < 0.20 mIU/ml, NSE 11.6 ng/ml, CK-19 1.8 ng/ml (all findings are within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological examination",
+            "date": "Not specified",
+            "findings": "Immature nephrons of different sizes/stages of differentiation, confirming diagnosis of CPDN (Cystic Partially Differentiated Nephroblastoma)",
+            "changes_over_time": "Second histopathological examination also confirmed CPDN"
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Not specified",
+            "findings": "Vimentin (+), Wilms tumor protein (+), epithelial membrane antigen (+), S-100 (−), NSE (−), Ki-67 index of 17%",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

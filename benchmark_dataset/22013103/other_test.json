@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ACTH Level Measurement",
+            "date": "Not specified",
+            "findings": "Undetectable ACTH concentrations, confirming ACTH deficiency.",
+            "changes_over_time": "Sequential measurements under basal or stimulated conditions showed consistent lack of response."
+        },
+        {
+            "procedure_name": "Cortisol Level Measurement",
+            "date": "Not specified",
+            "findings": "Cortisol was undetectable on several occasions, indicating cortisol deficiency.",
+            "changes_over_time": "Persistently low cortisol levels during hypoglycemic episodes."
+        },
+        {
+            "procedure_name": "Thyroid and Pituitary Antibody Assay",
+            "date": "Not specified",
+            "findings": "Negative results for antipituitary autoantibodies as well as thyroid antibodies.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Genetic Testing for TPIT, LIF, IKAROS, EOS",
+            "date": "Not specified",
+            "findings": "No pathogenic allelic variation identified; normal coding sequence.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pituitary MRI",
+            "date": "Not specified",
+            "findings": "Pituitary was either normal or hypoplastic; unremarkable MRI in one patient.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

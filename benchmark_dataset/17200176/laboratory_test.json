@@ -1,0 +1,94 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum FSH",
+            "date": "Not specified",
+            "findings": "2.2 mIU/ml (normal range: 5–20 mIU/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum LH",
+            "date": "Not specified",
+            "findings": "2.5 mIU/ml (normal range: 2–30 mIU/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum T4",
+            "date": "Not specified",
+            "findings": "11.3 µg/dl (normal range: 4.5–12.5 µg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum prolactin",
+            "date": "Not specified",
+            "findings": "11.3 ng/ml (normal range: 2–20 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dynamic Pituitary Testing",
+            "date": "Not specified",
+            "findings": "FSH did not change; LH peaked at 10 mIU/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum estradiol",
+            "date": "20 years, after ovulation induction",
+            "findings": "250 pg/ml (peak serum estradiol)",
+            "changes_over_time": "Increased from 201 µg total urinary estrogens to 250 pg/ml."
+        },
+        {
+            "procedure_name": "Serum testosterone",
+            "date": "20 years",
+            "findings": "51 ng/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol",
+            "date": "20 years",
+            "findings": "12.3 µg/dl (normal range: 8.7–22.4 µg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI pituitary",
+            "date": "20 years",
+            "findings": "Negative for tumor, normal olfactory bulbs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GnRH stimulation and TRH testing",
+            "date": "At age 7 months",
+            "findings": "Maximal FSH 4 mIU/ml; maximal LH 56 mIU/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum FSH",
+            "date": "At age 16 months",
+            "findings": "0.7 mIU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum LH",
+            "date": "At age 16 months",
+            "findings": "Less than 0.5 mIU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum TSH",
+            "date": "At age 16 months",
+            "findings": "1.28 µIU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum estradiol",
+            "date": "At age 14 years",
+            "findings": "Less than 20 pg/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum prolactin",
+            "date": "At age 14 years",
+            "findings": "3 ng/ml",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

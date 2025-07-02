@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Spinal Angiography",
+            "date": "Not specified",
+            "findings": "Large macro-arteriovenous fistula (MAVF) fed by the posterior spinal arteries of T-12 and L-1 on the left and L-2 on the right.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postembolization Selective Angiography",
+            "date": "Not specified",
+            "findings": "No residual filling of the varix; complete obliteration of the MAVF. Intact blood supply to the conus medullaris and lower thoracic spinal cord confirmed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "1 day after embolization",
+            "findings": "Reduction in size of the venous varix and resolution of perimedullary flow voids.",
+            "changes_over_time": "Partial resolution of spinal cord edema noted."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "10 months after embolization",
+            "findings": "Complete resolution of T2 hyperintensity in the spinal cord; no abnormal perimedullary flow voids.",
+            "changes_over_time": "Hemosiderin deposits evident in the residual cavity of the venous varix."
+        }
+    ]
+}

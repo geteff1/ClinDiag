@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cordocentesis",
+            "date": "Not specified",
+            "findings": "High TSH concentration (336 mU/liter)",
+            "changes_over_time": "Further enlargement of goiter observed in subsequent ultrasound"
+        },
+        {
+            "procedure_name": "Intraamniotic injection of levothyroxine",
+            "date": "Not specified",
+            "findings": "Initial injection dosage was 200 /H9262g",
+            "changes_over_time": "After the first injection, the fetal goiter size reduced to 30/18 mm"
+        },
+        {
+            "procedure_name": "Umbilical vein blood sampling",
+            "date": "27 weeks gestation (first pregnancy)",
+            "findings": "Confirmed important fetal hypothyroidism with high serum TSH (336 mU/liter) and undetectable fT4 levels",
+            "changes_over_time": "At subsequent sampling, serum TSH was elevated again during second pregnancy (472 mU/liter)"
+        },
+        {
+            "procedure_name": "Cord blood analysis",
+            "date": "At birth (first pregnancy)",
+            "findings": "Elevated TSH (284 mU/liter) and low free T4 (5.5 pmol/liter)",
+            "changes_over_time": "Normal TSH concentration (0.31 mU/liter) on day 15 after treatment"
+        },
+        {
+            "procedure_name": "Cord blood analysis",
+            "date": "At birth (second pregnancy)",
+            "findings": "TSH concentration was 39 mU/liter and serum Tg level was low (0.7 ng/ml)",
+            "changes_over_time": "Normal TSH concentration (0.2 mU/liter) on day 15 following treatment"
+        }
+    ]
+}

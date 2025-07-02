@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomegaly; mild atelectasis in the right lower lobe; lungs were clear.",
+            "changes_over_time": "On the seventh hospital day, chest radiographs showed an enlarged cardiac silhouette and bilateral pleural effusions with associated atelectasis."
+        },
+        {
+            "procedure_name": "Computed tomography (CT) scan of abdomen and pelvis",
+            "date": "Third hospital day",
+            "findings": "No abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic echocardiogram",
+            "date": "Not specified",
+            "findings": "Pericardial effusion; an echolucent space consistent with abscess cavity 2.3 cm by 0.92 cm in the anterior aortic-root wall; thickened aortic valve; moderate-to-severe aortic regurgitation.",
+            "changes_over_time": "On the sixth hospital day, a transesophageal echocardiogram showed thickening of the aortic root and evidence of new pericardial effusion with mobile, hyperechoic masses consistent with vegetations."
+        },
+        {
+            "procedure_name": "Transesophageal echocardiogram",
+            "date": "Sixth hospital day",
+            "findings": "Echogenic masses on the right coronary cusp suggestive of vegetations; mild pericardial effusion; severe aortic regurgitation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

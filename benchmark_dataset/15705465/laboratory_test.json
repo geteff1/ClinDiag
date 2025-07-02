@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "160 mmol/L (outside normal range)",
+            "changes_over_time": "Increased creatinine clearance to 102 mL/min after 3 months."
+        },
+        {
+            "procedure_name": "Urinary creatinine clearance",
+            "date": "Not specified",
+            "findings": "66 mL/min (outside normal range)",
+            "changes_over_time": "Increased to 102 mL/min after 3 months."
+        },
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "Not specified",
+            "findings": "9.6 mmol/L (outside normal range)",
+            "changes_over_time": "Decreased to 4.4 mmol/L after 3 months."
+        },
+        {
+            "procedure_name": "LDL cholesterol",
+            "date": "Not specified",
+            "findings": "7.2 mmol/L (outside normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum creatine phosphokinase",
+            "date": "Not specified",
+            "findings": "744 U/L (elevated)",
+            "changes_over_time": "Returned to normal after 3 months."
+        },
+        {
+            "procedure_name": "Thyroid stimulating hormone (TSH)",
+            "date": "Not specified",
+            "findings": "146 mU/L (outside normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum thyroxin",
+            "date": "Not specified",
+            "findings": "3.1 pmol/L (outside normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "ST-segment elevation and negative T waves; abnormal.",
+            "changes_over_time": "Normal after 3 months."
+        }
+    ]
+}

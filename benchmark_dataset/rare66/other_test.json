@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal electrocardiogram",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Slow posterior dominant rhythm with diffuse background slowing and occasional bursts of polymorphic delta waves with higher amplitude over the right hemisphere.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "homocysteine level measurement",
+            "date": "Not specified",
+            "findings": "Extremely elevated homocysteine levels at >500 µmol/L and elevated fasting homocysteine levels at 106 µmol/L.",
+            "changes_over_time": "Follow-up over two years showed improvement of initially low serine levels, increase in taurine and beta-aminoisobutyric acid levels."
+        },
+        {
+            "procedure_name": "dual-energy X-ray absorptiometry (DEXA) scan",
+            "date": "Not specified",
+            "findings": "Low bone mineral density with lumbar spine Z-scores of -1.7, femoral neck Z-score of -2.3, and hip Z-score of -2.2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT angiogram",
+            "date": "Not specified",
+            "findings": "Significant aortic thrombosis below the superior mesenteric artery involving the left renal artery with infarction of the lower and mid poles of the left kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "thrombophilia workup",
+            "date": "Not specified",
+            "findings": "Unremarkable, including levels and activity of protein C, protein S, factor V Leiden, antithrombin, factor II 20210A, and antibodies to antiphospholipid syndrome.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

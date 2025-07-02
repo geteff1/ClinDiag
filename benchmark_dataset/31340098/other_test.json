@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia with left axis deviation, left atrial abnormality, early R-wave progression, and ST-segment depressions in the anterior leads.",
+            "changes_over_time": "Improved ST-segment depressions in the anterior leads noted in a repeat ECG, and normal sinus rhythm with resolution of the ST-segment depressions at the final ECG."
+        },
+        {
+            "procedure_name": "Flexible bronchoscopy",
+            "date": "Not specified",
+            "findings": "Normal-appearing airway with pink frothy secretions, without purulent exudates or bleeding.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Hospital day 2",
+            "findings": "Hyperdynamic left ventricular systolic function with a large portion of the posterior mitral leaflet flail, severe mitral regurgitation, and pulmonary hypertension.",
+            "changes_over_time": "Postoperative echocardiogram showed preserved biventricular function and trace mitral regurgitation."
+        },
+        {
+            "procedure_name": "Arteriography",
+            "date": "Not specified",
+            "findings": "No evidence of clinically significant obstructive coronary artery disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Intraoperative",
+            "findings": "Hyperdynamic left ventricular systolic function with flail segments of the posterior mitral leaflet and evidence of ruptured chordae.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

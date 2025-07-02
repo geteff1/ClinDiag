@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/90 mmHg",
+                "pulse": "90 bpm",
+                "respiratory_rate": "20",
+                "temperature": "Afebrile"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Distended abdomen, soft and nontender, without hepatosplenomegaly or masses.",
+                "vaginal_exam": "Irregular and enlarged uterus, corresponding to 16 weeks’ gestation.",
+                "urinalysis": "Positive for protein and trace positive for ketones; sediment contained moderate bacteria and a few uric acid crystals, without red or white cells.",
+                "hemogram": {
+                    "hematocrit": "46.3%",
+                    "white_cell_count": "24,900/mm³ (94% neutrophils, 3% lymphocytes, 2% monocytes, 1% eosinophils)",
+                    "platelet_count": "444,000/mm³"
+                },
+                "prothrombin_time": "Normal",
+                "partial_thromboplastin_time": "Slightly low at 22.0 seconds."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

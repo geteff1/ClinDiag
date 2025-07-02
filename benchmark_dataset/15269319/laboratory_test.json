@@ -1,0 +1,60 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": {
+                "white_cells": "7400 per mm³",
+                "hematocrit": "38.1%",
+                "hemoglobin": "12.9 g/dL",
+                "red_cell_count": "4.19 x 10⁶ per mm³",
+                "platelets": "326,000 per mm³",
+                "mean_corpuscular_volume": "91 µm³",
+                "mean_corpuscular_hemoglobin": "30.7 pg/red cell",
+                "mean_corpuscular_hemoglobin_concentration": "33.7 g/dL",
+                "red_cell_distribution_width": "13.7%",
+                "hemoglobin_pattern": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial Blood Gas Studies",
+            "date": "Not specified",
+            "findings": {
+                "hemoglobin": "12.9%",
+                "SpO₂": "94%",
+                "fractional_saturation": "89%",
+                "SaO₂": "98%",
+                "pulse": "77 beats/min",
+                "pH": "7.43",
+                "partial_pressure_of_arterial_oxygen": "98 mm Hg",
+                "partial_pressure_of_arterial_carbon_dioxide": "33 mm Hg"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Co-oximetry",
+            "date": "Not specified",
+            "findings": {
+                "methemoglobin_concentration": "8.6%",
+                "reference_range": "0.4 to 1.5%"
+            },
+            "changes_over_time": "Methemoglobin level can decline by 40% per day."
+        },
+        {
+            "procedure_name": "High-Performance Liquid Chromatography",
+            "date": "Not specified",
+            "findings": "Normal hemoglobin pattern found.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cytochrome b5 reductase Assay",
+            "date": "Not specified",
+            "findings": {
+                "activity": "6.9 IU per gram of hemoglobin",
+                "reference_range": "10.1 to 19.4"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "210/85 mm Hg",
+                "pulse_rate": "68/min",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "thyroid_gland": "Asymmetrically enlarged with palpable lumps",
+                "heart": "Regular heart rate with a noncharacteristic systolic murmur grade 2–3 over the mitral valve",
+                "ECG": "Sinus bradycardia with short QT time",
+                "calcium_levels": {
+                    "S-Ca": "4.48 mmol/liter",
+                    "ionized_calcium": "2.75 mmol/liter",
+                    "S-PTH": "63 pmol/liter",
+                    "alkaline_phosphatase": "485 U/liter",
+                    "serum_phosphate": "Low"
+                },
+                "ultrasonography": {
+                    "thyroid": "4- to 5-cm cystic process in the left caudal pole and a single nodule in the lower right lobe",
+                    "parathyroid": "Hyperactive area of 2.5-cm diameter in the right caudal pole"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "postoperative_condition": "Good general condition; polydipsia and polyuria significantly reduced; mood improved",
+                "S-Ca": {
+                    "postoperative": "2.28 mmol/liter (total) and 1.32 mmol/liter (ionized)",
+                    "S-PTH": "7.7 pmol/liter"
+                }
+            },
+            "changes_over_time": "S-Ca dropped from 4.48 mmol/liter preoperatively to 2.28 mmol/liter postoperatively, indicating improvement. Symptoms improved postoperatively."
+        }
+    ]
+}

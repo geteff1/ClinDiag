@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "hydration_status": "Moderately dehydrated",
+                "hyperpigmentation": "Not present",
+                "hyponatremia": "110 mmol/liter",
+                "hyperkalemia": "7.2 mmol/liter"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

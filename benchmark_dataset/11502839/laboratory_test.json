@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "TSH",
+            "date": "Not specified",
+            "findings": "150 mU/liter (normal range, 0.3–4.5 mU/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total T4",
+            "date": "Not specified",
+            "findings": "48 nmol/liter (normal range, 62–154 nmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum TG",
+            "date": "Not specified",
+            "findings": "12.3 pmol/liter (normal range, 3–48 pmol/liter)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-TG antibodies",
+            "date": "Not specified",
+            "findings": "Negative (normal range, /H11021200 U/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-TPO antibodies",
+            "date": "Age 31 years (after initial diagnosis)",
+            "findings": "201 U/ml (normal range, /H1102160 U/ml). Initial finding was negative.",
+            "changes_over_time": "Elevated to 150 U/ml three years after the initial diagnosis of mild thyroid failure, while the mother showed a gradual increase in anti-TPO antibodies."
+        },
+        {
+            "procedure_name": "Thyroid Function Tests for Mother",
+            "date": "Age 31 years",
+            "findings": "TSH: 14.8 mU/liter (normal range, 0.3–4.5 mU/liter), Free T4: 6.4 pmol/liter (normal range, 8–26 pmol/liter)",
+            "changes_over_time": "Initially euthyroid in early adulthood, later diagnosed with mild autoimmune hypothyroidism at age 31 years."
+        }
+    ]
+}

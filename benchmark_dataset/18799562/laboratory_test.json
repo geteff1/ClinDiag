@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "34.9% on admission to another hospital; 37.6% at the second hospital; 33.6% at the fifth hospital day; 35.8% on the 15th hospital day; 32.0% on the 22nd hospital day",
+            "changes_over_time": "Decreased from 34.9% to 32.0% over the course of hospitalization"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "14.4 g/dL on admission to another hospital; 12.7 g/dL at the second hospital; 13.6 g/dL at the fifth hospital day; 12.6 g/dL on the 15th hospital day; 11.4 g/dL on the 22nd hospital day",
+            "changes_over_time": "Decreased from 14.4 g/dL to 11.4 g/dL over the course of hospitalization"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "4,600 per mm³ on admission; 3,100 on the fifth hospital day; 2,400 on the 22nd hospital day; 3,400 on the 46th hospital day",
+            "changes_over_time": "Decreased from 4,600 to 2,400 then increased to 3,400 over the course of hospitalization"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "149,000 on the fifth hospital day; 217,000 on the 15th hospital day; 308,000 on the 22nd hospital day; 234,000 on the 46th hospital day",
+            "changes_over_time": "Increased from 149,000 to 308,000 over the course of hospitalization"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.8 mg/dL on admission to another hospital; 0.8 mg/dL at the second hospital; 1.0 mg/dL at the fifth hospital day; 0.8 mg/dL on the 22nd hospital day; 0.7 mg/dL on the 46th hospital day",
+            "changes_over_time": "Stable values over the course of hospitalization"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Sodium 142 mmol/L on admission; Potassium 4.4 mmol/L at the second hospital; Phosphorus 5.2 mg/dL at the fifth hospital day; Calcium 7.2 mg/dL on admission; increased to 9.9 mg/dL by the 46th hospital day",
+            "changes_over_time": "Fluctuated with significant changes noted, particularly in phosphorus and calcium levels"
+        }
+    ]
+}

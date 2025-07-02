@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "pulse": "118 bpm",
+                "respiratory_rate": "32 bpm",
+                "blood_pressure": "110/75 mm Hg"
+            },
+            "relevant_findings": {
+                "stridor": "Intermittent, mild inspiratory stridor noted while asleep",
+                "swelling": "Very swollen face and neck",
+                "cervical_veins": "Prominent, tender cervical veins, twisted superficial vessel on posterior upper chest",
+                "heart": "Grade 3 systolic ejection murmur heard",
+                "oxygen_saturation": "97 to 98 percent by pulse oximetry on ambient air",
+                "lungs": "Clear"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Eight weeks later",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Normal physical examination findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

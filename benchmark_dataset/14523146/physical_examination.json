@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "No murmur or other abnormalities were found; the blood pressure was 105/70 mm Hg.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Approximately two months later",
+            "vital_signs": {
+                "blood_pressure": "100/65 mm Hg",
+                "pulse": "120 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "A new systolic murmur was heard, trace-to-mild tricuspid insufficiency was noted, and a multilobular mass of echoes (4.3 by 3.1 cm) that invaded the tricuspid annulus was present.",
+            "changes_over_time": "Segmental right ventricular dysfunction was present without dilatation. There was a moderate pericardial effusion."
+        },
+        {
+            "date": "Eight weeks after the start of chemotherapy",
+            "vital_signs": "Not specified",
+            "relevant_findings": "The right atrial mass had decreased in size to 1.7 by 3.0 cm and no longer obstructed the tricuspid valve; pericardium appeared free of disease.",
+            "changes_over_time": "The left ventricular ejection fraction decreased from 60 percent to 45 percent after chemotherapy."
+        }
+    ]
+}

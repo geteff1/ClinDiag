@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Tachycardic",
+                "blood_pressure": "90/70 mmHg",
+                "oxygen_saturation": "88% on room air",
+                "respiratory_rate": "Tachypneic",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "edema": "Pitting edema up to the thighs",
+                "swelling": "Periorbital swelling",
+                "lung_sounds": "Bilateral basilar lung crackles"
+            },
+            "changes_over_time": {
+                "improvement": "Patient drastically improved within two days with resolution of symptoms and examination findings after starting treatment."
+            }
+        }
+    ]
+}

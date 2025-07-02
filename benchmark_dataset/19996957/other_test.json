@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Regular sinus rhythm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stress echocardiography",
+            "date": "Not specified",
+            "findings": "Negative for ischemia but showed left ventricular diastolic dysfunction with left ventricular hypertrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) scan",
+            "date": "Postoperative day 4",
+            "findings": "Revealed a 3-cm diameter fluid collection at the colorectal anastomosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peritoneal fluid cultures",
+            "date": "Not specified",
+            "findings": "Positive for Escherichia coli.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

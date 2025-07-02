@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cerebral perfusion SPECT with 99mTc-HMPAO",
+            "date": "Not specified",
+            "findings": "Decreased 99mTc-HMPAO activity in the left parieto-occipital cortex during the aura phase and right-sided weakness.",
+            "changes_over_time": "A second SPECT performed 4 days later, when no neurological symptoms were observed, showed normal regional cerebral blood flow."
+        },
+        {
+            "procedure_name": "CT brain",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI brain",
+            "date": "5 days after admission",
+            "findings": "No significant findings.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

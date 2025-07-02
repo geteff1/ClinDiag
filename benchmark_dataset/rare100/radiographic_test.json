@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fetal MRI",
+            "date": "36 weeks' gestation",
+            "findings": "Occipital meningocele measuring 11 mm × 27 mm × 16 mm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Postnatal MRI brain",
+            "date": "Not specified.",
+            "findings": "A 20 mm × 18 mm × 25 mm cystic lesion at midline of occipital region.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up MRI scan",
+            "date": "At 1 year of age",
+            "findings": "Another cystic lesion at the retrocerebellar region.",
+            "changes_over_time": "No further intracranial cystic lesions developed and no hydrocephalus noted."
+        }
+    ]
+}

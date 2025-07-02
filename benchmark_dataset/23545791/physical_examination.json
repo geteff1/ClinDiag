@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 2007",
+            "vital_signs": "WBC count 3.7 x 10^9/L, Neutrophil count 1.9 x 10^9/L",
+            "relevant_findings": "Decrease in WBC and neutrophil counts without changes in other leukocytes.",
+            "changes_over_time": "WBC count decreased from baseline of 4.2 x 10^9/L."
+        },
+        {
+            "date": "February 2009",
+            "vital_signs": "WBC count 2.5 x 10^9/L, Neutrophil count 1.3 x 10^9/L",
+            "relevant_findings": "Significant decrease in WBC and neutrophil counts.",
+            "changes_over_time": "Decreased further in April 2009."
+        },
+        {
+            "date": "April 2009",
+            "vital_signs": "WBC count 1.9 x 10^9/L, Neutrophil count 1.0 x 10^9/L, Lymphocyte count 0.6 x 10^9/L, Monocyte count 0.3 x 10^9/L, Eosinophil count 0.0 x 10^9/L, Basophil count 0.03 x 10^9/L",
+            "relevant_findings": "Severe leukopenia with lactating symptoms of laryngitis and high fever (40.2 °C).",
+            "changes_over_time": "Patient developed fever and was admitted to the hospital, indicating acute deterioration."
+        },
+        {
+            "date": "May 2011",
+            "vital_signs": "WBC count 5.9 x 10^9/L",
+            "relevant_findings": "Recovery of WBC count after discontinuation of clozapine.",
+            "changes_over_time": "WBC count increased from 1.9 x 10^9/L in April 2009 to 5.9 x 10^9/L."
+        }
+    ]
+}

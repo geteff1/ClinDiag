@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fecal Calprotectin",
+            "date": "7 months before current presentation",
+            "findings": "243 μg per gram (reference range, <50)",
+            "changes_over_time": "Increased to 2144 μg per gram two months before current admission, then more than 3000 μg per gram 7 weeks before current admission"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "7 months before current presentation",
+            "findings": "36.3% (reference range, 36–46)",
+            "changes_over_time": "Decreased to 32.7% 7 weeks before current presentation, then to 31% on current presentation"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "7 months before current presentation",
+            "findings": "11.4 g/dL (reference range, 12–16)",
+            "changes_over_time": "Decreased to 10.6 g/dL 7 weeks before current presentation, then to 9.5 g/dL on current presentation"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "7 months before current presentation",
+            "findings": "6270 per mm3 (reference range, 4500–11,000)",
+            "changes_over_time": "Increased to 9390 per mm3 7 weeks before current presentation, then decreased to 9030 per mm3 on current presentation"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "7 months before current presentation",
+            "findings": "33.4 mg/L (reference range, <8)",
+            "changes_over_time": "Increased to 120 mg/L 7 weeks before current presentation, then to 141.6 mg/L on current presentation"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "7 months before current presentation",
+            "findings": "32 mm/hr (reference range, 0–20)",
+            "changes_over_time": "Increased to 66 mm/hr 7 weeks before current presentation, then decreased to 57 mm/hr on current presentation"
+        }
+    ]
+}

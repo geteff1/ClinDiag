@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38°C",
+                "neutrophil_count": "0.31 × 10^9/L",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "ulcer": {
+                    "dimensions": "8 × 4 cm",
+                    "location": "above the medial malleolus",
+                    "base": "dark granulation tissue with minimal slough",
+                    "border": "well demarcated but irregular",
+                    "surrounding_skin": "violaceous",
+                    "other_findings": "No rheumatoid nodules, petechiae, purpura, or digital infarctions. No varicose veins or skin changes suggestive of chronic venous insufficiency."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

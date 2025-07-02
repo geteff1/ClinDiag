@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total Cholesterol",
+            "date": "August 2000",
+            "findings": "Total cholesterol level of 179 mg/dL (4.6 mmol/L), which is within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "High-Density Lipoprotein (HDL)",
+            "date": "August 2000",
+            "findings": "HDL level of 91 mg/dL (2.4 mmol/L), which is considered high (above normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone Density Testing",
+            "date": "June 2001",
+            "findings": "T score at the femoral neck of -1.68, indicating osteopenia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

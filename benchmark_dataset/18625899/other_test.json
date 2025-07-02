@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm and no additional abnormalities.",
+            "changes_over_time": "New development of negative T waves in leads II, III, aVF, V5, and V6."
+        },
+        {
+            "procedure_name": "Myocardial perfusion imaging (SPECT)",
+            "date": "Not specified",
+            "findings": "No perfusion abnormalities during stress or at rest.",
+            "changes_over_time": "Showed a large irreversible defect in the inferolateral wall, with partial reversibility in the inferior wall."
+        },
+        {
+            "procedure_name": "Contrast-enhanced MRI",
+            "date": "Not specified",
+            "findings": "Revealed subendocardial infarction in the inferolateral wall.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Invasive coronary angiography",
+            "date": "Not specified",
+            "findings": "Proximal occlusion of the right coronary artery with retrograde filling from the left anterior descending coronary artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "February 1999",
+            "vital_signs": "Intraocular pressure: 10 mmHg in both eyes; Platelet level: 320,000/ml (normal, 150,000–350,000/ml)",
+            "relevant_findings": "Best-corrected visual acuity: 20/20 in the right eye and 20/25 in the left eye. Normal anterior segments. Left fundus: normal disc and macula, venous tortuosity and dilatation, dot blot hemorrhages in the midperiphery. Fluorescein angiography: decreased venous return from the superotemporal and superonasal veins in the left eye.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Following hospitalization duration of 10 days",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Visual acuity remained 20/20 in both eyes. Left fundus: increased tortuosity, dot hemorrhages have worsened, with many hemorrhages being superior.",
+            "changes_over_time": "Increase in tortuosity and dot hemorrhages during hospitalization."
+        },
+        {
+            "date": "One week after discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Visual acuity remained 20/20. Left fundus: further increase in venous dilatation and tortuosity, and significant increase in hemorrhages that extended closer to the macula.",
+            "changes_over_time": "Worsening of visual symptoms and fundus findings compared to previous examination."
+        },
+        {
+            "date": "4 months after initial presentation",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Visual symptoms resolved. Retinal blood circulation study: reduction in retinal venous diameters toward normal caliber.",
+            "changes_over_time": "Improvement in visual symptoms and reduction of venous diameters compared to prior findings."
+        },
+        {
+            "date": "7 months after initial presentation",
+            "vital_signs": "Visual acuity: 20/20 in both eyes. Retinal blood circulation study: vessel diameter 125 μm, blood velocity 23.8 mm/second, blood flow 8.8 μl/minute.",
+            "relevant_findings": "Retinal veins no longer tortuous and engorged. Hemorrhages had resolved.",
+            "changes_over_time": "Significant improvement in retinal findings compared to previous evaluations."
+        }
+    ]
+}

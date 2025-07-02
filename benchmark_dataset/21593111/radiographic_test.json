@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Dual-energy X-ray absorptiometry (DXA)",
+            "date": "Not specified",
+            "findings": "Bone mineral density (BMD) Z-score of -19.9 in the L1-L4 spine and -15.0 in the dual total femurs. Corresponding BMD measurements were 2.342 and 1.586 g/cm2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs",
+            "date": "Not specified",
+            "findings": "Characteristic findings of skeletal fluorosis including diffuse osteosclerosis, sparse and coarsened trabeculae, thoracic kyphosis, soft tissue calcification, and ossification. No fractures or diaphyseal expansions.",
+            "changes_over_time": "Observations were typical of phase 3 skeletal fluorosis, indicating more advanced ligamentous calcification than previously reported."
+        },
+        {
+            "procedure_name": "Bone scintigraphy",
+            "date": "Not specified",
+            "findings": "Demonstrated a 'superscan' with increased skeletal radioisotope uptake relative to soft tissues and absence of activity in the kidneys. Increased uptake in the periarticular regions of the knees and ankles.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

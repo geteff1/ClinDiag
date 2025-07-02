@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "30 years",
+            "vital_signs": {
+                "height": "141.8 cm (SDS -2.9)",
+                "weight": "56 kg",
+                "BMI": "28.2 kg/m2",
+                "head_circumference": "54 cm (SDS -1.4)"
+            },
+            "relevant_findings": {
+                "prolactin": "110 U/liter (five times the upper limit of normal)",
+                "testicular_volume": "12 ml",
+                "stretched_pelvic_length": "8 cm",
+                "ichtyosis": "not active",
+                "cardiovascular": "normal",
+                "respiratory": "normal",
+                "abdominal": "normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

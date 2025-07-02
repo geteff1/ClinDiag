@@ -1,0 +1,81 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": {
+                "opening_pressure": 24,
+                "appearance": {
+                    "tube_1": "colorless, clear",
+                    "tube_4": "colorless, clear"
+                },
+                "xanthochromia": "Yes",
+                "red_cells_tube_1": 12,
+                "white_cells_tube_1": 1,
+                "white_cells_tube_4": 3,
+                "protein": 211,
+                "glucose": 63
+            },
+            "changes_over_time": {
+                "red_cells": {
+                    "initial_count": 12,
+                    "subsequent_count": 0
+                },
+                "white_cells_tube_1": {
+                    "initial_count": 1,
+                    "subsequent_count": 4
+                },
+                "protein_levels": {
+                    "initial": 211,
+                    "subsequent": 257
+                },
+                "glucose_levels": {
+                    "initial": 63,
+                    "subsequent": 89
+                }
+            }
+        },
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "Not specified",
+            "findings": "Episodes of generalized irregular high-voltage delta activity throughout, especially anteriorly; intermittent sharp theta activity and transient sharp waves over the left midtemporal region.",
+            "changes_over_time": "A repeat EEG showed occasional left frontotemporal sharp waves and intermittent generalized slowing."
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Not specified",
+            "findings": "No evidence of cancer; changes suggestive of microangiopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "Not specified",
+            "findings": "Occlusion of the superior branch of the retinal artery in the right eye and regions of retinal vascular staining and leakage in both eyes.",
+            "changes_over_time": "Ten days later revealed multiple branch retinal arterial occlusions in both eyes, with regions of edematous retina."
+        },
+        {
+            "procedure_name": "Audiogram",
+            "date": "Not specified",
+            "findings": {
+                "left_ear": {
+                    "description": "Low-frequency sensorineural hearing loss.",
+                    "word_recognition_score": 0
+                },
+                "right_ear": {
+                    "description": "Normal hearing.",
+                    "word_recognition_score": 94
+                }
+            },
+            "changes_over_time": {
+                "left_ear": {
+                    "description": "Stable low-frequency sensorineural hearing loss.",
+                    "word_recognition_score": 42
+                },
+                "right_ear": {
+                    "description": "Normal hearing.",
+                    "word_recognition_score": 92
+                }
+            }
+        }
+    ]
+}

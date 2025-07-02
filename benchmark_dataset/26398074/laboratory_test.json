@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "On admission: 40.4% (normal range 41.0–53.0%), Day of transfer: 31.6%, This Hospital Admission: 32.3%, Day 3: 28.5%",
+            "changes_over_time": "Decreased from 40.4% at admission to 28.5% by Day 3."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "On admission: 13.4 g/dL (normal range 13.5–17.5 g/dL), Day of transfer: 10.9 g/dL, This Hospital Admission: 10.2 g/dL",
+            "changes_over_time": "Decreased from 13.4 g/dL on admission to 10.2 g/dL by Day 3."
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "Not specified",
+            "findings": "On admission: 9900 per mm³ (normal range 4500–11,000), Day of transfer: 9300 per mm³, This Hospital Admission: 11,700 (1 nucleated red cell per 100 white cells), Day 3: 28,500",
+            "changes_over_time": "Increased from 9900 to 28,500 from admission to Day 3."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "On admission: 195,000 per mm³ (normal range 150,000–400,000), Day of transfer: 132,000, This Hospital Admission: 142,000, Day 3: 61,000",
+            "changes_over_time": "Decreased from 195,000 at admission to 61,000 by Day 3."
+        },
+        {
+            "procedure_name": "Activated partial-thromboplastin time",
+            "date": "Not specified",
+            "findings": "On admission: 41.5 seconds (normal range 21.0–33.0 seconds), Day of transfer: 69.5 seconds, This Hospital Admission: 82.4 seconds, Day 3: 116.0 seconds",
+            "changes_over_time": "Increased from 41.5 seconds on admission to 116.0 seconds by Day 3."
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "On admission: 29.6 seconds (normal range 11.0–13.7 seconds), Day of transfer: 40.1 seconds, This Hospital Admission: 41.7 seconds, Day 3: 16.6 seconds",
+            "changes_over_time": "Initially increased to 41.7 seconds on Day 3."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "On admission: 141 mmol/L (normal range 135–145 mmol/L), Day of transfer: 143 mmol/L, This Hospital Admission: 141 mmol/L, Day 3: 137 mmol/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "On admission: 2.9 mmol/L (normal range 3.4–4.8 mmol/L), Day of transfer: 5.5 mmol/L, This Hospital Admission: 5.8 mmol/L, Day 3: 3.6 mmol/L",
+            "changes_over_time": "Increased from 2.9 to 5.8 mmol/L from admission to Day 3."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "On admission: 1.23 mg/dL (normal range 0.60–1.50 mg/dL), Day of transfer: 2.07 mg/dL, This Hospital Admission: 2.13 mg/dL, Day 3: 2.79 mg/dL",
+            "changes_over_time": "Increased from 1.23 mg/dL at admission to 2.79 mg/dL on Day 3."
+        },
+        {
+            "procedure_name": "Bilirubin (total)",
+            "date": "Not specified",
+            "findings": "On admission: 2.0 mg/dL (normal range 0.0–1.0 mg/dL), Day of transfer: 2.9 mg/dL, This Hospital Admission: 3.3 mg/dL, Day 3: 4.0 mg/dL",
+            "changes_over_time": "Increased from 2.0 mg/dL at admission to 4.0 mg/dL on Day 3."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "On admission: 5.9 mmol/L (normal range 0.5–2.2 mmol/L), Day of transfer: 2.2 mmol/L",
+            "changes_over_time": "Decreased from 5.9 mmol/L on admission."
+        }
+    ]
+}

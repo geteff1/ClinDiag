@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "105 bpm",
+                "blood_pressure": "114/55 mmHg",
+                "weight": "61 kg",
+                "BMI": "22 kg/m²"
+            },
+            "relevant_findings": {
+                "skin": "Warm, moist skin",
+                "thyroid_exam": "Moderately sized non-tender, asymmetric goiter estimated at 30 g",
+                "ophthalmopathy": "None"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "weight": "Not specified",
+                "BMI": "Not specified"
+            },
+            "relevant_findings": {
+                "appearance": "Well, afebrile, normal exam",
+                "joint_pain": "Intermittent knee pain, no trauma, no rash or joint effusion",
+                "laboratory_results": {
+                    "CBC": "Normal",
+                    "liver_function_panel": "Normal",
+                    "urinalysis": "Normal",
+                    "ANA": "Negative",
+                    "MPO-ANCA": "Positive at 273 EU/ml"
+                }
+            },
+            "changes_over_time": "Intermittent knee pain developed after restarting MMI, associated with MPO-ANCA vasculitis."
+        }
+    ]
+}

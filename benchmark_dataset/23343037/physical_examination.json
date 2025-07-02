@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37.3°C",
+                "blood_pressure": "158/72 mm Hg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "murmurs": [
+                    {
+                        "type": "holosystolic murmur",
+                        "grade": "2/6",
+                        "location": "apex",
+                        "radiation": "to the axilla"
+                    },
+                    {
+                        "type": "crescendo–decrescendo systolic murmur",
+                        "grade": "2/6",
+                        "location": "base",
+                        "radiation": "to the left upper sternal border"
+                    }
+                ],
+                "abdominal_examination": {
+                    "description": "nondistended with normal bowel sounds",
+                    "tenderness": "moderate tenderness to palpation in the left flank below the costophrenic angle",
+                    "guarding": "no guarding",
+                    "murphy_sign": "negative"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Seven hours after presentation",
+            "vital_signs": {
+                "temperature": "37.8°C",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Temperature increased from 37.3°C to 37.8°C."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple hypoechoic masses in liver, irritable gallbladder wall, and hypoechoic nodules in front of the pancreas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Pulmonary nodules, exudation in both lower lobes, bilateral pleural reactions, and a small amount of right pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Multiple space-occupying lesions in the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET-CT",
+            "date": "Not specified",
+            "findings": "Multiple metastases, hilar lymph node metastasis in the liver, and cervical lymphadenitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Diffuse mass-like and nodular slightly hypodense lesions, some fused, significant ring enhancement in the arterial phase, continuous ring enhancement in the venous and delayed phases, local wall thinning and irritability in the right and left branches of the portal vein, dilated hepatobiliary ducts, thickened and edematous gallbladder wall, and a small amount of ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced MR of the liver",
+            "date": "Not specified",
+            "findings": "Diffuse nodular mass shadows in the liver, mild enhancement of nodular mass shadows, ring-like enhancement changes, unclear left branch of portal vein, possible local invasion of right branch of portal vein, unclear hepatic vein and bile duct in hilar area, slightly dilated bile duct at upper level, and turbidity in left upper quadrant with possible local nodules.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

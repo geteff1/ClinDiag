@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomographic (CT) Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "Multiple pulmonary emboli in the pulmonary arteries in the left lower lobe and right lower lobe; a small wedge-shaped infarction at the left lung base.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler Ultrasound of the Left Leg",
+            "date": "Not specified",
+            "findings": "Deep-vein thrombosis of the left common femoral vein extending into the tibial trunk.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Deep-vein thrombosis in the left common, external, and internal iliac veins extending into the common femoral vein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat Doppler Ultrasound of the Left Leg",
+            "date": "Not specified",
+            "findings": "Nonocclusive deep-vein thrombosis involving the left femoral, popliteal, and calf veins; decreased respiratory variability in the Doppler waveforms of the left common and external iliac veins.",
+            "changes_over_time": "Indicated progression of the condition with recurrent deep-vein thrombosis."
+        },
+        {
+            "procedure_name": "Venography",
+            "date": "Not specified",
+            "findings": "Complete occlusion of the iliac veins with an extensive network of collaterals.",
+            "changes_over_time": "Confirmed the diagnosis of May–Thurner syndrome."
+        }
+    ]
+}

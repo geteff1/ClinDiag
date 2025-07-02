@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Peripheral Blood Smear",
+            "date": "Not specified",
+            "findings": "Erythrocytes with abundant intracellular parasite forms morphologically consistent with Babesia spp., estimated at 15% based on a representative 2000-cell count.",
+            "changes_over_time": "Post-procedure blood smear showed a decrease in parasitemia to <1%."
+        },
+        {
+            "procedure_name": "Real-time Polymerase Chain Reaction (PCR)",
+            "date": "Not specified",
+            "findings": "Positive for Babesia divergens–like DNA and negative for Babesia microti.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Red Blood Cell Exchange",
+            "date": "Not specified",
+            "findings": "Procedure performed urgently to reduce parasitemia.",
+            "changes_over_time": "Parasitemia decreased from 10.1% to <1% immediately after the procedure."
+        }
+    ]
+}

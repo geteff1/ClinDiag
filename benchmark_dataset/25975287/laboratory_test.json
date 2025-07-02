@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gastric GIST pathology analysis",
+            "date": "Not specified",
+            "findings": "Two gastric GISTs measuring 110 mm and 23 mm with an epithelioid and mixed phenotype, showing 2 and 6 mitoses per 50 HPF, classified as high-risk due to rupturing during removal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology of inflammatory fibroid polyps",
+            "date": "Not specified",
+            "findings": "Three gastric inflammatory fibroid polyps found measuring 19 mm, 14 mm, and 10 mm, composed of fibroblasts and inflammatory cells including numerous eosinophils.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic examinations",
+            "date": "Not specified",
+            "findings": "In individual III-3, esophagogastroduodenoscopy revealed three gastric polyps measuring 7 mm, 10 mm, and 15 mm.",
+            "changes_over_time": "In individual III-4, endoscopic ultrasound indicated the larger lesion increased to 40 mm in 16 months."
+        },
+        {
+            "procedure_name": "Genetic testing for PDGFRA mutation",
+            "date": "Not specified",
+            "findings": "Identified a germline PDGFRA mutation (P653L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

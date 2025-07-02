@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Glucose Level Check",
+            "date": "July 1999",
+            "findings": "Glucose level was 177 mg/dL (9.82 mmol/L)",
+            "changes_over_time": "Finger sticks with home glucose monitoring ranged from 113 to 200 mg/dL (6.27-11.10 mmol/L); HbA1C fluctuated, initially at 8.5%, later ranged from 6.9% to 8.0%."
+        },
+        {
+            "procedure_name": "HbA1C Measurement",
+            "date": "Before starting Metformin (21 months after diagnosis)",
+            "findings": "HbA1C value was 8.0%",
+            "changes_over_time": "After starting Metformin, HbA1C improved to 7.5% but later rose to 7.8% before adding Rosiglitazone."
+        },
+        {
+            "procedure_name": "HbA1C Measurement",
+            "date": "Six months after addition of Rosiglitazone",
+            "findings": "HbA1C value was 6.9%",
+            "changes_over_time": "Although HbA1C improved, control had deteriorated over time prompting an increase in Rosiglitazone dose."
+        },
+        {
+            "procedure_name": "Urine Albumin–Creatinine Ratio Measurement",
+            "date": "About 2 years ago",
+            "findings": "Urine albumin–creatinine ratio was 30.6.",
+            "changes_over_time": "All subsequent measurements have been in the 2.6 to 20.0 range."
+        },
+        {
+            "procedure_name": "Ophthalmologic Examination",
+            "date": "Recent",
+            "findings": "Normal examination findings.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

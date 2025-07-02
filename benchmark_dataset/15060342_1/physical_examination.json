@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "6 months",
+            "vital_signs": "Head circumference: 75th percentile.",
+            "relevant_findings": "Normal neurological examination. Normal MRI and CT findings.",
+            "changes_over_time": "At 10.5 months, head circumference was 50th percentile; mild ptosis and midface hypoplasia were noted."
+        },
+        {
+            "date": "27 months",
+            "vital_signs": "Head circumference: 48 cm (5th percentile).",
+            "relevant_findings": "Severe craniosynostosis on CT scans, with high intracranial pressure. Optic nerve sheaths dilated.",
+            "changes_over_time": "Head circumference showed no growth from the previous measure taken 10 months earlier."
+        },
+        {
+            "date": "29 months",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "Visual loss detected; severe swelling and papilledema noted.",
+            "changes_over_time": "Follow-up CT scans revealed increasing severity in craniosynostosis."
+        },
+        {
+            "date": "30 months",
+            "vital_signs": "Not specified.",
+            "relevant_findings": "No papilledema postoperatively; normal macula, vessels, and periphery.",
+            "changes_over_time": "Postoperative follow-up showed improvement in visual function."
+        },
+        {
+            "date": "2 months",
+            "vital_signs": "Head circumference: 95th percentile.",
+            "relevant_findings": "Refer to craniofacial clinic due to papilledema.",
+            "changes_over_time": "Head circumference decreased to 50th percentile at age 6 years."
+        },
+        {
+            "date": "8 months",
+            "vital_signs": "Head circumference: above 50th percentile.",
+            "relevant_findings": "Normal head shape and open sutures confirmed by CT scans.",
+            "changes_over_time": "Development of anterior fontanelle bulge later noted."
+        }
+    ]
+}

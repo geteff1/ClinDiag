@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Tumor had typical features of a paraganglioma with an organoid arrangement of tumor cells with pink granular cytoplasm and nuclear pleomorphism.",
+            "changes_over_time": "During a second operation, the tumor was histologically similar to the previous one."
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "2001",
+            "findings": "A para-aortic mass was discovered; confirmed to be a solid, encapsulated, red-brown tumor, 3.5 by 3.5 cm.",
+            "changes_over_time": "Repeated CT and 131I-metaiodobenzylguanidine scanning have not detected tumor recurrence."
+        },
+        {
+            "procedure_name": "131I-metaiodobenzylguanidine Scintigraphy",
+            "date": "2004",
+            "findings": "Urinary excretion of metanephrines raised suspicion of tumor recurrence.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hematocrit Measurement",
+            "date": "Various (initially 1988)",
+            "findings": "Hematocrit value rose, requiring monitoring and treatment.",
+            "changes_over_time": "Slight elevation of hematocrit during 2004 through the time of publication."
+        },
+        {
+            "procedure_name": "Erythropoietin Measurement",
+            "date": "Pre-resection 2004",
+            "findings": "Serum erythropoietin level was 48 mU/mL before the resection and 32 mU/mL 8 days after the resection.",
+            "changes_over_time": "The relationship between the erythrocytosis and erythropoietin production by the tumor was ruled out."
+        }
+    ]
+}

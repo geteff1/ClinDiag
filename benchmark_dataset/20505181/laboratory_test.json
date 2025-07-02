@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "White-cell count: 13,000 per cubic millimeter (reference range, 4500 to 11,000); normal differential count.",
+            "changes_over_time": "Increased to 15,800 per cubic millimeter six days later."
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "11.7 mg per liter (reference range, <8)",
+            "changes_over_time": "Increased to 19 mg per liter two days later."
+        },
+        {
+            "procedure_name": "Pulmonary Function Tests",
+            "date": "Follow-up visit after smoking cessation",
+            "findings": "Single-breath carbon monoxide diffusing capacity: 21.38 ml per minute per millimeter of mercury (68% of the predicted value); decreased residual volume: 0.94 liters (47% of the predicted value).",
+            "changes_over_time": "Follow-up tests showed complete normalization of the carbon monoxide diffusing capacity."
+        }
+    ]
+}

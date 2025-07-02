@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "164/75 mm Hg",
+                "pulse": "81 bpm",
+                "temperature": "37.7°C",
+                "respiratory_rate": "12 to 16 breaths per minute",
+                "oxygen_saturation": "85 to 90%"
+            },
+            "relevant_findings": "Patient appeared comfortable, without respiratory distress. Skin was pale. Capillary refill occurred in 2 to 3 seconds; no clubbing, cyanosis, or ulcerations. Normal physical examination overall.",
+            "changes_over_time": {
+                "oxygen_saturation": {
+                    "17_months_prior": "89%",
+                    "15_months_prior": "86%",
+                    "current": "85 to 90%"
+                }
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "12 to 16 breaths per minute",
+                "oxygen_saturation": "88%"
+            },
+            "relevant_findings": "Patient appeared comfortable. BMI was 32.8. Blood pressure, pulse, and temperature were normal. Remainder of examination was normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

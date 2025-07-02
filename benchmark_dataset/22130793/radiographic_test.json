@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Skeletal survey",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bone mineral content measurement",
+            "date": "Not specified",
+            "findings": "Measured at 1.3 kg; low for lean tissue mass (SDS /H110022.9).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Follow-up imaging",
+            "date": "At age 5 yr",
+            "findings": "Confirmed residual disease of abdominal Burkitt’s lymphoma.",
+            "changes_over_time": "Following initial chemotherapy, residual disease was noted."
+        }
+    ]
+}

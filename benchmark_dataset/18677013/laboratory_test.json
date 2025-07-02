@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CD4 cell count",
+            "date": "Not specified",
+            "findings": "530/µL",
+            "changes_over_time": "Ranged from 367/µL to 631/µL while receiving treatment."
+        },
+        {
+            "procedure_name": "HIV RNA viral load",
+            "date": "Not specified",
+            "findings": "826 copies/mL",
+            "changes_over_time": "Ranged from 111 to 826 copies/mL with no particular trends noted."
+        },
+        {
+            "procedure_name": "Complete Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatic Function Test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fasting Glucose",
+            "date": "Not specified",
+            "findings": "85 mg/dL (4.7 mmol/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fasting Lipid Profile",
+            "date": "Not specified",
+            "findings": "Total cholesterol: 291 mg/dL (7.53 mmol/L), LDL: 77 mg/dL (1.99 mmol/L), HDL: 31 mg/dL (0.80 mmol/L), Triglycerides: 1130 mg/dL (12.7 mmol/L)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

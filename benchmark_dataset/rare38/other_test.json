@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Initial echocardiogram showed minimal effusion of the free pericardium wall (5 mm) with fibrin presence.",
+            "changes_over_time": "Follow-up echocardiogram showed increased pericardial effusion (20 mm)."
+        },
+        {
+            "procedure_name": "Pericardiocentesis",
+            "date": "Not specified",
+            "findings": "900 ml of serum-hematic liquid evacuated; culture and cytological examinations were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "Initial blood tests were within normal ranges; subsequent tests revealed increased inflammation index (CRP 170 mg/L, ESR 80 mm/h, white blood cell count 10,750/mm3, neutrophils 7,920/mm3).",
+            "changes_over_time": "Last visit blood tests were within normal ranges."
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Electrocardiogram at initial visit was negative.",
+            "changes_over_time": "Last visit electrocardiogram results were within the normal range."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, left ventricular hypertrophy, right bundle-branch block, ST-segment depression in leads I, V4, V5, and V6, T-wave inversion in leads I, aVL, and V4 to V6.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transthoracic Echocardiogram",
+            "date": "Not specified",
+            "findings": "Hypertrophic cardiomyopathy with asymmetric septal hypertrophy, normal systolic function, mild mitral regurgitation, and no dynamic outflow obstruction.",
+            "changes_over_time": "The study was repeated two days later with a peak outflow tract gradient of 12 mm Hg at rest and 15 mm Hg with Valsalva maneuver, indicating no provocable gradient."
+        }
+    ]
+}

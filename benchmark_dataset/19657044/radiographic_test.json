@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "large left adrenal mass and a second tumor in the hilus of the liver with pheochromocytoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "123Iodine-metaiodobenzylguanidine scintigraphy",
+            "date": "Not specified",
+            "findings": "uptake of the adrenal mass but only marginally of the second tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "1998",
+            "findings": "complete ischemic infarction of the left kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "without evidence of tumor recurrence.",
+            "changes_over_time": "Kidney function was slightly impaired."
+        },
+        {
+            "procedure_name": "DOPA-PET",
+            "date": "Not specified",
+            "findings": "showed a 2-cm mass in the right adrenal gland.",
+            "changes_over_time": "This lesion was operated using adrenal sparing endoscopic surgery."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "left carotid body tumor showed slight growth.",
+            "changes_over_time": "Removed at age 34 years."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "remaining head and neck paragangliomas did not grow over 8 years.",
+            "changes_over_time": "Currently, at age 37 years, catecholamines remain normal."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Plasma Ragin Test",
+            "date": "Not specified",
+            "findings": "Nonreactive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Day of admission",
+            "findings": "2.9 mg/dL at the Massachusetts Eye and Ear Infirmary, 3.71 mg/dL at this hospital (both outside normal range)",
+            "changes_over_time": "Rising creatinine levels (2.9 to 3.71 mg/dL)"
+        },
+        {
+            "procedure_name": "Serum Protein Electrophoresis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Proteinuria, hematuria, positive for white cells (>100 white cells per high-power field), cloudy appearance, blood 3+, albumin 2+, sodium 49 mmol/liter, creatinine 0.92 mg/ml (specific findings showed abnormalities)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte Sedimentation Rate",
+            "date": "Not specified",
+            "findings": "20 mm/hr (elevated, normal range is 1-17 for women)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive Protein",
+            "date": "Not specified",
+            "findings": "32.8 mg/L (elevated, normal <8.0 mg/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Pending",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Day of admission",
+            "findings": {
+                "sodium": "135 mmol/L",
+                "potassium": "3.5 mmol/L",
+                "chloride": "95 mmol/L",
+                "carbon_dioxide": "27.8 mmol/L",
+                "urea_nitrogen": "15 mg/dL",
+                "glucose": "107 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

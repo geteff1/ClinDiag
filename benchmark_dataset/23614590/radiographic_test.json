@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiographs of the left forearm",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiograph of the right knee",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the chest",
+            "date": "Not specified",
+            "findings": "Multiple subcentimeter left axillary lymph nodes; mixed lytic and sclerotic lesions involving multiple vertebral bodies and the sternum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen",
+            "date": "Not specified",
+            "findings": "Multiple hypodense lesions in the liver; enlarged kidneys with multiple bilateral hypodense lesions; a large abdominal mass measuring 10.8 cm by 8.3 cm by 12.2 cm; a small amount of ascites; retroperitoneal lymphadenopathy up to 2.5 cm in diameter; mottled lytic-sclerotic appearance of the skeleton without pathologic fractures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "FDG-PET scan",
+            "date": "Not specified",
+            "findings": "Moderate radiotracer uptake in the abdominal mass, multiple lymph nodes, intense uptake in multiple bones.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

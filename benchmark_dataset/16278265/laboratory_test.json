@@ -1,0 +1,61 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "alkaline phosphatase": "440 U/liter (normal: <270 U/liter)",
+                "aspartate aminotransferase": "118 U/liter (normal: <38 U/liter)",
+                "alanine aminotransferase": "135 U/liter (normal: <41 U/liter)",
+                "gamma-glutamyltransferase": "527 U/liter (normal: <53 U/liter)",
+                "total bilirubin": "2.0 mg/dL (normal: <1.0 mg/dL)"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma Uric Acid",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL (normal range: 3.5–7.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Random Plasma Glucose",
+            "date": "Not specified",
+            "findings": "11.8 mmol/L (normal: <11.1 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": {
+                "cholesterol": "6.52 mmol/L",
+                "triglycerides": "4.47 mmol/L",
+                "HDL cholesterol": "0.85 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "urinary protein/creatinine ratio": "0.19 g/g creatinine (normal range: 0–0.25 g/g creatinine)",
+                "serum creatinine": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skeletal Survey",
+            "date": "Not specified",
+            "findings": {
+                "osteopenia": "Present in hands, shoulder joints, and pelvic bones.",
+                "hyperostosis frontalis": "Present.",
+                "knee findings": {
+                    "right_knee": "Alterations consistent with status post removal of infected prosthesis.",
+                    "left_knee": "Reduction in joint space with loss of articular cartilage and erosion of the femoral medial condyle."
+                },
+                "soft_tissue_calcifications": "Calcifications of the Achilles tendon, medial malleolus, and joints of the left foot."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

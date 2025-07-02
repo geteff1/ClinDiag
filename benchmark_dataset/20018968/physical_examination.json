@@ -1,0 +1,88 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "35.9°C",
+                "blood_pressure": "117/69 mm Hg",
+                "pulse": "110 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "breath_sounds": {
+                    "description": "decreased at both lung bases, bronchial breath sounds and egophony on the right"
+                },
+                "uterus_size": "consistent with gestational age"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "132/93 mm Hg",
+                "pulse": "121 bpm",
+                "temperature": "36.9°C",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "94%",
+                "pulmonary_artery_pressure": "58/34 mm Hg",
+                "mean_pulmonary_capillary_wedge_pressure": "36 mm Hg",
+                "central_venous_pressure": "41 mm Hg",
+                "cardiac_output": "5 liters per minute"
+            },
+            "relevant_findings": {
+                "breath_sounds": "coarse and obscured by ventilator sounds",
+                "heart_sounds": "first and second heart sounds were normal with no murmurs",
+                "abdominal_wall": "edematous",
+                "ascites": "evidence of ascites",
+                "limbs": "cool and edematous, with ecchymoses at injection sites, no rash"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "10th day",
+            "vital_signs": {
+                "pulsus_paradoxus": "25 mm Hg",
+                "jugular_vein_distension": "distended to the jawline while seated"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "13th day",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiogram": {
+                    "description": "thickened pericardium (1.5 to 2.0 cm), tethered to left ventricular apex"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "15th day",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Reported improvement in left ventricular ejection fraction from 40% to 65-70% after drainage procedure"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiogram": {
+                    "description": "LVEF improved to 45% after chemotherapy"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "echocardiogram": {
+                    "description": "LVEF improved to 66% two weeks after chemotherapy"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

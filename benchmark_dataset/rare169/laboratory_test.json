@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Lymphocytosis observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (CXR)",
+            "date": "Not specified",
+            "findings": "Normal lung fields with no signs of pneumonia. Subtle irregularities involving the bilateral inferior ribs suggestive of inferior rib notching.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography Angiography (CT-A)",
+            "date": "Not specified",
+            "findings": "Revealed large collateral vessels in the chest wall, tortuously dilated internal mammary arteries, posterior and anterior intercostal arteries, and large paravertebral and parascapular collateral vessels. A complete discontinuity between the aortic arch and descending thoracic aorta noted with a 1.5 cm gap. 3D reconstruction showed distinct outline of aortic interruption.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

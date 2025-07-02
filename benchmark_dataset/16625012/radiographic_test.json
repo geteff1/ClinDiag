@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Opacity, 3.8 by 2.3 cm, in the posterior segment of the right lower lobe of the lung that abutted the pleura, contained air bronchograms, and was suggestive of cancer.",
+            "changes_over_time": "A CT scan obtained three years earlier had been normal. Follow-up CT scans showed the nodule decreased to 1.5 by 2.4 cm, then continued diminishing in size, and ultimately resolved. New nodules and thickening were noted three months later."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Three weeks after biopsy cancellation",
+            "findings": "Nodule in the right lower lobe had decreased further in size and was almost linear in configuration, consistent with a resolving inflammatory process.",
+            "changes_over_time": "The prior nodule decreased in size, showing improvement."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Three months later",
+            "findings": "Two new nodules, each 7 mm in diameter, one in the posterior basal segment of the right lower lobe and the other in the inferior right hilum; patchy parenchymal opacities and mild peribronchial thickening were present, suggestive of recurrent bronchopneumonia.",
+            "changes_over_time": "The original lesion had resolved, indicating progression to new nodules."
+        }
+    ]
+}

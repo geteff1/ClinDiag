@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse_rate": "55/min",
+                "blood_pressure": "133/82 mm Hg",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "bradycardia": true,
+                "craniofacial_dysmorphisms": [
+                    "synophrys",
+                    "dolichocephaly",
+                    "low-set ears with small lobes",
+                    "high-arched palate"
+                ],
+                "evidence_of_congestive_heart_failure": false
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "53/min"
+            },
+            "relevant_findings": {
+                "sinus_bradycardia": true,
+                "left_ventricle_hypertrophy": true,
+                "T_wave_inversions": {
+                    "lateral": true,
+                    "inferior": true
+                },
+                "high_voltage_QRS_complexes": true
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

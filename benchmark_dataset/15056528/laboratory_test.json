@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Prolactin level test",
+            "date": "Not specified",
+            "findings": "Mildly elevated prolactin level at 505 mIU/ml (upper limit of normal = 450 mIU/liter).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estradiol, follicle-stimulating hormone, luteinizing hormone, progesterone tests",
+            "date": "Not specified",
+            "findings": "Estradiol: 44 pmol/liter; Follicle-stimulating hormone: 54 IU/liter; Luteinizing hormone: 30.9 IU/liter; Progesterone: 1.08 nmol/liter, consistent with post-menopausal status.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Dual X-ray absorptiometry scan",
+            "date": "Not specified",
+            "findings": "Spine t-score: -2.02, hip t-score: -1.74 indicating osteopenia.",
+            "changes_over_time": "At 1 year, spine t-score improved from -2.02 to -1.87 (7% improvement) and hip t-score improved from -1.74 to -1.58 (9% improvement)."
+        },
+        {
+            "procedure_name": "QTc interval test",
+            "date": "At 3 hours and 6 hours after atomoxetine ingestion",
+            "findings": "QTc interval at 3 hours: 607 msec; QTc interval at 6 hours: 435 msec.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

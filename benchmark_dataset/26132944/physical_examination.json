@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.3°C",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "136/80 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general_appearance": "well, no acute distress",
+                "skin": "edematous plaques and papules, pseudovesicular lesions on the back",
+                "chest": "normal examination",
+                "cardiac": "normal rate and rhythm, no murmurs",
+                "abdomen": "soft, nontender"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Three weeks after initial presentation",
+            "vital_signs": {
+                "temperature": "39.1°C",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "102/56 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general_appearance": "cachectic and diaphoretic, in discomfort",
+                "skin": "rash less vesicular, more indurated",
+                "chest": "normal examination",
+                "cardiac": "normal rate and rhythm, no murmurs",
+                "abdomen": "soft, nontender, no organomegaly"
+            },
+            "changes_over_time": "Rash evolved from vesicular to indurated."
+        },
+        {
+            "date": "Three weeks after discharge",
+            "vital_signs": {
+                "temperature": "38.2°C",
+                "heart_rate": "170 bpm",
+                "blood_pressure": "85/55 mm Hg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

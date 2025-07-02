@@ -1,0 +1,63 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "1 Month before presentation",
+            "findings": {
+                "Hematocrit": "38.3%",
+                "Hemoglobin": "12.6 g/dL",
+                "White-cell count": "7200 per mm³",
+                "Platelet count": "325,000 per mm³"
+            },
+            "changes_over_time": "Hematocrit decreased to 29.3% and Hemoglobin to 9.4 g/dL within 5 weeks."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Results were normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes and Renal Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Creatinine": "0.84 mg/dL",
+                "Urea nitrogen": "14 mg/dL"
+            },
+            "changes_over_time": "Creatinine increased to 4.38 mg/dL over the course of several months."
+        },
+        {
+            "procedure_name": "C-Reactive Protein",
+            "date": "Not specified",
+            "findings": "54.7 mg per liter (reference value, <8.0 mg/L)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Protein Test",
+            "date": "Not specified",
+            "findings": "Total urine protein was 90 mg per liter (reference range, 0 to 135 mg/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Antinuclear Antibodies Test",
+            "date": "Not specified",
+            "findings": "Positive at 1:1280 dilution.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Free Light Chains",
+            "date": "Not specified",
+            "findings": {
+                "Free kappa light chain": "24.5 mg/L",
+                "Free lambda light chain": "33.5 mg/L"
+            },
+            "changes_over_time": "Free lambda light chain significantly increased over time."
+        },
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Histologic examination revealed fibrosing dermopathy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

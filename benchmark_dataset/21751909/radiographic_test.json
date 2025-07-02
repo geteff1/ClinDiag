@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Barium-swallow examination",
+            "date": "Not specified",
+            "findings": "Narrowing of the distal third of the esophagus, deviation to the left, and smooth mucosa with proximal esophagus dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Heterogeneous soft-tissue mass (4.0 cm) adjacent to the distal esophagus, gastrohepatic and subcarinal lymphadenopathy, and numerous nodules in the right lung.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Combined PET and CT scans",
+            "date": "Not specified",
+            "findings": "Large metabolically active paraesophageal mass of lymph nodes, increased uptake of 18F-FDG in lymph nodes, multiple scattered lung nodules, focus of 18F-FDG uptake in T1 vertebra, and sclerotic bone lesion in L4 vertebra.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT images after crizotinib treatment",
+            "date": "12 weeks after the start of crizotinib therapy",
+            "findings": "Decreased size of the paraesophageal lymph-node mass and subcarinal lymph nodes.",
+            "changes_over_time": "Decreased size of the lesions, overall response meets criteria for a partial response."
+        },
+        {
+            "procedure_name": "Bone scans",
+            "date": "Before and after treatment with crizotinib",
+            "findings": "Increased radio-tracer uptake in T1 and L4 metastases before treatment.",
+            "changes_over_time": "Improvement noted in the T1 and L4 metastases after treatment."
+        }
+    ]
+}

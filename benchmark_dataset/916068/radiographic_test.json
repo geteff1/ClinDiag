@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "barium enema",
+            "date": "Not specified",
+            "findings": "Elevation of the sigmoid colon",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "excretory urogram (IVP)",
+            "date": "Not specified",
+            "findings": "Left hydronephrosis and deviation of the left lower ureter with a suggestion of early dilatation on the right side",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cystogram",
+            "date": "Not specified",
+            "findings": "Irregular contour of the bladder with some elevation of the bladder base",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IVP",
+            "date": "Not specified",
+            "findings": "Asymptomatic with normal blood urea nitrogen and creatinine",
+            "changes_over_time": "At followup 7 years postoperatively, the patient showed improvement in upper tracts, no recurrent disease"
+        },
+        {
+            "procedure_name": "loopogram",
+            "date": "Not specified",
+            "findings": "Asymptomatic with normal blood urea nitrogen and creatinine",
+            "changes_over_time": "At followup 7 years postoperatively, improvement in upper tracts, no recurrent disease"
+        }
+    ]
+}

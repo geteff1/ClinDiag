@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin Level",
+            "date": "Not specified",
+            "findings": "314 mmol/L (reference range, 0–20 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase Level",
+            "date": "Not specified",
+            "findings": "87.5 mkat/L (reference range, 0–0.8 mkat/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time",
+            "date": "Not specified",
+            "findings": "21.3 s (reference range, 10.9–15.3 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "International Normalized Ratio",
+            "date": "Not specified",
+            "findings": "1.85 (reference range, 0.80–1.20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer Level",
+            "date": "Not specified",
+            "findings": "1380.0 ng/mL (reference range, 0–250 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antithrombin III Level",
+            "date": "Not specified",
+            "findings": "31% (reference range, 81%–130%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B Surface Antigen Test",
+            "date": "1 month after lamivudine therapy started",
+            "findings": "Undetectable",
+            "changes_over_time": "Biochemical and coagulation test results were normal 5 weeks after initial therapy."
+        }
+    ]
+}

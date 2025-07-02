@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": [
+                    {
+                        "value": "39.0°C",
+                        "date": "Early September 2021"
+                    },
+                    {
+                        "value": "39.0°C",
+                        "date": "Two weeks later"
+                    },
+                    {
+                        "value": "40.3°C",
+                        "date": "2nd day after admission"
+                    },
+                    {
+                        "value": ">40.0°C",
+                        "date": "48 hours after treatment initiation"
+                    }
+                ]
+            },
+            "relevant_findings": {
+                "tenderness": "Mild tenderness in the upper abdomen without rebound tenderness.",
+                "organ_enlargement": "Liver and spleen palpable 4.0 cm under the ribs."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

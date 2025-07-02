@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.9°C",
+                "pulse": "110 bpm",
+                "blood_pressure": "141/82 mm Hg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general_appearance": "well, no acute distress",
+                "lymphadenopathy": "none",
+                "oropharyngeal_examination": "no erythema or exudate",
+                "lung_examination": "clear to auscultation",
+                "chest_wall": "no tenderness detected",
+                "cardiac_examination": "regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdominal_examination": "soft, nontender with normoactive bowel sounds, no hepatosplenomegaly",
+                "rectal_examination": "guaiac-negative brown stool",
+                "extremities": "1+ bilateral edema to mid-calves",
+                "joint_examination": "no deformity, erythema, warmth, swelling, or tenderness",
+                "skin_examination": "unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "GH stimulation test",
+            "date": "4.9 yr",
+            "findings": "GH levels were very low (1.0 ng/mL) and failed to reach normal levels after stimulation (peak GH, 1.9 ng/mL; normal >7 ng/mL).",
+            "changes_over_time": "At 10.7 yr, GH levels increased slightly (2.8 ng/mL) but were still low. By 14.1 yr, GH levels decreased further to 0.2 ng/mL."
+        },
+        {
+            "procedure_name": "Cortisol test",
+            "date": "4.9 yr",
+            "findings": "Basal cortisol levels were normal and rose adequately in response to hypoglycemia.",
+            "changes_over_time": "Cortisol response to hypoglycemia remained normal up to age 14.1 yr."
+        },
+        {
+            "procedure_name": "TSH stimulation test",
+            "date": "4.9 yr",
+            "findings": "Basal TSH levels were normal but displayed a blunted response to stimulation.",
+            "changes_over_time": "TSH deficiencies continued to be documented at ages 10.7 and 14.1 yr."
+        },
+        {
+            "procedure_name": "PRL test",
+            "date": "4.9 yr",
+            "findings": "Basal PRL levels were normal but showed a blunted response to TRH stimulation.",
+            "changes_over_time": "PRL deficiencies were noted at ages 10.7 and 14.1 yr."
+        },
+        {
+            "procedure_name": "LH and FSH tests",
+            "date": "10.7 yr",
+            "findings": "Gonadotropin levels were below the limit of detection before and after GnRH administration.",
+            "changes_over_time": "Gonadotropin deficiencies persisted at age 14.1 yr."
+        },
+        {
+            "procedure_name": "Combined pituitary stimulation test",
+            "date": "4.9 yr",
+            "findings": "GH, TSH, PRL, LH, FSH levels were measured, with GH showing very low levels.",
+            "changes_over_time": "Repeated evaluations exhibited persistent deficiencies in GH, TSH, PRL, and gonadotropins."
+        }
+    ]
+}

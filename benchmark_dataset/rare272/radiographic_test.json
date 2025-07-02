@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Osteolytic lesion in the right 1st rib and a fracture in the right 2nd rib.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MR lymphangiograms",
+            "date": "Not specified",
+            "findings": "Suspicious leakage and web-like lymphatic channels around the right lower neck and subclavian vein; prominent lymphatic channels in the right upper hemithorax.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracic ductogram",
+            "date": "Not specified",
+            "findings": "No definite contrast leakage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET/CT",
+            "date": "Not specified",
+            "findings": "Increased FDG uptake in the right 1st and 2nd ribs (maximal standardized uptake value = 4.0).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "15-month follow-up",
+            "findings": "A newly developed osteolytic lesion in the right scapula, suggesting a pathological fracture.",
+            "changes_over_time": "Development of a new lesion compared to earlier imaging."
+        }
+    ]
+}

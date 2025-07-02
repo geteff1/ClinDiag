@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Hair sample analysis",
+            "date": "Not specified",
+            "findings": "Evaluated the use of alcohol, smoking, and cocaine during pregnancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine sample analysis",
+            "date": "Not specified",
+            "findings": "Tested for alcohol abuse; results not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiotocographic examination",
+            "date": "Ongoing during hospitalization",
+            "findings": "Normal baseline heart rate, presence of accelerations, absence of decelerations, no uterine contractions, and short-term variability >4.5 ms.",
+            "changes_over_time": "Consistently normal findings during hospitalization."
+        },
+        {
+            "procedure_name": "Multiple ultrasound exams",
+            "date": "Ongoing during hospitalization",
+            "findings": "Persistent signs of reduced amniotic fluid and abnormal fetal Doppler indices.",
+            "changes_over_time": "Initial AFI was 73 mm, decreased to 70 mm; umbilical artery PI increased from 96th to 98th percentile; middle cerebral artery PI and cerebroplacental ratio decreased in percentiles."
+        },
+        {
+            "procedure_name": "Administration of Antenatal corticosteroids",
+            "date": "During hospitalization",
+            "findings": "Administered betamethasone 12 mg intramuscularly, two doses 24 hours apart, to prevent neonatal respiratory distress syndrome.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

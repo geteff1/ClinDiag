@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.5°C",
+                "blood_pressure": "135/85 mm Hg",
+                "heart_rate": "103 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%",
+                "weight": "69 kg",
+                "BMI": "22.5"
+            },
+            "relevant_findings": {
+                "neurological_exam": {
+                    "orientation": "oriented to person and place",
+                    "date": "Not specified",
+                    "cognitive_impairment": "poor attention, concentration, abstract reasoning, and memory",
+                    "motor_findings": "agitated, rocking back and forth; intermittently placed head between side rails"
+                },
+                "asterixis": "present",
+                "vertical_nystagmus": "present",
+                "other_examination_results": "the remainder of the neurologic and general examination was normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

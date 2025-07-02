@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Initial blood glucose was 180 mg/dL; repeated blood sugar was 170 mg/dL; subsequent low blood sugar was 40 mg/dL.",
+            "changes_over_time": "Blood glucose decreased from 180 mg/dL to 170 mg/dL, then dropped to 40 mg/dL before admission."
+        },
+        {
+            "procedure_name": "A1c",
+            "date": "Not specified",
+            "findings": "A1c was 8.5%; later noted to be unchanged at 8%.",
+            "changes_over_time": "A1c remained stable at 8.5% for some time, then decreased slightly to 8%."
+        },
+        {
+            "procedure_name": "Cholesterol",
+            "date": "Not specified",
+            "findings": "Total cholesterol was 220 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level was 1.2 mg/dL upon admission; previous level was 0.9 mg/dL; increased to 2.0 mg/dL postoperatively.",
+            "changes_over_time": "Creatinine increased from 0.9 mg/dL to 1.2 mg/dL, then further increased to 2.0 mg/dL."
+        },
+        {
+            "procedure_name": "Blood Pressure",
+            "date": "Not specified",
+            "findings": "Initial blood pressure was 150/96 mm Hg; systolic pressure remained in the 150-160 mm Hg range; both systolic and diastolic blood pressure dropped to 80 mm Hg and undetectable, respectively, before admission.",
+            "changes_over_time": "Blood pressure persisted in the 150-160 mm Hg range, then dropped drastically before admission."
+        }
+    ]
+}

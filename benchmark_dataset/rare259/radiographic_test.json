@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT) of the head without contrast",
+            "date": "Not specified",
+            "findings": "Chronic microangiopathic ischemic white matter changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the brain without contrast",
+            "date": "Not specified",
+            "findings": "Mild chronic microvascular changes in both cerebral hemispheres, mild parenchymal cerebral volume loss, and additional disproportionate atrophy of the left medial temporal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with a rapid ventricular response and a heart rate of 123 beats per minute.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

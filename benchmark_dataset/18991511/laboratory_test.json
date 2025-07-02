@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "WBC count of 331 cells/mL (76% lymphocytes), protein level of 119 mg/dL, and a normal glucose level.",
+            "changes_over_time": "On a lumbar puncture 2 weeks later, WBC count decreased to 127 cells/mL (87% lymphocytes), protein level decreased to 92 mg/dL, and glucose level was 36 mg/dL, indicating changes in pleocytosis."
+        },
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Hospital day 14",
+            "findings": "Bifrontal epileptiform discharges and an evolving run of stimulus-induced seizures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF sample analysis",
+            "date": "Hospital day 12",
+            "findings": "Positive for HHV-6 by PCR (viral load, 30,000 copies/mL).",
+            "changes_over_time": "On hospital day 40, WBC count decreased to 6 cells/mL and HHV-6 load decreased to 4,400 copies/mL."
+        },
+        {
+            "procedure_name": "Serum HHV-6 load testing",
+            "date": "Hospital day 31",
+            "findings": "HHV-6 load was 93,000 copies/mL.",
+            "changes_over_time": "Decreased to 17,000 copies/mL 3 months after presentation."
+        },
+        {
+            "procedure_name": "MRI of the brain and spine",
+            "date": "4 months after hospital admission",
+            "findings": "Improvement in the areas of white matter and normal spinal cord.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF HHV-6 IgG and IgM titer testing",
+            "date": "Hospital day 20",
+            "findings": "CSF HHV-6 IgG titer was 1:1, and IgM titer was undetectable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

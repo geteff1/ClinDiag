@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "146/86 mmHg",
+                "other_vital_signs": "Normal"
+            },
+            "relevant_findings": {
+                "left_sided_facial_droop": true,
+                "left_sided_motor_weakness": true,
+                "wide_based_gait": true,
+                "other_findings": "Normal"
+            },
+            "changes_over_time": "Improvement in symptoms after commencement of dexamethasone."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

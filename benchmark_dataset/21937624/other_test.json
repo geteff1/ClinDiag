@@ -1,0 +1,48 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Leuprolide acetate stimulation test",
+            "date": "Not specified",
+            "findings": {
+                "baseline_FSH": "< 1.0 mIU/ml",
+                "baseline_LH": "< 1.0 mIU/ml",
+                "3h_post_stimulation_FSH": "3.4 mIU/ml",
+                "3h_post_stimulation_LH": "2.0 mIU/ml",
+                "3h_post_stimulation_estradiol": "9 pg/ml"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "right_ovary_size": "17 mm x 12 mm",
+                "left_ovary_size": "18 mm x 13 mm",
+                "AFC": 0
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "hMG treatment cycles",
+            "date": "Cycle 1 to Cycle 3 (16 weeks course)",
+            "findings": [
+                {
+                    "cycle": 1,
+                    "AMH": "0.20 ng/ml",
+                    "AFC": 0
+                },
+                {
+                    "cycle": 2,
+                    "AMH": "1.02 ng/ml",
+                    "AFC": 4
+                },
+                {
+                    "cycle": 3,
+                    "AMH": "1.26 ng/ml",
+                    "AFC": 6
+                }
+            ],
+            "changes_over_time": "AMH levels increased from 0.20 ng/ml to 1.26 ng/ml over three cycles of hMG treatment."
+        }
+    ]
+}

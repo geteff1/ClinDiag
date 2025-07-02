@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Height: 161.0 cm, Weight: 32.5 kg, BMI: 12.5 kg/m2, Serum Creatine Kinase: 440 U/L",
+            "relevant_findings": "Neurological examination showed weakness and wasting of limb and neck muscles. Diminished deep tendon reflexes. Normal hearing. MRI scan was normal.",
+            "changes_over_time": "Progression of muscle weakness observed; the JMDRS score increased from 23 at treatment initiation to 25 after 2 months, indicating worsening muscle weakness."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Total Daily Dose (TDD) of insulin: 33 U/d decreased to 20 U/d after 6 months.",
+            "relevant_findings": "No side effects experienced from the therapy. U-CPR improved from 4.3 /H9262g/d to 30.2 /H9262g/d after 6 months of pyruvate therapy, then decreased to 4.0 /H9262g/d after therapy ceased.",
+            "changes_over_time": "TDD of insulin decreased from 33 U/d to 20 U/d over the course of treatment. U-CPR levels improved during therapy but fell once treatment was stopped."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Blood glycated hemoglobin (HbA1c): 6.5% at start, decreased to 5.6% after 1 day and remained controlled until cessation of therapy.",
+            "relevant_findings": "No notable sensory defects, ataxia, or respiratory insufficiency observed.",
+            "changes_over_time": "Despite maintenance of good metabolic control during treatment, HbA1c and GA levels increased after cessation of treatment."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "9 Mo before Admission",
+            "findings": "34.4% (normal range: 41.0–53.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "5 Mo before Admission",
+            "findings": "39.4% (normal range: 41.0–53.0)",
+            "changes_over_time": "Increased from 34.4% to 39.4%"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "On 1st Admission",
+            "findings": "41.5% (normal range: 41.0–53.0)",
+            "changes_over_time": "Increased from 39.4% to 41.5%"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "4 Days after Discharge",
+            "findings": "34.3% (normal range: 41.0–53.0)",
+            "changes_over_time": "Decreased from 41.5% to 34.3%"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "On 2nd Admission",
+            "findings": "34.5% (manual, normal range: 41.0–53.0)",
+            "changes_over_time": "Slight increase from 34.3% to 34.5%"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "9 Mo before Admission",
+            "findings": "10.8 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "5 Mo before Admission",
+            "findings": "13.1 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Increased from 10.8 g/dl to 13.1 g/dl"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "On 1st Admission",
+            "findings": "13.5 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Increased from 13.1 g/dl to 13.5 g/dl"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "4 Days after Discharge",
+            "findings": "11.6 g/dl (normal range: 13.5–17.5)",
+            "changes_over_time": "Decreased from 13.5 g/dl to 11.6 g/dl"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "9 Mo before Admission",
+            "findings": "11,100 (normal range: 4500–11,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "5 Mo before Admission",
+            "findings": "10,700 (normal range: 4500–11,000)",
+            "changes_over_time": "Decreased from 11,100 to 10,700"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "On 1st Admission",
+            "findings": "12,300 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased from 10,700 to 12,300"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "4 Days after Discharge",
+            "findings": "15,300 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased from 12,300 to 15,300"
+        },
+        {
+            "procedure_name": "White-cell count",
+            "date": "On 2nd Admission",
+            "findings": "18,000 (normal range: 4500–11,000)",
+            "changes_over_time": "Increased from 15,300 to 18,000"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "9 Mo before Admission",
+            "findings": "472,000 (normal range: 150,000–400,000)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "5 Mo before Admission",
+            "findings": "358,000 (normal range: 150,000–400,000)",
+            "changes_over_time": "Decreased from 472,000 to 358,000"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "On 1st Admission",
+            "findings": "717,000 (normal range: 150,000–400,000)",
+            "changes_over_time": "Increased from 358,000 to 717,000"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "4 Days after Discharge",
+            "findings": "685,000 (normal range: 150,000–400,000)",
+            "changes_over_time": "Decreased from 717,000 to 685,000"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "On 2nd Admission",
+            "findings": "722,000 (normal range: 150,000–400,000)",
+            "changes_over_time": "Increased from 685,000 to 722,000"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "9 Mo before Admission",
+            "findings": "8 ng/ml (normal range: 30–300)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "5 Mo before Admission",
+            "findings": "53 ng/ml (normal range: 30–300)",
+            "changes_over_time": "Increased from 8 ng/ml to 53 ng/ml"
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "On 1st Admission",
+            "findings": "110 ng/ml (normal range: 30–300)",
+            "changes_over_time": "Increased from 53 ng/ml to 110 ng/ml"
+        }
+    ]
+}

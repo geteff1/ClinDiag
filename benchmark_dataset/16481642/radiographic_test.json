@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonographic examination",
+            "date": "Not specified",
+            "findings": "Total retinal detachment with no evidence of calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescein angiogram",
+            "date": "Not specified",
+            "findings": "Many of the larger retinal vessels are dilated and tortuous, some diving into plaque-like areas with extensive telangiectasia and formation of microaneurysms.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "One month after completing therapy",
+            "findings": "No evidence of recurrent tumor.",
+            "changes_over_time": "18 months after original diagnosis, patient was free of tumor."
+        }
+    ]
+}

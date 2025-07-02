@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "At age 2 years: 13 mg/dL (3.25 mmol/L); At age 5 years: 12.1 mg/dL; At age 11 years: 3.15 mmol/L.",
+            "changes_over_time": "Remained elevated over time, with slight declines noted at specific ages."
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "Not specified",
+            "findings": "At age 2 years: 1.13 mmol/L (normal pediatric reference values 1.5–2.1 mmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intact PTH",
+            "date": "Not specified",
+            "findings": "At age 2 years: 53 pg/mL (normal reference values 12–65 pg/mL); At age 11 years: 50 pg/mL.",
+            "changes_over_time": "Slight decrease over time, remaining within normal range."
+        },
+        {
+            "procedure_name": "Fractional Excretion of Calcium (FeCa)",
+            "date": "Not specified",
+            "findings": "At age 2 years: 0.0008.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "1,25 Dihydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "At age 2 years: 89 pmol/L (normal reference values 43–156 pmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "25-Hydroxyvitamin D",
+            "date": "Not specified",
+            "findings": "At age 2 years: 87.5 nmol/L (normal reference values 25–125 nmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "ST-segment elevation in leads V1, V2, V3; sinus tachycardia at 119 beats per minute.",
+            "changes_over_time": "Persistent ST-segment elevations noted upon subsequent admission; complete resolution of ST-segment changes and restoration of R waves in leads V1, V2, and V3 was observed 21 months after initial presentation."
+        },
+        {
+            "procedure_name": "Coronary angiography",
+            "date": "Not specified",
+            "findings": "Left main artery normal; minor stenosis in left anterior descending artery; right coronary artery free of clinically significant disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Left ventriculography",
+            "date": "Not specified",
+            "findings": "Akinesis of the anterior wall, hypokinesis of the apical and distal inferior walls, 45% LVEF.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Severe segmental left ventricular dysfunction with estimated LVEF of 48%.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

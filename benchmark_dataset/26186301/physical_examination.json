@@ -1,0 +1,101 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Weight": {
+                    "Patient A": [
+                        {
+                            "Day 0": "77.9 kg"
+                        },
+                        {
+                            "Day 4": "78.1 kg"
+                        },
+                        {
+                            "Day 9": "76.7 kg"
+                        },
+                        {
+                            "Week 8": "71.7 kg"
+                        }
+                    ],
+                    "Patient B": [
+                        {
+                            "Day 0": "50.4 kg"
+                        },
+                        {
+                            "Day 4": "51.3 kg"
+                        },
+                        {
+                            "Day 9": "50.6 kg"
+                        },
+                        {
+                            "Week 8": "46.6 kg"
+                        }
+                    ]
+                },
+                "BMI": {
+                    "Patient A": [
+                        {
+                            "Day 0": "39.6 kg/m²"
+                        },
+                        {
+                            "Day 4": "39.7 kg/m²"
+                        },
+                        {
+                            "Day 9": "39.0 kg/m²"
+                        },
+                        {
+                            "Week 8": "35.8 kg/m²"
+                        }
+                    ],
+                    "Patient B": [
+                        {
+                            "Day 0": "35.2 kg/m²"
+                        },
+                        {
+                            "Day 4": "35.8 kg/m²"
+                        },
+                        {
+                            "Day 9": "35.3 kg/m²"
+                        },
+                        {
+                            "Week 8": "31.7 kg/m²"
+                        }
+                    ]
+                },
+                "Leptin": {
+                    "Patient A": [
+                        {
+                            "Day 0": "59.7 ng/mL"
+                        },
+                        {
+                            "Day 4": "56.2 ng/mL"
+                        },
+                        {
+                            "Day 9": "46.9 ng/mL"
+                        },
+                        {
+                            "Week 8": "64 ng/mL"
+                        }
+                    ],
+                    "Patient B": [
+                        {
+                            "Day 0": "74.6 ng/mL"
+                        },
+                        {
+                            "Day 4": "Not determined"
+                        },
+                        {
+                            "Day 9": "56.8 ng/mL"
+                        },
+                        {
+                            "Week 8": "20.4 ng/mL"
+                        }
+                    ]
+                }
+            },
+            "relevant_findings": "Both patients displayed severe obesity with marked hyperphagia. The siblings had high circulating levels of leptin and were diagnosed with a mutation (p.N103K) leading to biologically inactive leptin.",
+            "changes_over_time": "Patient A's weight decreased from 78.1 kg (Day 4) to 71.7 kg (Week 8), while Patient B's weight decreased from 51.3 kg (Day 4) to 46.6 kg (Week 8). Their BMI also showed a decrease over the same period."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Visual Acuity Assessment",
+            "date": "April 14, 1999",
+            "findings": "Visual acuity improved from 20/32 to 20/20 within 12 days after initiating treatment with SU5416.",
+            "changes_over_time": "Improvement maintained with visual acuity reaching 20/16 after 4 weeks; returned to 20/32 over the next 6 months due to increasing vitreous floaters."
+        },
+        {
+            "procedure_name": "Automated Visual Field Testing",
+            "date": "April 14, 1999",
+            "findings": "Visual field constricted circumferentially to within 8° of fixation initially, becoming normal after treatment.",
+            "changes_over_time": "Normal visual field observed 5 months after therapy; no significant changes were recorded related to the optic nerve head hemangioblastoma over the follow-up period."
+        },
+        {
+            "procedure_name": "Contrast Sensitivity Testing",
+            "date": "April 14, 1999",
+            "findings": "Contrast sensitivity improved in all but the lowest spatial frequency after treatment.",
+            "changes_over_time": "Most improvement noted in the mid spatial frequencies, with slight loss in sensitivity after 6 months; contrast sensitivity remained normal until the last follow-up."
+        }
+    ]
+}

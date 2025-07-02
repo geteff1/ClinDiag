@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Results were within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bursal Fluid Analysis",
+            "date": "Not specified",
+            "findings": "Fluid showed 55,000 WBCs/mm³, predominantly lymphocytes. Culture of the fluid yielded Sporothrix schenckii.",
+            "changes_over_time": "Cultures from 3 bursal fluid aspirates were negative for fungi over the next 2 months."
+        },
+        {
+            "procedure_name": "Random Drug Levels",
+            "date": "Not specified",
+            "findings": "Serum level: 6.4 mg/mL; Bursal level: 2.3 mg/mL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

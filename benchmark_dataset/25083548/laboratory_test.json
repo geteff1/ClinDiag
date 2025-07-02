@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "September 2, 2012",
+            "findings": "Leukopenia (WBC count 3,600/mm3 [normal 3,800 to 10,600/mm3])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "September 22, 2012",
+            "findings": "Thrombocytopenia (platelet count 94,000/mm3 [normal 140,000 to 400,000/mm3])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin Test",
+            "date": "September 22, 2012",
+            "findings": "Anemia (hemoglobin 11.3 g/dL [normal 12.0 to 16.0 g/dL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "September 22, 2012",
+            "findings": "Acute liver injury (aspartate aminotransferase 662 IU/L [normal 10 to 42 IU/L]; total bilirubin 6.5 mg/dL [normal 0.2 to 1.2 mg/dL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ferritin Level",
+            "date": "September 25, 2012",
+            "findings": "Increased serum ferritin (>7,500 ng/mL [normal range 7 to 282 ng/mL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial Thromboplastin Time",
+            "date": "September 25, 2012",
+            "findings": "Increased partial thromboplastin time (>250 seconds [normal range 25.1 to 36.5 seconds])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrinogen Level",
+            "date": "September 25, 2012",
+            "findings": "Decreased serum fibrinogen (<60 mg/dL [normal range 200 to 393 mg/dL])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Absolute Neutrophil Count",
+            "date": "September 26, 2012",
+            "findings": "Neutropenia (absolute neutrophil count 900/mm3 [normal 1,500 to 8,000/mm3])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase Level",
+            "date": "September 26, 2012",
+            "findings": "Elevated liver enzyme (lactate dehydrogenase 727 IU/L [normal 91 to 180 IU/L])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "September 27, 2012",
+            "findings": "Erythrophagocytosis evident in the bone marrow biopsy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

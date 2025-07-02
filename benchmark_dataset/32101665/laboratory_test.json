@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "At birth",
+            "findings": "22.5 g/dl (Normal range: 14–19.9 g/dl)",
+            "changes_over_time": "Decreased to 19.8 g/dl at 12 years and further decreased to 17.5 g/dl at 22 years."
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "At birth",
+            "findings": "73% (Normal range: 42–64%)",
+            "changes_over_time": "Decreased to 62% at 12 years and further decreased to 55.5% at 22 years."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "At birth",
+            "findings": "24 mg/dl (Normal range: 45–100 mg/dl)",
+            "changes_over_time": "Increased to 42 mg/dl at 12 years and decreased to 49 mg/dl at 22 years."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "At 12 years old",
+            "findings": "42 mg/dl (Normal range: 60–100 mg/dl)",
+            "changes_over_time": "Decreased to 49 mg/dl at 22 years."
+        },
+        {
+            "procedure_name": "Ferritin",
+            "date": "At 12 years old",
+            "findings": "6 ng/ml (Normal range: 20–150 ng/ml)",
+            "changes_over_time": "Increased to 18 ng/ml at 22 years."
+        },
+        {
+            "procedure_name": "Erythropoietin",
+            "date": "At 12 years old",
+            "findings": "496 mU/ml (Normal range: 1.6–34 mU/ml)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "17-Hydroxyprogesterone",
+            "date": "At birth",
+            "findings": "55 μg/liter (Normal range: 0.7–43 μg/liter)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin",
+            "date": "At birth",
+            "findings": "1.28 μU/ml (Normal range: 2.42–13 μU/ml)",
+            "changes_over_time": "Increased to 3.5 μU/ml at 22 years."
+        },
+        {
+            "procedure_name": "Blood pressure",
+            "date": "At 12 years old",
+            "findings": "75/35 mm Hg",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "At 12 years old",
+            "findings": "pH 7.41, pCO2 24.8 mm Hg (Normal range pCO2: 35–45 mm Hg), pO2 121 mm Hg (Normal range pO2: 83–105 mm Hg), cHCO3- 15.6 mmol/liter (Normal range: 22–26 mmol/liter), cBASE -8.1 (Normal range: -2 to 2)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 2021",
+            "vital_signs": {
+                "PASP": "55 mmHg",
+                "femoral_artery_oxygen_saturation": "88.5%"
+            },
+            "relevant_findings": "Mild bilateral lower extremity edema.",
+            "changes_over_time": "Originally acyanotic from 2010 to 2016, the patient gradually became cyanotic after the hemoptysis episode in 2016."
+        },
+        {
+            "date": "July 2016",
+            "vital_signs": {
+                "PASP": "120 mmHg",
+                "femoral_artery_oxygen_saturation": "93.4%"
+            },
+            "relevant_findings": "Severe cough and hemoptysis, approximately 50 ml in volume.",
+            "changes_over_time": "Progression from WHO-FC I to IV occurred, indicating worsening of condition."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cyanosis was observed after the hemoptysis episode.",
+            "changes_over_time": "Gradual improvement in symptoms post hemoptysis, associated with a decrease in pulmonary artery pressure and left ventricular enlargement."
+        }
+    ]
+}

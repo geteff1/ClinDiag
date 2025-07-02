@@ -1,0 +1,73 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "40.2°C (104.4°F)",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "119/60 mmHg",
+                "respiratory_rate": "38 breaths/min",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general_appearance": "ill and diaphoretic",
+                "lung_exam": "Rales heard over the right middle and right lower lung fields",
+                "other_findings": "Good dentition; otherwise normal examination"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day 2 of hospitalization",
+            "vital_signs": {
+                "oxygen_requirement": "up to 10 liters/min through a face mask"
+            },
+            "relevant_findings": {
+                "chest_imaging": "CT showed bilateral ground-glass opacities, small effusions, and lymphadenopathy",
+                "clinical_appearance": "Worsening dyspnea"
+            },
+            "changes_over_time": "Worsening dyspnea developed"
+        },
+        {
+            "date": "Day 6 of hospitalization",
+            "vital_signs": {
+                "white_cell_count": "19,700 per cubic millimeter"
+            },
+            "relevant_findings": {
+                "microbiology": "Blood culture identified Pseudomonas luteola",
+                "chest_imaging": "Repeat radiography showed progression of air-space opacities"
+            },
+            "changes_over_time": "Progression to diffuse air-space opacities compared to prior imaging"
+        },
+        {
+            "date": "Day 8 of hospitalization",
+            "vital_signs": {
+                "oxygen_requirement": "10 liters/min through a face mask"
+            },
+            "relevant_findings": {
+                "lung_exam": "Bibasilar rales with normal air movement",
+                "edema": "Trace symmetric subcutaneous edema in arms and legs",
+                "chest_imaging": "Worsening bilateral opacities"
+            },
+            "changes_over_time": "Worsening overall condition noted"
+        },
+        {
+            "date": "Day 14 of hospitalization",
+            "vital_signs": {
+                "temperature": "oscillating between 38.0°C (100.4°F) and 38.8°C (101.8°F)",
+                "oxygen_requirement": "70% on ventilator"
+            },
+            "relevant_findings": {
+                "chest_imaging": "Progression of previous areas of ground-glass opacity into areas of dense consolidation and worsening bilateral effusions"
+            },
+            "changes_over_time": "Progression of pulmonary findings noted"
+        },
+        {
+            "date": "Day 19 of hospitalization",
+            "vital_signs": {
+                "oxygen_requirement": "4 to 6 liters/min through nasal cannula"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient extubated and discharged, overall condition improved"
+        }
+    ]
+}

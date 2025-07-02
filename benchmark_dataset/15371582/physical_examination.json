@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "37°C",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "140/70 mmHg",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "jugular_venous_pressure": "normal",
+                "lungs": "clear",
+                "systolic_murmur": "grade 2 of 6 at right upper sternal border, radiating to carotid arteries",
+                "peripheral_edema": "none",
+                "femoral_pulses": "+ to ++ without bruits",
+                "pedal_pulses": "++",
+                "neurologic_deficit": "none",
+                "urine": {
+                    "protein": "positive (++)",
+                    "ketones": "positive (+++)",
+                    "bilirubin": "positive (+)",
+                    "sediment": {
+                        "white_cells": "50 to 100 per HPF",
+                        "red_cells": "3 to 5 per HPF",
+                        "bacteria": "moderate amounts"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

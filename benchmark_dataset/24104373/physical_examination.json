@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "March 12, 2009",
+            "vital_signs": {
+                "blood_pressure": "124/78 mm Hg",
+                "pulse": "64 bpm",
+                "jugular_venous_pressure": "6 cm"
+            },
+            "relevant_findings": {
+                "carotid_upstroke": "slightly delayed with no bruits",
+                "heart_sounds": "normal S1, fixed split S2, no S3 or S4",
+                "systolic_ejection_murmur": "grade 3/4, loudest at right upper sternal border radiating toward the carotids",
+                "point_of_maximal_impulse": "not displaced"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": {
+                    "initial": "148/84 mm Hg",
+                    "final": "122/68 mm Hg"
+                }
+            },
+            "relevant_findings": {
+                "echocardiograph": {
+                    "ejection_fraction": ">60%",
+                    "peak_gradient": "97 mm Hg",
+                    "aortic_valve_area": "0.7 cm2",
+                    "mitral_regurgitation": "mild"
+                }
+            },
+            "changes_over_time": "Severity of aortic stenosis increased from 67 mm Hg peak gradient 7 months prior to 97 mm Hg."
+        }
+    ]
+}

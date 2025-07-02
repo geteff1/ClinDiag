@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "bone scan",
+            "date": "Not specified",
+            "findings": "marked right thoracic spinal scoliosis and nonspecific focal uptake of technetium-99m-labeled methylene diphosphonate within the right iliac crest and left distal radius, consistent with degenerative joint disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "pelvic radiograph",
+            "date": "Not specified",
+            "findings": "no evidence of recurrent or metastatic carcinoma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "no evidence of recurrent or metastatic carcinoma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "bone scan",
+            "date": "Not specified",
+            "findings": "extensive skeletal uptake of technetium-99m-labeled methylene diphosphonate, consistent with widespread bone metastases",
+            "changes_over_time": "showed new bone metastases two years after the patient resumed androgen deprivation therapy"
+        }
+    ]
+}

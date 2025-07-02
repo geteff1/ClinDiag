@@ -1,0 +1,17 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Celiac disease",
+        "differential_diagnosis": [
+            "Iron-deficiency anemia due to gastrointestinal bleeding",
+            "Gastric ulcer",
+            "Food allergy (unlikely)",
+            "Acute cholecystitis",
+            "Pancreatitis",
+            "Mesenteric ischemia",
+            "Obstruction of the small bowel",
+            "Celiac disease associated with H. pylori infection (previous)",
+            "Other small bowel lesions"
+        ],
+        "diagnostic_reasoning": "The patient presented with long-standing iron-deficiency anemia and acute abdominal pain that resolved after altitude changes during a flight. Despite extensive evaluation for gastrointestinal causes, no source of chronic bleeding was identified until serologic testing and biopsy confirmed celiac disease, evidenced by marked villous blunting in the duodenal biopsy."
+    }
+}

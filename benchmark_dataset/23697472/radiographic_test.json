@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "4 years before admission",
+            "findings": "Small pulmonary nodule in the right upper lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "3.5 years before admission",
+            "findings": "Well-defined, noncalcified pulmonary nodule, 8 mm by 10 mm, in the right upper lobe; no mediastinal lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "On admission",
+            "findings": "Patchy opacities at lung bases consistent with pneumonia; nodular opacity in the right upper lobe increased in size from 4 years earlier.",
+            "changes_over_time": "Increase in size of the nodule compared to previous imaging."
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "During hospitalization",
+            "findings": "Pulmonary nodule, 11 mm by 13 mm, in the right upper lobe increased in size; multifocal pneumonia bilaterally; small pleural effusions.",
+            "changes_over_time": "Nodule increased in size from the previous CT examination."
+        },
+        {
+            "procedure_name": "Follow-up chest CT with contrast",
+            "date": "Approximately 5 months after discharge",
+            "findings": "Noncalcified nodule, 11 mm by 13 mm, in right upper lobe unchanged; subsegmental atelectasis; resolution of bilateral air-space disease and pleural effusions.",
+            "changes_over_time": "Unchanged from the previous study."
+        }
+    ]
+}

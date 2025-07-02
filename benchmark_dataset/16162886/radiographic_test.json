@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Mild thickening of the bronchial walls bilaterally; no pulmonary, mediastinal, or hilar masses; pleural effusions; or bronchiectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the sinuses",
+            "date": "Not specified",
+            "findings": "Extensive opacification of ethmoid air cells with milder mucosal thickening in the maxillary sinuses; left frontal sinus hypoplastic and the right completely opacified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "EEG showed occasional theta activity in right temporal leads but was unremarkable otherwise.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "CSF was normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ventriculoperitoneal shunting",
+            "date": "Not specified",
+            "findings": "Procedure performed to relieve noncommunicating hydrocephalus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "craniotomy with excision of a colloid cyst",
+            "date": "Not specified",
+            "findings": "Colloid cyst of the third ventricle excised.",
+            "changes_over_time": "Three months after surgery, the patient was considered recovered; the surgical results were thought to be excellent."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sodium Current Recordings",
+            "date": "Not specified",
+            "findings": "Peak sodium current amplitude was markedly reduced in DN/H and DN/DN mice compared with H/H littermates. Late sodium current was increased in DN/DN mice compared with DN/H and H/H littermates.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "At 3 weeks and At 12 weeks",
+            "findings": {
+                "3_weeks": {
+                    "heart_rate": "388 ± 68 bpm for H/H; 354 ± 68 bpm for DN/H; 335 ± 61 bpm for DN/DN",
+                    "P_wave_duration": "13.0 ± 0.6 ms for H/H; 17.0 ± 0.3 ms for DN/H; 19.4 ± 0.5 ms for DN/DN",
+                    "PR_interval": "33.7 ± 0.7 ms for H/H; 35.6 ± 0.7 ms for DN/H; 44.1 ± 0.9 ms for DN/DN",
+                    "QRS_duration": "9.8 ± 0.2 ms for H/H; 11.8 ± 0.3 ms for DN/H; 22.3 ± 2.2 ms for DN/DN",
+                    "QT_interval": "48.5 ± 1.9 ms for H/H; 50.2 ± 1.1 ms for DN/H; 67.6 ± 4.2 ms for DN/DN"
+                },
+                "12_weeks": {
+                    "heart_rate": "387 ± 68 bpm for H/H; 368 ± 611 bpm for DN/H; 317 ± 618 bpm for DN/DN",
+                    "P_wave_duration": "14 ± 0.5 ms for H/H; 18.6 ± 0.3 ms for DN/H; 27.1 ± 1.2 ms for DN/DN",
+                    "PR_interval": "37.8 ± 0.8 ms for H/H; 39.7 ± 0.7 ms for DN/H; 57.1 ± 3.1 ms for DN/DN",
+                    "QRS_duration": "10.7 ± 0.4 ms for H/H; 12.9 ± 0.3 ms for DN/H; 33.4 ± 2.7 ms for DN/DN",
+                    "QT_interval": "51.2 ± 0.6 ms for H/H; 54.8 ± 0.8 ms for DN/H; 77.9 ± 3.7 ms for DN/DN"
+                }
+            },
+            "changes_over_time": "The prolongation of the P-wave duration, PR interval, and QRS duration associated with the DN allele was progressive with age."
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "At 12 weeks",
+            "findings": {
+                "H/H": {
+                    "end_diastole": "3.01 ± 0.08 mm",
+                    "end_systole": "1.49 ± 0.09 mm",
+                    "fractional_shortening": "52.0 ± 1.6%"
+                },
+                "DN/H": {
+                    "end_diastole": "3.09 ± 0.08 mm",
+                    "end_systole": "1.76 ± 0.05 mm",
+                    "fractional_shortening": "43.1 ± 0.7%"
+                },
+                "DN/DN": {
+                    "end_diastole": "3.33 ± 0.07 mm",
+                    "end_systole": "2.01 ± 0.05 mm",
+                    "fractional_shortening": "39.9 ± 0.7%"
+                }
+            },
+            "changes_over_time": "There was consistent and statistically significant end-diastolic and end-systolic left ventricular dilatation and calculated left ventricular fractional shortening reduction in a gene-dose-dependent fashion."
+        },
+        {
+            "procedure_name": "Western Blotting",
+            "date": "Not specified",
+            "findings": "Western blotting showed a reduction in sodium channel protein abundance associated with the DN allele, which was more dramatic in DN/DN compared with DN/H hearts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "mRNA Quantification",
+            "date": "Not specified",
+            "findings": "Real-time polymerase chain reaction showed that SCN5A transcript levels were elevated in mice with the DN allele.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

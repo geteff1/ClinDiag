@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse_rate": "Normal",
+                "blood_pressure": {
+                    "right_arm": "110/74 mmHg",
+                    "left_arm": "80/60 mmHg"
+                },
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "respiratory": "Tachypnea and rhonchi in the right lung fields",
+                "pulse": "Left radial pulse feeble compared to the right",
+                "systemic": "Unremarkable cardiovascular examination"
+            },
+            "changes_over_time": "Blood pressure in the left arm decreased to 80/60 mmHg from 110/74 mmHg in the right arm; left radial pulse was noted to be feeble compared to right."
+        }
+    ]
+}

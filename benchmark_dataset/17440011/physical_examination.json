@@ -1,0 +1,85 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Age 31",
+            "vital_signs": {
+                "creatinine_clearance": "46 ml/min /H185281.73m2",
+                "body_mass_index": "Not specified"
+            },
+            "relevant_findings": {
+                "ultrasonography": "Left kidney atrophic; right kidney normal with a single 12-mm cortical cyst",
+                "mild_fasting_hyperglycemia": "6.8 m m"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 36",
+            "vital_signs": {
+                "body_mass_index": "27.9 kg/m2"
+            },
+            "relevant_findings": {
+                "treatment": "Diet"
+            },
+            "changes_over_time": "Weight loss noted (BMI decreased to 24.6 kg/m2), but hyperglycemia worsened"
+        },
+        {
+            "date": "Age 51",
+            "vital_signs": {
+                "glycosylated_hemoglobin": "6.5%"
+            },
+            "relevant_findings": {
+                "treatment": "Insulin therapy initiated"
+            },
+            "changes_over_time": "Good glycemic control achieved"
+        },
+        {
+            "date": "Age 57",
+            "vital_signs": {
+                "creatinine_clearance": "25 ml/min /H185281.73m2",
+                "diabetic_retinopathy": "Not present"
+            },
+            "relevant_findings": {
+                "plasma_level_gamma_glutamyl_transpeptidase": "Increased up to 4.4 times the upper limit of normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Age 25 (follow-up at age 34)",
+            "vital_signs": {
+                "creatinine_plasma_level": "138 /H9262m",
+                "creatinine_clearance": "80 ml/min /H185281.73m2"
+            },
+            "relevant_findings": {
+                "fasting_blood_glucose": "Range of 5.4–6.0 m m",
+                "HbA1c": "Consistently normal (range 5–5.2%)",
+                "liver_tests": "Normal"
+            },
+            "changes_over_time": "Creatinine level increased to 150 /H9262m at age 34"
+        },
+        {
+            "date": "At birth",
+            "vital_signs": {
+                "creatinine_plasma_level": "123 /H9262m",
+                "creatinine_clearance": "23 ml/min /H185281.73m2"
+            },
+            "relevant_findings": {
+                "metabolic_acidosis": "Present",
+                "ultrasonography": "Bilateral renal atrophy with multiple microcysts"
+            },
+            "changes_over_time": "Renal function improved, creatininemia decreased to 50 /H9262m at 2 months, and 88 /H9262m at 4.5 years"
+        },
+        {
+            "date": "Before death at age 63",
+            "vital_signs": {
+                "creatinine_plasma_level": "400 /H9262m",
+                "creatinine_clearance": "19 ml/min /H185281.73m2",
+                "diabetic_retinopathy": "Not present"
+            },
+            "relevant_findings": {
+                "chronic_renal_failure": "Documented",
+                "age_at_diagnosis_dm": "45 years"
+            },
+            "changes_over_time": "Creatinine levels increased from 230 /H9262m to 400 /H9262m before death"
+        }
+    ]
+}

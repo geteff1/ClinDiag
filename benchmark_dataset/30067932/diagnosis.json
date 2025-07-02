@@ -1,0 +1,20 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Murine typhus",
+        "differential_diagnosis": [
+            "Rocky Mountain spotted fever",
+            "Acute bacterial meningitis",
+            "Viral meningitis",
+            "Zoonotic infections",
+            "Fungal meningitis",
+            "Tuberculous infection",
+            "Autoimmune disease",
+            "Cancer",
+            "Brucellosis",
+            "Leptospirosis",
+            "Q fever",
+            "Relapsing fever"
+        ],
+        "diagnostic_reasoning": "The diagnosis of murine typhus was supported by the patient's clinical presentation including fever, headache, malaise, myalgias, and a rash, particularly following a travel history to a cattle ranch in Texas. Serologic testing showed elevated R. typhi antibody titers consistent with murine typhus, while other differential diagnoses were considered and ruled out based on clinical history and test results."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Mixing study",
+            "date": "Not specified",
+            "findings": "1:1 mix of the patient’s plasma with control plasma yielded an aPTT of 55 seconds, which rose to 64 seconds after incubation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lupus anticoagulant screening test",
+            "date": "Not specified",
+            "findings": "Initially positive, but the addition of phospholipid in the confirmatory assay did not appreciably shorten the aPTT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bethesda assay",
+            "date": "Not specified",
+            "findings": "Inhibitor level of 23 Bethesda units indicating the presence of an acquired factor VIII inhibitor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Re-evaluation of aPTT",
+            "date": "Eight weeks later",
+            "findings": "aPTT was 35 seconds; level of factor VIII activity was 54%.",
+            "changes_over_time": "Initial aPTT was elevated; improvement noted at follow-up."
+        },
+        {
+            "procedure_name": "Long-term follow-up assessment",
+            "date": "Two years after initial presentation",
+            "findings": "No further bleeding episodes; aPTT remains mildly elevated at 39 seconds and factor VIII level is 50 to 60% of normal.",
+            "changes_over_time": "Persistence of mildly elevated aPTT and low-to-normal level of factor VIII activity."
+        }
+    ]
+}

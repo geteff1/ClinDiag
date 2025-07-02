@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Insulin tolerance test",
+            "date": "1995",
+            "findings": "Normal cortisol response; GH deficiency.",
+            "changes_over_time": "In 1999, revealed both GH and ACTH deficiencies."
+        },
+        {
+            "procedure_name": "GnRH stimulation test",
+            "date": "Age 19",
+            "findings": "Undetectable LH and FSH values; testosterone undetectable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Clonidine test",
+            "date": "1999",
+            "findings": "Diagnosed ACTH deficiency.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insulin tolerance test",
+            "date": "1999",
+            "findings": "Cortisol production was normal; GH was deficient.",
+            "changes_over_time": "Comparison to previous test indicates a change from normal cortisol levels at age 9 to low levels in later tests."
+        },
+        {
+            "procedure_name": "Short ACTH test",
+            "date": "1995",
+            "findings": "Suggested hypocortisolism.",
+            "changes_over_time": "Confirmed cocaine deficiency in later evaluations."
+        }
+    ]
+}

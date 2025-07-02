@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Whole Exome Sequencing",
+            "date": "Not specified",
+            "findings": "A homozygous p.D18fs*13 TRDN-encoded triadin frame-shift mutation was discovered in a 10-year-old female LQTS patient.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutational Analysis",
+            "date": "Not specified",
+            "findings": "A variance of either homozygous or compound heterozygous frame-shift mutations in 4/33 (12%) unrelated cases of LQTS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger DNA Sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a homozygous TRDN deletion (c. del 53_56 ACAG) resulting in a frame-shift mutation (p.D18fs*13) in the affected child.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "The index case exhibited a QTc of 500 ms and extensive T-wave inversions in precordial leads V1-V4.",
+            "changes_over_time": "In various patients, extensive T-wave inversions in V1-V4 were consistently documented."
+        },
+        {
+            "procedure_name": "Implantable Cardioverter Defibrillator (ICD) Implantation",
+            "date": "Not specified",
+            "findings": "Multiple appropriate VF/VT-terminating ICD shocks during exercise, emotional stimulation, and sleep.",
+            "changes_over_time": "Patients continued to experience recurrent LQTS-triggered events despite treatment."
+        },
+        {
+            "procedure_name": "Left Cardiac Sympathetic Denervation (LCSD) Surgery",
+            "date": "Not specified",
+            "findings": "Performed as part of the treatment strategy for patients experiencing severe symptoms.",
+            "changes_over_time": "Patients continued to experience events refractory to both beta-blockers and LCSD."
+        }
+    ]
+}

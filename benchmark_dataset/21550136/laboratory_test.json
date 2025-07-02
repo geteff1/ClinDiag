@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Immunohistochemical analysis",
+            "date": "Not specified",
+            "findings": "Normal nuclear staining of MLH1 was found, but expression of MSH2 was absent. Staining for MSH6 was indeterminate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood leukocyte DNA analysis",
+            "date": "Not specified",
+            "findings": "A heterozygous disease-causing mutation in the MSH2 gene was detected; specifically, an insertion mutation 34_35insG was found that resulted in a premature stop at codon 80 in exon 2 of the MSH2 gene.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Completely normal findings with no evidence of polyps or malignancy.",
+            "changes_over_time": "Repeated colonoscopy 2 years later revealed a single polyp with normal mucosal histology and without evidence of microsatellite instability (MSI)."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal transplanted and native kidneys.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal results.",
+            "changes_over_time": "Repeated 6 months later and findings remained normal."
+        }
+    ]
+}

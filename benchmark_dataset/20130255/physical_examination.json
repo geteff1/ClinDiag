@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "94 bpm",
+                "blood_pressure": "110/64 mmHg",
+                "respiratory_rate": "30 breaths per minute",
+                "oxygen_saturation": {
+                    "ambient_air": "88%",
+                    "2_liters_oxygen": "96%"
+                }
+            },
+            "relevant_findings": {
+                "respiratory": "Equal bilateral breath sounds, no wheezes or crackles.",
+                "jugular_venous_pressure": "10 cm above the sternal angle, positive Kussmaul’s sign.",
+                "parasternal_heave": "Left-sided.",
+                "cardiac": "Normal S1, loud, split S2, no S3 or S4 sounds, no murmurs.",
+                "peripheral": "No edema, no rashes, telangiectasia, or other skin changes.",
+                "abdominal": "Soft, nontender, no masses or hepatosplenomegaly.",
+                "joints": "No warmth, swelling, or erythema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

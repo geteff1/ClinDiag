@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "10 days post partum",
+            "vital_signs": {
+                "blood_pressure": "140/74 mm Hg",
+                "pulse": "113 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "99%",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Lungs were clear. An electrocardiogram (ECG) showed sinus rhythm at 130 beats per minute and possible left atrial enlargement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "During transfer to this hospital",
+            "vital_signs": {
+                "blood_pressure": "88/61 mm Hg",
+                "pulse": "136 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Marked anxiety and increased dyspnea; approximately 200 ml of frothy, pink secretions were suctioned during manual ventilation.",
+            "changes_over_time": "Blood pressure rose to 201/176 mm Hg and pulse to 173 bpm before transient fall to 76/43 mm Hg."
+        },
+        {
+            "date": "After arrival at this hospital",
+            "vital_signs": {
+                "blood_pressure": "126/87 mm Hg",
+                "pulse": "164 bpm",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "94%",
+                "temperature": "36.3 °C"
+            },
+            "relevant_findings": "Diaphoretic skin; crackles at both lung bases; heart sounds rapid and regular. Abdomen soft and non-distended.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "7 months follow-up",
+            "vital_signs": {
+                "blood_pressure": "Not specified",
+                "pulse": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": "Left ventricular ejection fraction improved to 46%; left ventricular size and left atrial size had decreased.",
+            "changes_over_time": "Ejection fraction changed as follows: 27% on day 1, 36% on day 6, 39% at 2 months, 46% at 7 months follow-up."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Diagnosed von Recklinghausen’s neurofibromatosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI of the left leg",
+            "date": "Not specified",
+            "findings": "Enlargement of the sciatic nerve, typical appearance of neurofibroma.",
+            "changes_over_time": "Subsequent MRI scanning revealed more widespread disease with multiple tumors of cervical nerve roots."
+        },
+        {
+            "procedure_name": "MRI of the brain and spine",
+            "date": "Not specified",
+            "findings": "No abnormalities of the brain; bilateral enhancing lesions in all cervical neural foramina, with cord compression at C1–2, C2–3, and C4–5.",
+            "changes_over_time": "Increased pain and foot drop developed three months later."
+        },
+        {
+            "procedure_name": "Laminectomy of C3–6",
+            "date": "Not specified",
+            "findings": "Revealed large extradural tumors; all tumors were neurofibromas.",
+            "changes_over_time": "Three months later, the patient’s pain had diminished and his gait had improved, but a new right foot drop developed."
+        },
+        {
+            "procedure_name": "Genetic Test (NF1 gene)",
+            "date": "Not specified",
+            "findings": "No alterations found in the NF1 gene by protein-truncation testing; detected mutation G3827A.",
+            "changes_over_time": "Same mutation found in the nephew."
+        }
+    ]
+}

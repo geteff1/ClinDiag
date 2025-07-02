@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Right temporal mass with surrounding mild edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Low-grade glioma.",
+            "changes_over_time": "Twelve months later, a follow-up MRI showed recurrence of the mass; 21 months after the second surgery, MRI showed a third recurrence of the mass."
+        },
+        {
+            "procedure_name": "MRI with arterial spin-labeling (ASL)",
+            "date": "Not specified",
+            "findings": "Indicated reduced blood flow compatible with a low-grade glioma.",
+            "changes_over_time": "The tumor appeared dark, signifying reduced blood flow compared with surrounding cortex and white matter."
+        },
+        {
+            "procedure_name": "MR spectroscopy",
+            "date": "Not specified",
+            "findings": "Choline/creatinine ratio elevated, indicating a more malignant phenotype before the third resection.",
+            "changes_over_time": "Choline/creatinine ratio normalized after the third resection."
+        }
+    ]
+}

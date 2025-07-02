@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Vitreous culture",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "QuantiFERON-TB test",
+            "date": "Not specified",
+            "findings": "Negative for tuberculosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Treponemal test",
+            "date": "Not specified",
+            "findings": "Negative for syphilis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aqueous fluid PCR assay",
+            "date": "Not specified",
+            "findings": "Positive for T. gondii",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum toxoplasmosis titers",
+            "date": "Not specified",
+            "findings": "IgM- and IgG-positive",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}
