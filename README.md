@@ -188,7 +188,7 @@ This script adopts expert-generated prompts.
 
 `./finetune_example.json`
 
-The multi-turn chat dataset used for fine-tuning a chat model. Unlike evaluation sets that rely on brief excerpts or summaries, a full‐text training corpus contains extensive, verbatim copyrighted material—and public distribution of this level of detail would constitute unauthorized reproduction and redistribution. To avoid any unintentional infringement, we will not distribute the raw source materials. Instead, we curated a synthetic example to provide an illustration of the training data format. 
+The multi-turn chat dataset used for fine-tuning a chat model. Due to copyright concern, the raw source materials is not distributed. Instead, we curated a synthetic example to provide an illustration of the training data format. 
 
 
 ```json
