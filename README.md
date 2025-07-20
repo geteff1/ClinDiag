@@ -119,38 +119,6 @@ A comprehensive clinical dataset of 2,021 real-world cases, encompassing both ra
 
 A set of 35 patient scripts sourced from the hospital’s Objective Structured Clinical Examination (OSCE) test dataset for standardized patient training.
 
-### Fine-Tuning Data (n=7,616) <a name="fine-tune"></a>
-
-`./finetune_data.zip`
-
-(To uncompress, run `unzip finetune_data.zip` in the root directory)
-
-The multi-turn chat dataset used for fine-tuning a chat model. Each conversation example was constructed from a quality-checked real-world case and structured to adhere to standard clinical diagnostic practice. The data is available in both `jsonl` and `json` formats. 
-
-`finetune_data_messages.jsonl`:
-```json
-{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
-{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
-```
-
-`finetune_data_conversations.json`:
-```json
-{
-    "conversations": [
-        [
-            {"from": "system", "value": "..."},
-            {"from": "user", "value": "..."},
-            {"from": "assistant", "value": "..."},
-        ],
-        [
-            {"from": "system", "value": "..."},
-            {"from": "user", "value": "..."},
-            {"from": "assistant", "value": "..."},
-        ]
-    ]
-}
-```
-
 
 ## Usage <a name="usage"></a>
 
@@ -214,4 +182,16 @@ This script adopts expert-generated prompts.
 
 ```bash
 (clindiag) python code/trial_expert_prompt.py --data_dir benchmark_dataset
+```
+
+### Fine-Tuning Data <a name="fine-tune"></a>
+
+`./finetune_data.zip`
+
+The multi-turn chat dataset used for fine-tuning a chat model. Unlike evaluation sets that rely on brief excerpts or summaries, a full‐text training corpus contains extensive, verbatim copyrighted material—and public distribution of this level of detail would constitute unauthorized reproduction and redistribution. To avoid any unintentional infringement, we will not distribute the raw source materials. Instead, we curated a synthetic example to provide an illustration of the training data format. 
+
+
+```json
+{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
+{"messages": [{"role": "system", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}
 ```
