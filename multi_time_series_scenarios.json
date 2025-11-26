@@ -1,0 +1,3180 @@
+[
+  {
+    "scenario_id": 1,
+    "clinical_scenario": "Hemorrhagic Shock. There might be other plausible scenario where patient would present with similar indicators",
+    "description": "Progressive hypotension with compensatory tachycardia due to blood loss.",
+    "patient_info": {
+      "age": 62,
+      "gender": "female",
+      "context": "Motor vehicle collision"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        6,
+        9,
+        11,
+        13,
+        15,
+        19
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          118.0,
+          115.0,
+          107.0,
+          101.0,
+          92.0,
+          87.0,
+          80.0,
+          75.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          82.0,
+          88.0,
+          95.0,
+          102.0,
+          110.0,
+          117.0,
+          129.0,
+          137.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          97.0,
+          97.0,
+          94.0,
+          93.0,
+          94.0,
+          91.0,
+          90.0,
+          88.0
+        ]
+      },
+      "consciousness": {
+        "unit": "AVPU",
+        "values": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "V",
+          "V",
+          "P"
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Tachycardia compensates for hypotension"
+      },
+      {
+        "relationship": "threshold_change",
+        "parameters": [
+          "oxygen_saturation",
+          "consciousness"
+        ],
+        "clinical_significance": "Hypoxia precipitates reduced consciousness"
+      }
+    ],
+    "expected_interpretation": "Progressive hypotension with compensatory tachycardia due to blood loss."
+  },
+  {
+    "scenario_id": 2,
+    "clinical_scenario": "Hypertensive Crisis",
+    "description": "Severely elevated blood pressure with sympathetic surge.",
+    "patient_info": {
+      "age": 31,
+      "gender": "male",
+      "context": "General medical observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        5,
+        7,
+        11,
+        15,
+        17,
+        21,
+        23
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          167.0,
+          178.0,
+          178.0,
+          182.0,
+          184.0,
+          191.0,
+          195.0,
+          195.0,
+          200.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          85.0,
+          89.0,
+          91.0,
+          92.0,
+          94.0,
+          98.0,
+          100.0,
+          100.0,
+          106.0
+        ]
+      },
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          37.0,
+          37.0,
+          37.0,
+          36.0,
+          37.0,
+          37.0,
+          37.0,
+          38.0,
+          38.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Sympathetic activation elevates HR and BP"
+      }
+    ],
+    "expected_interpretation": "Severely elevated blood pressure with sympathetic surge."
+  },
+  {
+    "scenario_id": 3,
+    "clinical_scenario": "Myocardial Infarction",
+    "description": "Acute coronary occlusion causing pain, tachycardia, mild hypotension.",
+    "patient_info": {
+      "age": 45,
+      "gender": "male",
+      "context": "Cardiac unit observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        7,
+        9,
+        12,
+        14,
+        17,
+        20,
+        22
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          86.0,
+          85.0,
+          89.0,
+          92.0,
+          92.0,
+          98.0,
+          101.0,
+          103.0,
+          108.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          126.0,
+          123.0,
+          122.0,
+          120.0,
+          120.0,
+          117.0,
+          110.0,
+          107.0,
+          105.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          99.0,
+          97.0,
+          95.0,
+          97.0,
+          96.0,
+          95.0,
+          95.0,
+          94.0,
+          92.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Pain and reduced output raise HR as BP falls slightly"
+      }
+    ],
+    "expected_interpretation": "Acute coronary occlusion causing pain, tachycardia, mild hypotension."
+  },
+  {
+    "scenario_id": 4,
+    "clinical_scenario": "Atrial Fibrillation",
+    "description": "Irregularly irregular tachyarrhythmia with variable rate.",
+    "patient_info": {
+      "age": 30,
+      "gender": "male",
+      "context": "Cardiac unit observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        8,
+        11,
+        15,
+        19,
+        21,
+        23,
+        27
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          85.0,
+          88.0,
+          127.0,
+          120.0,
+          128.0,
+          132.0,
+          105.0,
+          138.0,
+          132.0,
+          130.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          119.0,
+          118.0,
+          116.0,
+          118.0,
+          116.0,
+          116.0,
+          115.0,
+          110.0,
+          112.0,
+          110.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Higher ventricular rates reduce BP"
+      }
+    ],
+    "expected_interpretation": "Irregularly irregular tachyarrhythmia with variable rate."
+  },
+  {
+    "scenario_id": 5,
+    "clinical_scenario": "Bradycardia (Sinus Node Dysfunction)",
+    "description": "Pathologically slow heart rate with possible hypotension.",
+    "patient_info": {
+      "age": 23,
+      "gender": "male",
+      "context": "Post-AMI ICU monitoring"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        5,
+        8,
+        10,
+        12,
+        15,
+        18,
+        20,
+        23,
+        27,
+        31
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          55.0,
+          54.0,
+          53.0,
+          50.0,
+          49.0,
+          47.0,
+          47.0,
+          43.0,
+          44.0,
+          41.0,
+          41.0,
+          38.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          108.0,
+          108.0,
+          106.0,
+          105.0,
+          106.0,
+          104.0,
+          102.0,
+          99.0,
+          101.0,
+          96.0,
+          97.0,
+          96.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Cardiac output tracks rate in bradycardia"
+      }
+    ],
+    "expected_interpretation": "Pathologically slow heart rate with possible hypotension."
+  },
+  {
+    "scenario_id": 6,
+    "clinical_scenario": "Pericardial Tamponade",
+    "description": "Rising pericardial pressure causing hypotension and tachycardia.",
+    "patient_info": {
+      "age": 37,
+      "gender": "male",
+      "context": "Fall from height"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        6,
+        9,
+        13,
+        17,
+        20,
+        24,
+        26,
+        28
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          108.0,
+          109.0,
+          106.0,
+          102.0,
+          100.0,
+          96.0,
+          92.0,
+          90.0,
+          87.0,
+          86.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          91.0,
+          94.0,
+          99.0,
+          99.0,
+          102.0,
+          105.0,
+          111.0,
+          115.0,
+          117.0,
+          121.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Reduced stroke volume increases HR"
+      }
+    ],
+    "expected_interpretation": "Rising pericardial pressure causing hypotension and tachycardia."
+  },
+  {
+    "scenario_id": 7,
+    "clinical_scenario": "Heart Failure with Pulmonary Edema",
+    "description": "Fluid overload causing tachycardia and hypoxemia.",
+    "patient_info": {
+      "age": 42,
+      "gender": "female",
+      "context": "Emergency department chest pain"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        8,
+        11,
+        14,
+        18,
+        22,
+        24,
+        27,
+        29
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          96.0,
+          96.0,
+          101.0,
+          103.0,
+          104.0,
+          109.0,
+          110.0,
+          111.0,
+          116.0,
+          117.0,
+          118.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          93.0,
+          92.0,
+          93.0,
+          94.0,
+          90.0,
+          91.0,
+          89.0,
+          90.0,
+          88.0,
+          89.0,
+          85.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          20.0,
+          21.0,
+          22.0,
+          23.0,
+          24.0,
+          25.0,
+          26.0,
+          27.0,
+          28.0,
+          29.0,
+          30.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "heart_rate"
+        ],
+        "clinical_significance": "Dyspnea increases both RR and HR"
+      },
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Worsening oxygenation increases RR"
+      }
+    ],
+    "expected_interpretation": "Fluid overload causing tachycardia and hypoxemia."
+  },
+  {
+    "scenario_id": 8,
+    "clinical_scenario": "Hypoxemic Respiratory Failure",
+    "description": "Gas exchange failure with low SpO₂ and tachypnea.",
+    "patient_info": {
+      "age": 59,
+      "gender": "female",
+      "context": "Post-intubation in ICU"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28
+      ]
+    },
+    "measurements": {
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          91.0,
+          91.0,
+          91.0,
+          89.0,
+          86.0,
+          86.0,
+          82.0,
+          83.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          22.0,
+          24.0,
+          25.0,
+          27.0,
+          29.0,
+          31.0,
+          32.0,
+          34.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          96.0,
+          98.0,
+          102.0,
+          106.0,
+          110.0,
+          112.0,
+          115.0,
+          121.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Hypoxemia causes tachypnea"
+      }
+    ],
+    "expected_interpretation": "Gas exchange failure with low SpO₂ and tachypnea."
+  },
+  {
+    "scenario_id": 9,
+    "clinical_scenario": "Hypercapnic Respiratory Failure",
+    "description": "Ventilatory failure with high CO₂ and depressed consciousness.",
+    "patient_info": {
+      "age": 77,
+      "gender": "male",
+      "context": "COPD clinic exacerbation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        7,
+        11,
+        13,
+        17,
+        19,
+        22,
+        26
+      ]
+    },
+    "measurements": {
+      "co2_level": {
+        "unit": "mmHg",
+        "values": [
+          50.0,
+          52.0,
+          54.0,
+          59.0,
+          59.0,
+          62.0,
+          66.0,
+          67.0,
+          69.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          10.0,
+          10.0,
+          10.0,
+          9.0,
+          9.1,
+          9.0,
+          8.1,
+          8.0,
+          8.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          93.0,
+          94.0,
+          93.0,
+          92.0,
+          91.0,
+          90.0,
+          87.0,
+          88.0,
+          87.0
+        ]
+      },
+      "consciousness": {
+        "unit": "AVPU",
+        "values": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "V",
+          "V",
+          "P",
+          "P",
+          "P"
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "co2_level",
+          "consciousness"
+        ],
+        "clinical_significance": "Hypercapnia depresses consciousness at high levels"
+      }
+    ],
+    "expected_interpretation": "Ventilatory failure with high CO₂ and depressed consciousness."
+  },
+  {
+    "scenario_id": 10,
+    "clinical_scenario": "Asthma Exacerbation",
+    "description": "Airflow obstruction causing tachypnea and hypoxemia.",
+    "patient_info": {
+      "age": 67,
+      "gender": "male",
+      "context": "COPD clinic exacerbation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        5,
+        8,
+        12,
+        16,
+        20,
+        24
+      ]
+    },
+    "measurements": {
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          20.0,
+          22.0,
+          23.0,
+          25.0,
+          27.0,
+          29.0,
+          30.0,
+          32.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          94.0,
+          95.0,
+          93.0,
+          93.0,
+          92.0,
+          89.0,
+          90.0,
+          88.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          89.0,
+          94.0,
+          98.0,
+          100.0,
+          103.0,
+          110.0,
+          109.0,
+          113.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Bronchospasm leads to tachypnea and hypoxemia"
+      }
+    ],
+    "expected_interpretation": "Airflow obstruction causing tachypnea and hypoxemia."
+  },
+  {
+    "scenario_id": 11,
+    "clinical_scenario": "COPD Exacerbation",
+    "description": "Hypercapnic/hypoxic episode with increased RR, low SpO₂.",
+    "patient_info": {
+      "age": 39,
+      "gender": "female",
+      "context": "Acute dyspnea presentation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        6,
+        9,
+        13,
+        16,
+        19,
+        21
+      ]
+    },
+    "measurements": {
+      "co2_level": {
+        "unit": "mmHg",
+        "values": [
+          47.0,
+          50.0,
+          54.0,
+          55.0,
+          58.0,
+          61.0,
+          64.0,
+          65.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          90.0,
+          90.0,
+          91.0,
+          90.0,
+          91.0,
+          88.0,
+          88.0,
+          86.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          18.0,
+          19.0,
+          20.0,
+          21.0,
+          23.0,
+          24.0,
+          25.0,
+          26.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "co2_level"
+        ],
+        "clinical_significance": "Gas exchange impairment increases CO₂ and decreases SpO₂"
+      }
+    ],
+    "expected_interpretation": "Hypercapnic/hypoxic episode with increased RR, low SpO₂."
+  },
+  {
+    "scenario_id": 12,
+    "clinical_scenario": "Pulmonary Embolism",
+    "description": "Acute V/Q mismatch causing tachycardia and hypoxemia.",
+    "patient_info": {
+      "age": 57,
+      "gender": "male",
+      "context": "COPD clinic exacerbation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        12,
+        14,
+        16,
+        20,
+        23,
+        25,
+        28,
+        30
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          88.0,
+          93.0,
+          95.0,
+          98.0,
+          103.0,
+          104.0,
+          109.0,
+          112.0,
+          113.0,
+          115.0,
+          118.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          96.0,
+          97.0,
+          93.0,
+          95.0,
+          94.0,
+          93.0,
+          92.0,
+          92.0,
+          89.0,
+          87.0,
+          87.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          118.0,
+          119.0,
+          116.0,
+          113.0,
+          113.0,
+          111.0,
+          107.0,
+          106.0,
+          105.0,
+          100.0,
+          101.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "heart_rate"
+        ],
+        "clinical_significance": "Hypoxemia from V/Q mismatch elevates HR"
+      }
+    ],
+    "expected_interpretation": "Acute V/Q mismatch causing tachycardia and hypoxemia."
+  },
+  {
+    "scenario_id": 13,
+    "clinical_scenario": "Pneumonia with Fever",
+    "description": "Infectious process with fever, tachycardia, tachypnea.",
+    "patient_info": {
+      "age": 59,
+      "gender": "male",
+      "context": "ED sepsis protocol"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        11,
+        14,
+        18,
+        20,
+        22,
+        26,
+        30
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          38.0,
+          38.0,
+          38.0,
+          38.0,
+          39.0,
+          39.0,
+          39.0,
+          39.0,
+          38.0,
+          39.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          18.0,
+          19.0,
+          20.0,
+          21.0,
+          22.0,
+          22.0,
+          23.0,
+          24.0,
+          25.0,
+          26.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          85.0,
+          88.0,
+          91.0,
+          95.0,
+          97.0,
+          101.0,
+          103.0,
+          105.0,
+          108.0,
+          110.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Fever raises heart rate"
+      }
+    ],
+    "expected_interpretation": "Infectious process with fever, tachycardia, tachypnea."
+  },
+  {
+    "scenario_id": 14,
+    "clinical_scenario": "Acute Respiratory Distress Syndrome",
+    "description": "Severe hypoxemia with stiff lungs and high RR.",
+    "patient_info": {
+      "age": 41,
+      "gender": "male",
+      "context": "General medical observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        5,
+        9,
+        13,
+        17,
+        20,
+        23,
+        25,
+        28,
+        31
+      ]
+    },
+    "measurements": {
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          89.0,
+          88.0,
+          90.0,
+          87.0,
+          88.0,
+          87.0,
+          84.0,
+          82.0,
+          84.0,
+          80.0,
+          81.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          22.0,
+          24.0,
+          25.0,
+          27.0,
+          28.0,
+          29.0,
+          30.0,
+          31.0,
+          32.0,
+          33.0,
+          34.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          95.0,
+          98.0,
+          101.0,
+          105.0,
+          106.0,
+          111.0,
+          112.0,
+          115.0,
+          117.0,
+          120.0,
+          123.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Severe hypoxemia drives high RR"
+      }
+    ],
+    "expected_interpretation": "Severe hypoxemia with stiff lungs and high RR."
+  },
+  {
+    "scenario_id": 15,
+    "clinical_scenario": "Post-intubation Sedation",
+    "description": "Controlled sedation with decreased RR and HR.",
+    "patient_info": {
+      "age": 76,
+      "gender": "male",
+      "context": "COPD clinic exacerbation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        8,
+        11,
+        15,
+        19,
+        23
+      ]
+    },
+    "measurements": {
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          16.0,
+          15.0,
+          15.0,
+          14.0,
+          14.0,
+          13.0,
+          13.0,
+          12.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          85.0,
+          84.0,
+          82.0,
+          78.0,
+          75.0,
+          74.0,
+          71.0,
+          69.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          118.0,
+          117.0,
+          117.0,
+          116.0,
+          113.0,
+          112.0,
+          112.0,
+          111.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "heart_rate"
+        ],
+        "clinical_significance": "Sedation reduces RR and HR"
+      }
+    ],
+    "expected_interpretation": "Controlled sedation with decreased RR and HR."
+  },
+  {
+    "scenario_id": 16,
+    "clinical_scenario": "Oxygen Therapy Response",
+    "description": "Improving hypoxemia after oxygen initiation.",
+    "patient_info": {
+      "age": 84,
+      "gender": "female",
+      "context": "Post-intubation in ICU"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        12,
+        14,
+        17,
+        19,
+        23,
+        25,
+        29
+      ]
+    },
+    "measurements": {
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          85.0,
+          86.0,
+          87.0,
+          87.0,
+          91.0,
+          91.0,
+          93.0,
+          95.0,
+          94.0,
+          95.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          28.0,
+          27.0,
+          26.0,
+          25.0,
+          24.0,
+          22.0,
+          21.0,
+          20.0,
+          19.0,
+          18.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          109.0,
+          109.0,
+          108.0,
+          103.0,
+          99.0,
+          100.0,
+          98.0,
+          94.0,
+          93.0,
+          89.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "oxygen_saturation",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Improved oxygenation allows RR to normalize"
+      }
+    ],
+    "expected_interpretation": "Improving hypoxemia after oxygen initiation."
+  },
+  {
+    "scenario_id": 17,
+    "clinical_scenario": "Diabetic Ketoacidosis",
+    "description": "Metabolic acidosis with hyperglycemia, tachypnea (Kussmaul).",
+    "patient_info": {
+      "age": 32,
+      "gender": "female",
+      "context": "Diabetes clinic decompensation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        7,
+        10,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        31,
+        33
+      ]
+    },
+    "measurements": {
+      "blood_glucose": {
+        "unit": "mmol/L",
+        "values": [
+          18.0,
+          19.0,
+          20.0,
+          21.0,
+          22.0,
+          23.0,
+          24.0,
+          24.0,
+          25.0,
+          26.0,
+          28.0,
+          28.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          22.0,
+          23.0,
+          24.0,
+          25.0,
+          26.0,
+          27.0,
+          27.0,
+          28.0,
+          29.0,
+          30.0,
+          31.0,
+          32.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          97.0,
+          97.0,
+          101.0,
+          100.0,
+          106.0,
+          106.0,
+          108.0,
+          109.0,
+          113.0,
+          115.0,
+          116.0,
+          122.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "blood_glucose",
+          "respiratory_rate"
+        ],
+        "clinical_significance": "Acidosis severity tracks with Kussmaul breathing"
+      }
+    ],
+    "expected_interpretation": "Metabolic acidosis with hyperglycemia, tachypnea (Kussmaul)."
+  },
+  {
+    "scenario_id": 18,
+    "clinical_scenario": "Thyroid Storm",
+    "description": "Severe thyrotoxicosis with fever, tachycardia and hypertension.",
+    "patient_info": {
+      "age": 30,
+      "gender": "female",
+      "context": "Diabetes clinic decompensation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        11,
+        13,
+        16,
+        18,
+        22,
+        25
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          38.0,
+          38.0,
+          39.0,
+          40.0,
+          39.0,
+          40.0,
+          39.0,
+          40.0,
+          40.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          108.0,
+          114.0,
+          121.0,
+          125.0,
+          132.0,
+          136.0,
+          142.0,
+          145.0,
+          150.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          136.0,
+          137.0,
+          142.0,
+          143.0,
+          146.0,
+          149.0,
+          157.0,
+          159.0,
+          161.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Hypermetabolic state raises HR with fever"
+      }
+    ],
+    "expected_interpretation": "Severe thyrotoxicosis with fever, tachycardia and hypertension."
+  },
+  {
+    "scenario_id": 19,
+    "clinical_scenario": "Myxedema Coma",
+    "description": "Severe hypothyroid state with bradycardia and hypothermia.",
+    "patient_info": {
+      "age": 50,
+      "gender": "female",
+      "context": "Endocrine ward"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        5,
+        7,
+        10,
+        13,
+        16,
+        19
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          35.0,
+          35.0,
+          35.0,
+          35.0,
+          34.0,
+          34.0,
+          35.0,
+          34.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          57.0,
+          56.0,
+          52.0,
+          50.0,
+          48.0,
+          45.0,
+          42.0,
+          40.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          112.0,
+          108.0,
+          103.0,
+          101.0,
+          98.0,
+          96.0,
+          94.0,
+          90.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Hypothermia with bradycardia in severe hypothyroidism"
+      }
+    ],
+    "expected_interpretation": "Severe hypothyroid state with bradycardia and hypothermia."
+  },
+  {
+    "scenario_id": 20,
+    "clinical_scenario": "Addisonian Crisis",
+    "description": "Adrenal insufficiency with hypotension and tachycardia.",
+    "patient_info": {
+      "age": 64,
+      "gender": "female",
+      "context": "Diabetes clinic decompensation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        5,
+        7,
+        10,
+        14,
+        17,
+        21,
+        24,
+        28,
+        31
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          98.0,
+          99.0,
+          96.0,
+          92.0,
+          93.0,
+          91.0,
+          90.0,
+          87.0,
+          85.0,
+          83.0,
+          81.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          91.0,
+          91.0,
+          96.0,
+          97.0,
+          99.0,
+          101.0,
+          106.0,
+          109.0,
+          111.0,
+          110.0,
+          113.0
+        ]
+      },
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          37.0,
+          36.0,
+          38.0,
+          37.0,
+          37.0,
+          37.0,
+          38.0,
+          37.0,
+          38.0,
+          37.0,
+          38.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Hypotension from cortisol deficiency triggers tachycardia"
+      }
+    ],
+    "expected_interpretation": "Adrenal insufficiency with hypotension and tachycardia."
+  },
+  {
+    "scenario_id": 21,
+    "clinical_scenario": "Cushing Syndrome",
+    "description": "Hyper cortisol state with hypertension and mild tachycardia.",
+    "patient_info": {
+      "age": 77,
+      "gender": "female",
+      "context": "ED metabolic emergency"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        7,
+        10,
+        12,
+        15,
+        17,
+        19,
+        21,
+        25,
+        29
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          146.0,
+          145.0,
+          150.0,
+          150.0,
+          149.0,
+          151.0,
+          153.0,
+          154.0,
+          156.0,
+          160.0,
+          158.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          80.0,
+          81.0,
+          82.0,
+          85.0,
+          85.0,
+          86.0,
+          89.0,
+          87.0,
+          90.0,
+          92.0,
+          92.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Sympathetic tone modestly elevates both"
+      }
+    ],
+    "expected_interpretation": "Hyper cortisol state with hypertension and mild tachycardia."
+  },
+  {
+    "scenario_id": 22,
+    "clinical_scenario": "Electrolyte Imbalance (Hyperkalemia)",
+    "description": "High potassium with bradycardia and conduction issues.",
+    "patient_info": {
+      "age": 45,
+      "gender": "female",
+      "context": "General medical observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        6,
+        9,
+        12,
+        14,
+        16
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          69.0,
+          67.0,
+          64.0,
+          61.0,
+          58.0,
+          54.0,
+          51.0,
+          48.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          121.0,
+          120.0,
+          117.0,
+          116.0,
+          112.0,
+          111.0,
+          106.0,
+          106.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Conduction impairment slows HR and may reduce BP"
+      }
+    ],
+    "expected_interpretation": "High potassium with bradycardia and conduction issues."
+  },
+  {
+    "scenario_id": 23,
+    "clinical_scenario": "Hypothermia",
+    "description": "Low core temperature with bradycardia and hypoventilation.",
+    "patient_info": {
+      "age": 26,
+      "gender": "male",
+      "context": "Endocrine ward"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        8,
+        11,
+        13,
+        15,
+        19,
+        21,
+        23
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          34.0,
+          35.0,
+          34.0,
+          34.0,
+          33.0,
+          33.0,
+          33.0,
+          33.0,
+          33.0,
+          32.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          71.0,
+          68.0,
+          64.0,
+          63.0,
+          61.0,
+          57.0,
+          56.0,
+          54.0,
+          50.0,
+          48.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          14.0,
+          14.0,
+          13.0,
+          13.0,
+          12.0,
+          12.0,
+          11.0,
+          11.0,
+          9.8,
+          10.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Cooling depresses HR and RR"
+      }
+    ],
+    "expected_interpretation": "Low core temperature with bradycardia and hypoventilation."
+  },
+  {
+    "scenario_id": 24,
+    "clinical_scenario": "Heat Stroke",
+    "description": "Extreme hyperthermia with tachycardia and CNS dysfunction.",
+    "patient_info": {
+      "age": 57,
+      "gender": "female",
+      "context": "Diabetes clinic decompensation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        11,
+        14,
+        18,
+        22,
+        25,
+        27,
+        31,
+        33
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          40.0,
+          40.0,
+          40.0,
+          40.0,
+          40.0,
+          40.0,
+          40.0,
+          40.0,
+          41.0,
+          41.0,
+          40.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          110.0,
+          115.0,
+          117.0,
+          120.0,
+          128.0,
+          128.0,
+          136.0,
+          136.0,
+          140.0,
+          147.0,
+          152.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          20.0,
+          21.0,
+          23.0,
+          24.0,
+          26.0,
+          27.0,
+          28.0,
+          30.0,
+          31.0,
+          33.0,
+          35.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Hyperthermia drives tachycardia and tachypnea"
+      }
+    ],
+    "expected_interpretation": "Extreme hyperthermia with tachycardia and CNS dysfunction."
+  },
+  {
+    "scenario_id": 25,
+    "clinical_scenario": "Seizure Episode",
+    "description": "Active convulsion with tachycardia and hypertension.",
+    "patient_info": {
+      "age": 69,
+      "gender": "male",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        7,
+        9,
+        11,
+        14,
+        18,
+        21,
+        23
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          96.0,
+          101.0,
+          107.0,
+          114.0,
+          120.0,
+          125.0,
+          130.0,
+          135.0,
+          137.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          122.0,
+          126.0,
+          127.0,
+          129.0,
+          136.0,
+          138.0,
+          141.0,
+          143.0,
+          152.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Sympathetic surge during seizure"
+      }
+    ],
+    "expected_interpretation": "Active convulsion with tachycardia and hypertension."
+  },
+  {
+    "scenario_id": 26,
+    "clinical_scenario": "Stroke (Ischemic)",
+    "description": "Cerebral ischemia with elevated BP and fluctuating consciousness.",
+    "patient_info": {
+      "age": 62,
+      "gender": "female",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        10,
+        13,
+        16,
+        19,
+        22
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          148.0,
+          151.0,
+          153.0,
+          159.0,
+          160.0,
+          163.0,
+          161.0,
+          167.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          81.0,
+          82.0,
+          85.0,
+          86.0,
+          88.0,
+          89.0,
+          90.0,
+          92.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Stress response elevates BP and HR"
+      }
+    ],
+    "expected_interpretation": "Cerebral ischemia with elevated BP and fluctuating consciousness."
+  },
+  {
+    "scenario_id": 27,
+    "clinical_scenario": "Intracerebral Hemorrhage",
+    "description": "Acute bleed with high BP and declining consciousness.",
+    "patient_info": {
+      "age": 20,
+      "gender": "female",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        7,
+        11,
+        14,
+        16,
+        18,
+        21,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          159.0,
+          161.0,
+          163.0,
+          166.0,
+          170.0,
+          171.0,
+          178.0,
+          177.0,
+          181.0,
+          187.0,
+          187.0,
+          193.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          86.0,
+          85.0,
+          88.0,
+          86.0,
+          87.0,
+          92.0,
+          91.0,
+          91.0,
+          92.0,
+          94.0,
+          94.0,
+          94.0
+        ]
+      },
+      "consciousness": {
+        "unit": "AVPU",
+        "values": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "V",
+          "V",
+          "V",
+          "V",
+          "P",
+          "P",
+          "P",
+          "P"
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "threshold_change",
+        "parameters": [
+          "systolic_bp",
+          "consciousness"
+        ],
+        "clinical_significance": "Rising ICP reduces consciousness"
+      }
+    ],
+    "expected_interpretation": "Acute bleed with high BP and declining consciousness."
+  },
+  {
+    "scenario_id": 28,
+    "clinical_scenario": "Traumatic Brain Injury",
+    "description": "Raised ICP pattern; Cushing response possible.",
+    "patient_info": {
+      "age": 81,
+      "gender": "female",
+      "context": "Pelvic fracture - ED resuscitation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        5,
+        7,
+        9,
+        12,
+        16,
+        19,
+        23,
+        25
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          139.0,
+          142.0,
+          146.0,
+          149.0,
+          151.0,
+          157.0,
+          158.0,
+          163.0,
+          170.0,
+          169.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          71.0,
+          69.0,
+          68.0,
+          64.0,
+          62.0,
+          61.0,
+          60.0,
+          59.0,
+          57.0,
+          54.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Cushing triad pattern"
+      }
+    ],
+    "expected_interpretation": "Raised ICP pattern; Cushing response possible."
+  },
+  {
+    "scenario_id": 29,
+    "clinical_scenario": "Meningitis",
+    "description": "Infection of meninges with fever and tachycardia.",
+    "patient_info": {
+      "age": 54,
+      "gender": "female",
+      "context": "Witnessed seizure at home"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        12,
+        15,
+        19,
+        22,
+        24,
+        27,
+        29,
+        32,
+        35
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          38.0,
+          39.0,
+          39.0,
+          38.0,
+          38.0,
+          39.0,
+          38.0,
+          39.0,
+          39.0,
+          39.0,
+          40.0,
+          39.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          95.0,
+          97.0,
+          100.0,
+          104.0,
+          105.0,
+          104.0,
+          111.0,
+          111.0,
+          112.0,
+          115.0,
+          118.0,
+          122.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          18.0,
+          19.0,
+          19.0,
+          20.0,
+          20.0,
+          21.0,
+          21.0,
+          22.0,
+          22.0,
+          23.0,
+          23.0,
+          24.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Fever increases HR"
+      }
+    ],
+    "expected_interpretation": "Infection of meninges with fever and tachycardia."
+  },
+  {
+    "scenario_id": 30,
+    "clinical_scenario": "Migraine Attack",
+    "description": "Autonomic symptoms with mild BP/HR rise and pain.",
+    "patient_info": {
+      "age": 83,
+      "gender": "female",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        6,
+        10,
+        13,
+        15,
+        18,
+        20,
+        24,
+        28,
+        31,
+        34
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          79.0,
+          82.0,
+          85.0,
+          84.0,
+          84.0,
+          86.0,
+          89.0,
+          92.0,
+          90.0,
+          93.0,
+          95.0,
+          94.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          121.0,
+          119.0,
+          123.0,
+          125.0,
+          124.0,
+          125.0,
+          129.0,
+          132.0,
+          134.0,
+          134.0,
+          132.0,
+          136.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Pain-related sympathetic activation"
+      }
+    ],
+    "expected_interpretation": "Autonomic symptoms with mild BP/HR rise and pain."
+  },
+  {
+    "scenario_id": 31,
+    "clinical_scenario": "Postictal State",
+    "description": "Recovery after seizure; gradual normalization of vitals.",
+    "patient_info": {
+      "age": 54,
+      "gender": "female",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        7,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          119.0,
+          117.0,
+          112.0,
+          108.0,
+          105.0,
+          101.0,
+          98.0,
+          94.0,
+          89.0,
+          85.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          148.0,
+          145.0,
+          145.0,
+          143.0,
+          141.0,
+          137.0,
+          131.0,
+          130.0,
+          129.0,
+          127.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Gradual normalization post-seizure"
+      }
+    ],
+    "expected_interpretation": "Recovery after seizure; gradual normalization of vitals."
+  },
+  {
+    "scenario_id": 32,
+    "clinical_scenario": "Sedative Overdose",
+    "description": "CNS depression with low RR, low SpO₂ and bradycardia.",
+    "patient_info": {
+      "age": 30,
+      "gender": "female",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        5,
+        8,
+        12,
+        16,
+        19,
+        22,
+        25,
+        28
+      ]
+    },
+    "measurements": {
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          14.0,
+          13.0,
+          13.0,
+          12.0,
+          11.0,
+          11.0,
+          9.8,
+          9.0,
+          9.0,
+          8.1
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          97.0,
+          95.0,
+          93.0,
+          91.0,
+          91.0,
+          90.0,
+          89.0,
+          89.0,
+          86.0,
+          87.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          71.0,
+          69.0,
+          68.0,
+          65.0,
+          63.0,
+          62.0,
+          60.0,
+          57.0,
+          56.0,
+          55.0
+        ]
+      },
+      "consciousness": {
+        "unit": "AVPU",
+        "values": [
+          "A",
+          "A",
+          "A",
+          "V",
+          "V",
+          "V",
+          "P",
+          "P",
+          "P",
+          "P"
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "oxygen_saturation"
+        ],
+        "clinical_significance": "Hypoventilation lowers SpO₂"
+      }
+    ],
+    "expected_interpretation": "CNS depression with low RR, low SpO₂ and bradycardia."
+  },
+  {
+    "scenario_id": 33,
+    "clinical_scenario": "Opioid Overdose",
+    "description": "Severe hypoventilation with hypoxia and miosis (not tracked).",
+    "patient_info": {
+      "age": 71,
+      "gender": "male",
+      "context": "Neuro-ICU observation"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        6,
+        10,
+        12,
+        16,
+        19,
+        22
+      ]
+    },
+    "measurements": {
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          12.0,
+          11.0,
+          9.8,
+          8.9,
+          8.9,
+          8.1,
+          7.0,
+          6.0
+        ]
+      },
+      "oxygen_saturation": {
+        "unit": "%",
+        "values": [
+          96.0,
+          92.0,
+          90.0,
+          88.0,
+          88.0,
+          86.0,
+          83.0,
+          83.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          72.0,
+          70.0,
+          68.0,
+          66.0,
+          65.0,
+          61.0,
+          59.0,
+          58.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "oxygen_saturation"
+        ],
+        "clinical_significance": "Opioids depress RR causing hypoxemia"
+      }
+    ],
+    "expected_interpretation": "Severe hypoventilation with hypoxia and miosis (not tracked)."
+  },
+  {
+    "scenario_id": 34,
+    "clinical_scenario": "Benzodiazepine Withdrawal",
+    "description": "Autonomic hyperactivity with HR and BP elevation.",
+    "patient_info": {
+      "age": 23,
+      "gender": "male",
+      "context": "Found down - EMS report"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        5,
+        9,
+        13,
+        17,
+        21,
+        25,
+        27,
+        30,
+        33,
+        35
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          88.0,
+          92.0,
+          91.0,
+          92.0,
+          97.0,
+          97.0,
+          101.0,
+          103.0,
+          105.0,
+          107.0,
+          107.0,
+          108.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          125.0,
+          129.0,
+          128.0,
+          133.0,
+          134.0,
+          137.0,
+          140.0,
+          143.0,
+          141.0,
+          147.0,
+          148.0,
+          149.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Autonomic hyperactivity"
+      }
+    ],
+    "expected_interpretation": "Autonomic hyperactivity with HR and BP elevation."
+  },
+  {
+    "scenario_id": 35,
+    "clinical_scenario": "Postoperative Recovery",
+    "description": "Stabilization of vitals after surgery.",
+    "patient_info": {
+      "age": 63,
+      "gender": "female",
+      "context": "OR to PACU transfer"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        7,
+        11,
+        14,
+        17,
+        19,
+        23,
+        25,
+        28
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          94.0,
+          94.0,
+          93.0,
+          89.0,
+          87.0,
+          87.0,
+          86.0,
+          84.0,
+          83.0,
+          80.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          20.0,
+          19.0,
+          19.0,
+          18.0,
+          17.0,
+          17.0,
+          16.0,
+          15.0,
+          15.0,
+          14.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          125.0,
+          123.0,
+          121.0,
+          123.0,
+          120.0,
+          119.0,
+          118.0,
+          118.0,
+          115.0,
+          113.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "heart_rate"
+        ],
+        "clinical_significance": "Recovery from anesthesia normalizes RR and HR"
+      }
+    ],
+    "expected_interpretation": "Stabilization of vitals after surgery."
+  },
+  {
+    "scenario_id": 36,
+    "clinical_scenario": "Physical Exercise",
+    "description": "Physiologic tachycardia with increased BP and RR, then recovery.",
+    "patient_info": {
+      "age": 33,
+      "gender": "female",
+      "context": "Resting in ward bed"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        11,
+        14,
+        18,
+        22,
+        26
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          74.0,
+          74.0,
+          117.0,
+          116.0,
+          135.0,
+          133.0,
+          94.0,
+          96.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          119.0,
+          122.0,
+          128.0,
+          128.0,
+          140.0,
+          139.0,
+          125.0,
+          123.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          16.0,
+          16.0,
+          24.0,
+          24.0,
+          31.0,
+          29.0,
+          18.0,
+          18.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "respiratory_rate",
+          "heart_rate"
+        ],
+        "clinical_significance": "Exercise increases RR and HR in parallel"
+      }
+    ],
+    "expected_interpretation": "Physiologic tachycardia with increased BP and RR, then recovery."
+  },
+  {
+    "scenario_id": 37,
+    "clinical_scenario": "Resting State",
+    "description": "Stable parameters within normal limits.",
+    "patient_info": {
+      "age": 29,
+      "gender": "male",
+      "context": "Resting in ward bed"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        7,
+        11,
+        14,
+        16,
+        18,
+        20,
+        22
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          70.0,
+          71.0,
+          70.0,
+          69.0,
+          70.0,
+          70.0,
+          70.0,
+          70.0,
+          69.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          120.0,
+          121.0,
+          121.0,
+          121.0,
+          121.0,
+          120.0,
+          121.0,
+          120.0,
+          119.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          14.0,
+          14.0,
+          14.0,
+          14.0,
+          14.0,
+          14.0,
+          14.0,
+          14.0,
+          14.0
+        ]
+      }
+    },
+    "key_relationships": [],
+    "expected_interpretation": "Stable parameters within normal limits."
+  },
+  {
+    "scenario_id": 38,
+    "clinical_scenario": "Anxiety Episode",
+    "description": "Sympathetic surge with HR, BP, RR increase.",
+    "patient_info": {
+      "age": 83,
+      "gender": "female",
+      "context": "Resting in ward bed"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        3,
+        7,
+        9,
+        13,
+        16,
+        20,
+        24,
+        26,
+        29,
+        33,
+        37
+      ]
+    },
+    "measurements": {
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          77.0,
+          82.0,
+          84.0,
+          88.0,
+          91.0,
+          92.0,
+          93.0,
+          96.0,
+          101.0,
+          104.0,
+          106.0,
+          110.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          119.0,
+          123.0,
+          126.0,
+          129.0,
+          131.0,
+          129.0,
+          133.0,
+          136.0,
+          137.0,
+          140.0,
+          142.0,
+          144.0
+        ]
+      },
+      "respiratory_rate": {
+        "unit": "breaths/min",
+        "values": [
+          14.0,
+          15.0,
+          16.0,
+          17.0,
+          18.0,
+          19.0,
+          19.0,
+          20.0,
+          21.0,
+          22.0,
+          23.0,
+          24.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Sympathetic arousal increases HR and BP"
+      }
+    ],
+    "expected_interpretation": "Sympathetic surge with HR, BP, RR increase."
+  },
+  {
+    "scenario_id": 39,
+    "clinical_scenario": "Dehydration",
+    "description": "Volume depletion with mild hypotension and tachycardia.",
+    "patient_info": {
+      "age": 35,
+      "gender": "female",
+      "context": "Resting in ward bed"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        2,
+        4,
+        7,
+        11,
+        14,
+        16,
+        18,
+        22,
+        25,
+        27
+      ]
+    },
+    "measurements": {
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          113.0,
+          113.0,
+          113.0,
+          110.0,
+          107.0,
+          105.0,
+          104.0,
+          101.0,
+          101.0,
+          98.0,
+          96.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          82.0,
+          84.0,
+          86.0,
+          87.0,
+          90.0,
+          90.0,
+          94.0,
+          97.0,
+          97.0,
+          102.0,
+          103.0
+        ]
+      },
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          36.0,
+          38.0,
+          37.0,
+          37.0,
+          37.0,
+          38.0,
+          38.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "inverse_correlation",
+        "parameters": [
+          "systolic_bp",
+          "heart_rate"
+        ],
+        "clinical_significance": "Volume depletion"
+      }
+    ],
+    "expected_interpretation": "Volume depletion with mild hypotension and tachycardia."
+  },
+  {
+    "scenario_id": 40,
+    "clinical_scenario": "Blood Transfusion Reaction",
+    "description": "Fever, tachycardia and possible hypotension during transfusion.",
+    "patient_info": {
+      "age": 66,
+      "gender": "male",
+      "context": "Postoperative day 1"
+    },
+    "time_points": {
+      "unit": "minutes",
+      "values": [
+        0,
+        4,
+        8,
+        10,
+        13,
+        17,
+        20,
+        22,
+        25
+      ]
+    },
+    "measurements": {
+      "temperature": {
+        "unit": "°C",
+        "values": [
+          38.0,
+          38.0,
+          37.0,
+          37.0,
+          38.0,
+          38.0,
+          38.0,
+          38.0,
+          39.0
+        ]
+      },
+      "heart_rate": {
+        "unit": "bpm",
+        "values": [
+          85.0,
+          89.0,
+          93.0,
+          94.0,
+          99.0,
+          102.0,
+          105.0,
+          105.0,
+          110.0
+        ]
+      },
+      "systolic_bp": {
+        "unit": "mmHg",
+        "values": [
+          122.0,
+          119.0,
+          117.0,
+          114.0,
+          113.0,
+          111.0,
+          108.0,
+          108.0,
+          106.0
+        ]
+      }
+    },
+    "key_relationships": [
+      {
+        "relationship": "direct_correlation",
+        "parameters": [
+          "temperature",
+          "heart_rate"
+        ],
+        "clinical_significance": "Fever response raises HR"
+      }
+    ],
+    "expected_interpretation": "Fever, tachycardia and possible hypotension during transfusion."
+  }
+]
