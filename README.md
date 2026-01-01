@@ -80,7 +80,7 @@ The tags will be used to filter selected model(s) for each stage, see `parse_arg
 
 Trained on our [fine-tuning dataset](#fine-tune), *ClinDiag-GPT* showed superior performance in clinical diagnostic procedures. Although we can't provide direct API access to our fine-tuned model for security and cost considerations, feel free to chat with ClinDiag-GPT on our [demo website](https://clindiag.streamlit.app/).
 
-Running the demo on our website doesn't require any additional installation or configuration. It normally takes 10-20 mins to go through a full demo case.
+Running the demo on our website doesn't require any additional installation or configuration. When interacting with human, it normally takes 10-20 mins to go through a full demo case.
 
 ### 🏗 ClinDiag-Framework <a name="clindiag-framework"></a>
 
@@ -152,9 +152,9 @@ This is to simulate the human-alone scenario where a physician performs the clin
 (clindiag) python code/human_alone.py --data_dir benchmark_dataset
 ```
 
-### Ablation Study <a name="ablation"></a>
+### Additional Study <a name="ablation"></a>
 
-The following scripts were used for ablation study. We examined the effects of (1) multi-doctor collaboration, (2) introducing a critic agent, and (3) prompt engineering on diagnostic performance. 
+The following scripts were used for additional study. We examined the effects of (1) multi-doctor collaboration, (2) introducing a critic agent, and (3) prompt engineering on diagnostic performance. 
 
 #### 1. Multi-doctor agents <a name="multi-doctor"></a>
 
