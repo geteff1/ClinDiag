@@ -100,7 +100,7 @@ To test out the 2-agent *ClinDiag-Framework*, run:
 
 ### ClinDiag-Benchmark <a name="benchmark"></a>
 
-`./benchmark_dataset/`
+`Clindiag_Benchmark.zip`
 
 A comprehensive clinical dataset of 2,021 real-world cases, encompassing both rare and common diseases across 32 specialties.
 
