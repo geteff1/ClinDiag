@@ -1,58 +1,17 @@
 [
     {
-        "model": "gpt-3.5-turbo",
+        "model": "model_name",
         "api_key": "[YOUR_API_KEY]",
+        "base_url": "base_url(optional)",
         "tags": [
-            "gpt-3.5-turbo"
+            "model_tag"
         ]
     },
     {
-        "model": "gpt-4o-mini",
+        "model": "model_name",
         "api_key": "[YOUR_API_KEY]",
         "tags": [
-            "gpt-4o-mini"
-        ]
-    },
-    {
-        "model": "gpt-4o",
-        "api_key": "[YOUR_API_KEY]",
-        "tags": [
-            "gpt-4o"
-        ]
-    },
-    {
-        "model": "claude-3-haiku",
-        "api_key": "[YOUR_API_KEY]",
-        "tags": [
-            "claude-3-haiku"
-        ]
-    },
-    {
-        "model": "qwen2.5-72b-instruct",
-        "api_key": "[YOUR_API_KEY]",
-        "tags": [
-            "qwen2.5-72b-instruct"
-        ]
-    },
-    {
-        "model": "qwen2.5-32b-instruct",
-        "api_key": "[YOUR_API_KEY]",
-        "tags": [
-            "qwen2.5-32b-instruct"
-        ]
-    },
-    {
-        "model": "qwen2.5-14b-instruct",
-        "api_key": "[YOUR_API_KEY]",
-        "tags": [
-            "qwen2.5-14b-instruct"
-        ]
-    },
-    {
-        "model": "qwen2.5-7b-instruct",
-        "api_key":"[YOUR_API_KEY]",
-        "tags": [
-            "qwen2.5-7b-instruct"
+            "model_tag"
         ]
     }
 ]
